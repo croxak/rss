@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>El Testigo — Videos</title>
+    <link>https://eltestigo.com</link>
+    <description>Videos de El Testigo</description>
+    <language>es</language>
+    <lastBuildDate>Wed, 22 Apr 2026 22:21:59 +0000</lastBuildDate>
+    <atom:link rel="self" href="https://croxak.github.io/rss/videos/feed.xml" type="application/rss+xml" />
+    <image>
+      <url>https://eltestigo.com/logo.png</url>
+      <title>El Testigo — Videos</title>
+      <link>https://eltestigo.com</link>
+      <width>144</width>
+      <height>144</height>
+    </image>
+  </channel>
+</rss>
