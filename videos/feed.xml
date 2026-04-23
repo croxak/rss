@@ -5,7 +5,7 @@
     <link>https://eltestigo.com</link>
     <description>Videos de El Testigo</description>
     <language>es</language>
-    <lastBuildDate>Thu, 23 Apr 2026 04:04:25 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 04:19:39 +0000</lastBuildDate>
     <atom:link rel="self" href="https://croxak.github.io/rss/videos/feed.xml" type="application/rss+xml" />
     <image>
       <url>https://eltestigo.com/logo.png</url>
@@ -14,5 +14,17 @@
       <width>144</width>
       <height>144</height>
     </image>
-  </channel>
+    <item>
+    <title><![CDATA[Abinader sobre corrupción: “Me he sentido decepcionado y traicionado por gente cercana” - Video]]></title>
+    <link>https://elnuevodiario.com.do/abinader-sobre-corrupcion-me-he-sentido-decepcionado-y-traicionado-por-gente-cercana/</link>
+    <description><![CDATA[El presidente Luis Abinader, en una entrevista para El Show del Mediodía, expresó su decepción y traición por personas cercanas involucradas en corrupción durante su gestión. Afirmó que el Ministerio Público es independiente y que los responsables deben pagar con cárcel y devolver lo robado. Abinader recordó que la preocupación debe surgir cuando no se detectan casos de corrupción en un gobierno.
+
+El mandatario también habló sobre reformas en la Constitución para evitar la reelección y mencionó planes de reforma en la Seguridad Social y la Policía. En el sector eléctrico, anunció mejoras en la generación y la despolitización de las distribuidoras.
+
+En cuanto a la crisis internacional, Abinader aseguró que ha tomado medidas de austeridad para mitigar las alzas de precios. Estas declaraciones se realizaron tras la inauguración de la nueva entrada de Samaná, que incluye mejoras viales y de infraestructura. <iframe src="https://player.cloudinary.com/embed/?cloud_name=dqbrvalg6&amp;public_id=videos/original/20260423_041540_original&amp;fluid=true" width="640" height="360" allow="autoplay; fullscreen" frameborder="0"></iframe>]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1776917882/videos/thumbnails/20260423_041801_thumbnail.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 23 Apr 2026 04:19:39 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-video-20260423041939</guid>
+  </item>
+</channel>
 </rss>
