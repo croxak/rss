@@ -5,7 +5,7 @@
     <link>https://eltestigo.com</link>
     <description>Videos de El Testigo</description>
     <language>es</language>
-    <lastBuildDate>Thu, 23 Apr 2026 04:21:29 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 18:25:17 +0000</lastBuildDate>
     <atom:link rel="self" href="https://croxak.github.io/rss/videos/feed.xml" type="application/rss+xml" />
     <image>
       <url>https://eltestigo.com/logo.png</url>
@@ -14,5 +14,15 @@
       <width>144</width>
       <height>144</height>
     </image>
-  </channel>
+    <item>
+    <title><![CDATA[Circulan videos del actor y exluchador estadounidense John Cena en Puerto Plata - Video]]></title>
+    <link>https://www.diariolibre.com/revista/farandula/2026/04/23/circulan-videos-del-actor-john-cena-en-puerto-plata/3511763</link>
+    <description><![CDATA[La presencia del actor y exluchador estadounidense John Cena en la costa norte de la República Dominicana ha captado la atención de sus fanáticos. Videos difundidos en redes sociales lo muestran caminando por la playa El Pueblito en Puerto Plata, interactuando con ciudadanos y un equipo técnico. Esta situación ha generado especulaciones sobre un posible rodaje en la zona.
+
+Testigos aseguran que Cena se mostró accesible, saludando a los presentes y moviéndose con naturalidad en el entorno turístico. La noticia ha sido ampliamente compartida en plataformas digitales, reflejando el interés que genera la figura de Cena en el público dominicano. <iframe src="https://player.cloudinary.com/embed/?cloud_name=dqbrvalg6&amp;public_id=videos/original/20260423_182159_original&amp;fluid=true" width="640" height="360" allow="autoplay; fullscreen" frameborder="0"></iframe>]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1776968564/videos/thumbnails/20260423_182243_thumbnail.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 23 Apr 2026 18:25:17 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-video-20260423182517</guid>
+  </item>
+</channel>
 </rss>
