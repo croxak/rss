@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" version="2.0">
   <channel>
     <title>El Testigo — Videos</title>
     <link>https://eltestigo.com</link>
     <description>Videos de El Testigo</description>
     <language>es</language>
-    <lastBuildDate>Wed, 22 Apr 2026 22:21:59 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Apr 2026 01:53:02 +0000</lastBuildDate>
     <atom:link rel="self" href="https://croxak.github.io/rss/videos/feed.xml" type="application/rss+xml" />
     <image>
       <url>https://eltestigo.com/logo.png</url>
@@ -14,5 +14,18 @@
       <width>144</width>
       <height>144</height>
     </image>
+    <item>
+      <title>Abinader sobre corrupción: “Me he sentido decepcionado y traicionado por gente cercana”</title>
+      <link>https://eltestigo.com</link>
+      <pubDate>Thu, 23 Apr 2026 01:53:02 +0000</pubDate>
+      <guid isPermaLink="false">eltestigo-video-20260423015302</guid>
+      <description>El presidente Luis Abinader, en una entrevista para El Show del Mediodía, expresó sentirse decepcionado y traicionado por personas cercanas debido a casos de corrupción. Destacó la independencia del Ministerio Público y la necesidad de que los culpables paguen con cárcel. Abinader también habló sobre reformas constitucionales para evitar la reelección y avances en el sector eléctrico. Además, mencionó medidas de austeridad para mitigar la crisis internacional. Estas declaraciones se realizaron tras la inauguración de la nueva entrada de Samaná, que incluye una reconstrucción vial de 1.2 kilómetros, ampliación a cuatro carriles e iluminación.</description>
+      <enclosure url="https://res.cloudinary.com/dqbrvalg6/video/upload/v1776908157/videos/original/2026-04-22_original.mp4" type="video/mp4" length="0" />
+      <media:content url="https://res.cloudinary.com/dqbrvalg6/video/upload/v1776908157/videos/original/2026-04-22_original.mp4" medium="video" type="video/mp4">
+        <media:thumbnail url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1776909128/videos/thumbnails/2026-04-22_thumbnail.jpg" />
+        <media:title>Abinader sobre corrupción: “Me he sentido decepcionado y traicionado por gente cercana”</media:title>
+        <media:description>El presidente Luis Abinader, en una entrevista para El Show del Mediodía, expresó sentirse decepcionado y traicionado por personas cercanas debido a casos de corrupción. Destacó la independencia del Ministerio Público y la necesidad de que los culpables paguen con cárcel. Abinader también habló sobre reformas constitucionales para evitar la reelección y avances en el sector eléctrico. Además, mencionó medidas de austeridad para mitigar la crisis internacional. Estas declaraciones se realizaron tras la inauguración de la nueva entrada de Samaná, que incluye una reconstrucción vial de 1.2 kilómetros, ampliación a cuatro carriles e iluminación.</media:description>
+      </media:content>
+    </item>
   </channel>
 </rss>
