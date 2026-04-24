@@ -7,12 +7,24 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 24 Apr 2026 20:21:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 24 Apr 2026 20:42:24 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
+  <item>
+    <title><![CDATA[Daños detectados en el Quisqueya tras concierto superan los RD$3.6 millones; promotores asumirán monto]]></title>
+    <link>https://n.com.do/2026/04/24/danos-detectados-en-el-quisqueya-tras-concierto-supera-los-rd3-6-millones-promotores-asumiran-monto/</link>
+    <description><![CDATA[El Estadio Quisqueya sufrió daños en su terreno tras un concierto, con un costo de reparación de 3.6 millones de pesos. Los promotores del evento asumirán este gasto, conforme al contrato de alquiler. A pesar de estos daños, el Patronato para la Administración del Estadio Quisqueya asegura que el terreno estará en óptimas condiciones antes del torneo de béisbol de los Juegos Centroamericanos y del Caribe Santo Domingo 2026.
+
+Esta garantía fue ofrecida tras una reunión con representantes del Comité Organizador de los Juegos, el Ministerio de Deportes, LIDOM y la Oficina del Comisionado Nacional de Béisbol. José Monegro, presidente del Comité Organizador, expresó su satisfacción con el plan de mantenimiento presentado.
+
+Las demás áreas del estadio, que fueron recientemente adecuadas, se encuentran en perfecto estado. En la reunión participaron figuras como Vitelio Mejía Ortiz, presidente de LIDOM, y Miguel Guerra, presidente de los Tigres del Licey, entre otros.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777063295/noticias/articles/20260424_204135_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 24 Apr 2026 20:42:24 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260424204224</guid>
+  </item>
 </channel>
 </rss>
