@@ -6,12 +6,22 @@
   <link>https://eltestigo.com</link>
   <description>Editoriales de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 25 Apr 2026 17:48:28 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Apr 2026 17:50:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/editorial/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Editorial</title>
     <link>https://eltestigo.com</link>
   </image>
+  <item>
+    <title><![CDATA[Test 123]]></title>
+    <link>https://eltestigo.com</link>
+    <description><![CDATA[Hay una mala costumbre que nos está haciendo daño. Aquí cuesta reconocer el mérito ajeno. Siempre aparece alguien con la rebaja lista, diciendo que si logró eso porque tiene dinero, que si fue por relaciones, que si tuvo ayuda, que si así cualquiera. Nunca falta una excusa para restarle valor al esfuerzo de otro.
+
+Pero casi nadie ve las horas que no se enseñan. Nadie ve el sacrificio, la presión, los fracasos, la disciplina, los días malos, el trabajo callado, las noches largas y la constancia que hay detrás de cualquier logro real. Es más fácil desacreditar que construir. Más cómodo minimizar que admitir que otro sí se fajó y lo consiguió.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777139355/noticias/articles/20260425_174914_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 25 Apr 2026 17:50:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-editorial-20260425175019</guid>
+  </item>
 </channel>
 </rss>
