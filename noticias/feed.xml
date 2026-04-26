@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 26 Apr 2026 01:13:24 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 26 Apr 2026 03:06:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-      <item>
+        <item>
+    <title><![CDATA[Donald Trump confirma detención de tirador tras evacuación en gala de corresponsales]]></title>
+    <link>https://hoy.com.do/el-mundo/estados-unidos/donald-trump-confirma-detencion-tirador-evacuacion-gala-corresponsales_1084888_amp.html</link>
+    <description><![CDATA[Donald Trump, presidente de EE.UU., informó que un tirador ha sido detenido después de unos aparentes disparos en una cena de gala en Washington. 
+
+Trump fue evacuado del evento y sugirió que no se suspenda la gala.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777172759/noticias/articles/20260426_030559_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 26 Apr 2026 03:06:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260426030631</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Donald Trump es evacuado por un incidente de seguridad durante la cena de corresponsales de la Casa Blanca]]></title>
     <link>https://www.univision.com/noticias/estados-unidos/donald-trump-es-evacuado-por-un-incidente-de-seguridad-durante-la-cena-de-corresponsales-de-la-casa-blanca</link>
     <description><![CDATA[El presidente Donald Trump y otros altos líderes, incluyendo a J. D. Vance, fueron evacuados de la cena anual de corresponsales de la Casa Blanca tras una amenaza no especificada. 
