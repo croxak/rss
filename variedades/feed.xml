@@ -7,12 +7,22 @@
   <link>https://eltestigo.com</link>
   <description>Variedades de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 25 Apr 2026 19:32:30 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 26 Apr 2026 19:09:12 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/variedades/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Variedades</title>
     <link>https://eltestigo.com</link>
   </image>
+  <item>
+    <title><![CDATA[Centro Cultural Rainieri hace historia en Punta Cana con galería de arte al aire libre]]></title>
+    <link>https://www.arecoa.com/destinos/2026/04/20/centro-cultural-rainieri-hace-historia-en-punta-cana-con-galeria-de-arte-al-aire-libre/</link>
+    <description><![CDATA[El Centro Cultural Rainieri en Punta Cana ha transformado su entorno en una galería de arte al aire libre. Desde el 17 de abril de 2026, los visitantes pueden disfrutar de 77 reproducciones fotográficas de obras maestras del arte occidental, abarcando desde el siglo XII hasta el XX.
+
+La exposición, parte del proyecto "El Prado en nosotros", se extiende desde la explanada del Centro Cultural Rainieri hasta la Capilla Nuestra Señora de Punta Cana. Curada por Sara Hermann y Orlando Isaac, busca integrar el arte en la vida cotidiana de la zona.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777230507/noticias/articles/20260426_190827_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 26 Apr 2026 19:09:12 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-variedades-20260426190912</guid>
+  </item>
 </channel>
 </rss>
