@@ -6,12 +6,47 @@
   <link>https://eltestigo.com</link>
   <description>Artículos de opinión de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 01 May 2026 15:50:34 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 01 May 2026 15:51:54 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/opinion/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Opinión</title>
     <link>https://eltestigo.com</link>
   </image>
+  <item>
+    <title><![CDATA[Esos postes no son para la carretera. Son para la foto.]]></title>
+    <link>https://eltestigo.com</link>
+    <author>Fernando Luis Rodríguez</author>
+    <description><![CDATA[La última vez que pasé por la autopista 6 de Noviembre me puse a contar postes. No fue algo que planifiqué. Pero uno empieza a notar cuando algo no cuadra. Ahí estaban: uno, dos, cinco, doce, veinte... postes de alumbrado del tipo que uno ve en la John F. Kennedy o en el malecón, plantados uno tras otro en una vía que es, sin discusión, una autopista. Y me hice la pregunta que se hace cualquiera que conozca el tema: ¿quién autorizó esto? ¿Con qué base técnica? ¿O es que ya el criterio técnico no se necesita?
+
+Primero lo básico: un poste de calle no es un poste de Carretera
+
+Esto es algo que vale la pena explicar bien, porque a simple vista parecen lo mismo. Pero no lo son.
+
+Un poste de calle está diseñado para iluminar hacia abajo y a los lados, en un radio corto. Su trabajo es que la luz llegue a la acera, al peatón, al frente de los negocios. Por eso son relativamente bajos —entre 6 y 10 metros— y la luminaria apunta en varias direcciones a la vez. Están pensados para velocidades lentas, mucho peatón, mucha interacción cercana.
+
+Un poste de carretera o autopista es otra categoría completamente. Más alto —entre 12 y 16 metros—, con una luminaria que proyecta la luz en un ángulo muy específico: hacia adelante, cubriendo un tramo largo de calzada de forma pareja, sin deslumbrar al conductor que viene de frente. El haz de luz es asimétrico. Calculado. No es el mismo chorro de luz que el del poste de ciudad.
+
+Y hay un detalle que casi nadie sabe y que tiene consecuencias serias: los postes diseñados para autopistas son lo que en ingeniería se llama postes fusibles o de ruptura controlada. Si un vehículo los golpea —y en una autopista eso pasa—, el poste está diseñado para ceder de una manera específica, calculada para minimizar el daño al ocupante del vehículo. Un poste urbano estándar no tiene esa característica. No fue diseñado para eso.
+
+Entonces lo que está pasando en la 6 de Noviembre no es solo un problema de estética ni de dinero mal gastado. Es que el poste equivocado, en el lugar equivocado, puede ser más peligroso que no tener poste.
+
+¿Y por qué ni siquiera hacen falta en toda la autopista?
+
+Aquí viene algo que le puede sonar raro a mucha gente, pero que cualquier manual internacional de ingeniería vial confirma: las autopistas y carreteras de alta velocidad no necesitan iluminación artificial continua a lo largo de todo su recorrido.No es que sea un lujo que no podemos pagar. Es que técnicamente no corresponde.
+
+El conductor que va a 100 km/h no necesita que el entorno esté iluminado como si estuviera buscando parqueo en el Centro Olímpico. Lo que necesita es que la vía misma le diga dónde está: que el carril esté marcado, que el borde de la calzada sea visible, que las señales le indiquen qué viene. Eso se logra con buena pintura reflectiva, buenas señales y elementos retroreflectantes en los bordes. No con postes.
+
+Hay además un problema que crear al poner luz continua donde no corresponde. El ojo humano se adapta. El conductor que lleva varios kilómetros bajo iluminación artificial se acostumbra a esa luz. Y cuando esa luz se interrumpe —porque falló un poste, porque se fue la energía, porque terminó el tramo iluminado— el ojo queda momentáneamente sin poder ver bien. Los especialistas llaman a esto el efecto agujero negro. Es, paradójicamente, un riesgo que se crea por la misma luz que pusieron para dar seguridad.
+
+¿Dónde sí tiene sentido poner iluminación en una autopista?
+
+En puntos muy concretos. Esto no es opinión: está en los manuales técnicos internacionales —tanto los americanos (AASHTO/IES RP-8) como los europeos (EN 13201).
+
+La iluminación artificial en vías rápidas se justifica en las entradas y salidas (las rampas), donde el conductor tiene que tomar decisiones rápidas con la geometría cambiando; en las estaciones de peaje; en puentes donde se reduce el ancho de la calzada; en túneles y los tramos justo antes y después; en zonas de obras activas; y en áreas de servicio y descanso.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777650655/noticias/articles/20260501_155054_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 01 May 2026 15:51:54 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-opinion-20260501155154</guid>
+  </item>
 </channel>
 </rss>
