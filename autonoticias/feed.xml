@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 12 May 2026 18:57:11 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 12 May 2026 18:57:28 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                            <item>
+    <title><![CDATA[Salud Pública llama a no alarmarse por norovirus y aclara confusión con hantavirus]]></title>
+    <link>https://n.com.do/2026/05/12/salud-publica-llama-a-no-alarmarse-por-norovirus-y-aclara-confusion-con-hantavirus-tras-llegada-de-crucero/</link>
+    <description><![CDATA[El Ministerio de Salud Pública ha llamado a la calma respecto al norovirus, aclarando que la alerta surgió por una confusión con el hantavirus, una enfermedad diferente.
+
+El norovirus provoca síntomas gastrointestinales comunes y no representa una amenaza sanitaria extraordinaria. Las autoridades instan a evitar el alarmismo y la desinformación.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778612108/autonoticias/articles/20260512_185508_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 12 May 2026 18:57:28 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260512185728</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Leonel arremete contra el Gobierno y asegura que RD vive la peor caída en inversión pública del siglo]]></title>
     <link>https://eldia.com.do/leonel-reanuda-la-voz-del-pueblo-y-arremete-contra-el-gobierno/</link>
     <description><![CDATA[Leonel Fernández, expresidente y líder de la Fuerza del Pueblo, arremetió contra el Gobierno dominicano, asegurando que el país vive la peor caída en inversión pública del siglo. Según Fernández, el gasto corriente supera ampliamente la inversión en obras y desarrollo sostenible.
@@ -1325,20 +1337,6 @@ Sanz Lovatón destacó el seguimiento constante del presidente Luis Abinader y l
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777344578/autonoticias/articles/20260428_024938_article.png" type="image/png"/>
     <pubDate>Tue, 28 Apr 2026 02:51:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260428025100</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Abinader crea Comisión para la Coordinación y Dirección del Plan San Juan y designa su director ejecutivo]]></title>
-    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-crea-comision-para-la-coordinacion-y-direccion-del-plan-san-juan-y</link>
-    <description><![CDATA[El presidente Luis Abinader ha emitido los Decretos 236-26 y 285-26, destinados a impulsar el desarrollo integral de la provincia San Juan. Estos decretos establecen la creación de una Comisión para la Coordinación y Dirección del Plan San Juan, con Carlos Alessandry Roa Howley como director ejecutivo.
-
-La Comisión, compuesta por representantes de diversas entidades, se encargará de liderar la transformación económica de la región, diversificando la matriz productiva y coordinando proyectos de infraestructura clave.
-
-La Dirección Ejecutiva tendrá la responsabilidad de coordinar las acciones técnicas y administrativas necesarias para la ejecución del plan, asegurando el cumplimiento de los cronogramas y la administración de los fondos asignados.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777339284/autonoticias/articles/20260428_012124_article.png" type="image/png"/>
-    <pubDate>Tue, 28 Apr 2026 01:22:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260428012201</guid>
   </item>
 </channel>
 </rss>
