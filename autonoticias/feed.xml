@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 12 May 2026 18:57:44 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 12 May 2026 18:57:58 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                <item>
+    <title><![CDATA[Gallup-RD: Leonel retiene control de la FP con un 64.9 %; Gonzalo lleva la delantera en el PLD con 48.3 %]]></title>
+    <link>https://robertocavada.com/gallup-rd-leonel-retiene-control-de-la-fp-con-un-64-9-gonzalo-lleva-la-delantera-en-el-pld-con-48-3/</link>
+    <description><![CDATA[La encuesta de Gallup República Dominicana revela que Leonel Fernández mantiene el control de la Fuerza del Pueblo con un 64.9 % de apoyo. Omar Fernández se posiciona con una imagen positiva del 54.2 %, superando ligeramente a Leonel Fernández.
+
+En el PLD, Gonzalo Castillo lidera con un 48.3 %, pero un 21.8 % de los simpatizantes no apoya a ninguna figura presidencial interna, reflejando un vacío de liderazgo.
+
+La Fuerza del Pueblo y el PLD están prácticamente empatados en simpatía partidaria nacional, con 19.6 % y 19.5 % respectivamente. Un 23.5 % de los entrevistados no simpatiza con ninguna organización política.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778612080/autonoticias/articles/20260512_185440_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 12 May 2026 18:57:58 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260512185758</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Kevin Warsh es confirmado por el Senado y se perfila como nuevo presidente de la Fed]]></title>
     <link>https://n.com.do/2026/05/12/kevin-warsh-es-confirmado-por-el-senado-y-se-perfila-como-nuevo-presidente-de-la-fed/</link>
     <description><![CDATA[El Senado de Estados Unidos ha dado luz verde para avanzar a la votación final sobre la candidatura de Kevin Warsh como presidente de la Reserva Federal. La votación se llevará a cabo antes del viernes, cuando Jerome Powell dejará el cargo.
@@ -1325,20 +1339,6 @@ Los detenidos, entre ellos 33 hombres, 7 mujeres y 9 menores de edad, fueron pue
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777384569/autonoticias/articles/20260428_135608_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 28 Apr 2026 13:56:46 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260428135646</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Indomet prevé aguaceros fuertes, tormentas eléctricas y ráfagas de viento esta tarde por incidencia de vaguadas]]></title>
-    <link>https://www.presidencia.gob.do/noticias/indomet-preve-aguaceros-fuertes-tormentas-electricas-y-rafagas-de-viento-esta-tarde-por</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) prevé aguaceros fuertes, tormentas eléctricas y ráfagas de viento para la tarde y noche de este martes en varias regiones del país. Esto se debe al acercamiento de una vaguada en superficie y la incidencia de otra en varios niveles de la troposfera.
-
-Las provincias en alerta incluyen Espaillat, Hermanas Mirabal, La Vega, Monseñor Nouel, Santiago Rodríguez, Samaná, Hato Mayor y Puerto Plata. Santiago, María Trinidad Sánchez, Duarte y Sánchez Ramírez están bajo aviso meteorológico por riesgo de inundaciones y deslizamientos de tierra.
-
-El Indomet recomienda a la población seguir las informaciones meteorológicas oficiales y las orientaciones de los organismos de protección civil.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777383758/autonoticias/articles/20260428_134236_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 28 Apr 2026 13:43:43 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260428134343</guid>
   </item>
 </channel>
 </rss>
