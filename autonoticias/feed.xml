@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 12 May 2026 18:57:28 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 12 May 2026 18:57:44 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                              <item>
+    <title><![CDATA[Kevin Warsh es confirmado por el Senado y se perfila como nuevo presidente de la Fed]]></title>
+    <link>https://n.com.do/2026/05/12/kevin-warsh-es-confirmado-por-el-senado-y-se-perfila-como-nuevo-presidente-de-la-fed/</link>
+    <description><![CDATA[El Senado de Estados Unidos ha dado luz verde para avanzar a la votación final sobre la candidatura de Kevin Warsh como presidente de la Reserva Federal. La votación se llevará a cabo antes del viernes, cuando Jerome Powell dejará el cargo.
+
+Warsh, nominado por Donald Trump, necesita una mayoría simple para ser confirmado. Los republicanos cuentan con 53 de los 100 asientos en el Senado, y el senador demócrata John Fetterman ha mostrado su apoyo a Warsh.
+
+La votación llega tras meses de presión de Trump sobre Powell para que la Reserva Federal reduzca los tipos de interés. Una investigación contra Powell por supuesto fraude fue desestimada por el Departamento de Justicia.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778612095/autonoticias/articles/20260512_185454_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 12 May 2026 18:57:44 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260512185744</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Salud Pública llama a no alarmarse por norovirus y aclara confusión con hantavirus]]></title>
     <link>https://n.com.do/2026/05/12/salud-publica-llama-a-no-alarmarse-por-norovirus-y-aclara-confusion-con-hantavirus-tras-llegada-de-crucero/</link>
     <description><![CDATA[El Ministerio de Salud Pública ha llamado a la calma respecto al norovirus, aclarando que la alerta surgió por una confusión con el hantavirus, una enfermedad diferente.
@@ -1325,18 +1339,6 @@ El Indomet recomienda a la población seguir las informaciones meteorológicas o
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777383758/autonoticias/articles/20260428_134236_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 28 Apr 2026 13:43:43 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260428134343</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Sanz Lovatón asegura plan del Gobierno está dando resultado ante impacto de crisis por conflicto con Irán]]></title>
-    <link>https://n.com.do/2026/04/27/sanz-lovaton-asegura-plan-del-gobierno-esta-dando-resultado-ante-impacto-de-crisis-por-conflicto-con-iran/</link>
-    <description><![CDATA[El ministro de Industria, Comercio y Mipymes, Eduardo Sanz Lovatón, aseguró que el plan del Gobierno para mitigar el impacto económico del conflicto con Irán está funcionando. A pesar de las variaciones en los precios de los combustibles, no ha habido aumentos en los productos de la canasta básica ni problemas de abastecimiento.
-
-Sanz Lovatón destacó el seguimiento constante del presidente Luis Abinader y las reuniones con empresarios, sindicatos y partidos políticos como elementos clave para mantener la estabilidad en el país.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777344578/autonoticias/articles/20260428_024938_article.png" type="image/png"/>
-    <pubDate>Tue, 28 Apr 2026 02:51:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260428025100</guid>
   </item>
 </channel>
 </rss>
