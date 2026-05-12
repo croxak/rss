@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 12 May 2026 18:57:58 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 12 May 2026 18:59:36 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Indotel lanza campaña nacional contra extorsión y fraude digital para fortalecer la seguridad en línea en el país]]></title>
+    <link>https://www.presidencia.gob.do/noticias/indotel-lanza-campana-nacional-contra-extorsion-y-fraude-digital-para-fortalecer-la</link>
+    <description><![CDATA[El Instituto Dominicano de las Telecomunicaciones (Indotel) ha lanzado una campaña nacional para prevenir la extorsión y el fraude digital en el país. Esta iniciativa se desarrollará durante todo el año 2026 y contará con seis piezas audiovisuales.
+
+El presidente del Consejo Directivo de Indotel, Guido Gómez Mazara, explicó que la campaña busca educar y sensibilizar a la población sobre los riesgos del entorno digital. La extorsión, el fraude y el robo de identidad son crímenes graves con sanciones de hasta 30 años de prisión.
+
+La campaña incluirá mensajes claros y directos, así como testimonios de personajes reconocidos para visibilizar la problemática. Indotel reafirma su compromiso de garantizar la seguridad digital bajo el lema: “Protegemos tu tranquilidad digital”.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778612269/autonoticias/articles/20260512_185748_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 12 May 2026 18:59:36 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260512185936</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gallup-RD: Leonel retiene control de la FP con un 64.9 %; Gonzalo lleva la delantera en el PLD con 48.3 %]]></title>
     <link>https://robertocavada.com/gallup-rd-leonel-retiene-control-de-la-fp-con-un-64-9-gonzalo-lleva-la-delantera-en-el-pld-con-48-3/</link>
     <description><![CDATA[La encuesta de Gallup República Dominicana revela que Leonel Fernández mantiene el control de la Fuerza del Pueblo con un 64.9 % de apoyo. Omar Fernández se posiciona con una imagen positiva del 54.2 %, superando ligeramente a Leonel Fernández.
@@ -1325,20 +1339,6 @@ Varias personas fueron detenidas para fines de investigación. La DNCD ha intens
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777384736/autonoticias/articles/20260428_135856_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 28 Apr 2026 13:59:52 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260428135952</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ejército desmantela centro de acopio de indocumentados en Dajabón]]></title>
-    <link>https://www.elcaribe.com.do/panorama/justicia/ejercito-desmantela-centro-de-acopio-de-indocumentados-en-dajabon/</link>
-    <description><![CDATA[El Ejército de República Dominicana desmanteló un centro de acopio de indocumentados en Dajabón, deteniendo a 49 nacionales haitianos en situación migratoria irregular. La intervención fue realizada con apoyo de drones del 10mo. Batallón de Infantería.
-
-La propiedad, utilizada para el tráfico ilegal de personas, pertenece a un ciudadano que se encuentra fuera del país. Los responsables huyeron al notar la presencia militar, dejando a los indocumentados abandonados.
-
-Los detenidos, entre ellos 33 hombres, 7 mujeres y 9 menores de edad, fueron puestos bajo custodia militar y trasladados a la Dirección General de Migración para los fines legales correspondientes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777384569/autonoticias/articles/20260428_135608_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 28 Apr 2026 13:56:46 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260428135646</guid>
   </item>
 </channel>
 </rss>
