@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 12 May 2026 18:59:36 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 12 May 2026 19:34:08 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Arrestan al hijo de un exalcalde de Puerto Rico por pertenecer a una red vinculada con RD]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/05/12/hijo-de-exalcalde-de-puerto-rico-arrestado-por-red-criminal-internacional/3531606</link>
+    <description><![CDATA[Manuel Antonio Valentín Vega, hijo del exalcalde de Añasco, Puerto Rico, fue arrestado por presunta participación en una red de narcotráfico y asesinato. La Fiscalía federal en San Juan indicó que podría enfrentar la pena de muerte junto a Luis J. Irizarry Zapata, otro miembro de la organización.
+
+La red criminal, con operaciones en Puerto Rico, Venezuela, Colombia y República Dominicana, enfrenta 23 cargos bajo la Ley RICO. Los delitos incluyen crimen organizado, narcotráfico y lavado de dinero.
+
+En 2020, un tiroteo en Aguada resultó en la muerte de una mujer y su hija de 8 años. Otros asesinatos relacionados ocurrieron en Mayagüez.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778614410/autonoticias/articles/20260512_193329_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 12 May 2026 19:34:08 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260512193408</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Indotel lanza campaña nacional contra extorsión y fraude digital para fortalecer la seguridad en línea en el país]]></title>
     <link>https://www.presidencia.gob.do/noticias/indotel-lanza-campana-nacional-contra-extorsion-y-fraude-digital-para-fortalecer-la</link>
     <description><![CDATA[El Instituto Dominicano de las Telecomunicaciones (Indotel) ha lanzado una campaña nacional para prevenir la extorsión y el fraude digital en el país. Esta iniciativa se desarrollará durante todo el año 2026 y contará con seis piezas audiovisuales.
@@ -1327,18 +1341,6 @@ La sentencia fue dictada por el Segundo Tribunal Colegiado de Santo Domingo Este
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777384882/autonoticias/articles/20260428_140121_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 28 Apr 2026 14:02:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260428140206</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Autoridades interceptan 19 pacas de hachís en las costas de Miches]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/04/28/incautan-19-pacas-de-hachis-en-costas-de-miches-el-seibo-1987604/</link>
-    <description><![CDATA[En un operativo conjunto, la Dirección Nacional de Control de Drogas (DNCD) y la Armada de República Dominicana (ARD) incautaron 19 pacas de hachís en las costas de Miches, provincia El Seibo. La operación se realizó en la playa Las Pasas, donde se encontraron 380 porciones de hachís con un peso de 33.60 libras.
-
-Varias personas fueron detenidas para fines de investigación. La DNCD ha intensificado sus labores contra el tráfico de drogas en todo el territorio nacional.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777384736/autonoticias/articles/20260428_135856_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 28 Apr 2026 13:59:52 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260428135952</guid>
   </item>
 </channel>
 </rss>
