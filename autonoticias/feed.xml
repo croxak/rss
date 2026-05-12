@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 12 May 2026 20:08:51 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 12 May 2026 20:59:03 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                        <item>
+    <title><![CDATA[DGCP anula adjudicación del Departamento Aeroportuario por presuntas violaciones al pliego]]></title>
+    <link>https://elnuevodiario.com.do/dgcp-anula-adjudicacion-del-departamento-aeroportuario-por-presuntas-violaciones-al-pliego/</link>
+    <description><![CDATA[La Dirección General de Contrataciones Públicas (DGCP) anuló la adjudicación del proceso de Comparación de Precios Núm. DPTO. AEROPORTUARIO-CCC-CP-2025-0015, destinado a contratar una firma auditora para el período fiscal 2024. La decisión se tomó tras un recurso de Servicios Integrales Corporativos T & P, S.R.L.
+
+La DGCP encontró que el Comité de Compras y Contrataciones del Departamento Aeroportuario violó los criterios de adjudicación al no seleccionar la oferta de menor precio, como exigía el pliego de condiciones. Además, se detectaron irregularidades en el proceso de evaluación.
+
+Se ordenó reevaluar las ofertas conforme a los criterios originales y el Departamento Aeroportuario deberá presentar un informe documentado sobre el cumplimiento de las disposiciones en un plazo de 30 días.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778619515/autonoticias/articles/20260512_205835_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 12 May 2026 20:59:03 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260512205903</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Yayo asegura es el momento de las zonas francas de la tecnología]]></title>
     <link>https://robertocavada.com/yayo-asegura-es-el-momento-de-las-zonas-francas-de-la-tecnologia/</link>
     <description><![CDATA[Yayo Sanz Lovatón, ministro de Industria, Comercio y Mipymes, participó en el XII Congreso Mundial de la Organización Mundial de Zonas Francas en Panamá. En su intervención, enfatizó la importancia de que las zonas francas se transformen en plataformas de innovación y servicios globales.
@@ -1327,18 +1341,6 @@ Desde el inicio de la gestión de Lee Ballester, el 1 de octubre de 2024, la Dir
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777387469/autonoticias/articles/20260428_144428_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 28 Apr 2026 14:45:25 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260428144525</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Abinader encabeza reunión de seguimiento al Plan de Seguridad Ciudadana]]></title>
-    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-encabeza-reunion-de-seguimiento-al-plan-de-seguridad-ciudadana-60</link>
-    <description><![CDATA[El presidente Luis Abinader encabeza una reunión de seguimiento al Plan de Seguridad Ciudadana en el Salón del Club de Oficiales del Palacio de la Policía Nacional. La sesión busca fortalecer las estrategias de seguridad en el país.
-
-Acompañan al mandatario el ministro de Defensa, Carlos Antonio Fernández Onofre, y de Interior y Policía, Faride Raful, entre otros altos funcionarios y fiscales de diversas provincias.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777384934/autonoticias/articles/20260428_140212_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 28 Apr 2026 14:03:39 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260428140339</guid>
   </item>
 </channel>
 </rss>
