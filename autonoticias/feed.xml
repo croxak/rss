@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 13 May 2026 19:56:13 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 20:08:01 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Cartera de crédito en moneda extranjera ascendió a USD 10,228.52 millones en 2025]]></title>
+    <link>https://www.presidencia.gob.do/noticias/cartera-de-credito-en-moneda-extranjera-ascendio-usd-1022852-millones-en-2025</link>
+    <description><![CDATA[La cartera de crédito en moneda extranjera del sistema financiero dominicano ascendió a USD 10,228.52 millones al cierre de diciembre de 2025, representando el 24 % de la cartera total.
+
+El sector eléctrico fue el principal receptor de estos préstamos, con USD 1,761.1 millones, seguido por los sectores turismo y actividades inmobiliarias.
+
+La morosidad se mantuvo en 0.6 %, y las provisiones para cubrir la cartera vencida fueron del 357.3 %.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778702711/autonoticias/articles/20260513_200510_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 13 May 2026 20:08:01 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260513200801</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía captura a “Raquiñita”, acusado de robos en vehículos en Ensanche Ozama y Villa Duarte]]></title>
     <link>https://www.policianacional.gob.do/policia-captura-a-raquinita-acusado-de-robos-en-vehiculos-en-ensanche-ozama-y-villa-duarte/</link>
     <description><![CDATA[La Policía Nacional capturó a Kelvin Medina Castaño, conocido como “Raquiñita” o “El Cojo”, acusado de cometer robos en vehículos en Ensanche Ozama y Villa Duarte.
@@ -1327,20 +1341,6 @@ El Ministerio también integrará asesoría de expertos internacionales y sector
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777563853/autonoticias/articles/20260430_154413_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 30 Apr 2026 15:45:38 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260430154538</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Hermana de imputada en caso Senasa pide variar medida de coerción por salud]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/04/30/caso-senasa-piden-variar-coercion-a-imputada-por-salud-1989226/</link>
-    <description><![CDATA[Elizabeth Ledesma, hermana de Ada Ledesma, imputada en el caso de presuntas irregularidades en Senasa, solicitó cambiar la medida de coerción por problemas de salud de su hermana en prisión preventiva.
-
-Elizabeth defendió a Ada, describiéndola como una mujer trabajadora y honrada, y pidió una investigación objetiva y el respeto al debido proceso.
-
-El juez Deibi Timoteo Peguero decidirá sobre la revisión de los 18 meses de prisión preventiva de los imputados en el caso Senasa.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777563773/autonoticias/articles/20260430_154252_article.png" type="image/png"/>
-    <pubDate>Thu, 30 Apr 2026 15:43:39 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260430154339</guid>
   </item>
 </channel>
 </rss>
