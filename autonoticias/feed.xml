@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 13 May 2026 21:17:25 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 23:11:18 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Canciller Roberto Álvarez niega que migrantes permanecerán indefinidamente en RD por acuerdo con EE.UU]]></title>
+    <link>https://n.com.do/2026/05/13/canciller-roberto-alvarez-niega-que-migrantes-permaneceran-indefinidamente-en-rd-por-acuerdo-con-ee-uu/</link>
+    <description><![CDATA[El canciller Roberto Álvarez negó que el memorando de entendimiento con EE.UU. convierta a República Dominicana en un “tercer país seguro” o que implique la permanencia indefinida de migrantes en el país.
+
+Álvarez explicó que el acuerdo es diferente a otros mecanismos migratorios y no transfiere la responsabilidad de procesar solicitudes de asilo a República Dominicana. Además, el memorando no es jurídicamente vinculante y puede ser terminado en cualquier momento.
+
+El presidente Luis Abinader ya había rechazado acuerdos que implicaran recibir ciudadanos extranjeros por períodos prolongados.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778713808/autonoticias/articles/20260513_231008_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 13 May 2026 23:11:18 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260513231118</guid>
+  </item>
+
+  <item>
     <title><![CDATA[DNI lanza el Instituto Criptográfico Nacional]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/05/13/dni-republica-dominicana-presenta-instituto-criptografico-nacional/3532643</link>
     <description><![CDATA[La Dirección Nacional de Inteligencia (DNI) presentó el Instituto Criptográfico Nacional (ICN) como la autoridad técnica en criptografía del Estado dominicano. Este instituto protegerá los activos de información y garantizará la confianza en los servicios digitales públicos.
@@ -1325,20 +1339,6 @@ El director general de la Caasd, ingeniero Fellito Suberví, se trasladó al lug
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777579644/autonoticias/articles/20260430_200723_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 30 Apr 2026 20:07:55 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260430200755</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Banco Central mantiene tasa en 5.25 % y alerta por impacto del conflicto en Medio Oriente]]></title>
-    <link>https://n.com.do/2026/04/30/banco-central-mantiene-tasa-en-5-25-y-alerta-por-impacto-del-conflicto-en-medio-oriente/</link>
-    <description><![CDATA[El Banco Central de la República Dominicana ha decidido mantener su tasa de política monetaria en 5.25 % anual. Esta decisión se fundamenta en la recuperación económica del país y en que las expectativas de inflación permanecen alineadas con la meta oficial.
-
-A nivel internacional, el conflicto en Medio Oriente ha generado incertidumbre y un aumento en los precios del petróleo y otras materias primas. En Estados Unidos, la inflación subió a 3.3 % en marzo, mientras que en la zona euro la actividad económica se desaceleraría hasta 1.1 % en 2026.
-
-En el ámbito local, la inflación interanual se moderó a 4.63 % en marzo, y la economía mostró un crecimiento de 4.1 % en el primer trimestre de 2026. Las reservas internacionales se ubican en US$16,000 millones, equivalentes al 12 % del PIB.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777570930/autonoticias/articles/20260430_174209_article.png" type="image/png"/>
-    <pubDate>Thu, 30 Apr 2026 17:42:49 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260430174249</guid>
   </item>
 </channel>
 </rss>
