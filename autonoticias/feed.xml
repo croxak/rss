@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 13 May 2026 23:12:25 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 23:12:46 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[MIREX defiende cooperación entre RD y EE.UU. por beneficios concretos para el país en seguridad, migración y apoyo frente a crisis haitiana]]></title>
+    <link>https://n.com.do/2026/05/13/mirex-defiende-cooperacion-entre-rd-y-ee-uu-por-beneficios-concretos-para-el-pais-en-seguridad-migracion-y-apoyo-frente-a-crisis-haitiana/</link>
+    <description><![CDATA[El canciller Roberto Álvarez ha defendido la cooperación entre República Dominicana y Estados Unidos, subrayando los beneficios concretos en seguridad, migración y apoyo internacional frente a la crisis haitiana.
+
+Álvarez destacó el papel de Estados Unidos en la aprobación de la resolución 2793 del Consejo de Seguridad de la ONU, que creó la Fuerza de Supresión de Pandillas para Haití. También resaltó la inclusión de República Dominicana en el programa Global Entry, facilitando el ingreso de ciudadanos dominicanos a EE.UU.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778713740/autonoticias/articles/20260513_230859_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 13 May 2026 23:12:46 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260513231246</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Canciller dice no era necesario que acuerdo con EE. UU. para recibir deportados pasara por el Congreso]]></title>
     <link>https://elnuevodiario.com.do/canciller-dice-no-era-necesario-que-acuerdo-con-ee-uu-para-recibir-deportados-pasara-por-el-congreso/</link>
     <description><![CDATA[El canciller Roberto Álvarez aclaró que el memorando de entendimiento con Estados Unidos para recibir deportados no fue enviado al Congreso porque no es un tratado vinculante. Según Álvarez, el acuerdo puede ser terminado en cualquier momento por cualquiera de las partes.
@@ -1329,18 +1341,6 @@ El proyecto Romero, que data de concesiones desde 2005, estaba en fase de evalua
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777941739/autonoticias/articles/20260505_004218_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 05 May 2026 00:42:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260505004257</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader ordena detener proyecto Romero en San Juan]]></title>
-    <link>https://cdn.com.do/nacionales/abinader-ordena-detener-proyecto-romero-en-san-juan/</link>
-    <description><![CDATA[El presidente Luis Abinader ha decidido detener el proyecto minero Romero en San Juan. Esta decisión responde al rechazo social y se fundamenta en la Ley 64-00 de Medio Ambiente, que prohíbe avanzar proyectos con oposición significativa.
-
-El proyecto Romero, que data de concesiones desde 2005, estaba en fase de evaluación ambiental durante la actual gestión, sin autorización para explotación.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777941739/autonoticias/articles/20260505_004218_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 05 May 2026 00:42:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260505004240</guid>
   </item>
 </channel>
 </rss>
