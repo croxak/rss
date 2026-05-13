@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 13 May 2026 19:09:09 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 19:55:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[DGA pone en marcha TIC para eficientizar los servicios tecnológicos institucionales]]></title>
+    <link>https://www.presidencia.gob.do/noticias/dga-pone-en-marcha-tic-para-eficientizar-los-servicios-tecnologicos-institucionales</link>
+    <description><![CDATA[La Dirección General de Aduanas (DGA) ha puesto en marcha el Centro de Observabilidad TIC en Santo Domingo. Este centro busca mejorar la supervisión y estabilidad de los servicios tecnológicos institucionales.
+
+Nelson Arroyo, director general de Aduanas, destacó que el centro permitirá reducir los tiempos de detección y respuesta ante incidentes, aumentando la disponibilidad y confiabilidad de los sistemas críticos.
+
+Frederick López, subdirector de Transformación Digital, explicó que el centro garantizará visibilidad en tiempo real del estado de los servicios tecnológicos y fortalecerá la ciberseguridad mediante monitoreo continuo.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778702097/autonoticias/articles/20260513_195457_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 13 May 2026 19:55:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260513195533</guid>
+  </item>
+
+  <item>
     <title><![CDATA[CD aprueba por unanimidad proyecto prohíbe a cafeterías escolares vender refrescos y “comida chatarra”]]></title>
     <link>https://www.elcaribe.com.do/panorama/pais/cd-aprueba-por-unanimidad-proyecto-prohibe-a-cafeterias-escolares-vender-refrescos-y-comida-chatarra/</link>
     <description><![CDATA[La Cámara de Diputados aprobó un proyecto de ley que prohíbe la venta de refrescos y productos ultraprocesados en cafeterías escolares. Esta normativa busca regular la alimentación de niños y adolescentes en centros educativos.
@@ -1327,18 +1341,6 @@ El ministro Santos Badía resaltó la importancia de un sistema educativo que fo
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777563521/autonoticias/articles/20260430_153839_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 30 Apr 2026 15:39:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260430153932</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Derrumbe en Arroyo Hondo, Santiago, activa operativo de rescate ante posible persona atrapada]]></title>
-    <link>https://n.com.do/2026/04/30/derrumbe-en-arroyo-hondo-santiago-activa-operativo-de-rescate-ante-posible-persona-atrapada/</link>
-    <description><![CDATA[Un deslizamiento de tierra en Arroyo Hondo, Santiago, ha movilizado a la Defensa Civil, el Cuerpo de Bomberos y el sistema 9-1-1 en un operativo de rescate. Se teme que una persona esté atrapada bajo los escombros.
-
-El colapso ocurrió alrededor de las 11:00 de la noche del miércoles. Un hombre conocido como “Tito Mofle” estaba trabajando en el área, pese a advertencias sobre la inestabilidad del terreno.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777563418/autonoticias/articles/20260430_153638_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 30 Apr 2026 15:37:39 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260430153739</guid>
   </item>
 </channel>
 </rss>
