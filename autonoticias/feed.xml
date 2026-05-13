@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 13 May 2026 23:11:18 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 23:11:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[INCABIDE marca un hito con exitosa subasta pública y recaudación superior a RD$500 millones]]></title>
+    <link>https://www.elcaribe.com.do/panorama/pais/incabide-supera-los-rd500-millones-en-historica-subasta-publica/</link>
+    <description><![CDATA[El Instituto Nacional de Custodia y Administración de Bienes Incautados, Decomisados y en Extinción de Dominio (INCABIDE) culminó su primera subasta pública con una recaudación de RD$562,835,000. Se vendieron 100 bienes, alcanzando un 68% de efectividad.
+
+Las ventas de inmuebles totalizaron RD$550,170,000, mientras que los bienes muebles alcanzaron RD$12,665,000. Cuatro bienes fueron declarados desiertos y 43 quedaron pendientes para futuras fases.
+
+INCABIDE destacó la participación de ciudadanos y empresas, reafirmando su compromiso con la administración transparente de los bienes incautados.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778713796/autonoticias/articles/20260513_230956_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 13 May 2026 23:11:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260513231134</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Canciller Roberto Álvarez niega que migrantes permanecerán indefinidamente en RD por acuerdo con EE.UU]]></title>
     <link>https://n.com.do/2026/05/13/canciller-roberto-alvarez-niega-que-migrantes-permaneceran-indefinidamente-en-rd-por-acuerdo-con-ee-uu/</link>
     <description><![CDATA[El canciller Roberto Álvarez negó que el memorando de entendimiento con EE.UU. convierta a República Dominicana en un “tercer país seguro” o que implique la permanencia indefinida de migrantes en el país.
@@ -1327,18 +1341,6 @@ La comisión tendrá un carácter estrictamente observador y no intervendrá en 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777741554/autonoticias/articles/20260502_170554_article.png" type="image/png"/>
     <pubDate>Sat, 02 May 2026 17:06:35 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260502170635</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Camión perforador provoca avería en línea de impulsión y obliga cierre del acueducto Oriental]]></title>
-    <link>https://www.presidencia.gob.do/noticias/camion-perforador-provoca-averia-en-linea-de-impulsion-y-obliga-cierre-del-acueducto</link>
-    <description><![CDATA[La Corporación del Acueducto y Alcantarillado de Santo Domingo (Caasd) informó sobre una avería en la línea de impulsión del Acueducto Oriental, causada por un camión perforador de la empresa Cogusa. Este incidente obligará a un cierre temporal del servicio de agua potable en sectores de Santo Domingo Este.
-
-El director general de la Caasd, ingeniero Fellito Suberví, se trasladó al lugar para supervisar las excavaciones y determinar la magnitud del daño. Se espera confeccionar la pieza necesaria para solucionar la avería lo más pronto posible.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777579644/autonoticias/articles/20260430_200723_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 30 Apr 2026 20:07:55 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260430200755</guid>
   </item>
 </channel>
 </rss>
