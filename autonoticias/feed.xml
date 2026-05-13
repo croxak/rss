@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 13 May 2026 15:44:01 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 17:23:03 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Presidente Abinader presenta a la República Dominicana como una de las mejores decisiones de inversión del hemisferio en el Congreso Mundial de Zonas Francas]]></title>
+    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-presenta-la-republica-dominicana-como-una-de-las-mejores-decisiones-de</link>
+    <description><![CDATA[El presidente Luis Abinader presentó a la República Dominicana como una de las mejores decisiones de inversión del hemisferio en el Congreso Mundial de Zonas Francas en Panamá. Destacó la estabilidad económica y la competitividad exportadora del país.
+
+Abinader resaltó que las zonas francas son un pilar de la economía dominicana, generando más de 200,000 empleos y representando más del 60 % de las exportaciones nacionales. También destacó la evolución hacia la transferencia tecnológica y la innovación.
+
+El mandatario invitó a empresarios a invertir en la República Dominicana, subrayando la seguridad jurídica y la eficiencia operativa del país.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778692951/autonoticias/articles/20260513_172230_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 13 May 2026 17:23:03 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260513172303</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Luis Maisichell Dicent dice que sigue sin acceso a bancos pese a absolución en Operación]]></title>
     <link>https://noticiassin.com/videos/el-despertador/2026/05/13/luis-dicent-denuncia-veto-bancario-pese-a-absolucion-scj-1995543/</link>
     <description><![CDATA[Luis Maisichell Dicent, exadministrador de la Lotería Nacional, asegura que enfrenta bloqueos financieros y sociales pese a su absolución en el caso Operación 13. Afirma que no puede abrir cuentas bancarias ni obtener una carta de buena conducta, lo que afecta sus aspiraciones políticas.
@@ -1327,20 +1341,6 @@ El presidente de la Academia Dominicana de la Historia reconoció a Abinader por
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777511982/autonoticias/articles/20260430_011942_article.png" type="image/png"/>
     <pubDate>Thu, 30 Apr 2026 01:20:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260430012019</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[República Dominicana y España reafirman compromiso bilateral con la cooperación y el comercio]]></title>
-    <link>https://www.presidencia.gob.do/noticias/republica-dominicana-y-espana-reafirman-compromiso-bilateral-con-la-cooperacion-y-el</link>
-    <description><![CDATA[El canciller dominicano Roberto Álvarez y el ministro español José Manuel Albares reafirmaron el compromiso de sus países con la cooperación bilateral, el comercio y la inversión. Destacaron los lazos entre sus pueblos y la significativa presencia de dominicanos en España y de españoles en República Dominicana.
-
-Álvarez agradeció la acogida de más de 200,000 dominicanos en España. Albares mencionó el proceso de regularización para dominicanos en España y entregó una invitación al presidente Luis Abinader para la XXX Cumbre Iberoamericana en Madrid.
-
-También discutieron la situación en Haití, reiterando el compromiso de España con los esfuerzos internacionales para la estabilización de ese país.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777478208/autonoticias/articles/20260429_155647_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 29 Apr 2026 15:57:16 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260429155716</guid>
   </item>
 </channel>
 </rss>
