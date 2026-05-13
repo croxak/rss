@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 13 May 2026 18:27:30 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 19:09:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[CD aprueba por unanimidad proyecto prohíbe a cafeterías escolares vender refrescos y “comida chatarra”]]></title>
+    <link>https://www.elcaribe.com.do/panorama/pais/cd-aprueba-por-unanimidad-proyecto-prohibe-a-cafeterias-escolares-vender-refrescos-y-comida-chatarra/</link>
+    <description><![CDATA[La Cámara de Diputados aprobó un proyecto de ley que prohíbe la venta de refrescos y productos ultraprocesados en cafeterías escolares. Esta normativa busca regular la alimentación de niños y adolescentes en centros educativos.
+
+El proyecto también ordena la instalación de servicios de agua potable y establece sanciones para el incumplimiento de proveedores de servicios de alimentación escolar. Será discutido nuevamente la próxima semana.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778699318/autonoticias/articles/20260513_190838_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 13 May 2026 19:09:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260513190909</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Paliza afirma acuerdo migratorio con EE.UU., no afecta soberanía dominicana]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/05/13/paliza-acuerdo-migratorio-con-ee-uu-no-cede-soberania-rd-1995764/</link>
     <description><![CDATA[El ministro de la Presidencia, José Ignacio Paliza, aseguró que el acuerdo entre República Dominicana y Estados Unidos sobre repatriados no compromete la soberanía nacional. El convenio forma parte de la cooperación en seguridad entre ambos países.
@@ -1327,18 +1339,6 @@ El colapso ocurrió alrededor de las 11:00 de la noche del miércoles. Un hombre
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777563418/autonoticias/articles/20260430_153638_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 30 Apr 2026 15:37:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260430153739</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Alberto Atallah se suma al proyecto presidencial de David Collado]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/04/30/alberto-atallah-se-suma-al-proyecto-de-david-collado-prm-1989245/</link>
-    <description><![CDATA[Alberto Atallah se une al proyecto presidencial de David Collado, ministro de Turismo. Atallah, con una amplia trayectoria política y financiera, ha sido diputado, secretario administrativo de la Presidencia y superintendente de bancos.
-
-La incorporación de Atallah ocurre mientras el oficialismo define apoyos y equipos políticos. Collado busca sumar dirigentes con experiencia para su proyecto.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777561621/autonoticias/articles/20260430_150701_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 30 Apr 2026 15:07:49 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260430150749</guid>
   </item>
 </channel>
 </rss>
