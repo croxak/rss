@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 13 May 2026 19:55:33 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 19:56:13 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Policía captura a “Raquiñita”, acusado de robos en vehículos en Ensanche Ozama y Villa Duarte]]></title>
+    <link>https://www.policianacional.gob.do/policia-captura-a-raquinita-acusado-de-robos-en-vehiculos-en-ensanche-ozama-y-villa-duarte/</link>
+    <description><![CDATA[La Policía Nacional capturó a Kelvin Medina Castaño, conocido como “Raquiñita” o “El Cojo”, acusado de cometer robos en vehículos en Ensanche Ozama y Villa Duarte.
+
+La detención se llevó a cabo en la calle Sabana Larga, donde se le incautó un taladro presuntamente utilizado en los robos. Medina Castaño era buscado por la orden de arresto No. RAJ-2026-06821.
+
+Las autoridades informaron que operaba durante la madrugada, rompiendo cristales de vehículos para sustraer herramientas y otras pertenencias. Su identificación fue posible gracias a labores de inteligencia y cámaras de vigilancia.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778702147/autonoticias/articles/20260513_195547_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 13 May 2026 19:56:13 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260513195613</guid>
+  </item>
+
+  <item>
     <title><![CDATA[DGA pone en marcha TIC para eficientizar los servicios tecnológicos institucionales]]></title>
     <link>https://www.presidencia.gob.do/noticias/dga-pone-en-marcha-tic-para-eficientizar-los-servicios-tecnologicos-institucionales</link>
     <description><![CDATA[La Dirección General de Aduanas (DGA) ha puesto en marcha el Centro de Observabilidad TIC en Santo Domingo. Este centro busca mejorar la supervisión y estabilidad de los servicios tecnológicos institucionales.
@@ -1327,20 +1341,6 @@ El juez Deibi Timoteo Peguero decidirá sobre la revisión de los 18 meses de pr
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777563773/autonoticias/articles/20260430_154252_article.png" type="image/png"/>
     <pubDate>Thu, 30 Apr 2026 15:43:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260430154339</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Consejo Nacional de Educación Superior, Ciencia y Tecnología aprueba reforma educativa y nuevas ofertas académicas]]></title>
-    <link>https://www.presidencia.gob.do/noticias/consejo-nacional-de-educacion-superior-ciencia-y-tecnologia-aprueba-reforma-educativa-y</link>
-    <description><![CDATA[El Consejo Nacional de Educación Superior, Ciencia y Tecnología (Conescyt) aprobó la reforma educativa del Gobierno dominicano en su primera sesión ordinaria, presidida por el ministro Rafael Santos Badía.
-
-Se aprobaron nuevas ofertas académicas, incluyendo programas técnicos superiores, licenciaturas y maestrías. Destacan el técnico superior en Animación Digital del ITLA y el técnico superior en Agrimensura de la Uafam.
-
-El ministro Santos Badía resaltó la importancia de un sistema educativo que fortalezca la generación y difusión del conocimiento, orientado a la empleabilidad y el desarrollo de competencias.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777563521/autonoticias/articles/20260430_153839_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 30 Apr 2026 15:39:32 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260430153932</guid>
   </item>
 </channel>
 </rss>
