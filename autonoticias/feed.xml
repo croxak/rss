@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 13 May 2026 18:26:40 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 18:27:30 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Paliza afirma acuerdo migratorio con EE.UU., no afecta soberanía dominicana]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/05/13/paliza-acuerdo-migratorio-con-ee-uu-no-cede-soberania-rd-1995764/</link>
+    <description><![CDATA[El ministro de la Presidencia, José Ignacio Paliza, aseguró que el acuerdo entre República Dominicana y Estados Unidos sobre repatriados no compromete la soberanía nacional. El convenio forma parte de la cooperación en seguridad entre ambos países.
+
+Paliza destacó que cualquier solicitud de repatriación debe ser aceptada por el Gobierno dominicano, manteniendo así el control sobre las decisiones. Además, se excluye el traslado de ciudadanos haitianos.
+
+El acuerdo tiene una duración inicial de un año y refleja las relaciones excepcionales entre República Dominicana y Estados Unidos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778696725/autonoticias/articles/20260513_182525_article.png" type="image/png"/>
+    <pubDate>Wed, 13 May 2026 18:27:30 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260513182730</guid>
+  </item>
+
+  <item>
     <title><![CDATA[RD y Organización Mundial de Zonas Francas firman memorando para fortalecer cooperación]]></title>
     <link>https://elnuevodiario.com.do/rd-y-organizacion-mundial-de-zonas-francas-firman-memorando-para-fortalecer-cooperacion/</link>
     <description><![CDATA[El Gobierno dominicano y la Organización Mundial de Zonas Francas (WFZO) han firmado un Memorándum de Entendimiento para fortalecer la cooperación empresarial y promover inversiones en zonas francas. La firma tuvo lugar en el 12.º Congreso Mundial de Zonas Francas en Ciudad de Panamá.
@@ -1325,20 +1339,6 @@ La incorporación de Atallah ocurre mientras el oficialismo define apoyos y equi
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777561621/autonoticias/articles/20260430_150701_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 30 Apr 2026 15:07:49 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260430150749</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio de Interior y Policía impulsa cooperación internacional en políticas de drogas]]></title>
-    <link>https://www.presidencia.gob.do/noticias/ministerio-de-interior-y-policia-impulsa-cooperacion-internacional-en-politicas-de-drogas</link>
-    <description><![CDATA[El Ministerio de Interior y Policía de República Dominicana resaltó los avances en cooperación internacional en políticas de drogas durante la IV Reunión Anual del Programa COPOLAD III en Punta Cana.
-
-La ministra Faride Raful destacó la necesidad de una alianza estratégica entre el sector público y privado para enfrentar el crimen organizado. Se abordaron temas como la expansión de sustancias sintéticas y el impacto del narcotráfico.
-
-Los resultados del encuentro servirán de base para futuras reuniones entre la Unión Europea y CELAC, reafirmando el liderazgo de República Dominicana en la promoción de la seguridad regional.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777561433/autonoticias/articles/20260430_150348_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 30 Apr 2026 15:04:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260430150430</guid>
   </item>
 </channel>
 </rss>
