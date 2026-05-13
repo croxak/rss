@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 13 May 2026 14:37:26 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 15:11:26 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Manuel Cruz: "La geopolítica no tiene corazón ni sentimientos"]]></title>
+    <link>https://panorama.com.do/manuel-cruz-la-geopolitica-no-tiene-corazon-ni-sentimientos/</link>
+    <description><![CDATA[Manuel Cruz, comunicador y catedrático, ha lanzado el Centro del Pensamiento Estratégico Dominicano. Este centro busca analizar y debatir las tensiones geopolíticas del mundo, de las cuales República Dominicana no está exenta.
+
+Cruz destacó la importancia de lograr consenso entre líderes políticos, sociales, empresariales y medios de comunicación para tomar decisiones informadas. También abordó temas como el control de minerales críticos y las rutas de comercio y petróleo.
+
+El politólogo advirtió que "la geopolítica no tiene corazón ni sentimientos" y enfatizó el papel de los medios como amplificadores de estas iniciativas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778685040/autonoticias/articles/20260513_151039_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 13 May 2026 15:11:26 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260513151126</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Director de la DIDA sobre recorte a partidos políticos «El PRM ganó sin recibir dinero»]]></title>
     <link>https://elnuevodiario.com.do/director-de-la-dida-sobre-recorte-a-partidos-politicos-el-prm-gano-sin-recibir-dinero/</link>
     <description><![CDATA[Elías Báez de los Santos, director de la DIDA, declaró que el PRM ganó las elecciones sin recibir fondos para su campaña, logrando un 35% de los votos. Según él, recibir dinero no asegura el respaldo del pueblo.
@@ -1325,20 +1339,6 @@ El operativo, realizado por la Dirección de Inteligencia Delictiva, permitió l
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777465614/autonoticias/articles/20260429_122654_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 29 Apr 2026 12:28:48 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260429122848</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Arrestan a profesor del politécnico "La Perito" acusado de agresión sexual contra alumna menor de edad]]></title>
-    <link>https://panorama.com.do/arrestan-a-profesor-del-politecnico-la-perito-acusado-de-agresion-sexual-contra-alumna-menor-de-edad/</link>
-    <description><![CDATA[Inocencio Lebrón Montero, profesor de matemáticas del Instituto Politécnico Víctor Estrella Liz, fue arrestado por presunta agresión sexual contra una estudiante menor de edad. El caso está bajo investigación del Ministerio Público.
-
-La audiencia para conocer la medida de coerción fue aplazada para el 2 de mayo. La denuncia fue presentada por la madre de la menor, indicando presiones emocionales y un encuentro fuera del entorno escolar.
-
-El Ministerio Público acusa al docente de violar artículos del Código Penal y la Ley de protección de niños, niñas y adolescentes. La Asociación Dominicana de Profesores expresó su rechazo a cualquier forma de abuso en centros educativos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777465144/autonoticias/articles/20260429_121903_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 29 Apr 2026 12:20:08 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260429122008</guid>
   </item>
 </channel>
 </rss>
