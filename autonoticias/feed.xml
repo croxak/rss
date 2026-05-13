@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 13 May 2026 20:14:12 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 21:17:25 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[DNI lanza el Instituto Criptográfico Nacional]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/05/13/dni-republica-dominicana-presenta-instituto-criptografico-nacional/3532643</link>
+    <description><![CDATA[La Dirección Nacional de Inteligencia (DNI) presentó el Instituto Criptográfico Nacional (ICN) como la autoridad técnica en criptografía del Estado dominicano. Este instituto protegerá los activos de información y garantizará la confianza en los servicios digitales públicos.
+
+El director del DNI, Luis Soto, resaltó la importancia de proteger el ciberespacio y mencionó que la seguridad nacional del siglo XXI también se juega en la capacidad del Estado para proteger su información. Soto explicó que la criptografía es la disciplina que protege la información mediante técnicas matemáticas y algoritmos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778707020/autonoticias/articles/20260513_211659_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 13 May 2026 21:17:25 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260513211725</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministerio Público arresta a seis integrantes de una red criminal que se dedicaba a estafar]]></title>
     <link>https://pgr.gob.do/ministerio-publico-arresta-a-seis-integrantes-de-una-red-criminal-que-se-dedicaba-a-estafar/</link>
     <description><![CDATA[El Ministerio Público arrestó a seis personas en el Gran Santo Domingo, vinculadas a una red criminal que estafó a una entidad financiera por más de RD$200 millones. Los detenidos son Luis Miguel García Peña, Pedro Andrés García Pérez, Luis Guillermo García Faña, Elsa Sthefanya Sánchez Fernández, Pedro Reynaldo Bello Pérez y Julio Antonio García Faña.
@@ -1327,20 +1339,6 @@ En el ámbito local, la inflación interanual se moderó a 4.63 % en marzo, y la
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777570930/autonoticias/articles/20260430_174209_article.png" type="image/png"/>
     <pubDate>Thu, 30 Apr 2026 17:42:49 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260430174249</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Tras 67años de servicios, cierran Centro Automotriz Jáquez]]></title>
-    <link>https://cdn.com.do/nacionales/tras-67-anos-de-servicios-cierran-centro-automotriz-jaquez-en-la-27/</link>
-    <description><![CDATA[Centro Automotriz Jáquez, un ícono de la industria automotriz en Santo Domingo, cerrará sus puertas el 30 de abril de 2026. Fundado por don Rafael Jáquez y doña Nurys Castillo, el centro ha sido sinónimo de integridad y profesionalismo durante 67 años.
-
-Don Rafael, quien se especializó en Nueva York, introdujo innovaciones como la tecnología de transmisiones automáticas y la primera máquina de alineación electrónica en República Dominicana. El centro se consolidó como un referente de confianza en el país.
-
-El cierre del Centro Jáquez marca el fin de una era para un establecimiento que dejó una huella imborrable en la sociedad dominicana, destacándose por su honestidad y trabajo digno.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777570824/autonoticias/articles/20260430_174024_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 30 Apr 2026 17:40:58 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260430174058</guid>
   </item>
 </channel>
 </rss>
