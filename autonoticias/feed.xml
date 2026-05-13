@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 13 May 2026 13:14:55 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 13:42:21 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Comercio entre EE.UU. y Venezuela crece 22.7% tras restablecimiento de relaciones bilaterales]]></title>
+    <link>https://n.com.do/2026/05/13/839300comercio-estados-unidos-venezuela-crece-relaciones-bilaterales/</link>
+    <description><![CDATA[El comercio entre Estados Unidos y Venezuela creció un 22.7% en el primer trimestre del año, alcanzando los 3,290 millones de dólares. Este incremento se debe al restablecimiento de relaciones diplomáticas y la flexibilización de restricciones en sectores estratégicos como el energético.
+
+Las exportaciones venezolanas hacia EE.UU. sumaron 1,800 millones de dólares, con el petróleo crudo representando el 96.5% de estas. Venezuela también busca atraer inversión extranjera con cambios regulatorios en los sectores petrolero y minero.
+
+En el ámbito del transporte, la ministra venezolana Jacqueline Faría se reunió con John Barrett para discutir mejoras en conectividad aérea y logística. Se abordó la posibilidad de aumentar frecuencias y destinos aéreos, además de modernizar puertos y sistemas de transporte.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778679699/autonoticias/articles/20260513_134138_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 13 May 2026 13:42:21 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260513134221</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ejército detiene a un grupo de 15 indocumentados localizados con unidades de drones en una zona rural de Dajabón]]></title>
     <link>https://robertocavada.com/ejercito-detiene-a-un-grupo-de-15-indocumentados-localizados-con-unidades-de-drones-en-una-zona-rural-de-dajabon/</link>
     <description><![CDATA[El Ejército de República Dominicana, utilizando drones, detuvo a 15 nacionales haitianos en condición migratoria irregular en Villa Alegre, Dajabón. El grupo, compuesto por siete hombres y ocho mujeres, será trasladado a la Dirección General de Migración para el proceso legal correspondiente.
@@ -1327,18 +1341,6 @@ Se están verificando informaciones sobre la procedencia de los alimentos y se r
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777391631/autonoticias/articles/20260428_155351_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 28 Apr 2026 15:55:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260428155506</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio de Deportes inicia reconstrucción de dos multiusos en provincia Hermanas Mirabal]]></title>
-    <link>https://www.presidencia.gob.do/noticias/ministerio-de-deportes-inicia-reconstruccion-de-dos-multiusos-en-provincia-hermanas</link>
-    <description><![CDATA[El Ministerio de Deportes, liderado por Kelvin Cruz, ha comenzado la reconstrucción de dos polideportivos en la provincia Hermanas Mirabal, con una inversión de 43 millones de pesos. Las instalaciones en Salcedo y Tenares recibirán mejoras significativas.
-
-En Salcedo, se invertirán 22,776,917.08 pesos para renovar áreas de juego, gradas y vestidores, entre otros. En Tenares, con una inversión de 20,801,886.15 pesos, se realizarán trabajos similares, incluyendo la instalación de superficies sintéticas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777389270/autonoticias/articles/20260428_151430_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 28 Apr 2026 15:15:07 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260428151507</guid>
   </item>
 </channel>
 </rss>
