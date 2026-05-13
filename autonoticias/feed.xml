@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 13 May 2026 15:11:26 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 15:44:01 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Luis Maisichell Dicent dice que sigue sin acceso a bancos pese a absolución en Operación]]></title>
+    <link>https://noticiassin.com/videos/el-despertador/2026/05/13/luis-dicent-denuncia-veto-bancario-pese-a-absolucion-scj-1995543/</link>
+    <description><![CDATA[Luis Maisichell Dicent, exadministrador de la Lotería Nacional, asegura que enfrenta bloqueos financieros y sociales pese a su absolución en el caso Operación 13. Afirma que no puede abrir cuentas bancarias ni obtener una carta de buena conducta, lo que afecta sus aspiraciones políticas.
+
+Dicent denunció abusos de poder por parte del Ministerio Público y anunció acciones legales contra el Estado dominicano. También mencionó amenazas de Tony Peña Guaba y limitaciones impuestas por Jochi Vicente durante su gestión en la Lotería Nacional.
+
+El exadministrador defiende su permanencia en el PRM y asegura que dejó la Lotería Nacional con cientos de millones de pesos en cuentas. Concluyó que, de haber justicia, estaría nuevamente en su cargo.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778686992/autonoticias/articles/20260513_154312_article.png" type="image/png"/>
+    <pubDate>Wed, 13 May 2026 15:44:01 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260513154401</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Manuel Cruz: "La geopolítica no tiene corazón ni sentimientos"]]></title>
     <link>https://panorama.com.do/manuel-cruz-la-geopolitica-no-tiene-corazon-ni-sentimientos/</link>
     <description><![CDATA[Manuel Cruz, comunicador y catedrático, ha lanzado el Centro del Pensamiento Estratégico Dominicano. Este centro busca analizar y debatir las tensiones geopolíticas del mundo, de las cuales República Dominicana no está exenta.
@@ -1327,18 +1341,6 @@ También discutieron la situación en Haití, reiterando el compromiso de Españ
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777478208/autonoticias/articles/20260429_155647_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 29 Apr 2026 15:57:16 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260429155716</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[MP solicita coerción contra siete implicados por introducir más de 500 televisores y cinco camiones al país]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/04/29/mp-pide-coercion-por-contrabando-de-500-televisores-en-rd-1988364/</link>
-    <description><![CDATA[El Ministerio Público ha solicitado medidas de coerción para siete dominicanos implicados en el contrabando de más de 500 televisores y cinco camiones. Los acusados enfrentan cargos por defraudación aduanera, contrabando y violaciones impositivas.
-
-El operativo, realizado por la Dirección de Inteligencia Delictiva, permitió la incautación de televisores, DVR, camiones y una yipeta. La audiencia de coerción se aplazó para el 29 de abril de 2026.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777465614/autonoticias/articles/20260429_122654_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 29 Apr 2026 12:28:48 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260429122848</guid>
   </item>
 </channel>
 </rss>
