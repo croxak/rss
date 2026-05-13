@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 13 May 2026 20:08:01 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 13 May 2026 20:14:12 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Ministerio Público arresta a seis integrantes de una red criminal que se dedicaba a estafar]]></title>
+    <link>https://pgr.gob.do/ministerio-publico-arresta-a-seis-integrantes-de-una-red-criminal-que-se-dedicaba-a-estafar/</link>
+    <description><![CDATA[El Ministerio Público arrestó a seis personas en el Gran Santo Domingo, vinculadas a una red criminal que estafó a una entidad financiera por más de RD$200 millones. Los detenidos son Luis Miguel García Peña, Pedro Andrés García Pérez, Luis Guillermo García Faña, Elsa Sthefanya Sánchez Fernández, Pedro Reynaldo Bello Pérez y Julio Antonio García Faña.
+
+Durante el operativo, se ocuparon tres vehículos de alto valor, más de veinticinco relojes de lujo, un arma de fuego sin documentación, diversas prendas de valor, RD$408,186 en efectivo, más de diez computadoras portátiles y quince teléfonos móviles.
+
+Las autoridades continúan investigando para identificar a otros posibles involucrados en esta red criminal.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778703065/autonoticias/articles/20260513_201105_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 13 May 2026 20:14:12 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260513201412</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Cartera de crédito en moneda extranjera ascendió a USD 10,228.52 millones en 2025]]></title>
     <link>https://www.presidencia.gob.do/noticias/cartera-de-credito-en-moneda-extranjera-ascendio-usd-1022852-millones-en-2025</link>
     <description><![CDATA[La cartera de crédito en moneda extranjera del sistema financiero dominicano ascendió a USD 10,228.52 millones al cierre de diciembre de 2025, representando el 24 % de la cartera total.
@@ -1327,20 +1341,6 @@ El cierre del Centro Jáquez marca el fin de una era para un establecimiento que
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777570824/autonoticias/articles/20260430_174024_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 30 Apr 2026 17:40:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260430174058</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Medio Ambiente asegura proyecto Romero no tiene autorización de explotación; se encuentra en revisión técnica]]></title>
-    <link>https://n.com.do/2026/04/30/medio-ambiente-asegura-proyecto-romero-no-tiene-autorizacion-de-explotacion-en-san-juan/</link>
-    <description><![CDATA[El ministro de Medio Ambiente, Paíno Henríquez, aclaró que el proyecto minero Romero de GoldQuest en San Juan no tiene autorización de explotación y está en revisión técnica. El proceso sigue la Ley núm. 64-00 y se basa en evidencia científica.
-
-La aprobación de los Términos de Referencia no implica autorización para la explotación, sino que inicia una evaluación ambiental rigurosa. El estudio de impacto ambiental será analizado por más de 25 técnicos y comités de evaluación interna.
-
-El Ministerio también integrará asesoría de expertos internacionales y sectores académicos para fortalecer la transparencia del proceso.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777563853/autonoticias/articles/20260430_154413_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 30 Apr 2026 15:45:38 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260430154538</guid>
   </item>
 </channel>
 </rss>
