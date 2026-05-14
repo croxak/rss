@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 14 May 2026 14:43:01 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 14 May 2026 14:44:30 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Exministro ecuatoriano José Serrano tendrá protección en EE. UU. y «no podrá ser deportado»]]></title>
+    <link>https://elnuevodiario.com.do/exministro-ecuatoriano-jose-serrano-tendra-proteccion-en-ee-uu-y-no-podra-ser-deportado/</link>
+    <description><![CDATA[José Serrano, exministro ecuatoriano, ha recibido protección bajo la Convención Contra la Tortura en Estados Unidos, impidiendo su deportación a Ecuador. Compareció en una corte migratoria de Miami.
+
+Serrano enfrenta un proceso en Ecuador por su supuesta implicación en el asesinato del candidato presidencial Fernando Villavicencio. Su hija, Verónica Serrano, afirma que las acusaciones son un "montaje".
+
+El exministro está detenido en el Centro de Detención de Krome desde agosto. Se espera que sus abogados expliquen los detalles del fallo próximamente.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778769847/autonoticias/articles/20260514_144407_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 14 May 2026 14:44:30 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260514144430</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno inaugura la Plaza Constitución en Ciudad Juan Bosch con una inversión de 222 millones de pesos]]></title>
     <link>https://panorama.com.do/gobierno-inaugura-la-plaza-constitucion-en-ciudad-juan-bosch-con-una-inversion-de-222-millones-de-pesos/</link>
     <description><![CDATA[El Gobierno inauguró la Plaza Constitución en Ciudad Juan Bosch, con una inversión de 222 millones de pesos. Este espacio es el primer monumento a la Constitución en Santo Domingo y servirá como lugar de recreación para la comunidad.
@@ -1325,20 +1339,6 @@ Noboa llegó al aeropuerto de Punta Cana y regresará a Ecuador pasado el mediod
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778086016/autonoticias/articles/20260506_164655_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 06 May 2026 16:47:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260506164719</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Comité de compras y contrataciones de RD vial recibe propuestas para construcción de Autopista del Ámbar]]></title>
-    <link>https://n.com.do/2026/05/06/comite-de-compras-y-contrataciones-de-rd-vial-recibe-propuestas-para-construccion-de-autopista-del-ambar/</link>
-    <description><![CDATA[El Comité de Compras y Contrataciones del Fideicomiso RD Vial realizó la apertura de ofertas técnicas para la construcción de la Autopista del Ámbar. Este proceso se llevó a cabo bajo un modelo de competencia abierta y evaluación objetiva.
-
-La Comisión de Veeduría, designada por el presidente Luis Abinader, estuvo presente para garantizar la transparencia del proceso. Las propuestas técnicas fueron presentadas por los consorcios Autopista del Ámbar, AutoAmbar y Ruta del Ámbar.
-
-La Autopista del Ámbar conectará Santiago con Puerto Plata, mejorando la conectividad y reduciendo los tiempos de desplazamiento entre ambos destinos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778085929/autonoticias/articles/20260506_164529_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 06 May 2026 16:46:13 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260506164613</guid>
   </item>
 </channel>
 </rss>
