@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 14 May 2026 21:20:58 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 14 May 2026 23:49:58 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Presidente Luis Abinader regresa al país y se reintegra de inmediato a sus labores en el Palacio Nacional]]></title>
+    <link>https://www.presidencia.gob.do/noticias/presidente-luis-abinader-regresa-al-pais-y-se-reintegra-de-inmediato-sus-labores-en-el</link>
+    <description><![CDATA[El presidente Luis Abinader regresó a la República Dominicana después de una gira por Panamá y Guyana. En Panamá, fue orador principal en el Congreso Mundial de Zonas Francas y se reunió con el presidente José Raúl Mulino para fortalecer el comercio bilateral.
+
+En Guyana, Abinader fue recibido con honores militares y asistió a una recepción ofrecida por el presidente Mohamed Irfaan Ali. La visita culminó con la firma de un convenio bilateral sobre exploración de petróleo.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778802575/autonoticias/articles/20260514_234934_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 14 May 2026 23:49:58 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260514234958</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Condenan haitiano a 20 años por matar otro a machetazos en Sosúa, Puerto Plata]]></title>
     <link>https://elnuevodiario.com.do/condenan-haitiano-a-20-anos-por-matar-otro-a-machetazos-en-sosua-puerto-plata/</link>
     <description><![CDATA[Un tribunal de Puerto Plata condenó a 20 años de prisión a Chantal Dantés por el asesinato de Yviolan Vitalus en Sosúa, Puerto Plata. El hecho ocurrió el 20 de enero de 2024 tras una discusión familiar.
@@ -1335,18 +1347,6 @@ El presidente Luis Abinader ordenó la detención del proyecto minero Romero tra
     <enclosure url="https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/05/Julio-Virgilio-Brache-Foto-Felix-Lara-El-Nuevo-Diario-2.jpeg?fit=1280%2C852&quality=100&ssl=1" type="image/jpeg"/>
     <pubDate>Thu, 07 May 2026 16:03:23 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260507160323</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Primera Subasta Pública de 2026 registra 345 oferentes, según Incabide]]></title>
-    <link>https://www.presidencia.gob.do/noticias/primera-subasta-publica-de-2026-registra-345-oferentes-segun-incabide</link>
-    <description><![CDATA[El Incabide anunció que 345 participantes se inscribieron para la Primera Subasta Pública de 2026, superando las expectativas. La inscripción cerró el 1 de mayo y la subasta se realizará el 13 de mayo en la UASD.
-
-El director Manuel Oviedo Estrada resaltó la modernización y transparencia del proceso. La subasta será transmitida en vivo para garantizar la máxima transparencia.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778166817/autonoticias/articles/20260507_151336_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 07 May 2026 15:14:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260507151414</guid>
   </item>
 </channel>
 </rss>
