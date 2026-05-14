@@ -7,9 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 14 May 2026 19:53:35 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 14 May 2026 20:21:13 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Condenan a 10 años de prisión a tres hombres por tráfico ilícito de 16 inmigrantes en Santiago]]></title>
+    <link>https://elnuevodiario.com.do/condenan-a-10-anos-de-prision-a-tres-hombres-por-trafico-ilicito-de-16-inmigrantes-en-santiago/</link>
+    <description><![CDATA[Tres hombres han sido condenados a 10 años de prisión por tráfico ilícito de inmigrantes en Santiago. El tribunal del distrito judicial de Santiago dictó la sentencia por un hecho ocurrido en enero de 2023 en San José de las Matas.
+
+Víctor José Valenzuela Ortiz, Ronny Gabriel Santana Rosa y José Luis Familia (Dany) intentaron transportar a 16 inmigrantes haitianos indocumentados, incluidos dos niños, hacia Santiago. La representante del Ministerio Público, Jenniffer Rodríguez, demostró su culpabilidad.
+
+El 19 de enero de 2023, Valenzuela Ortiz y Santana Rosa fueron detenidos tras una persecución policial en la comunidad Caobanico Inoa. En el vehículo se encontraron a los inmigrantes y 15 bultos con pertenencias personales.
+
+José Luis Familia lideraba la estructura criminal, encargándose de cobrar el dinero a los inmigrantes y coordinar el transporte ilegal.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778790047/autonoticias/articles/20260514_202047_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 14 May 2026 20:21:13 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260514202113</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Avanza construcción del puerto seco entre Manzanillo y Dajabón; tramo desde Manzanillo alcanza 95% de ejecución]]></title>
     <link>https://n.com.do/2026/05/14/puerto-seco-dajabon-manzanillo-avance/</link>
     <description><![CDATA[La construcción del puerto seco entre Manzanillo y Dajabón avanza significativamente. El tramo de Manzanillo está al 95% de ejecución, mientras que en La Vigía, hacia Dajabón, el avance es del 40%.
@@ -1333,18 +1349,6 @@ La información fue ofrecida en una rueda de prensa por los voceros de la DNCD, 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778166578/autonoticias/articles/20260507_150937_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 07 May 2026 15:10:52 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260507151052</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Abinader viaja este jueves a Costa Rica para participar en la toma de posesión de Laura Fernández Delgado]]></title>
-    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-viaja-este-jueves-costa-rica-para-participar-en-la-toma-de-posesion-de</link>
-    <description><![CDATA[El presidente Luis Abinader se dirige a Costa Rica para participar en la toma de posesión de Laura Fernández Delgado. A su llegada, se reunirá con la mandataria electa y asistirá a una cena ofrecida por el presidente Rodrigo Chaves Robles.
-
-El viernes 8 de mayo, Abinader estará presente en la ceremonia de traspaso de mando en el Estadio Nacional y en el saludo protocolario a la nueva presidenta. Su regreso a la República Dominicana está previsto para la noche del mismo día.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778162321/autonoticias/articles/20260507_135837_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 07 May 2026 14:01:18 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260507140118</guid>
   </item>
 </channel>
 </rss>
