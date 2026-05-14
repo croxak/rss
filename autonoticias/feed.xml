@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 14 May 2026 16:52:05 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 14 May 2026 16:54:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Tribunal aplaza la coerción a "Masha", acusada de porte ilegal de arma de fuego]]></title>
+    <link>https://listindiario.com/la-republica/justicia/20260514/tribunal-aplaza-lunes-medida-coercion-masha-acusada-porte-ilegal-arma-fuego_905700.html</link>
+    <description><![CDATA[La jueza del juzgado de Atención Permanente de Santo Domingo Este ha aplazado la medida de coerción contra Ashley Mariel Sánchez Victoriano, conocida como "Masha", para el 18 de mayo. La intérprete de música urbana enfrenta cargos por porte ilegal de armas de fuego junto a Alexander Martínez Nolasco y Karla Julisa Rodríguez.
+
+El Ministerio Público, representado por el fiscal Tito González, ha solicitado prisión preventiva para los acusados, argumentando que existe un alto riesgo de que intenten sustraerse al proceso. Las armas fueron encontradas en una yipeta Honda CRV durante una requisa.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778777570/autonoticias/articles/20260514_165249_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 14 May 2026 16:54:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260514165414</guid>
+  </item>
+
+  <item>
     <title><![CDATA[La República Dominicana y Guyana firman contrato para exploración de bloque petrolero en Guyana]]></title>
     <link>https://www.presidencia.gob.do/noticias/la-republica-dominicana-y-guyana-firman-contrato-para-exploracion-de-bloque-petrolero-en</link>
     <description><![CDATA[La República Dominicana y Guyana han firmado un contrato para la exploración de petróleo o gas natural en el bloque on-shore Berbice, ubicado en Guyana. Este acuerdo busca fortalecer la seguridad energética y la cooperación bilateral.
@@ -1331,20 +1343,6 @@ El hantavirus, no endémico del Caribe, se transmite principalmente por inhalaci
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778097081/autonoticias/articles/20260506_195120_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 06 May 2026 19:52:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260506195200</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Condenan a 15 años de prisión a hombre por violación sexual a un adolescente de 11 años en Peravia]]></title>
-    <link>https://pgr.gob.do/condenan-a-15-anos-de-prision-a-hombre-por-violacion-sexual-a-un-adolescente-de-11-anos-en-peravia/</link>
-    <description><![CDATA[El Tribunal Colegiado del distrito judicial de Peravia ha condenado a Yoandri Perdomo (Tuti) a 15 años de prisión por la violación sexual de un adolescente de 11 años en 2024.
-
-La madre de la víctima presentó la denuncia tras descubrir el hecho al llevar al adolescente a un centro médico. El Ministerio Público, representado por el procurador Rafael Antonio Melo, demostró la violación de los artículos 330 y 331 del Código Penal Dominicano.
-
-La sentencia se cumplirá en el Centro de Privación de Libertad de Bani.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778097030/autonoticias/articles/20260506_195030_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 06 May 2026 19:51:45 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260506195145</guid>
   </item>
 </channel>
 </rss>
