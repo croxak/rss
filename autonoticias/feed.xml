@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 14 May 2026 23:49:58 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 14 May 2026 23:54:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Director de la CIA mantiene una reunión en La Habana con representantes cubanos]]></title>
+    <link>https://panorama.com.do/director-de-la-cia-mantiene-una-reunion-en-la-habana-con-representantes-cubanos/</link>
+    <description><![CDATA[El director de la CIA, John Ratcliffe, sostuvo una reunión en La Habana con representantes del Ministerio del Interior de Cuba. 
+
+La visita fue aprobada por la "dirección de la revolución", que incluye a Raúl Castro y otros líderes, y fue solicitada por la administración de Donald Trump.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778802838/autonoticias/articles/20260514_235358_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 14 May 2026 23:54:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260514235435</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidente Luis Abinader regresa al país y se reintegra de inmediato a sus labores en el Palacio Nacional]]></title>
     <link>https://www.presidencia.gob.do/noticias/presidente-luis-abinader-regresa-al-pais-y-se-reintegra-de-inmediato-sus-labores-en-el</link>
     <description><![CDATA[El presidente Luis Abinader regresó a la República Dominicana después de una gira por Panamá y Guyana. En Panamá, fue orador principal en el Congreso Mundial de Zonas Francas y se reunió con el presidente José Raúl Mulino para fortalecer el comercio bilateral.
@@ -1333,20 +1345,6 @@ La Policía Nacional mantiene acordonada el área mientras espera al médico leg
     <enclosure url="https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-07-at-11.08.08-AM.jpeg?fit=1320%2C776&quality=100&ssl=1" type="image/jpeg"/>
     <pubDate>Thu, 07 May 2026 16:04:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260507160442</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Julio Virgilio Brache favorece minería responsable y espera se retome proyecto Romero en San Juan]]></title>
-    <link>https://elnuevodiario.com.do/julio-virgilio-brache-favorece-mineria-responsable-y-espera-se-retome-proyecto-romero-en-san-juan/</link>
-    <description><![CDATA[Julio Virgilio Brache, presidente de la Asociación de Industrias de la República Dominicana, apoya la minería responsable y espera que se retome el proyecto Romero en San Juan. Destacó la importancia de la minería para el desarrollo económico del país.
-
-Brache mencionó que la suspensión del proyecto de Gold Quest ha tenido repercusiones en los mercados internacionales, con una caída significativa en las acciones de la empresa en la bolsa canadiense.
-
-El presidente Luis Abinader ordenó la detención del proyecto minero Romero tras una protesta masiva en San Juan de la Maguana.]]></description>
-    <category></category>
-    <enclosure url="https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/05/Julio-Virgilio-Brache-Foto-Felix-Lara-El-Nuevo-Diario-2.jpeg?fit=1280%2C852&quality=100&ssl=1" type="image/jpeg"/>
-    <pubDate>Thu, 07 May 2026 16:03:23 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260507160323</guid>
   </item>
 </channel>
 </rss>
