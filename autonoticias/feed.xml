@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 15 May 2026 16:39:29 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 17:21:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[MOPC informa cierre de dos horas este sábado del puente flotante]]></title>
+    <link>https://www.presidencia.gob.do/noticias/mopc-informa-cierre-de-dos-horas-este-sabado-del-puente-flotante</link>
+    <description><![CDATA[El Ministerio de Obras Públicas y Comunicaciones (MOPC) informó que el puente flotante sobre el río Ozama será cerrado al tránsito vehicular este sábado 16 de mayo, de 10:00 de la mañana a 12:00 del mediodía. La medida permitirá el paso del remolcador Green Nicoya y las barcazas Kinnick 3200 y Winbuild 1810 al Astillero Joseph Industrial Development Corp.
+
+El puente conecta el Distrito Nacional con Villa Duarte, en Santo Domingo Este. Se exhorta a los conductores a tomar precauciones y utilizar los puentes Matías Ramón Mella, Juan Pablo Duarte y Juan Bosch como rutas alternas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778865620/autonoticias/articles/20260515_172019_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 15 May 2026 17:21:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260515172104</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gloria Reyes: "Cifras de fallecidos son más duras, pero no estamos viendo las mujeres que también se salvan"]]></title>
     <link>https://n.com.do/2026/05/15/gloria-reyes-cifras-de-fallecidos-son-mas-duras-pero-no-estamos-viendo-las-mujeres-que-tambien-se-salvan/</link>
     <description><![CDATA[La ministra de la Mujer, Gloria Reyes, habló sobre los feminicidios en el país, que suman 32 casos. Aunque las cifras de fallecimientos son duras, también hay mujeres que se salvan gracias a la intervención estatal.
@@ -1329,20 +1341,6 @@ El puente conecta el Distrito Nacional con Villa Duarte, en Santo Domingo Este. 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778283125/autonoticias/articles/20260508_233205_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 08 May 2026 23:32:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260508233257</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Abinader participa en la transmisión de mando presidencial de la presidenta de Costa Rica, Laura Fernández Delgado, en el Estadio Nacional]]></title>
-    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-participa-en-la-transmision-de-mando-presidencial-de-la-presidenta-de</link>
-    <description><![CDATA[El presidente Luis Abinader participó en la ceremonia de transmisión de mando presidencial en Costa Rica, donde Laura Fernández Delgado asumió como presidenta para el período 2026-2030. El evento se llevó a cabo en el Estadio Nacional de San José.
-
-La ceremonia incluyó el juramento constitucional de Fernández Delgado y la entrega de la banda presidencial por parte de Rodrigo Chaves Robles. Abinader asistió al saludo protocolario en el Centro de Convenciones.
-
-El presidente dominicano estuvo acompañado por el ministro de Relaciones Exteriores, Roberto Álvarez, y la embajadora María Amelia Marranzini Grullón.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778283107/autonoticias/articles/20260508_233147_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 08 May 2026 23:32:43 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260508233243</guid>
   </item>
 </channel>
 </rss>
