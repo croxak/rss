@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 15 May 2026 17:21:04 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 17:46:50 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Henry Molina convoca al Consejo del Poder Judicial ante reclamos de jueces y anuncio de paro nacional]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/05/15/molina-convoca-a-consejo-poder-judicial-ante-paro-convocado-por-jueces/3535097</link>
+    <description><![CDATA[Henry Molina, presidente de la Suprema Corte de Justicia, ha convocado al Consejo del Poder Judicial para una sesión el 19 de mayo. Esta convocatoria sigue a un encuentro donde magistrados expresaron preocupaciones sobre el ejercicio judicial.
+
+Cerca de 300 jueces han anunciado un paro pacífico para el 21 de mayo, denunciando condiciones laborales extremas y salarios insuficientes. También critican el aumento de gastos en eventos del Poder Judicial.
+
+Una comisión creada por Molina se reunió con representantes de los jueces para discutir una "ruta de trabajo" que evalúe sus demandas. Molina ha manifestado su compromiso de diálogo y escucha.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778867138/autonoticias/articles/20260515_174538_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 15 May 2026 17:46:50 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260515174650</guid>
+  </item>
+
+  <item>
     <title><![CDATA[MOPC informa cierre de dos horas este sábado del puente flotante]]></title>
     <link>https://www.presidencia.gob.do/noticias/mopc-informa-cierre-de-dos-horas-este-sabado-del-puente-flotante</link>
     <description><![CDATA[El Ministerio de Obras Públicas y Comunicaciones (MOPC) informó que el puente flotante sobre el río Ozama será cerrado al tránsito vehicular este sábado 16 de mayo, de 10:00 de la mañana a 12:00 del mediodía. La medida permitirá el paso del remolcador Green Nicoya y las barcazas Kinnick 3200 y Winbuild 1810 al Astillero Joseph Industrial Development Corp.
@@ -1329,18 +1343,6 @@ Con Herzog, abordó la cooperación en agricultura, irrigación y desarrollo emp
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778340538/autonoticias/articles/20260509_152857_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 09 May 2026 15:30:12 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260509153012</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Puente flotante será cerrado este sábado por paso de embarcación]]></title>
-    <link>https://www.presidencia.gob.do/noticias/puente-flotante-sera-cerrado-este-sabado-por-paso-de-embarcacion</link>
-    <description><![CDATA[El Ministerio de Obras Públicas y Comunicaciones (MOPC) informó que el puente flotante sobre el río Ozama será cerrado temporalmente este sábado 9 de mayo, de 10:00 a.m. a 12:00 p.m. La medida permitirá el paso de la embarcación BD Calipso ONE al Astillero Joseph Industrial Development Corp para reparaciones.
-
-El puente conecta el Distrito Nacional con Villa Duarte, en Santo Domingo Este. Se exhorta a los conductores a tomar precauciones y utilizar los puentes Matías Ramón Mella, Juan Pablo Duarte y Juan Bosch como rutas alternas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778283125/autonoticias/articles/20260508_233205_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 08 May 2026 23:32:57 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260508233257</guid>
   </item>
 </channel>
 </rss>
