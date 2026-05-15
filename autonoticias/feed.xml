@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 14 May 2026 23:54:35 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 00:08:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Enfermeras mantienen llamado a paro pese a anuncios del Gobierno sobre nombramientos]]></title>
+    <link>https://www.diariolibre.com/actualidad/salud/2026/05/14/enfermeras-mantienen-llamado-a-paro-pese-a-anuncios-del-gobierno/3534238</link>
+    <description><![CDATA[Los gremios de enfermería en República Dominicana han confirmado un paro nacional para los días 18 y 19 de mayo. A pesar de los anuncios del ministro de Salud Pública, Víctor Atallah, sobre el nombramiento fijo de 1,115 enfermeras, consideran insuficientes las medidas.
+
+Ana Linares, vocera del gremio, expresó que las enfermeras llevan seis años esperando respuestas a sus demandas, que incluyen incentivos, pensiones al 100 %, y reclasificación salarial. La Coordinadora asegura que el paro garantizará atención en áreas críticas.
+
+El ministro Atallah afirmó que el Gobierno está cumpliendo con sus compromisos, incluyendo un incremento salarial y la creación de nuevas plazas. El director del SNS, Julio Landrón, informó sobre la habilitación de 450 plazas adicionales y más de 300 reclasificaciones.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778803668/autonoticias/articles/20260515_000748_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 15 May 2026 00:08:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260515000832</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Director de la CIA mantiene una reunión en La Habana con representantes cubanos]]></title>
     <link>https://panorama.com.do/director-de-la-cia-mantiene-una-reunion-en-la-habana-con-representantes-cubanos/</link>
     <description><![CDATA[El director de la CIA, John Ratcliffe, sostuvo una reunión en La Habana con representantes del Ministerio del Interior de Cuba. 
@@ -1331,20 +1345,6 @@ Nichalson Nina, padre de la menor, fue condenado a un año de prisión por negli
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778176709/autonoticias/articles/20260507_175828_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 07 May 2026 17:59:22 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260507175922</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Matan hombre a tiros y lanzan su cadáver a la calle en Don Pedro, Santiago]]></title>
-    <link>https://elnuevodiario.com.do/matan-hombre-a-tiros-y-lanzan-su-cadaver-a-la-calle-en-don-pedro-santiago/</link>
-    <description><![CDATA[Un hombre murió tras recibir varios disparos en la comunidad de Don Pedro, Santiago. La identidad de la víctima aún no ha sido establecida.
-
-Testigos relatan que el ataque ocurrió cerca de un presunto punto de distribución de sustancias ilícitas. El cuerpo fue abandonado en la vía pública desde una motocicleta en movimiento.
-
-La Policía Nacional mantiene acordonada el área mientras espera al médico legista para el levantamiento del cadáver e iniciar las investigaciones.]]></description>
-    <category></category>
-    <enclosure url="https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-07-at-11.08.08-AM.jpeg?fit=1320%2C776&quality=100&ssl=1" type="image/jpeg"/>
-    <pubDate>Thu, 07 May 2026 16:04:42 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260507160442</guid>
   </item>
 </channel>
 </rss>
