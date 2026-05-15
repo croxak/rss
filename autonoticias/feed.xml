@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 15 May 2026 23:11:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 23:11:17 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[COE emite alerta verde para cinco provincias por lluvias]]></title>
+    <link>https://panorama.com.do/coe-emite-alerta-verde-para-cinco-provincias-por-lluvias/</link>
+    <description><![CDATA[El Centro de Operaciones de Emergencias ha emitido alerta verde para cinco provincias del país debido a una vaguada y una onda tropical que podrían generar condiciones climáticas adversas.
+
+Las provincias bajo alerta son Monte Cristi, Puerto Plata, Valverde, Dajabón y Santiago Rodríguez. Se esperan aguaceros moderados a fuertes, tormentas eléctricas, ráfagas de viento y posibles granizadas aisladas.
+
+El COE advierte sobre posibles crecidas de ríos y cañadas, así como inundaciones urbanas. Recomiendan mantenerse informados y evitar cruzar ríos con alto volumen de agua.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778886610/autonoticias/articles/20260515_231010_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 15 May 2026 23:11:17 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260515231117</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Detienen a hombre atrincherado en puente Duarte]]></title>
     <link>https://listindiario.com/la-republica/ciudad/20260515/detienen-hombre-atrincherado-puente-juan-bosch_905876.html</link>
     <description><![CDATA[José Luis González, de 36 años, fue arrestado por miembros de la Dirección Central de Investigación (Dicrim) de la Policía Nacional tras atrincherarse en la estructura del puente Juan Pablo Duarte. González era buscado por el robo de un objeto de un vehículo.
@@ -1335,18 +1349,6 @@ Washington advierte que continuará aplicando medidas económicas para impedir q
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778341094/autonoticias/articles/20260509_153814_article.png" type="image/png"/>
     <pubDate>Sat, 09 May 2026 15:44:59 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260509154459</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Raquel Peña asegura Gobierno se prepara ante amenaza del hantavirus, pese a que RD no registra casos]]></title>
-    <link>https://cdn.com.do/nacionales/regionales/raquel-pena-asegura-gobierno-se-prepara-ante-amenaza-del-hantavirus/</link>
-    <description><![CDATA[La vicepresidenta Raquel Peña aseguró que el Gobierno dominicano está en estado de vigilancia y preparación frente al hantavirus, pese a que no se han registrado casos en el país.
-
-El Gabinete de Salud y el Ministerio de Salud Pública mantienen un seguimiento constante del virus y las medidas preventivas necesarias. Según el ministro de Salud Pública, Víctor Atallah, el país permanece libre de contagios, pero las autoridades trabajan de manera preventiva para garantizar la protección de la población.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778341421/autonoticias/articles/20260509_154340_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 09 May 2026 15:44:18 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260509154418</guid>
   </item>
 </channel>
 </rss>
