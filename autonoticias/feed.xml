@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 15 May 2026 23:11:17 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 23:11:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Ejército intercepta tres vehículos con 19 haitianos indocumentados en carretera Guayabal–Constanza]]></title>
+    <link>https://n.com.do/2026/05/15/ejercito-intercepta-haitianos-indocumentados-constanza/</link>
+    <description><![CDATA[El Ejército de la República Dominicana interceptó tres vehículos en la carretera Guayabal–Constanza, transportando a 19 haitianos en condición migratoria irregular. La intervención fue realizada por el 6to. Batallón de Cazadores del ERD en el tramo Entrada Secadora/Sabina.
+
+Los vehículos, marca Daihatsu Mira, incluían dos de color blanco y uno gris. Los detenidos, todos hombres, fueron trasladados a la Fortaleza Patria del ERD y entregados a la Dirección General de Migración.
+
+El Ejército aseguró que continuará fortaleciendo las labores de control e interdicción migratoria en distintas zonas del país.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778886652/autonoticias/articles/20260515_231052_article.png" type="image/png"/>
+    <pubDate>Fri, 15 May 2026 23:11:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260515231135</guid>
+  </item>
+
+  <item>
     <title><![CDATA[COE emite alerta verde para cinco provincias por lluvias]]></title>
     <link>https://panorama.com.do/coe-emite-alerta-verde-para-cinco-provincias-por-lluvias/</link>
     <description><![CDATA[El Centro de Operaciones de Emergencias ha emitido alerta verde para cinco provincias del país debido a una vaguada y una onda tropical que podrían generar condiciones climáticas adversas.
@@ -1335,20 +1349,6 @@ El norovirus es altamente contagioso y se propaga fácilmente en espacios cerrad
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778341622/autonoticias/articles/20260509_154701_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 09 May 2026 15:47:52 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260509154752</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[EE.UU. sanciona a empresas de China e Irán por apoyar la fabricación de drones y misiles del régimen iraní]]></title>
-    <link>https://n.com.do/2026/05/09/ee-uu-sanciona-a-empresas-de-china-e-iran-por-apoyar-la-fabricacion-de-drones-y-misiles-del-regimen-irani/</link>
-    <description><![CDATA[El Departamento del Tesoro de EE.UU. ha anunciado sanciones contra diez personas y empresas de China, Irán, Hong Kong, Dubái y Bielorrusia. Estas entidades están acusadas de suministrar armamento y componentes al régimen iraní para la fabricación de drones y misiles.
-
-La administración de Donald Trump busca debilitar la base industrial militar de Teherán. Entre las empresas sancionadas se encuentran Yushita Shanghai International Trade Co. Ltd de China y Elite Energy FZCO de Dubái.
-
-Washington advierte que continuará aplicando medidas económicas para impedir que Irán recupere su capacidad de producir armas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778341094/autonoticias/articles/20260509_153814_article.png" type="image/png"/>
-    <pubDate>Sat, 09 May 2026 15:44:59 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260509154459</guid>
   </item>
 </channel>
 </rss>
