@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 15 May 2026 21:02:48 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 23:11:03 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Detienen a hombre atrincherado en puente Duarte]]></title>
+    <link>https://listindiario.com/la-republica/ciudad/20260515/detienen-hombre-atrincherado-puente-juan-bosch_905876.html</link>
+    <description><![CDATA[José Luis González, de 36 años, fue arrestado por miembros de la Dirección Central de Investigación (Dicrim) de la Policía Nacional tras atrincherarse en la estructura del puente Juan Pablo Duarte. González era buscado por el robo de un objeto de un vehículo.
+
+En el lugar se encontraban agentes de la Dicrim, el Cuerpo de Bomberos del Distrito Nacional y el Sistema Nacional de Atención a Emergencias y Seguridad 9-1-1. Decenas de curiosos se acercaron para observar la situación.
+
+Las autoridades no han ofrecido más detalles sobre el hecho.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778886624/autonoticias/articles/20260515_231024_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 15 May 2026 23:11:03 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260515231103</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministerio Público someterá a otros tres implicados en fraude de RD$200 millones]]></title>
     <link>https://panorama.com.do/ministerio-publico-sometera-a-otros-tres-implicados-en-fraude-de-rd200-millones/</link>
     <description><![CDATA[El Ministerio Público someterá a la justicia a tres nuevos implicados en un fraude de más de RD$200 millones contra una entidad financiera. Los detenidos son Francis Michael Laureano Marte, Juan Antonio Ureña Geraldo y Kaury Miguel Lazala Brazobán.
@@ -1333,18 +1347,6 @@ El Gabinete de Salud y el Ministerio de Salud Pública mantienen un seguimiento 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778341421/autonoticias/articles/20260509_154340_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 09 May 2026 15:44:18 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260509154418</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía Nacional anuncia servicio policial voluntario para formación de jóvenes]]></title>
-    <link>https://eldia.com.do/policia-nacional-anuncia-servicio-policial-voluntario-para-formacion-de-jovenes/</link>
-    <description><![CDATA[El director de la Policía Nacional, mayor general Andrés Cruz Cruz, ha anunciado un servicio policial voluntario enfocado en la formación en valores de jóvenes y la reducción de la delincuencia. Este plan busca ofrecer oportunidades para que los jóvenes terminen su bachillerato e ingresen a la Policía o a otras carreras profesionales.
-
-Durante una visita al club Mauricio Báez y otras instituciones en Villa Juana, el mayor general Cruz dialogó con dirigentes locales, quienes valoraron positivamente la iniciativa.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778340938/autonoticias/articles/20260509_153538_article.png" type="image/png"/>
-    <pubDate>Sat, 09 May 2026 15:42:45 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260509154245</guid>
   </item>
 </channel>
 </rss>
