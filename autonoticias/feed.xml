@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 15 May 2026 17:48:16 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 19:06:08 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Indotel y MIDE coordinan acciones para fortalecer vigilancia tecnológica y uso eficiente del espectro]]></title>
+    <link>https://elnuevodiario.com.do/indotel-y-mide-coordinan-acciones-para-fortalecer-vigilancia-tecnologica-y-uso-eficiente-del-espectro/</link>
+    <description><![CDATA[El Instituto Dominicano de las Telecomunicaciones (Indotel) y el Ministerio de Defensa (MIDE) han firmado un acuerdo para mejorar el uso del espectro radioeléctrico y fortalecer la vigilancia tecnológica y la ciberdefensa en el país.
+
+El convenio, firmado por Guido Gómez Mazara y Carlos Fernández Onofre, también contempla la creación de un Centro Binacional de Monitoreo Fronterizo y el apoyo a la transformación digital en entidades académicas del sistema de defensa.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778871939/autonoticias/articles/20260515_190539_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 15 May 2026 19:06:08 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260515190608</guid>
+  </item>
+
+  <item>
     <title><![CDATA[La inflación interanual en abril sube al 5.11 % y supera la meta del Banco Central]]></title>
     <link>https://www.diariolibre.com/economia/macroeconomia/2026/05/15/la-inflacion-interanual-en-rd-se-dispara-en-abril-y-supera-el-5-/3534923?utm_source=relacionadas&utm_medium=portada&utm_campaign=relacionadas</link>
     <description><![CDATA[La inflación interanual en la República Dominicana alcanzó un 5.11 % en abril, superando la meta del Banco Central de 5 %. Este aumento se debe principalmente a los ajustes en los precios de las gasolinas y el gasoil, en un contexto de tensiones geopolíticas en Medio Oriente.
@@ -1331,18 +1343,6 @@ El Comando Sur de Estados Unidos señaló que la embarcación era operada por or
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778340806/autonoticias/articles/20260509_153326_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 09 May 2026 15:42:26 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260509154226</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio Público solicita prisión preventiva para mujer que mató a hija de 6 años en San Cristóbal]]></title>
-    <link>https://robertocavada.com/ministerio-publico-solicita-prision-preventiva-para-mujer-que-mato-a-hija-de-6-anos-en-san-cristobal/</link>
-    <description><![CDATA[El Ministerio Público ha solicitado prisión preventiva para Yoleydi Linarez Araujo, acusada de matar a su hija de seis años en San Cristóbal. La menor fue llevada a un hospital el 11 de marzo, donde se confirmó su fallecimiento por asfixia.
-
-Las investigaciones determinaron que Linarez Araujo cometió el crimen en su residencia en el sector Sabana Toro. La audiencia para conocer la medida de coerción está fijada para el 9 de mayo de 2026.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778340686/autonoticias/articles/20260509_153126_article.webp" type="image/jpeg"/>
-    <pubDate>Sat, 09 May 2026 15:42:06 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260509154206</guid>
   </item>
 </channel>
 </rss>
