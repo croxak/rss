@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 15 May 2026 17:46:50 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 17:48:16 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[La inflación interanual en abril sube al 5.11 % y supera la meta del Banco Central]]></title>
+    <link>https://www.diariolibre.com/economia/macroeconomia/2026/05/15/la-inflacion-interanual-en-rd-se-dispara-en-abril-y-supera-el-5-/3534923?utm_source=relacionadas&utm_medium=portada&utm_campaign=relacionadas</link>
+    <description><![CDATA[La inflación interanual en la República Dominicana alcanzó un 5.11 % en abril, superando la meta del Banco Central de 5 %. Este aumento se debe principalmente a los ajustes en los precios de las gasolinas y el gasoil, en un contexto de tensiones geopolíticas en Medio Oriente.
+
+El índice de precios al consumidor (IPC) registró una variación de 0.49 % en abril. La inflación subyacente mensual fue de 0.43 %, situándose en 4.87 % interanual.
+
+El grupo de transporte tuvo la mayor incidencia en la inflación de abril, con una variación de 1.78 %. La región Cibao presentó la mayor variación regional con 0.54 %, mientras que el quintil cinco mostró la mayor tasa de inflación con 0.65 %.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778867255/autonoticias/articles/20260515_174735_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 15 May 2026 17:48:16 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260515174816</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Henry Molina convoca al Consejo del Poder Judicial ante reclamos de jueces y anuncio de paro nacional]]></title>
     <link>https://www.diariolibre.com/actualidad/justicia/2026/05/15/molina-convoca-a-consejo-poder-judicial-ante-paro-convocado-por-jueces/3535097</link>
     <description><![CDATA[Henry Molina, presidente de la Suprema Corte de Justicia, ha convocado al Consejo del Poder Judicial para una sesión el 19 de mayo. Esta convocatoria sigue a un encuentro donde magistrados expresaron preocupaciones sobre el ejercicio judicial.
@@ -1329,20 +1343,6 @@ Las investigaciones determinaron que Linarez Araujo cometió el crimen en su res
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778340686/autonoticias/articles/20260509_153126_article.webp" type="image/jpeg"/>
     <pubDate>Sat, 09 May 2026 15:42:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260509154206</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader se reúne con el presidente del Estado de Israel, Isaac Herzog, y con el subsecretario de Estado de EEUU, Christopher Landau, en Costa Rica]]></title>
-    <link>https://mirex.gob.do/abinader-se-reune-con-el-presidente-del-estado-de-israel-isaac-herzog-y-con-el-subsecretario-de-estado-de-eeuu-christopher-landau-en-costa-rica/</link>
-    <description><![CDATA[El presidente Luis Abinader se reunió en Costa Rica con el presidente de Israel, Isaac Herzog, y el subsecretario de Estado de EE.UU., Christopher Landau. 
-
-Con Landau, discutió la relación política y económica entre República Dominicana y Estados Unidos, y la colaboración en la lucha contra el narcotráfico.
-
-Con Herzog, abordó la cooperación en agricultura, irrigación y desarrollo empresarial, además de la acogida de migraciones judías y el próximo VI Foro Latinoamericano contra el Antisemitismo en Santo Domingo.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778340538/autonoticias/articles/20260509_152857_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 09 May 2026 15:30:12 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260509153012</guid>
   </item>
 </channel>
 </rss>
