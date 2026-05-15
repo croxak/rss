@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 15 May 2026 23:11:35 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 23:26:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Foto de la CIA expone por primera vez a Ramón Romero Curbelo, jefe de inteligencia cubana]]></title>
+    <link>https://n.com.do/2026/05/15/cia-expone-ramon-romero-curbelo-inteligencia-cubana/</link>
+    <description><![CDATA[La CIA ha revelado por primera vez la imagen de Ramón Romero Curbelo, jefe de inteligencia cubana, tras una reunión en La Habana con John Ratcliffe. Miguel Cossío identificó al general, conocido en el exilio cubano.
+
+La visita de Ratcliffe buscó transmitir un mensaje de Donald Trump sobre la disposición de dialogar en seguridad y economía, condicionado a cambios en el gobierno cubano. Participaron Lázaro Álvarez Casas y Raúl Guillermo Rodríguez Castro.
+
+Cuba enfrenta una crisis económica y energética, con apagones que han provocado protestas. Trump ofreció ayuda humanitaria y acceso a internet satelital, condicionado a la autorización del régimen cubano.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778887548/autonoticias/articles/20260515_232547_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 15 May 2026 23:26:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260515232615</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ejército intercepta tres vehículos con 19 haitianos indocumentados en carretera Guayabal–Constanza]]></title>
     <link>https://n.com.do/2026/05/15/ejercito-intercepta-haitianos-indocumentados-constanza/</link>
     <description><![CDATA[El Ejército de la República Dominicana interceptó tres vehículos en la carretera Guayabal–Constanza, transportando a 19 haitianos en condición migratoria irregular. La intervención fue realizada por el 6to. Batallón de Cazadores del ERD en el tramo Entrada Secadora/Sabina.
@@ -1335,20 +1349,6 @@ Durante las intervenciones, se detuvo a un hombre y una mujer, mientras que Juli
     <enclosure url="https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-09-at-10.46.17-AM.jpeg?fit=1280%2C960&quality=100&ssl=1" type="image/jpeg"/>
     <pubDate>Sat, 09 May 2026 15:48:35 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260509154835</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Salud Pública dice crucero con brote de norovirus llegó y salió de Puerto Plata el mismo día tras cumplir protocolos sanitarios]]></title>
-    <link>https://eldia.com.do/salud-publica-dice-que-crucero-con-brote-de-norovirus-ya-salio-de-republica-dominicana/</link>
-    <description><![CDATA[El Ministerio de Salud Pública de la República Dominicana informó que un crucero con un brote de norovirus llegó y salió de Puerto Plata el mismo día tras cumplir con los protocolos sanitarios.
-
-El brote comenzó el 28 de abril, antes de llegar al país. Al momento de la escala, 37 personas permanecían aisladas en sus camarotes y no desembarcaron. Se realizó una inspección de la embarcación y se verificó el estado de salud de los afectados.
-
-El norovirus es altamente contagioso y se propaga fácilmente en espacios cerrados.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778341622/autonoticias/articles/20260509_154701_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 09 May 2026 15:47:52 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260509154752</guid>
   </item>
 </channel>
 </rss>
