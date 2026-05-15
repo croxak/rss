@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 15 May 2026 15:15:51 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 15 May 2026 16:38:22 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Desmantelan fábrica clandestina de bebidas alcohólicas adulteradas en Bahoruco]]></title>
+    <link>https://panorama.com.do/desmantelan-fabrica-clandestina-de-bebidas-alcoholicas-adulteradas-en-bahoruco/</link>
+    <description><![CDATA[La Policía Nacional desmanteló un laboratorio clandestino en Mena Abajo, Tamayo, Bahoruco, dedicado a la fabricación ilegal de bebidas alcohólicas adulteradas. Este operativo se realizó en cumplimiento de la Ley General de Salud No. 42-01 y la Ley de Alcoholes No. 243-68.
+
+Durante la intervención, se ocuparon 12 tanques y nueve galones de un líquido amarillento, presumiblemente utilizado para la elaboración de bebidas adulteradas. Las autoridades procedieron a destruir el líquido y desmantelar el centro clandestino.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778863013/autonoticias/articles/20260515_163653_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 15 May 2026 16:38:22 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260515163822</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Carolina inaugura parque Villa Consuelo y entrega entorno más seguro para personas no videntes]]></title>
     <link>https://n.com.do/2026/05/15/carolina-inaugura-parque-villa-consuelo-y-entrega-entorno-mas-seguro-para-personas-no-videntes/</link>
     <description><![CDATA[Carolina Mejía, alcaldesa del Distrito Nacional, inauguró el parque Villa Consuelo, mejorando el entorno para personas no videntes con aceras ampliadas y barandillas. El parque se llamará “La Chiqui” en honor a una líder comunitaria.
@@ -1333,20 +1345,6 @@ Estas iniciativas están alineadas con las políticas del presidente Luis Abinad
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778252315/autonoticias/articles/20260508_145835_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 08 May 2026 15:02:49 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260508150249</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Reforma educativa busca preparar a la Generación 2036, afirma Luis Miguel De Camps]]></title>
-    <link>https://eldia.com.do/reforma-educativa-busca-preparar-a-la-generacion-2036-afirma-luis-miguel-de-camps/</link>
-    <description><![CDATA[Luis Miguel De Camps, ministro de Educación, anunció que la reforma educativa busca preparar a la Generación 2036. Esta transformación, respaldada por el Decreto 309-26 del presidente Luis Abinader, pretende convertir al sistema educativo en un motor de desarrollo nacional.
-
-De Camps enfatizó la necesidad de superar la visión fragmentada de la educación dominicana, conectando formación, innovación y oportunidades de desarrollo. La reforma fortalecerá el Marco Nacional de Cualificaciones y la articulación entre educación, empleo e innovación.
-
-El proceso incluirá una consulta nacional amplia y participativa, involucrando a docentes, estudiantes, familias, universidades, sectores productivos y organizaciones de la sociedad civil.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778248798/autonoticias/articles/20260508_135958_article.webp" type="image/jpeg"/>
-    <pubDate>Fri, 08 May 2026 14:00:43 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260508140043</guid>
   </item>
 </channel>
 </rss>
