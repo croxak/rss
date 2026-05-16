@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 16 May 2026 15:30:20 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 16 May 2026 16:17:22 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Eugenio Cedeño rechaza extensión de mandatos de las actuales autoridades del PRM]]></title>
+    <link>https://eldia.com.do/eugenio-cedeno-rechaza-extension-de-mandatos-de-las-actuales-autoridades-del-prm/</link>
+    <description><![CDATA[Eugenio Cedeño, diputado y aspirante a la Secretaría General Nacional del PRM, se opone a la extensión de mandatos de las actuales autoridades del partido. Critica la decisión de posponer la convención ordinaria, argumentando que vulnera principios constitucionales y los Estatutos del PRM.
+
+Cedeño destaca que la democracia interna es un mandato constitucional y estatutario. Cuestiona por qué no se convocó a la Comisión Nacional de Elecciones Internas y critica la omisión de iniciar el cronograma organizativo.
+
+El diputado subraya que el PRM nació luchando contra imposiciones y prórrogas, y que la democracia interna fortalece al partido.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778947997/autonoticias/articles/20260516_161316_article.webp" type="image/jpeg"/>
+    <pubDate>Sat, 16 May 2026 16:17:22 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260516161722</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Dirigentes PRM rechazan extensión de mandatos y exigen respeto a la democracia interna]]></title>
     <link>https://n.com.do/2026/05/16/dirigentes-prm-rechazan-extension-de-mandatos-y-exigen-respeto-a-la-democracia-interna/</link>
     <description><![CDATA[Dirigentes del PRM, entre ellos Guido Gómez Mazara y Eugenio Cedeño, han manifestado su oposición a la propuesta de extender los mandatos de la dirección nacional y otras estructuras del partido.
@@ -1337,20 +1351,6 @@ Simultáneamente, en San Cristóbal, se incautaron 4,956 productos irregulares, 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778432124/autonoticias/articles/20260510_165524_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 10 May 2026 16:56:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260510165632</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Agricultura refuerza controles fitosanitarios en Elías Piña y anuncia veda de habichuela]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/05/10/sanidad-vegetal-refuerzan-controles-fronterizos-en-elias-1993921/</link>
-    <description><![CDATA[El Ministerio de Agricultura ha anunciado el reforzamiento de los controles fitosanitarios en Elías Piña. Las medidas buscan proteger la producción nacional y evitar la entrada de plagas y enfermedades.
-
-Entre las acciones se incluye la vigilancia en parcelas fronterizas y una veda de habichuela a partir de noviembre. El ministro Francisco Oliverio Espaillat destacó la importancia de la sanidad vegetal para la seguridad alimentaria.
-
-Además, se dará seguimiento a la reparación de infraestructuras agrícolas y se lanzará un programa de siembra de tamarindo con jóvenes estudiantes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778432087/autonoticias/articles/20260510_165447_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 10 May 2026 16:55:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260510165528</guid>
   </item>
 </channel>
 </rss>
