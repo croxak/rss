@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 16 May 2026 14:28:48 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 16 May 2026 14:29:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Gobierno pide a gremios de enfermería no realizar paro de labores y los convoca al Palacio este lunes]]></title>
+    <link>https://panorama.com.do/gobierno-pide-a-gremios-de-enfermeria-no-realizar-paro-de-labores-y-los-convoca-al-palacio-el-proximo-lunes/</link>
+    <description><![CDATA[El presidente Luis Abinader, a través de la Vicepresidenta Raquel Peña y el director del SNS, Julio Landrón, ha convocado a los gremios de enfermería a una reunión el lunes en el Palacio Nacional. El encuentro busca fortalecer la comunicación y abordar temas del sector salud.
+
+Landrón ha solicitado a los gremios suspender el paro convocado, destacando la importancia de mantener la estabilidad en los servicios de salud. La red pública cuenta con más de 24,000 enfermeros, quienes han contribuido a incrementar las asistencias en más de un millón 400 mil durante la actual gestión.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778941694/autonoticias/articles/20260516_142813_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 16 May 2026 14:29:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260516142905</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Vaguada provocará aguaceros y tronadas en varias provincias]]></title>
     <link>https://n.com.do/2026/05/16/vaguada-provocara-aguaceros-y-tronadas-en-varias-provincias/</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informa que una vaguada provocará aguaceros dispersos, tronadas aisladas y posibles ráfagas de viento en varias provincias del país este sábado. Se espera un incremento de las precipitaciones para el domingo.
@@ -1341,18 +1353,6 @@ Los familiares de Aurora planean acciones legales contra el hospital.]]></descri
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778357349/autonoticias/articles/20260509_200909_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 09 May 2026 20:09:46 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260509200946</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Dictan prisión preventiva contra adolescente acusado de matar niño en San Cristóbal]]></title>
-    <link>https://panorama.com.do/dictan-prision-preventiva-contra-adolescente-acusado-de-matar-nino-en-san-cristobal/</link>
-    <description><![CDATA[Un juez de San Cristóbal ha dictado prisión preventiva contra un adolescente de 14 años acusado de matar al niño Raudiel Steven Martínez Corporán, de 10 años, en Hato Damas. La medida de coerción es de 60 días, el máximo permitido para menores.
-
-Los abogados de la familia de la víctima afirman que existen pruebas suficientes contra el adolescente y aseguran que trabajarán para que el caso no quede impune. El cuerpo del niño fue encontrado en una cañada, generando consternación en la comunidad.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778355662/autonoticias/articles/20260509_194102_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 09 May 2026 20:09:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260509200901</guid>
   </item>
 </channel>
 </rss>
