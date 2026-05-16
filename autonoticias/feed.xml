@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 15 May 2026 23:26:30 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 16 May 2026 00:01:42 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Presidente Luis Abinader dispone que personas mayores de 65 años puedan renovar licencias de conducir por un periodo de vencimiento mayor a los dos años]]></title>
+    <link>https://www.presidencia.gob.do/noticias/presidente-luis-abinader-dispone-que-personas-mayores-de-65-anos-puedan-renovar-licencias</link>
+    <description><![CDATA[El presidente Luis Abinader ha emitido el Decreto 330-26, modificando el artículo 21 del Reglamento de Licencias de Conducir. Esta disposición permite que las personas mayores de 65 años renueven sus licencias por un periodo mayor a dos años.
+
+Las licencias de las categorías 01, 02 y 05 tendrán una vigencia de cuatro años hasta los 75 años, y luego deberán renovarse cada dos años. Para las categorías 03 y 04, la vigencia será de tres años hasta los 75 años, y después se renovarán anualmente.
+
+El decreto también establece que el tiempo de vigencia puede reducirse si se detecta alguna enfermedad que afecte la conducción segura. El Intrant deberá adoptar las medidas necesarias para implementar esta modificación.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778889650/autonoticias/articles/20260516_000049_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 16 May 2026 00:01:42 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260516000142</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Trabajos de ETED afectarán temporalmente el servicio en Piantini, Bella Vista y otros sectores]]></title>
     <link>https://eldia.com.do/trabajos-de-eted-afectaran-temporalmente-el-servicio-en-piantini-bella-vista-y-otros-sectores/</link>
     <description><![CDATA[La Empresa de Transmisión Eléctrica Dominicana (ETED) anunció trabajos de mantenimiento preventivo en las subestaciones Embajador – Barra y Arroyo Hondo – Capotillo este sábado 16 de mayo. El objetivo es fortalecer el suministro de energía.
@@ -1339,18 +1353,6 @@ El incidente ocurrió el 30 de marzo, cuando una patrulla policial se acercó al
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778346482/autonoticias/articles/20260509_170802_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 09 May 2026 17:08:29 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260509170829</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Encuentran muerta una ecuatoriana este sábado en Azua; viajaba en motocicleta]]></title>
-    <link>https://elnuevodiario.com.do/encuentran-muerta-una-ecuatoriana-este-sabado-en-azua-viajaba-en-motocicleta/</link>
-    <description><![CDATA[Mireya Tatiana Herrera Chica, de origen ecuatoriano, fue encontrada muerta cerca de la Circunvalación de Azua, en el tramo que conduce desde Pueblo Viejo. La joven se transportaba en una motocicleta Honda Navi roja, placa K2693264, hallada cerca de su cuerpo.
-
-Hasta el momento, las autoridades no han proporcionado detalles sobre el hallazgo del cuerpo de la ecuatoriana.]]></description>
-    <category></category>
-    <enclosure url="https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/05/WhatsApp-Image-2026-05-09-at-10.54.03-AM-1.jpeg?fit=1600%2C900&quality=100&ssl=1" type="image/jpeg"/>
-    <pubDate>Sat, 09 May 2026 16:08:24 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260509160824</guid>
   </item>
 </channel>
 </rss>
