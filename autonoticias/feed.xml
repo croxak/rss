@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 16 May 2026 22:44:03 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 16 May 2026 22:46:06 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[El portaaviones Gerald R. Ford regresa a EE.UU. tras participar en guerra Irán y Venezuela]]></title>
+    <link>https://elnuevodiario.com.do/el-portaaviones-gerald-r-ford-regresa-a-ee-uu-tras-participar-en-guerra-iran-y-venezuela/</link>
+    <description><![CDATA[El portaaviones Gerald R. Ford llegó al puerto de Norfolk, Virginia, después de un despliegue de 11 meses, el más largo desde la Guerra de Vietnam. Participó en operaciones en Irán y en la captura de Nicolás Maduro, expresidente de Venezuela.
+
+Con 5.000 militares a bordo, el Gerald R. Ford fue recibido por el secretario de Guerra, Pete Hegseth, quien elogió a la tripulación. Durante su misión, enfrentó un incendio y fallos en el sistema de tuberías.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778971502/autonoticias/articles/20260516_224501_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 16 May 2026 22:46:06 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260516224606</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El presidente Luis Abinader llega a Miami y se reúne con estudiantes dominicanos en Florida]]></title>
     <link>https://www.diariolibre.com/politica/general/2026/05/16/luis-abinader-llega-a-miami-y-se-reune-con-jovenes/3536027</link>
     <description><![CDATA[El presidente Luis Abinader arribó a Miami para una visita oficial. Durante su estancia, se reunió con estudiantes dominicanos de la Florida International University para discutir temas de liderazgo, democracia y desarrollo económico.
@@ -1335,20 +1347,6 @@ El alijo fue enviado al INACIF para su análisis.]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778442489/autonoticias/articles/20260510_194809_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 10 May 2026 19:48:44 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260510194844</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[PN dice una de las armas ocupadas a "Masha" fue reportada como robada a un agente]]></title>
-    <link>https://n.com.do/2026/05/10/arma-ocupada-masha-sustraida-agente-2018/</link>
-    <description><![CDATA[La Policía Nacional informó que una de las armas de fuego ocupadas a la exponente urbana Ashley Mariel Sánchez Victoriano, conocida como “Masha”, fue reportada como robada a un agente en 2018.
-
-Masha, de 19 años, fue arrestada en Boca Chica junto a Alexander Martínez Nolasco, alias “Habilidad”, de 18 años, y Karla Julisa, conocida como “Juliquin”, de 19. En la jeepeta en la que se desplazaban fueron ocupadas dos armas de fuego sin documentación legal.
-
-La intervención fue parte de las labores preventivas de la Policía Nacional en el Gran Santo Domingo. Los detenidos y las evidencias serán puestos a disposición del Ministerio Público.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778435580/autonoticias/articles/20260510_175259_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 10 May 2026 17:53:44 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260510175344</guid>
   </item>
 </channel>
 </rss>
