@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 16 May 2026 14:26:00 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 16 May 2026 14:28:48 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Vaguada provocará aguaceros y tronadas en varias provincias]]></title>
+    <link>https://n.com.do/2026/05/16/vaguada-provocara-aguaceros-y-tronadas-en-varias-provincias/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informa que una vaguada provocará aguaceros dispersos, tronadas aisladas y posibles ráfagas de viento en varias provincias del país este sábado. Se espera un incremento de las precipitaciones para el domingo.
+
+Las provincias afectadas incluyen La Altagracia, La Romana, San Pedro de Macorís, El Seibo, Samaná, Espaillat, María Trinidad Sánchez y Barahona. Durante la tarde, se prevén aguaceros en Monte Plata, Hato Mayor, Sánchez Ramírez, Duarte, La Vega, Monseñor Nouel, Azua, San Juan, Santiago, Espaillat, Elías Piña y Dajabón.
+
+El Indomet mantiene el nivel de prealerta debido a posibles inundaciones y deslizamientos de tierra. Las temperaturas seguirán calurosas, con mínimas entre 23 °C y 25 °C y máximas entre 31 °C y 33 °C en el Gran Santo Domingo.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778941666/autonoticias/articles/20260516_142745_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 16 May 2026 14:28:48 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260516142848</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Arrestan en Las Matas de Santa Cruz a hombre acusado de abuso sexual contra una niña de 9]]></title>
     <link>https://noticiassin.com/sin-categoria/2026/05/16/policia-arresta-acusado-de-abuso-sexual-en-las-matas-de-sc-1997998/</link>
     <description><![CDATA[La Policía Nacional arrestó a Ismael María Espinal Núñez, de 33 años, en Las Matas de Santa Cruz, Montecristi. Espinal Núñez es acusado de presunto abuso sexual contra una niña de nueve años.
@@ -1339,18 +1353,6 @@ Los abogados de la familia de la víctima afirman que existen pruebas suficiente
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778355662/autonoticias/articles/20260509_194102_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 09 May 2026 20:09:01 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260509200901</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Encuentran cuerpo sin vida de empleado de la Armada de RD en el Parque del Este]]></title>
-    <link>https://listindiario.com/la-republica/20260509/encuentran-cuerpo-vida-empleado-armada-rd-parque_904998.html</link>
-    <description><![CDATA[El martes 5 de mayo, fue encontrado el cuerpo sin vida de Rafael Nicolás Taveras Serrano, colaborador de jardinería de la Armada de la República Dominicana, en el Parque del Este. La víctima sufrió una herida corto punzante en el hemitórax derecho, que le causó un shock hemorrágico y una lesión en el pulmón.
-
-Quelvin Serrano, primo del fallecido, recibió la noticia a través de una llamada de la Armada, quienes fueron informados por el 911. La Armada ha iniciado una investigación, revisando cámaras de seguridad para esclarecer el caso.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778355332/autonoticias/articles/20260509_193531_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 09 May 2026 19:37:16 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260509193716</guid>
   </item>
 </channel>
 </rss>
