@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 16 May 2026 16:55:39 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 16 May 2026 22:44:03 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[El presidente Luis Abinader llega a Miami y se reúne con estudiantes dominicanos en Florida]]></title>
+    <link>https://www.diariolibre.com/politica/general/2026/05/16/luis-abinader-llega-a-miami-y-se-reune-con-jovenes/3536027</link>
+    <description><![CDATA[El presidente Luis Abinader arribó a Miami para una visita oficial. Durante su estancia, se reunió con estudiantes dominicanos de la Florida International University para discutir temas de liderazgo, democracia y desarrollo económico.
+
+Abinader resaltó la importancia de la educación y la innovación como pilares del desarrollo. También habló sobre proyectos estratégicos y el fortalecimiento de la institucionalidad y la transparencia en su gestión.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778971326/autonoticias/articles/20260516_224205_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 16 May 2026 22:44:03 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260516224403</guid>
+  </item>
+
+  <item>
     <title><![CDATA["Van a dejar que yo sea la próxima": Mujer denuncia agresiones de su pareja y dice temer por su vida]]></title>
     <link>https://panorama.com.do/van-a-dejar-que-yo-sea-la-proxima-mujer-denuncia-agresiones-de-su-pareja-y-dice-temer-por-su-vida/</link>
     <description><![CDATA[Anabel Díaz ha denunciado públicamente las agresiones físicas de su pareja, conocido como «Keka», y expresa temor por su vida. Han pasado 11 días desde que hizo la denuncia y siente que las autoridades no han tomado acción.
@@ -1337,20 +1349,6 @@ La intervención fue parte de las labores preventivas de la Policía Nacional en
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778435580/autonoticias/articles/20260510_175259_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 10 May 2026 17:53:44 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260510175344</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio niega influencia de exasesor en expediente del proyecto Romero]]></title>
-    <link>https://eldia.com.do/ministerio-niega-influencia-de-exasesor-en-expediente-del-proyecto-romero/</link>
-    <description><![CDATA[El Ministerio de Energía y Minas ha negado cualquier influencia del exasesor Julio Ernesto Espaillat Lamarche en el expediente del proyecto Romero. Espaillat Lamarche dejó de ser asesor en febrero de 2026 y su trabajo se limitó al Proyecto Tierras Raras.
-
-Las evaluaciones técnicas del proyecto Romero fueron realizadas por la Dirección Técnica del Viceministerio de Minas, bajo la Ley Minera 146-71, lideradas por el ingeniero Mauricio Hernández y el viceministro Miguel Díaz.
-
-El ministerio reiteró que las decisiones sobre proyectos mineros se basan en procesos técnicos, administrativos y legales establecidos en la normativa nacional.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778433698/autonoticias/articles/20260510_172137_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 10 May 2026 17:22:09 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260510172209</guid>
   </item>
 </channel>
 </rss>
