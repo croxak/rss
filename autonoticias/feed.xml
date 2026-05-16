@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 16 May 2026 16:17:22 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 16 May 2026 16:40:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Cinco personas resultan heridas en accidente de tránsito en la Autovía del Este]]></title>
+    <link>https://elnuevodiario.com.do/cinco-personas-resultan-heridas-tras-accidente-de-transito-en-la-autovia-del-este/</link>
+    <description><![CDATA[Cinco personas, incluida una menor de edad, resultaron heridas en un accidente de tránsito en la Autovía del Este, San Pedro de Macorís. Una motocicleta Loncin Pruss 200 fue embestida por un carro blanco.
+
+Los ocupantes de la motocicleta fueron identificados como Junior Alberto Modesto, Eduany Franco y una niña de un año. Dos personas del automóvil también resultaron heridas.
+
+Las víctimas presentan laceraciones y traumas leves. Servicios de emergencia y autoridades acudieron al lugar para brindar asistencia.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778949562/autonoticias/articles/20260516_163921_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 16 May 2026 16:40:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260516164000</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Eugenio Cedeño rechaza extensión de mandatos de las actuales autoridades del PRM]]></title>
     <link>https://eldia.com.do/eugenio-cedeno-rechaza-extension-de-mandatos-de-las-actuales-autoridades-del-prm/</link>
     <description><![CDATA[Eugenio Cedeño, diputado y aspirante a la Secretaría General Nacional del PRM, se opone a la extensión de mandatos de las actuales autoridades del partido. Critica la decisión de posponer la convención ordinaria, argumentando que vulnera principios constitucionales y los Estatutos del PRM.
@@ -1339,18 +1353,6 @@ El Impuesto sobre la Renta de las Personas Físicas totalizó RD$13,250.2 millon
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778432338/autonoticias/articles/20260510_165857_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 10 May 2026 16:59:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260510165928</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[MIC desmantela estación clandestina que operaba con tanques soterrados en San Juan]]></title>
-    <link>https://listindiario.com/la-republica/20260510/desmantelan-estacion-clandestina-operaba-tanques-soterrados-san-juan_905101.html</link>
-    <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes (MICM) desmanteló una estación clandestina de combustibles en Sabaneta, San Juan de la Maguana. Se decomisaron dos tanques soterrados de 5,000 galones cada uno y un dispensador, con un valor total de RD$1,136,150.
-
-Simultáneamente, en San Cristóbal, se incautaron 4,956 productos irregulares, incluyendo bebidas alcohólicas falsificadas y productos comestibles adulterados, valorados en RD$800,000. Estos operativos evidencian violaciones a las leyes sobre comercio ilícito y salud.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778432124/autonoticias/articles/20260510_165524_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 10 May 2026 16:56:32 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260510165632</guid>
   </item>
 </channel>
 </rss>
