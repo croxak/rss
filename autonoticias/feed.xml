@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 16 May 2026 16:40:00 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 16 May 2026 16:40:13 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Hallan recién nacida muerta dentro de funda plástica en basurero de Herrera]]></title>
+    <link>https://n.com.do/2026/05/16/hallan-recien-nacida-muerta-dentro-de-funda-plastica-en-basurero-de-herrera/</link>
+    <description><![CDATA[En el sector de Herrera, Santo Domingo Oeste, se vive consternación tras el hallazgo del cuerpo de una recién nacida en un basurero de la avenida Las Palmas. Según denuncias de los comunitarios, la bebé habría sido abandonada aún con vida dentro de una funda plástica.
+
+El hallazgo ocurrió alrededor de las cinco de la madrugada de este sábado, generando indignación entre los vecinos, quienes piden a las autoridades investigar y dar con los responsables. Solicitan revisar cámaras de seguridad cercanas para identificar a los involucrados.
+
+Al lugar acudieron agentes de la Policía Nacional, miembros del Sistema Nacional de Atención a Emergencias y Seguridad 911 y personal del Inacif para realizar el levantamiento del cuerpo. Las autoridades aún no han ofrecido más detalles sobre el caso.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778949584/autonoticias/articles/20260516_163944_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 16 May 2026 16:40:13 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260516164013</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Cinco personas resultan heridas en accidente de tránsito en la Autovía del Este]]></title>
     <link>https://elnuevodiario.com.do/cinco-personas-resultan-heridas-tras-accidente-de-transito-en-la-autovia-del-este/</link>
     <description><![CDATA[Cinco personas, incluida una menor de edad, resultaron heridas en un accidente de tránsito en la Autovía del Este, San Pedro de Macorís. Una motocicleta Loncin Pruss 200 fue embestida por un carro blanco.
@@ -1337,22 +1351,6 @@ Se hizo un llamado al presidente Luis Abinader para intervenir, advirtiendo sobr
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778433613/autonoticias/articles/20260510_172012_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 10 May 2026 17:20:50 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260510172050</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[DGII recaudó de RD$116,555.9 millones al cierre del mes de abril]]></title>
-    <link>https://eldia.com.do/dgii-recaudo-de-rd116555-9-millones-al-cierre-del-mes-de-abril/</link>
-    <description><![CDATA[La Dirección General de Impuestos Internos (DGII) recaudó RD$116,555.9 millones al cierre de abril de 2026, superando la meta presupuestada en RD$3,371.2 millones. Este monto representa un crecimiento interanual de 13.2%.
-
-En el acumulado de enero a abril, los ingresos alcanzaron RD$361,490.8 millones, superando la meta en RD$11,314.9 millones y mostrando un crecimiento interanual de 12.5%.
-
-El Impuesto sobre la Renta de las Empresas y Activos aportó RD$41,120.7 millones, mientras que el ITBIS alcanzó RD$21,422.4 millones, impulsado por el crecimiento en ventas gravadas y sectores como comercio y servicios.
-
-El Impuesto sobre la Renta de las Personas Físicas totalizó RD$13,250.2 millones, y el Impuesto a la Minería recaudó RD$9,135.4 millones, influenciado por el alza en el precio del oro. El Impuesto Selectivo a los Combustibles sumó RD$8,809.3 millones.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778432338/autonoticias/articles/20260510_165857_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 10 May 2026 16:59:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260510165928</guid>
   </item>
 </channel>
 </rss>
