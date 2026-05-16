@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 16 May 2026 00:01:42 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 16 May 2026 14:25:11 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Ocupan láminas de presunta cocaína ocultas en carpetas destinadas a EE. UU. y Europa]]></title>
+    <link>https://www.elcaribe.com.do/panorama/pais/ocupan-laminas-de-presunta-cocaina-ocultas-en-carpetas-destinadas-a-ee-uu-y-europa/</link>
+    <description><![CDATA[Agentes de la DNCD y el Ministerio Público detuvieron el envío de láminas de presunta cocaína ocultas en carpetas con destino a Estados Unidos y Róterdam. Las carpetas fueron interceptadas en una empresa de envíos en el Distrito Nacional.
+
+Durante la inspección, se encontraron láminas de la sustancia en un doble fondo, con un peso total superior a los 350 gramos. Las autoridades investigan la autenticidad de los datos del remitente y destinatarios.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778941475/autonoticias/articles/20260516_142434_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 16 May 2026 14:25:11 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260516142511</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidente Luis Abinader dispone que personas mayores de 65 años puedan renovar licencias de conducir por un periodo de vencimiento mayor a los dos años]]></title>
     <link>https://www.presidencia.gob.do/noticias/presidente-luis-abinader-dispone-que-personas-mayores-de-65-anos-puedan-renovar-licencias</link>
     <description><![CDATA[El presidente Luis Abinader ha emitido el Decreto 330-26, modificando el artículo 21 del Reglamento de Licencias de Conducir. Esta disposición permite que las personas mayores de 65 años renueven sus licencias por un periodo mayor a dos años.
@@ -1339,20 +1351,6 @@ Cox fue exaltado al Salón de la Fama del Béisbol en 2014, cuatro años despué
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778354931/autonoticias/articles/20260509_192851_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 09 May 2026 19:29:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260509192920</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ratifican prisión preventiva en Operaciones Especiales a coronel Madé por agredir a joven]]></title>
-    <link>https://panorama.com.do/ratifican-prision-preventiva-en-operaciones-especiales-a-coronel-made-por-agredir-a-joven/</link>
-    <description><![CDATA[La Tercera Sala de la Cámara Penal de la Corte de Apelación de Santo Domingo ratificó la prisión preventiva para el coronel Fausto Madé Ramírez, acusado de agredir a una joven de 19 años en Los Minas.
-
-El tribunal mantuvo la medida de tres meses de prisión mientras el Ministerio Público continúa las investigaciones. La defensa del coronel había solicitado una sanción menos severa, pero sus argumentos fueron rechazados.
-
-El incidente ocurrió el 30 de marzo, cuando una patrulla policial se acercó al vehículo donde estaba la joven. Según la denuncia, el coronel agredió a la joven tras ser grabado, causándole lesiones.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778346482/autonoticias/articles/20260509_170802_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 09 May 2026 17:08:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260509170829</guid>
   </item>
 </channel>
 </rss>
