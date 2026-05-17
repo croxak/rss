@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 17 May 2026 15:23:12 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 17 May 2026 15:39:16 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Identifican mujer asesinada presuntamente por su pareja en Santo Domingo Este]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/05/17/feminicidio-en-santo-domingo-este-identifican-a-la-victima-1998173/</link>
+    <description><![CDATA[Indhira Carolina Beltré, de 33 años, fue asesinada en un feminicidio en Las Toronjas, Santo Domingo Este. El presunto agresor, su pareja Camilo Rodríguez, huyó y sigue prófugo.
+
+El crimen ocurrió en la calle Duarte, Peatón 7, donde ambos vivían. Se investiga el caso, y se reporta que el agresor se llevó información de cámaras de vigilancia cercanas antes de escapar.
+
+Beltré deja dos niñas huérfanas. La Policía Nacional y el INACIF están en el lugar recopilando evidencias.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779032312/autonoticias/articles/20260517_153831_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 17 May 2026 15:39:16 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260517153916</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Indomet prevé aguaceros y tronadas este domingo; COE mantiene las alertas]]></title>
     <link>https://www.elcaribe.com.do/panorama/pais/indomet-preve-aguaceros-y-tronadas-este-domingo-coe-mantiene-las-alertas/</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) pronostica aguaceros, tronadas y ráfagas de viento este domingo en varias regiones del país debido a una vaguada. Desde la mañana se esperan nublados con aguaceros dispersos en el sureste y suroeste.
@@ -1331,18 +1345,6 @@ La medida se alinea con compromisos internacionales y resoluciones del Consejo d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778611759/autonoticias/articles/20260512_184919_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 12 May 2026 18:49:49 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260512184949</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía Nacional ocupa 21 paquetes presumiblemente cocaína y apresan hombre en María Auxiliadora, Distrito Nacional]]></title>
-    <link>https://www.policianacional.gob.do/policia-nacional-ocupa-21-paquetes-presumiblemente-cocaina-y-apresan-hombre-en-maria-auxiliadora-distrito-nacional/</link>
-    <description><![CDATA[La Policía Nacional detuvo a Richard Andrés Sánchez Pinales, conocido como “El Menor”, en el sector María Auxiliadora del Distrito Nacional. Durante el operativo, se le ocuparon 21 paquetes de un polvo blanco presumiblemente cocaína.
-
-Los paquetes fueron encontrados en un compartimiento oculto de su jeepeta Ford Explorer. Además, se incautaron dos celulares y una hoja de afeitadora. El detenido será puesto a disposición del Ministerio Público.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778611250/autonoticias/articles/20260512_184050_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 12 May 2026 18:41:16 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260512184116</guid>
   </item>
 </channel>
 </rss>
