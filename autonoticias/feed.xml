@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 17 May 2026 15:18:26 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 17 May 2026 15:18:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Arrestan hombre que estaba prófugo tras matar extranjero durante asalto en Santiago]]></title>
+    <link>https://panorama.com.do/arrestan-hombre-que-estaba-profugo-tras-matar-extranjero-durante-asalto-en-santiago/</link>
+    <description><![CDATA[El Ministerio Público arrestó a Saúl Hernández, prófugo tras matar a Raymond Clemente Navarro en un asalto el 17 de abril en Santiago. El crimen ocurrió en un car wash y billar, donde Hernández y otros asaltantes dispararon a Navarro y lo despojaron de sus pertenencias.
+
+La fiscal Andry De Los Santos ejecutó el arresto con una orden judicial emitida por la jueza Stephanie Santiago Reyes. Hernández se entregó en el Centro de Intervención Conductual para Hombres de Santiago.
+
+El caso está calificado como violación a varios artículos del Código Penal Dominicano, incluyendo asociación de malhechores, asesinato y robo.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779030922/autonoticias/articles/20260517_151521_article.webp" type="image/jpeg"/>
+    <pubDate>Sun, 17 May 2026 15:18:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260517151840</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Alex Saab aterriza en Miami tras ser deportado por el Gobierno de Venezuela]]></title>
     <link>https://www.diariolibre.com/mundo/estados-unidos/2026/05/17/alex-saab-aterriza-en-manos-de-la-dea-tras-ser-deportado-por-venezuela/3536390</link>
     <description><![CDATA[Alex Saab, empresario colombiano y exministro venezolano, fue deportado a Estados Unidos por el Gobierno de Venezuela. Saab aterrizó en el aeropuerto de Opa-locka, Miami-Dade, escoltado por agentes federales.
@@ -1331,18 +1345,6 @@ El director del IDAC, Igor Rodríguez Durán, destacó el apoyo del presidente L
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778598703/autonoticias/articles/20260512_151142_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 12 May 2026 15:13:55 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260512151355</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fuerza de Tarea activa servicio digital de la Policía Nacional para verificar celulares robados]]></title>
-    <link>https://www.presidencia.gob.do/noticias/fuerza-de-tarea-activa-servicio-digital-de-la-policia-nacional-para-verificar-celulares</link>
-    <description><![CDATA[La ministra de Interior y Policía, Faride Raful, anunció un nuevo servicio digital para verificar celulares robados. Esta herramienta permitirá a los ciudadanos validar si un teléfono tiene reporte de robo antes de adquirirlo. El servicio estará disponible en las plataformas digitales de la Policía Nacional y del Ministerio de Interior y Policía, en colaboración con Indotel y las prestadoras de servicios telefónicos.
-
-La tasa acumulada de homicidios en el país se mantiene en 7.34 por cada 100,000 habitantes, con una reducción sostenida en comparación con años anteriores. Tres territorios no registran homicidios, 25 tienen cifras de un dígito y seis están en dos dígitos. Las denuncias por robos también muestran una tendencia a la baja.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778593472/autonoticias/articles/20260512_134432_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 12 May 2026 13:46:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260512134619</guid>
   </item>
 </channel>
 </rss>
