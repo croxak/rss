@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 17 May 2026 15:18:40 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 17 May 2026 15:18:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Medio Ambiente reafirma control y recuperación ambiental en entorno de las Cuevas del Pomier]]></title>
+    <link>https://panorama.com.do/medio-ambiente-reafirma-control-y-recuperacion-ambiental-en-entorno-de-las-cuevas-del-pomier/</link>
+    <description><![CDATA[El Ministerio de Medio Ambiente y Recursos Naturales está llevando a cabo un proceso de protección ambiental en las Cuevas del Pomier. Los mineros artesanales han sido reubicados para permitir una extracción controlada de material calizo, bajo supervisión institucional.
+
+Desde febrero del año pasado, se han implementado medidas de control y vigilancia en colaboración con el SENPA para evitar nuevas extracciones y asegurar la recuperación ambiental. Un acuerdo con DOCALSA incluye reforestación y estabilización de taludes.
+
+SENPA ha realizado inspecciones para verificar las labores de remediación, confirmando que no hay actividades clandestinas. El Ministerio reafirma su compromiso con la protección del área y el cumplimiento de la Ley 64-00.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779030898/autonoticias/articles/20260517_151458_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 17 May 2026 15:18:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260517151855</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Arrestan hombre que estaba prófugo tras matar extranjero durante asalto en Santiago]]></title>
     <link>https://panorama.com.do/arrestan-hombre-que-estaba-profugo-tras-matar-extranjero-durante-asalto-en-santiago/</link>
     <description><![CDATA[El Ministerio Público arrestó a Saúl Hernández, prófugo tras matar a Raymond Clemente Navarro en un asalto el 17 de abril en Santiago. El crimen ocurrió en un car wash y billar, donde Hernández y otros asaltantes dispararon a Navarro y lo despojaron de sus pertenencias.
@@ -1329,22 +1343,6 @@ Defendió la gestión de Abel Martínez en Santiago y opinó sobre el gobierno d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778599633/autonoticias/articles/20260512_152713_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 12 May 2026 15:27:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260512152742</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[IDAC entrega nueva torre de control en Base Aérea de San Isidro para reforzar operaciones aéreas]]></title>
-    <link>https://n.com.do/2026/05/12/idac-entrega-nueva-torre-de-control-en-base-aerea-de-san-isidro-para-reforzar-operaciones-aereas/</link>
-    <description><![CDATA[El Instituto Dominicano de Aviación Civil (IDAC) entregará una nueva torre de control en la Base Aérea de San Isidro. Esta obra busca fortalecer la infraestructura aeronáutica del país y ampliar la capacidad operativa ante contingencias en el tráfico aéreo.
-
-La nueva instalación permitirá que la pista de San Isidro funcione como una alternativa operacional al Aeropuerto Internacional Las Américas, mejorando la respuesta del sistema aeronáutico nacional.
-
-La inversión incluye equipos de radio de comunicación, un sistema de navegación aérea DVOR/DME y mecanismos de respaldo energético, con el objetivo de garantizar continuidad operativa y mayor eficiencia en las operaciones aéreas.
-
-El director del IDAC, Igor Rodríguez Durán, destacó el apoyo del presidente Luis Abinader a los proyectos de infraestructura del sector, buscando consolidar a República Dominicana como un punto estratégico de conectividad aérea en la región.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778598703/autonoticias/articles/20260512_151142_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 12 May 2026 15:13:55 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260512151355</guid>
   </item>
 </channel>
 </rss>
