@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 17 May 2026 15:54:28 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 17 May 2026 16:08:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Solicitarán tres meses de prisión preventiva contra “Keka” por agresión a su ex pareja]]></title>
+    <link>https://n.com.do/2026/05/17/solicitaran-tres-meses-de-prision-preventiva-contra-keka-por-agresion-a-su-ex-pareja/</link>
+    <description><![CDATA[El Ministerio Público busca imponer tres meses de prisión preventiva a Fausto Ezequiel Valdez Cordero, conocido como “Keka”, por presuntas agresiones a su ex pareja, Anabel Díaz. La situación cobró notoriedad cuando Díaz publicó un video denunciando el temor por su vida y criticando el manejo de su caso por las autoridades.
+
+Valdez Cordero fue arrestado en Cotuí mediante un operativo coordinado por varias entidades policiales. El Ministerio de la Mujer ha estado involucrado desde el 5 de mayo, y la Policía Nacional destaca sus esfuerzos contra la violencia de género.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779034000/autonoticias/articles/20260517_160640_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 17 May 2026 16:08:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260517160815</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Desmantelan laboratorio clandestino de alcohol adulterado en Bahoruco]]></title>
     <link>https://n.com.do/2026/05/17/desmantelan-laboratorio-clandestino-de-alcohol-adulterado-en-bahoruco/</link>
     <description><![CDATA[La Policía Nacional desmanteló un presunto laboratorio clandestino dedicado a la fabricación de bebidas alcohólicas adulteradas en Batey 6, Tamayo, Bahoruco. Durante el operativo, se ocuparon 21 tanques metálicos y 19 galones de un líquido amarillento.
@@ -1331,20 +1343,6 @@ El norovirus provoca síntomas gastrointestinales comunes y no representa una am
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778612108/autonoticias/articles/20260512_185508_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 12 May 2026 18:57:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260512185728</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Leonel arremete contra el Gobierno y asegura que RD vive la peor caída en inversión pública del siglo]]></title>
-    <link>https://eldia.com.do/leonel-reanuda-la-voz-del-pueblo-y-arremete-contra-el-gobierno/</link>
-    <description><![CDATA[Leonel Fernández, expresidente y líder de la Fuerza del Pueblo, arremetió contra el Gobierno dominicano, asegurando que el país vive la peor caída en inversión pública del siglo. Según Fernández, el gasto corriente supera ampliamente la inversión en obras y desarrollo sostenible.
-
-El exmandatario afirmó que de cada 100 pesos gastados por el Gobierno, 86 se destinan al gasto corriente, dejando solo 14 para el gasto de capital. Criticó también el aumento de la deuda pública, que pasó de US$38,575 millones en junio de 2020 a US$66,388 millones en marzo de 2026.
-
-Fernández señaló que el gasto público creció un 87.1 % entre 2019 y 2026, más del doble de la inflación, y cuestionó la falta de obras de relevancia. Concluyó que el gasto corriente es 6.5 veces mayor que la inversión de capital, lo que evidencia la falta de una política de desarrollo sostenible.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778612143/autonoticias/articles/20260512_185543_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 12 May 2026 18:57:11 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260512185711</guid>
   </item>
 </channel>
 </rss>
