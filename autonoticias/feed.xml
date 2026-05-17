@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 17 May 2026 21:53:45 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 17 May 2026 21:56:06 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Policía Nacional aclara no recibió llamadas de emergencia previo a muerte de Indhira Beltré en SDE]]></title>
+    <link>https://panorama.com.do/policia-nacional-aclara-no-recibio-llamadas-de-emergencia-previo-a-muerte-de-indhira-beltre-en-sde/</link>
+    <description><![CDATA[La Policía Nacional informó que no hay registros de llamadas de emergencia relacionadas con la muerte de Indhira Carolina Beltré en Santo Domingo Este. Tanto el Sistema Nacional de Atención a Emergencias y Seguridad 9-1-1 como la central telefónica de la Policía carecen de alertas previas sobre el suceso.
+
+Una joven identificada como «Gleris» admitió haber hablado sin conocimiento del caso. El vocero de la Policía, coronel Diego Pesqueira, señaló que los investigadores desconocen esa versión.
+
+Camilo Rodríguez, de 52 años, fue capturado como el presunto autor de la muerte de Beltré, quien falleció por heridas de arma blanca.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779054854/autonoticias/articles/20260517_215414_article.png" type="image/png"/>
+    <pubDate>Sun, 17 May 2026 21:56:06 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260517215606</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidente Luis Abinader regresa al país tras concluir agenda de trabajo en Miami]]></title>
     <link>https://www.presidencia.gob.do/noticias/presidente-luis-abinader-regresa-al-pais-tras-concluir-agenda-de-trabajo-en-miami</link>
     <description><![CDATA[El presidente Luis Abinader ha vuelto al país después de cumplir con una agenda de trabajo en Miami. Durante su estadía, participó en encuentros académicos e institucionales.
@@ -1329,18 +1343,6 @@ Se ordenó reevaluar las ofertas conforme a los criterios originales y el Depart
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778619515/autonoticias/articles/20260512_205835_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 12 May 2026 20:59:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260512205903</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Yayo asegura es el momento de las zonas francas de la tecnología]]></title>
-    <link>https://robertocavada.com/yayo-asegura-es-el-momento-de-las-zonas-francas-de-la-tecnologia/</link>
-    <description><![CDATA[Yayo Sanz Lovatón, ministro de Industria, Comercio y Mipymes, participó en el XII Congreso Mundial de la Organización Mundial de Zonas Francas en Panamá. En su intervención, enfatizó la importancia de que las zonas francas se transformen en plataformas de innovación y servicios globales.
-
-El evento, que se celebra del 12 al 14 de mayo de 2026, reúne a más de 1,000 participantes de más de 70 países. La delegación dominicana está liderada por el presidente Luis Abinader.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778616482/autonoticias/articles/20260512_200802_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 12 May 2026 20:08:51 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260512200851</guid>
   </item>
 </channel>
 </rss>
