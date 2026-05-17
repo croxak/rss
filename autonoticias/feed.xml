@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 17 May 2026 15:16:47 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 17 May 2026 15:17:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Nueve testigos exponen en nuevo juicio contra Wander Franco]]></title>
+    <link>https://panorama.com.do/nueve-testigos-exponen-en-nuevo-juicio-contra-wander-franco/</link>
+    <description><![CDATA[Nueve testigos han expuesto en el nuevo juicio contra Wander Samuel Franco Aybar, acusado de abusar psicológica y sexualmente de una adolescente en Puerto Plata. El Ministerio Público busca una condena de cinco años de prisión.
+
+La madre de la víctima también enfrenta cargos por explotación sexual comercial y lavado de activos. Durante el juicio, se presentaron numerosas pruebas, incluyendo dinero encontrado en la residencia de la madre.
+
+El proceso es conocido por un tribunal colegiado ad hoc del Distrito Judicial de Puerto Plata.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779030969/autonoticias/articles/20260517_151609_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 17 May 2026 15:17:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260517151700</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader advierte: democracia peligra cuando ciudadanos ceden libertades por comodidad]]></title>
     <link>https://panorama.com.do/abinader-advierte-democracia-peligra-cuando-ciudadanos-ceden-libertades-por-comodidad/</link>
     <description><![CDATA[El presidente Luis Abinader advirtió sobre los riesgos para las democracias cuando los ciudadanos ceden libertades por seguridad o comodidad. Recibió el premio "Champion of Freedom Award" del Adam Smith Center for Economic Freedom de la FIU, destacando la importancia de la libertad como una tarea permanente.
@@ -1327,20 +1341,6 @@ PriceSmart implementará programas de responsabilidad social, como el Programa d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778533133/autonoticias/articles/20260511_205853_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 11 May 2026 20:59:29 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260511205929</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Tobías Crespo denuncia cierre de 28 negocios en la Zona Colonial y acusa abandono de las autoridades]]></title>
-    <link>https://n.com.do/2026/05/11/tobias-crespo-denuncia-cierre-negocios-zona-colonial/</link>
-    <description><![CDATA[El diputado Tobías Crespo denunció el cierre de 28 negocios en la Zona Colonial, atribuido a la baja afluencia de visitantes y el supuesto abandono de las autoridades municipales y gubernamentales.
-
-Comerciantes y residentes se sienten olvidados y afectados por problemas de drenaje, tránsito, basura y falta de parqueos. Durante una reunión con la Asociación de Comerciantes de la Zona Colonial, se expusieron las dificultades para mantener operando los negocios.
-
-Las quejas incluyen inundaciones, congestionamiento vehicular y estructuras metálicas que dificultan el paso peatonal. Crespo también lamentó el cierre del principal parqueo público y criticó la tarifa de RD$100 por hora de otro estacionamiento.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778510861/autonoticias/articles/20260511_144740_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 11 May 2026 14:49:27 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260511144927</guid>
   </item>
 </channel>
 </rss>
