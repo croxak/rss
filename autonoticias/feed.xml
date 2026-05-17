@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 17 May 2026 18:12:56 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 17 May 2026 18:13:47 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Carolina: “Seré candidata presidencial del PRM y en 2028 seré la presidenta de nuestro país”]]></title>
+    <link>https://www.elcaribe.com.do/panorama/politica/carolina-sere-candidata-presidencial-del-prm-y-en-2028-sere-la-presidenta-de-nuestro-pais/</link>
+    <description><![CDATA[Carolina Mejía, secretaria general del PRM, anunció su aspiración a la candidatura presidencial del partido para las elecciones de 2028. El anuncio se realizó en un encuentro regional en Barahona con dirigentes y militantes del PRM.
+
+Mejía destacó el crecimiento político del PRM y la importancia de mantener el trabajo cercano a la población. Su proyecto busca dar continuidad a las políticas del presidente Luis Abinader.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779041557/autonoticias/articles/20260517_181236_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 17 May 2026 18:13:47 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260517181347</guid>
+  </item>
+
+  <item>
     <title><![CDATA["Me llamó después de matarla y actuó normal": la conversación con alegado feminicida en La Toronja]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/05/17/me-llamo-tras-matarla-conversacion-tras-feminicidio-en-la-toronja/3536569</link>
     <description><![CDATA[Camilo Rodríguez, señalado por la Policía como responsable de la muerte de Indhira Beltré, llamó a Imairy Sánchez después del incidente y actuó con aparente normalidad. Le pidió que fuera a la casa de su hermana en La Toronja, Santo Domingo Este, sin explicar lo sucedido.
@@ -1331,20 +1343,6 @@ La campaña incluirá mensajes claros y directos, así como testimonios de perso
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778612269/autonoticias/articles/20260512_185748_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 12 May 2026 18:59:36 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260512185936</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gallup-RD: Leonel retiene control de la FP con un 64.9 %; Gonzalo lleva la delantera en el PLD con 48.3 %]]></title>
-    <link>https://robertocavada.com/gallup-rd-leonel-retiene-control-de-la-fp-con-un-64-9-gonzalo-lleva-la-delantera-en-el-pld-con-48-3/</link>
-    <description><![CDATA[La encuesta de Gallup República Dominicana revela que Leonel Fernández mantiene el control de la Fuerza del Pueblo con un 64.9 % de apoyo. Omar Fernández se posiciona con una imagen positiva del 54.2 %, superando ligeramente a Leonel Fernández.
-
-En el PLD, Gonzalo Castillo lidera con un 48.3 %, pero un 21.8 % de los simpatizantes no apoya a ninguna figura presidencial interna, reflejando un vacío de liderazgo.
-
-La Fuerza del Pueblo y el PLD están prácticamente empatados en simpatía partidaria nacional, con 19.6 % y 19.5 % respectivamente. Un 23.5 % de los entrevistados no simpatiza con ninguna organización política.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778612080/autonoticias/articles/20260512_185440_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 12 May 2026 18:57:58 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260512185758</guid>
   </item>
 </channel>
 </rss>
