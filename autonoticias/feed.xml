@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 18 May 2026 12:53:38 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 12:58:48 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Vaguada seguirá provocando lluvias en varios puntos del país]]></title>
+    <link>https://panorama.com.do/vaguada-seguira-provocando-lluvias-en-varios-puntos-del-pais/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología ha informado sobre lluvias dispersas con tronadas aisladas en provincias de la costa Caribeña y la cordillera Central. Se prevé un aumento de aguaceros moderados a fuertes, tormentas eléctricas y ráfagas de viento en varias regiones del país.
+
+El Centro de Pronóstico ha modificado los niveles de alertas meteorológicas debido al riesgo de inundaciones urbanas, crecidas de ríos y posibles deslizamientos de tierra. Las temperaturas continuarán calurosas, con mínimas entre 23 °C y 25 °C, y máximas entre 31 °C y 33 °C.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779109101/autonoticias/articles/20260518_125821_article.webp" type="image/jpeg"/>
+    <pubDate>Mon, 18 May 2026 12:58:48 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260518125848</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Víctor Atallah aborda agenda con Tedros Ghebreyesus previo a asumir presidencia de la Asamblea Mundial de la Salud]]></title>
     <link>https://msp.gob.do/web/?p=20914</link>
     <description><![CDATA[El Director General de la OMS, Tedros Adhanom Ghebreyesus, recibió al ministro de Salud Pública, Víctor Atallah, en preparación para la 79ª Asamblea Mundial de la Salud en Ginebra. Durante su encuentro, abordaron desafíos de salud global y la cooperación internacional.
@@ -1329,20 +1341,6 @@ De Camps afirmó que fortalecer la alfabetización inicial es una prioridad estr
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778679718/autonoticias/articles/20260513_134158_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 13 May 2026 13:45:38 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260513134538</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Comercio entre EE.UU. y Venezuela crece 22.7% tras restablecimiento de relaciones bilaterales]]></title>
-    <link>https://n.com.do/2026/05/13/839300comercio-estados-unidos-venezuela-crece-relaciones-bilaterales/</link>
-    <description><![CDATA[El comercio entre Estados Unidos y Venezuela creció un 22.7% en el primer trimestre del año, alcanzando los 3,290 millones de dólares. Este incremento se debe al restablecimiento de relaciones diplomáticas y la flexibilización de restricciones en sectores estratégicos como el energético.
-
-Las exportaciones venezolanas hacia EE.UU. sumaron 1,800 millones de dólares, con el petróleo crudo representando el 96.5% de estas. Venezuela también busca atraer inversión extranjera con cambios regulatorios en los sectores petrolero y minero.
-
-En el ámbito del transporte, la ministra venezolana Jacqueline Faría se reunió con John Barrett para discutir mejoras en conectividad aérea y logística. Se abordó la posibilidad de aumentar frecuencias y destinos aéreos, además de modernizar puertos y sistemas de transporte.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778679699/autonoticias/articles/20260513_134138_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 13 May 2026 13:42:21 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260513134221</guid>
   </item>
 </channel>
 </rss>
