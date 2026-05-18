@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 18 May 2026 15:36:13 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 18:11:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Masha, exponente urbana dominicana, recibe tres meses de prisión preventiva por presunto porte ilegal de armas]]></title>
+    <link>https://eldia.com.do/masha-artista-urbana-prision-armas-ilegales/</link>
+    <description><![CDATA[Ashley Mariel Sánchez Victoriano, conocida como “Masha”, recibió tres meses de prisión preventiva por presunto porte ilegal de armas. La medida fue dictada por un juez de Santo Domingo.
+
+Junto a Masha, Alexander Martínez Nolasco y Karla Julisa Rodríguez también enfrentan la misma medida. Fueron arrestados el 9 de mayo de 2026 en Boca Chica.
+
+Durante la inspección de su vehículo, las autoridades incautaron dos pistolas y un cargador especial. Una de las armas estaba reportada como sustraída en 2018.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779127801/autonoticias/articles/20260518_181001_article.webp" type="image/jpeg"/>
+    <pubDate>Mon, 18 May 2026 18:11:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260518181109</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidente Abinader encabeza reunión de seguimiento al Plan de Seguridad Ciudadana]]></title>
     <link>https://www.presidencia.gob.do/noticias/presidente-abinader-encabeza-reunion-de-seguimiento-al-plan-de-seguridad-ciudadana-61</link>
     <description><![CDATA[El presidente Luis Abinader encabeza una reunión para dar seguimiento al Plan de Seguridad Ciudadana. La sesión se realiza en el Salón del Club de Oficiales del Palacio de la Policía Nacional.
@@ -1325,20 +1339,6 @@ El acuerdo, firmado por Eduardo Sanz Lovatón y Matthew Stephenson, busca foment
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778696773/autonoticias/articles/20260513_182612_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 13 May 2026 18:26:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260513182640</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Abinader presenta a la República Dominicana como una de las mejores decisiones de inversión del hemisferio en el Congreso Mundial de Zonas Francas]]></title>
-    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-presenta-la-republica-dominicana-como-una-de-las-mejores-decisiones-de</link>
-    <description><![CDATA[El presidente Luis Abinader presentó a la República Dominicana como una de las mejores decisiones de inversión del hemisferio en el Congreso Mundial de Zonas Francas en Panamá. Destacó la estabilidad económica y la competitividad exportadora del país.
-
-Abinader resaltó que las zonas francas son un pilar de la economía dominicana, generando más de 200,000 empleos y representando más del 60 % de las exportaciones nacionales. También destacó la evolución hacia la transferencia tecnológica y la innovación.
-
-El mandatario invitó a empresarios a invertir en la República Dominicana, subrayando la seguridad jurídica y la eficiencia operativa del país.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778692951/autonoticias/articles/20260513_172230_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 13 May 2026 17:23:03 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260513172303</guid>
   </item>
 </channel>
 </rss>
