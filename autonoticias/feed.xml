@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 18 May 2026 19:18:42 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 19:19:10 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[México bloquea cuentas de funcionarios de Sinaloa acusados de narcotráfico por EE. UU.]]></title>
+    <link>https://elnuevodiario.com.do/mexico-bloquea-las-cuentas-de-funcionarios-de-sinaloa-acusados-de-narcotrafico-por-ee-uu/</link>
+    <description><![CDATA[La Secretaría de Hacienda de México ha bloqueado las cuentas bancarias de 10 altos funcionarios de Sinaloa acusados de narcotráfico por Estados Unidos. Entre ellos se encuentra el gobernador con licencia Rubén Rocha Moya.
+
+La medida es preventiva y no implica responsabilidad definitiva. Los bancos mexicanos emitieron alertas tras las acusaciones de Washington de que estos funcionarios ayudaron al Cartel de Sinaloa a cambio de sobornos.
+
+Dos de los funcionarios reclamados por EE. UU., Gerardo Mérida y Enrique Díaz Vega, ya se entregaron a las autoridades estadounidenses. La presidenta de México, Claudia Sheinbaum, explicó que la acción es automática y no una investigación de la UIF.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779131924/autonoticias/articles/20260518_191844_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 18 May 2026 19:19:10 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260518191910</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Intrant convierte a la República Dominicana en sede regional de la seguridad vial y reúne a 14 países en encuentro del Oisevi]]></title>
     <link>https://www.presidencia.gob.do/noticias/intrant-convierte-la-republica-dominicana-en-sede-regional-de-la-seguridad-vial-y-reune-14</link>
     <description><![CDATA[La República Dominicana será la sede de la octava edición del Encuentro Iberoamericano de Datos y Seguridad Vial del Oisevi, organizado por el Intrant. Este evento reunirá a representantes de 14 países para intercambiar experiencias y fortalecer la gestión de datos en seguridad vial.
@@ -1329,20 +1343,6 @@ El director del DNI, Luis Soto, resaltó la importancia de proteger el ciberespa
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778707020/autonoticias/articles/20260513_211659_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 13 May 2026 21:17:25 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260513211725</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio Público arresta a seis integrantes de una red criminal que se dedicaba a estafar]]></title>
-    <link>https://pgr.gob.do/ministerio-publico-arresta-a-seis-integrantes-de-una-red-criminal-que-se-dedicaba-a-estafar/</link>
-    <description><![CDATA[El Ministerio Público arrestó a seis personas en el Gran Santo Domingo, vinculadas a una red criminal que estafó a una entidad financiera por más de RD$200 millones. Los detenidos son Luis Miguel García Peña, Pedro Andrés García Pérez, Luis Guillermo García Faña, Elsa Sthefanya Sánchez Fernández, Pedro Reynaldo Bello Pérez y Julio Antonio García Faña.
-
-Durante el operativo, se ocuparon tres vehículos de alto valor, más de veinticinco relojes de lujo, un arma de fuego sin documentación, diversas prendas de valor, RD$408,186 en efectivo, más de diez computadoras portátiles y quince teléfonos móviles.
-
-Las autoridades continúan investigando para identificar a otros posibles involucrados en esta red criminal.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778703065/autonoticias/articles/20260513_201105_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 13 May 2026 20:14:12 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260513201412</guid>
   </item>
 </channel>
 </rss>
