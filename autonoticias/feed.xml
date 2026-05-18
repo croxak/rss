@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 18 May 2026 12:58:48 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 12:59:42 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Ministro Víctor Atallah toma posesión como presidente de la Asamblea Mundial de la Salud]]></title>
+    <link>https://eldia.com.do/ministro-victor-atallah-toma-posesion-como-presidente-de-la-asamblea-mundial-de-la-salud/</link>
+    <description><![CDATA[El ministro de Salud Pública, Víctor Atallah, ha sido elegido por unanimidad como presidente de la 79.ª Asamblea Mundial de la Salud en Ginebra, Suiza. Con esta elección, la República Dominicana lidera el principal escenario de gobernanza sanitaria global de la OMS.
+
+Durante la sesión, se estableció la Comisión de Credenciales y se eligieron a los vicepresidentes y autoridades de las comisiones principales. Esta designación fortalece el posicionamiento internacional del país en materia de salud.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779109156/autonoticias/articles/20260518_125916_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 18 May 2026 12:59:42 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260518125942</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Vaguada seguirá provocando lluvias en varios puntos del país]]></title>
     <link>https://panorama.com.do/vaguada-seguira-provocando-lluvias-en-varios-puntos-del-pais/</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología ha informado sobre lluvias dispersas con tronadas aisladas en provincias de la costa Caribeña y la cordillera Central. Se prevé un aumento de aguaceros moderados a fuertes, tormentas eléctricas y ráfagas de viento en varias regiones del país.
@@ -1329,18 +1341,6 @@ Además, el SNS ha logrado un ahorro de 1.3 millones mensuales en consumo de com
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778682701/autonoticias/articles/20260513_143141_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 13 May 2026 14:32:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260513143228</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[De Camps afirma alfabetización inicial en edad oportuna es prioridad del Minerd]]></title>
-    <link>https://panorama.com.do/de-camps-afirma-alfabetizacion-inicial-en-edad-oportuna-es-prioridad-del-minerd/</link>
-    <description><![CDATA[El ministro de Educación, Luis Miguel De Camps, enfatizó la importancia de la alfabetización en los primeros grados escolares para el desarrollo educativo. Durante el tercer conversatorio del programa CON BASE, destacó que aprender a leer y desarrollar el pensamiento lógico en los primeros años es fundamental.
-
-De Camps afirmó que fortalecer la alfabetización inicial es una prioridad estratégica para el presente y futuro del país. Carlos Carrera, representante de UNICEF, también resaltó el impacto del programa en el aprendizaje de los niños.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778679718/autonoticias/articles/20260513_134158_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 13 May 2026 13:45:38 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260513134538</guid>
   </item>
 </channel>
 </rss>
