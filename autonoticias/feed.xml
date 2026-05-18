@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 18 May 2026 18:49:29 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 19:18:42 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Intrant convierte a la República Dominicana en sede regional de la seguridad vial y reúne a 14 países en encuentro del Oisevi]]></title>
+    <link>https://www.presidencia.gob.do/noticias/intrant-convierte-la-republica-dominicana-en-sede-regional-de-la-seguridad-vial-y-reune-14</link>
+    <description><![CDATA[La República Dominicana será la sede de la octava edición del Encuentro Iberoamericano de Datos y Seguridad Vial del Oisevi, organizado por el Intrant. Este evento reunirá a representantes de 14 países para intercambiar experiencias y fortalecer la gestión de datos en seguridad vial.
+
+La apertura oficial se celebrará el 20 de mayo en el Centro de Convenciones del Ministerio de Relaciones Exteriores y se extenderá hasta el 23 de mayo. Participarán delegaciones de Argentina, Chile, Colombia, Costa Rica, Ecuador, El Salvador, España, Guatemala, Honduras, Panamá, Paraguay, Perú, Uruguay y República Dominicana.
+
+El director ejecutivo del Intrant, Milton Morrison, destacó la importancia de los datos para impulsar políticas efectivas. El encuentro cuenta con el respaldo de varias instituciones y empresas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779131886/autonoticias/articles/20260518_191806_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 18 May 2026 19:18:42 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260518191842</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Faride Raful admite fallas del sistema ante aumento de feminicidios]]></title>
     <link>https://panorama.com.do/faride-raful-admite-fallas-del-sistema-ante-aumento-de-feminicidios-en-rd/</link>
     <description><![CDATA[Faride Raful, ministra de Interior y Policía, admitió fallas en el sistema institucional dominicano para prevenir feminicidios y proteger a mujeres en riesgo. A pesar de los esfuerzos, persisten grandes desafíos.
@@ -1329,20 +1343,6 @@ Las autoridades continúan investigando para identificar a otros posibles involu
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778703065/autonoticias/articles/20260513_201105_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 13 May 2026 20:14:12 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260513201412</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Cartera de crédito en moneda extranjera ascendió a USD 10,228.52 millones en 2025]]></title>
-    <link>https://www.presidencia.gob.do/noticias/cartera-de-credito-en-moneda-extranjera-ascendio-usd-1022852-millones-en-2025</link>
-    <description><![CDATA[La cartera de crédito en moneda extranjera del sistema financiero dominicano ascendió a USD 10,228.52 millones al cierre de diciembre de 2025, representando el 24 % de la cartera total.
-
-El sector eléctrico fue el principal receptor de estos préstamos, con USD 1,761.1 millones, seguido por los sectores turismo y actividades inmobiliarias.
-
-La morosidad se mantuvo en 0.6 %, y las provisiones para cubrir la cartera vencida fueron del 357.3 %.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778702711/autonoticias/articles/20260513_200510_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 13 May 2026 20:08:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260513200801</guid>
   </item>
 </channel>
 </rss>
