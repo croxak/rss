@@ -7,9 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 18 May 2026 21:38:52 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 23:50:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[JCE iniciará renovación de cédula para dominicanos en el exterior el 20 de mayo]]></title>
+    <link>https://www.elcaribe.com.do/nacionales/jce-iniciara-renovacion-de-cedula-para-dominicanos-en-el-exterior/</link>
+    <description><![CDATA[La Junta Central Electoral iniciará el 20 de mayo la renovación de la cédula de identidad y electoral para dominicanos en el exterior. Este proceso se realizará mediante citas en centros habilitados en varios países.
+
+A diferencia del proceso en República Dominicana, los ciudadanos en el extranjero no tendrán que esperar el mes de su cumpleaños para renovar el documento. La nueva cédula contará con versiones física y digital, con medidas de seguridad mejoradas.
+
+Los dominicanos en el exterior deberán solicitar una cita a través de la plataforma oficial de la JCE y presentarse en el centro elegido el día asignado. Los centros estarán en consulados y oficinas en Estados Unidos, Canadá, España, Italia, Puerto Rico, Panamá, México, Chile, Curazao, Aruba, San Martín, Holanda y Suiza.
+
+La nueva cédula será necesaria para trámites bancarios, notariales, consulares y migratorios.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779148160/autonoticias/articles/20260518_234920_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 18 May 2026 23:50:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260518235005</guid>
+  </item>
+
+  <item>
     <title><![CDATA[MP concluye presentación de pruebas en nuevo juicio contra Wander Franco por abuso sexual infantil]]></title>
     <link>https://elnuevodiario.com.do/mp-concluye-presentacion-de-pruebas-en-nuevo-juicio-contra-wander-franco-por-abuso-sexual-infantil/</link>
     <description><![CDATA[El Ministerio Público concluyó la presentación de pruebas en el juicio contra Wander Samuel Franco Aybar, acusado de abuso psicológico y sexual de una adolescente en Puerto Plata. Siete peritos confirmaron la relación de Franco con la menor y las conversaciones en las que la madre de la víctima solicitaba dinero al acusado.
@@ -1327,20 +1343,6 @@ El vocero de la Policía Nacional, Diego Pesqueira, confirmó el hecho y señal�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778713740/autonoticias/articles/20260513_230859_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 13 May 2026 23:12:46 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260513231246</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Canciller dice no era necesario que acuerdo con EE. UU. para recibir deportados pasara por el Congreso]]></title>
-    <link>https://elnuevodiario.com.do/canciller-dice-no-era-necesario-que-acuerdo-con-ee-uu-para-recibir-deportados-pasara-por-el-congreso/</link>
-    <description><![CDATA[El canciller Roberto Álvarez aclaró que el memorando de entendimiento con Estados Unidos para recibir deportados no fue enviado al Congreso porque no es un tratado vinculante. Según Álvarez, el acuerdo puede ser terminado en cualquier momento por cualquiera de las partes.
-
-El funcionario explicó que no se informó con antelación sobre las negociaciones, ya que los memorándums de entendimiento se anuncian al concretarse. Tras la firma, el Gobierno emitió un comunicado oficial.
-
-Álvarez también comentó sobre las declaraciones del ministro administrativo de la Presidencia, Andrés Bautista, quien desconocía el acuerdo debido a un viaje del presidente a Panamá.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778713903/autonoticias/articles/20260513_231143_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 13 May 2026 23:12:25 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260513231225</guid>
   </item>
 </channel>
 </rss>
