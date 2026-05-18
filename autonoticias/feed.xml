@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 18 May 2026 19:19:10 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 19:49:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Matan al productor urbano "Maestro Queliz" en San Pedro de Macorís; hay dos arrestados por el caso]]></title>
+    <link>https://www.diariolibre.com/revista/farandula/2026/05/18/matan-al-productor-urbano-maestro-queliz-en-san-pedro-macoris/3537799</link>
+    <description><![CDATA[El productor musical urbano Tomy Israel Queliz Hernández, conocido como "Maestro Queliz", murió tras ser herido con arma blanca en el sector Villa Faro, San Pedro de Macorís. El hecho ocurrió a las 7:20 de la noche en la calle Coral, donde residía la víctima.
+
+Dos jóvenes, Edy Yoneudi Valera, alias "Nano", y Yariel Fermín Tolentino De León, apodado "Ñoño", fueron arrestados como presuntos implicados en el caso. Las autoridades continúan investigando las circunstancias del crimen.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779133727/autonoticias/articles/20260518_194847_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 18 May 2026 19:49:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260518194920</guid>
+  </item>
+
+  <item>
     <title><![CDATA[México bloquea cuentas de funcionarios de Sinaloa acusados de narcotráfico por EE. UU.]]></title>
     <link>https://elnuevodiario.com.do/mexico-bloquea-las-cuentas-de-funcionarios-de-sinaloa-acusados-de-narcotrafico-por-ee-uu/</link>
     <description><![CDATA[La Secretaría de Hacienda de México ha bloqueado las cuentas bancarias de 10 altos funcionarios de Sinaloa acusados de narcotráfico por Estados Unidos. Entre ellos se encuentra el gobernador con licencia Rubén Rocha Moya.
@@ -1331,18 +1343,6 @@ El presidente Luis Abinader ya había rechazado acuerdos que implicaran recibir 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778713808/autonoticias/articles/20260513_231008_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 13 May 2026 23:11:18 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260513231118</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[DNI lanza el Instituto Criptográfico Nacional]]></title>
-    <link>https://www.diariolibre.com/actualidad/nacional/2026/05/13/dni-republica-dominicana-presenta-instituto-criptografico-nacional/3532643</link>
-    <description><![CDATA[La Dirección Nacional de Inteligencia (DNI) presentó el Instituto Criptográfico Nacional (ICN) como la autoridad técnica en criptografía del Estado dominicano. Este instituto protegerá los activos de información y garantizará la confianza en los servicios digitales públicos.
-
-El director del DNI, Luis Soto, resaltó la importancia de proteger el ciberespacio y mencionó que la seguridad nacional del siglo XXI también se juega en la capacidad del Estado para proteger su información. Soto explicó que la criptografía es la disciplina que protege la información mediante técnicas matemáticas y algoritmos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778707020/autonoticias/articles/20260513_211659_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 13 May 2026 21:17:25 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260513211725</guid>
   </item>
 </channel>
 </rss>
