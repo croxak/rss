@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 18 May 2026 18:14:13 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 18:48:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Exportaciones de zonas francas superan los USD 2,800 millones en el primer cuatrimestre de 2026]]></title>
+    <link>https://www.presidencia.gob.do/noticias/exportaciones-de-zonas-francas-superan-los-usd-2800-millones-en-el-primer-cuatrimestre-de</link>
+    <description><![CDATA[El Consejo Nacional de Zonas Francas de Exportación (CNZFE) reportó que las exportaciones del sector alcanzaron los USD 2,803.3 millones en el primer cuatrimestre de 2026, con un crecimiento interanual de 4.3 %. Los productos médicos y farmacéuticos lideraron las exportaciones.
+
+El director ejecutivo del CNZFE, Johannes Kelner, resaltó la solidez del régimen de zonas francas dominicano y la confianza del inversionista internacional. Destacó el entorno macroeconómico estable y las políticas del presidente Luís Abinader Corona como factores clave.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779130073/autonoticias/articles/20260518_184753_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 18 May 2026 18:48:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260518184819</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Acusan a 23 miembros de red criminal de Puerto Rico con vínculos en RD]]></title>
     <link>https://eldia.com.do/acusan-a-23-miembros-de-red-criminal-de-puerto-rico-con-vinculos-en-rd/</link>
     <description><![CDATA[La Fiscalía federal acusó a 23 miembros de 'La Familia Nunca Muere' en Puerto Rico por asesinatos, narcotráfico y delitos con armas. La organización conspiró para importar cocaína desde República Dominicana y distribuir narcóticos en Puerto Rico y EE.UU.
@@ -1333,20 +1345,6 @@ Las autoridades informaron que operaba durante la madrugada, rompiendo cristales
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778702147/autonoticias/articles/20260513_195547_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 13 May 2026 19:56:13 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260513195613</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[DGA pone en marcha TIC para eficientizar los servicios tecnológicos institucionales]]></title>
-    <link>https://www.presidencia.gob.do/noticias/dga-pone-en-marcha-tic-para-eficientizar-los-servicios-tecnologicos-institucionales</link>
-    <description><![CDATA[La Dirección General de Aduanas (DGA) ha puesto en marcha el Centro de Observabilidad TIC en Santo Domingo. Este centro busca mejorar la supervisión y estabilidad de los servicios tecnológicos institucionales.
-
-Nelson Arroyo, director general de Aduanas, destacó que el centro permitirá reducir los tiempos de detección y respuesta ante incidentes, aumentando la disponibilidad y confiabilidad de los sistemas críticos.
-
-Frederick López, subdirector de Transformación Digital, explicó que el centro garantizará visibilidad en tiempo real del estado de los servicios tecnológicos y fortalecerá la ciberseguridad mediante monitoreo continuo.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778702097/autonoticias/articles/20260513_195457_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 13 May 2026 19:55:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260513195533</guid>
   </item>
 </channel>
 </rss>
