@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 18 May 2026 15:25:15 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 15:36:13 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Presidente Abinader encabeza reunión de seguimiento al Plan de Seguridad Ciudadana]]></title>
+    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-encabeza-reunion-de-seguimiento-al-plan-de-seguridad-ciudadana-61</link>
+    <description><![CDATA[El presidente Luis Abinader encabeza una reunión para dar seguimiento al Plan de Seguridad Ciudadana. La sesión se realiza en el Salón del Club de Oficiales del Palacio de la Policía Nacional.
+
+En el encuentro se evalúan las tareas ejecutadas y se discuten nuevas disposiciones para mejorar la seguridad en el país. Asisten ministros, directores de seguridad y fiscales de distintas regiones.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779118542/autonoticias/articles/20260518_153542_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 18 May 2026 15:36:13 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260518153613</guid>
+  </item>
+
+  <item>
     <title><![CDATA[DNCD incauta 120 paquetes de cocaína ocultos en equipos médicos en Puerto Caucedo]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/05/18/dncd-incauta-120-paquetes-de-cocaina-en-puerto-caucedo-1998573/</link>
     <description><![CDATA[En una operación conjunta, la Dirección Nacional de Control de Drogas (DNCD) y el Ministerio Público incautaron 120 paquetes de cocaína en el puerto Multimodal Caucedo. La droga estaba oculta en equipos médicos destinados a exportación.
@@ -1327,20 +1339,6 @@ El mandatario invitó a empresarios a invertir en la República Dominicana, subr
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778692951/autonoticias/articles/20260513_172230_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 13 May 2026 17:23:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260513172303</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Luis Maisichell Dicent dice que sigue sin acceso a bancos pese a absolución en Operación]]></title>
-    <link>https://noticiassin.com/videos/el-despertador/2026/05/13/luis-dicent-denuncia-veto-bancario-pese-a-absolucion-scj-1995543/</link>
-    <description><![CDATA[Luis Maisichell Dicent, exadministrador de la Lotería Nacional, asegura que enfrenta bloqueos financieros y sociales pese a su absolución en el caso Operación 13. Afirma que no puede abrir cuentas bancarias ni obtener una carta de buena conducta, lo que afecta sus aspiraciones políticas.
-
-Dicent denunció abusos de poder por parte del Ministerio Público y anunció acciones legales contra el Estado dominicano. También mencionó amenazas de Tony Peña Guaba y limitaciones impuestas por Jochi Vicente durante su gestión en la Lotería Nacional.
-
-El exadministrador defiende su permanencia en el PRM y asegura que dejó la Lotería Nacional con cientos de millones de pesos en cuentas. Concluyó que, de haber justicia, estaría nuevamente en su cargo.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778686992/autonoticias/articles/20260513_154312_article.png" type="image/png"/>
-    <pubDate>Wed, 13 May 2026 15:44:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260513154401</guid>
   </item>
 </channel>
 </rss>
