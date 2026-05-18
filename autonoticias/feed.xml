@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 18 May 2026 18:11:34 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 18:13:17 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Hallan muerto a exregidor Elido Zapata tras ser reportado desaparecido en Dajabón]]></title>
+    <link>https://n.com.do/2026/05/18/hallan-muerto-a-exregidor-elido-zapata-tras-ser-reportado-desaparecido-en-dajabon/</link>
+    <description><![CDATA[El exregidor Elido Zapata fue hallado muerto en Santiago de la Cruz, Dajabón, tras ser reportado desaparecido desde el sábado. Su cuerpo fue encontrado cerca del Callejón de Los Socias, próximo a la finca de Paul.
+
+Zapata había salido presuntamente a realizar un pago a trabajadores haitianos antes de desaparecer. La búsqueda fue realizada por comunitarios, entre ellos Eligio Antonio Estévez Valerio, quien encontró el cuerpo.
+
+Las autoridades investigan el caso y el cuerpo fue trasladado al INACIF para determinar las causas de la muerte.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779127928/autonoticias/articles/20260518_181207_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 18 May 2026 18:13:17 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260518181317</guid>
+  </item>
+
+  <item>
     <title><![CDATA[PLD exige al Ministerio Público revelar avances del caso “SeNaSa 2.0” y transparentar investigación]]></title>
     <link>https://robertocavada.com/pld-exige-al-ministerio-publico-revelar-avances-del-caso-senasa-2-0-y-transparentar-investigacion/</link>
     <description><![CDATA[El Partido de la Liberación Dominicana (PLD) ha exigido al Ministerio Público que informe sobre los avances del caso "SeNaSa 2.0", relacionado con un presunto desfalco en el Seguro Nacional de Salud.
@@ -1329,20 +1343,6 @@ El proyecto también ordena la instalación de servicios de agua potable y estab
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778699318/autonoticias/articles/20260513_190838_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 13 May 2026 19:09:09 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260513190909</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Paliza afirma acuerdo migratorio con EE.UU., no afecta soberanía dominicana]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/05/13/paliza-acuerdo-migratorio-con-ee-uu-no-cede-soberania-rd-1995764/</link>
-    <description><![CDATA[El ministro de la Presidencia, José Ignacio Paliza, aseguró que el acuerdo entre República Dominicana y Estados Unidos sobre repatriados no compromete la soberanía nacional. El convenio forma parte de la cooperación en seguridad entre ambos países.
-
-Paliza destacó que cualquier solicitud de repatriación debe ser aceptada por el Gobierno dominicano, manteniendo así el control sobre las decisiones. Además, se excluye el traslado de ciudadanos haitianos.
-
-El acuerdo tiene una duración inicial de un año y refleja las relaciones excepcionales entre República Dominicana y Estados Unidos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778696725/autonoticias/articles/20260513_182525_article.png" type="image/png"/>
-    <pubDate>Wed, 13 May 2026 18:27:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260513182730</guid>
   </item>
 </channel>
 </rss>
