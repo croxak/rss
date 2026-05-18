@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 18 May 2026 14:36:08 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 14:37:25 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[PN intercepta vehículos con 38 haitianos indocumentados en Mao]]></title>
+    <link>https://n.com.do/2026/05/18/interceptan-haitianos-indocumentados-mao/</link>
+    <description><![CDATA[La Policía Nacional detuvo dos vehículos en Mao, provincia Valverde, que transportaban a 38 haitianos indocumentados. Los vehículos, una Honda CR-V y una BMW, eran conducidos por Leuri Ventura Sánchez y Juan Carlos Garcías Hernández, respectivamente.
+
+Ambos conductores fueron arrestados para fines de investigación, mientras que los ciudadanos haitianos fueron puestos bajo custodia para el proceso migratorio correspondiente.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779114879/autonoticias/articles/20260518_143439_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 18 May 2026 14:37:25 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260518143725</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Díaz-Canel denuncia supuestas amenazas de agresión militar contra Cuba en medio de tensiones con EE.UU.]]></title>
     <link>https://robertocavada.com/diaz-canel-denuncia-supuestas-amenazas-de-agresion-militar-contra-cuba-en-medio-de-tensiones-con-ee-uu/</link>
     <description><![CDATA[El presidente cubano, Miguel Díaz-Canel, ha denunciado amenazas de agresión militar por parte de Estados Unidos. Estas declaraciones se producen en medio de reportes sobre presuntas capacidades militares cubanas vinculadas a drones adquiridos a Irán y Rusia.
@@ -1329,18 +1341,6 @@ El politólogo advirtió que "la geopolítica no tiene corazón ni sentimientos"
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778685040/autonoticias/articles/20260513_151039_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 13 May 2026 15:11:26 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260513151126</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Director de la DIDA sobre recorte a partidos políticos «El PRM ganó sin recibir dinero»]]></title>
-    <link>https://elnuevodiario.com.do/director-de-la-dida-sobre-recorte-a-partidos-politicos-el-prm-gano-sin-recibir-dinero/</link>
-    <description><![CDATA[Elías Báez de los Santos, director de la DIDA, declaró que el PRM ganó las elecciones sin recibir fondos para su campaña, logrando un 35% de los votos. Según él, recibir dinero no asegura el respaldo del pueblo.
-
-El presidente Luis Abinader propuso reducir en un 50% el presupuesto para partidos políticos, con el objetivo de generar RD$40,000 millones. Esta medida ha sido rechazada por los partidos, quienes advierten que podría afectar el sistema democrático.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778683021/autonoticias/articles/20260513_143701_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 13 May 2026 14:37:26 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260513143726</guid>
   </item>
 </channel>
 </rss>
