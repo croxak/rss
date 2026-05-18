@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 18 May 2026 18:48:19 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 18 May 2026 18:49:29 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Faride Raful admite fallas del sistema ante aumento de feminicidios]]></title>
+    <link>https://panorama.com.do/faride-raful-admite-fallas-del-sistema-ante-aumento-de-feminicidios-en-rd/</link>
+    <description><![CDATA[Faride Raful, ministra de Interior y Policía, admitió fallas en el sistema institucional dominicano para prevenir feminicidios y proteger a mujeres en riesgo. A pesar de los esfuerzos, persisten grandes desafíos.
+
+Raful enfatizó la importancia de un cambio cultural y social para enfrentar el problema y defendió el trabajo conjunto de las instituciones, aunque reconoció que las acciones actuales no son suficientes.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779130118/autonoticias/articles/20260518_184837_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 18 May 2026 18:49:29 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260518184929</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Exportaciones de zonas francas superan los USD 2,800 millones en el primer cuatrimestre de 2026]]></title>
     <link>https://www.presidencia.gob.do/noticias/exportaciones-de-zonas-francas-superan-los-usd-2800-millones-en-el-primer-cuatrimestre-de</link>
     <description><![CDATA[El Consejo Nacional de Zonas Francas de Exportación (CNZFE) reportó que las exportaciones del sector alcanzaron los USD 2,803.3 millones en el primer cuatrimestre de 2026, con un crecimiento interanual de 4.3 %. Los productos médicos y farmacéuticos lideraron las exportaciones.
@@ -1331,20 +1343,6 @@ La morosidad se mantuvo en 0.6 %, y las provisiones para cubrir la cartera venci
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778702711/autonoticias/articles/20260513_200510_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 13 May 2026 20:08:01 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260513200801</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía captura a “Raquiñita”, acusado de robos en vehículos en Ensanche Ozama y Villa Duarte]]></title>
-    <link>https://www.policianacional.gob.do/policia-captura-a-raquinita-acusado-de-robos-en-vehiculos-en-ensanche-ozama-y-villa-duarte/</link>
-    <description><![CDATA[La Policía Nacional capturó a Kelvin Medina Castaño, conocido como “Raquiñita” o “El Cojo”, acusado de cometer robos en vehículos en Ensanche Ozama y Villa Duarte.
-
-La detención se llevó a cabo en la calle Sabana Larga, donde se le incautó un taladro presuntamente utilizado en los robos. Medina Castaño era buscado por la orden de arresto No. RAJ-2026-06821.
-
-Las autoridades informaron que operaba durante la madrugada, rompiendo cristales de vehículos para sustraer herramientas y otras pertenencias. Su identificación fue posible gracias a labores de inteligencia y cámaras de vigilancia.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778702147/autonoticias/articles/20260513_195547_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 13 May 2026 19:56:13 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260513195613</guid>
   </item>
 </channel>
 </rss>
