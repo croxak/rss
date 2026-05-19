@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 19 May 2026 18:43:44 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 19 May 2026 21:41:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[JetBlue suspenderá vuelos Newark-Santo Domingo y Punta Cana]]></title>
+    <link>https://www.elcaribe.com.do/panorama/dinero/jetblue-suspende-vuelos-newark-santo-domingo-punta-cana/</link>
+    <description><![CDATA[JetBlue Airways ha anunciado la suspensión de sus vuelos entre el Aeropuerto Internacional Newark Liberty y las ciudades dominicanas de Santo Domingo y Punta Cana, efectiva a partir del 8 de julio. Esta medida es parte de una reestructuración de su red de operaciones.
+
+La aerolínea continuará ofreciendo servicios a estos destinos desde el aeropuerto John F. Kennedy en Nueva York. Los clientes afectados podrán elegir vuelos alternativos o recibir un reembolso completo.
+
+La decisión se debe a la necesidad de ajustar operaciones en Newark, un aeropuerto costoso para JetBlue, y concentrar sus esfuerzos en rutas más rentables.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779226829/autonoticias/articles/20260519_214028_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 19 May 2026 21:41:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260519214135</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ejército detiene conductor tras persecución con siete haitianos indocumentados en Constanza]]></title>
     <link>https://www.elcaribe.com.do/panorama/justicia/ejercito-detiene-conductor-tras-persecucion-con-siete-haitianos-indocumentados-en-constanza/</link>
     <description><![CDATA[Miembros del 6to. Batallón de Cazadores detuvieron a un conductor que transportaba a siete nacionales haitianos en condición migratoria irregular en Constanza.
@@ -1321,20 +1335,6 @@ Este proyecto es parte de la estrategia del Gobierno para modernizar el comercio
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778788304/autonoticias/articles/20260514_195143_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 14 May 2026 19:53:35 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260514195335</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gold Quest confirma retiro de equipos y cierre de operaciones del proyecto Romero en San Juan]]></title>
-    <link>https://n.com.do/2026/05/14/gold-quest-dominicana-retiro-equipos-proyecto-romero-san-juan/</link>
-    <description><![CDATA[Gold Quest Dominicana ha concluido el retiro de equipos y cierre de operaciones del proyecto Romero en San Juan. La empresa destacó que el proceso se realizó de manera ordenada y conforme a los términos del Ministerio de Medio Ambiente.
-
-El presidente Luis Abinader ordenó la detención de actividades del proyecto debido al rechazo masivo de la población, en cumplimiento con la Ley 64-00 de Medioambiente.
-
-El proyecto Romero, ubicado en la concesión La Escandalosa en Tireo, había mostrado un valor neto después de impuestos de 203 millones de dólares en un estudio de prefactibilidad.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778781488/autonoticias/articles/20260514_175808_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 14 May 2026 18:00:46 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260514180046</guid>
   </item>
 </channel>
 </rss>
