@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 19 May 2026 12:30:43 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 19 May 2026 13:20:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Autoridades mantienen vigilancia meteorológica en seis provincias ante condiciones inestables]]></title>
+    <link>https://robertocavada.com/autoridades-mantienen-vigilancia-meteorologica-en-seis-provincias-ante-condiciones-inestables/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología ha anunciado que la humedad y la inestabilidad atmosférica continuarán afectando el país, provocando aguaceros locales, tronadas aisladas y ráfagas de viento. Las lluvias se esperan en el interior y zonas montañosas durante la tarde y noche.
+
+Las temperaturas seguirán calurosas, por lo que se recomienda a la población mantenerse hidratada y evitar la exposición al sol entre las 11:00 a.m. y las 4:00 p.m.
+
+El Centro de Operaciones de Emergencias ha emitido alerta verde para seis provincias: Dajabón, San Cristóbal, Santiago Rodríguez, Sánchez Ramírez, Duarte y Monte Plata. Se aconseja a los residentes en zonas vulnerables a inundaciones estar atentos a los boletines oficiales.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779195797/autonoticias/articles/20260519_130316_article.png" type="image/png"/>
+    <pubDate>Tue, 19 May 2026 13:20:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260519132000</guid>
+  </item>
+
+  <item>
     <title><![CDATA[PSOE respalda a expresidente español Zapatero tras imputación por tres presuntos delitos]]></title>
     <link>https://n.com.do/2026/05/19/psoe-respalda-expresidente-gobierno-espanol-zapatero-imputacion-plus-ultra/</link>
     <description><![CDATA[El PSOE ha mostrado su respaldo al expresidente José Luis Rodríguez Zapatero, quien ha sido citado como investigado en el caso de la aerolínea Plus Ultra. La investigación se centra en presuntos delitos de organización criminal, tráfico de influencias y falsedad documental.
@@ -1329,20 +1343,6 @@ Las renovaciones incluyeron drenaje, iluminación, graderías, butacas y más, c
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778766345/autonoticias/articles/20260514_134545_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 14 May 2026 13:47:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260514134706</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[RD presidirá por primera vez la 79ª Asamblea Mundial de la Salud de la OMS en Ginebra]]></title>
-    <link>https://elnuevodiario.com.do/rd-presidira-por-primera-vez-la-79a-asamblea-mundial-de-la-salud-de-la-oms-en-ginebraministro-de-salud-encabezara-la-79a-asamblea-mundial-de-la-salud-de-la-oms-en-ginebra/</link>
-    <description><![CDATA[República Dominicana asumirá la presidencia de la 79ª Asamblea Mundial de la Salud de la OMS en Ginebra, del 18 al 23 de mayo. El ministro de Salud, Víctor Atallah, liderará las sesiones y coordinará debates entre los Estados miembros.
-
-Durante el evento, se abordará la prevención y manejo integral de la obesidad, así como otros temas como financiamiento sanitario, preparación ante emergencias, salud mental, enfermedades transmisibles y fortalecimiento de la atención primaria.
-
-Después de la asamblea, Atallah viajará a Roma para participar en la Semana de la Nutrición 2026.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778765945/autonoticias/articles/20260514_133904_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 14 May 2026 13:39:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260514133930</guid>
   </item>
 </channel>
 </rss>
