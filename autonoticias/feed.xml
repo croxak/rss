@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 19 May 2026 17:37:59 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 19 May 2026 17:40:38 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Hombre muere tras caer del parqueo de Plaza Central; autoridades investigan el caso]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/05/19/hombre-muere-tras-caer-del-parqueo-de-plaza-central-2000205/</link>
+    <description><![CDATA[Joselito de la Rosario Paulino, un comerciante de 50 años, falleció tras caer desde el parqueo de Plaza Central en Santo Domingo. La Policía Nacional investiga el caso utilizando las cámaras de seguridad del lugar.
+
+Familiares y conocidos lo describen como un hombre creyente y conciliador. El vocero de la Policía Nacional aseguró que se ofrecerá información oportuna al concluir las investigaciones.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779212404/autonoticias/articles/20260519_174004_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 19 May 2026 17:40:38 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260519174038</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Arrestan a dos polizones dominicanos por contrabando de 64 migrantes a Puerto Rico]]></title>
     <link>https://noticiassin.com/mundo/puerto-rico/2026/05/19/arrestan-dominicanos-por-contrabando-de-64-migrantes-a-2000267/</link>
     <description><![CDATA[La Oficina de Investigaciones de Seguridad Nacional (HSI) en Puerto Rico arrestó a dos dominicanos acusados de contrabando marítimo de 64 migrantes hacia la isla. Los imputados, Gil Antonio Febles Esteve y Wilton Mejía Hernández, intentaron llegar a Cabo Rojo con 58 dominicanos y 6 haitianos.
@@ -1325,20 +1337,6 @@ El Ministerio Público, representado por el fiscal Tito González, ha solicitado
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778777570/autonoticias/articles/20260514_165249_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 14 May 2026 16:54:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260514165414</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[La República Dominicana y Guyana firman contrato para exploración de bloque petrolero en Guyana]]></title>
-    <link>https://www.presidencia.gob.do/noticias/la-republica-dominicana-y-guyana-firman-contrato-para-exploracion-de-bloque-petrolero-en</link>
-    <description><![CDATA[La República Dominicana y Guyana han firmado un contrato para la exploración de petróleo o gas natural en el bloque on-shore Berbice, ubicado en Guyana. Este acuerdo busca fortalecer la seguridad energética y la cooperación bilateral.
-
-La Refinería Dominicana de Petróleo representará al Estado dominicano, que tendrá una participación del 10 % en el bloque sin necesidad de inversión de capital. Este logro es resultado de las gestiones del presidente Luis Abinader y su homólogo guyanés, Mohamed Irfaan Ali.
-
-El acuerdo se basa en un memorando de entendimiento firmado el 8 de agosto de 2023, y se ha conformado un grupo de trabajo binacional para facilitar la obtención de derechos de exploración y explotación.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778777494/autonoticias/articles/20260514_165134_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 14 May 2026 16:52:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260514165205</guid>
   </item>
 </channel>
 </rss>
