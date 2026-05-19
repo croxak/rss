@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 19 May 2026 15:39:27 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 19 May 2026 15:43:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Consejo del Poder Judicial inicia reunión para conocer demandas de jueces y evitar paro este viernes]]></title>
+    <link>https://eldia.com.do/consejo-del-poder-judicial-inicia-reunion-para-conocer-demandas-de-jueces-y-evitar-paro-este-viernes/</link>
+    <description><![CDATA[El Consejo del Poder Judicial en República Dominicana se reunió para tratar las demandas de jueces y servidores judiciales, quienes exigen mejoras salariales y laborales. La reunión busca evitar un paro programado para el viernes 21 de mayo, respaldado por más de 400 magistrados.
+
+Las demandas incluyen un aumento salarial, ascensos pendientes y mejoras en las condiciones laborales. La crisis se debe al descontento con el manual de evaluación de desempeño institucional.
+
+Si el paro se lleva a cabo, afectará las audiencias no urgentes en los tribunales dominicanos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779205357/autonoticias/articles/20260519_154237_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 19 May 2026 15:43:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260519154304</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Mujer muere baleada en ataque armado en Los Solares, Santiago de los Caballeros]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/05/19/mujer-asesinada-a-tiros-en-los-solares-santiago-de-los-2000113/</link>
     <description><![CDATA[Margarita Díaz García, conocida como "La China", falleció tras ser baleada en un ataque armado en Los Solares, Santiago de los Caballeros. 
@@ -1327,20 +1341,6 @@ A pesar del aumento en registros, sectores como el editorial aún están rezagad
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778773336/autonoticias/articles/20260514_154216_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 14 May 2026 15:42:55 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260514154255</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El Ministerio de Industria, Comercio y Mipymes y DP World anuncian inversión adicional de USD$100 millones para 2026]]></title>
-    <link>https://micm.gob.do/el-ministerio-de-industria-comercio-y-mipymes-y-dp-world-anuncian-inversion-adicional-de-usd100-millones-para-2026/</link>
-    <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes y DP World anunciaron una inversión adicional de USD$100 millones para 2026. Esta inversión busca expandir y modernizar el ecosistema de zonas económicas y la infraestructura logística de la República Dominicana.
-
-El ministro Yayo Sanz Lovatón destacó que esta colaboración integrará a las micro, pequeñas y medianas empresas en el comercio internacional, fomentando un encadenamiento productivo que genere valor agregado nacional.
-
-Manuel Martínez, CEO de DP World en la República Dominicana, lidera la transformación operativa para convertir al país en un nodo logístico avanzado y resiliente en el hemisferio.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778773320/autonoticias/articles/20260514_154159_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 14 May 2026 15:42:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260514154241</guid>
   </item>
 </channel>
 </rss>
