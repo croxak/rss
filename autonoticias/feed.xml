@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 19 May 2026 13:30:36 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 19 May 2026 15:39:27 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Mujer muere baleada en ataque armado en Los Solares, Santiago de los Caballeros]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/05/19/mujer-asesinada-a-tiros-en-los-solares-santiago-de-los-2000113/</link>
+    <description><![CDATA[Margarita Díaz García, conocida como "La China", falleció tras ser baleada en un ataque armado en Los Solares, Santiago de los Caballeros. 
+
+El ataque fue realizado por tres hombres en motocicleta mientras Margarita caminaba con su esposo. La comunidad está consternada por su muerte, dejando tres hijos en la orfandad.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779205134/autonoticias/articles/20260519_153854_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 19 May 2026 15:39:27 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260519153927</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Detienen líder de red que estafó por RD$200 millones a entidad financiera]]></title>
     <link>https://noticiassin.com/pais/justicia/2026/05/19/detienen-lider-de-red-de-estafa-por-rd200-millones-en-rd-1999895/</link>
     <description><![CDATA[El Ministerio Público ha solicitado prisión preventiva para Jefry Leonardo Cepeda Núñez, acusado de liderar una estructura criminal que estafó más de RD$200 millones a una entidad financiera. La audiencia está programada para el 19 de abril.
@@ -1329,20 +1341,6 @@ Manuel Martínez, CEO de DP World en la República Dominicana, lidera la transfo
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778773320/autonoticias/articles/20260514_154159_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 14 May 2026 15:42:41 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260514154241</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Exministro ecuatoriano José Serrano tendrá protección en EE. UU. y «no podrá ser deportado»]]></title>
-    <link>https://elnuevodiario.com.do/exministro-ecuatoriano-jose-serrano-tendra-proteccion-en-ee-uu-y-no-podra-ser-deportado/</link>
-    <description><![CDATA[José Serrano, exministro ecuatoriano, ha recibido protección bajo la Convención Contra la Tortura en Estados Unidos, impidiendo su deportación a Ecuador. Compareció en una corte migratoria de Miami.
-
-Serrano enfrenta un proceso en Ecuador por su supuesta implicación en el asesinato del candidato presidencial Fernando Villavicencio. Su hija, Verónica Serrano, afirma que las acusaciones son un "montaje".
-
-El exministro está detenido en el Centro de Detención de Krome desde agosto. Se espera que sus abogados expliquen los detalles del fallo próximamente.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778769847/autonoticias/articles/20260514_144407_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 14 May 2026 14:44:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260514144430</guid>
   </item>
 </channel>
 </rss>
