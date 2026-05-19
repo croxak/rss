@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 19 May 2026 17:44:41 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 19 May 2026 18:43:44 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Ejército detiene conductor tras persecución con siete haitianos indocumentados en Constanza]]></title>
+    <link>https://www.elcaribe.com.do/panorama/justicia/ejercito-detiene-conductor-tras-persecucion-con-siete-haitianos-indocumentados-en-constanza/</link>
+    <description><![CDATA[Miembros del 6to. Batallón de Cazadores detuvieron a un conductor que transportaba a siete nacionales haitianos en condición migratoria irregular en Constanza.
+
+La intervención ocurrió en la comunidad Colonia Japonesa, cuando el conductor desobedeció la señal de alto y emprendió la huida. Tras una persecución, el vehículo fue interceptado frente al Puesto No. 2 de la Fortaleza Patria.
+
+El automóvil, un Hyundai Sonata 2014, era conducido por Freddy Ramírez Cabrera. Tanto los extranjeros como el conductor fueron trasladados a la Fortaleza Patria para los fines legales y la entrega a la Dirección General de Migración.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779216032/autonoticias/articles/20260519_184032_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 19 May 2026 18:43:44 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260519184344</guid>
+  </item>
+
+  <item>
     <title><![CDATA[DGA logra cifra récord con la retención de más de 7 millones de productos ilícitos en 2026]]></title>
     <link>https://www.presidencia.gob.do/noticias/dga-logra-cifra-record-con-la-retencion-de-mas-de-7-millones-de-productos-ilicitos-en-2026</link>
     <description><![CDATA[La Dirección General de Aduanas (DGA) de la República Dominicana logró retener 7,018,084 productos ilícitos en 2026, marcando un incremento del 160% respecto a períodos anteriores. Entre los productos incautados se encuentran materia prima de calzados, productos de salud, accesorios de celulares y bolsos.
@@ -1321,20 +1335,6 @@ El proyecto Romero, ubicado en la concesión La Escandalosa en Tireo, había mos
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778781488/autonoticias/articles/20260514_175808_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 14 May 2026 18:00:46 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260514180046</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Instituto Duartiano alerta sobre implicaciones legales y soberanas de convenio migratorio con EEUU]]></title>
-    <link>https://elnuevodiario.com.do/instituto-duartiano-alerta-sobre-implicaciones-legales-y-soberanas-de-convenio-migratorio/</link>
-    <description><![CDATA[El Instituto Duartiano manifestó su sorpresa por un acuerdo entre República Dominicana y Estados Unidos que permite el ingreso de ciudadanos de terceros países deportados desde EE.UU. Wilson Gómez Ramírez, presidente del Instituto, calificó el convenio como "excesivamente complaciente" y advirtió sobre implicaciones legales y soberanas.
-
-Gómez Ramírez destacó que la legislación migratoria dominicana solo permite la recepción de ciudadanos dominicanos y extranjeros visados, y cuestionó el acuerdo en el contexto de la situación migratoria crítica con Haití.
-
-El presidente del Instituto también expresó preocupación por el uso de aeropuertos militares dominicanos y llamó a revisar las actuaciones del Ministerio de Relaciones Exteriores.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778777842/autonoticias/articles/20260514_165721_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 14 May 2026 16:57:53 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260514165753</guid>
   </item>
 </channel>
 </rss>
