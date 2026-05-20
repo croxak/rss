@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 20 May 2026 19:56:29 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 20 May 2026 21:29:03 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Accidente en la Circunvalación de Baní deja cuatro personas heridas]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/05/20/accidente-en-circunvalacion-de-bani-deja-4-heridos-2002543/</link>
+    <description><![CDATA[Un accidente en la avenida Circunvalación de Baní resultó en cuatro personas heridas. Un carro Kia negro chocó con un camión que presuntamente se dio a la fuga.
+
+Los heridos, dos hombres, una señora y una niña, fueron asistidos por el Sistema Nacional de Emergencias 9-1-1 y llevados al Hospital Nuestra Señora de Regla.
+
+Las autoridades están investigando el incidente y buscan localizar el camión involucrado.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779312490/autonoticias/articles/20260520_212810_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 20 May 2026 21:29:03 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260520212903</guid>
+  </item>
+
+  <item>
     <title><![CDATA[RD asume en Alemania el liderazgo mundial en la descarbonización del transporte]]></title>
     <link>https://www.presidencia.gob.do/noticias/rd-asume-en-alemania-el-liderazgo-mundial-en-la-descarbonizacion-del-transporte</link>
     <description><![CDATA[La República Dominicana asumió la copresidencia de la Declaración Ministerial “Hacia sistemas de transporte resilientes y de bajas emisiones” en la Cumbre Anual del Foro Internacional de Transporte en Leipzig, Alemania. Esta iniciativa busca reducir las emisiones de CO2 del sector transporte.
@@ -1323,20 +1337,6 @@ La operación generará un caudal de 35 metros cúbicos por segundo hacia la cue
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778858005/autonoticias/articles/20260515_151324_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 15 May 2026 15:14:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260515151432</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Faride Raful juramenta a 149 extranjeros como nuevos ciudadanos dominicanos en el IPES]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/05/15/faride-raful-juramenta-a-149-nuevos-ciudadanos-dominicanos-1997239/</link>
-    <description><![CDATA[Faride Raful, ministra de Interior y Policía, encabezó la ceremonia de juramentación de 149 extranjeros como nuevos ciudadanos dominicanos en el Instituto Policial de Estudios Superiores (IPES).
-
-Los nuevos ciudadanos provienen de Venezuela, Cuba, Colombia, Italia, España, Rusia, Pakistán, China, Sudáfrica, Alemania y Líbano. Raful exhortó a los juramentados a respetar la Constitución y las leyes del país.
-
-La ceremonia contó con la presencia del director de la Policía Nacional, Andrés Modesto Ernesto Cruz Cruz; el viceministro Carlos Ogando y la directora de Naturalización, Dayana Díaz.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778858024/autonoticias/articles/20260515_151343_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 15 May 2026 15:14:17 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260515151417</guid>
   </item>
 </channel>
 </rss>
