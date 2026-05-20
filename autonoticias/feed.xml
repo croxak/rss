@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 20 May 2026 21:41:52 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 20 May 2026 21:48:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Gobierno anuncia licitación para rescatar el Teatro Agua y Luz]]></title>
+    <link>https://eldia.com.do/gobierno-anuncia-licitacion-para-rescatar-el-teatro-agua-y-luz/</link>
+    <description><![CDATA[El Gobierno dominicano ha iniciado el proceso de licitación para recuperar el Teatro Agua y Luz en Santo Domingo. El anuncio se realizó durante un almuerzo con artistas en el Palacio Nacional.
+
+El ministro de Turismo, David Collado, explicó que el proyecto incluirá remodelación y techado, y se espera que el proceso administrativo se complete en tres meses. La visión es transformar el teatro en un referente cultural y turístico.
+
+El presidente Abinader expresó su deseo de crear un espacio similar al Hard Rock Café de Medellín, donde los artistas dominicanos puedan presentarse de manera permanente.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779313654/autonoticias/articles/20260520_214734_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 20 May 2026 21:48:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260520214802</guid>
+  </item>
+
+  <item>
     <title><![CDATA[OCN-Interpol Santo Domingo recibe en extradición desde España y Chile a dos dominicanos acusados de violación sexual y homicidio]]></title>
     <link>https://www.policianacional.gob.do/ocn-interpol-santo-domingo-recibe-en-extradicion-desde-espana-y-chile-a-dos-dominicanos-acusados-de-violacion-sexual-y-homicidio/</link>
     <description><![CDATA[La OCN-Interpol Santo Domingo ha recibido en extradición a dos dominicanos acusados de delitos graves. Augusto Gabriel Alcántara Mateo fue extraditado desde Madrid por presunta violación sexual de dos menores en San Juan de la Maguana. 
@@ -1323,20 +1337,6 @@ En 2022, el poder judicial recibió 73,000 denuncias desde el Ministerio Públic
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778863139/autonoticias/articles/20260515_163859_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 15 May 2026 16:39:29 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260515163929</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Cortés Hermanos duplica su capacidad de procesamiento de cacao dominicano]]></title>
-    <link>https://www.elcaribe.com.do/gente/cortes-hermanos-duplica-su-capacidad-de-procesamiento-de-cacao-dominicano/</link>
-    <description><![CDATA[Cortés Hermanos ha duplicado su capacidad de procesamiento de cacao con la inauguración de una nueva planta en su subsidiaria CH Alimentos Internacional, ubicada en la autopista Duarte. La inversión supera los 5 millones y permite procesar hasta 10,000 toneladas anuales, lo que equivale al 12% de la producción nacional de cacao.
-
-La nueva infraestructura incorpora tecnología avanzada para optimizar procesos y elevar los estándares de calidad, en línea con los requerimientos de la industria chocolatera internacional. Eduardo Cortés, vicepresidente ejecutivo, afirmó que este crecimiento fortalece la industrialización del cacao dominicano y mejora la agilidad operativa en mercados internacionales.
-
-Desde 1929, Cortés Hermanos ha sido parte de la tradición chocolatera dominicana, con marcas icónicas como Chocolate Embajador y Chocolate Diplomático. La empresa busca seguir creciendo como representante de la industria del chocolate dominicano a nivel internacional.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778863073/autonoticias/articles/20260515_163752_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 15 May 2026 16:38:39 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260515163839</guid>
   </item>
 </channel>
 </rss>
