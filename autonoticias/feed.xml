@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 20 May 2026 18:05:25 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 20 May 2026 18:08:22 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[EE.UU. presenta cargos contra Raúl Castro por asesinato y conspiración para matar]]></title>
+    <link>https://noticiassin.com/mundo/mundo-general/2026/05/20/eeuu-acusa-a-raul-castro-por-asesinato-y-conspiracion-en-2002009/</link>
+    <description><![CDATA[El Departamento de Justicia de Estados Unidos ha imputado al expresidente cubano Raúl Castro por el derribo de dos avionetas de Hermanos al Rescate en 1996. Los cargos incluyen asesinato, conspiración para matar a estadounidenses y destrucción de aeronaves.
+
+La acusación fue presentada en la corte federal del Distrito del Sur de Florida. Se acusa a Castro de ordenar el derribo de las avionetas, en las que murieron tres ciudadanos cubano-estadounidenses y un cubano residente legal en EE. UU.
+
+El Gobierno cubano alegó que las aeronaves estaban en su espacio aéreo, pero la OACI dictaminó que el incidente ocurrió en aguas internacionales. La acusación también incluye a otros militares cubanos presuntamente involucrados.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779300418/autonoticias/articles/20260520_180658_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 20 May 2026 18:08:22 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260520180822</guid>
+  </item>
+
+  <item>
     <title><![CDATA[PLD retira resolución para interpelar a Roberto Álvarez por acuerdo RD-EE. UU. Escudo de]]></title>
     <link>https://noticiassin.com/politica/2026/05/20/pld-retira-interpelacion-al-canciller-por-acuerdo-con-ee-2001797/</link>
     <description><![CDATA[Gustavo Sánchez, vocero del Bloque de Diputados del PLD, informó sobre el retiro del proyecto de resolución para interpelar al ministro de Relaciones Exteriores, Roberto Álvarez. La iniciativa buscaba aclarar el acuerdo "Escudo de las Américas" entre República Dominicana y Estados Unidos.
@@ -1321,18 +1335,6 @@ El ministro Atallah afirmó que el Gobierno está cumpliendo con sus compromisos
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778803668/autonoticias/articles/20260515_000748_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 15 May 2026 00:08:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260515000832</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Director de la CIA mantiene una reunión en La Habana con representantes cubanos]]></title>
-    <link>https://panorama.com.do/director-de-la-cia-mantiene-una-reunion-en-la-habana-con-representantes-cubanos/</link>
-    <description><![CDATA[El director de la CIA, John Ratcliffe, sostuvo una reunión en La Habana con representantes del Ministerio del Interior de Cuba. 
-
-La visita fue aprobada por la "dirección de la revolución", que incluye a Raúl Castro y otros líderes, y fue solicitada por la administración de Donald Trump.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778802838/autonoticias/articles/20260514_235358_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 14 May 2026 23:54:35 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260514235435</guid>
   </item>
 </channel>
 </rss>
