@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 20 May 2026 21:48:02 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 20 May 2026 23:31:18 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Ministerio Público solicita 5 años de prisión en nuevo juicio contra Wander Franco]]></title>
+    <link>https://pgr.gob.do/ministerio-publico-solicita-5-anos-de-prision-en-nuevo-juicio-contra-wander-franco/</link>
+    <description><![CDATA[El Ministerio Público ha solicitado cinco años de prisión para Wander Samuel Franco Aybar en un nuevo juicio por abuso sexual infantil en Puerto Plata. Además, se pidió una multa de 10 salarios mínimos.
+
+Para la madre de la víctima, se solicitó una condena de diez años de prisión por explotación sexual comercial y lavado de activos, junto con una multa de 25 salarios mínimos. Se ordenó el decomiso de bienes ocupados en el proceso.
+
+El juicio, conocido por un tribunal colegiado ad hoc, presentó más de un centenar de pruebas. La audiencia del fallo se fijó para el 25 de mayo de 2026.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779318993/autonoticias/articles/20260520_231633_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 20 May 2026 23:31:18 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260520233118</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno anuncia licitación para rescatar el Teatro Agua y Luz]]></title>
     <link>https://eldia.com.do/gobierno-anuncia-licitacion-para-rescatar-el-teatro-agua-y-luz/</link>
     <description><![CDATA[El Gobierno dominicano ha iniciado el proceso de licitación para recuperar el Teatro Agua y Luz en Santo Domingo. El anuncio se realizó durante un almuerzo con artistas en el Palacio Nacional.
@@ -1325,18 +1339,6 @@ El puente conecta el Distrito Nacional con Villa Duarte, en Santo Domingo Este. 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778865620/autonoticias/articles/20260515_172019_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 15 May 2026 17:21:04 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260515172104</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gloria Reyes: "Cifras de fallecidos son más duras, pero no estamos viendo las mujeres que también se salvan"]]></title>
-    <link>https://n.com.do/2026/05/15/gloria-reyes-cifras-de-fallecidos-son-mas-duras-pero-no-estamos-viendo-las-mujeres-que-tambien-se-salvan/</link>
-    <description><![CDATA[La ministra de la Mujer, Gloria Reyes, habló sobre los feminicidios en el país, que suman 32 casos. Aunque las cifras de fallecimientos son duras, también hay mujeres que se salvan gracias a la intervención estatal.
-
-En 2022, el poder judicial recibió 73,000 denuncias desde el Ministerio Público, lo que indica vidas salvadas por protocolos de intervención. Reyes exhortó a la ciudadanía a unirse para evitar más muertes y resaltó el trabajo del ministerio en prevenir la violencia de género.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778863139/autonoticias/articles/20260515_163859_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 15 May 2026 16:39:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260515163929</guid>
   </item>
 </channel>
 </rss>
