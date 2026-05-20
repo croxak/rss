@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 20 May 2026 21:29:03 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 20 May 2026 21:34:01 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Alcalde Santiago Riverón presenta denuncia en fiscalía de Santiago contra hombre estafó ayuntamiento de Dajabón]]></title>
+    <link>https://www.elcaribe.com.do/nacionales/alcalde-santiago-riveron-presenta-denuncia-en-fiscalia-de-santiago-contra-hombre-estafo-ayuntamiento-de-dajabon/</link>
+    <description><![CDATA[El alcalde Santiago Riverón ha presentado una denuncia en la fiscalía de Santiago contra Fernando Arismendi Gómez Veras. Este individuo, junto con una supuesta empresa, habría estafado al ayuntamiento de Dajabón al cobrar 200 mil pesos por trabajos no realizados en semáforos.
+
+Gómez Veras desapareció tras recibir el adelanto y no responde a las llamadas. Las autoridades de Santiago de los Caballeros están tras su búsqueda para que devuelva el dinero y se pueda reinvertir en la obra demandada por la población.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779312815/autonoticias/articles/20260520_213335_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 20 May 2026 21:34:01 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260520213401</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Accidente en la Circunvalación de Baní deja cuatro personas heridas]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/05/20/accidente-en-circunvalacion-de-bani-deja-4-heridos-2002543/</link>
     <description><![CDATA[Un accidente en la avenida Circunvalación de Baní resultó en cuatro personas heridas. Un carro Kia negro chocó con un camión que presuntamente se dio a la fuga.
@@ -1325,18 +1337,6 @@ El parque incluye un área infantil, iluminación LED, murales, y una cancha de 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778858040/autonoticias/articles/20260515_151400_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 15 May 2026 15:15:51 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260515151551</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[COE prohíbe balnearios en río Nizao por desague controlado de la presa Valdesia]]></title>
-    <link>https://eldia.com.do/coe-prohibe-uso-de-balnearios-en-el-rio-nizao-por-regulacion-controlada-en-valdesia/</link>
-    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha prohibido el uso de balnearios en el río Nizao debido a una regulación controlada en la presa Valdesia. Esta medida preventiva se aplica desde el Contra Embalse Las Barias hasta la desembocadura del río Nizao.
-
-La operación generará un caudal de 35 metros cúbicos por segundo hacia la cuenca del río Nizao. Los balnearios afectados incluyen Semana Santa, La Neverita, El Puente y Nizao en Juan Varón.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778858005/autonoticias/articles/20260515_151324_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 15 May 2026 15:14:32 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260515151432</guid>
   </item>
 </channel>
 </rss>
