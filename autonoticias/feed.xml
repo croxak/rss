@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 19 May 2026 21:41:35 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 20 May 2026 13:41:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Tribunal absuelve a “Onguito Wa” y “Cerdo Gatillo” de cargos por presunto intento de homicidio]]></title>
+    <link>https://elnuevodiario.com.do/tribunal-absuelve-a-onguito-wa-y-cerdo-gatillo-de-cargos-por-presunto-intento-de-homicidi/</link>
+    <description><![CDATA[El Primer Tribunal Colegiado de Santo Domingo Este absolvió a Elvis Manuel Santos Alcántara “Onguito Wa” y a Ernellis Capellán Matos “Cerdo Gatillo” de cargos por intento de homicidio contra Frey José Báez. 
+
+Los jueces encontraron insuficientes las pruebas presentadas por la fiscalía. Los testigos eran agentes policiales que no presenciaron el suceso, y un video no permitió identificar a los implicados. 
+
+Se ordenó el cese de medidas de coerción y la devolución del vehículo retenido. La sentencia completa se leerá el 9 de junio.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779284472/autonoticias/articles/20260520_134112_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 20 May 2026 13:41:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260520134141</guid>
+  </item>
+
+  <item>
     <title><![CDATA[JetBlue suspenderá vuelos Newark-Santo Domingo y Punta Cana]]></title>
     <link>https://www.elcaribe.com.do/panorama/dinero/jetblue-suspende-vuelos-newark-santo-domingo-punta-cana/</link>
     <description><![CDATA[JetBlue Airways ha anunciado la suspensión de sus vuelos entre el Aeropuerto Internacional Newark Liberty y las ciudades dominicanas de Santo Domingo y Punta Cana, efectiva a partir del 8 de julio. Esta medida es parte de una reestructuración de su red de operaciones.
@@ -1323,18 +1337,6 @@ José Luis Familia lideraba la estructura criminal, encargándose de cobrar el d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778790047/autonoticias/articles/20260514_202047_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 14 May 2026 20:21:13 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260514202113</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Avanza construcción del puerto seco entre Manzanillo y Dajabón; tramo desde Manzanillo alcanza 95% de ejecución]]></title>
-    <link>https://n.com.do/2026/05/14/puerto-seco-dajabon-manzanillo-avance/</link>
-    <description><![CDATA[La construcción del puerto seco entre Manzanillo y Dajabón avanza significativamente. El tramo de Manzanillo está al 95% de ejecución, mientras que en La Vigía, hacia Dajabón, el avance es del 40%.
-
-Este proyecto es parte de la estrategia del Gobierno para modernizar el comercio terrestre con Haití, centralizando el movimiento de mercancías y mejorando la supervisión aduanera. Anunciado en febrero de 2026, busca fortalecer el intercambio comercial en la frontera dominico-haitiana.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778788304/autonoticias/articles/20260514_195143_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 14 May 2026 19:53:35 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260514195335</guid>
   </item>
 </channel>
 </rss>
