@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 19:02:04 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 19:04:07 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Ministro Collado inicia parque fotográfico en Las Clavellinas]]></title>
+    <link>https://noticiassin.com/pais/turismo/2026/05/21/parque-fotografico-en-las-clavellinas-inicia-collado-2003616/</link>
+    <description><![CDATA[David Collado, ministro de Turismo, ha comenzado la construcción de un parque-parador fotográfico en Las Clavellinas, Azua. La obra, con una inversión de RD$22,172,000, busca embellecer la entrada al distrito municipal.
+
+El proyecto incluye un letrero de hormigón, aceras peatonales, contenes, pavimentación, iluminación y paisajismo. También se instalará mobiliario urbano, señalización y se realizarán trabajos de intervención vial.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779390213/autonoticias/articles/20260521_190332_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 21 May 2026 19:04:07 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521190407</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Marco Rubio califica a Raúl Castro como un “fugitivo” de la Justicia estadounidense]]></title>
     <link>https://robertocavada.com/marco-rubio-califica-a-raul-castro-como-un-fugitivo-de-la-justicia-estadounidense/</link>
     <description><![CDATA[El secretario de Estado de Estados Unidos, Marco Rubio, ha calificado al expresidente cubano Raúl Castro como un “fugitivo” de la Justicia estadounidense. Esto sigue a la presentación de cargos de asesinato por el Departamento de Justicia de Estados Unidos contra Castro por el derribo de dos avionetas hace 30 años.
@@ -1325,20 +1337,6 @@ Las víctimas presentan laceraciones y traumas leves. Servicios de emergencia y 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778949562/autonoticias/articles/20260516_163921_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 16 May 2026 16:40:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260516164000</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Eugenio Cedeño rechaza extensión de mandatos de las actuales autoridades del PRM]]></title>
-    <link>https://eldia.com.do/eugenio-cedeno-rechaza-extension-de-mandatos-de-las-actuales-autoridades-del-prm/</link>
-    <description><![CDATA[Eugenio Cedeño, diputado y aspirante a la Secretaría General Nacional del PRM, se opone a la extensión de mandatos de las actuales autoridades del partido. Critica la decisión de posponer la convención ordinaria, argumentando que vulnera principios constitucionales y los Estatutos del PRM.
-
-Cedeño destaca que la democracia interna es un mandato constitucional y estatutario. Cuestiona por qué no se convocó a la Comisión Nacional de Elecciones Internas y critica la omisión de iniciar el cronograma organizativo.
-
-El diputado subraya que el PRM nació luchando contra imposiciones y prórrogas, y que la democracia interna fortalece al partido.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778947997/autonoticias/articles/20260516_161316_article.webp" type="image/jpeg"/>
-    <pubDate>Sat, 16 May 2026 16:17:22 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260516161722</guid>
   </item>
 </channel>
 </rss>
