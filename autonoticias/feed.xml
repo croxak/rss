@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 13:06:34 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 13:06:51 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Detienen camión que transportaba haitianos indocumentados ocultos entre vegetales en Constanza]]></title>
+    <link>https://panorama.com.do/detienen-camion-que-transportaba-haitianos-indocumentados-ocultos-entre-vegetales-en-constanza/</link>
+    <description><![CDATA[Un camión que transportaba haitianos indocumentados ocultos entre vegetales fue interceptado por el Ejército de República Dominicana en la carretera General Gregorio Luperón, cerca del sector Bensa.
+
+El vehículo, un Mitsubishi Fuso, era conducido por el dominicano José Luis Bautista Suriel. En su interior, se encontraron cuatro haitianos en condición migratoria irregular.
+
+Los detenidos fueron llevados a la Fortaleza Patria para los procedimientos legales y su entrega a la Dirección General de Migración.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779368265/autonoticias/articles/20260521_125744_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 21 May 2026 13:06:51 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521130651</guid>
+  </item>
+
+  <item>
     <title><![CDATA[DGCP recuerda procedimientos de excepción deben cumplir plazo mínimo de tres días hábiles]]></title>
     <link>https://elnuevodiario.com.do/dgcp-recuerda-procedimientos-de-excepcion-deben-cumplir-plazo-minimo-de-tres-dias-habiles/</link>
     <description><![CDATA[La Dirección General de Contrataciones Públicas (DGCP) recuerda que la Ley 47-25 establece un plazo mínimo de tres días hábiles para la mayoría de los procedimientos de excepción en contrataciones públicas.
@@ -1325,20 +1339,6 @@ Las autoridades no han ofrecido más detalles sobre el hecho.]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778886624/autonoticias/articles/20260515_231024_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 15 May 2026 23:11:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260515231103</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio Público someterá a otros tres implicados en fraude de RD$200 millones]]></title>
-    <link>https://panorama.com.do/ministerio-publico-sometera-a-otros-tres-implicados-en-fraude-de-rd200-millones/</link>
-    <description><![CDATA[El Ministerio Público someterá a la justicia a tres nuevos implicados en un fraude de más de RD$200 millones contra una entidad financiera. Los detenidos son Francis Michael Laureano Marte, Juan Antonio Ureña Geraldo y Kaury Miguel Lazala Brazobán.
-
-Se solicitará prisión preventiva y la declaratoria de caso complejo. La Dirección Nacional de Investigación de Delitos Financieros, liderada por Lewina Tavárez Gil, asegura tener suficientes pruebas para imponer 12 meses de prisión preventiva. Los cargos incluyen violación a la Ley de Alta Tecnología, lavado de activos y estafa.
-
-El proceso contra los primeros seis acusados fue aplazado para el 18 de mayo de 2026. Durante los operativos, se incautaron vehículos de lujo, relojes, dinero, computadoras y teléfonos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778877753/autonoticias/articles/20260515_204233_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 15 May 2026 21:02:48 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260515210248</guid>
   </item>
 </channel>
 </rss>
