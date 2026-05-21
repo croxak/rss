@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 01:59:23 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 13:00:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Estadounidense detenido en RD es declarado culpable de homicidio de tres mujeres]]></title>
+    <link>https://elnuevodiario.com.do/estadounidense-capturado-en-rd-es-declarado-culpable-de-homicidio-de-tres-mujeres/</link>
+    <description><![CDATA[Gilbert Reyes, ciudadano estadounidense, ha sido declarado culpable por el asesinato de tres mujeres en Roatán, Honduras. Las víctimas, Dione Solórzano, Nikendra McCoy y María Antonia Cruz, desaparecieron el 7 de enero de 2024. Sus cuerpos fueron hallados el 9 de enero en un vehículo en French Key.
+
+Reyes fue capturado en el Aeropuerto Internacional de Las Américas en República Dominicana, tras permanecer prófugo varios meses. La audiencia para conocer su condena está programada para el 2 de junio, y podría enfrentar hasta 75 años de prisión.
+
+Telma Dixon, madre de Dione Solórzano, expresó su alivio tras el fallo, recordando el calvario del proceso judicial y las angustias sufridas. Aunque el fallo no devolverá a su hija, siente que la sentencia trae tranquilidad a las familias de las víctimas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779368404/autonoticias/articles/20260521_130003_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 21 May 2026 13:00:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521130031</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Salud Pública informa no existe riesgo sanitario tras situación de un vuelo retornado]]></title>
     <link>https://listindiario.com/la-republica/sector-salud/20260520/salud-publica-informa-existe-riesgo-sanitario-situacion-vuelo-retornado_906571.html</link>
     <description><![CDATA[El Ministerio de Salud Pública asegura que no hay riesgo sanitario tras el retorno de un vuelo de Delta desde el Aeropuerto Internacional del Cibao a Nueva York. El vuelo regresó por un olor extraño y síntomas respiratorios en algunos pasajeros.
@@ -1325,20 +1339,6 @@ El grupo de transporte tuvo la mayor incidencia en la inflación de abril, con u
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778867255/autonoticias/articles/20260515_174735_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 15 May 2026 17:48:16 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260515174816</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Henry Molina convoca al Consejo del Poder Judicial ante reclamos de jueces y anuncio de paro nacional]]></title>
-    <link>https://www.diariolibre.com/actualidad/justicia/2026/05/15/molina-convoca-a-consejo-poder-judicial-ante-paro-convocado-por-jueces/3535097</link>
-    <description><![CDATA[Henry Molina, presidente de la Suprema Corte de Justicia, ha convocado al Consejo del Poder Judicial para una sesión el 19 de mayo. Esta convocatoria sigue a un encuentro donde magistrados expresaron preocupaciones sobre el ejercicio judicial.
-
-Cerca de 300 jueces han anunciado un paro pacífico para el 21 de mayo, denunciando condiciones laborales extremas y salarios insuficientes. También critican el aumento de gastos en eventos del Poder Judicial.
-
-Una comisión creada por Molina se reunió con representantes de los jueces para discutir una "ruta de trabajo" que evalúe sus demandas. Molina ha manifestado su compromiso de diálogo y escucha.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778867138/autonoticias/articles/20260515_174538_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 15 May 2026 17:46:50 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260515174650</guid>
   </item>
 </channel>
 </rss>
