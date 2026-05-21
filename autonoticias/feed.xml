@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 13:04:41 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 13:06:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[DGCP recuerda procedimientos de excepción deben cumplir plazo mínimo de tres días hábiles]]></title>
+    <link>https://elnuevodiario.com.do/dgcp-recuerda-procedimientos-de-excepcion-deben-cumplir-plazo-minimo-de-tres-dias-habiles/</link>
+    <description><![CDATA[La Dirección General de Contrataciones Públicas (DGCP) recuerda que la Ley 47-25 establece un plazo mínimo de tres días hábiles para la mayoría de los procedimientos de excepción en contrataciones públicas.
+
+Este plazo busca garantizar mayor participación de oferentes y procesos más competitivos. Aplica a bienes o servicios exclusivos, proveedores únicos, publicidad, contratos rescindidos, servicios jurídicos, inmuebles para uso estatal y contrataciones personalísimas.
+
+El incumplimiento de este plazo podría conllevar la suspensión del procedimiento. Excepciones incluyen emergencias, seguridad nacional, urgencias y compras en condiciones excepcionalmente favorables.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779368730/autonoticias/articles/20260521_130529_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 21 May 2026 13:06:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521130634</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Paro judicial inicia este jueves con respaldo de gremios de abogados y suspensión de audiencias]]></title>
     <link>https://n.com.do/2026/05/21/paro-judicial-republica-dominicana-suspension-audiencias/</link>
     <description><![CDATA[Este jueves 21 de mayo inicia un paro nacional de labores convocado por jueces, juezas y servidores judiciales en República Dominicana. La protesta busca mejoras laborales y salariales, y se suspenderán audiencias y servicios judiciales en todo el país.
@@ -1325,18 +1339,6 @@ El proceso contra los primeros seis acusados fue aplazado para el 18 de mayo de 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778877753/autonoticias/articles/20260515_204233_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 15 May 2026 21:02:48 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260515210248</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Indotel y MIDE coordinan acciones para fortalecer vigilancia tecnológica y uso eficiente del espectro]]></title>
-    <link>https://elnuevodiario.com.do/indotel-y-mide-coordinan-acciones-para-fortalecer-vigilancia-tecnologica-y-uso-eficiente-del-espectro/</link>
-    <description><![CDATA[El Instituto Dominicano de las Telecomunicaciones (Indotel) y el Ministerio de Defensa (MIDE) han firmado un acuerdo para mejorar el uso del espectro radioeléctrico y fortalecer la vigilancia tecnológica y la ciberdefensa en el país.
-
-El convenio, firmado por Guido Gómez Mazara y Carlos Fernández Onofre, también contempla la creación de un Centro Binacional de Monitoreo Fronterizo y el apoyo a la transformación digital en entidades académicas del sistema de defensa.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778871939/autonoticias/articles/20260515_190539_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 15 May 2026 19:06:08 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260515190608</guid>
   </item>
 </channel>
 </rss>
