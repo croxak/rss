@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 15:21:58 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 15:28:29 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Jueces paralizan labores en Dajabón y Barahona en demanda de mejoras laborales]]></title>
+    <link>https://listindiario.com/la-republica/justicia/20260521/jueces-juezas-servidores-judiciales-paralizan-labores-dajabon-demanda-reivindicaciones_906624.html</link>
+    <description><![CDATA[Jueces y personal judicial de Dajabón y Barahona han detenido sus labores para exigir mejoras en sus condiciones laborales. Denuncian falta de personal, baja remuneración y deterioro de infraestructura.
+
+En Barahona, solo cinco jueces están disponibles para 22 juzgados de paz, lo que ha generado una sobrecarga laboral significativa. Los manifestantes advierten que, sin una respuesta concreta, las protestas podrían intensificarse.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779377005/autonoticias/articles/20260521_152325_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 21 May 2026 15:28:29 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521152829</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Jueces y empleados judiciales de Monseñor Nouel leen manifiesto en paro nacional]]></title>
     <link>https://noticiassin.com/pais/provincias/2026/05/21/jueces-de-monsenor-nouel-apoyan-paro-nacional-judicial-2003414/</link>
     <description><![CDATA[En Monseñor Nouel, jueces y empleados judiciales se unieron al paro nacional con la lectura de un manifiesto en el Palacio de Justicia. Durante 15 minutos, las labores judiciales se detuvieron para exponer preocupaciones sobre las condiciones laborales.
@@ -1325,18 +1337,6 @@ El Indomet mantiene el nivel de prealerta debido a posibles inundaciones y desli
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778941666/autonoticias/articles/20260516_142745_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 16 May 2026 14:28:48 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260516142848</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Arrestan en Las Matas de Santa Cruz a hombre acusado de abuso sexual contra una niña de 9]]></title>
-    <link>https://noticiassin.com/sin-categoria/2026/05/16/policia-arresta-acusado-de-abuso-sexual-en-las-matas-de-sc-1997998/</link>
-    <description><![CDATA[La Policía Nacional arrestó a Ismael María Espinal Núñez, de 33 años, en Las Matas de Santa Cruz, Montecristi. Espinal Núñez es acusado de presunto abuso sexual contra una niña de nueve años.
-
-El arresto se realizó bajo la orden judicial No. RAJ-2026-07008. La Policía Nacional informó que el detenido será puesto a disposición del Ministerio Público.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778941499/autonoticias/articles/20260516_142459_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 16 May 2026 14:26:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260516142600</guid>
   </item>
 </channel>
 </rss>
