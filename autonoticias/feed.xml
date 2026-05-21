@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 19:05:16 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 19:51:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Ministro de Educación condena agresión a chofer de TRAE en Herrera]]></title>
+    <link>https://eldia.com.do/ministro-de-educacion-condena-agresion-a-chofer-de-trae-en-herrera/</link>
+    <description><![CDATA[El ministro de Educación, Luis Miguel De Camps, condenó la agresión física sufrida por Henry González, conductor del Sistema Nacional de Transporte Estudiantil (TRAE), en el sector Café de Herrera, Santo Domingo Oeste. El incidente ocurrió mientras González trasladaba estudiantes a la escuela Rafaela Santaella.
+
+El Ministerio informó que los estudiantes fueron movilizados de manera segura a sus centros educativos y que se brindará acompañamiento legal al conductor agredido. Además, se tomarán acciones contra los responsables del hecho.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779393018/autonoticias/articles/20260521_195018_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 21 May 2026 19:51:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521195100</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Tribunal Constitucional favorece a Pro Consumidor y enfatiza límites en captura de datos biométricos]]></title>
     <link>https://www.diariolibre.com/actualidad/justicia/2026/05/21/tc-favorece-proconsumidor-en-caso-world-foundation-y-datos-biometricos/3541511</link>
     <description><![CDATA[El Tribunal Constitucional rechazó el recurso de World Foundation y confirmó la sentencia que favoreció a Pro Consumidor en el conflicto sobre la captura de imágenes del iris para identidad digital.
@@ -1325,18 +1337,6 @@ Con 5.000 militares a bordo, el Gerald R. Ford fue recibido por el secretario de
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778971502/autonoticias/articles/20260516_224501_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 16 May 2026 22:46:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260516224606</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El presidente Luis Abinader llega a Miami y se reúne con estudiantes dominicanos en Florida]]></title>
-    <link>https://www.diariolibre.com/politica/general/2026/05/16/luis-abinader-llega-a-miami-y-se-reune-con-jovenes/3536027</link>
-    <description><![CDATA[El presidente Luis Abinader arribó a Miami para una visita oficial. Durante su estancia, se reunió con estudiantes dominicanos de la Florida International University para discutir temas de liderazgo, democracia y desarrollo económico.
-
-Abinader resaltó la importancia de la educación y la innovación como pilares del desarrollo. También habló sobre proyectos estratégicos y el fortalecimiento de la institucionalidad y la transparencia en su gestión.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778971326/autonoticias/articles/20260516_224205_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 16 May 2026 22:44:03 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260516224403</guid>
   </item>
 </channel>
 </rss>
