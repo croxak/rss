@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 19:05:02 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 19:05:16 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Tribunal Constitucional favorece a Pro Consumidor y enfatiza límites en captura de datos biométricos]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/05/21/tc-favorece-proconsumidor-en-caso-world-foundation-y-datos-biometricos/3541511</link>
+    <description><![CDATA[El Tribunal Constitucional rechazó el recurso de World Foundation y confirmó la sentencia que favoreció a Pro Consumidor en el conflicto sobre la captura de imágenes del iris para identidad digital.
+
+El tribunal determinó que las medidas de Pro Consumidor no prohibían operar, sino que exigían adecuación de términos contractuales y políticas de privacidad. El tratamiento de datos biométricos fue considerado altamente sensible, requiriendo consentimiento informado.
+
+Pro Consumidor actuó al detectar que los documentos de World Foundation no cumplían con la legislación dominicana. La intervención fue considerada proporcional y legítima para proteger derechos como la identidad y la intimidad.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779389639/autonoticias/articles/20260521_185359_article.webp" type="image/jpeg"/>
+    <pubDate>Thu, 21 May 2026 19:05:16 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521190516</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Disputa por control de drogas desató ejecución de mujer en Santiago y doble crimen en Jarabacoa]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/05/21/disputa-por-drogas-desato-crimenes-en-santiago-y-jarabacoa/3541458</link>
     <description><![CDATA[Una disputa por el control de drogas en Santiago y Jarabacoa dejó cuatro muertos en menos de 12 horas. Margarita Díaz García, conocida como "la China", fue asesinada en Santiago. Horas después, Natanael Peña, alias "el Cha", y "la Rata" fueron encontrados muertos en Jarabacoa.
@@ -1323,20 +1337,6 @@ Abinader resaltó la importancia de la educación y la innovación como pilares 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778971326/autonoticias/articles/20260516_224205_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 16 May 2026 22:44:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260516224403</guid>
-  </item>
-
-  <item>
-    <title><![CDATA["Van a dejar que yo sea la próxima": Mujer denuncia agresiones de su pareja y dice temer por su vida]]></title>
-    <link>https://panorama.com.do/van-a-dejar-que-yo-sea-la-proxima-mujer-denuncia-agresiones-de-su-pareja-y-dice-temer-por-su-vida/</link>
-    <description><![CDATA[Anabel Díaz ha denunciado públicamente las agresiones físicas de su pareja, conocido como «Keka», y expresa temor por su vida. Han pasado 11 días desde que hizo la denuncia y siente que las autoridades no han tomado acción.
-
-Díaz asegura que, a pesar de presentar evidencias, no ha recibido la protección necesaria y que su agresor sigue en libertad. Además, relata que «Keka» intenta presionarla para que elimine sus publicaciones en redes sociales.
-
-La joven compartió audiovisuales de las presuntas agresiones y afirma que su vida se ha paralizado por el miedo, mientras la Policía no actúa.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778950503/autonoticias/articles/20260516_165503_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 16 May 2026 16:55:39 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260516165539</guid>
   </item>
 </channel>
 </rss>
