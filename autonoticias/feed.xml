@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 15:19:31 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 15:21:58 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Jueces y empleados judiciales de Monseñor Nouel leen manifiesto en paro nacional]]></title>
+    <link>https://noticiassin.com/pais/provincias/2026/05/21/jueces-de-monsenor-nouel-apoyan-paro-nacional-judicial-2003414/</link>
+    <description><![CDATA[En Monseñor Nouel, jueces y empleados judiciales se unieron al paro nacional con la lectura de un manifiesto en el Palacio de Justicia. Durante 15 minutos, las labores judiciales se detuvieron para exponer preocupaciones sobre las condiciones laborales.
+
+Un juez del Tribunal de Tierras señaló que trabajan sin instalaciones adecuadas, lo que afecta el desempeño de sus funciones. Este tipo de manifestaciones se realizaron simultáneamente en diferentes puntos del país.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779376896/autonoticias/articles/20260521_152136_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 21 May 2026 15:21:58 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521152158</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Omar Fernández asume vicepresidencia de PARLAMERICAS en representación del Caribe]]></title>
     <link>https://panorama.com.do/omar-fernandez-asume-vicepresidencia-de-parlamericas-en-representacion-del-caribe/</link>
     <description><![CDATA[Omar Fernández, senador del Distrito Nacional, ha asumido la vicepresidencia por el Caribe de ParlAmericas, una entidad que reúne a legisladores de 35 Estados de América. La designación se realizó durante la Asamblea Plenaria de PARLAMERICAS.
@@ -1325,18 +1337,6 @@ El arresto se realizó bajo la orden judicial No. RAJ-2026-07008. La Policía Na
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778941499/autonoticias/articles/20260516_142459_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 16 May 2026 14:26:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260516142600</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ocupan láminas de presunta cocaína ocultas en carpetas destinadas a EE. UU. y Europa]]></title>
-    <link>https://www.elcaribe.com.do/panorama/pais/ocupan-laminas-de-presunta-cocaina-ocultas-en-carpetas-destinadas-a-ee-uu-y-europa/</link>
-    <description><![CDATA[Agentes de la DNCD y el Ministerio Público detuvieron el envío de láminas de presunta cocaína ocultas en carpetas con destino a Estados Unidos y Róterdam. Las carpetas fueron interceptadas en una empresa de envíos en el Distrito Nacional.
-
-Durante la inspección, se encontraron láminas de la sustancia en un doble fondo, con un peso total superior a los 350 gramos. Las autoridades investigan la autenticidad de los datos del remitente y destinatarios.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778941475/autonoticias/articles/20260516_142434_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 16 May 2026 14:25:11 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260516142511</guid>
   </item>
 </channel>
 </rss>
