@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 19:01:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 19:02:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Marco Rubio califica a Raúl Castro como un “fugitivo” de la Justicia estadounidense]]></title>
+    <link>https://robertocavada.com/marco-rubio-califica-a-raul-castro-como-un-fugitivo-de-la-justicia-estadounidense/</link>
+    <description><![CDATA[El secretario de Estado de Estados Unidos, Marco Rubio, ha calificado al expresidente cubano Raúl Castro como un “fugitivo” de la Justicia estadounidense. Esto sigue a la presentación de cargos de asesinato por el Departamento de Justicia de Estados Unidos contra Castro por el derribo de dos avionetas hace 30 años.
+
+Rubio afirmó que las pruebas contra Castro son claras, ya que él mismo habría admitido haber dado la orden de derribar los aviones. Raúl Castro fue acusado por la muerte de cuatro aviadores de la organización Hermanos al Rescate en 1996.
+
+El presidente de Cuba, Miguel Díaz-Canel, declaró que la acusación contra Castro tiene motivos políticos y carece de base jurídica.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779390087/autonoticias/articles/20260521_190127_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 21 May 2026 19:02:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521190204</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Un juez bloquea 490,780 euros de las cuentas del expresidente español Zapatero]]></title>
     <link>https://elnuevodiario.com.do/el-juez-bloquea-490780-euros-de-las-cuentas-del-expresidente-espanol-zapatero/</link>
     <description><![CDATA[Un juez de la Audiencia Nacional ha ordenado el bloqueo de 490,780 euros de las cuentas del expresidente español José Luis Rodríguez Zapatero. Esta medida se enmarca en una investigación sobre una presunta red de tráfico de influencias.
@@ -1325,18 +1339,6 @@ El diputado subraya que el PRM nació luchando contra imposiciones y prórrogas,
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778947997/autonoticias/articles/20260516_161316_article.webp" type="image/jpeg"/>
     <pubDate>Sat, 16 May 2026 16:17:22 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260516161722</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Dirigentes PRM rechazan extensión de mandatos y exigen respeto a la democracia interna]]></title>
-    <link>https://n.com.do/2026/05/16/dirigentes-prm-rechazan-extension-de-mandatos-y-exigen-respeto-a-la-democracia-interna/</link>
-    <description><![CDATA[Dirigentes del PRM, entre ellos Guido Gómez Mazara y Eugenio Cedeño, han manifestado su oposición a la propuesta de extender los mandatos de la dirección nacional y otras estructuras del partido.
-
-Gómez Mazara señaló que el 48 % de abstención en las elecciones refleja el desencanto ciudadano. Por su parte, Cedeño afirmó que la democracia interna es un mandato constitucional y que posponer la convención ordinaria vulnera disposiciones legales y estatutarias.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778945374/autonoticias/articles/20260516_152934_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 16 May 2026 15:30:20 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260516153020</guid>
   </item>
 </channel>
 </rss>
