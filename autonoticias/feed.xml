@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 19:04:41 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 19:05:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Disputa por control de drogas desató ejecución de mujer en Santiago y doble crimen en Jarabacoa]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/05/21/disputa-por-drogas-desato-crimenes-en-santiago-y-jarabacoa/3541458</link>
+    <description><![CDATA[Una disputa por el control de drogas en Santiago y Jarabacoa dejó cuatro muertos en menos de 12 horas. Margarita Díaz García, conocida como "la China", fue asesinada en Santiago. Horas después, Natanael Peña, alias "el Cha", y "la Rata" fueron encontrados muertos en Jarabacoa.
+
+La Policía Nacional investiga el uso de las mismas armas en ambos crímenes y busca a los responsables, entre ellos Ruddy Manuel Morán Almonte, alias "la Pólvora". Erika Martínez Peralta fue detenida mientras conducía un vehículo relacionado con los crímenes.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779389795/autonoticias/articles/20260521_185635_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 21 May 2026 19:05:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521190502</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Sicarios que asesinaron mujer en Santiago fueron ejecutados horas después por sus propios acompañantes, según la Policía]]></title>
     <link>https://eldia.com.do/sicarios-que-asesinaron-mujer-en-santiago-fueron-ejecutados-horas-despues-por-sus-propios-acompanantes-segun-la-policia/</link>
     <description><![CDATA[Dos hombres, Natanael Peña, alias “El Cha”, y “La Rata”, fueron hallados muertos en Jarabacoa. La Policía indica que fueron ejecutados por sus propios compañeros tras el asesinato de Margarita Díaz García, alias “La China”, en Santiago.
@@ -1325,20 +1337,6 @@ La joven compartió audiovisuales de las presuntas agresiones y afirma que su vi
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778950503/autonoticias/articles/20260516_165503_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 16 May 2026 16:55:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260516165539</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Hallan recién nacida muerta dentro de funda plástica en basurero de Herrera]]></title>
-    <link>https://n.com.do/2026/05/16/hallan-recien-nacida-muerta-dentro-de-funda-plastica-en-basurero-de-herrera/</link>
-    <description><![CDATA[En el sector de Herrera, Santo Domingo Oeste, se vive consternación tras el hallazgo del cuerpo de una recién nacida en un basurero de la avenida Las Palmas. Según denuncias de los comunitarios, la bebé habría sido abandonada aún con vida dentro de una funda plástica.
-
-El hallazgo ocurrió alrededor de las cinco de la madrugada de este sábado, generando indignación entre los vecinos, quienes piden a las autoridades investigar y dar con los responsables. Solicitan revisar cámaras de seguridad cercanas para identificar a los involucrados.
-
-Al lugar acudieron agentes de la Policía Nacional, miembros del Sistema Nacional de Atención a Emergencias y Seguridad 911 y personal del Inacif para realizar el levantamiento del cuerpo. Las autoridades aún no han ofrecido más detalles sobre el caso.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778949584/autonoticias/articles/20260516_163944_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 16 May 2026 16:40:13 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260516164013</guid>
   </item>
 </channel>
 </rss>
