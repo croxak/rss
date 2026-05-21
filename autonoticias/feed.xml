@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 13:16:35 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 14:17:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[COE emite alerta por oleaje anormal; prohíbe salida de embarcaciones en varias zonas]]></title>
+    <link>https://panorama.com.do/coe-emite-alerta-por-oleaje-anormal-prohibe-salida-de-embarcaciones-en-varias-zonas/</link>
+    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha emitido una alerta por el deterioro del oleaje en la Costa Caribeña debido a fuertes vientos. Esta situación podría durar entre 24 y 48 horas.
+
+El Instituto Dominicano de Meteorología (INDOMET) ha emitido un boletín con restricciones y recomendaciones para embarcaciones pequeñas y medianas en toda la zona costera. Se aconseja a las embarcaciones más frágiles permanecer en puerto, especialmente desde Isla Beata hasta Playa San Rafael.
+
+Para el resto de la Costa Caribeña, se recomienda navegar con precaución cerca del perímetro costero y evitar aventurarse mar adentro.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779372999/autonoticias/articles/20260521_141638_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 21 May 2026 14:17:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521141734</guid>
+  </item>
+
+  <item>
     <title><![CDATA[SNS afirma afectados por incidente en avión en Santiago se encuentran estables]]></title>
     <link>https://panorama.com.do/sns-afirma-afectados-por-incidente-en-avion-en-santiago-se-encuentran-estables/</link>
     <description><![CDATA[El Servicio Nacional de Salud (SNS) ha comunicado que cuatro personas afectadas por un incidente en un avión que partió del Aeropuerto Internacional del Cibao hacia Nueva York están estables y bajo seguimiento en el Hospital Regional Universitario José María Cabral y Báez.
@@ -1323,20 +1337,6 @@ El Ejército aseguró que continuará fortaleciendo las labores de control e int
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778886652/autonoticias/articles/20260515_231052_article.png" type="image/png"/>
     <pubDate>Fri, 15 May 2026 23:11:35 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260515231135</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[COE emite alerta verde para cinco provincias por lluvias]]></title>
-    <link>https://panorama.com.do/coe-emite-alerta-verde-para-cinco-provincias-por-lluvias/</link>
-    <description><![CDATA[El Centro de Operaciones de Emergencias ha emitido alerta verde para cinco provincias del país debido a una vaguada y una onda tropical que podrían generar condiciones climáticas adversas.
-
-Las provincias bajo alerta son Monte Cristi, Puerto Plata, Valverde, Dajabón y Santiago Rodríguez. Se esperan aguaceros moderados a fuertes, tormentas eléctricas, ráfagas de viento y posibles granizadas aisladas.
-
-El COE advierte sobre posibles crecidas de ríos y cañadas, así como inundaciones urbanas. Recomiendan mantenerse informados y evitar cruzar ríos con alto volumen de agua.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778886610/autonoticias/articles/20260515_231010_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 15 May 2026 23:11:17 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260515231117</guid>
   </item>
 </channel>
 </rss>
