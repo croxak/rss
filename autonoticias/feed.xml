@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 18:53:44 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 19:01:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Un juez bloquea 490,780 euros de las cuentas del expresidente español Zapatero]]></title>
+    <link>https://elnuevodiario.com.do/el-juez-bloquea-490780-euros-de-las-cuentas-del-expresidente-espanol-zapatero/</link>
+    <description><![CDATA[Un juez de la Audiencia Nacional ha ordenado el bloqueo de 490,780 euros de las cuentas del expresidente español José Luis Rodríguez Zapatero. Esta medida se enmarca en una investigación sobre una presunta red de tráfico de influencias.
+
+La decisión fue solicitada por la Unidad de Delincuencia Económica y Fiscal de la Policía y cuenta con el respaldo de la Fiscalía Anticorrupción. Zapatero ha sido imputado y deberá declarar el 2 de junio.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779390011/autonoticias/articles/20260521_190011_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 21 May 2026 19:01:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521190100</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidente Abinader participa en inauguración de la central Esperanza Renovable de EGE Haina]]></title>
     <link>https://www.presidencia.gob.do/noticias/presidente-abinader-participa-en-inauguracion-de-la-central-esperanza-renovable-de-ege</link>
     <description><![CDATA[El presidente Luis Abinader asistió a la inauguración de la central Esperanza Renovable de EGE Haina en Valverde. Este proyecto es el primero de gran escala en integrar energía eólica y solar al Sistema Eléctrico Nacional Interconectado.
@@ -1325,20 +1337,6 @@ Gómez Mazara señaló que el 48 % de abstención en las elecciones refleja el d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778945374/autonoticias/articles/20260516_152934_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 16 May 2026 15:30:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260516153020</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader viajará a Miami para recibir premio “Campeón de la Libertad”]]></title>
-    <link>https://www.elcaribe.com.do/panorama/pais/abinader-viajara-a-miami-para-recibir-premio-campeon-de-la-libertad/</link>
-    <description><![CDATA[El presidente Luis Abinader viajará a Miami este sábado 16 de mayo para recibir el premio “Campeón de la Libertad” del Adam Smith Center for Economic Freedom de la Universidad Internacional de la Florida. La ceremonia se realizará en el Trump National Doral.
-
-El reconocimiento destaca su liderazgo y compromiso con la libertad económica. Durante su visita, Abinader participará en un conversatorio con estudiantes de la FIU y se reunirá con diversas personalidades de Miami.
-
-Acompañarán al presidente la primera dama Raquel Arbaje, el ministro de Industria, Comercio y Mipymes, Eduardo Sans Lovatón, y el ministro de Vivienda y Edificaciones, Víctor (Ito) Bisonó. Se espera su regreso al país el mismo sábado por la tarde.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778945334/autonoticias/articles/20260516_152854_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 16 May 2026 15:30:04 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260516153004</guid>
   </item>
 </channel>
 </rss>
