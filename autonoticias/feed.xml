@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 13:06:51 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 13:16:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[SNS afirma afectados por incidente en avión en Santiago se encuentran estables]]></title>
+    <link>https://panorama.com.do/sns-afirma-afectados-por-incidente-en-avion-en-santiago-se-encuentran-estables/</link>
+    <description><![CDATA[El Servicio Nacional de Salud (SNS) ha comunicado que cuatro personas afectadas por un incidente en un avión que partió del Aeropuerto Internacional del Cibao hacia Nueva York están estables y bajo seguimiento en el Hospital Regional Universitario José María Cabral y Báez.
+
+El incidente se produjo cuando un olor extraño se propagó dentro del avión, lo que llevó al retorno preventivo del vuelo. Doce personas fueron trasladadas al hospital con síntomas respiratorios leves, ansiedad y pánico, y posteriormente dadas de alta. Cuatro personas permanecen bajo observación médica.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779369305/autonoticias/articles/20260521_131505_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 21 May 2026 13:16:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521131635</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Detienen camión que transportaba haitianos indocumentados ocultos entre vegetales en Constanza]]></title>
     <link>https://panorama.com.do/detienen-camion-que-transportaba-haitianos-indocumentados-ocultos-entre-vegetales-en-constanza/</link>
     <description><![CDATA[Un camión que transportaba haitianos indocumentados ocultos entre vegetales fue interceptado por el Ejército de República Dominicana en la carretera General Gregorio Luperón, cerca del sector Bensa.
@@ -1325,20 +1337,6 @@ El COE advierte sobre posibles crecidas de ríos y cañadas, así como inundacio
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778886610/autonoticias/articles/20260515_231010_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 15 May 2026 23:11:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260515231117</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Detienen a hombre atrincherado en puente Duarte]]></title>
-    <link>https://listindiario.com/la-republica/ciudad/20260515/detienen-hombre-atrincherado-puente-juan-bosch_905876.html</link>
-    <description><![CDATA[José Luis González, de 36 años, fue arrestado por miembros de la Dirección Central de Investigación (Dicrim) de la Policía Nacional tras atrincherarse en la estructura del puente Juan Pablo Duarte. González era buscado por el robo de un objeto de un vehículo.
-
-En el lugar se encontraban agentes de la Dicrim, el Cuerpo de Bomberos del Distrito Nacional y el Sistema Nacional de Atención a Emergencias y Seguridad 9-1-1. Decenas de curiosos se acercaron para observar la situación.
-
-Las autoridades no han ofrecido más detalles sobre el hecho.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778886624/autonoticias/articles/20260515_231024_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 15 May 2026 23:11:03 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260515231103</guid>
   </item>
 </channel>
 </rss>
