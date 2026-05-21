@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 20 May 2026 23:31:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 01:59:23 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Salud Pública informa no existe riesgo sanitario tras situación de un vuelo retornado]]></title>
+    <link>https://listindiario.com/la-republica/sector-salud/20260520/salud-publica-informa-existe-riesgo-sanitario-situacion-vuelo-retornado_906571.html</link>
+    <description><![CDATA[El Ministerio de Salud Pública asegura que no hay riesgo sanitario tras el retorno de un vuelo de Delta desde el Aeropuerto Internacional del Cibao a Nueva York. El vuelo regresó por un olor extraño y síntomas respiratorios en algunos pasajeros.
+
+Doce personas fueron evaluadas, y cuatro siguen bajo observación médica en condición estable. Las autoridades investigan la causa del incidente.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779328738/autonoticias/articles/20260521_015857_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 21 May 2026 01:59:23 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521015923</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministerio Público solicita 5 años de prisión en nuevo juicio contra Wander Franco]]></title>
     <link>https://pgr.gob.do/ministerio-publico-solicita-5-anos-de-prision-en-nuevo-juicio-contra-wander-franco/</link>
     <description><![CDATA[El Ministerio Público ha solicitado cinco años de prisión para Wander Samuel Franco Aybar en un nuevo juicio por abuso sexual infantil en Puerto Plata. Además, se pidió una multa de 10 salarios mínimos.
@@ -1327,18 +1339,6 @@ Una comisión creada por Molina se reunió con representantes de los jueces para
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778867138/autonoticias/articles/20260515_174538_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 15 May 2026 17:46:50 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260515174650</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[MOPC informa cierre de dos horas este sábado del puente flotante]]></title>
-    <link>https://www.presidencia.gob.do/noticias/mopc-informa-cierre-de-dos-horas-este-sabado-del-puente-flotante</link>
-    <description><![CDATA[El Ministerio de Obras Públicas y Comunicaciones (MOPC) informó que el puente flotante sobre el río Ozama será cerrado al tránsito vehicular este sábado 16 de mayo, de 10:00 de la mañana a 12:00 del mediodía. La medida permitirá el paso del remolcador Green Nicoya y las barcazas Kinnick 3200 y Winbuild 1810 al Astillero Joseph Industrial Development Corp.
-
-El puente conecta el Distrito Nacional con Villa Duarte, en Santo Domingo Este. Se exhorta a los conductores a tomar precauciones y utilizar los puentes Matías Ramón Mella, Juan Pablo Duarte y Juan Bosch como rutas alternas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778865620/autonoticias/articles/20260515_172019_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 15 May 2026 17:21:04 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260515172104</guid>
   </item>
 </channel>
 </rss>
