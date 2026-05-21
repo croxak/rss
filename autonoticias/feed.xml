@@ -7,9 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 19:04:07 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 19:04:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Sicarios que asesinaron mujer en Santiago fueron ejecutados horas después por sus propios acompañantes, según la Policía]]></title>
+    <link>https://eldia.com.do/sicarios-que-asesinaron-mujer-en-santiago-fueron-ejecutados-horas-despues-por-sus-propios-acompanantes-segun-la-policia/</link>
+    <description><![CDATA[Dos hombres, Natanael Peña, alias “El Cha”, y “La Rata”, fueron hallados muertos en Jarabacoa. La Policía indica que fueron ejecutados por sus propios compañeros tras el asesinato de Margarita Díaz García, alias “La China”, en Santiago.
+
+Las investigaciones vinculan estos homicidios al narcotráfico. Las evidencias balísticas coinciden en ambos lugares, reforzando la hipótesis de la Policía.
+
+Ruddy Manuel Morán Almonte, alias “La Pólvora”, es señalado como cabecilla de la estructura criminal. Erika Martínez Peralta fue detenida mientras conducía un vehículo relacionado con el caso.
+
+La Policía busca activamente a varios integrantes de la banda.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779389842/autonoticias/articles/20260521_185721_article.png" type="image/png"/>
+    <pubDate>Thu, 21 May 2026 19:04:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521190441</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministro Collado inicia parque fotográfico en Las Clavellinas]]></title>
     <link>https://noticiassin.com/pais/turismo/2026/05/21/parque-fotografico-en-las-clavellinas-inicia-collado-2003616/</link>
     <description><![CDATA[David Collado, ministro de Turismo, ha comenzado la construcción de un parque-parador fotográfico en Las Clavellinas, Azua. La obra, con una inversión de RD$22,172,000, busca embellecer la entrada al distrito municipal.
@@ -1323,20 +1339,6 @@ Al lugar acudieron agentes de la Policía Nacional, miembros del Sistema Naciona
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778949584/autonoticias/articles/20260516_163944_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 16 May 2026 16:40:13 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260516164013</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Cinco personas resultan heridas en accidente de tránsito en la Autovía del Este]]></title>
-    <link>https://elnuevodiario.com.do/cinco-personas-resultan-heridas-tras-accidente-de-transito-en-la-autovia-del-este/</link>
-    <description><![CDATA[Cinco personas, incluida una menor de edad, resultaron heridas en un accidente de tránsito en la Autovía del Este, San Pedro de Macorís. Una motocicleta Loncin Pruss 200 fue embestida por un carro blanco.
-
-Los ocupantes de la motocicleta fueron identificados como Junior Alberto Modesto, Eduany Franco y una niña de un año. Dos personas del automóvil también resultaron heridas.
-
-Las víctimas presentan laceraciones y traumas leves. Servicios de emergencia y autoridades acudieron al lugar para brindar asistencia.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778949562/autonoticias/articles/20260516_163921_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 16 May 2026 16:40:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260516164000</guid>
   </item>
 </channel>
 </rss>
