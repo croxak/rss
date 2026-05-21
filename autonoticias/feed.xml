@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 15:19:14 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 15:19:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Omar Fernández asume vicepresidencia de PARLAMERICAS en representación del Caribe]]></title>
+    <link>https://panorama.com.do/omar-fernandez-asume-vicepresidencia-de-parlamericas-en-representacion-del-caribe/</link>
+    <description><![CDATA[Omar Fernández, senador del Distrito Nacional, ha asumido la vicepresidencia por el Caribe de ParlAmericas, una entidad que reúne a legisladores de 35 Estados de América. La designación se realizó durante la Asamblea Plenaria de PARLAMERICAS.
+
+Fernández tendrá la responsabilidad de impulsar la cooperación legislativa y el diálogo político entre los países miembros. Además, coordinará acciones con los parlamentos de la región y representará a los países caribeños en los principales foros del organismo.
+
+PARLAMERICAS, con sede en Ottawa, Canadá, promueve la participación parlamentaria en el sistema interamericano y contribuye al diálogo político en temas como igualdad de género y cambio climático.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779376660/autonoticias/articles/20260521_151739_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 21 May 2026 15:19:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521151931</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Jueces y servidores judiciales de Santiago se unen a paro nacional por mejoras laborales y condiciones dignas]]></title>
     <link>https://elnuevodiario.com.do/jueces-y-servidores-judiciales-de-santiago-se-unen-a-paro-nacional-por-mejoras-laborales-y-condiciones-dignas/</link>
     <description><![CDATA[Jueces y servidores judiciales del Palacio de Justicia de Santiago se sumaron al paro nacional en reclamo de mejores condiciones laborales. Exigen mejoras salariales, más personal y garantías adecuadas para su trabajo.
@@ -1323,20 +1337,6 @@ Durante la inspección, se encontraron láminas de la sustancia en un doble fond
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778941475/autonoticias/articles/20260516_142434_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 16 May 2026 14:25:11 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260516142511</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Luis Abinader dispone que personas mayores de 65 años puedan renovar licencias de conducir por un periodo de vencimiento mayor a los dos años]]></title>
-    <link>https://www.presidencia.gob.do/noticias/presidente-luis-abinader-dispone-que-personas-mayores-de-65-anos-puedan-renovar-licencias</link>
-    <description><![CDATA[El presidente Luis Abinader ha emitido el Decreto 330-26, modificando el artículo 21 del Reglamento de Licencias de Conducir. Esta disposición permite que las personas mayores de 65 años renueven sus licencias por un periodo mayor a dos años.
-
-Las licencias de las categorías 01, 02 y 05 tendrán una vigencia de cuatro años hasta los 75 años, y luego deberán renovarse cada dos años. Para las categorías 03 y 04, la vigencia será de tres años hasta los 75 años, y después se renovarán anualmente.
-
-El decreto también establece que el tiempo de vigencia puede reducirse si se detecta alguna enfermedad que afecte la conducción segura. El Intrant deberá adoptar las medidas necesarias para implementar esta modificación.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778889650/autonoticias/articles/20260516_000049_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 16 May 2026 00:01:42 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260516000142</guid>
   </item>
 </channel>
 </rss>
