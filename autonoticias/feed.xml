@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 14:18:08 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 14:19:07 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Avión declarado en emergencia permanecerá en RD mientras investigan olor detectado durante vuelo]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/05/21/delta-inspecciona-avion-tras-emergencia-por-olor-en-cabina/3541242</link>
+    <description><![CDATA[Un avión Airbus A321 de Delta Air Lines, que cubría el vuelo 1822 hacia Nueva York, fue declarado en emergencia tras detectarse un olor en la cabina. El vuelo había despegado de Santiago y la emergencia se declaró a las 5:15 de la tarde.
+
+Varios pasajeros presentaron vómitos, malestares estomacales, problemas respiratorios y crisis nerviosas. La aeronave regresó al Aeropuerto Internacional del Cibao, donde aterrizó a las 5:41 de la tarde.
+
+Doce pasajeros fueron asistidos y referidos a centros de salud. Mientras se investiga el origen del olor, la aerolínea trabaja en reubicar a los pasajeros en otros vuelos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779373120/autonoticias/articles/20260521_141840_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 21 May 2026 14:19:07 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521141907</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Jueces denuncian “lujos” en el Poder Judicial mientras tribunales colapsan: “gastan RD$11 millones en un arbolito”]]></title>
     <link>https://panorama.com.do/jueces-denuncian-lujos-en-el-poder-judicial-mientras-tribunales-colapsan-gastan-rd11-millones-en-un-arbolito/</link>
     <description><![CDATA[Jueces y servidores judiciales en República Dominicana han iniciado un paro nacional de labores para exigir mejoras salariales y mejores condiciones de trabajo. Denuncian que el sistema judicial está en crisis mientras se gastan recursos en gastos superfluos.
@@ -1323,20 +1337,6 @@ En la subestación Arroyo Hondo – Capotillo, las labores se llevarán a cabo d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778887497/autonoticias/articles/20260515_232457_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 15 May 2026 23:26:30 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260515232630</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Foto de la CIA expone por primera vez a Ramón Romero Curbelo, jefe de inteligencia cubana]]></title>
-    <link>https://n.com.do/2026/05/15/cia-expone-ramon-romero-curbelo-inteligencia-cubana/</link>
-    <description><![CDATA[La CIA ha revelado por primera vez la imagen de Ramón Romero Curbelo, jefe de inteligencia cubana, tras una reunión en La Habana con John Ratcliffe. Miguel Cossío identificó al general, conocido en el exilio cubano.
-
-La visita de Ratcliffe buscó transmitir un mensaje de Donald Trump sobre la disposición de dialogar en seguridad y economía, condicionado a cambios en el gobierno cubano. Participaron Lázaro Álvarez Casas y Raúl Guillermo Rodríguez Castro.
-
-Cuba enfrenta una crisis económica y energética, con apagones que han provocado protestas. Trump ofreció ayuda humanitaria y acceso a internet satelital, condicionado a la autorización del régimen cubano.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778887548/autonoticias/articles/20260515_232547_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 15 May 2026 23:26:15 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260515232615</guid>
   </item>
 </channel>
 </rss>
