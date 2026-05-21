@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 14:19:07 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 15:19:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Jueces y servidores judiciales de Santiago se unen a paro nacional por mejoras laborales y condiciones dignas]]></title>
+    <link>https://elnuevodiario.com.do/jueces-y-servidores-judiciales-de-santiago-se-unen-a-paro-nacional-por-mejoras-laborales-y-condiciones-dignas/</link>
+    <description><![CDATA[Jueces y servidores judiciales del Palacio de Justicia de Santiago se sumaron al paro nacional en reclamo de mejores condiciones laborales. Exigen mejoras salariales, más personal y garantías adecuadas para su trabajo.
+
+Denuncian la falta de personal, bajos salarios, carga laboral excesiva, renuncias masivas y deterioro de las infraestructuras judiciales. La escasez de empleados obliga a muchos a asumir múltiples funciones, lo que consideran insostenible.
+
+El paro se desarrolla de manera pacífica con el objetivo de llamar la atención de las autoridades sobre la necesidad urgente de fortalecer el sistema judicial dominicano.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779376727/autonoticias/articles/20260521_151846_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 21 May 2026 15:19:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521151914</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Avión declarado en emergencia permanecerá en RD mientras investigan olor detectado durante vuelo]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/05/21/delta-inspecciona-avion-tras-emergencia-por-olor-en-cabina/3541242</link>
     <description><![CDATA[Un avión Airbus A321 de Delta Air Lines, que cubría el vuelo 1822 hacia Nueva York, fue declarado en emergencia tras detectarse un olor en la cabina. El vuelo había despegado de Santiago y la emergencia se declaró a las 5:15 de la tarde.
@@ -1323,20 +1337,6 @@ El decreto también establece que el tiempo de vigencia puede reducirse si se de
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778889650/autonoticias/articles/20260516_000049_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 16 May 2026 00:01:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260516000142</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Trabajos de ETED afectarán temporalmente el servicio en Piantini, Bella Vista y otros sectores]]></title>
-    <link>https://eldia.com.do/trabajos-de-eted-afectaran-temporalmente-el-servicio-en-piantini-bella-vista-y-otros-sectores/</link>
-    <description><![CDATA[La Empresa de Transmisión Eléctrica Dominicana (ETED) anunció trabajos de mantenimiento preventivo en las subestaciones Embajador – Barra y Arroyo Hondo – Capotillo este sábado 16 de mayo. El objetivo es fortalecer el suministro de energía.
-
-Los trabajos en la subestación Embajador – Barra se realizarán de 8:00 a.m. a 1:00 p.m., afectando sectores como Mirador Norte, Los Restauradores, El Millón, Piantini, Bella Vista, Jardines del Embajador y Los Cacicazgos. Empresas como Almacenes Unidos, Banco BHD León y Embajador también verán afectado su suministro.
-
-En la subestación Arroyo Hondo – Capotillo, las labores se llevarán a cabo de 9:00 a.m. a 12:00 p.m., impactando comunidades como Viejo Arroyo Hondo, Ensanche Paraíso, Piantini, Serrallés, Las Palmas de Arroyo Hondo, entre otras. Empresas como Molinos Modernos, MERCASID, Petroquímica, Polyplas, Termopac y Smurfit Kappa también se verán afectadas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778887497/autonoticias/articles/20260515_232457_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 15 May 2026 23:26:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260515232630</guid>
   </item>
 </channel>
 </rss>
