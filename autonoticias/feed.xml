@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 21 May 2026 15:28:29 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 21 May 2026 18:50:58 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Detienen a responsables de agredir y amenazar a chofer de autobús escolar en el Café de Herrera]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/05/21/faride-raful-detenidos-por-agredir-chofer-de-autobus-2003751/</link>
+    <description><![CDATA[Faride Raful, ministra de Interior y Policía, informó sobre la detención de los responsables de agredir al chofer de un autobús escolar en Café de Herrera, Santo Domingo Oeste.
+
+El incidente involucró al conductor Henrry González, quien fue atacado tras un roce con una motocicleta que presuntamente iba en vía contraria. La agresión ocurrió frente a estudiantes, generando pánico.
+
+Los implicados serán presentados ante el Ministerio Público.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779389417/autonoticias/articles/20260521_185016_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 21 May 2026 18:50:58 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260521185058</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Jueces paralizan labores en Dajabón y Barahona en demanda de mejoras laborales]]></title>
     <link>https://listindiario.com/la-republica/justicia/20260521/jueces-juezas-servidores-judiciales-paralizan-labores-dajabon-demanda-reivindicaciones_906624.html</link>
     <description><![CDATA[Jueces y personal judicial de Dajabón y Barahona han detenido sus labores para exigir mejoras en sus condiciones laborales. Denuncian falta de personal, baja remuneración y deterioro de infraestructura.
@@ -1323,20 +1337,6 @@ Landrón ha solicitado a los gremios suspender el paro convocado, destacando la 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778941694/autonoticias/articles/20260516_142813_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 16 May 2026 14:29:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260516142905</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Vaguada provocará aguaceros y tronadas en varias provincias]]></title>
-    <link>https://n.com.do/2026/05/16/vaguada-provocara-aguaceros-y-tronadas-en-varias-provincias/</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informa que una vaguada provocará aguaceros dispersos, tronadas aisladas y posibles ráfagas de viento en varias provincias del país este sábado. Se espera un incremento de las precipitaciones para el domingo.
-
-Las provincias afectadas incluyen La Altagracia, La Romana, San Pedro de Macorís, El Seibo, Samaná, Espaillat, María Trinidad Sánchez y Barahona. Durante la tarde, se prevén aguaceros en Monte Plata, Hato Mayor, Sánchez Ramírez, Duarte, La Vega, Monseñor Nouel, Azua, San Juan, Santiago, Espaillat, Elías Piña y Dajabón.
-
-El Indomet mantiene el nivel de prealerta debido a posibles inundaciones y deslizamientos de tierra. Las temperaturas seguirán calurosas, con mínimas entre 23 °C y 25 °C y máximas entre 31 °C y 33 °C en el Gran Santo Domingo.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778941666/autonoticias/articles/20260516_142745_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 16 May 2026 14:28:48 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260516142848</guid>
   </item>
 </channel>
 </rss>
