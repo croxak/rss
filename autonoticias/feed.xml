@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 22 May 2026 14:38:22 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 16:03:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Alijo ocupado por la DNCD en operación conjunta supera una tonelada de cocaína]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/05/22/dncd-incauta-mas-de-una-tonelada-de-cocaina-en-operativo-2004953/</link>
+    <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD) confirmó que un alijo de 978 paquetes de cocaína, incautado en colaboración con la Armada de República Dominicana, la Fuerza Aérea y agencias internacionales, pesó 1,004 kilogramos según el INACIF.
+
+Tres venezolanos fueron detenidos en una lancha rápida durante la operación. El Ministerio Público y la DNCD continúan investigando para identificar a otros posibles implicados en esta operación de narcotráfico internacional.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779465750/autonoticias/articles/20260522_160230_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 22 May 2026 16:03:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260522160302</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministro de Vivienda, Hábitat y Edificaciones inicia construcción del nuevo Centro de Corrección y Rehabilitación de Hato Mayor]]></title>
     <link>https://www.presidencia.gob.do/noticias/ministro-de-vivienda-habitat-y-edificaciones-inicia-construccion-del-nuevo-centro-de</link>
     <description><![CDATA[El ministro de Vivienda, Hábitat y Edificaciones, Víctor Bisonó, ha dado inicio a la construcción del nuevo Centro de Corrección y Rehabilitación en Hato Mayor. Este proyecto es parte de la visión del presidente Luis Abinader para un sistema penitenciario más humano y organizado.
@@ -1329,18 +1341,6 @@ Valdez Cordero fue arrestado en Cotuí mediante un operativo coordinado por vari
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779034000/autonoticias/articles/20260517_160640_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 17 May 2026 16:08:15 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260517160815</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Desmantelan laboratorio clandestino de alcohol adulterado en Bahoruco]]></title>
-    <link>https://n.com.do/2026/05/17/desmantelan-laboratorio-clandestino-de-alcohol-adulterado-en-bahoruco/</link>
-    <description><![CDATA[La Policía Nacional desmanteló un presunto laboratorio clandestino dedicado a la fabricación de bebidas alcohólicas adulteradas en Batey 6, Tamayo, Bahoruco. Durante el operativo, se ocuparon 21 tanques metálicos y 19 galones de un líquido amarillento.
-
-Las autoridades advierten sobre el peligro para la salud pública que representa el consumo de alcohol adulterado. Las investigaciones siguen para identificar a los responsables.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779033220/autonoticias/articles/20260517_155339_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 17 May 2026 15:54:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260517155428</guid>
   </item>
 </channel>
 </rss>
