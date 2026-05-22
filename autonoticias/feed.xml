@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 22 May 2026 14:31:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 14:34:30 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Policía arresta a tres haitianos vinculados al homicidio de agricultor en Dajabón]]></title>
+    <link>https://n.com.do/2026/05/22/policia-arresta-a-tres-hombres-vinculados-al-homicidio-de-agricultor-en-dajabon/</link>
+    <description><![CDATA[La Policía Nacional arrestó a tres hombres presuntamente implicados en el homicidio del ex regidor y agricultor Elido María Zapata Gómez en Dajabón. Los detenidos, David Pierre, Jarinson Pierre y Masu Pierre, son de nacionalidad haitiana.
+
+El incidente ocurrió en una finca del Callejón La Piña cuando la víctima fue a realizar pagos a trabajadores y fue agredida. Las autoridades continúan investigando para identificar a otros posibles involucrados.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779460395/autonoticias/articles/20260522_143314_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 22 May 2026 14:34:30 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260522143430</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Raudy Jiménez Dicent es buscado por presunto homicidio de su pareja en Villa Altagracia]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/05/22/hombre-mata-a-su-pareja-en-villa-altagracia-sospechoso-2004832/</link>
     <description><![CDATA[Raudy Jiménez Dicent es buscado por las autoridades tras presuntamente haberle quitado la vida a su pareja, Avril, en Los Arroyos, Villa Altagracia. El incidente ocurrió la madrugada de este viernes.
@@ -1329,22 +1341,6 @@ Beltré deja dos niñas huérfanas. La Policía Nacional y el INACIF están en e
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779032312/autonoticias/articles/20260517_153831_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 17 May 2026 15:39:16 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260517153916</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Indomet prevé aguaceros y tronadas este domingo; COE mantiene las alertas]]></title>
-    <link>https://www.elcaribe.com.do/panorama/pais/indomet-preve-aguaceros-y-tronadas-este-domingo-coe-mantiene-las-alertas/</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) pronostica aguaceros, tronadas y ráfagas de viento este domingo en varias regiones del país debido a una vaguada. Desde la mañana se esperan nublados con aguaceros dispersos en el sureste y suroeste.
-
-Después del mediodía, se prevén aguaceros moderados a fuertes, tormentas eléctricas y ráfagas de viento en el noreste, sureste, suroeste, la Cordillera Central y la zona fronteriza.
-
-El Centro de Operaciones de Emergencias (COE) mantiene alerta verde en 16 localidades por riesgo de crecidas e inundaciones. Las provincias en alerta incluyen Montecristi, Puerto Plata, María Trinidad Sánchez, Samaná, Santiago Rodríguez, Dajabón, San Cristóbal, Hato Mayor, Valverde, San José de Ocoa, Monte Plata, Sánchez Ramírez, Espaillat, Duarte y Santo Domingo, además del Distrito Nacional.
-
-Se exhorta a la población a seguir los boletines oficiales y evitar cruzar ríos y utilizar balnearios en las provincias bajo alerta.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779031360/autonoticias/articles/20260517_152239_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 17 May 2026 15:23:12 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260517152312</guid>
   </item>
 </channel>
 </rss>
