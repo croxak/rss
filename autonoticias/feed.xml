@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 22 May 2026 16:03:02 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 16:31:51 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Detienen ambulancia transportando haitianos indocumentados en Dajabón]]></title>
+    <link>https://panorama.com.do/detienen-ambulancia-transportando-haitianos-indocumentados-en-dajabon/</link>
+    <description><![CDATA[La Dirección General de Migración interceptó una ambulancia en Dajabón que transportaba haitianos indocumentados. El vehículo, de la cooperativa COOPBUENO, fue detenido tras recoger a dos personas frente al consulado de Haití.
+
+El conductor, Anderson Ramón Estévez Pacheco, fue seguido por agentes de inteligencia migratoria. Los detenidos pagaron nueve mil pesos por el traslado. La ambulancia y sus ocupantes fueron llevados al Centro de Procesamiento Migratorio de Dajabón.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779467075/autonoticias/articles/20260522_162434_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 22 May 2026 16:31:51 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260522163151</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Alijo ocupado por la DNCD en operación conjunta supera una tonelada de cocaína]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/05/22/dncd-incauta-mas-de-una-tonelada-de-cocaina-en-operativo-2004953/</link>
     <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD) confirmó que un alijo de 978 paquetes de cocaína, incautado en colaboración con la Armada de República Dominicana, la Fuerza Aérea y agencias internacionales, pesó 1,004 kilogramos según el INACIF.
@@ -1329,18 +1341,6 @@ Los participantes criticaron que se les impidiera manifestarse mientras otros se
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779036764/autonoticias/articles/20260517_165243_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 17 May 2026 16:53:18 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260517165318</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Solicitarán tres meses de prisión preventiva contra “Keka” por agresión a su ex pareja]]></title>
-    <link>https://n.com.do/2026/05/17/solicitaran-tres-meses-de-prision-preventiva-contra-keka-por-agresion-a-su-ex-pareja/</link>
-    <description><![CDATA[El Ministerio Público busca imponer tres meses de prisión preventiva a Fausto Ezequiel Valdez Cordero, conocido como “Keka”, por presuntas agresiones a su ex pareja, Anabel Díaz. La situación cobró notoriedad cuando Díaz publicó un video denunciando el temor por su vida y criticando el manejo de su caso por las autoridades.
-
-Valdez Cordero fue arrestado en Cotuí mediante un operativo coordinado por varias entidades policiales. El Ministerio de la Mujer ha estado involucrado desde el 5 de mayo, y la Policía Nacional destaca sus esfuerzos contra la violencia de género.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779034000/autonoticias/articles/20260517_160640_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 17 May 2026 16:08:15 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260517160815</guid>
   </item>
 </channel>
 </rss>
