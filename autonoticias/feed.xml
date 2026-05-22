@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 22 May 2026 11:51:31 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 13:31:59 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Detienen 26 haitianos indocumentados en zona boscosa de Guayubín]]></title>
+    <link>https://panorama.com.do/detienen-26-haitianos-indocumentados-en-zona-boscosa-de-guayubin/</link>
+    <description><![CDATA[Una patrulla del Ejército de República Dominicana detuvo a 26 haitianos indocumentados en una zona boscosa de Guayubín. El operativo se realizó cerca del río de esa demarcación.
+
+Entre los detenidos se encuentran 25 hombres y una mujer, todos en estatus migratorio irregular. Los extranjeros fueron trasladados a la sede de la 4ta. Brigada de Infantería para los fines legales correspondientes y su posterior entrega a la Dirección General de Migración.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779456634/autonoticias/articles/20260522_133034_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 22 May 2026 13:31:59 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260522133159</guid>
+  </item>
+
+  <item>
     <title><![CDATA[JCE reglamenta el registro de encuestadoras y la publicación de sondeos electorales en RD]]></title>
     <link>https://www.elcaribe.com.do/panorama/pais/jce-reglamenta-el-registro-de-encuestadoras-y-la-publicacion-de-sondeos-electorales-en-rd/</link>
     <description><![CDATA[La Junta Central Electoral (JCE) ha establecido un nuevo reglamento para el registro de empresas encuestadoras y la publicación de encuestas electorales en República Dominicana. Este reglamento busca garantizar la transparencia y equidad en los procesos electorales.
@@ -1333,20 +1345,6 @@ El caso está calificado como violación a varios artículos del Código Penal D
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779030922/autonoticias/articles/20260517_151521_article.webp" type="image/jpeg"/>
     <pubDate>Sun, 17 May 2026 15:18:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260517151840</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Alex Saab aterriza en Miami tras ser deportado por el Gobierno de Venezuela]]></title>
-    <link>https://www.diariolibre.com/mundo/estados-unidos/2026/05/17/alex-saab-aterriza-en-manos-de-la-dea-tras-ser-deportado-por-venezuela/3536390</link>
-    <description><![CDATA[Alex Saab, empresario colombiano y exministro venezolano, fue deportado a Estados Unidos por el Gobierno de Venezuela. Saab aterrizó en el aeropuerto de Opa-locka, Miami-Dade, escoltado por agentes federales.
-
-La deportación se realizó debido a la presunta comisión de delitos en Estados Unidos. Saab, amigo personal de Nicolás Maduro, enfrenta acusaciones de corrupción y de actuar como testaferro del líder chavista.
-
-Anteriormente, Saab estuvo preso en Estados Unidos y fue indultado por el Gobierno de Joe Biden. En octubre de 2024, fue designado ministro de Industria y Producción Nacional en Venezuela, pero fue destituido por Delcy Rodríguez.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779030943/autonoticias/articles/20260517_151543_article.png" type="image/png"/>
-    <pubDate>Sun, 17 May 2026 15:18:26 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260517151826</guid>
   </item>
 </channel>
 </rss>
