@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 22 May 2026 21:18:42 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 21:19:08 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Paliza anuncia entrega de 760 títulos de propiedad a familias de Pepillo Salcedo]]></title>
+    <link>https://robertocavada.com/paliza-anuncia-entrega-de-760-titulos-de-propiedad-a-familias-de-pepillo-salcedo/</link>
+    <description><![CDATA[El ministro de la Presidencia, José Ignacio Paliza, anunció la entrega de 760 títulos de propiedad a familias de Pepillo Salcedo, Montecristi. Esta acción forma parte del proceso de titulación de terrenos que desarrolla la Unidad Técnica Ejecutora de Titulación de Terrenos del Estado.
+
+Durante su visita, Paliza supervisó proyectos de infraestructura como la ampliación del puerto de Manzanillo y la construcción de la central termoeléctrica Manzanillo Gas & Power. Además, informó que el Sistema Nacional de Atención a Emergencias y Seguridad 9-1-1 comenzará a operar en Montecristi en junio.
+
+El ministro resaltó el valor estratégico del puerto de Manzanillo para conectar a la República Dominicana con mercados internacionales. También visitó terrenos donde se desarrollarán infraestructuras complementarias para operaciones portuarias.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779484701/autonoticias/articles/20260522_211820_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 22 May 2026 21:19:08 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260522211908</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidente del Senado afirma que Congreso trabaja en leyes para enfrentar auge de drogas sintéticas]]></title>
     <link>https://www.diariolibre.com/politica/congreso-nacional/2026/05/22/presidente-del-senado-trabaja-en-nueva-ley-antidrogas/3543040</link>
     <description><![CDATA[El presidente del Senado dominicano, Ricardo de los Santos, informó que el Congreso trabaja en un nuevo marco normativo para enfrentar el auge de las drogas sintéticas. La iniciativa busca cerrar vacíos legales y fortalecer la respuesta del Estado.
@@ -1329,20 +1343,6 @@ La madre agradeció la intervención de los agentes, encabezados por el teniente
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779071000/autonoticias/articles/20260518_022319_article.png" type="image/png"/>
     <pubDate>Mon, 18 May 2026 02:23:50 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260518022350</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía Nacional aclara no recibió llamadas de emergencia previo a muerte de Indhira Beltré en SDE]]></title>
-    <link>https://panorama.com.do/policia-nacional-aclara-no-recibio-llamadas-de-emergencia-previo-a-muerte-de-indhira-beltre-en-sde/</link>
-    <description><![CDATA[La Policía Nacional informó que no hay registros de llamadas de emergencia relacionadas con la muerte de Indhira Carolina Beltré en Santo Domingo Este. Tanto el Sistema Nacional de Atención a Emergencias y Seguridad 9-1-1 como la central telefónica de la Policía carecen de alertas previas sobre el suceso.
-
-Una joven identificada como «Gleris» admitió haber hablado sin conocimiento del caso. El vocero de la Policía, coronel Diego Pesqueira, señaló que los investigadores desconocen esa versión.
-
-Camilo Rodríguez, de 52 años, fue capturado como el presunto autor de la muerte de Beltré, quien falleció por heridas de arma blanca.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779054854/autonoticias/articles/20260517_215414_article.png" type="image/png"/>
-    <pubDate>Sun, 17 May 2026 21:56:06 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260517215606</guid>
   </item>
 </channel>
 </rss>
