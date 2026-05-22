@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 22 May 2026 18:10:51 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 18:49:06 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[El puente flotante será cerrado por 2 horas este sábado para permitir el paso de una embarcación]]></title>
+    <link>https://www.presidencia.gob.do/noticias/el-puente-flotante-sera-cerrado-por-2-horas-este-sabado-para-permitir-el-paso-de-una</link>
+    <description><![CDATA[El Ministerio de Obras Públicas y Comunicaciones (MOPC) informó que el puente flotante sobre el río Ozama será cerrado temporalmente este sábado 23 de mayo, de 10:00 a.m. a 12:00 p.m., para permitir el paso del buque a motor Belle Lashun III.
+
+El puente conecta el Distrito Nacional con Villa Duarte en Santo Domingo Este. Se exhorta a los conductores a tomar precauciones y utilizar los puentes Matías Ramón Mella, Juan Pablo Duarte y Juan Bosch como rutas alternas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779475712/autonoticias/articles/20260522_184832_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 22 May 2026 18:49:06 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260522184906</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno destina RD$1,588.5 millones para mantener congelados precios en los combustibles]]></title>
     <link>https://panorama.com.do/gobierno-destina-rd1588-5-millones-para-mantener-congelados-precios-en-los-combustibles/</link>
     <description><![CDATA[El Gobierno dominicano ha destinado RD$1,588.5 millones para mantener congelados los precios de combustibles esenciales y GLP del 23 al 29 de mayo. Las gasolinas premium y regular, los gasoil óptimo y regular, el gas natural y el GLP no verán cambios en sus precios.
@@ -1327,20 +1339,6 @@ Mejía destacó el crecimiento político del PRM y la importancia de mantener el
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779041557/autonoticias/articles/20260517_181236_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 17 May 2026 18:13:47 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260517181347</guid>
-  </item>
-
-  <item>
-    <title><![CDATA["Me llamó después de matarla y actuó normal": la conversación con alegado feminicida en La Toronja]]></title>
-    <link>https://www.diariolibre.com/actualidad/sucesos/2026/05/17/me-llamo-tras-matarla-conversacion-tras-feminicidio-en-la-toronja/3536569</link>
-    <description><![CDATA[Camilo Rodríguez, señalado por la Policía como responsable de la muerte de Indhira Beltré, llamó a Imairy Sánchez después del incidente y actuó con aparente normalidad. Le pidió que fuera a la casa de su hermana en La Toronja, Santo Domingo Este, sin explicar lo sucedido.
-
-Otra hija de la víctima también recibió una llamada de Rodríguez, quien le dijo que "se fue a trabajar". Beltré, de 33 años, deja dos niñas en la orfandad y es descrita como trabajadora y responsable.
-
-Camilo e Indhira estaban separados pero mantenían una relación cordial. La Policía Nacional detuvo a Rodríguez en el sector Riviera del Caribe. Este es el segundo feminicidio en Santo Domingo Este en cinco días.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779041530/autonoticias/articles/20260517_181210_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 17 May 2026 18:12:56 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260517181256</guid>
   </item>
 </channel>
 </rss>
