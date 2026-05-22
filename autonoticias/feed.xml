@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 22 May 2026 13:33:34 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 14:31:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[JCE recuerda que está prohibido publicar encuestas electorales antes de julio de 2027]]></title>
+    <link>https://n.com.do/2026/05/22/jce-recuerda-que-esta-prohibido-publicar-encuestas-electorales-antes-de-julio-de-2027/</link>
+    <description><![CDATA[La Junta Central Electoral (JCE) ha reiterado que no se pueden publicar encuestas electorales antes de julio de 2027, cuando inicia la precampaña para las elecciones de 2028.
+
+Las empresas encuestadoras deben registrarse y cumplir con requisitos técnicos y legales. Las encuestas internas de partidos no podrán hacerse públicas antes de esa fecha.
+
+Las firmas que no cumplan enfrentarán sanciones, como la suspensión o cancelación de su registro.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779460237/autonoticias/articles/20260522_143035_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 22 May 2026 14:31:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260522143115</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Salud Pública refuerza vigilancia epidemiológica ante alerta internacional por brote de ébola]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/05/22/salud-publica-refuerza-vigilancia-epidemiologica-por-ebola-2004710/</link>
     <description><![CDATA[El Ministerio de Salud Pública de República Dominicana ha intensificado la vigilancia epidemiológica y los protocolos preventivos ante una alerta internacional por un brote de ébola en África Central.
@@ -1331,20 +1345,6 @@ La ceremonia se celebró en Ellis Island, un lugar histórico por donde pasaron 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779031316/autonoticias/articles/20260517_152156_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 17 May 2026 15:22:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260517152257</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Medio Ambiente reafirma control y recuperación ambiental en entorno de las Cuevas del Pomier]]></title>
-    <link>https://panorama.com.do/medio-ambiente-reafirma-control-y-recuperacion-ambiental-en-entorno-de-las-cuevas-del-pomier/</link>
-    <description><![CDATA[El Ministerio de Medio Ambiente y Recursos Naturales está llevando a cabo un proceso de protección ambiental en las Cuevas del Pomier. Los mineros artesanales han sido reubicados para permitir una extracción controlada de material calizo, bajo supervisión institucional.
-
-Desde febrero del año pasado, se han implementado medidas de control y vigilancia en colaboración con el SENPA para evitar nuevas extracciones y asegurar la recuperación ambiental. Un acuerdo con DOCALSA incluye reforestación y estabilización de taludes.
-
-SENPA ha realizado inspecciones para verificar las labores de remediación, confirmando que no hay actividades clandestinas. El Ministerio reafirma su compromiso con la protección del área y el cumplimiento de la Ley 64-00.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779030898/autonoticias/articles/20260517_151458_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 17 May 2026 15:18:55 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260517151855</guid>
   </item>
 </channel>
 </rss>
