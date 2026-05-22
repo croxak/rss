@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 22 May 2026 18:49:06 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 19:37:53 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[COE emite alerta verde para Santo Domingo, Monte Plata y San Cristóbal por lluvias]]></title>
+    <link>https://robertocavada.com/coe-emite-alerta-verde-para-santo-domingo-monte-plata-y-san-cristobal-por-lluvias/</link>
+    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha emitido una alerta verde para Santo Domingo, Monte Plata, San Cristóbal y el Distrito Nacional. Esta medida se debe a las condiciones meteorológicas actuales, que incluyen una vaguada y el viento cálido del este/sureste.
+
+Estas condiciones están generando lluvias moderadas a fuertes, tormentas eléctricas y ráfagas de viento en diversas zonas del país. Las lluvias tendrán mayor incidencia durante la tarde y primeras horas de la noche en varias provincias, incluyendo La Altagracia, Hato Mayor, El Seibo, entre otras.
+
+El COE advierte sobre posibles crecidas de ríos, arroyos y cañadas, así como inundaciones repentinas o urbanas. Se exhorta a la población a mantenerse atenta a los boletines oficiales y evitar cruzar cuerpos de agua con altos volúmenes.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779478601/autonoticias/articles/20260522_193640_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 22 May 2026 19:37:53 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260522193753</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El puente flotante será cerrado por 2 horas este sábado para permitir el paso de una embarcación]]></title>
     <link>https://www.presidencia.gob.do/noticias/el-puente-flotante-sera-cerrado-por-2-horas-este-sabado-para-permitir-el-paso-de-una</link>
     <description><![CDATA[El Ministerio de Obras Públicas y Comunicaciones (MOPC) informó que el puente flotante sobre el río Ozama será cerrado temporalmente este sábado 23 de mayo, de 10:00 a.m. a 12:00 p.m., para permitir el paso del buque a motor Belle Lashun III.
@@ -1327,18 +1341,6 @@ Rodríguez fue capturado en el sector Riviera del Caribe tras labores de intelig
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779041517/autonoticias/articles/20260517_181156_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 17 May 2026 18:14:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260517181402</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Carolina: “Seré candidata presidencial del PRM y en 2028 seré la presidenta de nuestro país”]]></title>
-    <link>https://www.elcaribe.com.do/panorama/politica/carolina-sere-candidata-presidencial-del-prm-y-en-2028-sere-la-presidenta-de-nuestro-pais/</link>
-    <description><![CDATA[Carolina Mejía, secretaria general del PRM, anunció su aspiración a la candidatura presidencial del partido para las elecciones de 2028. El anuncio se realizó en un encuentro regional en Barahona con dirigentes y militantes del PRM.
-
-Mejía destacó el crecimiento político del PRM y la importancia de mantener el trabajo cercano a la población. Su proyecto busca dar continuidad a las políticas del presidente Luis Abinader.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779041557/autonoticias/articles/20260517_181236_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 17 May 2026 18:13:47 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260517181347</guid>
   </item>
 </channel>
 </rss>
