@@ -7,9 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 22 May 2026 03:37:35 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 11:51:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[JCE reglamenta el registro de encuestadoras y la publicación de sondeos electorales en RD]]></title>
+    <link>https://www.elcaribe.com.do/panorama/pais/jce-reglamenta-el-registro-de-encuestadoras-y-la-publicacion-de-sondeos-electorales-en-rd/</link>
+    <description><![CDATA[La Junta Central Electoral (JCE) ha establecido un nuevo reglamento para el registro de empresas encuestadoras y la publicación de encuestas electorales en República Dominicana. Este reglamento busca garantizar la transparencia y equidad en los procesos electorales.
+
+Las empresas encuestadoras deben registrarse ante la JCE y cumplir con varios requisitos. Solo las empresas registradas podrán realizar y publicar encuestas con fines electorales.
+
+Se prohíbe la publicación de encuestas antes del inicio formal de la precampaña. Las encuestas de boca de urna deben notificarse con anticipación y sus resultados se publicarán cuatro horas después del cierre de votaciones.
+
+El incumplimiento de estas disposiciones puede resultar en multas y la cancelación del registro.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779450631/autonoticias/articles/20260522_115031_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 22 May 2026 11:51:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260522115131</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Economía dominicana registró un aumento interanual de 118,631 nuevos ocupados netos en el primer trimestre de 2026]]></title>
     <link>https://n.com.do/2026/05/21/economia-dominicana-registro-un-aumento-interanual-de-118631-nuevos-ocupados-netos-en-el-primer-trimestre-de-2026/</link>
     <description><![CDATA[La economía dominicana experimentó un incremento de 118,631 nuevos ocupados netos en el primer trimestre de 2026, alcanzando un total de 5,236,178 trabajadores. De estos, 2,403,395 corresponden a empleos formales.
@@ -1331,20 +1347,6 @@ Anteriormente, Saab estuvo preso en Estados Unidos y fue indultado por el Gobier
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779030943/autonoticias/articles/20260517_151543_article.png" type="image/png"/>
     <pubDate>Sun, 17 May 2026 15:18:26 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260517151826</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[INDEX recibe a delegación de profesores de EE. UU. encabezada por Ramona Hernández]]></title>
-    <link>https://www.diariolibre.com/usa/actualidad/2026/05/17/fortalecimiento-de-la-diaspora-dominicana-con-index-y-cuny/3536422</link>
-    <description><![CDATA[El Instituto de Dominicanos y Dominicanas en el Exterior (INDEX) recibió a una delegación académica de Estados Unidos, encabezada por la doctora Ramona Hernández, directora del CUNY Dominican Studies Institute, en el Ministerio de Relaciones Exteriores.
-
-La actividad fue liderada por Celinés Toribio, directora ejecutiva del INDEX, y contó con la participación de representantes del Inter-University Program for Latino Research (IUPLR). La delegación incluyó profesores e investigadores de varias universidades estadounidenses.
-
-Toribio destacó la importancia de fortalecer los vínculos entre la diplomacia dominicana y el ámbito académico internacional. Hernández agradeció el recibimiento y expresó su interés en continuar fortaleciendo vínculos con instituciones nacionales.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779030957/autonoticias/articles/20260517_151557_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 17 May 2026 15:18:12 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260517151812</guid>
   </item>
 </channel>
 </rss>
