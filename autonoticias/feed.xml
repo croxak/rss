@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 22 May 2026 03:35:11 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 03:37:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Investigan dueño de edificio donde murieron cuatro dominicanos en un incendio en Manhattan]]></title>
+    <link>https://panorama.com.do/investigan-dueno-de-edificio-donde-murieron-cuatro-dominicanos-en-un-incendio-en-manhattan/</link>
+    <description><![CDATA[La Fiscalía del Distrito de Manhattan investiga al propietario del edificio en el 207 de Dyckman Street, Jack Bick, tras un incendio que dejó cuatro dominicanos fallecidos en Inwood, Alto Manhattan.
+
+El fiscal Alvin Bragg busca determinar si hubo responsabilidades adicionales en el siniestro. Las víctimas incluyen a Annie de la Cruz, su hijo Lance García, la periodista Yolaine Díaz y su madre Ana Mirtha Lantigua.
+
+La investigación es independiente del caso contra Víctor Arias, acusado de homicidio por negligencia criminal, quien fue captado lanzando un cigarrillo encendido que presuntamente inició el incendio.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779420994/autonoticias/articles/20260522_033633_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 22 May 2026 03:37:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260522033705</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece Pedro Agustín Bretón Taveras, dirigente político y referente del sector agropecuario]]></title>
     <link>https://panorama.com.do/fallece-pedro-agustin-breton-taveras-dirigente-politico-y-referente-del-sector-agropecuario/</link>
     <description><![CDATA[Pedro Agustín Bretón Taveras, reconocido dirigente político y referente del sector agropecuario, ha fallecido en la provincia de Santiago. Bretón Taveras fue miembro del Partido Reformista Social Cristiano y tuvo una destacada trayectoria en el servicio público.
@@ -1329,18 +1343,6 @@ Llamó a defender el diálogo y la pluralidad en un contexto internacional polar
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779030983/autonoticias/articles/20260517_151623_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 17 May 2026 15:16:47 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260517151647</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Decomisan más de 96 mil cigarrillos de contrabando ocultos en una camioneta en Valverde]]></title>
-    <link>https://panorama.com.do/decomisan-mas-de-96-mil-cigarrillos-de-contrabando-ocultos-en-una-camioneta-en-valverde/</link>
-    <description><![CDATA[Miembros del Ejército de República Dominicana decomisaron un cargamento de 96,200 cigarrillos ilícitos en Esperanza, Valverde. Durante un operativo, el conductor de una camioneta Chevrolet S10 huyó al ver a los militares, dejando el vehículo abandonado.
-
-Las autoridades encontraron 481 paquetes de cigarrillos marca Capital ocultos en la parte trasera del vehículo. La mercancía fue trasladada a la sede de la 4ta. Brigada de Infantería del ERD.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779030879/autonoticias/articles/20260517_151439_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 17 May 2026 15:15:09 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260517151509</guid>
   </item>
 </channel>
 </rss>
