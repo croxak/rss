@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 22 May 2026 14:34:30 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 14:38:22 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Ministro de Vivienda, Hábitat y Edificaciones inicia construcción del nuevo Centro de Corrección y Rehabilitación de Hato Mayor]]></title>
+    <link>https://www.presidencia.gob.do/noticias/ministro-de-vivienda-habitat-y-edificaciones-inicia-construccion-del-nuevo-centro-de</link>
+    <description><![CDATA[El ministro de Vivienda, Hábitat y Edificaciones, Víctor Bisonó, ha dado inicio a la construcción del nuevo Centro de Corrección y Rehabilitación en Hato Mayor. Este proyecto es parte de la visión del presidente Luis Abinader para un sistema penitenciario más humano y organizado.
+
+El centro tendrá capacidad para 400 internos y contará con espacios para educación, trabajo y esparcimiento. Además, incluirá áreas agrícolas y talleres para fomentar el autoconsumo y el aprendizaje técnico-agropecuario.
+
+La obra se realiza con mano de obra e insumos locales, impulsando así la economía de Hato Mayor.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779460080/autonoticias/articles/20260522_142759_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 22 May 2026 14:38:22 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260522143822</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía arresta a tres haitianos vinculados al homicidio de agricultor en Dajabón]]></title>
     <link>https://n.com.do/2026/05/22/policia-arresta-a-tres-hombres-vinculados-al-homicidio-de-agricultor-en-dajabon/</link>
     <description><![CDATA[La Policía Nacional arrestó a tres hombres presuntamente implicados en el homicidio del ex regidor y agricultor Elido María Zapata Gómez en Dajabón. Los detenidos, David Pierre, Jarinson Pierre y Masu Pierre, son de nacionalidad haitiana.
@@ -1327,20 +1341,6 @@ Las autoridades advierten sobre el peligro para la salud pública que representa
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779033220/autonoticias/articles/20260517_155339_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 17 May 2026 15:54:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260517155428</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Identifican mujer asesinada presuntamente por su pareja en Santo Domingo Este]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/05/17/feminicidio-en-santo-domingo-este-identifican-a-la-victima-1998173/</link>
-    <description><![CDATA[Indhira Carolina Beltré, de 33 años, fue asesinada en un feminicidio en Las Toronjas, Santo Domingo Este. El presunto agresor, su pareja Camilo Rodríguez, huyó y sigue prófugo.
-
-El crimen ocurrió en la calle Duarte, Peatón 7, donde ambos vivían. Se investiga el caso, y se reporta que el agresor se llevó información de cámaras de vigilancia cercanas antes de escapar.
-
-Beltré deja dos niñas huérfanas. La Policía Nacional y el INACIF están en el lugar recopilando evidencias.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779032312/autonoticias/articles/20260517_153831_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 17 May 2026 15:39:16 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260517153916</guid>
   </item>
 </channel>
 </rss>
