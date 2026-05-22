@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 22 May 2026 19:40:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 21:18:42 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Presidente del Senado afirma que Congreso trabaja en leyes para enfrentar auge de drogas sintéticas]]></title>
+    <link>https://www.diariolibre.com/politica/congreso-nacional/2026/05/22/presidente-del-senado-trabaja-en-nueva-ley-antidrogas/3543040</link>
+    <description><![CDATA[El presidente del Senado dominicano, Ricardo de los Santos, informó que el Congreso trabaja en un nuevo marco normativo para enfrentar el auge de las drogas sintéticas. La iniciativa busca cerrar vacíos legales y fortalecer la respuesta del Estado.
+
+De los Santos destacó que las drogas sintéticas son una amenaza para la salud pública y la seguridad ciudadana, especialmente entre los jóvenes. Propuso una estrategia integral que incluya cooperación entre Estados, prevención, persecución penal, inteligencia compartida, tratamiento y reinserción social.
+
+El vicealmirante José M. Cabrera Ulloa, presidente de la Dirección Nacional de Control de Drogas, afirmó que el Gobierno busca una legislación moderna y flexible. Advirtió que el mercado de drogas sintéticas evoluciona rápidamente, superando los marcos normativos tradicionales.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779484673/autonoticias/articles/20260522_211753_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 22 May 2026 21:18:42 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260522211842</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Edeeste anuncia interrupción programada del servicio eléctrico este domingo en circuito CNP803]]></title>
     <link>https://www.presidencia.gob.do/noticias/edeeste-anuncia-interrupcion-programada-del-servicio-electrico-este-domingo-en-circuito</link>
     <description><![CDATA[Edeeste informa sobre una interrupción programada del servicio eléctrico este domingo 24, de 9:00 a.m. a 3:00 p.m., en el circuito CNP803. La medida responde a una solicitud de la Superintendencia de Bancos para realizar trabajos de poda y adecuaciones en sus redes internas.
@@ -1329,20 +1343,6 @@ Camilo Rodríguez, de 52 años, fue capturado como el presunto autor de la muert
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779054854/autonoticias/articles/20260517_215414_article.png" type="image/png"/>
     <pubDate>Sun, 17 May 2026 21:56:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260517215606</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Luis Abinader regresa al país tras concluir agenda de trabajo en Miami]]></title>
-    <link>https://www.presidencia.gob.do/noticias/presidente-luis-abinader-regresa-al-pais-tras-concluir-agenda-de-trabajo-en-miami</link>
-    <description><![CDATA[El presidente Luis Abinader ha vuelto al país después de cumplir con una agenda de trabajo en Miami. Durante su estadía, participó en encuentros académicos e institucionales.
-
-Abinader fue galardonado con el “Champion of Freedom Award” por el Adam Smith Center for Economic Freedom de la FIU, en reconocimiento a su liderazgo y políticas en favor de la libertad económica.
-
-El mandatario también se reunió con estudiantes dominicanos de la FIU, compartiendo experiencias sobre liderazgo y desarrollo económico.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779054794/autonoticias/articles/20260517_215313_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 17 May 2026 21:53:45 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260517215345</guid>
   </item>
 </channel>
 </rss>
