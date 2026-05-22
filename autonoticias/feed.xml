@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 22 May 2026 21:19:08 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 21:23:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Digemaps lanza programas para detectar patógenos y residuos químicos en carnes]]></title>
+    <link>https://www.diariolibre.com/actualidad/salud/2026/05/22/digemaps-lanza-controles-sanitarios-para-carnes-en-rd/3542654</link>
+    <description><![CDATA[La Dirección General de Medicamentos, Alimentos y Productos Sanitarios (Digemaps) ha lanzado los Programas Nacionales de Control de Patógenos y Residuos Químicos. Esta iniciativa busca fortalecer la inocuidad de la carne destinada al consumo humano y proteger la salud pública en el país.
+
+Los programas garantizan que los productos cárnicos estén libres de microorganismos, residuos químicos y sustancias prohibidas mediante controles sanitarios y vigilancia microbiológica. Se vigilan patógenos como Salmonella, E. coli O157:H7, STECs y Listeria monocytogenes, así como residuos de medicamentos veterinarios y pesticidas.
+
+La actividad se realizó en la Junta Agroempresarial Dominicana con el respaldo del Laboratorio Agroempresarial Dominicano.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779484934/autonoticias/articles/20260522_212214_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 22 May 2026 21:23:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260522212302</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Paliza anuncia entrega de 760 títulos de propiedad a familias de Pepillo Salcedo]]></title>
     <link>https://robertocavada.com/paliza-anuncia-entrega-de-760-titulos-de-propiedad-a-familias-de-pepillo-salcedo/</link>
     <description><![CDATA[El ministro de la Presidencia, José Ignacio Paliza, anunció la entrega de 760 títulos de propiedad a familias de Pepillo Salcedo, Montecristi. Esta acción forma parte del proceso de titulación de terrenos que desarrolla la Unidad Técnica Ejecutora de Titulación de Terrenos del Estado.
@@ -1329,20 +1343,6 @@ Víctor Atallah asumirá la presidencia de la asamblea, marcando un momento sign
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779108794/autonoticias/articles/20260518_125313_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 18 May 2026 12:53:38 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260518125338</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[PN rescata a menor de 15 años tras recibir ubicación enviada por la adolescente en La Romana]]></title>
-    <link>https://n.com.do/2026/05/17/menor-envio-ubicacion-rescate-la-romana/</link>
-    <description><![CDATA[La Policía Nacional rescató a una menor de 15 años en una zona rural de difícil acceso en la carretera La Romana–Higüeral. La intervención se realizó tras recibir una ubicación enviada por la adolescente, luego de que su madre denunciara su desaparición.
-
-El hombre que presuntamente la mantenía retenida huyó al notar la presencia policial. La menor fue trasladada a un centro de salud para recibir asistencia.
-
-La madre agradeció la intervención de los agentes, encabezados por el teniente coronel Fernando Encarnación.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779071000/autonoticias/articles/20260518_022319_article.png" type="image/png"/>
-    <pubDate>Mon, 18 May 2026 02:23:50 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260518022350</guid>
   </item>
 </channel>
 </rss>
