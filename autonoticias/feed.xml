@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 22 May 2026 13:31:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 22 May 2026 13:33:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Salud Pública refuerza vigilancia epidemiológica ante alerta internacional por brote de ébola]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/05/22/salud-publica-refuerza-vigilancia-epidemiologica-por-ebola-2004710/</link>
+    <description><![CDATA[El Ministerio de Salud Pública de República Dominicana ha intensificado la vigilancia epidemiológica y los protocolos preventivos ante una alerta internacional por un brote de ébola en África Central.
+
+La cepa Bundibugyo del virus, para la cual no existe una vacuna aprobada, ha sido identificada en el brote. Aunque el riesgo en República Dominicana es bajo, se han implementado medidas preventivas en coordinación con instituciones del sector salud, migración, turismo y autoridades aeroportuarias y portuarias.
+
+Las acciones incluyen vigilancia en aeropuertos y puertos, preparación de áreas de aislamiento, capacitación del personal médico y fortalecimiento de la capacidad diagnóstica de los laboratorios. El brote se concentra en la República Democrática del Congo y Uganda.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779456735/autonoticias/articles/20260522_133215_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 22 May 2026 13:33:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260522133334</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Detienen 26 haitianos indocumentados en zona boscosa de Guayubín]]></title>
     <link>https://panorama.com.do/detienen-26-haitianos-indocumentados-en-zona-boscosa-de-guayubin/</link>
     <description><![CDATA[Una patrulla del Ejército de República Dominicana detuvo a 26 haitianos indocumentados en una zona boscosa de Guayubín. El operativo se realizó cerca del río de esa demarcación.
@@ -1331,20 +1345,6 @@ SENPA ha realizado inspecciones para verificar las labores de remediación, conf
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779030898/autonoticias/articles/20260517_151458_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 17 May 2026 15:18:55 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260517151855</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Arrestan hombre que estaba prófugo tras matar extranjero durante asalto en Santiago]]></title>
-    <link>https://panorama.com.do/arrestan-hombre-que-estaba-profugo-tras-matar-extranjero-durante-asalto-en-santiago/</link>
-    <description><![CDATA[El Ministerio Público arrestó a Saúl Hernández, prófugo tras matar a Raymond Clemente Navarro en un asalto el 17 de abril en Santiago. El crimen ocurrió en un car wash y billar, donde Hernández y otros asaltantes dispararon a Navarro y lo despojaron de sus pertenencias.
-
-La fiscal Andry De Los Santos ejecutó el arresto con una orden judicial emitida por la jueza Stephanie Santiago Reyes. Hernández se entregó en el Centro de Intervención Conductual para Hombres de Santiago.
-
-El caso está calificado como violación a varios artículos del Código Penal Dominicano, incluyendo asociación de malhechores, asesinato y robo.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779030922/autonoticias/articles/20260517_151521_article.webp" type="image/jpeg"/>
-    <pubDate>Sun, 17 May 2026 15:18:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260517151840</guid>
   </item>
 </channel>
 </rss>
