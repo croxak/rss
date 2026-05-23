@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 23 May 2026 14:06:33 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 23 May 2026 14:09:53 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Abinader encabezará inauguración de fábrica Eco Acero en San Pedro de Macorís]]></title>
+    <link>https://panorama.com.do/abinader-encabezara-inauguracion-de-fabrica-eco-acero-en-san-pedro-de-macoris/</link>
+    <description><![CDATA[El presidente Luis Abinader estará presente en la inauguración de la Fábrica de Varilla Eco Acero en Los Llanos, San Pedro de Macorís, este sábado 23 de mayo de 2026.
+
+La apertura de esta planta industrial tiene como objetivo fortalecer el sector de la construcción y la producción nacional, además de fomentar el empleo y el desarrollo económico en la región Este.
+
+Al evento asistirán funcionarios gubernamentales, representantes del sector empresarial y autoridades locales.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779545369/autonoticias/articles/20260523_140928_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 23 May 2026 14:09:53 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260523140953</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ejército detiene a 27 personas durante operativos de interdicción en Loma de Cabrera]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/05/23/ejercito-detiene-27-indocumentados-en-loma-de-cabrera-2005980/</link>
     <description><![CDATA[El Ejército de República Dominicana detuvo a 27 personas en Loma de Cabrera durante operativos migratorios. Entre los detenidos hay 26 haitianos indocumentados y un dominicano.
@@ -1333,18 +1347,6 @@ Durante la sesión, se estableció la Comisión de Credenciales y se eligieron a
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779109156/autonoticias/articles/20260518_125916_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 18 May 2026 12:59:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260518125942</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Vaguada seguirá provocando lluvias en varios puntos del país]]></title>
-    <link>https://panorama.com.do/vaguada-seguira-provocando-lluvias-en-varios-puntos-del-pais/</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología ha informado sobre lluvias dispersas con tronadas aisladas en provincias de la costa Caribeña y la cordillera Central. Se prevé un aumento de aguaceros moderados a fuertes, tormentas eléctricas y ráfagas de viento en varias regiones del país.
-
-El Centro de Pronóstico ha modificado los niveles de alertas meteorológicas debido al riesgo de inundaciones urbanas, crecidas de ríos y posibles deslizamientos de tierra. Las temperaturas continuarán calurosas, con mínimas entre 23 °C y 25 °C, y máximas entre 31 °C y 33 °C.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779109101/autonoticias/articles/20260518_125821_article.webp" type="image/jpeg"/>
-    <pubDate>Mon, 18 May 2026 12:58:48 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260518125848</guid>
   </item>
 </channel>
 </rss>
