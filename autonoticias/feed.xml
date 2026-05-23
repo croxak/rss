@@ -7,9 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 23 May 2026 14:11:11 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 23 May 2026 14:12:29 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Vaguada provocará fuertes aguaceros y tormentas eléctricas este sábado]]></title>
+    <link>https://eldia.com.do/vaguada-provocara-fuertes-aguaceros-y-tormentas-electricas-este-sabado/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (INDOMET) ha informado sobre la incidencia de una vaguada que provocará fuertes aguaceros y tormentas eléctricas este sábado en gran parte del país.
+
+Durante la mañana, se esperan aguaceros dispersos en provincias como El Seibo, Hato Mayor, Samaná, María Trinidad Sánchez, Barahona y el Gran Santo Domingo. Sin embargo, después del mediodía, el fenómeno se intensificará con incrementos nubosos, fuertes aguaceros, tormentas eléctricas, ráfagas de viento y posibles granizadas.
+
+Las provincias más afectadas serán El Seibo, Hato Mayor, Monte Plata, San Pedro de Macorís, Sánchez Ramírez, La Vega, Monseñor Nouel, San José de Ocoa, San Cristóbal, Santiago, San Juan, Santiago Rodríguez, Elías Piña, Dajabón, Independencia, Baoruco y el Gran Santo Domingo.
+
+El INDOMET mantiene alerta meteorológica por riesgo de inundaciones y deslizamientos de tierra. En el Distrito Nacional y municipios aledaños se espera un ambiente nublado con aguaceros y tronadas. Las temperaturas seguirán calurosas, por lo que se recomienda a la población tomar precauciones.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779545524/autonoticias/articles/20260523_141204_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 23 May 2026 14:12:29 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260523141229</guid>
+  </item>
+
+  <item>
     <title><![CDATA[MIREX anuncia visita oficial al país de la canciller de Ecuador, Gabriela Sommerfeld]]></title>
     <link>https://robertocavada.com/mirex-anuncia-visita-oficial-al-pais-de-la-canciller-de-ecuador-gabriela-sommerfeld/</link>
     <description><![CDATA[El Ministerio de Relaciones Exteriores de República Dominicana informó sobre la visita oficial de la canciller de Ecuador, Gabriela Sommerfeld, los días 24 y 25 de mayo.
@@ -1337,18 +1353,6 @@ Díaz-Canel ha reiterado que Cuba está preparada para defender su soberanía, a
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779114853/autonoticias/articles/20260518_143413_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 18 May 2026 14:36:08 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260518143608</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ejército detiene hombre que ocultaba 24 haitianos indocumentados en un camión en San Juan de la Maguana]]></title>
-    <link>https://n.com.do/2026/05/18/ejercito-detiene-hombre-que-ocultaba-24-haitianos-indocumentados-en-un-camion-en-san-juan-de-la-maguana/</link>
-    <description><![CDATA[El Ejército de República Dominicana detuvo a un hombre en San Juan de la Maguana que transportaba a 24 haitianos indocumentados en un camión Isuzu. Los extranjeros estaban ocultos y cubiertos con cartones.
-
-El conductor, el vehículo y los nacionales haitianos fueron trasladados a la Fortaleza General Matías Ramón Mella para los procesos legales correspondientes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779114892/autonoticias/articles/20260518_143452_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 18 May 2026 14:35:35 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260518143535</guid>
   </item>
 </channel>
 </rss>
