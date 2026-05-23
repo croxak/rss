@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 23 May 2026 14:12:29 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 23 May 2026 14:14:23 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Un año de prisión preventiva para diez integrantes de red que hizo una estafa millonaria en una entidad financiera]]></title>
+    <link>https://pgr.gob.do/un-ano-de-prision-preventiva-para-diez-integrantes-de-red-que-hizo-una-estafa-millonaria-en-una-entidad-financiera/</link>
+    <description><![CDATA[El juez del Distrito Nacional ha ordenado un año de prisión preventiva para diez personas acusadas de formar parte de una red criminal que estafó a una entidad financiera por más de RD$305 millones. La medida fue solicitada por el Ministerio Público.
+
+Los acusados cumplirán la prisión preventiva en el CCR Las Parras y CCR Najayo Mujeres. La investigación sigue en curso, liderada por la procuradora Lewina Tavárez Gil, quien destacó la presentación de pruebas testimoniales y periciales en la audiencia.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779545621/autonoticias/articles/20260523_141340_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 23 May 2026 14:14:23 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260523141423</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Vaguada provocará fuertes aguaceros y tormentas eléctricas este sábado]]></title>
     <link>https://eldia.com.do/vaguada-provocara-fuertes-aguaceros-y-tormentas-electricas-este-sabado/</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología (INDOMET) ha informado sobre la incidencia de una vaguada que provocará fuertes aguaceros y tormentas eléctricas este sábado en gran parte del país.
@@ -1337,22 +1349,6 @@ Ambos conductores fueron arrestados para fines de investigación, mientras que l
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779114879/autonoticias/articles/20260518_143439_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 18 May 2026 14:37:25 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260518143725</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Díaz-Canel denuncia supuestas amenazas de agresión militar contra Cuba en medio de tensiones con EE.UU.]]></title>
-    <link>https://robertocavada.com/diaz-canel-denuncia-supuestas-amenazas-de-agresion-militar-contra-cuba-en-medio-de-tensiones-con-ee-uu/</link>
-    <description><![CDATA[El presidente cubano, Miguel Díaz-Canel, ha denunciado amenazas de agresión militar por parte de Estados Unidos. Estas declaraciones se producen en medio de reportes sobre presuntas capacidades militares cubanas vinculadas a drones adquiridos a Irán y Rusia.
-
-Díaz-Canel advirtió que una agresión militar podría provocar un "baño de sangre de consecuencias incalculables" y afirmó que Cuba no representa una amenaza para ningún país, incluyendo a Estados Unidos.
-
-Medios internacionales han reportado que agencias estadounidenses investigan la posible adquisición de más de 300 drones por parte de Cuba y la presencia de asesores militares iraníes en La Habana. El gobierno cubano ha rechazado estas acusaciones.
-
-Díaz-Canel ha reiterado que Cuba está preparada para defender su soberanía, aunque aseguró que el país no busca un conflicto armado.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779114853/autonoticias/articles/20260518_143413_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 18 May 2026 14:36:08 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260518143608</guid>
   </item>
 </channel>
 </rss>
