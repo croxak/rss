@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 23 May 2026 15:11:55 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 23 May 2026 17:34:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[El comunicador Jhossan Capell pasará el fin de semana en la cárcel del Palacio de Justicia de Ciudad Nueva]]></title>
+    <link>https://elnuevodiario.com.do/el-comunicador-jhossan-capel-pasara-el-fin-de-semana-en-la-carcel-del-palacio-de-justicia-de-ciudad-nueva/</link>
+    <description><![CDATA[Jhossan Capell, comunicador, pasará el fin de semana en la cárcel provisional del Palacio de Justicia de Ciudad Nueva. La audiencia de medida de coerción fue aplazada para el lunes 25 a las 9:00 de la mañana por la jueza Fátima Veloz.
+
+Capell es acusado de agredir físicamente a un querellante del caso Jet Set. El Ministerio Público, representado por la fiscal Yesenia Hernández Cabreja, solicitó prisión preventiva, citando riesgos de fuga.
+
+El incidente ocurrió en las afueras del tribunal durante una audiencia preliminar contra los hermanos Antonio y Maribel Espaillat, acusados de homicidio involuntario por negligencia.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779557635/autonoticias/articles/20260523_173355_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 23 May 2026 17:34:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260523173420</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Desmantelan red que expedía ciudadanía colombiana falsa a migrantes venezolanos y dominicanos]]></title>
     <link>https://robertocavada.com/desmantelan-red-que-expedia-ciudadania-colombiana-falsa-a-migrantes-venezolanos-y-dominicanos/</link>
     <description><![CDATA[Una red que expedía documentos de identidad colombianos falsos a migrantes venezolanos y dominicanos fue desmantelada en Fundación, Magdalena. La Fiscalía colombiana acusa a funcionarios y exfuncionarios de la Registraduría Nacional del Estado Civil de cobrar miles de dólares por estos documentos.
@@ -1333,20 +1347,6 @@ En octubre de 2025, tras el asesinato de un líder de Las FARC, ordenaron repres
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779128018/autonoticias/articles/20260518_181338_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 18 May 2026 18:14:13 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260518181413</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Hallan muerto a exregidor Elido Zapata tras ser reportado desaparecido en Dajabón]]></title>
-    <link>https://n.com.do/2026/05/18/hallan-muerto-a-exregidor-elido-zapata-tras-ser-reportado-desaparecido-en-dajabon/</link>
-    <description><![CDATA[El exregidor Elido Zapata fue hallado muerto en Santiago de la Cruz, Dajabón, tras ser reportado desaparecido desde el sábado. Su cuerpo fue encontrado cerca del Callejón de Los Socias, próximo a la finca de Paul.
-
-Zapata había salido presuntamente a realizar un pago a trabajadores haitianos antes de desaparecer. La búsqueda fue realizada por comunitarios, entre ellos Eligio Antonio Estévez Valerio, quien encontró el cuerpo.
-
-Las autoridades investigan el caso y el cuerpo fue trasladado al INACIF para determinar las causas de la muerte.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779127928/autonoticias/articles/20260518_181207_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 18 May 2026 18:13:17 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260518181317</guid>
   </item>
 </channel>
 </rss>
