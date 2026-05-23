@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 23 May 2026 14:44:21 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 23 May 2026 15:09:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Grupo ESTRELLA lanza planta ECOACERO en San Pedro de Macorís]]></title>
+    <link>https://www.elcaribe.com.do/panorama/pais/ecoacero-grupo-estrella-varillas-san-pedro-macoris/</link>
+    <description><![CDATA[El Grupo ESTRELLA inaugurará la planta ECOACERO en Villa Gautier, San Pedro de Macorís, el 23 de mayo de 2026. El evento contará con la presencia del presidente Luis Abinader y será transmitido en vivo por CDN Televisión y YouTube.
+
+ECOACERO se enfoca en la innovación y sostenibilidad en la producción de varillas para el sector construcción. La planta utilizará materia prima de composición química controlada y producción automatizada para mejorar la adherencia al concreto y el desempeño sísmico de sus productos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779548928/autonoticias/articles/20260523_150848_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 23 May 2026 15:09:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260523150915</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Regidor del PRM se arrodilla y pide a Abinader que vaya a Pimentel a ver realidad de las calles]]></title>
     <link>https://listindiario.com/la-republica/provincias/20260523/regidor-prm-arrodilla-pedir-abinader-pimentel-ver-realidad-calles_906877.html</link>
     <description><![CDATA[Manoli Montero, regidor del PRM en Pimentel, provincia Duarte, se arrodilló en una calle sin asfalto para pedir al presidente Luis Abinader que visite la comunidad y vea la situación de las calles.
@@ -1337,20 +1349,6 @@ El PLD también solicitó una auditoría integral al SeNaSa para el período 202
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779127739/autonoticias/articles/20260518_180859_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 18 May 2026 18:11:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260518181134</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Masha, exponente urbana dominicana, recibe tres meses de prisión preventiva por presunto porte ilegal de armas]]></title>
-    <link>https://eldia.com.do/masha-artista-urbana-prision-armas-ilegales/</link>
-    <description><![CDATA[Ashley Mariel Sánchez Victoriano, conocida como “Masha”, recibió tres meses de prisión preventiva por presunto porte ilegal de armas. La medida fue dictada por un juez de Santo Domingo.
-
-Junto a Masha, Alexander Martínez Nolasco y Karla Julisa Rodríguez también enfrentan la misma medida. Fueron arrestados el 9 de mayo de 2026 en Boca Chica.
-
-Durante la inspección de su vehículo, las autoridades incautaron dos pistolas y un cargador especial. Una de las armas estaba reportada como sustraída en 2018.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779127801/autonoticias/articles/20260518_181001_article.webp" type="image/jpeg"/>
-    <pubDate>Mon, 18 May 2026 18:11:09 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260518181109</guid>
   </item>
 </channel>
 </rss>
