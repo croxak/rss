@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 23 May 2026 14:14:23 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 23 May 2026 14:15:17 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[PGASE ejecuta operativo contra el fraude eléctrico en La Altagracia]]></title>
+    <link>https://pgr.gob.do/pgase-ejecuta-operativo-contra-el-fraude-electrico-en-la-altagracia/</link>
+    <description><![CDATA[La Procuraduría General del Sistema Eléctrico (PGASE) y la Superintendencia de Electricidad (SIE) realizaron un operativo en La Altagracia para combatir el fraude eléctrico. Se identificaron usuarios reincidentes que enfrentarán procesos judiciales por violar la Ley General de Electricidad.
+
+Las acciones se concentraron en El Hoyo de Friusa, Verón, Downtown y Bávaro, donde se detectaron irregularidades en infraestructuras del Consorcio Energético Punta Cana-Macao (Cepem).
+
+El procurador José Aníbal Carela afirmó que estas acciones son parte de una estrategia continua para combatir el robo de electricidad. Las autoridades instaron a regularizar la situación técnica y legal, advirtiendo que el fraude eléctrico es un delito penal que pone en riesgo la vida y la estabilidad del suministro eléctrico.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779545684/autonoticias/articles/20260523_141444_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 23 May 2026 14:15:17 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260523141517</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Un año de prisión preventiva para diez integrantes de red que hizo una estafa millonaria en una entidad financiera]]></title>
     <link>https://pgr.gob.do/un-ano-de-prision-preventiva-para-diez-integrantes-de-red-que-hizo-una-estafa-millonaria-en-una-entidad-financiera/</link>
     <description><![CDATA[El juez del Distrito Nacional ha ordenado un año de prisión preventiva para diez personas acusadas de formar parte de una red criminal que estafó a una entidad financiera por más de RD$305 millones. La medida fue solicitada por el Ministerio Público.
@@ -1337,18 +1351,6 @@ Las autoridades han ampliado las investigaciones para identificar a los responsa
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779117895/autonoticias/articles/20260518_152454_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 18 May 2026 15:25:15 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260518152515</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[PN intercepta vehículos con 38 haitianos indocumentados en Mao]]></title>
-    <link>https://n.com.do/2026/05/18/interceptan-haitianos-indocumentados-mao/</link>
-    <description><![CDATA[La Policía Nacional detuvo dos vehículos en Mao, provincia Valverde, que transportaban a 38 haitianos indocumentados. Los vehículos, una Honda CR-V y una BMW, eran conducidos por Leuri Ventura Sánchez y Juan Carlos Garcías Hernández, respectivamente.
-
-Ambos conductores fueron arrestados para fines de investigación, mientras que los ciudadanos haitianos fueron puestos bajo custodia para el proceso migratorio correspondiente.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779114879/autonoticias/articles/20260518_143439_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 18 May 2026 14:37:25 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260518143725</guid>
   </item>
 </channel>
 </rss>
