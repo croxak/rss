@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 23 May 2026 14:43:34 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 23 May 2026 14:44:21 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Regidor del PRM se arrodilla y pide a Abinader que vaya a Pimentel a ver realidad de las calles]]></title>
+    <link>https://listindiario.com/la-republica/provincias/20260523/regidor-prm-arrodilla-pedir-abinader-pimentel-ver-realidad-calles_906877.html</link>
+    <description><![CDATA[Manoli Montero, regidor del PRM en Pimentel, provincia Duarte, se arrodilló en una calle sin asfalto para pedir al presidente Luis Abinader que visite la comunidad y vea la situación de las calles.
+
+Montero afirmó que el comercio local está destruido y que los vehículos sufren daños debido al mal estado de las vías. Hace dos años, había solicitado que se declarara el pueblo en estado de emergencia por el colapso de las calles.
+
+Aunque se iniciaron trabajos de asfalto, las quejas por la lentitud y calidad del proceso persisten.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779547437/autonoticias/articles/20260523_144357_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 23 May 2026 14:44:21 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260523144421</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Arrestan a estadounidense en AILA con láminas de presunta cocaína ocultas en maleta]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/05/23/arrestan-en-aila-a-estadounidense-con-cocaina-en-maleta-2006011/</link>
     <description><![CDATA[Una mujer de nacionalidad estadounidense fue detenida en el Aeropuerto Internacional de Las Américas cuando intentaba viajar a Madrid con cinco láminas de presunta cocaína en su equipaje. La intervención fue realizada por agentes de la DNCD y miembros del Ministerio Público.
@@ -1337,18 +1351,6 @@ Durante la inspección de su vehículo, las autoridades incautaron dos pistolas 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779127801/autonoticias/articles/20260518_181001_article.webp" type="image/jpeg"/>
     <pubDate>Mon, 18 May 2026 18:11:09 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260518181109</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Abinader encabeza reunión de seguimiento al Plan de Seguridad Ciudadana]]></title>
-    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-encabeza-reunion-de-seguimiento-al-plan-de-seguridad-ciudadana-61</link>
-    <description><![CDATA[El presidente Luis Abinader encabeza una reunión para dar seguimiento al Plan de Seguridad Ciudadana. La sesión se realiza en el Salón del Club de Oficiales del Palacio de la Policía Nacional.
-
-En el encuentro se evalúan las tareas ejecutadas y se discuten nuevas disposiciones para mejorar la seguridad en el país. Asisten ministros, directores de seguridad y fiscales de distintas regiones.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779118542/autonoticias/articles/20260518_153542_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 18 May 2026 15:36:13 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260518153613</guid>
   </item>
 </channel>
 </rss>
