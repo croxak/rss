@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 23 May 2026 15:09:15 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 23 May 2026 15:11:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Desmantelan red que expedía ciudadanía colombiana falsa a migrantes venezolanos y dominicanos]]></title>
+    <link>https://robertocavada.com/desmantelan-red-que-expedia-ciudadania-colombiana-falsa-a-migrantes-venezolanos-y-dominicanos/</link>
+    <description><![CDATA[Una red que expedía documentos de identidad colombianos falsos a migrantes venezolanos y dominicanos fue desmantelada en Fundación, Magdalena. La Fiscalía colombiana acusa a funcionarios y exfuncionarios de la Registraduría Nacional del Estado Civil de cobrar miles de dólares por estos documentos.
+
+Cuatro personas fueron capturadas: Milena Sanjuanelo Castiblanco, Karen Liliana Mariño Rodríguez, Aníbal José Rojano Arévalo y Luis Alberto Cantillo Vizcaíno. La red facilitaba registros civiles y cédulas mediante la alteración de información oficial.
+
+Los migrantes usaban estos documentos para obtener pasaportes y viajar a Estados Unidos y Europa. La operación contó con el apoyo de autoridades estadounidenses.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779549089/autonoticias/articles/20260523_151128_article.webp" type="image/jpeg"/>
+    <pubDate>Sat, 23 May 2026 15:11:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260523151155</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Grupo ESTRELLA lanza planta ECOACERO en San Pedro de Macorís]]></title>
     <link>https://www.elcaribe.com.do/panorama/pais/ecoacero-grupo-estrella-varillas-san-pedro-macoris/</link>
     <description><![CDATA[El Grupo ESTRELLA inaugurará la planta ECOACERO en Villa Gautier, San Pedro de Macorís, el 23 de mayo de 2026. El evento contará con la presencia del presidente Luis Abinader y será transmitido en vivo por CDN Televisión y YouTube.
@@ -1333,22 +1347,6 @@ Las autoridades investigan el caso y el cuerpo fue trasladado al INACIF para det
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779127928/autonoticias/articles/20260518_181207_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 18 May 2026 18:13:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260518181317</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[PLD exige al Ministerio Público revelar avances del caso “SeNaSa 2.0” y transparentar investigación]]></title>
-    <link>https://robertocavada.com/pld-exige-al-ministerio-publico-revelar-avances-del-caso-senasa-2-0-y-transparentar-investigacion/</link>
-    <description><![CDATA[El Partido de la Liberación Dominicana (PLD) ha exigido al Ministerio Público que informe sobre los avances del caso "SeNaSa 2.0", relacionado con un presunto desfalco en el Seguro Nacional de Salud.
-
-El PLD expresó preocupación por la falta de resultados concretos en la segunda fase de la investigación y destacó la importancia de esclarecer el destino de los recursos destinados a los afiliados de SeNaSa.
-
-Además, el partido cuestionó las cifras presentadas por el presidente Luis Abinader sobre el aumento de procedimientos médicos y planteó la posibilidad de que fondos sustraídos hayan sido utilizados para financiar actividades político-electorales.
-
-El PLD también solicitó una auditoría integral al SeNaSa para el período 2020-2025.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779127739/autonoticias/articles/20260518_180859_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 18 May 2026 18:11:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260518181134</guid>
   </item>
 </channel>
 </rss>
