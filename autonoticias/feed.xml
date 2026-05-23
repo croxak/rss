@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 23 May 2026 14:15:17 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 23 May 2026 14:43:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Arrestan a estadounidense en AILA con láminas de presunta cocaína ocultas en maleta]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/05/23/arrestan-en-aila-a-estadounidense-con-cocaina-en-maleta-2006011/</link>
+    <description><![CDATA[Una mujer de nacionalidad estadounidense fue detenida en el Aeropuerto Internacional de Las Américas cuando intentaba viajar a Madrid con cinco láminas de presunta cocaína en su equipaje. La intervención fue realizada por agentes de la DNCD y miembros del Ministerio Público.
+
+La sustancia, con un peso superior a siete kilogramos, fue detectada mediante rayos X y estaba oculta en compartimentos adicionales de las maletas. La mujer será sometida a la justicia por violación a la Ley 50-88 sobre drogas y sustancias controladas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779547389/autonoticias/articles/20260523_144309_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 23 May 2026 14:43:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260523144334</guid>
+  </item>
+
+  <item>
     <title><![CDATA[PGASE ejecuta operativo contra el fraude eléctrico en La Altagracia]]></title>
     <link>https://pgr.gob.do/pgase-ejecuta-operativo-contra-el-fraude-electrico-en-la-altagracia/</link>
     <description><![CDATA[La Procuraduría General del Sistema Eléctrico (PGASE) y la Superintendencia de Electricidad (SIE) realizaron un operativo en La Altagracia para combatir el fraude eléctrico. Se identificaron usuarios reincidentes que enfrentarán procesos judiciales por violar la Ley General de Electricidad.
@@ -1337,20 +1349,6 @@ En el encuentro se evalúan las tareas ejecutadas y se discuten nuevas disposici
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779118542/autonoticias/articles/20260518_153542_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 18 May 2026 15:36:13 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260518153613</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[DNCD incauta 120 paquetes de cocaína ocultos en equipos médicos en Puerto Caucedo]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/05/18/dncd-incauta-120-paquetes-de-cocaina-en-puerto-caucedo-1998573/</link>
-    <description><![CDATA[En una operación conjunta, la Dirección Nacional de Control de Drogas (DNCD) y el Ministerio Público incautaron 120 paquetes de cocaína en el puerto Multimodal Caucedo. La droga estaba oculta en equipos médicos destinados a exportación.
-
-El destino declarado de los contenedores era Róterdam, Países Bajos. La cocaína, con un peso total de 123.13 kilogramos, fue detectada tras imágenes discrepantes en una máquina de rayos X.
-
-Las autoridades han ampliado las investigaciones para identificar a los responsables de esta operación de narcotráfico internacional.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779117895/autonoticias/articles/20260518_152454_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 18 May 2026 15:25:15 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260518152515</guid>
   </item>
 </channel>
 </rss>
