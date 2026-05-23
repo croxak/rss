@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 23 May 2026 14:09:53 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 23 May 2026 14:11:11 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[MIREX anuncia visita oficial al país de la canciller de Ecuador, Gabriela Sommerfeld]]></title>
+    <link>https://robertocavada.com/mirex-anuncia-visita-oficial-al-pais-de-la-canciller-de-ecuador-gabriela-sommerfeld/</link>
+    <description><![CDATA[El Ministerio de Relaciones Exteriores de República Dominicana informó sobre la visita oficial de la canciller de Ecuador, Gabriela Sommerfeld, los días 24 y 25 de mayo.
+
+La ministra ecuatoriana llegará el domingo 24 por la noche y el lunes 25 sostendrá una reunión con el canciller dominicano Roberto Álvarez en la sede de la cancillería. Abordarán temas de interés común y se ofrecerá un almuerzo oficial en su honor.
+
+Se espera que Sommerfeld regrese a Ecuador el mismo lunes tras concluir su agenda.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779545228/autonoticias/articles/20260523_140708_article.webp" type="image/jpeg"/>
+    <pubDate>Sat, 23 May 2026 14:11:11 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260523141111</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader encabezará inauguración de fábrica Eco Acero en San Pedro de Macorís]]></title>
     <link>https://panorama.com.do/abinader-encabezara-inauguracion-de-fabrica-eco-acero-en-san-pedro-de-macoris/</link>
     <description><![CDATA[El presidente Luis Abinader estará presente en la inauguración de la Fábrica de Varilla Eco Acero en Los Llanos, San Pedro de Macorís, este sábado 23 de mayo de 2026.
@@ -1335,18 +1349,6 @@ El conductor, el vehículo y los nacionales haitianos fueron trasladados a la Fo
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779114892/autonoticias/articles/20260518_143452_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 18 May 2026 14:35:35 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260518143535</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministro Víctor Atallah toma posesión como presidente de la Asamblea Mundial de la Salud]]></title>
-    <link>https://eldia.com.do/ministro-victor-atallah-toma-posesion-como-presidente-de-la-asamblea-mundial-de-la-salud/</link>
-    <description><![CDATA[El ministro de Salud Pública, Víctor Atallah, ha sido elegido por unanimidad como presidente de la 79.ª Asamblea Mundial de la Salud en Ginebra, Suiza. Con esta elección, la República Dominicana lidera el principal escenario de gobernanza sanitaria global de la OMS.
-
-Durante la sesión, se estableció la Comisión de Credenciales y se eligieron a los vicepresidentes y autoridades de las comisiones principales. Esta designación fortalece el posicionamiento internacional del país en materia de salud.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779109156/autonoticias/articles/20260518_125916_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 18 May 2026 12:59:42 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260518125942</guid>
   </item>
 </channel>
 </rss>
