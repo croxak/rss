@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 24 May 2026 18:42:52 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 24 May 2026 18:44:22 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Tatis Jr. pierde demanda y tendrá que pagar US$34 millones por crédito de US$2 millones]]></title>
+    <link>https://www.diariolibre.com/deportes/beisbol/2026/05/24/tatis-jr-pierde-demanda-y-tendra-que-pagar-us34-millones-por-credito/3544460</link>
+    <description><![CDATA[Fernando Tatis Jr. enfrenta una obligación de pago de 34 millones de dólares tras perder una demanda en el Tribunal Superior de San Diego. El caso se originó por un acuerdo firmado en 2017 con Big League Advance Fund, donde Tatis Jr. recibió un anticipo de 2 millones de dólares a cambio del 10% de sus ganancias futuras.
+
+El fallo incluye 3,2 millones ya otorgados en arbitraje y más de 240.000 dólares en honorarios de abogados. Tatis Jr. tenía 18 años cuando firmó el acuerdo, y ahora planea apelar la decisión del tribunal.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779648235/autonoticias/articles/20260524_184354_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 24 May 2026 18:44:22 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260524184422</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Andrés Bautista y Hostos Rizik recorren la carretera Ramón Cáceres para iniciar estudios de ampliación a cuatro carriles]]></title>
     <link>https://www.presidencia.gob.do/noticias/andres-bautista-y-hostos-rizik-recorren-la-carretera-ramon-caceres-para-iniciar-estudios</link>
     <description><![CDATA[El ministro Administrativo de la Presidencia, Andrés Bautista García, junto con el director de RD Vial, Hostos Rizik, recorrieron la carretera Ramón Cáceres para iniciar estudios de ampliación a cuatro carriles, dispuestos por el presidente Luis Abinader.
@@ -1331,22 +1343,6 @@ El acto de entrega se realizó en el Ministerio de Turismo, con la participació
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779148355/autonoticias/articles/20260518_235234_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 18 May 2026 23:53:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260518235303</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[JCE iniciará renovación de cédula para dominicanos en el exterior el 20 de mayo]]></title>
-    <link>https://www.elcaribe.com.do/nacionales/jce-iniciara-renovacion-de-cedula-para-dominicanos-en-el-exterior/</link>
-    <description><![CDATA[La Junta Central Electoral iniciará el 20 de mayo la renovación de la cédula de identidad y electoral para dominicanos en el exterior. Este proceso se realizará mediante citas en centros habilitados en varios países.
-
-A diferencia del proceso en República Dominicana, los ciudadanos en el extranjero no tendrán que esperar el mes de su cumpleaños para renovar el documento. La nueva cédula contará con versiones física y digital, con medidas de seguridad mejoradas.
-
-Los dominicanos en el exterior deberán solicitar una cita a través de la plataforma oficial de la JCE y presentarse en el centro elegido el día asignado. Los centros estarán en consulados y oficinas en Estados Unidos, Canadá, España, Italia, Puerto Rico, Panamá, México, Chile, Curazao, Aruba, San Martín, Holanda y Suiza.
-
-La nueva cédula será necesaria para trámites bancarios, notariales, consulares y migratorios.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779148160/autonoticias/articles/20260518_234920_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 18 May 2026 23:50:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260518235005</guid>
   </item>
 </channel>
 </rss>
