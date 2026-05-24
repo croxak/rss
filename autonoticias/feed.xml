@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 24 May 2026 00:27:07 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 24 May 2026 15:29:22 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Ejército intercepta vehículo con 20 indocumentados en Valverde]]></title>
+    <link>https://panorama.com.do/ejercito-intercepta-vehiculo-con-20-indocumentados-en-valverde/</link>
+    <description><![CDATA[El Ejército de República Dominicana interceptó una jeepeta con 20 haitianos indocumentados en Valverde. La persecución comenzó cuando el conductor huyó al ver la patrulla y terminó al caer en un canal.
+
+El vehículo, una Kia Sorento LX 4×2, fue abandonado por el conductor. Dentro se encontraban 16 hombres, dos mujeres y dos menores, todos ilesos. Los detenidos fueron llevados a la Cuarta Brigada de Infantería y serán entregados a Migración para repatriación.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779636409/autonoticias/articles/20260524_152649_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 24 May 2026 15:29:22 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260524152922</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Jefe del Comando Sur de EE.UU. realiza simulacro de evacuación en capital de Venezuela]]></title>
     <link>https://listindiario.com/las-mundiales/20260523/dos-aeronaves-ee-uu-surcan-cielo-caracas-simulacro-supervisado-donovan_906940.html</link>
     <description><![CDATA[El jefe del Comando Sur de EE.UU., Francis L. Donovan, llevó a cabo un simulacro de evacuación en la embajada estadounidense en Caracas. Dos aeronaves MV-22B Osprey participaron en el ejercicio.
@@ -1335,20 +1347,6 @@ Dos de los funcionarios reclamados por EE. UU., Gerardo Mérida y Enrique Díaz 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779131924/autonoticias/articles/20260518_191844_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 18 May 2026 19:19:10 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260518191910</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Intrant convierte a la República Dominicana en sede regional de la seguridad vial y reúne a 14 países en encuentro del Oisevi]]></title>
-    <link>https://www.presidencia.gob.do/noticias/intrant-convierte-la-republica-dominicana-en-sede-regional-de-la-seguridad-vial-y-reune-14</link>
-    <description><![CDATA[La República Dominicana será la sede de la octava edición del Encuentro Iberoamericano de Datos y Seguridad Vial del Oisevi, organizado por el Intrant. Este evento reunirá a representantes de 14 países para intercambiar experiencias y fortalecer la gestión de datos en seguridad vial.
-
-La apertura oficial se celebrará el 20 de mayo en el Centro de Convenciones del Ministerio de Relaciones Exteriores y se extenderá hasta el 23 de mayo. Participarán delegaciones de Argentina, Chile, Colombia, Costa Rica, Ecuador, El Salvador, España, Guatemala, Honduras, Panamá, Paraguay, Perú, Uruguay y República Dominicana.
-
-El director ejecutivo del Intrant, Milton Morrison, destacó la importancia de los datos para impulsar políticas efectivas. El encuentro cuenta con el respaldo de varias instituciones y empresas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779131886/autonoticias/articles/20260518_191806_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 18 May 2026 19:18:42 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260518191842</guid>
   </item>
 </channel>
 </rss>
