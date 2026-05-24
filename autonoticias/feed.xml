@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 24 May 2026 15:29:22 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 24 May 2026 15:30:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Autoridades ocupan 133 paquetes de marihuana en operativos en el puerto de Haina Oriental]]></title>
+    <link>https://n.com.do/2026/05/24/autoridades-ocupan-133-paquetes-de-marihuana-en-operativos-en-el-puerto-de-haina-oriental/</link>
+    <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD) y el Ministerio Público incautaron 133 paquetes de marihuana en el Puerto de Haina Oriental, Santo Domingo Oeste. Los operativos contaron con el apoyo del Cuerpo Especializado de Seguridad Portuaria (CESEP) y la Dirección General de Aduanas.
+
+En el primer operativo, se encontraron 103 paquetes de marihuana en un contenedor procedente de Brooklyn, Estados Unidos. En el segundo, se hallaron 30 paquetes en un contenedor de Nueva York.
+
+Las autoridades investigan para identificar a los responsables de estas operaciones de tráfico de drogas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779636198/autonoticias/articles/20260524_152317_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 24 May 2026 15:30:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260524153000</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ejército intercepta vehículo con 20 indocumentados en Valverde]]></title>
     <link>https://panorama.com.do/ejercito-intercepta-vehiculo-con-20-indocumentados-en-valverde/</link>
     <description><![CDATA[El Ejército de República Dominicana interceptó una jeepeta con 20 haitianos indocumentados en Valverde. La persecución comenzó cuando el conductor huyó al ver la patrulla y terminó al caer en un canal.
@@ -1333,20 +1347,6 @@ Dos jóvenes, Edy Yoneudi Valera, alias "Nano", y Yariel Fermín Tolentino De Le
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779133727/autonoticias/articles/20260518_194847_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 18 May 2026 19:49:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260518194920</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[México bloquea cuentas de funcionarios de Sinaloa acusados de narcotráfico por EE. UU.]]></title>
-    <link>https://elnuevodiario.com.do/mexico-bloquea-las-cuentas-de-funcionarios-de-sinaloa-acusados-de-narcotrafico-por-ee-uu/</link>
-    <description><![CDATA[La Secretaría de Hacienda de México ha bloqueado las cuentas bancarias de 10 altos funcionarios de Sinaloa acusados de narcotráfico por Estados Unidos. Entre ellos se encuentra el gobernador con licencia Rubén Rocha Moya.
-
-La medida es preventiva y no implica responsabilidad definitiva. Los bancos mexicanos emitieron alertas tras las acusaciones de Washington de que estos funcionarios ayudaron al Cartel de Sinaloa a cambio de sobornos.
-
-Dos de los funcionarios reclamados por EE. UU., Gerardo Mérida y Enrique Díaz Vega, ya se entregaron a las autoridades estadounidenses. La presidenta de México, Claudia Sheinbaum, explicó que la acción es automática y no una investigación de la UIF.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779131924/autonoticias/articles/20260518_191844_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 18 May 2026 19:19:10 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260518191910</guid>
   </item>
 </channel>
 </rss>
