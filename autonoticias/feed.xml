@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 23 May 2026 23:36:06 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 24 May 2026 00:27:07 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Jefe del Comando Sur de EE.UU. realiza simulacro de evacuación en capital de Venezuela]]></title>
+    <link>https://listindiario.com/las-mundiales/20260523/dos-aeronaves-ee-uu-surcan-cielo-caracas-simulacro-supervisado-donovan_906940.html</link>
+    <description><![CDATA[El jefe del Comando Sur de EE.UU., Francis L. Donovan, llevó a cabo un simulacro de evacuación en la embajada estadounidense en Caracas. Dos aeronaves MV-22B Osprey participaron en el ejercicio.
+
+Mientras tanto, decenas de chavistas se reunieron en una plaza del centro de Caracas para protestar contra lo que consideraron una "injerencia" de Estados Unidos. Las consignas incluyeron "No al simulacro" y "Yankee, go home!".
+
+El Gobierno de Venezuela había autorizado el simulacro como parte de los protocolos de seguridad diplomática.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779582360/autonoticias/articles/20260524_002559_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 24 May 2026 00:27:07 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260524002707</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Cierran de emergencia la Casa Blanca tras reportes de disparos en sus alrededores]]></title>
     <link>https://panorama.com.do/cierran-de-emergencia-la-casa-blanca-tras-reportes-de-disparos-en-sus-alrededores/</link>
     <description><![CDATA[La Casa Blanca fue cerrada de emergencia después de que se escucharan múltiples disparos en sus alrededores. Los disparos se reportaron cerca de la calle 17 y la avenida Pennsylvania.
@@ -1335,18 +1349,6 @@ El director ejecutivo del Intrant, Milton Morrison, destacó la importancia de l
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779131886/autonoticias/articles/20260518_191806_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 18 May 2026 19:18:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260518191842</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Faride Raful admite fallas del sistema ante aumento de feminicidios]]></title>
-    <link>https://panorama.com.do/faride-raful-admite-fallas-del-sistema-ante-aumento-de-feminicidios-en-rd/</link>
-    <description><![CDATA[Faride Raful, ministra de Interior y Policía, admitió fallas en el sistema institucional dominicano para prevenir feminicidios y proteger a mujeres en riesgo. A pesar de los esfuerzos, persisten grandes desafíos.
-
-Raful enfatizó la importancia de un cambio cultural y social para enfrentar el problema y defendió el trabajo conjunto de las instituciones, aunque reconoció que las acciones actuales no son suficientes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779130118/autonoticias/articles/20260518_184837_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 18 May 2026 18:49:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260518184929</guid>
   </item>
 </channel>
 </rss>
