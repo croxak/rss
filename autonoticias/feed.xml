@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 25 May 2026 21:27:59 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 25 May 2026 21:29:11 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Jueces declaran culpable a Wander Franco de abuso sexual contra menor, pero le conceden perdón judicial]]></title>
+    <link>https://eldia.com.do/jueces-declaran-culpable-a-wander-franco-de-abuso-sexual-contra-menor-pero-le-conceden-perdon-judicial/</link>
+    <description><![CDATA[El Tribunal Colegiado de Puerto Plata declaró culpable a Wander Franco de abuso sexual y psicológico contra una adolescente, pero le otorgó el perdón judicial.
+
+Martha Vanessa Chevalier, madre de la menor, fue condenada a 10 años de prisión por abuso psicológico y lavado de activos. Se ordenó el decomiso de sus bienes, incluyendo un solar, un vehículo y dinero en efectivo.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779744520/autonoticias/articles/20260525_212840_article.webp" type="image/jpeg"/>
+    <pubDate>Mon, 25 May 2026 21:29:11 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260525212911</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Aeronave aterriza de emergencia en el Aeropuerto Las Américas]]></title>
     <link>https://eldia.com.do/aeronave-aterriza-de-emergencia-en-el-aeropuerto-las-americas/</link>
     <description><![CDATA[Un vuelo de SKYhigh Dominicana que cubría la ruta Santo Domingo–Martinica tuvo que aterrizar de emergencia en el Aeropuerto Las Américas. La aeronave Embraer E190 presentó problemas de presurización, lo que llevó a la tripulación a activar los protocolos de seguridad y retornar al aeropuerto de origen.
@@ -1327,20 +1339,6 @@ Uno de los acusados había sido deportado de Estados Unidos en ocho ocasiones y 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779212236/autonoticias/articles/20260519_173716_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 19 May 2026 17:37:59 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260519173759</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Solicitan prisión preventiva contra agente imputado por muerte de teniente coronel en La Ciénaga]]></title>
-    <link>https://www.diariolibre.com/actualidad/justicia/2026/05/12/piden-prision-preventiva-contra-agente-por-muerte-de-teniente-coronel/3532094?utm_source=relacionadas&amp;utm_medium=portada&amp;utm_campaign=relacionadas</link>
-    <description><![CDATA[El Ministerio Público ha solicitado prisión preventiva para Elpidio Antonio Acosta, cabo de la Policía Nacional, por la muerte involuntaria del teniente coronel retirado Carmelo Polanco. El hecho ocurrió el 10 de mayo en La Ciénaga, durante una celebración familiar.
-
-Acosta fue arrestado en flagrante delito tras disparar desde un vehículo policial, hiriendo a Polanco, quien falleció en el hospital. El disparo se produjo mientras Acosta manipulaba su arma de reglamento.
-
-El caso se califica como homicidio involuntario según el artículo 319 del Código Penal Dominicano.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779211999/autonoticias/articles/20260519_173319_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 19 May 2026 17:33:44 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260519173344</guid>
   </item>
 </channel>
 </rss>
