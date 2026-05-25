@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 25 May 2026 13:50:01 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 25 May 2026 15:39:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Fernando Tatis Jr. llevará a apelación decisión judicial por acuerdo firmado a los 18 años]]></title>
+    <link>https://www.elcaribe.com.do/deportes/fernando-tatis-jr-llevara-a-apelacion-demanda-por-acuerdo-firmado-a-los-18-anos/</link>
+    <description><![CDATA[Fernando Tatis Jr., jugador de los San Diego Padres, apelará una decisión judicial que lo obliga a cumplir un contrato firmado a los 18 años con Big League Advance (BLA). En 2017, Tatis Jr. recibió un adelanto de dos millones de dólares a cambio del 10 % de sus futuras ganancias en el béisbol profesional durante 25 años.
+
+El contrato se volvió más oneroso tras la firma de una extensión de 340 millones de dólares con los Padres. La defensa del pelotero alegó que el contrato fue abusivo y que BLA operó sin licencias en California, pero la corte rechazó estos argumentos.
+
+La sentencia establece que Tatis Jr. debe pagar más de 3.2 millones de dólares y cerca de 240 mil dólares en honorarios legales. Su equipo legal anunció que apelará la decisión.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779723506/autonoticias/articles/20260525_153826_article.webp" type="image/jpeg"/>
+    <pubDate>Mon, 25 May 2026 15:39:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260525153935</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader inicia este lunes entrega del Bono Madres 2026]]></title>
     <link>https://www.elcaribe.com.do/sin-categoria/abinader-inicia-este-lunes-entrega-del-bono-madres-2026/</link>
     <description><![CDATA[El presidente Luis Abinader entregará el Bono Madres 2026 este lunes en el Club San Carlos, Distrito Nacional. Este programa de asistencia económica está dirigido a madres en situación de vulnerabilidad.
@@ -1327,20 +1341,6 @@ El juez José Luis Calama decidió la imputación de Zapatero en una causa que i
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779197323/autonoticias/articles/20260519_132843_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 19 May 2026 13:29:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260519132914</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Autoridades mantienen vigilancia meteorológica en seis provincias ante condiciones inestables]]></title>
-    <link>https://robertocavada.com/autoridades-mantienen-vigilancia-meteorologica-en-seis-provincias-ante-condiciones-inestables/</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología ha anunciado que la humedad y la inestabilidad atmosférica continuarán afectando el país, provocando aguaceros locales, tronadas aisladas y ráfagas de viento. Las lluvias se esperan en el interior y zonas montañosas durante la tarde y noche.
-
-Las temperaturas seguirán calurosas, por lo que se recomienda a la población mantenerse hidratada y evitar la exposición al sol entre las 11:00 a.m. y las 4:00 p.m.
-
-El Centro de Operaciones de Emergencias ha emitido alerta verde para seis provincias: Dajabón, San Cristóbal, Santiago Rodríguez, Sánchez Ramírez, Duarte y Monte Plata. Se aconseja a los residentes en zonas vulnerables a inundaciones estar atentos a los boletines oficiales.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779195797/autonoticias/articles/20260519_130316_article.png" type="image/png"/>
-    <pubDate>Tue, 19 May 2026 13:20:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260519132000</guid>
   </item>
 </channel>
 </rss>
