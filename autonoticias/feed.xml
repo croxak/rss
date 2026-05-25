@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 25 May 2026 20:29:58 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 25 May 2026 21:27:59 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Aeronave aterriza de emergencia en el Aeropuerto Las Américas]]></title>
+    <link>https://eldia.com.do/aeronave-aterriza-de-emergencia-en-el-aeropuerto-las-americas/</link>
+    <description><![CDATA[Un vuelo de SKYhigh Dominicana que cubría la ruta Santo Domingo–Martinica tuvo que aterrizar de emergencia en el Aeropuerto Las Américas. La aeronave Embraer E190 presentó problemas de presurización, lo que llevó a la tripulación a activar los protocolos de seguridad y retornar al aeropuerto de origen.
+
+AERODOM activó el protocolo de emergencia, permitiendo un aterrizaje seguro. No se reportaron heridos ni afectados.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779744437/autonoticias/articles/20260525_212716_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 25 May 2026 21:27:59 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260525212759</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ratifican condena de 10 años de prisión contra Martha Vanessa Chevalier en caso Wander Franco]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/05/25/ratifican-10-anos-de-prision-a-martha-vanessa-chevalier-por-2007374/</link>
     <description><![CDATA[El tribunal de Puerto Plata ha ratificado la condena de 10 años de prisión para Martha Vanessa Chevalier por explotación sexual comercial y lavado de activos. La sentencia incluye una multa de 30 salarios mínimos y el decomiso de bienes incautados.
@@ -1329,18 +1341,6 @@ El caso se califica como homicidio involuntario según el artículo 319 del Cód
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779211999/autonoticias/articles/20260519_173319_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 19 May 2026 17:33:44 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260519173344</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Raquel Peña: "El sistema ha fallado a la mujer dominicana, eso es muy doloroso"]]></title>
-    <link>https://www.diariolibre.com/actualidad/nacional/2026/05/19/raquel-pena-condena-violencia-de-genero-y-feminicidios-en-el-pais/3538621</link>
-    <description><![CDATA[La vicepresidenta Raquel Peña condenó el incremento de la violencia de género y feminicidios en mayo, calificando la situación como "dolorosa". Con más de siete muertes violentas de mujeres, Peña insistió en que todas las instituciones del Gobierno trabajan para enfrentar el problema.
-
-Peña destacó la necesidad de fortalecer las políticas públicas en materia de género, considerando que las medidas actuales no han sido suficientes. Subrayó que el sistema ha fallado a la mujer dominicana y resaltó el papel de la educación en la prevención de los feminicidios.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779211894/autonoticias/articles/20260519_173133_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 19 May 2026 17:32:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260519173205</guid>
   </item>
 </channel>
 </rss>
