@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 26 May 2026 15:43:43 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 26 May 2026 16:53:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Hombre muere aplastado por máquina perforadora en construcción en Santiago]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/05/26/muere-obrero-aplastado-por-maquina-perforadora-en-santiago-2008356/</link>
+    <description><![CDATA[Dagoberto Sánchez de los Santos, de 54 años, falleció en un accidente laboral en Los Cerros de Gurabo III, Santiago. El obrero fue aplastado por una máquina perforadora que colapsó mientras trabajaba en una obra de construcción.
+
+El cuerpo fue levantado por el Inacif, y el Cuerpo de Bomberos asistió en el rescate. La Policía Nacional y el Ministerio Público investigan las circunstancias del accidente.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779814334/autonoticias/articles/20260526_165214_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 26 May 2026 16:53:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260526165302</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministerio Público apelará condena de 10 años impuesta por tribunal de Hato Mayor a hombre que violó a una mujer mientras la amenazaba con una pistola]]></title>
     <link>https://pgr.gob.do/ministerio-publico-apelara-condena-de-10-anos-impuesta-por-tribunal-de-hato-mayor-a-hombre-que-violo-a-una-mujer-mientras-la-amenazaba-con-una-pistola/</link>
     <description><![CDATA[El Ministerio Público de Hato Mayor apelará la condena de 10 años de prisión impuesta a Yirber Antonio Sánchez de la Cruz por violar a una mujer en 2023. Se había solicitado una condena de 20 años.
@@ -1325,20 +1337,6 @@ El Consejo del Poder Judicial propone medidas para mejorar la carrera judicial y
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779300558/autonoticias/articles/20260520_180917_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 20 May 2026 18:09:45 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260520180945</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[EE.UU. presenta cargos contra Raúl Castro por asesinato y conspiración para matar]]></title>
-    <link>https://noticiassin.com/mundo/mundo-general/2026/05/20/eeuu-acusa-a-raul-castro-por-asesinato-y-conspiracion-en-2002009/</link>
-    <description><![CDATA[El Departamento de Justicia de Estados Unidos ha imputado al expresidente cubano Raúl Castro por el derribo de dos avionetas de Hermanos al Rescate en 1996. Los cargos incluyen asesinato, conspiración para matar a estadounidenses y destrucción de aeronaves.
-
-La acusación fue presentada en la corte federal del Distrito del Sur de Florida. Se acusa a Castro de ordenar el derribo de las avionetas, en las que murieron tres ciudadanos cubano-estadounidenses y un cubano residente legal en EE. UU.
-
-El Gobierno cubano alegó que las aeronaves estaban en su espacio aéreo, pero la OACI dictaminó que el incidente ocurrió en aguas internacionales. La acusación también incluye a otros militares cubanos presuntamente involucrados.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779300418/autonoticias/articles/20260520_180658_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 20 May 2026 18:08:22 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260520180822</guid>
   </item>
 </channel>
 </rss>
