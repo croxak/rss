@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 26 May 2026 23:38:14 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 26 May 2026 23:51:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Delcy Rodríguez anuncia la reestructuración del Gobierno ante la «nueva realidad» de Venezuela]]></title>
+    <link>https://panorama.com.do/delcy-rodriguez-anuncia-la-reestructuracion-del-gobierno-ante-la-nueva-realidad-de-venezuela/</link>
+    <description><![CDATA[Delcy Rodríguez, presidenta encargada de Venezuela, ha anunciado una reestructuración del Gobierno. Héctor Rodríguez y Ricardo Menéndez liderarán este proceso para adaptarse a la "nueva realidad" del país.
+
+Anabel Pereira ha sido designada como comisionada presidencial para la gestión eficiente del Gobierno nacional.
+
+Rodríguez asumió el cargo tras la captura de Nicolás Maduro por Estados Unidos. Desde entonces, se han reanudado relaciones diplomáticas con Washington y se han realizado cambios significativos en el gobierno.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779839434/autonoticias/articles/20260526_235033_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 26 May 2026 23:51:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260526235104</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministerio Público solicita prisión preventiva contra 6 personas que integraban red de trata de personas en Puerto Plata]]></title>
     <link>https://pgr.gob.do/ministerio-publico-solicita-prision-preventiva-contra-6-personas-que-integraban-red-de-trata-de-personas-en-puerto-plata/</link>
     <description><![CDATA[El Ministerio Público ha solicitado prisión preventiva para seis personas acusadas de integrar una red de trata de personas en Puerto Plata. Los implicados, de diversas nacionalidades, están vinculados a actividades de explotación sexual comercial y proxenetismo.
@@ -1317,20 +1331,6 @@ El juicio, conocido por un tribunal colegiado ad hoc, presentó más de un cente
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779318993/autonoticias/articles/20260520_231633_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 20 May 2026 23:31:18 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260520233118</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno anuncia licitación para rescatar el Teatro Agua y Luz]]></title>
-    <link>https://eldia.com.do/gobierno-anuncia-licitacion-para-rescatar-el-teatro-agua-y-luz/</link>
-    <description><![CDATA[El Gobierno dominicano ha iniciado el proceso de licitación para recuperar el Teatro Agua y Luz en Santo Domingo. El anuncio se realizó durante un almuerzo con artistas en el Palacio Nacional.
-
-El ministro de Turismo, David Collado, explicó que el proyecto incluirá remodelación y techado, y se espera que el proceso administrativo se complete en tres meses. La visión es transformar el teatro en un referente cultural y turístico.
-
-El presidente Abinader expresó su deseo de crear un espacio similar al Hard Rock Café de Medellín, donde los artistas dominicanos puedan presentarse de manera permanente.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779313654/autonoticias/articles/20260520_214734_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 20 May 2026 21:48:02 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260520214802</guid>
   </item>
 </channel>
 </rss>
