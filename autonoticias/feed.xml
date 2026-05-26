@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 26 May 2026 13:07:07 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 26 May 2026 14:04:28 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[El Gobierno declara de utilidad pública terrenos en Boca Chica para ampliación de Las Américas]]></title>
+    <link>https://www.diariolibre.com/politica/gobierno/2026/05/25/declaran-de-utilidad-terrenos-de-ampliacion-autopista-las-americas/3543041</link>
+    <description><![CDATA[El Gobierno ha declarado de utilidad pública 25,067.80 metros cuadrados de terrenos en Boca Chica para la ampliación de la autopista Las Américas. Esta medida, bajo el decreto 270-26 del presidente Luis Abinader, busca mejorar la vialidad y el desarrollo de la zona.
+
+El proyecto, que involucra la adquisición de inmuebles de 45 personas físicas y nueve jurídicas, tiene como objetivo incrementar la seguridad y reducir los tiempos de desplazamiento. El justiprecio será pagado con fondos del MOPC, y en caso de desacuerdo, se procederá a la expropiación según las leyes.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779804236/autonoticias/articles/20260526_140356_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 26 May 2026 14:04:28 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260526140428</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ejército captura a 16 haitianos indocumentados durante patrullaje en Santiago]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/05/26/ejercito-detiene-16-haitianos-indocumentados-en-santiago-2007999/</link>
     <description><![CDATA[El Ejército de República Dominicana realizó operativos en Santiago, deteniendo a 16 haitianos indocumentados. En un minibús interceptado, viajaban 11 haitianos junto al conductor José Luis Fernández Monegro y un cobrador sin documentos.
@@ -1329,20 +1341,6 @@ Se ordenó el cese de medidas de coerción y la devolución del vehículo reteni
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779284472/autonoticias/articles/20260520_134112_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 20 May 2026 13:41:41 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260520134141</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[JetBlue suspenderá vuelos Newark-Santo Domingo y Punta Cana]]></title>
-    <link>https://www.elcaribe.com.do/panorama/dinero/jetblue-suspende-vuelos-newark-santo-domingo-punta-cana/</link>
-    <description><![CDATA[JetBlue Airways ha anunciado la suspensión de sus vuelos entre el Aeropuerto Internacional Newark Liberty y las ciudades dominicanas de Santo Domingo y Punta Cana, efectiva a partir del 8 de julio. Esta medida es parte de una reestructuración de su red de operaciones.
-
-La aerolínea continuará ofreciendo servicios a estos destinos desde el aeropuerto John F. Kennedy en Nueva York. Los clientes afectados podrán elegir vuelos alternativos o recibir un reembolso completo.
-
-La decisión se debe a la necesidad de ajustar operaciones en Newark, un aeropuerto costoso para JetBlue, y concentrar sus esfuerzos en rutas más rentables.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779226829/autonoticias/articles/20260519_214028_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 19 May 2026 21:41:35 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260519214135</guid>
   </item>
 </channel>
 </rss>
