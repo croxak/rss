@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 26 May 2026 19:34:54 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 26 May 2026 20:36:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Peritaje de Espaillat apunta que colapso Jet Set ocurrió por defectos de construcción, no por sobrecarga]]></title>
+    <link>https://n.com.do/2026/05/26/peritaje-de-los-espaillat-apunta-a-que-colapso-jet-set-ocurrio-por-defectos-de-construccion-no-por-sobrecarga/</link>
+    <description><![CDATA[La defensa de Antonio y Maribel Espaillat presentó un contraperitaje sobre el colapso de la discoteca Jet Set, que dejó 236 muertos en 2025. El informe, liderado por ingenieros como José Manuel Lockhart Romero, concluyó que el colapso fue por defectos de construcción y deterioro en las vigas, no por sobrecarga.
+
+Se identificaron fracturas, corrosión y "fisuración asistida por hidrógeno" en las estructuras internas. No se añadieron cargas significativas al techo en los tres años previos al colapso, salvo una membrana impermeabilizante. También se detectaron posibles defectos de construcción ocultos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779827789/autonoticias/articles/20260526_203629_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 26 May 2026 20:36:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260526203655</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Miguel Mejía informa venció el cáncer tras seis meses de batalla médica]]></title>
     <link>https://n.com.do/2026/05/26/miguel-mejia-informa-vencio-el-cancer-tras-seis-meses-de-batalla-medica/</link>
     <description><![CDATA[Miguel Mejía, abogado y secretario general del Movimiento Izquierda Unida, ha superado un linfoma de células T tras seis meses de tratamiento en Sao Paulo, Brasil. Fue ingresado de urgencia en el Hospital Sirio Libanés, donde recibió quimioterapia, inmunoterapia y radioterapia.
@@ -1319,20 +1331,6 @@ Las autoridades están investigando el incidente y buscan localizar el camión i
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779312490/autonoticias/articles/20260520_212810_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 20 May 2026 21:29:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260520212903</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[RD asume en Alemania el liderazgo mundial en la descarbonización del transporte]]></title>
-    <link>https://www.presidencia.gob.do/noticias/rd-asume-en-alemania-el-liderazgo-mundial-en-la-descarbonizacion-del-transporte</link>
-    <description><![CDATA[La República Dominicana asumió la copresidencia de la Declaración Ministerial “Hacia sistemas de transporte resilientes y de bajas emisiones” en la Cumbre Anual del Foro Internacional de Transporte en Leipzig, Alemania. Esta iniciativa busca reducir las emisiones de CO2 del sector transporte.
-
-Sara González Troncoso, del CNCCMC, reafirmó el compromiso del país con la reducción del consumo energético del transporte en un 25 % para 2035, asegurando que un tercio de esa energía provenga de fuentes renovables.
-
-El plan de trabajo para 2026-2027 incluye la creación de una secretaría permanente para la coalición y la expansión de países firmantes. La República Dominicana también participa en el Acuerdo Global para Vehículos Pesados de Cero Emisiones y busca modernizar sus ciudades con el Programa de Movilidad Urbana Sostenible.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779302657/autonoticias/articles/20260520_184417_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 20 May 2026 19:56:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260520195629</guid>
   </item>
 </channel>
 </rss>
