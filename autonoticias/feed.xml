@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 26 May 2026 20:36:55 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 26 May 2026 20:39:29 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Defensa de los Espaillat asegura que peritos del gobierno cometieron errores técnicos “graves” en investigación del colapso del Jet Set]]></title>
+    <link>https://n.com.do/2026/05/26/defensa-de-los-espaillat-asegura-que-peritos-del-gobierno-cometieron-errores-tecnicos-graves-en-investigacion-del-colapso-del-jet-set/</link>
+    <description><![CDATA[La defensa de Antonio Espaillat ha presentado un informe que cuestiona la investigación oficial sobre el colapso de la discoteca Jet Set. Según los ingenieros contratados por la defensa, los peritos del gobierno cometieron errores técnicos graves, como sobreestimar las cargas del techo y utilizar propiedades mecánicas incorrectas.
+
+El informe también acusa al gobierno de ignorar elementos estructurales clave y de exagerar el peso de los tinacos sobre el techo. La defensa sostiene que estos errores llevaron a conclusiones erróneas sobre la causa del colapso.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779827940/autonoticias/articles/20260526_203859_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 26 May 2026 20:39:29 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260526203929</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Peritaje de Espaillat apunta que colapso Jet Set ocurrió por defectos de construcción, no por sobrecarga]]></title>
     <link>https://n.com.do/2026/05/26/peritaje-de-los-espaillat-apunta-a-que-colapso-jet-set-ocurrio-por-defectos-de-construccion-no-por-sobrecarga/</link>
     <description><![CDATA[La defensa de Antonio y Maribel Espaillat presentó un contraperitaje sobre el colapso de la discoteca Jet Set, que dejó 236 muertos en 2025. El informe, liderado por ingenieros como José Manuel Lockhart Romero, concluyó que el colapso fue por defectos de construcción y deterioro en las vigas, no por sobrecarga.
@@ -1317,20 +1329,6 @@ Gómez Veras desapareció tras recibir el adelanto y no responde a las llamadas.
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779312815/autonoticias/articles/20260520_213335_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 20 May 2026 21:34:01 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260520213401</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Accidente en la Circunvalación de Baní deja cuatro personas heridas]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/05/20/accidente-en-circunvalacion-de-bani-deja-4-heridos-2002543/</link>
-    <description><![CDATA[Un accidente en la avenida Circunvalación de Baní resultó en cuatro personas heridas. Un carro Kia negro chocó con un camión que presuntamente se dio a la fuga.
-
-Los heridos, dos hombres, una señora y una niña, fueron asistidos por el Sistema Nacional de Emergencias 9-1-1 y llevados al Hospital Nuestra Señora de Regla.
-
-Las autoridades están investigando el incidente y buscan localizar el camión involucrado.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779312490/autonoticias/articles/20260520_212810_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 20 May 2026 21:29:03 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260520212903</guid>
   </item>
 </channel>
 </rss>
