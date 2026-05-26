@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 26 May 2026 23:35:30 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 26 May 2026 23:38:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Ministerio Público solicita prisión preventiva contra 6 personas que integraban red de trata de personas en Puerto Plata]]></title>
+    <link>https://pgr.gob.do/ministerio-publico-solicita-prision-preventiva-contra-6-personas-que-integraban-red-de-trata-de-personas-en-puerto-plata/</link>
+    <description><![CDATA[El Ministerio Público ha solicitado prisión preventiva para seis personas acusadas de integrar una red de trata de personas en Puerto Plata. Los implicados, de diversas nacionalidades, están vinculados a actividades de explotación sexual comercial y proxenetismo.
+
+La audiencia para conocer la medida de coerción está fijada para el 27 de mayo de 2026. Durante el operativo, se rescataron 62 mujeres y se ocuparon armas, vehículos y equipos electrónicos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779838669/autonoticias/articles/20260526_233745_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 26 May 2026 23:38:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260526233814</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidenta de Surinam llegará a República Dominicana este sábado]]></title>
     <link>https://eldia.com.do/presidenta-de-surinam-llegara-a-republica-dominicana-este-sabado/</link>
     <description><![CDATA[La presidenta de Surinam, Jennifer Greelings-Simons, visitará la República Dominicana desde este sábado hasta el martes 2 de junio. Será recibida por el presidente Luis Abinader en el Palacio Nacional el lunes.
@@ -1319,18 +1331,6 @@ El presidente Abinader expresó su deseo de crear un espacio similar al Hard Roc
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779313654/autonoticias/articles/20260520_214734_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 20 May 2026 21:48:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260520214802</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[OCN-Interpol Santo Domingo recibe en extradición desde España y Chile a dos dominicanos acusados de violación sexual y homicidio]]></title>
-    <link>https://www.policianacional.gob.do/ocn-interpol-santo-domingo-recibe-en-extradicion-desde-espana-y-chile-a-dos-dominicanos-acusados-de-violacion-sexual-y-homicidio/</link>
-    <description><![CDATA[La OCN-Interpol Santo Domingo ha recibido en extradición a dos dominicanos acusados de delitos graves. Augusto Gabriel Alcántara Mateo fue extraditado desde Madrid por presunta violación sexual de dos menores en San Juan de la Maguana. 
-
-Por otro lado, Michael Rodríguez Santos fue trasladado desde Santiago de Chile por un caso de homicidio ocurrido el 2 de enero de 2022 en Los Alcarrizos. Ambos fueron entregados al Ministerio Público para los procedimientos legales correspondientes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779313288/autonoticias/articles/20260520_214128_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 20 May 2026 21:41:52 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260520214152</guid>
   </item>
 </channel>
 </rss>
