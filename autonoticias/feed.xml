@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 26 May 2026 13:05:49 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 26 May 2026 13:07:07 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Ejército captura a 16 haitianos indocumentados durante patrullaje en Santiago]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/05/26/ejercito-detiene-16-haitianos-indocumentados-en-santiago-2007999/</link>
+    <description><![CDATA[El Ejército de República Dominicana realizó operativos en Santiago, deteniendo a 16 haitianos indocumentados. En un minibús interceptado, viajaban 11 haitianos junto al conductor José Luis Fernández Monegro y un cobrador sin documentos.
+
+Además, cinco haitianos fueron detenidos en la calle 30 de Marzo. Todos fueron entregados a la Dirección General de Migración.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779800771/autonoticias/articles/20260526_130611_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 26 May 2026 13:07:07 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260526130707</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Identifican restos de dominicano desaparecido en la frontera México-EE.UU 18 años después]]></title>
     <link>https://elnuevodiario.com.do/identifican-restos-de-dominicano-desaparecido-en-la-frontera-mexico-eeuu-18-anos-despues/</link>
     <description><![CDATA[El Consulado General de la República Dominicana en Nueva York ha identificado los restos de Andrés Miguel Paulino, desaparecido desde 2008 al intentar cruzar la frontera México-EE.UU. 
@@ -1331,20 +1343,6 @@ La decisión se debe a la necesidad de ajustar operaciones en Newark, un aeropue
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779226829/autonoticias/articles/20260519_214028_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 19 May 2026 21:41:35 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260519214135</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ejército detiene conductor tras persecución con siete haitianos indocumentados en Constanza]]></title>
-    <link>https://www.elcaribe.com.do/panorama/justicia/ejercito-detiene-conductor-tras-persecucion-con-siete-haitianos-indocumentados-en-constanza/</link>
-    <description><![CDATA[Miembros del 6to. Batallón de Cazadores detuvieron a un conductor que transportaba a siete nacionales haitianos en condición migratoria irregular en Constanza.
-
-La intervención ocurrió en la comunidad Colonia Japonesa, cuando el conductor desobedeció la señal de alto y emprendió la huida. Tras una persecución, el vehículo fue interceptado frente al Puesto No. 2 de la Fortaleza Patria.
-
-El automóvil, un Hyundai Sonata 2014, era conducido por Freddy Ramírez Cabrera. Tanto los extranjeros como el conductor fueron trasladados a la Fortaleza Patria para los fines legales y la entrega a la Dirección General de Migración.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779216032/autonoticias/articles/20260519_184032_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 19 May 2026 18:43:44 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260519184344</guid>
   </item>
 </channel>
 </rss>
