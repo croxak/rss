@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 26 May 2026 00:44:45 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 26 May 2026 00:50:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[MP apelará sentencia que declara a Wander Franco culpable y a la vez le otorga un perdón judicial]]></title>
+    <link>https://www.elcaribe.com.do/panorama/pais/mp-apelara-sentencia-que-declara-a-wander-franco-culpable/</link>
+    <description><![CDATA[El Ministerio Público apelará la sentencia que declaró culpable a Wander Samuel Franco Aybar, pero le otorgó un perdón judicial. El tribunal de Puerto Plata, compuesto por los jueces José Ramón Núñez, Jenny Amarilis Martínez y Praire Ruiz, conoció el caso.
+
+La madre de la adolescente fue condenada a 10 años de prisión por explotación sexual comercial y lavado de activos. Los fiscales destacaron la contundencia de las pruebas presentadas.
+
+Se ordenó el decomiso de varios bienes, excepto un certificado financiero que fue entregado a la menor de edad.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779756580/autonoticias/articles/20260526_004939_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 26 May 2026 00:50:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260526005005</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El Mived mantiene cierre de ocho negocios chinos y asegura que nuevos locales han sido intervenidos]]></title>
     <link>https://www.diariolibre.com/economia/negocios/2026/05/25/mantienen-clausura-de-ocho-negocios-chinos-por-irregularidades/3545668</link>
     <description><![CDATA[El Ministerio de Vivienda, Hábitat y Edificaciones (Mivhed) ha mantenido el cierre de ocho negocios chinos de un total de 14 clausurados entre agosto y octubre de 2025 por incumplimiento de normas. Seis de estos establecimientos han reabierto, incluyendo Suplax en la avenida Nicolás de Ovando.
@@ -1327,18 +1341,6 @@ Rodríguez fue arrestado horas después en la avenida Ecológica. La audiencia f
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779212453/autonoticias/articles/20260519_174053_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 19 May 2026 17:43:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260519174305</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Hombre muere tras caer del parqueo de Plaza Central; autoridades investigan el caso]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/05/19/hombre-muere-tras-caer-del-parqueo-de-plaza-central-2000205/</link>
-    <description><![CDATA[Joselito de la Rosario Paulino, un comerciante de 50 años, falleció tras caer desde el parqueo de Plaza Central en Santo Domingo. La Policía Nacional investiga el caso utilizando las cámaras de seguridad del lugar.
-
-Familiares y conocidos lo describen como un hombre creyente y conciliador. El vocero de la Policía Nacional aseguró que se ofrecerá información oportuna al concluir las investigaciones.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779212404/autonoticias/articles/20260519_174004_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 19 May 2026 17:40:38 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260519174038</guid>
   </item>
 </channel>
 </rss>
