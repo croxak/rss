@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 26 May 2026 13:04:30 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 26 May 2026 13:05:49 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Identifican restos de dominicano desaparecido en la frontera México-EE.UU 18 años después]]></title>
+    <link>https://elnuevodiario.com.do/identifican-restos-de-dominicano-desaparecido-en-la-frontera-mexico-eeuu-18-anos-despues/</link>
+    <description><![CDATA[El Consulado General de la República Dominicana en Nueva York ha identificado los restos de Andrés Miguel Paulino, desaparecido desde 2008 al intentar cruzar la frontera México-EE.UU. 
+
+El hallazgo fue posible gracias al Equipo Argentino de Antropología Forense, que encontró la osamenta junto a pertenencias personales. Las autoridades dominicanas coordinaron pruebas de ADN para confirmar la identidad.
+
+Una reunión virtual se realizó para discutir los procedimientos y próximos pasos con representantes del Mirex y otras entidades.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779800716/autonoticias/articles/20260526_130516_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 26 May 2026 13:05:49 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260526130549</guid>
+  </item>
+
+  <item>
     <title><![CDATA[ITLA enfoca desarrollo institucional en inteligencia artificial, semiconductores y fortalecimiento académico]]></title>
     <link>https://n.com.do/2026/05/26/itla-enfoca-desarrollo-institucional-en-inteligencia-artificial-semiconductores-y-fortalecimiento-academico/</link>
     <description><![CDATA[El Instituto Tecnológico de las Américas (ITLA) ha trazado una ruta de innovación y expansión académica bajo la dirección del rector Jimmy Rosario Bernard. La institución ha lanzado el primer tecnólogo en Semiconductores y Microelectrónica del país, fortaleciendo su oferta académica a 18 carreras tecnológicas.
@@ -1331,18 +1345,6 @@ El automóvil, un Hyundai Sonata 2014, era conducido por Freddy Ramírez Cabrera
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779216032/autonoticias/articles/20260519_184032_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 19 May 2026 18:43:44 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260519184344</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[DGA logra cifra récord con la retención de más de 7 millones de productos ilícitos en 2026]]></title>
-    <link>https://www.presidencia.gob.do/noticias/dga-logra-cifra-record-con-la-retencion-de-mas-de-7-millones-de-productos-ilicitos-en-2026</link>
-    <description><![CDATA[La Dirección General de Aduanas (DGA) de la República Dominicana logró retener 7,018,084 productos ilícitos en 2026, marcando un incremento del 160% respecto a períodos anteriores. Entre los productos incautados se encuentran materia prima de calzados, productos de salud, accesorios de celulares y bolsos.
-
-La DGA ha fortalecido su colaboración con firmas legales y ha implementado nuevas medidas de control en puertos y aeropuertos clave, como el Aeropuerto Internacional de Las Américas, Punta Cana, Puerto Plata y Santiago. Además, se ha enfocado en capacitar a su personal para mejorar la detección de mercancías ilícitas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779212620/autonoticias/articles/20260519_174340_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 19 May 2026 17:44:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260519174441</guid>
   </item>
 </channel>
 </rss>
