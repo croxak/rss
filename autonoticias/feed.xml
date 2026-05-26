@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 26 May 2026 21:34:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 26 May 2026 23:35:30 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Presidenta de Surinam llegará a República Dominicana este sábado]]></title>
+    <link>https://eldia.com.do/presidenta-de-surinam-llegara-a-republica-dominicana-este-sabado/</link>
+    <description><![CDATA[La presidenta de Surinam, Jennifer Greelings-Simons, visitará la República Dominicana desde este sábado hasta el martes 2 de junio. Será recibida por el presidente Luis Abinader en el Palacio Nacional el lunes.
+
+Durante su visita, Geerlings-Simons se reunirá con los presidentes del Senado y la Cámara de Diputados, Ricardo de los Santos y Alfredo Pacheco. La agenda incluye reuniones oficiales, una ceremonia de firma de instrumentos y una ofrenda floral en el Parque Independencia.
+
+El martes, la presidenta será recibida en el Congreso Nacional y participará en una sesión de discursos antes de su partida por el Aeropuerto Internacional de las Américas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779838429/autonoticias/articles/20260526_233348_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 26 May 2026 23:35:30 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260526233530</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Scotiabank instalará en República Dominicana su sede regional para el Caribe, Centroamérica y Colombia]]></title>
     <link>https://noticiassin.com/economia/2026/05/26/scotiabank-instala-sede-regional-en-republica-dominicana-2008759/</link>
     <description><![CDATA[Scotiabank anunció que establecerá su centro regional en Santo Domingo para dirigir operaciones en el Caribe, Centroamérica y Colombia. La decisión se basa en la estabilidad macroeconómica y el potencial de crecimiento de República Dominicana.
@@ -1317,20 +1331,6 @@ Por otro lado, Michael Rodríguez Santos fue trasladado desde Santiago de Chile 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779313288/autonoticias/articles/20260520_214128_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 20 May 2026 21:41:52 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260520214152</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Expo Mango 2026 será celebrada del 3 al 7 de junio en Baní y proyecta exportar 10 millones de cajas]]></title>
-    <link>https://elnuevodiario.com.do/expo-mango-2026-sera-celebrada-del-3-al-7-de-junio-en-bani-y-proyecta-exportar-10-millones-de-cajas/</link>
-    <description><![CDATA[La Expo Mango 2026 se llevará a cabo del 3 al 7 de junio en Baní, provincia Peravia. Este evento, organizado por el Clúster del Mango Dominicano y el Ministerio de Agricultura, busca fortalecer la industria del mango en República Dominicana.
-
-Con el lema “Estrategia de inocuidad: garantía de calidad”, la feria destacará la importancia de la seguridad alimentaria y la calidad de la producción. Se proyecta exportar 10 millones de cajas de mango.
-
-La feria contará con exhibiciones, charlas técnicas, concursos gastronómicos y recorridos turísticos. La edición 2026 estará dedicada al ingeniero Osmar Benítez por sus aportes al sector agroempresarial.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779312874/autonoticias/articles/20260520_213433_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 20 May 2026 21:35:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260520213514</guid>
   </item>
 </channel>
 </rss>
