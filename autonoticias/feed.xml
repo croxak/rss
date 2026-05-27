@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 27 May 2026 00:10:17 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 00:26:36 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Gonzalo Castillo agradece a Trump y embajadora de EE.UU en RD por restitución de su visado]]></title>
+    <link>https://n.com.do/2026/05/26/gonzalo-castillo-agradece-a-trump-y-embajadora-de-ee-uu-en-rd-por-restitucion-de-su-visado/</link>
+    <description><![CDATA[Gonzalo Castillo, excandidato presidencial y aspirante a la nominación presidencial por el PLD, agradeció al presidente Donald Trump y a la embajadora Leah Francis Campos por la restitución de su visado. La visa había sido retirada el año pasado debido a un proceso judicial por presunta corrupción.
+
+Castillo destacó que esta decisión reafirma los valores de libertad y debido proceso que distinguen a los Estados Unidos. En febrero, fue inscrito como precandidato presidencial para las elecciones de 2028.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779841572/autonoticias/articles/20260527_002611_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 27 May 2026 00:26:36 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260527002636</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Contraperitaje del Jet Set no encuentra rastros de explosivos, pero no descarta esa hipótesis]]></title>
     <link>https://panorama.com.do/contraperitaje-del-jet-set-no-encuentra-rastros-de-explosivos-pero-no-descarta-esa-hipotesis/</link>
     <description><![CDATA[El contraperitaje del Jet Set, solicitado por la defensa de sus propietarios, no encontró evidencias de explosivos en las muestras analizadas tras el colapso del centro nocturno en abril de 2025, que dejó 236 fallecidos. Sin embargo, no se descarta la hipótesis de un artefacto explosivo.
@@ -1319,18 +1331,6 @@ Telma Dixon, madre de Dione Solórzano, expresó su alivio tras el fallo, record
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779368404/autonoticias/articles/20260521_130003_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 13:00:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260521130031</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Salud Pública informa no existe riesgo sanitario tras situación de un vuelo retornado]]></title>
-    <link>https://listindiario.com/la-republica/sector-salud/20260520/salud-publica-informa-existe-riesgo-sanitario-situacion-vuelo-retornado_906571.html</link>
-    <description><![CDATA[El Ministerio de Salud Pública asegura que no hay riesgo sanitario tras el retorno de un vuelo de Delta desde el Aeropuerto Internacional del Cibao a Nueva York. El vuelo regresó por un olor extraño y síntomas respiratorios en algunos pasajeros.
-
-Doce personas fueron evaluadas, y cuatro siguen bajo observación médica en condición estable. Las autoridades investigan la causa del incidente.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779328738/autonoticias/articles/20260521_015857_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 21 May 2026 01:59:23 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260521015923</guid>
   </item>
 </channel>
 </rss>
