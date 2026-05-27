@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 27 May 2026 14:19:10 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 14:19:30 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Allanan sede del PSOE y viviendas de altos políticos por corrupción en España]]></title>
+    <link>https://panorama.com.do/allanan-sede-del-psoe-y-viviendas-de-altos-politicos-por-corrupcion-en-espana/</link>
+    <description><![CDATA[La Guardia Civil española realizó un operativo que incluyó el requerimiento de documentación en la sede del PSOE y el allanamiento de varios inmuebles. La operación está vinculada a pagos a la exmilitante socialista Leire Díez.
+
+Se investigan presuntas mordidas en contratos públicos, con implicados como Gaspar Zarrías, Vicente Fernández y Antxon Alonso. Los domicilios de Santos Cerdán y Javier Pérez Dolset también fueron registrados.
+
+Díez, Fernández y Alonso, detenidos en diciembre, enfrentan cargos de malversación, tráfico de influencias y organización criminal. El presidente Pedro Sánchez ha asegurado la colaboración con la justicia.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779891462/autonoticias/articles/20260527_141741_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 27 May 2026 14:19:30 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260527141930</guid>
+  </item>
+
+  <item>
     <title><![CDATA[RD y Trinidad y Tobago suscriben acuerdo de cielos abiertos]]></title>
     <link>https://panorama.com.do/rd-y-trinidad-y-tobago-suscriben-acuerdo-de-cielos-abiertos/</link>
     <description><![CDATA[República Dominicana y Trinidad y Tobago han firmado el "Acuerdo de Servicios Aéreos", que busca facilitar intercambios comerciales y turísticos, promover inversiones y fortalecer la relación entre ambos países.
@@ -1319,20 +1333,6 @@ Los detenidos fueron llevados a la Fortaleza Patria para los procedimientos lega
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779368265/autonoticias/articles/20260521_125744_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 13:06:51 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260521130651</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[DGCP recuerda procedimientos de excepción deben cumplir plazo mínimo de tres días hábiles]]></title>
-    <link>https://elnuevodiario.com.do/dgcp-recuerda-procedimientos-de-excepcion-deben-cumplir-plazo-minimo-de-tres-dias-habiles/</link>
-    <description><![CDATA[La Dirección General de Contrataciones Públicas (DGCP) recuerda que la Ley 47-25 establece un plazo mínimo de tres días hábiles para la mayoría de los procedimientos de excepción en contrataciones públicas.
-
-Este plazo busca garantizar mayor participación de oferentes y procesos más competitivos. Aplica a bienes o servicios exclusivos, proveedores únicos, publicidad, contratos rescindidos, servicios jurídicos, inmuebles para uso estatal y contrataciones personalísimas.
-
-El incumplimiento de este plazo podría conllevar la suspensión del procedimiento. Excepciones incluyen emergencias, seguridad nacional, urgencias y compras en condiciones excepcionalmente favorables.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779368730/autonoticias/articles/20260521_130529_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 21 May 2026 13:06:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260521130634</guid>
   </item>
 </channel>
 </rss>
