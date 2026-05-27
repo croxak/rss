@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 27 May 2026 16:50:58 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 18:33:30 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[El COE mantiene tres provincias en alerta amarilla y 14 en verde por lluvias]]></title>
+    <link>https://www.diariolibre.com/planeta/clima/2026/05/27/clima-en-rd-tres-provincias-bajo-en-alerta-amarilla-por-lluvias/3547757</link>
+    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) informó que mantiene tres provincias en alerta amarilla y 14 en alerta verde por riesgo de inundaciones y deslizamientos de tierra debido a las lluvias. Las provincias en alerta amarilla son María Trinidad Sánchez, Monte Plata y Sánchez Ramírez. En alerta verde están El Seibo, Hato Mayor, San Pedro de Macorís, San Cristóbal, Santo Domingo, Monseñor Nouel, La Vega, Peravia, Santo Domingo, La Altagracia, La Romana, Samaná y Santiago. La alerta verde fue descontinuada para San José de Ocoa.
+
+El COE exhorta a la población a no cruzar ríos y evitar balnearios en las provincias bajo alerta. Se realizan descargas controladas en la presa de Valdesia, afectando la cuenca del río Nizao.
+
+En Duarte, se reportaron inundaciones urbanas en San Francisco de Macorís, y en Monte Plata, el desbordamiento del río Savita dejó incomunicada la comunidad de La Luisa.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779906785/autonoticias/articles/20260527_183304_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 27 May 2026 18:33:30 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260527183330</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Castaños dice senador debe retractarse tras afirmar que secuestraría gente para ganar elecciones]]></title>
     <link>https://panorama.com.do/castanos-dice-senador-debe-retractarse-tras-afirmar-que-secuestraria-gente-para-ganar-elecciones/</link>
     <description><![CDATA[El senador Bernardo Alemán, del Partido Revolucionario Moderno, declaró en una entrevista que estaría dispuesto a apresar y secuestrar votantes para ganar elecciones. Estas declaraciones fueron hechas en el programa «Debate 8».
@@ -1319,20 +1333,6 @@ Un juez del Tribunal de Tierras señaló que trabajan sin instalaciones adecuada
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779376896/autonoticias/articles/20260521_152136_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 15:21:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260521152158</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Omar Fernández asume vicepresidencia de PARLAMERICAS en representación del Caribe]]></title>
-    <link>https://panorama.com.do/omar-fernandez-asume-vicepresidencia-de-parlamericas-en-representacion-del-caribe/</link>
-    <description><![CDATA[Omar Fernández, senador del Distrito Nacional, ha asumido la vicepresidencia por el Caribe de ParlAmericas, una entidad que reúne a legisladores de 35 Estados de América. La designación se realizó durante la Asamblea Plenaria de PARLAMERICAS.
-
-Fernández tendrá la responsabilidad de impulsar la cooperación legislativa y el diálogo político entre los países miembros. Además, coordinará acciones con los parlamentos de la región y representará a los países caribeños en los principales foros del organismo.
-
-PARLAMERICAS, con sede en Ottawa, Canadá, promueve la participación parlamentaria en el sistema interamericano y contribuye al diálogo político en temas como igualdad de género y cambio climático.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779376660/autonoticias/articles/20260521_151739_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 21 May 2026 15:19:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260521151931</guid>
   </item>
 </channel>
 </rss>
