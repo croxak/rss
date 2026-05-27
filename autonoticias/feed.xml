@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 27 May 2026 14:19:30 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 14:21:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Militarizan Palacio de Justicia por caso de adolescente en SFM]]></title>
+    <link>https://noticiassin.com/pais/justicia/2026/05/27/seguridad-reforzada-en-palacio-de-justicia-por-caso-angel-2009423/</link>
+    <description><![CDATA[El Palacio de Justicia de San Francisco de Macorís amaneció militarizado este miércoles por la audiencia del caso Ángel Manuel Luna. La medida de coerción contra el militar implicado en su muerte ha generado un ambiente de tensión en la provincia Duarte.
+
+Familiares del adolescente y organizaciones populares exigen justicia y el esclarecimiento de los hechos. La muerte de Ángel Manuel Luna ocurrió durante una persecución, y el caso ha provocado indignación y protestas en la comunidad.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779891586/autonoticias/articles/20260527_141946_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 27 May 2026 14:21:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260527142155</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Allanan sede del PSOE y viviendas de altos políticos por corrupción en España]]></title>
     <link>https://panorama.com.do/allanan-sede-del-psoe-y-viviendas-de-altos-politicos-por-corrupcion-en-espana/</link>
     <description><![CDATA[La Guardia Civil española realizó un operativo que incluyó el requerimiento de documentación en la sede del PSOE y el allanamiento de varios inmuebles. La operación está vinculada a pagos a la exmilitante socialista Leire Díez.
@@ -1319,20 +1331,6 @@ El incidente se produjo cuando un olor extraño se propagó dentro del avión, l
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779369305/autonoticias/articles/20260521_131505_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 13:16:35 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260521131635</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Detienen camión que transportaba haitianos indocumentados ocultos entre vegetales en Constanza]]></title>
-    <link>https://panorama.com.do/detienen-camion-que-transportaba-haitianos-indocumentados-ocultos-entre-vegetales-en-constanza/</link>
-    <description><![CDATA[Un camión que transportaba haitianos indocumentados ocultos entre vegetales fue interceptado por el Ejército de República Dominicana en la carretera General Gregorio Luperón, cerca del sector Bensa.
-
-El vehículo, un Mitsubishi Fuso, era conducido por el dominicano José Luis Bautista Suriel. En su interior, se encontraron cuatro haitianos en condición migratoria irregular.
-
-Los detenidos fueron llevados a la Fortaleza Patria para los procedimientos legales y su entrega a la Dirección General de Migración.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779368265/autonoticias/articles/20260521_125744_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 21 May 2026 13:06:51 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260521130651</guid>
   </item>
 </channel>
 </rss>
