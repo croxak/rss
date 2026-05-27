@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 27 May 2026 14:21:55 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 15:11:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Condena de ocho años de prisión a hombre que agredió física y verbalmente a su pareja en el sector Simón Bolívar]]></title>
+    <link>https://pgr.gob.do/condena-de-ocho-anos-de-prision-a-hombre-que-agredio-fisica-y-verbalmente-a-su-pareja-en-el-sector-simon-bolivar/</link>
+    <description><![CDATA[José Enrique Castillo Bocio ha sido condenado a ocho años de prisión por agredir a su pareja en el sector Simón Bolívar, Santo Domingo. El hecho ocurrió el 24 de febrero de 2026.
+
+La fiscal Elaine Soto Kelly presentó las pruebas que demostraron la culpabilidad de Castillo Bocio ante el Cuarto Tribunal Colegiado del Distrito Nacional. La víctima sufrió abrasiones y golpes en la cabeza.
+
+El procesado cumplirá su condena en el Centro de Corrección y Rehabilitación Las Parras.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779892878/autonoticias/articles/20260527_144118_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 27 May 2026 15:11:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260527151105</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Militarizan Palacio de Justicia por caso de adolescente en SFM]]></title>
     <link>https://noticiassin.com/pais/justicia/2026/05/27/seguridad-reforzada-en-palacio-de-justicia-por-caso-angel-2009423/</link>
     <description><![CDATA[El Palacio de Justicia de San Francisco de Macorís amaneció militarizado este miércoles por la audiencia del caso Ángel Manuel Luna. La medida de coerción contra el militar implicado en su muerte ha generado un ambiente de tensión en la provincia Duarte.
@@ -1319,18 +1333,6 @@ Para el resto de la Costa Caribeña, se recomienda navegar con precaución cerca
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779372999/autonoticias/articles/20260521_141638_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 14:17:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260521141734</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[SNS afirma afectados por incidente en avión en Santiago se encuentran estables]]></title>
-    <link>https://panorama.com.do/sns-afirma-afectados-por-incidente-en-avion-en-santiago-se-encuentran-estables/</link>
-    <description><![CDATA[El Servicio Nacional de Salud (SNS) ha comunicado que cuatro personas afectadas por un incidente en un avión que partió del Aeropuerto Internacional del Cibao hacia Nueva York están estables y bajo seguimiento en el Hospital Regional Universitario José María Cabral y Báez.
-
-El incidente se produjo cuando un olor extraño se propagó dentro del avión, lo que llevó al retorno preventivo del vuelo. Doce personas fueron trasladadas al hospital con síntomas respiratorios leves, ansiedad y pánico, y posteriormente dadas de alta. Cuatro personas permanecen bajo observación médica.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779369305/autonoticias/articles/20260521_131505_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 21 May 2026 13:16:35 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260521131635</guid>
   </item>
 </channel>
 </rss>
