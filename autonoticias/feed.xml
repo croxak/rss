@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 27 May 2026 21:26:23 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 23:34:16 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Antonio Taveras aclara pese a su salida del PRM no nace del enojo, sino de una reflexión]]></title>
+    <link>https://elnuevodiario.com.do/antonio-taveras-aclara-pese-a-su-salida-del-prm-no-nace-del-enojo-sino-de-una-reflexion/</link>
+    <description><![CDATA[Antonio Taveras, senador por la provincia Santo Domingo, ha renunciado al Partido Revolucionario Moderno (PRM). Según Taveras, su decisión no surge del enojo, sino de una reflexión profunda llevada a cabo durante varios meses.
+
+El legislador explicó que su salida no está relacionada con diferencias personales ni conflictos internos momentáneos, sino que es el resultado de un análisis cuidadoso.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779924788/autonoticias/articles/20260527_233308_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 27 May 2026 23:34:16 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260527233416</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Desmantelan laboratorio de falsificación de documentos en Santiago]]></title>
     <link>https://panorama.com.do/desmantelan-laboratorio-de-falsificacion-de-documentos-en-santiago/</link>
     <description><![CDATA[Las autoridades desmantelaron un laboratorio clandestino en Santiago de los Caballeros, dedicado a la falsificación de documentos y delitos cibernéticos. En el operativo realizado en el sector Villa Olímpica, fue arrestado Luis Miguel Vargas Núñez, señalado como el principal responsable.
@@ -1323,20 +1335,6 @@ La decisión fue solicitada por la Unidad de Delincuencia Económica y Fiscal de
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779390011/autonoticias/articles/20260521_190011_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 19:01:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260521190100</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Abinader participa en inauguración de la central Esperanza Renovable de EGE Haina]]></title>
-    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-participa-en-inauguracion-de-la-central-esperanza-renovable-de-ege</link>
-    <description><![CDATA[El presidente Luis Abinader asistió a la inauguración de la central Esperanza Renovable de EGE Haina en Valverde. Este proyecto es el primero de gran escala en integrar energía eólica y solar al Sistema Eléctrico Nacional Interconectado.
-
-La central está compuesta por tres parques: Esperanza Solar 2, Esperanza Eólico y Esperanza Solar 1, sumando 200 MW de capacidad renovable instalada. La inversión total fue de 246.5 millones de dólares.
-
-El ministro de Energía y Minas, Joel Santos, destacó la importancia del proyecto para la diversificación de la matriz energética del país.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779389596/autonoticias/articles/20260521_185316_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 21 May 2026 18:53:44 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260521185344</guid>
   </item>
 </channel>
 </rss>
