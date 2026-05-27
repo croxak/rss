@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 27 May 2026 00:26:36 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 02:13:49 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Leonel Fernández encabeza misión de la OEA para elecciones en Colombia]]></title>
+    <link>https://eldia.com.do/leonel-fernandez-encabeza-mision-de-la-oea-para-elecciones-en-colombia/</link>
+    <description><![CDATA[Leonel Fernández, expresidente dominicano, encabeza la Misión de Observación Electoral de la OEA en Colombia para las elecciones presidenciales del 31 de mayo. La misión incluye 96 observadores de 24 nacionalidades, distribuidos en 26 departamentos y el Distrito Capital, además de supervisar el voto en el extranjero.
+
+Los técnicos de la OEA han estado en Colombia desde el 19 de mayo supervisando simulacros y pruebas de sistemas de escrutinio y transmisión de datos. Fernández se reunirá con candidatos presidenciales, autoridades, líderes políticos, representantes de la sociedad civil y miembros del cuerpo diplomático.
+
+Esta es la vigesimoquinta misión electoral de la OEA en Colombia, financiada por Brasil, Canadá, España, Estados Unidos, Francia e Italia. Fernández ha liderado misiones similares en Bolivia, Ecuador y México. Tras el cierre de las urnas, se emitirá un informe preliminar con observaciones y recomendaciones.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779847988/autonoticias/articles/20260527_021307_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 27 May 2026 02:13:49 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260527021349</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gonzalo Castillo agradece a Trump y embajadora de EE.UU en RD por restitución de su visado]]></title>
     <link>https://n.com.do/2026/05/26/gonzalo-castillo-agradece-a-trump-y-embajadora-de-ee-uu-en-rd-por-restitucion-de-su-visado/</link>
     <description><![CDATA[Gonzalo Castillo, excandidato presidencial y aspirante a la nominación presidencial por el PLD, agradeció al presidente Donald Trump y a la embajadora Leah Francis Campos por la restitución de su visado. La visa había sido retirada el año pasado debido a un proceso judicial por presunta corrupción.
@@ -1317,20 +1331,6 @@ El Colegio de Abogados de la República Dominicana respalda la protesta, mientra
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779368512/autonoticias/articles/20260521_130152_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 13:04:41 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260521130441</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Estadounidense detenido en RD es declarado culpable de homicidio de tres mujeres]]></title>
-    <link>https://elnuevodiario.com.do/estadounidense-capturado-en-rd-es-declarado-culpable-de-homicidio-de-tres-mujeres/</link>
-    <description><![CDATA[Gilbert Reyes, ciudadano estadounidense, ha sido declarado culpable por el asesinato de tres mujeres en Roatán, Honduras. Las víctimas, Dione Solórzano, Nikendra McCoy y María Antonia Cruz, desaparecieron el 7 de enero de 2024. Sus cuerpos fueron hallados el 9 de enero en un vehículo en French Key.
-
-Reyes fue capturado en el Aeropuerto Internacional de Las Américas en República Dominicana, tras permanecer prófugo varios meses. La audiencia para conocer su condena está programada para el 2 de junio, y podría enfrentar hasta 75 años de prisión.
-
-Telma Dixon, madre de Dione Solórzano, expresó su alivio tras el fallo, recordando el calvario del proceso judicial y las angustias sufridas. Aunque el fallo no devolverá a su hija, siente que la sentencia trae tranquilidad a las familias de las víctimas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779368404/autonoticias/articles/20260521_130003_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 21 May 2026 13:00:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260521130031</guid>
   </item>
 </channel>
 </rss>
