@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 27 May 2026 15:11:05 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 16:13:56 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Suspenden operaciones de dos envasadoras de gas por incumplimientos de seguridad]]></title>
+    <link>https://panorama.com.do/suspenden-operaciones-de-dos-envasadoras-de-gas-por-incumplimientos-de-seguridad/</link>
+    <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes (MICM) y el CECCOM clausuraron dos envasadoras de gas licuado de petróleo en San José de Ocoa por incumplir los estándares de seguridad.
+
+Las envasadoras Alicia Gas II y III no contaban con elementos críticos de seguridad, como válvulas internas de seguridad de actuación neumática, térmica o remota.
+
+El ministro Yayo Sanz Lovatón enfatizó que la seguridad de los ciudadanos es prioritaria y que ninguna envasadora que incumpla las normas podrá operar.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779898388/autonoticias/articles/20260527_161307_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 27 May 2026 16:13:56 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260527161356</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Condena de ocho años de prisión a hombre que agredió física y verbalmente a su pareja en el sector Simón Bolívar]]></title>
     <link>https://pgr.gob.do/condena-de-ocho-anos-de-prision-a-hombre-que-agredio-fisica-y-verbalmente-a-su-pareja-en-el-sector-simon-bolivar/</link>
     <description><![CDATA[José Enrique Castillo Bocio ha sido condenado a ocho años de prisión por agredir a su pareja en el sector Simón Bolívar, Santo Domingo. El hecho ocurrió el 24 de febrero de 2026.
@@ -1319,20 +1333,6 @@ Rechazan la "industrialización de la justicia" y el "silencio y desdén institu
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779373052/autonoticias/articles/20260521_141732_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 14:18:08 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260521141808</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[COE emite alerta por oleaje anormal; prohíbe salida de embarcaciones en varias zonas]]></title>
-    <link>https://panorama.com.do/coe-emite-alerta-por-oleaje-anormal-prohibe-salida-de-embarcaciones-en-varias-zonas/</link>
-    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha emitido una alerta por el deterioro del oleaje en la Costa Caribeña debido a fuertes vientos. Esta situación podría durar entre 24 y 48 horas.
-
-El Instituto Dominicano de Meteorología (INDOMET) ha emitido un boletín con restricciones y recomendaciones para embarcaciones pequeñas y medianas en toda la zona costera. Se aconseja a las embarcaciones más frágiles permanecer en puerto, especialmente desde Isla Beata hasta Playa San Rafael.
-
-Para el resto de la Costa Caribeña, se recomienda navegar con precaución cerca del perímetro costero y evitar aventurarse mar adentro.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779372999/autonoticias/articles/20260521_141638_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 21 May 2026 14:17:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260521141734</guid>
   </item>
 </channel>
 </rss>
