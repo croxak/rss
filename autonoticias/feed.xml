@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 27 May 2026 21:26:06 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 21:26:23 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Desmantelan laboratorio de falsificación de documentos en Santiago]]></title>
+    <link>https://panorama.com.do/desmantelan-laboratorio-de-falsificacion-de-documentos-en-santiago/</link>
+    <description><![CDATA[Las autoridades desmantelaron un laboratorio clandestino en Santiago de los Caballeros, dedicado a la falsificación de documentos y delitos cibernéticos. En el operativo realizado en el sector Villa Olímpica, fue arrestado Luis Miguel Vargas Núñez, señalado como el principal responsable.
+
+La intervención fue ejecutada por agentes de la Subdirección Regional Cibao Central de Inteligencia, junto a unidades preventivas, el equipo Swat y el Ministerio Público. Se ocuparon computadoras, celulares, memorias USB, discos duros y otros equipos tecnológicos.
+
+Vargas Núñez habría utilizado los equipos para extraer datos personales de ciudadanos extranjeros con fines de estafa. La Policía Nacional informó que tanto el detenido como las evidencias serán puestos a disposición del Ministerio Público.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779917121/autonoticias/articles/20260527_212521_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 27 May 2026 21:26:23 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260527212623</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Antonio Taveras se va del PRM, será senador independiente y cuestiona que pocas cosas han avanzado]]></title>
     <link>https://listindiario.com/la-republica/congreso/20260527/antonio-taveras-se-va-prm-sera-senador-independiente_907432.html</link>
     <description><![CDATA[Antonio Taveras, senador de la provincia Santo Domingo, ha decidido dejar el Partido Revolucionario Moderno (PRM) para actuar como senador independiente. Durante una sesión del Senado, Taveras expresó su preocupación por la falta de avances en reformas estructurales y cuestionó si se están cumpliendo las demandas ciudadanas.
@@ -1323,20 +1337,6 @@ El ministro de Energía y Minas, Joel Santos, destacó la importancia del proyec
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779389596/autonoticias/articles/20260521_185316_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 18:53:44 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260521185344</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Detienen a responsables de agredir y amenazar a chofer de autobús escolar en el Café de Herrera]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/05/21/faride-raful-detenidos-por-agredir-chofer-de-autobus-2003751/</link>
-    <description><![CDATA[Faride Raful, ministra de Interior y Policía, informó sobre la detención de los responsables de agredir al chofer de un autobús escolar en Café de Herrera, Santo Domingo Oeste.
-
-El incidente involucró al conductor Henrry González, quien fue atacado tras un roce con una motocicleta que presuntamente iba en vía contraria. La agresión ocurrió frente a estudiantes, generando pánico.
-
-Los implicados serán presentados ante el Ministerio Público.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779389417/autonoticias/articles/20260521_185016_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 21 May 2026 18:50:58 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260521185058</guid>
   </item>
 </channel>
 </rss>
