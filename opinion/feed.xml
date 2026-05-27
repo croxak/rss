@@ -6,7 +6,7 @@
   <link>https://eltestigo.com</link>
   <description>Artículos de opinión de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 26 May 2026 14:07:46 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 01:02:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/opinion/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
@@ -14,7 +14,25 @@
     <link>https://eltestigo.com</link>
   </image>
 
-    <item>
+      <item>
+    <title><![CDATA[El reto de la cultura del sobrecito para el medio ambiente]]></title>
+    <link>https://eltestigo.com</link>
+    <author><![CDATA[Juan A. Pascual]]></author>
+    <description><![CDATA[El algoritmo de YouTube me ha recomendado un corto del programa Almuerzo de negocios, en el que el staff de dicho programa resalta de manera positiva el fin de los sobrecitos de kétchup y mayonesa dentro de los locales comerciales en el Reino Unido. Una medida que no es ajena a la Unión Europea, esto producto del Reglamento de Envases y Residuos de Envases (PPWR). 
+
+La medida, al escucharla, me ha parecido genial. Estos sobres que se emplean para kétchup, mayonesa, champú u otros productos son considerados plásticos de solo uso, como los sorbetes, y tienen una implicación maligna para el medio ambiente, ya que se trata de un producto de envase que emplea plástico del tipo polietileno (PE) o polipropileno (PP) y aluminio. Debido al componente plástico, se estima entre 150 y 300 años su descomposición.
+
+¿La economía detrás de estos sobrecitos? Lo que parece ser un ahorro para los usuarios es, en realidad, un beneficio para quienes los producen y emplean. Según el portal web breakfreefromplastic.org, «solo en Filipinas, los sobres constituyen el 52 % de los residuos plásticos residuales», una cifra alarmante. En nuestro país es difícil estimar ese volumen; sin embargo, lo que uno percibe es que ese tipo de envase es bastante popular: solo tenemos que pensar en los pica pollos, hamburgueserías y otros establecimientos de comida rápida, pero también podemos encontrar estos formatos para acondicionadores de pelo y champú. 
+
+El mencionado portal web señala que a nivel mundial se desechan más de 855 mil millones de sobres[1], y que los mayores consumidores de estos son personas de bajos recursos (como la compra de un sobre de leche en cualquier colmado en nuestro país), evidenciando así que las grandes cadenas priorizan las ganancias por encima de lo que más conviene para el cliente y el medio ambiente. 
+
+Aunque la medida de la Unión Europea, reitero, sea al interior de los locales, es un gran paso para atacar una cultura que produce un residuo complejo de descomponer. En el contexto local, la realidad es igual de desafiante. Aunque en el país existe la Ley 225-20 de Gestión Integral y Coprocesamiento de Residuos Sólidos, el mercado informal (como, por ejemplo, los sobres de gelatina para el pelo), la cultura de la comida rápida y el consumo al detalle en los colmados sostienen una dependencia enorme hacia este tipo de empaques.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779843666/noticias/articles/20260527_010105_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 27 May 2026 01:02:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-opinion-20260527010215</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Papi, la bendición de mi vida]]></title>
     <link>https://eltestigo.com</link>
     <author><![CDATA[Leonor Asilis]]></author>
