@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 27 May 2026 02:13:49 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 14:19:10 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[RD y Trinidad y Tobago suscriben acuerdo de cielos abiertos]]></title>
+    <link>https://panorama.com.do/rd-y-trinidad-y-tobago-suscriben-acuerdo-de-cielos-abiertos/</link>
+    <description><![CDATA[República Dominicana y Trinidad y Tobago han firmado el "Acuerdo de Servicios Aéreos", que busca facilitar intercambios comerciales y turísticos, promover inversiones y fortalecer la relación entre ambos países.
+
+El acuerdo fue firmado por el canciller Roberto Álvarez y el ministro de Transporte y Aviación Civil de Trinidad y Tobago, Eli Zakour. Este convenio complementa el Convenio sobre Aviación Civil Internacional de Chicago de 1944, otorgando derechos de sobrevuelo y aterrizaje, y estableciendo medidas de seguridad operacional.
+
+El canciller Álvarez destacó la importancia de Trinidad y Tobago como socio estratégico en la integración regional del Caribe. El ministro Zakour resaltó el papel del sector de la aviación en el desarrollo económico y la conectividad entre ambos países.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779891488/autonoticias/articles/20260527_141808_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 27 May 2026 14:19:10 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260527141910</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Leonel Fernández encabeza misión de la OEA para elecciones en Colombia]]></title>
     <link>https://eldia.com.do/leonel-fernandez-encabeza-mision-de-la-oea-para-elecciones-en-colombia/</link>
     <description><![CDATA[Leonel Fernández, expresidente dominicano, encabeza la Misión de Observación Electoral de la OEA en Colombia para las elecciones presidenciales del 31 de mayo. La misión incluye 96 observadores de 24 nacionalidades, distribuidos en 26 departamentos y el Distrito Capital, además de supervisar el voto en el extranjero.
@@ -1319,18 +1333,6 @@ El incumplimiento de este plazo podría conllevar la suspensión del procedimien
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779368730/autonoticias/articles/20260521_130529_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 13:06:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260521130634</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Paro judicial inicia este jueves con respaldo de gremios de abogados y suspensión de audiencias]]></title>
-    <link>https://n.com.do/2026/05/21/paro-judicial-republica-dominicana-suspension-audiencias/</link>
-    <description><![CDATA[Este jueves 21 de mayo inicia un paro nacional de labores convocado por jueces, juezas y servidores judiciales en República Dominicana. La protesta busca mejoras laborales y salariales, y se suspenderán audiencias y servicios judiciales en todo el país.
-
-El Colegio de Abogados de la República Dominicana respalda la protesta, mientras que el Poder Judicial asegura que mantendrá operativos los servicios presenciales y digitales. La Asociación de Jueces de Paz y la Asociación de Jueces y Juezas de la República Dominicana han expresado críticas hacia la respuesta del Consejo del Poder Judicial.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779368512/autonoticias/articles/20260521_130152_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 21 May 2026 13:04:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260521130441</guid>
   </item>
 </channel>
 </rss>
