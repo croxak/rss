@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 27 May 2026 19:20:14 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 21:26:06 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Antonio Taveras se va del PRM, será senador independiente y cuestiona que pocas cosas han avanzado]]></title>
+    <link>https://listindiario.com/la-republica/congreso/20260527/antonio-taveras-se-va-prm-sera-senador-independiente_907432.html</link>
+    <description><![CDATA[Antonio Taveras, senador de la provincia Santo Domingo, ha decidido dejar el Partido Revolucionario Moderno (PRM) para actuar como senador independiente. Durante una sesión del Senado, Taveras expresó su preocupación por la falta de avances en reformas estructurales y cuestionó si se están cumpliendo las demandas ciudadanas.
+
+El senador destacó que, aunque ha habido avances en algunas áreas, como la independencia del Ministerio Público, aún se postergan reformas necesarias para el desarrollo del país. Mencionó problemas en el modelo económico, la educación, el sector eléctrico, la salud y la seguridad social.
+
+Taveras agradeció al presidente Luis Abinader y a la militancia del PRM por su respeto y colaboración. Manifestó que su independencia es una expresión de democracia y un compromiso con la ciudadanía que lo eligió.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779917143/autonoticias/articles/20260527_212542_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 27 May 2026 21:26:06 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260527212606</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Senado aprueba en primera lectura proyecto que crea sistema nacional de alertas para desaparecidos]]></title>
     <link>https://www.diariolibre.com/politica/congreso-nacional/2026/04/29/sistema-nacional-de-alertas-busca-proteger-a-personas-desaparecidas/3518400?utm_source=relacionadas&amp;utm_medium=portada&amp;utm_campaign=relacionadas</link>
     <description><![CDATA[El Senado de la República Dominicana aprobó en primera lectura el proyecto de ley que crea el Sistema Nacional de Alertas (AlertasRD), diseñado para la búsqueda inmediata de personas desaparecidas. Esta iniciativa fue presentada por las diputadas Liz Mieses Díaz y Carmen Ligia Barceló.
@@ -1323,18 +1337,6 @@ Los implicados serán presentados ante el Ministerio Público.]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779389417/autonoticias/articles/20260521_185016_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 18:50:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260521185058</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Jueces paralizan labores en Dajabón y Barahona en demanda de mejoras laborales]]></title>
-    <link>https://listindiario.com/la-republica/justicia/20260521/jueces-juezas-servidores-judiciales-paralizan-labores-dajabon-demanda-reivindicaciones_906624.html</link>
-    <description><![CDATA[Jueces y personal judicial de Dajabón y Barahona han detenido sus labores para exigir mejoras en sus condiciones laborales. Denuncian falta de personal, baja remuneración y deterioro de infraestructura.
-
-En Barahona, solo cinco jueces están disponibles para 22 juzgados de paz, lo que ha generado una sobrecarga laboral significativa. Los manifestantes advierten que, sin una respuesta concreta, las protestas podrían intensificarse.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779377005/autonoticias/articles/20260521_152325_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 21 May 2026 15:28:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260521152829</guid>
   </item>
 </channel>
 </rss>
