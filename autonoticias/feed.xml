@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 26 May 2026 23:51:04 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 00:10:17 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Contraperitaje del Jet Set no encuentra rastros de explosivos, pero no descarta esa hipótesis]]></title>
+    <link>https://panorama.com.do/contraperitaje-del-jet-set-no-encuentra-rastros-de-explosivos-pero-no-descarta-esa-hipotesis/</link>
+    <description><![CDATA[El contraperitaje del Jet Set, solicitado por la defensa de sus propietarios, no encontró evidencias de explosivos en las muestras analizadas tras el colapso del centro nocturno en abril de 2025, que dejó 236 fallecidos. Sin embargo, no se descarta la hipótesis de un artefacto explosivo.
+
+El informe de Exponent menciona elementos sospechosos como la falla repentina de la estructura, testimonios de un "estruendo" y videos de una fuerte ráfaga de aire. Además, las cámaras de seguridad presentaban dos minutos faltantes y no mostraban la parte superior de la estructura.
+
+Los escombros estuvieron expuestos al sol y la lluvia durante casi un año, lo que pudo afectar las pruebas. El contraperitaje también cuestiona el informe de la Onesvie por supuestas deficiencias en la preservación de la escena y metodología.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779840585/autonoticias/articles/20260527_000944_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 27 May 2026 00:10:17 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260527001017</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Delcy Rodríguez anuncia la reestructuración del Gobierno ante la «nueva realidad» de Venezuela]]></title>
     <link>https://panorama.com.do/delcy-rodriguez-anuncia-la-reestructuracion-del-gobierno-ante-la-nueva-realidad-de-venezuela/</link>
     <description><![CDATA[Delcy Rodríguez, presidenta encargada de Venezuela, ha anunciado una reestructuración del Gobierno. Héctor Rodríguez y Ricardo Menéndez liderarán este proceso para adaptarse a la "nueva realidad" del país.
@@ -1317,20 +1331,6 @@ Doce personas fueron evaluadas, y cuatro siguen bajo observación médica en con
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779328738/autonoticias/articles/20260521_015857_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 01:59:23 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260521015923</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio Público solicita 5 años de prisión en nuevo juicio contra Wander Franco]]></title>
-    <link>https://pgr.gob.do/ministerio-publico-solicita-5-anos-de-prision-en-nuevo-juicio-contra-wander-franco/</link>
-    <description><![CDATA[El Ministerio Público ha solicitado cinco años de prisión para Wander Samuel Franco Aybar en un nuevo juicio por abuso sexual infantil en Puerto Plata. Además, se pidió una multa de 10 salarios mínimos.
-
-Para la madre de la víctima, se solicitó una condena de diez años de prisión por explotación sexual comercial y lavado de activos, junto con una multa de 25 salarios mínimos. Se ordenó el decomiso de bienes ocupados en el proceso.
-
-El juicio, conocido por un tribunal colegiado ad hoc, presentó más de un centenar de pruebas. La audiencia del fallo se fijó para el 25 de mayo de 2026.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779318993/autonoticias/articles/20260520_231633_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 20 May 2026 23:31:18 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260520233118</guid>
   </item>
 </channel>
 </rss>
