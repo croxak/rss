@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 27 May 2026 18:33:30 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 19:20:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Senado aprueba en primera lectura proyecto que crea sistema nacional de alertas para desaparecidos]]></title>
+    <link>https://www.diariolibre.com/politica/congreso-nacional/2026/04/29/sistema-nacional-de-alertas-busca-proteger-a-personas-desaparecidas/3518400?utm_source=relacionadas&amp;utm_medium=portada&amp;utm_campaign=relacionadas</link>
+    <description><![CDATA[El Senado de la República Dominicana aprobó en primera lectura el proyecto de ley que crea el Sistema Nacional de Alertas (AlertasRD), diseñado para la búsqueda inmediata de personas desaparecidas. Esta iniciativa fue presentada por las diputadas Liz Mieses Díaz y Carmen Ligia Barceló.
+
+El sistema contempla alertas especializadas como "Alerta Amber" para menores, "Alerta Silver" para adultos mayores, "Alerta Azul" para personas con discapacidad y "Alerta Rosa" para mujeres en situaciones de violencia. La difusión de estas alertas se realizará a través de medios de comunicación y plataformas digitales.
+
+El proyecto también incluye sanciones para servidores públicos que no activen los protocolos de búsqueda, y prevé la cooperación internacional en casos de traslados fuera del país. La propuesta deberá ser conocida en segunda lectura antes de pasar a la Cámara de Diputados.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779909587/autonoticias/articles/20260527_191947_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 27 May 2026 19:20:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260527192014</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El COE mantiene tres provincias en alerta amarilla y 14 en verde por lluvias]]></title>
     <link>https://www.diariolibre.com/planeta/clima/2026/05/27/clima-en-rd-tres-provincias-bajo-en-alerta-amarilla-por-lluvias/3547757</link>
     <description><![CDATA[El Centro de Operaciones de Emergencias (COE) informó que mantiene tres provincias en alerta amarilla y 14 en alerta verde por riesgo de inundaciones y deslizamientos de tierra debido a las lluvias. Las provincias en alerta amarilla son María Trinidad Sánchez, Monte Plata y Sánchez Ramírez. En alerta verde están El Seibo, Hato Mayor, San Pedro de Macorís, San Cristóbal, Santo Domingo, Monseñor Nouel, La Vega, Peravia, Santo Domingo, La Altagracia, La Romana, Samaná y Santiago. La alerta verde fue descontinuada para San José de Ocoa.
@@ -1321,18 +1335,6 @@ En Barahona, solo cinco jueces están disponibles para 22 juzgados de paz, lo qu
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779377005/autonoticias/articles/20260521_152325_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 15:28:29 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260521152829</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Jueces y empleados judiciales de Monseñor Nouel leen manifiesto en paro nacional]]></title>
-    <link>https://noticiassin.com/pais/provincias/2026/05/21/jueces-de-monsenor-nouel-apoyan-paro-nacional-judicial-2003414/</link>
-    <description><![CDATA[En Monseñor Nouel, jueces y empleados judiciales se unieron al paro nacional con la lectura de un manifiesto en el Palacio de Justicia. Durante 15 minutos, las labores judiciales se detuvieron para exponer preocupaciones sobre las condiciones laborales.
-
-Un juez del Tribunal de Tierras señaló que trabajan sin instalaciones adecuadas, lo que afecta el desempeño de sus funciones. Este tipo de manifestaciones se realizaron simultáneamente en diferentes puntos del país.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779376896/autonoticias/articles/20260521_152136_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 21 May 2026 15:21:58 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260521152158</guid>
   </item>
 </channel>
 </rss>
