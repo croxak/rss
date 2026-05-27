@@ -7,9 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 27 May 2026 16:14:10 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 27 May 2026 16:24:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Ministerio de Educación emite nuevos lineamientos nacionales sobre el uso de celulares en escuelas y colegios]]></title>
+    <link>https://www.presidencia.gob.do/noticias/ministerio-de-educacion-emite-nuevos-lineamientos-nacionales-sobre-el-uso-de-celulares-en</link>
+    <description><![CDATA[El Ministerio de Educación de República Dominicana ha emitido la Orden Departamental 011-2026, estableciendo nuevos lineamientos sobre el uso de dispositivos móviles en escuelas y colegios.
+
+La normativa prohíbe totalmente los celulares en el nivel inicial, restringe su uso en primaria y lo regula en secundaria. Cada centro educativo deberá crear protocolos internos sobre el uso de dispositivos móviles.
+
+La orden también aborda la privacidad, prohibiendo la grabación y difusión de imágenes sin consentimiento, y contempla medidas contra el ciberacoso.
+
+Excepciones se prevén para estudiantes con necesidades específicas y se incluyen programas de formación para docentes y familias.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779896712/autonoticias/articles/20260527_154512_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 27 May 2026 16:24:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260527162455</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abogados de víctimas del Jet Set afirman contraperitaje de los Espaillat refuerza acusación por homicidio involuntario]]></title>
     <link>https://n.com.do/2026/05/27/abogados-de-victimas-del-jet-set-afirman-contraperitaje-de-los-espaillat-refuerza-acusacion-por-homicidio-involuntario/</link>
     <description><![CDATA[Los abogados de las víctimas del colapso en la discoteca Jet Set sostienen que el contraperitaje de la defensa de Antonio y Maribel Espaillat refuerza la acusación de homicidio involuntario. El informe confirma defectos de construcción y deterioro estructural.
@@ -1317,20 +1333,6 @@ El paro se desarrolla de manera pacífica con el objetivo de llamar la atención
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779376727/autonoticias/articles/20260521_151846_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 15:19:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260521151914</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Avión declarado en emergencia permanecerá en RD mientras investigan olor detectado durante vuelo]]></title>
-    <link>https://www.diariolibre.com/actualidad/nacional/2026/05/21/delta-inspecciona-avion-tras-emergencia-por-olor-en-cabina/3541242</link>
-    <description><![CDATA[Un avión Airbus A321 de Delta Air Lines, que cubría el vuelo 1822 hacia Nueva York, fue declarado en emergencia tras detectarse un olor en la cabina. El vuelo había despegado de Santiago y la emergencia se declaró a las 5:15 de la tarde.
-
-Varios pasajeros presentaron vómitos, malestares estomacales, problemas respiratorios y crisis nerviosas. La aeronave regresó al Aeropuerto Internacional del Cibao, donde aterrizó a las 5:41 de la tarde.
-
-Doce pasajeros fueron asistidos y referidos a centros de salud. Mientras se investiga el origen del olor, la aerolínea trabaja en reubicar a los pasajeros en otros vuelos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779373120/autonoticias/articles/20260521_141840_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 21 May 2026 14:19:07 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260521141907</guid>
   </item>
 </channel>
 </rss>
