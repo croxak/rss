@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 28 May 2026 20:59:24 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 21:10:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[IDAC, DA y FARD inauguran torre de control en San Isidro con inversión de RD$819 millones]]></title>
+    <link>https://panorama.com.do/idac-da-y-fard-inauguran-torre-de-control-en-san-isidro-con-inversion-de-rd819-millones/</link>
+    <description><![CDATA[El Instituto Dominicano de Aviación Civil, el Departamento Aeroportuario y la Fuerza Aérea de la República Dominicana inauguraron una nueva torre de control en la Base Aérea de San Isidro. La obra, con una inversión de RD$819 millones, fue encabezada por la vicepresidenta Raquel Peña.
+
+El proyecto incluye tecnología de control aéreo y sistemas de iluminación de pista bajo estándares internacionales. Igor Rodríguez Durán, director del IDAC, destacó su importancia para la seguridad operacional del país.
+
+Víctor Pichardo, del DA, explicó que el nuevo sistema de balizamiento sustituye una instalación de más de 60 años. Las mejoras fortalecen la conectividad aérea y el turismo, con más de 79,000 operaciones en el primer cuatrimestre del año.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780002383/autonoticias/articles/20260528_210623_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 28 May 2026 21:10:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260528211033</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Condenan a 6 meses de prisión a Ángel Martínez por difamación contra Milagros De Camps Germán]]></title>
     <link>https://n.com.do/2026/05/28/condenan-a-6-meses-de-prision-a-angel-martinez-por-difamacion-contra-milagros-de-camps-german/</link>
     <description><![CDATA[Ángel Martínez ha sido condenado a 6 meses de prisión por difamar a Milagros De Camps Germán, exviceministra de Medio Ambiente. Además, deberá pagar RD$10 millones, que De Camps Germán solicitó destinar al Sistema Nacional de Áreas Protegidas.
@@ -1321,18 +1335,6 @@ La obra se realiza con mano de obra e insumos locales, impulsando así la econom
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779460080/autonoticias/articles/20260522_142759_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 14:38:22 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260522143822</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía arresta a tres haitianos vinculados al homicidio de agricultor en Dajabón]]></title>
-    <link>https://n.com.do/2026/05/22/policia-arresta-a-tres-hombres-vinculados-al-homicidio-de-agricultor-en-dajabon/</link>
-    <description><![CDATA[La Policía Nacional arrestó a tres hombres presuntamente implicados en el homicidio del ex regidor y agricultor Elido María Zapata Gómez en Dajabón. Los detenidos, David Pierre, Jarinson Pierre y Masu Pierre, son de nacionalidad haitiana.
-
-El incidente ocurrió en una finca del Callejón La Piña cuando la víctima fue a realizar pagos a trabajadores y fue agredida. Las autoridades continúan investigando para identificar a otros posibles involucrados.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779460395/autonoticias/articles/20260522_143314_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 14:34:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260522143430</guid>
   </item>
 </channel>
 </rss>
