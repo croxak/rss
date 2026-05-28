@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 28 May 2026 19:06:35 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 19:06:50 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Abinader inaugura nuevas infraestructuras en la UASD]]></title>
+    <link>https://panorama.com.do/abinader-inaugura-nuevas-infraestructuras-en-la-uasd/</link>
+    <description><![CDATA[El presidente Luis Abinader y el rector Editrudis Beltrán inauguraron un moderno Centro Multiservicios y nuevas infraestructuras en la UASD. Estas obras forman parte del proceso de modernización y fortalecimiento institucional de la universidad.
+
+El nuevo Centro Multiservicios, con una inversión de RD$151 millones, centraliza servicios académicos y administrativos. Además, se entregaron nuevas aulas para tecnología e idiomas, y se inauguró la Plaza del Estudiante.
+
+La UASD también puso en funcionamiento un sistema audiovisual para fortalecer la formación en producción audiovisual y comunicación digital. La Clínica C de la Escuela de Odontología fue renovada con nuevas unidades dentales.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779995155/autonoticias/articles/20260528_190555_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 28 May 2026 19:06:50 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260528190650</guid>
+  </item>
+
+  <item>
     <title><![CDATA[COE disminuye a cinco las provincias en alerta verde por vaguada]]></title>
     <link>https://n.com.do/2026/05/28/coe-mantiene-alerta-verde-cinco-provincias-inundaciones/</link>
     <description><![CDATA[El Centro de Operaciones y Emergencias (COE) ha decidido mantener la alerta verde en cinco provincias de República Dominicana debido al riesgo de crecidas de ríos y posibles inundaciones. Las provincias afectadas son María Trinidad Sánchez, Sánchez Ramírez, Duarte, Samaná y Monte Plata.
@@ -1319,18 +1333,6 @@ Las acciones incluyen vigilancia en aeropuertos y puertos, preparación de área
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779456735/autonoticias/articles/20260522_133215_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 13:33:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260522133334</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Detienen 26 haitianos indocumentados en zona boscosa de Guayubín]]></title>
-    <link>https://panorama.com.do/detienen-26-haitianos-indocumentados-en-zona-boscosa-de-guayubin/</link>
-    <description><![CDATA[Una patrulla del Ejército de República Dominicana detuvo a 26 haitianos indocumentados en una zona boscosa de Guayubín. El operativo se realizó cerca del río de esa demarcación.
-
-Entre los detenidos se encuentran 25 hombres y una mujer, todos en estatus migratorio irregular. Los extranjeros fueron trasladados a la sede de la 4ta. Brigada de Infantería para los fines legales correspondientes y su posterior entrega a la Dirección General de Migración.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779456634/autonoticias/articles/20260522_133034_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 13:31:59 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260522133159</guid>
   </item>
 </channel>
 </rss>
