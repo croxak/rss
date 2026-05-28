@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 28 May 2026 17:12:38 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 17:14:17 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Permiso digital de salida del menor será gratuito por un mes; costará RD$6,500]]></title>
+    <link>https://n.com.do/?p=844703</link>
+    <description><![CDATA[El director general de Migración, Luis Rafael Lee Ballester, informó que el Permiso de Salida del Menor será digital y gratuito durante 30 días. Después de este periodo, el costo será de RD$6,500.
+
+El anuncio se realizó en el Palacio Nacional, encabezado por el presidente de la República, Luis Abinader, durante el lanzamiento del nuevo servicio de Migración.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779988344/autonoticias/articles/20260528_171224_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 28 May 2026 17:14:17 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260528171417</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Permiso de salida de menores ya podrá tramitarse 100% en línea en República Dominicana]]></title>
     <link>https://eldia.com.do/gobierno-pone-en-marcha-permiso-de-salida-de-menores-100-digital-proceso-reducira-tiempo-y-gastos-para-las-familias/</link>
     <description><![CDATA[El Gobierno dominicano ha implementado un sistema digital para gestionar el permiso de salida de menores de edad completamente en línea. Este nuevo proceso busca reducir tiempos de espera y costos para las familias, eliminando la necesidad de desplazamientos físicos y documentos impresos.
@@ -1325,20 +1337,6 @@ El Ministerio de Salud sensibiliza sobre la importancia de la donación de leche
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779420318/autonoticias/articles/20260522_032517_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 03:37:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260522033720</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Investigan dueño de edificio donde murieron cuatro dominicanos en un incendio en Manhattan]]></title>
-    <link>https://panorama.com.do/investigan-dueno-de-edificio-donde-murieron-cuatro-dominicanos-en-un-incendio-en-manhattan/</link>
-    <description><![CDATA[La Fiscalía del Distrito de Manhattan investiga al propietario del edificio en el 207 de Dyckman Street, Jack Bick, tras un incendio que dejó cuatro dominicanos fallecidos en Inwood, Alto Manhattan.
-
-El fiscal Alvin Bragg busca determinar si hubo responsabilidades adicionales en el siniestro. Las víctimas incluyen a Annie de la Cruz, su hijo Lance García, la periodista Yolaine Díaz y su madre Ana Mirtha Lantigua.
-
-La investigación es independiente del caso contra Víctor Arias, acusado de homicidio por negligencia criminal, quien fue captado lanzando un cigarrillo encendido que presuntamente inició el incendio.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779420994/autonoticias/articles/20260522_033633_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 03:37:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260522033705</guid>
   </item>
 </channel>
 </rss>
