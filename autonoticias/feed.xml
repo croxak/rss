@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 28 May 2026 17:33:30 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 17:44:18 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Diputado Sadoky Duarte insta a Antonio Taveras a renunciar a su curul tras su salida del PRM]]></title>
+    <link>https://eldia.com.do/diputado-sadoky-duarte-insta-a-antonio-taveras-a-renunciar-a-su-curul-tras-su-salida-del-prm/</link>
+    <description><![CDATA[El diputado Sadoky Duarte ha reaccionado ante la salida del senador Antonio Taveras del Partido Revolucionario Moderno. Duarte insta a Taveras a renunciar a su curul y lo desafía a participar en las próximas elecciones de manera independiente.
+
+Duarte confía en que el PRM superará las tensiones internas y está preparado para convenciones que aseguren el futuro del partido. La dimisión de Taveras representa un reto para el PRM, que busca mantener el control de la senaduría de la provincia Santo Domingo.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779990227/autonoticias/articles/20260528_174347_article.webp" type="image/jpeg"/>
+    <pubDate>Thu, 28 May 2026 17:44:18 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260528174418</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Llevan al Tribunal Superior Electoral resolución que prohíbe divulgar encuestas fuera de precampaña]]></title>
     <link>https://www.diariolibre.com/politica/partidos/2026/05/28/llevan-al-tse-resolucion-de-la-jce-que-prohibe-divulgar-encuestas/3548963</link>
     <description><![CDATA[Justicia Sin Fronteras ha llevado al Tribunal Superior Electoral una solicitud de medidas cautelares contra una disposición de la Junta Central Electoral que limita la publicación de encuestas fuera del período de precampaña.
@@ -1321,20 +1333,6 @@ El incumplimiento de estas disposiciones puede resultar en multas y la cancelaci
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779450631/autonoticias/articles/20260522_115031_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 11:51:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260522115131</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Economía dominicana registró un aumento interanual de 118,631 nuevos ocupados netos en el primer trimestre de 2026]]></title>
-    <link>https://n.com.do/2026/05/21/economia-dominicana-registro-un-aumento-interanual-de-118631-nuevos-ocupados-netos-en-el-primer-trimestre-de-2026/</link>
-    <description><![CDATA[La economía dominicana experimentó un incremento de 118,631 nuevos ocupados netos en el primer trimestre de 2026, alcanzando un total de 5,236,178 trabajadores. De estos, 2,403,395 corresponden a empleos formales.
-
-La tasa de ocupación se situó en 63.0 %, mientras que la tasa global de participación fue de 66.3 %. El empleo informal contribuyó con 98,127 nuevos ocupados, y el empleo formal con 20,504.
-
-La tasa de desocupación abierta fue de 5.0 %, y la tasa de subutilización de la fuerza de trabajo se ubicó en 8.8 %. La población inactiva alcanzó 2,802,339 personas, con una tasa de inactividad de 33.7 %.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779420242/autonoticias/articles/20260522_032402_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 03:37:35 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260522033735</guid>
   </item>
 </channel>
 </rss>
