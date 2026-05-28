@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 28 May 2026 17:14:17 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 17:33:30 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Llevan al Tribunal Superior Electoral resolución que prohíbe divulgar encuestas fuera de precampaña]]></title>
+    <link>https://www.diariolibre.com/politica/partidos/2026/05/28/llevan-al-tse-resolucion-de-la-jce-que-prohibe-divulgar-encuestas/3548963</link>
+    <description><![CDATA[Justicia Sin Fronteras ha llevado al Tribunal Superior Electoral una solicitud de medidas cautelares contra una disposición de la Junta Central Electoral que limita la publicación de encuestas fuera del período de precampaña.
+
+La organización argumenta que la resolución vulnera la libertad de expresión y el derecho a recibir información política, además de restringir el debate público. La demanda se fundamenta en los conceptos jurídicos de periculum in mora y fumus boni iuris.
+
+El Tribunal Superior Electoral es competente para conocer impugnaciones contra resoluciones de la JCE relacionadas con actos administrativos de contenido electoral, según la Ley 20-23 sobre Régimen Electoral.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779989507/autonoticias/articles/20260528_173147_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 28 May 2026 17:33:30 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260528173330</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Permiso digital de salida del menor será gratuito por un mes; costará RD$6,500]]></title>
     <link>https://n.com.do/?p=844703</link>
     <description><![CDATA[El director general de Migración, Luis Rafael Lee Ballester, informó que el Permiso de Salida del Menor será digital y gratuito durante 30 días. Después de este periodo, el costo será de RD$6,500.
@@ -1321,22 +1335,6 @@ La tasa de desocupación abierta fue de 5.0 %, y la tasa de subutilización de l
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779420242/autonoticias/articles/20260522_032402_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 03:37:35 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260522033735</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Salud Pública dice circulación de virus respiratorios está dentro de los niveles esperados]]></title>
-    <link>https://n.com.do/2026/05/21/salud-publica-dice-circulacion-de-virus-respiratorios-esta-dentro-de-los-niveles-esperados/</link>
-    <description><![CDATA[El Ministerio de Salud de República Dominicana informó que la circulación de COVID-19 y otros virus respiratorios se mantiene dentro de los niveles esperados para la temporada. Las pruebas de detección de COVID-19 continúan disponibles de manera gratuita en el parqueo de la Industria Nacional de la Aguja.
-
-El boletín epidemiológico reportó 78 casos de malaria en lo que va de año, reflejando una reducción significativa del 84% en comparación con 2025. Se han confirmado 117 casos de leptospirosis, con dos defunciones asociadas. No se han registrado casos de cólera en 2026.
-
-En cuanto al dengue, se notificaron dos casos confirmados, con un acumulado anual de 93 casos. Las muertes maternas en 2026 suman 40, una reducción respecto a las 67 del año anterior. Las muertes infantiles registran 561 casos, menos que las 632 de 2025.
-
-El Ministerio de Salud sensibiliza sobre la importancia de la donación de leche materna, destacando su papel esencial para el crecimiento y desarrollo saludable de los lactantes. Exhorta a las mujeres en período de lactancia a convertirse en donantes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779420318/autonoticias/articles/20260522_032517_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 03:37:20 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260522033720</guid>
   </item>
 </channel>
 </rss>
