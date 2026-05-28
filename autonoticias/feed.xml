@@ -7,9 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 28 May 2026 13:39:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 13:40:17 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Vaguada seguirá provocando aguaceros sobre el territorio dominicano pese a su debilitamiento gradual]]></title>
+    <link>https://www.diariolibre.com/planeta/clima/2026/05/28/clima-en-rd-vaguada-seguira-provocando-aguaceros-este-jueves/3548594</link>
+    <description><![CDATA[La vaguada en los niveles altos de la atmósfera en República Dominicana comenzará a debilitarse gradualmente, pero seguirá provocando aguaceros en combinación con el viento del este/sureste. Durante la mañana del jueves se esperan aguaceros dispersos en el litoral caribeño y la región noreste. Por la tarde, se prevén aguaceros moderados y tronadas aisladas en el noreste, sureste, la Cordillera Central y la zona fronteriza.
+
+Las provincias con mayor probabilidad de lluvias incluyen Santo Domingo, San Cristóbal, Barahona, Samaná, Hato Mayor, Monte Plata, El Seibo, Duarte, Sánchez Ramírez, La Altagracia, La Romana, María Trinidad Sánchez, Dajabón y Santiago Rodríguez. Las temperaturas seguirán calurosas, con mínimas entre 22 °C y 24 °C y máximas entre 30 °C y 32 °C.
+
+Para el viernes, se espera la llegada de una masa de aire con menor humedad y polvo del Sahara, lo que traerá condiciones mayormente soleadas y calurosas, con escasas lluvias. Sin embargo, una débil vaguada y el calentamiento diurno podrían causar aguaceros dispersos y tronadas aisladas en el noroeste, la Cordillera Central y la zona fronteriza.
+
+El sábado, se prevé un ambiente brumoso con escasas precipitaciones debido a la poca humedad y el polvo del Sahara, con chubascos aislados y posibles tronadas en el noroeste, la zona fronteriza y la Cordillera Central.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779975589/autonoticias/articles/20260528_133949_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 28 May 2026 13:40:17 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260528134017</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Detienen a 65 indocumentados en operativos en la frontera con Dajabón]]></title>
     <link>https://n.com.do/2026/05/28/detienen-a-65-indocumentados-en-operativos-en-la-frontera-con-dajabon/</link>
     <description><![CDATA[El Ejército de República Dominicana detuvo a 65 nacionales haitianos en condición migratoria irregular durante operativos en la frontera con Dajabón. Las detenciones se realizaron en el Puesto Masacre, el puesto de chequeo La Ciénega y la sección Los Pomos.
@@ -1321,20 +1337,6 @@ El Ministerio informó que los estudiantes fueron movilizados de manera segura a
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779393018/autonoticias/articles/20260521_195018_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 19:51:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260521195100</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Tribunal Constitucional favorece a Pro Consumidor y enfatiza límites en captura de datos biométricos]]></title>
-    <link>https://www.diariolibre.com/actualidad/justicia/2026/05/21/tc-favorece-proconsumidor-en-caso-world-foundation-y-datos-biometricos/3541511</link>
-    <description><![CDATA[El Tribunal Constitucional rechazó el recurso de World Foundation y confirmó la sentencia que favoreció a Pro Consumidor en el conflicto sobre la captura de imágenes del iris para identidad digital.
-
-El tribunal determinó que las medidas de Pro Consumidor no prohibían operar, sino que exigían adecuación de términos contractuales y políticas de privacidad. El tratamiento de datos biométricos fue considerado altamente sensible, requiriendo consentimiento informado.
-
-Pro Consumidor actuó al detectar que los documentos de World Foundation no cumplían con la legislación dominicana. La intervención fue considerada proporcional y legítima para proteger derechos como la identidad y la intimidad.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779389639/autonoticias/articles/20260521_185359_article.webp" type="image/jpeg"/>
-    <pubDate>Thu, 21 May 2026 19:05:16 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260521190516</guid>
   </item>
 </channel>
 </rss>
