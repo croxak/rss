@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 28 May 2026 19:27:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 20:34:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Poder Judicial acuerda aumento salarial de hasta un 50 % para servidores administrativos y 30 % para jueces]]></title>
+    <link>https://eldia.com.do/poder-judicial-aprueba-aumento-salarial-de-30-para-jueces/</link>
+    <description><![CDATA[El Consejo del Poder Judicial ha decidido incrementar los salarios de jueces y servidores administrativos. Los jueces recibirán un aumento del 30 %, comenzando con un 20 % en julio y el 10 % restante en 2027.
+
+Para los servidores administrativos, el aumento será entre un 35 % y un 50 %, aplicado de manera escalonada. Esta medida busca mejorar las condiciones laborales en el sistema judicial.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780000415/autonoticias/articles/20260528_203335_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 28 May 2026 20:34:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260528203405</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Imponen garantía económica de ocho millones de pesos a implicados en muerte de Stephora]]></title>
     <link>https://panorama.com.do/imponen-garantia-economica-de-ocho-millones-de-pesos-a-implicados-en-muerte-de-stephora/</link>
     <description><![CDATA[El juez Joob García del Juzgado de la Instrucción del Distrito Judicial de Santiago ha impuesto una garantía económica de RD$8 millones a los implicados en la muerte de Stephora Joseph.
@@ -1319,20 +1331,6 @@ El sospechoso se encuentra prófugo, mientras la Policía Nacional y el Minister
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779460282/autonoticias/articles/20260522_143122_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 14:31:49 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260522143149</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[JCE recuerda que está prohibido publicar encuestas electorales antes de julio de 2027]]></title>
-    <link>https://n.com.do/2026/05/22/jce-recuerda-que-esta-prohibido-publicar-encuestas-electorales-antes-de-julio-de-2027/</link>
-    <description><![CDATA[La Junta Central Electoral (JCE) ha reiterado que no se pueden publicar encuestas electorales antes de julio de 2027, cuando inicia la precampaña para las elecciones de 2028.
-
-Las empresas encuestadoras deben registrarse y cumplir con requisitos técnicos y legales. Las encuestas internas de partidos no podrán hacerse públicas antes de esa fecha.
-
-Las firmas que no cumplan enfrentarán sanciones, como la suspensión o cancelación de su registro.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779460237/autonoticias/articles/20260522_143035_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 14:31:15 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260522143115</guid>
   </item>
 </channel>
 </rss>
