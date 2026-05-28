@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 28 May 2026 17:44:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 19:06:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[COE disminuye a cinco las provincias en alerta verde por vaguada]]></title>
+    <link>https://n.com.do/2026/05/28/coe-mantiene-alerta-verde-cinco-provincias-inundaciones/</link>
+    <description><![CDATA[El Centro de Operaciones y Emergencias (COE) ha decidido mantener la alerta verde en cinco provincias de República Dominicana debido al riesgo de crecidas de ríos y posibles inundaciones. Las provincias afectadas son María Trinidad Sánchez, Sánchez Ramírez, Duarte, Samaná y Monte Plata.
+
+Esta medida se basa en los boletines emitidos por el Instituto Dominicano de Meteorología y el Instituto Nacional de Recursos Hidráulicos. Las lluvias recientes han acumulado humedad en los suelos, lo que ha llevado a esta decisión en cumplimiento de la Ley 147-02 sobre Gestión de Riesgos.
+
+El COE ha descontinuado la alerta verde en otras provincias. Se espera que una vaguada provoque aguaceros locales en algunas áreas del país.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779994082/autonoticias/articles/20260528_184801_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 28 May 2026 19:06:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260528190635</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Diputado Sadoky Duarte insta a Antonio Taveras a renunciar a su curul tras su salida del PRM]]></title>
     <link>https://eldia.com.do/diputado-sadoky-duarte-insta-a-antonio-taveras-a-renunciar-a-su-curul-tras-su-salida-del-prm/</link>
     <description><![CDATA[El diputado Sadoky Duarte ha reaccionado ante la salida del senador Antonio Taveras del Partido Revolucionario Moderno. Duarte insta a Taveras a renunciar a su curul y lo desafía a participar en las próximas elecciones de manera independiente.
@@ -1317,22 +1331,6 @@ Entre los detenidos se encuentran 25 hombres y una mujer, todos en estatus migra
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779456634/autonoticias/articles/20260522_133034_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 13:31:59 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260522133159</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[JCE reglamenta el registro de encuestadoras y la publicación de sondeos electorales en RD]]></title>
-    <link>https://www.elcaribe.com.do/panorama/pais/jce-reglamenta-el-registro-de-encuestadoras-y-la-publicacion-de-sondeos-electorales-en-rd/</link>
-    <description><![CDATA[La Junta Central Electoral (JCE) ha establecido un nuevo reglamento para el registro de empresas encuestadoras y la publicación de encuestas electorales en República Dominicana. Este reglamento busca garantizar la transparencia y equidad en los procesos electorales.
-
-Las empresas encuestadoras deben registrarse ante la JCE y cumplir con varios requisitos. Solo las empresas registradas podrán realizar y publicar encuestas con fines electorales.
-
-Se prohíbe la publicación de encuestas antes del inicio formal de la precampaña. Las encuestas de boca de urna deben notificarse con anticipación y sus resultados se publicarán cuatro horas después del cierre de votaciones.
-
-El incumplimiento de estas disposiciones puede resultar en multas y la cancelación del registro.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779450631/autonoticias/articles/20260522_115031_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 11:51:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260522115131</guid>
   </item>
 </channel>
 </rss>
