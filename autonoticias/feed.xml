@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 28 May 2026 16:47:39 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 17:12:38 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Permiso de salida de menores ya podrá tramitarse 100% en línea en República Dominicana]]></title>
+    <link>https://eldia.com.do/gobierno-pone-en-marcha-permiso-de-salida-de-menores-100-digital-proceso-reducira-tiempo-y-gastos-para-las-familias/</link>
+    <description><![CDATA[El Gobierno dominicano ha implementado un sistema digital para gestionar el permiso de salida de menores de edad completamente en línea. Este nuevo proceso busca reducir tiempos de espera y costos para las familias, eliminando la necesidad de desplazamientos físicos y documentos impresos.
+
+Durante los primeros 30 días, el servicio será gratuito. La plataforma, parte del programa Burocracia Cero, fue presentada por el presidente Luis Abinader, quien destacó la simplificación de procesos y la mejora de la experiencia del usuario.
+
+El sistema permitirá validaciones automáticas y pagos electrónicos, con una tarifa fija de RD$3,000 para el servicio notarial digital. En una primera etapa, estará disponible solo para padres dominicanos que autoricen al otro progenitor a viajar con el menor.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779988330/autonoticias/articles/20260528_171210_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 28 May 2026 17:12:38 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260528171238</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Detienen colombiana con 49 prendas de vestir impregnadas de cocaína en el AILA]]></title>
     <link>https://panorama.com.do/detienen-colombiana-con-49-prendas-de-vestir-impregnadas-de-cocaina-en-el-aila/</link>
     <description><![CDATA[Una mujer colombiana fue detenida en el Aeropuerto Internacional de Las Américas con una maleta que contenía 49 prendas de vestir impregnadas con presunta cocaína. La detención fue realizada por agentes de la DNCD y miembros del Ministerio Público.
@@ -1325,20 +1339,6 @@ La investigación es independiente del caso contra Víctor Arias, acusado de hom
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779420994/autonoticias/articles/20260522_033633_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 03:37:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260522033705</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fallece Pedro Agustín Bretón Taveras, dirigente político y referente del sector agropecuario]]></title>
-    <link>https://panorama.com.do/fallece-pedro-agustin-breton-taveras-dirigente-politico-y-referente-del-sector-agropecuario/</link>
-    <description><![CDATA[Pedro Agustín Bretón Taveras, reconocido dirigente político y referente del sector agropecuario, ha fallecido en la provincia de Santiago. Bretón Taveras fue miembro del Partido Reformista Social Cristiano y tuvo una destacada trayectoria en el servicio público.
-
-Durante los gobiernos de Joaquín Balaguer, ocupó cargos como administrador del Banco Agrícola y director del Instituto del Tabaco. También fue senador por Santiago entre 1982 y 1986. Su labor incluyó aportes al desarrollo agropecuario y la concepción del Plan Sierra.
-
-Sus restos serán expuestos en el Parque Memorial Fuente de Luz el sábado 23 de mayo, con una misa a las 2:00 de la tarde y la inhumación a las 3:00 de la tarde.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779420397/autonoticias/articles/20260522_032637_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 03:35:11 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260522033511</guid>
   </item>
 </channel>
 </rss>
