@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 28 May 2026 01:55:57 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 01:56:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[EE.UU. ataca nueva lancha supuestamente ligada al narcotráfico y mata a dos tripulantes]]></title>
+    <link>https://panorama.com.do/ee-uu-ataca-nueva-lancha-supuestamente-ligada-al-narcotrafico-y-mata-a-dos-tripulantes/</link>
+    <description><![CDATA[Las fuerzas armadas de Estados Unidos llevaron a cabo un ataque en el Pacífico Oriental, matando a dos personas en una embarcación supuestamente ligada al narcotráfico. Este es el segundo ataque de la semana bajo el operativo 'Lanza del Sur'.
+
+El Comando Sur del Ejército estadounidense informó que el operativo ha causado al menos 190 muertes en más de 60 ataques en el mar Caribe y el Pacífico. La misión se lanzó en septiembre con el objetivo de incrementar la tensión en torno al presidente venezolano, Nicolás Maduro.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779933344/autonoticias/articles/20260528_015544_article.webp" type="image/jpeg"/>
+    <pubDate>Thu, 28 May 2026 01:56:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260528015614</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Tamara Martínez es condenada a tres meses de prisión por difamación contra Gabi Desangles]]></title>
     <link>https://n.com.do/2026/05/27/tamara-martinez-es-condenada-a-tres-meses-de-presion-por-difamacion-contra-gabi-desangles/</link>
     <description><![CDATA[Tamara Martínez, comunicadora, ha sido condenada a tres meses de prisión por difamación e injuria contra Gabi Desangles.
@@ -1323,22 +1335,6 @@ La Policía Nacional investiga el uso de las mismas armas en ambos crímenes y b
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779389795/autonoticias/articles/20260521_185635_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 19:05:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260521190502</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Sicarios que asesinaron mujer en Santiago fueron ejecutados horas después por sus propios acompañantes, según la Policía]]></title>
-    <link>https://eldia.com.do/sicarios-que-asesinaron-mujer-en-santiago-fueron-ejecutados-horas-despues-por-sus-propios-acompanantes-segun-la-policia/</link>
-    <description><![CDATA[Dos hombres, Natanael Peña, alias “El Cha”, y “La Rata”, fueron hallados muertos en Jarabacoa. La Policía indica que fueron ejecutados por sus propios compañeros tras el asesinato de Margarita Díaz García, alias “La China”, en Santiago.
-
-Las investigaciones vinculan estos homicidios al narcotráfico. Las evidencias balísticas coinciden en ambos lugares, reforzando la hipótesis de la Policía.
-
-Ruddy Manuel Morán Almonte, alias “La Pólvora”, es señalado como cabecilla de la estructura criminal. Erika Martínez Peralta fue detenida mientras conducía un vehículo relacionado con el caso.
-
-La Policía busca activamente a varios integrantes de la banda.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779389842/autonoticias/articles/20260521_185721_article.png" type="image/png"/>
-    <pubDate>Thu, 21 May 2026 19:04:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260521190441</guid>
   </item>
 </channel>
 </rss>
