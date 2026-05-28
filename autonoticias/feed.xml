@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 28 May 2026 20:34:05 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 20:59:24 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Condenan a 6 meses de prisión a Ángel Martínez por difamación contra Milagros De Camps Germán]]></title>
+    <link>https://n.com.do/2026/05/28/condenan-a-6-meses-de-prision-a-angel-martinez-por-difamacion-contra-milagros-de-camps-german/</link>
+    <description><![CDATA[Ángel Martínez ha sido condenado a 6 meses de prisión por difamar a Milagros De Camps Germán, exviceministra de Medio Ambiente. Además, deberá pagar RD$10 millones, que De Camps Germán solicitó destinar al Sistema Nacional de Áreas Protegidas.
+
+Martínez enfrenta otras demandas por difamación, incluyendo una querella de Faride Raful, ministra de Interior y Policía. En ese caso, se le impusieron medidas de coerción y se ordenó un juicio de fondo.
+
+Residente en Estados Unidos, Martínez fue detenido en Puerto Plata en mayo de 2025 debido a órdenes judiciales pendientes.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780001937/autonoticias/articles/20260528_205857_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 28 May 2026 20:59:24 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260528205924</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Poder Judicial acuerda aumento salarial de hasta un 50 % para servidores administrativos y 30 % para jueces]]></title>
     <link>https://eldia.com.do/poder-judicial-aprueba-aumento-salarial-de-30-para-jueces/</link>
     <description><![CDATA[El Consejo del Poder Judicial ha decidido incrementar los salarios de jueces y servidores administrativos. Los jueces recibirán un aumento del 30 %, comenzando con un 20 % en julio y el 10 % restante en 2027.
@@ -1319,18 +1333,6 @@ El incidente ocurrió en una finca del Callejón La Piña cuando la víctima fue
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779460395/autonoticias/articles/20260522_143314_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 14:34:30 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260522143430</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Raudy Jiménez Dicent es buscado por presunto homicidio de su pareja en Villa Altagracia]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/05/22/hombre-mata-a-su-pareja-en-villa-altagracia-sospechoso-2004832/</link>
-    <description><![CDATA[Raudy Jiménez Dicent es buscado por las autoridades tras presuntamente haberle quitado la vida a su pareja, Avril, en Los Arroyos, Villa Altagracia. El incidente ocurrió la madrugada de este viernes.
-
-El sospechoso se encuentra prófugo, mientras la Policía Nacional y el Ministerio Público continúan con las investigaciones.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779460282/autonoticias/articles/20260522_143122_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 14:31:49 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260522143149</guid>
   </item>
 </channel>
 </rss>
