@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 28 May 2026 00:16:38 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 00:17:18 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Senado aprueba en primera lectura proyecto modifica ley de partidos en relación a dinero ilícito]]></title>
+    <link>https://www.diariolibre.com/politica/congreso-nacional/2026/05/27/senado-aprueba-proyecto-modifica-ley-de-partidos/3548077</link>
+    <description><![CDATA[El Senado dominicano aprobó en primera lectura un proyecto de ley que modifica la Ley 33-18 de Partidos Políticos. Esta iniciativa busca fortalecer la integridad y transparencia en el sistema político.
+
+Entre las modificaciones propuestas se incluyen requisitos como la declaración jurada de patrimonio y certificaciones de no antecedentes penales para quienes aspiren a cargos de elección popular o dirección partidaria.
+
+El proyecto también introduce cambios en el financiamiento de partidos, obligando a verificar el origen lícito de los recursos y permitiendo la sustitución de candidatos por falsedad en la información presentada.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779927412/autonoticias/articles/20260528_001651_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 28 May 2026 00:17:18 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260528001718</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Armada Dominicana concluye entrenamiento táctico junto a Boinas Verdes de EE.UU.]]></title>
     <link>https://panorama.com.do/armada-dominicana-concluye-entrenamiento-tactico-junto-a-boinas-verdes-de-ee-uu/</link>
     <description><![CDATA[La Armada Dominicana concluyó el Entrenamiento Conjunto y Combinado (JCET) junto a los Boinas Verdes de EE.UU. en la Base Naval “Las Calderas”, Peravia. La ceremonia contó con la presencia del ministro de Defensa, Carlos Antonio Fernández Onofre, el vicealmirante Juan Bienvenido Crisóstomo Martínez y la embajadora de EE.UU., Leah Francis Campos.
@@ -1323,20 +1337,6 @@ El proyecto incluye un letrero de hormigón, aceras peatonales, contenes, pavime
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779390213/autonoticias/articles/20260521_190332_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 19:04:07 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260521190407</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Marco Rubio califica a Raúl Castro como un “fugitivo” de la Justicia estadounidense]]></title>
-    <link>https://robertocavada.com/marco-rubio-califica-a-raul-castro-como-un-fugitivo-de-la-justicia-estadounidense/</link>
-    <description><![CDATA[El secretario de Estado de Estados Unidos, Marco Rubio, ha calificado al expresidente cubano Raúl Castro como un “fugitivo” de la Justicia estadounidense. Esto sigue a la presentación de cargos de asesinato por el Departamento de Justicia de Estados Unidos contra Castro por el derribo de dos avionetas hace 30 años.
-
-Rubio afirmó que las pruebas contra Castro son claras, ya que él mismo habría admitido haber dado la orden de derribar los aviones. Raúl Castro fue acusado por la muerte de cuatro aviadores de la organización Hermanos al Rescate en 1996.
-
-El presidente de Cuba, Miguel Díaz-Canel, declaró que la acusación contra Castro tiene motivos políticos y carece de base jurídica.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779390087/autonoticias/articles/20260521_190127_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 21 May 2026 19:02:04 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260521190204</guid>
   </item>
 </channel>
 </rss>
