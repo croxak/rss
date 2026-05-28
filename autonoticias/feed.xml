@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 28 May 2026 19:06:50 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 28 May 2026 19:27:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Imponen garantía económica de ocho millones de pesos a implicados en muerte de Stephora]]></title>
+    <link>https://panorama.com.do/imponen-garantia-economica-de-ocho-millones-de-pesos-a-implicados-en-muerte-de-stephora/</link>
+    <description><![CDATA[El juez Joob García del Juzgado de la Instrucción del Distrito Judicial de Santiago ha impuesto una garantía económica de RD$8 millones a los implicados en la muerte de Stephora Joseph.
+
+La niña, de 11 años y nacionalidad haitiana, falleció ahogada en una piscina de la hacienda Los Caballos, en Gurabo, durante una excursión del colegio Leonardo Da Vinci.
+
+Entre los implicados están Eduardo Rafael Estévez Bretón, Fredy Núñez, Julio César Muñoz, Víctor Manuel Muñoz y Dominga Blanco Muñoz. El caso es calificado como homicidio involuntario por el Ministerio Público.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779996318/autonoticias/articles/20260528_192517_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 28 May 2026 19:27:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260528192700</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader inaugura nuevas infraestructuras en la UASD]]></title>
     <link>https://panorama.com.do/abinader-inaugura-nuevas-infraestructuras-en-la-uasd/</link>
     <description><![CDATA[El presidente Luis Abinader y el rector Editrudis Beltrán inauguraron un moderno Centro Multiservicios y nuevas infraestructuras en la UASD. Estas obras forman parte del proceso de modernización y fortalecimiento institucional de la universidad.
@@ -1319,20 +1333,6 @@ Las firmas que no cumplan enfrentarán sanciones, como la suspensión o cancelac
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779460237/autonoticias/articles/20260522_143035_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 14:31:15 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260522143115</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Salud Pública refuerza vigilancia epidemiológica ante alerta internacional por brote de ébola]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/05/22/salud-publica-refuerza-vigilancia-epidemiologica-por-ebola-2004710/</link>
-    <description><![CDATA[El Ministerio de Salud Pública de República Dominicana ha intensificado la vigilancia epidemiológica y los protocolos preventivos ante una alerta internacional por un brote de ébola en África Central.
-
-La cepa Bundibugyo del virus, para la cual no existe una vacuna aprobada, ha sido identificada en el brote. Aunque el riesgo en República Dominicana es bajo, se han implementado medidas preventivas en coordinación con instituciones del sector salud, migración, turismo y autoridades aeroportuarias y portuarias.
-
-Las acciones incluyen vigilancia en aeropuertos y puertos, preparación de áreas de aislamiento, capacitación del personal médico y fortalecimiento de la capacidad diagnóstica de los laboratorios. El brote se concentra en la República Democrática del Congo y Uganda.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779456735/autonoticias/articles/20260522_133215_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 13:33:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260522133334</guid>
   </item>
 </channel>
 </rss>
