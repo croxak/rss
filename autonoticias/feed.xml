@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 14:17:47 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 14:28:17 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Dominicana pierde la vida tras tiroteo en fiesta en el Bronx, EE.UU.]]></title>
+    <link>https://noticiassin.com/estados-unidos/2026/05/29/dominicana-muere-en-tiroteo-durante-fiesta-en-el-bronx-2012350/</link>
+    <description><![CDATA[Reyna Cáceres, una joven dominicana de 23 años, falleció tras ser alcanzada por una bala en el ojo izquierdo durante una fiesta en University Heights, Bronx. El tiroteo ocurrió poco después de las 12:10 de la madrugada del jueves.
+
+La policía indicó que Cáceres no era el objetivo del ataque y la describió como una “víctima accidental”. No se han realizado arrestos y la investigación sigue abierta.
+
+Familiares y vecinos expresaron su dolor y preocupación por la violencia en la comunidad. Las autoridades investigan posibles vínculos con conflictos previos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780064852/autonoticias/articles/20260529_142731_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 14:28:17 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529142817</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Embajada de EE.UU. fija posición sobre visas y advierte contra uso político de la justicia]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/05/29/embajada-de-ee-uu-fija-postura-sobre-visas-y-justicia-2012359/</link>
     <description><![CDATA[La Embajada de los Estados Unidos en Santo Domingo se pronunció sobre la atención mediática relacionada con visas, reafirmando su política de no comentar sobre casos individuales. La embajadora Leah F. Campos subrayó la importancia de un sistema judicial independiente para preservar la confianza pública.
@@ -1309,22 +1323,6 @@ Los acusados cumplirán la prisión preventiva en el CCR Las Parras y CCR Najayo
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779545621/autonoticias/articles/20260523_141340_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 23 May 2026 14:14:23 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260523141423</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Vaguada provocará fuertes aguaceros y tormentas eléctricas este sábado]]></title>
-    <link>https://eldia.com.do/vaguada-provocara-fuertes-aguaceros-y-tormentas-electricas-este-sabado/</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (INDOMET) ha informado sobre la incidencia de una vaguada que provocará fuertes aguaceros y tormentas eléctricas este sábado en gran parte del país.
-
-Durante la mañana, se esperan aguaceros dispersos en provincias como El Seibo, Hato Mayor, Samaná, María Trinidad Sánchez, Barahona y el Gran Santo Domingo. Sin embargo, después del mediodía, el fenómeno se intensificará con incrementos nubosos, fuertes aguaceros, tormentas eléctricas, ráfagas de viento y posibles granizadas.
-
-Las provincias más afectadas serán El Seibo, Hato Mayor, Monte Plata, San Pedro de Macorís, Sánchez Ramírez, La Vega, Monseñor Nouel, San José de Ocoa, San Cristóbal, Santiago, San Juan, Santiago Rodríguez, Elías Piña, Dajabón, Independencia, Baoruco y el Gran Santo Domingo.
-
-El INDOMET mantiene alerta meteorológica por riesgo de inundaciones y deslizamientos de tierra. En el Distrito Nacional y municipios aledaños se espera un ambiente nublado con aguaceros y tronadas. Las temperaturas seguirán calurosas, por lo que se recomienda a la población tomar precauciones.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779545524/autonoticias/articles/20260523_141204_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 23 May 2026 14:12:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260523141229</guid>
   </item>
 </channel>
 </rss>
