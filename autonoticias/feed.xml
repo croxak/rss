@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 03:56:54 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 12:51:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Encuentran joven muerta dentro de su residencia en La Romana; presenta heridas de arma blanca]]></title>
+    <link>https://elnuevodiario.com.do/encuentran-joven-muerta-dentro-de-su-residencia-en-la-romana-presenta-heridas-de-arma-blanca/</link>
+    <description><![CDATA[Angela Dieva Michel, de 20 años, fue hallada sin vida en su residencia en Villa Hermosa, La Romana. Presentaba múltiples heridas de arma blanca y, según el médico legista Benito Kelly, llevaba alrededor de 8 horas fallecida.
+
+Las autoridades han comenzado las investigaciones pertinentes y han detenido a dos personas para interrogarlas en relación con el caso.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780059072/autonoticias/articles/20260529_125112_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 12:51:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529125140</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Explota cohete de Blue Origin durante prueba en Cabo Cañaveral]]></title>
     <link>https://www.diariolibre.com/mundo/estados-unidos/2026/05/28/bola-de-fuego-envuelve-cohete-de-blue-origin/3549552</link>
     <description><![CDATA[El cohete New Glenn de Blue Origin explotó en la plataforma de lanzamiento durante una prueba en Cabo Cañaveral, Florida. La empresa informó sobre una "anomalía" y confirmó que todo el personal ha sido localizado.
@@ -1319,20 +1331,6 @@ El ministro resaltó el valor estratégico del puerto de Manzanillo para conecta
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779484701/autonoticias/articles/20260522_211820_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 21:19:08 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260522211908</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente del Senado afirma que Congreso trabaja en leyes para enfrentar auge de drogas sintéticas]]></title>
-    <link>https://www.diariolibre.com/politica/congreso-nacional/2026/05/22/presidente-del-senado-trabaja-en-nueva-ley-antidrogas/3543040</link>
-    <description><![CDATA[El presidente del Senado dominicano, Ricardo de los Santos, informó que el Congreso trabaja en un nuevo marco normativo para enfrentar el auge de las drogas sintéticas. La iniciativa busca cerrar vacíos legales y fortalecer la respuesta del Estado.
-
-De los Santos destacó que las drogas sintéticas son una amenaza para la salud pública y la seguridad ciudadana, especialmente entre los jóvenes. Propuso una estrategia integral que incluya cooperación entre Estados, prevención, persecución penal, inteligencia compartida, tratamiento y reinserción social.
-
-El vicealmirante José M. Cabrera Ulloa, presidente de la Dirección Nacional de Control de Drogas, afirmó que el Gobierno busca una legislación moderna y flexible. Advirtió que el mercado de drogas sintéticas evoluciona rápidamente, superando los marcos normativos tradicionales.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779484673/autonoticias/articles/20260522_211753_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 21:18:42 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260522211842</guid>
   </item>
 </channel>
 </rss>
