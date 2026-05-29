@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 13:51:14 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 13:51:30 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Policía abate a “Nono el Imparable” tras enfrentar agentes en Villas Agrícolas]]></title>
+    <link>https://panorama.com.do/policia-abate-a-nono-el-imparable-tras-enfrentar-agentes-en-villas-agricolas/</link>
+    <description><![CDATA[La Policía Nacional informó sobre la muerte de Brayant Liberato Pinales, alias “Nono el Imparable”, tras un enfrentamiento con agentes de la Dirección Central de Investigación (DICRIM) en Villas Agrícolas.
+
+El incidente ocurrió el jueves 28 de mayo en el callejón Los Coquitos, donde Liberato Pinales abrió fuego contra los agentes, resultando herido y falleciendo en el Hospital Dr. Francisco Moscoso Puello.
+
+Liberato Pinales era buscado por asaltos y robos, y tenía una orden de arresto por asociación de malhechores y robo.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780062653/autonoticias/articles/20260529_135053_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 13:51:30 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529135130</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Antonio Taveras descarta rumores sobre posible salida hacia la Fuerza del Pueblo]]></title>
     <link>https://eldia.com.do/antonio-taveras-descarta-rumores-sobre-posible-salida-hacia-la-fuerza-del-pueblo/</link>
     <description><![CDATA[El senador Antonio Taveras Guzmán ha rechazado los rumores que lo vinculan con una posible salida hacia la Fuerza del Pueblo. Asegura que su decisión de dejar el bloque senatorial del PRM responde a diferencias con el rumbo del partido y la falta de reformas estructurales.
@@ -1313,20 +1327,6 @@ Al evento asistirán funcionarios gubernamentales, representantes del sector emp
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779545369/autonoticias/articles/20260523_140928_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 23 May 2026 14:09:53 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260523140953</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ejército detiene a 27 personas durante operativos de interdicción en Loma de Cabrera]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/05/23/ejercito-detiene-27-indocumentados-en-loma-de-cabrera-2005980/</link>
-    <description><![CDATA[El Ejército de República Dominicana detuvo a 27 personas en Loma de Cabrera durante operativos migratorios. Entre los detenidos hay 26 haitianos indocumentados y un dominicano.
-
-En la comunidad La Hoya, 12 haitianos fueron detenidos por no portar documentación legal. En otro operativo, 15 personas fueron detenidas, incluyendo 14 haitianos y un dominicano. Dos motocicletas fueron interceptadas, una conducida por el dominicano Daniel Estevez Rodríguez y otra por el haitiano Ali Pie.
-
-Los detenidos fueron trasladados a la Inspectoría ERD y al 10mo. Batallón de Infantería para los fines legales correspondientes. El Ejército mantiene reforzadas las operaciones de vigilancia en la zona fronteriza.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779545152/autonoticias/articles/20260523_140552_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 23 May 2026 14:06:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260523140633</guid>
   </item>
 </channel>
 </rss>
