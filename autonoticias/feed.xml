@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 01:46:44 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 03:56:54 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Explota cohete de Blue Origin durante prueba en Cabo Cañaveral]]></title>
+    <link>https://www.diariolibre.com/mundo/estados-unidos/2026/05/28/bola-de-fuego-envuelve-cohete-de-blue-origin/3549552</link>
+    <description><![CDATA[El cohete New Glenn de Blue Origin explotó en la plataforma de lanzamiento durante una prueba en Cabo Cañaveral, Florida. La empresa informó sobre una "anomalía" y confirmó que todo el personal ha sido localizado.
+
+Un video muestra humo y una bola de fuego envolviendo el cohete. El congresista Mike Haridopolos agradeció la ausencia de heridos y el rápido accionar de los equipos de emergencia.
+
+Este incidente es el último revés para Blue Origin, que el mes pasado falló en una misión con el mismo modelo de cohete.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780026975/autonoticias/articles/20260529_035615_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 03:56:54 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529035654</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Dimitrova conquista oro en Panam de Karate]]></title>
     <link>https://elnuevodiario.com.do/dimitrova-conquista-oro-en-panam-de-karate/</link>
     <description><![CDATA[María Dimitrova se alzó con la medalla de oro en kata al vencer a Gabrielle Henrique de Brasil con un marcador de 3-2 en el Campeonato Panamericano de Karate en Río de Janeiro. Dimitrova también superó a la venezolana Daniela García y a la chilena Gallo Araya en rondas anteriores.
@@ -1319,20 +1333,6 @@ El vicealmirante José M. Cabrera Ulloa, presidente de la Dirección Nacional de
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779484673/autonoticias/articles/20260522_211753_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 21:18:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260522211842</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Edeeste anuncia interrupción programada del servicio eléctrico este domingo en circuito CNP803]]></title>
-    <link>https://www.presidencia.gob.do/noticias/edeeste-anuncia-interrupcion-programada-del-servicio-electrico-este-domingo-en-circuito</link>
-    <description><![CDATA[Edeeste informa sobre una interrupción programada del servicio eléctrico este domingo 24, de 9:00 a.m. a 3:00 p.m., en el circuito CNP803. La medida responde a una solicitud de la Superintendencia de Bancos para realizar trabajos de poda y adecuaciones en sus redes internas.
-
-La interrupción afectará parcialmente la zona entre la avenida México y las avenidas Leopoldo Navarro, Máximo Gómez y 27 de Febrero. Sectores como la Maternidad San Rafael, el Hotel Lina y áreas de la Policía Nacional estarán dentro de la zona de influencia.
-
-Edeeste agradece la comprensión de los clientes y reitera su compromiso de apoyar acciones que contribuyan a la estabilidad y mejora del servicio eléctrico.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779478790/autonoticias/articles/20260522_193950_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 19:40:59 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260522194059</guid>
   </item>
 </channel>
 </rss>
