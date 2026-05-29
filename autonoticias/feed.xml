@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 16:42:21 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 16:50:29 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Lanzan campaña “La ONDA Contigo” para fortalecer la cultura del derecho de autor en la República Dominicana]]></title>
+    <link>https://www.presidencia.gob.do/noticias/lanzan-campana-la-onda-contigo-para-fortalecer-la-cultura-del-derecho-de-autor-en-la</link>
+    <description><![CDATA[La Oficina Nacional de Derecho de Autor (ONDA) ha iniciado la campaña "La ONDA Contigo" en Santiago de los Caballeros, dedicada a las Madres del Merengue Típico de República Dominicana. El evento incluyó conferencias, foros y concursos, y fue encabezado por José Rubén Gonell Cosme y el alcalde Ulises Rodríguez.
+
+Se rindió homenaje a Fefita La Grande y otras merengueras típicas. La campaña busca educar sobre el derecho de autor y se desarrollará durante todo el año 2026.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780073343/autonoticias/articles/20260529_164902_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 16:50:29 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529165029</guid>
+  </item>
+
+  <item>
     <title><![CDATA[“El narcotráfico ofrece riqueza y poder a costa de sangre”, advierte arzobispo durante misa por aniversario de la DNCD]]></title>
     <link>https://panorama.com.do/el-narcotrafico-ofrece-riqueza-y-poder-a-costa-de-sangre-advierte-arzobispo-durante-misa-por-aniversario-de-la-dncd/</link>
     <description><![CDATA[El arzobispo coadjutor de Santo Domingo, Carlos Tomás Morel Diplán, advirtió sobre el narcotráfico durante una misa por el aniversario de la DNCD, afirmando que ofrece riqueza y poder a costa de sangre.
@@ -1315,20 +1327,6 @@ El incidente ocurrió en las afueras del tribunal durante una audiencia prelimin
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779557635/autonoticias/articles/20260523_173355_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 23 May 2026 17:34:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260523173420</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Desmantelan red que expedía ciudadanía colombiana falsa a migrantes venezolanos y dominicanos]]></title>
-    <link>https://robertocavada.com/desmantelan-red-que-expedia-ciudadania-colombiana-falsa-a-migrantes-venezolanos-y-dominicanos/</link>
-    <description><![CDATA[Una red que expedía documentos de identidad colombianos falsos a migrantes venezolanos y dominicanos fue desmantelada en Fundación, Magdalena. La Fiscalía colombiana acusa a funcionarios y exfuncionarios de la Registraduría Nacional del Estado Civil de cobrar miles de dólares por estos documentos.
-
-Cuatro personas fueron capturadas: Milena Sanjuanelo Castiblanco, Karen Liliana Mariño Rodríguez, Aníbal José Rojano Arévalo y Luis Alberto Cantillo Vizcaíno. La red facilitaba registros civiles y cédulas mediante la alteración de información oficial.
-
-Los migrantes usaban estos documentos para obtener pasaportes y viajar a Estados Unidos y Europa. La operación contó con el apoyo de autoridades estadounidenses.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779549089/autonoticias/articles/20260523_151128_article.webp" type="image/jpeg"/>
-    <pubDate>Sat, 23 May 2026 15:11:55 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260523151155</guid>
   </item>
 </channel>
 </rss>
