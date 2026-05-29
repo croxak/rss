@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 13:51:30 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 14:16:37 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[DICRIM de la Policía Nacional desmantela banda dedicada a fraudes electrónicos y apresa cinco de sus integrantes]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/05/29/dicrim-desmantela-banda-de-fraudes-electronicos-2012364/</link>
+    <description><![CDATA[La Dirección Central de Investigación (DICRIM) detuvo a cinco personas en Villa Francisca, Distrito Nacional, por fraudes electrónicos. Los acusados son Dauri Hansel Villanueva, José Ángel de Jesús Fereida, Yeykel Herasme Pérez, Kelvin Miguel Aybar Romero y Daivid José Aybar Romero. Un sexto implicado, "Ramón", está prófugo.
+
+La banda contactaba a sus víctimas por WhatsApp con números falsos, realizando compras fraudulentas de perfumes, celulares y otros artículos. Enviaban comprobantes de pagos falsos para concretar las estafas.
+
+Se recuperaron 30 cargadores tipo C para iPhone, 213 auriculares AirPods, 34 relojes y cinco perfumes. Los detenidos y las evidencias serán entregados al Ministerio Público.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780064132/autonoticias/articles/20260529_141532_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 14:16:37 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529141637</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía abate a “Nono el Imparable” tras enfrentar agentes en Villas Agrícolas]]></title>
     <link>https://panorama.com.do/policia-abate-a-nono-el-imparable-tras-enfrentar-agentes-en-villas-agricolas/</link>
     <description><![CDATA[La Policía Nacional informó sobre la muerte de Brayant Liberato Pinales, alias “Nono el Imparable”, tras un enfrentamiento con agentes de la Dirección Central de Investigación (DICRIM) en Villas Agrícolas.
@@ -1313,20 +1327,6 @@ Se espera que Sommerfeld regrese a Ecuador el mismo lunes tras concluir su agend
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779545228/autonoticias/articles/20260523_140708_article.webp" type="image/jpeg"/>
     <pubDate>Sat, 23 May 2026 14:11:11 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260523141111</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader encabezará inauguración de fábrica Eco Acero en San Pedro de Macorís]]></title>
-    <link>https://panorama.com.do/abinader-encabezara-inauguracion-de-fabrica-eco-acero-en-san-pedro-de-macoris/</link>
-    <description><![CDATA[El presidente Luis Abinader estará presente en la inauguración de la Fábrica de Varilla Eco Acero en Los Llanos, San Pedro de Macorís, este sábado 23 de mayo de 2026.
-
-La apertura de esta planta industrial tiene como objetivo fortalecer el sector de la construcción y la producción nacional, además de fomentar el empleo y el desarrollo económico en la región Este.
-
-Al evento asistirán funcionarios gubernamentales, representantes del sector empresarial y autoridades locales.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779545369/autonoticias/articles/20260523_140928_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 23 May 2026 14:09:53 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260523140953</guid>
   </item>
 </channel>
 </rss>
