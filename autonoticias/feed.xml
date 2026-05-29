@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 16:38:57 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 16:39:13 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Gobierno entrega segundo Bono de Emergencia a familias afectadas por inundaciones en Villa Montellano]]></title>
+    <link>https://www.elcaribe.com.do/panorama/gobierno-entrega-segundo-bono-de-emergencia/</link>
+    <description><![CDATA[El Gobierno entregó un segundo Bono de Emergencia de RD$7,000 a más de 2,000 familias afectadas por las inundaciones de abril en Villa Montellano, Puerto Plata. La jornada fue encabezada por el ministro de la Presidencia, José Ignacio Paliza.
+
+Durante la actividad, se ofrecieron servicios de actualización de datos a través del SIUBEN. La inversión total en esta fase asciende a más de RD$16 millones, beneficiando a 2,289 familias.
+
+Se anunció un bono adicional para madres de las comunidades afectadas, elevando la inversión total a RD$35 millones.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780072686/autonoticias/articles/20260529_163806_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 16:39:13 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529163913</guid>
+  </item>
+
+  <item>
     <title><![CDATA[DNCD ascenderá 634 agentes; Cabrera Ulloa confirma han desvinculado miembros por faltas]]></title>
     <link>https://panorama.com.do/dncd-ascendera-634-agentes-cabrera-ulloa-confirma-han-desvinculado-miembros-por-faltas/</link>
     <description><![CDATA[José Manuel Cabrera Ulloa, presidente de la DNCD, informó que 634 agentes antinarcóticos serán ascendidos por tiempo en servicio en el aniversario de la institución. 
@@ -1311,20 +1325,6 @@ ECOACERO se enfoca en la innovación y sostenibilidad en la producción de varil
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779548928/autonoticias/articles/20260523_150848_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 23 May 2026 15:09:15 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260523150915</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Regidor del PRM se arrodilla y pide a Abinader que vaya a Pimentel a ver realidad de las calles]]></title>
-    <link>https://listindiario.com/la-republica/provincias/20260523/regidor-prm-arrodilla-pedir-abinader-pimentel-ver-realidad-calles_906877.html</link>
-    <description><![CDATA[Manoli Montero, regidor del PRM en Pimentel, provincia Duarte, se arrodilló en una calle sin asfalto para pedir al presidente Luis Abinader que visite la comunidad y vea la situación de las calles.
-
-Montero afirmó que el comercio local está destruido y que los vehículos sufren daños debido al mal estado de las vías. Hace dos años, había solicitado que se declarara el pueblo en estado de emergencia por el colapso de las calles.
-
-Aunque se iniciaron trabajos de asfalto, las quejas por la lentitud y calidad del proceso persisten.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779547437/autonoticias/articles/20260523_144357_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 23 May 2026 14:44:21 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260523144421</guid>
   </item>
 </channel>
 </rss>
