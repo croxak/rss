@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 20:52:27 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 22:33:49 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[RD mantiene su tasa de política monetaria en el 5.25 % anual]]></title>
+    <link>https://n.com.do/2026/05/29/rd-mantiene-su-tasa-de-politica-monetaria-en-el-5-25-anual/</link>
+    <description><![CDATA[La República Dominicana ha decidido mantener su tasa de interés de política monetaria en el 5.25 % anual por séptimo mes consecutivo. Esta decisión se basa en la recuperación económica local, que creció un 4 % en el primer cuatrimestre del año.
+
+La tasa de la facilidad permanente de expansión de liquidez se mantiene en 5.75 % anual y la tasa de depósitos remunerados en 4.50 % anual. La inflación interanual aumentó a 5.11 % en abril, influenciada por los precios internacionales del petróleo, aunque la inflación subyacente se mantiene dentro del rango meta.
+
+El Gobierno está implementando subsidios para mitigar el impacto de los precios energéticos. Las reservas internacionales del país se sitúan en 15.900 millones de dólares.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780093979/autonoticias/articles/20260529_223259_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 22:33:49 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529223349</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Suben los combustibles: gasolina y gasoil aumentan entre RD$2 y RD$4]]></title>
     <link>https://www.elcaribe.com.do/panorama/pais/sube-gasolina-y-gasoil-aumentan-entre-rd2-y-rd4/</link>
     <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes informó sobre un aumento en los precios de la gasolina y el gasoil para la semana del 30 de mayo al 5 de junio. La gasolina premium y el gasoil óptimo subirán RD$4.00 por galón, mientras que la gasolina y el gasoil regular aumentarán RD$2.00.
@@ -1311,20 +1325,6 @@ El Gobierno de Venezuela había autorizado el simulacro como parte de los protoc
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779582360/autonoticias/articles/20260524_002559_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 24 May 2026 00:27:07 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260524002707</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Cierran de emergencia la Casa Blanca tras reportes de disparos en sus alrededores]]></title>
-    <link>https://panorama.com.do/cierran-de-emergencia-la-casa-blanca-tras-reportes-de-disparos-en-sus-alrededores/</link>
-    <description><![CDATA[La Casa Blanca fue cerrada de emergencia después de que se escucharan múltiples disparos en sus alrededores. Los disparos se reportaron cerca de la calle 17 y la avenida Pennsylvania.
-
-Periodistas en el lugar informaron que el Servicio Secreto evacuó rápidamente a reporteros y personal hacia el interior del complejo. El presidente Donald Trump se encontraba dentro de la Casa Blanca durante el incidente.
-
-El Servicio Secreto y el FBI están investigando la situación y prometieron ofrecer más detalles en las próximas horas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779579330/autonoticias/articles/20260523_233530_article.webp" type="image/jpeg"/>
-    <pubDate>Sat, 23 May 2026 23:36:06 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260523233606</guid>
   </item>
 </channel>
 </rss>
