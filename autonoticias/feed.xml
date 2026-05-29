@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 22:35:41 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 22:38:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Partido Camino Nuevo desmonta vallas tras reunión con presidente de la JCE]]></title>
+    <link>https://elnuevodiario.com.do/partido-camino-nuevo-desmonta-vallas-tras-reunion-con-presidente-de-la-jce/</link>
+    <description><![CDATA[El presidente de la Junta Central Electoral, Román Andrés Jáquez Liranzo, se reunió con Eglenin Morrison, líder del partido Camino Nuevo, para tratar el tema de las vallas publicitarias colocadas por el partido.
+
+Morrison explicó las razones jurídicas para la instalación de las vallas y decidió retirarlas para evitar tensiones mientras el Tribunal Constitucional revisa el caso. El retiro comenzó el jueves.
+
+Morrison expresó su confianza en la JCE y llamó a la población a preservar los valores democráticos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780094288/autonoticias/articles/20260529_223808_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 22:38:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529223833</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece Bernardo Defilló, referente de la cardiología y la seguridad social en República Dominicana]]></title>
     <link>https://www.diariolibre.com/actualidad/salud/2026/05/29/fallece-bernardo-defillo-referente-de-la-cardiologia-en-rd/3550464</link>
     <description><![CDATA[El doctor Bernardo Defilló, uno de los médicos más influyentes de la República Dominicana, falleció a los 86 años. Fue una figura clave en el desarrollo de la cardiología, medicina interna y seguridad social del país.
@@ -1317,18 +1331,6 @@ El proyecto busca mejorar la seguridad vial, reducir los tiempos de desplazamien
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779648116/autonoticias/articles/20260524_184155_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 24 May 2026 18:42:52 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260524184252</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[PN abate a “El Ranger”, prófugo condenado a 30 años y señalado por varios homicidios]]></title>
-    <link>https://n.com.do/2026/05/24/el-ranger-muere-intervencion-policial-hondo-valle/</link>
-    <description><![CDATA[La Policía Nacional abatió a Ranller Encarnación Vicente, alias “El Ranger”, y a Sánchez Montero Montero en Hondo Valle, Elías Piña. Ambos murieron tras un enfrentamiento con agentes de unidades élite y DICRIM.
-
-Encarnación Vicente, prófugo desde 2024, cumplía una condena de 30 años por homicidio y estaba implicado en otros crímenes. Se le atribuían varios homicidios relacionados con el microtráfico de drogas y mantener en temor a comunidades fronterizas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779647016/autonoticias/articles/20260524_182335_article.png" type="image/png"/>
-    <pubDate>Sun, 24 May 2026 18:26:39 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260524182639</guid>
   </item>
 </channel>
 </rss>
