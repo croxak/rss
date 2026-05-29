@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 12:51:40 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 12:55:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Sentencian dominicano a 40 años de prisión por asesinato de cuatro personas en NY]]></title>
+    <link>https://elnuevodiario.com.do/sentencian-a-dominicano-a-40-anos-de-prision-por-asesinato-de-cuatro-personas-en-nueva-york/</link>
+    <description><![CDATA[Randy Rodríguez, un dominicano de 31 años, ha sido sentenciado a un mínimo de 40 años de prisión por el asesinato de cuatro personas sin hogar en Nueva York en 2019. Los hechos ocurrieron en Chinatown, Manhattan, donde Rodríguez atacó a las víctimas con una barra de metal.
+
+Los abogados de Rodríguez alegaron que sufría de esquizofrenia y tenía un historial de adicción a las drogas, pero el jurado rechazó estos argumentos. El fiscal Alvin Bragg señaló el desprecio de Rodríguez por la vida de sus víctimas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780059274/autonoticias/articles/20260529_125434_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 12:55:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529125500</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Encuentran joven muerta dentro de su residencia en La Romana; presenta heridas de arma blanca]]></title>
     <link>https://elnuevodiario.com.do/encuentran-joven-muerta-dentro-de-su-residencia-en-la-romana-presenta-heridas-de-arma-blanca/</link>
     <description><![CDATA[Angela Dieva Michel, de 20 años, fue hallada sin vida en su residencia en Villa Hermosa, La Romana. Presentaba múltiples heridas de arma blanca y, según el médico legista Benito Kelly, llevaba alrededor de 8 horas fallecida.
@@ -1317,20 +1329,6 @@ La actividad se realizó en la Junta Agroempresarial Dominicana con el respaldo 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779484934/autonoticias/articles/20260522_212214_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 21:23:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260522212302</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Paliza anuncia entrega de 760 títulos de propiedad a familias de Pepillo Salcedo]]></title>
-    <link>https://robertocavada.com/paliza-anuncia-entrega-de-760-titulos-de-propiedad-a-familias-de-pepillo-salcedo/</link>
-    <description><![CDATA[El ministro de la Presidencia, José Ignacio Paliza, anunció la entrega de 760 títulos de propiedad a familias de Pepillo Salcedo, Montecristi. Esta acción forma parte del proceso de titulación de terrenos que desarrolla la Unidad Técnica Ejecutora de Titulación de Terrenos del Estado.
-
-Durante su visita, Paliza supervisó proyectos de infraestructura como la ampliación del puerto de Manzanillo y la construcción de la central termoeléctrica Manzanillo Gas & Power. Además, informó que el Sistema Nacional de Atención a Emergencias y Seguridad 9-1-1 comenzará a operar en Montecristi en junio.
-
-El ministro resaltó el valor estratégico del puerto de Manzanillo para conectar a la República Dominicana con mercados internacionales. También visitó terrenos donde se desarrollarán infraestructuras complementarias para operaciones portuarias.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779484701/autonoticias/articles/20260522_211820_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 21:19:08 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260522211908</guid>
   </item>
 </channel>
 </rss>
