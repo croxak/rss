@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 22:35:27 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 22:35:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Fallece Bernardo Defilló, referente de la cardiología y la seguridad social en República Dominicana]]></title>
+    <link>https://www.diariolibre.com/actualidad/salud/2026/05/29/fallece-bernardo-defillo-referente-de-la-cardiologia-en-rd/3550464</link>
+    <description><![CDATA[El doctor Bernardo Defilló, uno de los médicos más influyentes de la República Dominicana, falleció a los 86 años. Fue una figura clave en el desarrollo de la cardiología, medicina interna y seguridad social del país.
+
+Nacido en Santo Domingo en 1940, estudió Medicina en la UASD y se especializó en México. Ocupó importantes cargos en la gestión sanitaria nacional y contribuyó al sistema de seguridad social.
+
+Defilló también fue un prolífico autor, publicando numerosos artículos científicos y siendo miembro de varias sociedades médicas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780094091/autonoticias/articles/20260529_223451_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 22:35:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529223541</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Salud Pública construirá tres hemocentros regionales para ampliar acceso a sangre gratuita]]></title>
     <link>https://panorama.com.do/salud-publica-construira-tres-hemocentros-regionales-para-ampliar-acceso-a-sangre-gratuita/</link>
     <description><![CDATA[El Hemocentro Nacional, bajo la dirección de Pedro Sing Ureña, construirá tres nuevos hemocentros regionales en Santiago, la región Este y la región Sur. Esta medida busca mejorar el acceso a sangre gratuita y fomentar la donación voluntaria.
@@ -1315,18 +1329,6 @@ Encarnación Vicente, prófugo desde 2024, cumplía una condena de 30 años por 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779647016/autonoticias/articles/20260524_182335_article.png" type="image/png"/>
     <pubDate>Sun, 24 May 2026 18:26:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260524182639</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Tras supuestas irregularidades en la DEA, Abinader retira condecoración al agente Melitón Cordero]]></title>
-    <link>https://listindiario.com/la-republica/gobierno/20260524/supuestas-irregularidades-dea-abinader-retira-condecoracion-agente-meliton-cordero_906975.html</link>
-    <description><![CDATA[El presidente Luis Abinader retiró la condecoración de la Orden del Mérito de Duarte, Sánchez y Mella al agente de la DEA Melitón Cordero. La decisión se tomó tras supuestas irregularidades cometidas por Cordero, quien fue arrestado por presunto soborno y fraude de visas.
-
-Cordero, que trabajó en la Embajada de EE. UU. en República Dominicana, habría agilizado 119 solicitudes de visa, según la fiscal federal Jeanine Ferris Pirro. El caso es investigado por varias agencias, pero no se conocen avances judiciales.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779637216/autonoticias/articles/20260524_154015_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 24 May 2026 15:40:42 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260524154042</guid>
   </item>
 </channel>
 </rss>
