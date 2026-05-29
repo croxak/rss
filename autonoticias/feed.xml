@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 00:18:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 01:46:27 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Senador Antonio Taveras Guzmán pone a circular su libro "La democracia del favor"]]></title>
+    <link>https://www.diariolibre.com/revista/cultura/2026/05/28/senador-antonio-taveras-guzman-pone-a-circular-libro/3549466</link>
+    <description><![CDATA[El senador Antonio Taveras Guzmán lanzó su libro "La Democracia del Favor" en la Biblioteca Nacional. La obra explora el clientelismo político en República Dominicana, mostrando cómo la pobreza obliga a muchos a depender de favores para acceder a derechos básicos.
+
+Historias como la de doña Juana, enferma de cáncer, y un niño que vende paletas para sostener a su familia, ilustran la dependencia de favores en una estructura social desigual. El libro denuncia esta realidad y propone cambios para desmontar el sistema clientelar.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780019154/autonoticias/articles/20260529_014553_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 01:46:27 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529014627</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Superintendente de Bancos respalda actuación del BHD ante caso judicializado]]></title>
     <link>https://www.elcaribe.com.do/panorama/pais/superintendente-de-bancos-respalda-actuacion-del-bhd-ante-caso-judicializado/</link>
     <description><![CDATA[El superintendente de Bancos, Alejandro Fernández W., respaldó la actuación del Banco BHD en el caso de acreditaciones irregulares atribuido a un exempleado. Fernández destacó que el banco informó y actuó correctamente, sin comprometer la estabilidad de la entidad ni el riesgo para los depositantes.
@@ -1323,18 +1335,6 @@ El COE advierte sobre posibles crecidas de ríos, arroyos y cañadas, así como 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779478601/autonoticias/articles/20260522_193640_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 19:37:53 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260522193753</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El puente flotante será cerrado por 2 horas este sábado para permitir el paso de una embarcación]]></title>
-    <link>https://www.presidencia.gob.do/noticias/el-puente-flotante-sera-cerrado-por-2-horas-este-sabado-para-permitir-el-paso-de-una</link>
-    <description><![CDATA[El Ministerio de Obras Públicas y Comunicaciones (MOPC) informó que el puente flotante sobre el río Ozama será cerrado temporalmente este sábado 23 de mayo, de 10:00 a.m. a 12:00 p.m., para permitir el paso del buque a motor Belle Lashun III.
-
-El puente conecta el Distrito Nacional con Villa Duarte en Santo Domingo Este. Se exhorta a los conductores a tomar precauciones y utilizar los puentes Matías Ramón Mella, Juan Pablo Duarte y Juan Bosch como rutas alternas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779475712/autonoticias/articles/20260522_184832_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 18:49:06 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260522184906</guid>
   </item>
 </channel>
 </rss>
