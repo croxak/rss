@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 01:46:27 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 01:46:44 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Dimitrova conquista oro en Panam de Karate]]></title>
+    <link>https://elnuevodiario.com.do/dimitrova-conquista-oro-en-panam-de-karate/</link>
+    <description><![CDATA[María Dimitrova se alzó con la medalla de oro en kata al vencer a Gabrielle Henrique de Brasil con un marcador de 3-2 en el Campeonato Panamericano de Karate en Río de Janeiro. Dimitrova también superó a la venezolana Daniela García y a la chilena Gallo Araya en rondas anteriores.
+
+Anel Castillo y Ariel Rosario lograron medallas de bronce en sus respectivas categorías. Pamela Rodríguez y Karen Madera avanzaron a cuartos de final, pero no alcanzaron el podio. La delegación dominicana está respaldada por el Ministerio de Deportes y el Comité Olímpico Dominicano.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780019164/autonoticias/articles/20260529_014604_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 01:46:44 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529014644</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Senador Antonio Taveras Guzmán pone a circular su libro "La democracia del favor"]]></title>
     <link>https://www.diariolibre.com/revista/cultura/2026/05/28/senador-antonio-taveras-guzman-pone-a-circular-libro/3549466</link>
     <description><![CDATA[El senador Antonio Taveras Guzmán lanzó su libro "La Democracia del Favor" en la Biblioteca Nacional. La obra explora el clientelismo político en República Dominicana, mostrando cómo la pobreza obliga a muchos a depender de favores para acceder a derechos básicos.
@@ -1321,20 +1333,6 @@ Edeeste agradece la comprensión de los clientes y reitera su compromiso de apoy
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779478790/autonoticias/articles/20260522_193950_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 19:40:59 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260522194059</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[COE emite alerta verde para Santo Domingo, Monte Plata y San Cristóbal por lluvias]]></title>
-    <link>https://robertocavada.com/coe-emite-alerta-verde-para-santo-domingo-monte-plata-y-san-cristobal-por-lluvias/</link>
-    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha emitido una alerta verde para Santo Domingo, Monte Plata, San Cristóbal y el Distrito Nacional. Esta medida se debe a las condiciones meteorológicas actuales, que incluyen una vaguada y el viento cálido del este/sureste.
-
-Estas condiciones están generando lluvias moderadas a fuertes, tormentas eléctricas y ráfagas de viento en diversas zonas del país. Las lluvias tendrán mayor incidencia durante la tarde y primeras horas de la noche en varias provincias, incluyendo La Altagracia, Hato Mayor, El Seibo, entre otras.
-
-El COE advierte sobre posibles crecidas de ríos, arroyos y cañadas, así como inundaciones repentinas o urbanas. Se exhorta a la población a mantenerse atenta a los boletines oficiales y evitar cruzar cuerpos de agua con altos volúmenes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779478601/autonoticias/articles/20260522_193640_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 19:37:53 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260522193753</guid>
   </item>
 </channel>
 </rss>
