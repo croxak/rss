@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 22:34:02 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 22:35:13 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Se entrega “El Gánster”, vinculado al caso de la muerte de “La China” en Santiago]]></title>
+    <link>https://eldia.com.do/se-entrega-el-ganster-vinculado-al-caso-de-la-muerte-de-la-china-en-santiago/</link>
+    <description><![CDATA[José Luis Rodríguez, conocido como “El Gánster”, se entregó a la Policía Nacional en Santiago. Está implicado en el asesinato de Margarita Díaz García, alias “La China”, y en otros hechos violentos.
+
+La Policía informó que Rodríguez se presentó voluntariamente con su abogado. Tras el asesinato de “La China”, dos presuntos sicarios fueron hallados muertos en Jarabacoa, en lo que se presume fue una ejecución interna.
+
+Rodríguez también está vinculado a la muerte de Ramón María Montero y a las heridas de Robert Hans Sánchez Tejada. Será puesto a disposición del Ministerio Público.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780093929/autonoticias/articles/20260529_223209_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 22:35:13 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529223513</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno entrega hospital materno infantil en Barahona]]></title>
     <link>https://panorama.com.do/gobierno-entrega-hospital-materno-infantil-en-barahona/</link>
     <description><![CDATA[El presidente Luis Abinader inauguró el remozamiento y ampliación del Hospital Regional Materno Infantil Dr. Jaime Sánchez en Barahona. Este moderno centro especializado atenderá a mujeres, niños y recién nacidos de la región sur, con nuevas unidades de cuidados intensivos pediátricos.
@@ -1313,18 +1327,6 @@ Las autoridades investigan para identificar a los responsables de estas operacio
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779636198/autonoticias/articles/20260524_152317_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 24 May 2026 15:30:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260524153000</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ejército intercepta vehículo con 20 indocumentados en Valverde]]></title>
-    <link>https://panorama.com.do/ejercito-intercepta-vehiculo-con-20-indocumentados-en-valverde/</link>
-    <description><![CDATA[El Ejército de República Dominicana interceptó una jeepeta con 20 haitianos indocumentados en Valverde. La persecución comenzó cuando el conductor huyó al ver la patrulla y terminó al caer en un canal.
-
-El vehículo, una Kia Sorento LX 4×2, fue abandonado por el conductor. Dentro se encontraban 16 hombres, dos mujeres y dos menores, todos ilesos. Los detenidos fueron llevados a la Cuarta Brigada de Infantería y serán entregados a Migración para repatriación.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779636409/autonoticias/articles/20260524_152649_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 24 May 2026 15:29:22 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260524152922</guid>
   </item>
 </channel>
 </rss>
