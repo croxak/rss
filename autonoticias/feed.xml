@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 17:47:56 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 20:52:27 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Suben los combustibles: gasolina y gasoil aumentan entre RD$2 y RD$4]]></title>
+    <link>https://www.elcaribe.com.do/panorama/pais/sube-gasolina-y-gasoil-aumentan-entre-rd2-y-rd4/</link>
+    <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes informó sobre un aumento en los precios de la gasolina y el gasoil para la semana del 30 de mayo al 5 de junio. La gasolina premium y el gasoil óptimo subirán RD$4.00 por galón, mientras que la gasolina y el gasoil regular aumentarán RD$2.00.
+
+Además, se han dispuesto bajas en los precios del avtur, kerosene, fuel oíl y fuel oíl. El Gobierno ha destinado RD$954.9 millones en subsidios para mantener el precio del GLP congelado y ha subsidiado otros combustibles para no transferir el costo total a la población.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780087888/autonoticias/articles/20260529_205128_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 20:52:27 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529205227</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader asciende a más de 600 agentes antinarcóticos]]></title>
     <link>https://n.com.do/2026/05/29/abinader-asciende-a-mas-de-600-agentes-antinarcoticos-por-primera-vez-en-la-historia-del-organismo/</link>
     <description><![CDATA[El presidente Luis Abinader ascendió a 634 agentes de la Dirección Nacional de Control de Drogas (DNCD), marcando la primera promoción formal de rango en 38 años de la institución. Esta medida se realizó bajo el decreto 301-23, que establece el reglamento de la “Carrera del Agente” de la DNCD.
@@ -1313,20 +1325,6 @@ El Servicio Secreto y el FBI están investigando la situación y prometieron ofr
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779579330/autonoticias/articles/20260523_233530_article.webp" type="image/jpeg"/>
     <pubDate>Sat, 23 May 2026 23:36:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260523233606</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[FP respalda decisión JCE de prohibir encuestas fuera de precampaña y campaña electoral]]></title>
-    <link>https://panorama.com.do/fp-respalda-decision-jce-de-prohibir-encuestas-fuera-de-precampana-y-campana-electoral/</link>
-    <description><![CDATA[La Fuerza del Pueblo (FP) ha mostrado su respaldo a la decisión de la Junta Central Electoral (JCE) de prohibir la difusión de encuestas electorales fuera de los períodos oficiales de precampaña y campaña.
-
-Manuel Crespo, delegado político de la FP ante la JCE, recordó que la organización solicitó en mayo de 2025 la regulación de los sondeos electorales. Crespo valoró la disposición adoptada por el organismo electoral, aunque señaló que la respuesta llegó un año después de la petición.
-
-La resolución de la JCE establece sanciones para las firmas encuestadoras que incumplan la disposición, incluyendo la suspensión temporal de operaciones y la cancelación del registro oficial.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779567546/autonoticias/articles/20260523_201906_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 23 May 2026 20:19:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260523201940</guid>
   </item>
 </channel>
 </rss>
