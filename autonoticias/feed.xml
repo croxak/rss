@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 14:16:37 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 14:17:47 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Embajada de EE.UU. fija posición sobre visas y advierte contra uso político de la justicia]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/05/29/embajada-de-ee-uu-fija-postura-sobre-visas-y-justicia-2012359/</link>
+    <description><![CDATA[La Embajada de los Estados Unidos en Santo Domingo se pronunció sobre la atención mediática relacionada con visas, reafirmando su política de no comentar sobre casos individuales. La embajadora Leah F. Campos subrayó la importancia de un sistema judicial independiente para preservar la confianza pública.
+
+La diplomática rechazó cualquier intento de manipular los procesos judiciales con fines políticos, señalando que estas prácticas afectan la credibilidad de las instituciones democráticas. También mencionó situaciones en Estados Unidos, como los casos contra Donald Trump, que fueron rechazadas en las urnas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780064238/autonoticias/articles/20260529_141718_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 14:17:47 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529141747</guid>
+  </item>
+
+  <item>
     <title><![CDATA[DICRIM de la Policía Nacional desmantela banda dedicada a fraudes electrónicos y apresa cinco de sus integrantes]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/05/29/dicrim-desmantela-banda-de-fraudes-electronicos-2012364/</link>
     <description><![CDATA[La Dirección Central de Investigación (DICRIM) detuvo a cinco personas en Villa Francisca, Distrito Nacional, por fraudes electrónicos. Los acusados son Dauri Hansel Villanueva, José Ángel de Jesús Fereida, Yeykel Herasme Pérez, Kelvin Miguel Aybar Romero y Daivid José Aybar Romero. Un sexto implicado, "Ramón", está prófugo.
@@ -1313,20 +1325,6 @@ El INDOMET mantiene alerta meteorológica por riesgo de inundaciones y deslizami
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779545524/autonoticias/articles/20260523_141204_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 23 May 2026 14:12:29 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260523141229</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[MIREX anuncia visita oficial al país de la canciller de Ecuador, Gabriela Sommerfeld]]></title>
-    <link>https://robertocavada.com/mirex-anuncia-visita-oficial-al-pais-de-la-canciller-de-ecuador-gabriela-sommerfeld/</link>
-    <description><![CDATA[El Ministerio de Relaciones Exteriores de República Dominicana informó sobre la visita oficial de la canciller de Ecuador, Gabriela Sommerfeld, los días 24 y 25 de mayo.
-
-La ministra ecuatoriana llegará el domingo 24 por la noche y el lunes 25 sostendrá una reunión con el canciller dominicano Roberto Álvarez en la sede de la cancillería. Abordarán temas de interés común y se ofrecerá un almuerzo oficial en su honor.
-
-Se espera que Sommerfeld regrese a Ecuador el mismo lunes tras concluir su agenda.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779545228/autonoticias/articles/20260523_140708_article.webp" type="image/jpeg"/>
-    <pubDate>Sat, 23 May 2026 14:11:11 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260523141111</guid>
   </item>
 </channel>
 </rss>
