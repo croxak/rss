@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 22:35:13 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 22:35:27 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Salud Pública construirá tres hemocentros regionales para ampliar acceso a sangre gratuita]]></title>
+    <link>https://panorama.com.do/salud-publica-construira-tres-hemocentros-regionales-para-ampliar-acceso-a-sangre-gratuita/</link>
+    <description><![CDATA[El Hemocentro Nacional, bajo la dirección de Pedro Sing Ureña, construirá tres nuevos hemocentros regionales en Santiago, la región Este y la región Sur. Esta medida busca mejorar el acceso a sangre gratuita y fomentar la donación voluntaria.
+
+Para finales de 2027, se planea adquirir 12 unidades móviles de colecta de sangre y establecer seis centros fijos cerca de hospitales traumatológicos. Desde 2021, el Hemocentro ha ahorrado RD$326 millones a familias vulnerables.
+
+La donación voluntaria de sangre ha aumentado significativamente, y el déficit nacional de sangre se ha reducido considerablemente. El Hemocentro Nacional lidera en cobertura de hemoderivados en el país.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780093869/autonoticias/articles/20260529_223108_article.png" type="image/png"/>
+    <pubDate>Fri, 29 May 2026 22:35:27 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529223527</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Se entrega “El Gánster”, vinculado al caso de la muerte de “La China” en Santiago]]></title>
     <link>https://eldia.com.do/se-entrega-el-ganster-vinculado-al-caso-de-la-muerte-de-la-china-en-santiago/</link>
     <description><![CDATA[José Luis Rodríguez, conocido como “El Gánster”, se entregó a la Policía Nacional en Santiago. Está implicado en el asesinato de Margarita Díaz García, alias “La China”, y en otros hechos violentos.
@@ -1313,20 +1327,6 @@ Cordero, que trabajó en la Embajada de EE. UU. en República Dominicana, habrí
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779637216/autonoticias/articles/20260524_154015_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 24 May 2026 15:40:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260524154042</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Autoridades ocupan 133 paquetes de marihuana en operativos en el puerto de Haina Oriental]]></title>
-    <link>https://n.com.do/2026/05/24/autoridades-ocupan-133-paquetes-de-marihuana-en-operativos-en-el-puerto-de-haina-oriental/</link>
-    <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD) y el Ministerio Público incautaron 133 paquetes de marihuana en el Puerto de Haina Oriental, Santo Domingo Oeste. Los operativos contaron con el apoyo del Cuerpo Especializado de Seguridad Portuaria (CESEP) y la Dirección General de Aduanas.
-
-En el primer operativo, se encontraron 103 paquetes de marihuana en un contenedor procedente de Brooklyn, Estados Unidos. En el segundo, se hallaron 30 paquetes en un contenedor de Nueva York.
-
-Las autoridades investigan para identificar a los responsables de estas operaciones de tráfico de drogas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779636198/autonoticias/articles/20260524_152317_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 24 May 2026 15:30:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260524153000</guid>
   </item>
 </channel>
 </rss>
