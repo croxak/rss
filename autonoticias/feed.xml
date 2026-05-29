@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 00:17:17 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 00:18:59 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Superintendente de Bancos respalda actuación del BHD ante caso judicializado]]></title>
+    <link>https://www.elcaribe.com.do/panorama/pais/superintendente-de-bancos-respalda-actuacion-del-bhd-ante-caso-judicializado/</link>
+    <description><![CDATA[El superintendente de Bancos, Alejandro Fernández W., respaldó la actuación del Banco BHD en el caso de acreditaciones irregulares atribuido a un exempleado. Fernández destacó que el banco informó y actuó correctamente, sin comprometer la estabilidad de la entidad ni el riesgo para los depositantes.
+
+Durante la presentación de reediciones de la Colección Bibliófilos-BHD, Luis Molina Achécar, presidente del Centro Financiero BHD, reiteró el compromiso del banco con la ética y la responsabilidad. El monto involucrado en el caso supera los RD$ 200 millones, absorbido contablemente sin afectar los resultados financieros.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780013911/autonoticias/articles/20260529_001831_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 00:18:59 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529001859</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Jueza emitirá este viernes fallo de etapa preliminar del caso contra exministros del pasado Gobierno]]></title>
     <link>https://robertocavada.com/jueza-emitira-este-viernes-fallo-de-etapa-preliminar-del-caso-contra-exministros-del-pasado-gobierno/</link>
     <description><![CDATA[La jueza Altagracia Ramírez emitirá este viernes el fallo de la fase preliminar del caso contra los exministros Donald Guerrero Ortiz, Gonzalo Castillo y José Ramón Peralta. Este proceso ha durado más de cinco años desde los primeros interrogatorios en febrero de 2021.
@@ -1323,20 +1335,6 @@ El puente conecta el Distrito Nacional con Villa Duarte en Santo Domingo Este. S
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779475712/autonoticias/articles/20260522_184832_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 18:49:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260522184906</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno destina RD$1,588.5 millones para mantener congelados precios en los combustibles]]></title>
-    <link>https://panorama.com.do/gobierno-destina-rd1588-5-millones-para-mantener-congelados-precios-en-los-combustibles/</link>
-    <description><![CDATA[El Gobierno dominicano ha destinado RD$1,588.5 millones para mantener congelados los precios de combustibles esenciales y GLP del 23 al 29 de mayo. Las gasolinas premium y regular, los gasoil óptimo y regular, el gas natural y el GLP no verán cambios en sus precios.
-
-El Avtur, Kerosene, Fueloil y Fueloil tendrán aumentos. El subsidio por galón es de RD$21.88 para el GLP, RD$58.50 para la gasolina premium, RD$75.69 para la gasolina regular, RD$81.03 para el gasoil regular y RD$85.48 para el gasoil óptimo.
-
-Hasta ahora, el Gobierno ha destinado más de RD$16 mil millones en subsidios a los combustibles para mitigar el impacto de la crisis internacional.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779473158/autonoticias/articles/20260522_180557_article.webp" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 18:10:51 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260522181051</guid>
   </item>
 </channel>
 </rss>
