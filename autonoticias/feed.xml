@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 29 May 2026 12:55:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 13:51:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Antonio Taveras descarta rumores sobre posible salida hacia la Fuerza del Pueblo]]></title>
+    <link>https://eldia.com.do/antonio-taveras-descarta-rumores-sobre-posible-salida-hacia-la-fuerza-del-pueblo/</link>
+    <description><![CDATA[El senador Antonio Taveras Guzmán ha rechazado los rumores que lo vinculan con una posible salida hacia la Fuerza del Pueblo. Asegura que su decisión de dejar el bloque senatorial del PRM responde a diferencias con el rumbo del partido y la falta de reformas estructurales.
+
+Taveras enfatizó su compromiso con el desarrollo del país y el fortalecimiento de las instituciones, destacando que su trabajo en el Senado es visible para todos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780062600/autonoticias/articles/20260529_135000_article.webp" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 13:51:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529135114</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Sentencian dominicano a 40 años de prisión por asesinato de cuatro personas en NY]]></title>
     <link>https://elnuevodiario.com.do/sentencian-a-dominicano-a-40-anos-de-prision-por-asesinato-de-cuatro-personas-en-nueva-york/</link>
     <description><![CDATA[Randy Rodríguez, un dominicano de 31 años, ha sido sentenciado a un mínimo de 40 años de prisión por el asesinato de cuatro personas sin hogar en Nueva York en 2019. Los hechos ocurrieron en Chinatown, Manhattan, donde Rodríguez atacó a las víctimas con una barra de metal.
@@ -1315,20 +1327,6 @@ Los detenidos fueron trasladados a la Inspectoría ERD y al 10mo. Batallón de I
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779545152/autonoticias/articles/20260523_140552_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 23 May 2026 14:06:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260523140633</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Digemaps lanza programas para detectar patógenos y residuos químicos en carnes]]></title>
-    <link>https://www.diariolibre.com/actualidad/salud/2026/05/22/digemaps-lanza-controles-sanitarios-para-carnes-en-rd/3542654</link>
-    <description><![CDATA[La Dirección General de Medicamentos, Alimentos y Productos Sanitarios (Digemaps) ha lanzado los Programas Nacionales de Control de Patógenos y Residuos Químicos. Esta iniciativa busca fortalecer la inocuidad de la carne destinada al consumo humano y proteger la salud pública en el país.
-
-Los programas garantizan que los productos cárnicos estén libres de microorganismos, residuos químicos y sustancias prohibidas mediante controles sanitarios y vigilancia microbiológica. Se vigilan patógenos como Salmonella, E. coli O157:H7, STECs y Listeria monocytogenes, así como residuos de medicamentos veterinarios y pesticidas.
-
-La actividad se realizó en la Junta Agroempresarial Dominicana con el respaldo del Laboratorio Agroempresarial Dominicano.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779484934/autonoticias/articles/20260522_212214_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 21:23:02 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260522212302</guid>
   </item>
 </channel>
 </rss>
