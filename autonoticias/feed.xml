@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 28 May 2026 21:10:33 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 29 May 2026 00:12:11 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Presidente Abinader insta a estudiantes a prepararse en inglés, inteligencia artificial, ciberseguridad, ingeniería y carreras técnicas de alta demanda; afirma que son las profesiones del futuro]]></title>
+    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-insta-estudiantes-prepararse-en-ingles-inteligencia-artificial</link>
+    <description><![CDATA[El presidente Luis Abinader instó a estudiantes de Santo Domingo Oeste a prepararse en inglés, inteligencia artificial, ciberseguridad, ingeniería y carreras técnicas de alta demanda, asegurando que son las profesiones del futuro.
+
+Durante un encuentro en el Polideportivo de Las Caobas, los estudiantes presentaron propuestas sobre calidad educativa y seguridad escolar. Abinader destacó la importancia del inglés y las nuevas tecnologías, mencionando la alta demanda de profesionales en sectores como tecnología y ciberseguridad.
+
+Se discutió la seguridad en las escuelas y la integración de contenidos prácticos en la educación. El presidente también mencionó solicitudes de personal especializado en áreas médicas y tecnológicas desde Qatar y Emiratos Árabes Unidos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780013349/autonoticias/articles/20260529_000908_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 29 May 2026 00:12:11 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260529001211</guid>
+  </item>
+
+  <item>
     <title><![CDATA[IDAC, DA y FARD inauguran torre de control en San Isidro con inversión de RD$819 millones]]></title>
     <link>https://panorama.com.do/idac-da-y-fard-inauguran-torre-de-control-en-san-isidro-con-inversion-de-rd819-millones/</link>
     <description><![CDATA[El Instituto Dominicano de Aviación Civil, el Departamento Aeroportuario y la Fuerza Aérea de la República Dominicana inauguraron una nueva torre de control en la Base Aérea de San Isidro. La obra, con una inversión de RD$819 millones, fue encabezada por la vicepresidenta Raquel Peña.
@@ -1321,20 +1335,6 @@ Tres venezolanos fueron detenidos en una lancha rápida durante la operación. E
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779465750/autonoticias/articles/20260522_160230_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 16:03:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260522160302</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministro de Vivienda, Hábitat y Edificaciones inicia construcción del nuevo Centro de Corrección y Rehabilitación de Hato Mayor]]></title>
-    <link>https://www.presidencia.gob.do/noticias/ministro-de-vivienda-habitat-y-edificaciones-inicia-construccion-del-nuevo-centro-de</link>
-    <description><![CDATA[El ministro de Vivienda, Hábitat y Edificaciones, Víctor Bisonó, ha dado inicio a la construcción del nuevo Centro de Corrección y Rehabilitación en Hato Mayor. Este proyecto es parte de la visión del presidente Luis Abinader para un sistema penitenciario más humano y organizado.
-
-El centro tendrá capacidad para 400 internos y contará con espacios para educación, trabajo y esparcimiento. Además, incluirá áreas agrícolas y talleres para fomentar el autoconsumo y el aprendizaje técnico-agropecuario.
-
-La obra se realiza con mano de obra e insumos locales, impulsando así la economía de Hato Mayor.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779460080/autonoticias/articles/20260522_142759_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 14:38:22 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260522143822</guid>
   </item>
 </channel>
 </rss>
