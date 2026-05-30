@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 30 May 2026 14:32:54 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 30 May 2026 14:34:45 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Raquel Peña encabeza acto por 100 años del Himno a las Madres]]></title>
+    <link>https://www.elcaribe.com.do/panorama/region-norte/raquel-pena-encabeza-acto-por-100-anos-del-himno-a-las-madres/</link>
+    <description><![CDATA[La vicepresidenta Raquel Peña lideró un acto en el Gran Teatro del Cibao para celebrar los 100 años del Himno a las Madres y reconocer a mujeres destacadas en la cultura dominicana. Ingrid González de Rodríguez, Ivanova Casimiro, Martha Beato y Juana Expósito fueron homenajeadas por su compromiso social y cultural.
+
+Raquel Peña resaltó el papel de las madres en la sociedad y mencionó iniciativas como "Cariñito a las Madres", que beneficia a más de un millón de madres en situación de vulnerabilidad.
+
+El ministro de Cultura, Roberto Ángel Salcedo, destacó el valor del himno y la resiliencia de la mujer dominicana. La ceremonia incluyó música de la Orquesta Filarmónica de Santo Domingo y artistas como Jessy Savery y Marta Heredia.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780151656/autonoticias/articles/20260530_143416_article.webp" type="image/jpeg"/>
+    <pubDate>Sat, 30 May 2026 14:34:45 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260530143445</guid>
+  </item>
+
+  <item>
     <title><![CDATA["Voy por todo": Gonzalo Castillo anuncia sus aspiraciones presidenciales para el 2028 tras fallo judicial]]></title>
     <link>https://eldia.com.do/voy-por-todo-gonzalo-castillo-anuncia-sus-aspiraciones-presidenciales-para-el-2028-tras-fallo-judicial/</link>
     <description><![CDATA[Gonzalo Castillo, exministro de Obras Públicas, ha anunciado sus aspiraciones presidenciales para el 2028. Este anuncio se produce después de que fuera favorecido con un auto de no ha lugar en el caso Operación Calamar.
@@ -1317,18 +1331,6 @@ El cuerpo fue hallado en avanzado estado de descomposición en terrenos baldíos
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779711298/autonoticias/articles/20260525_121457_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 25 May 2026 12:15:09 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260525121509</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Leonel acusa al PRM de descuidar el interés nacional por priorizar su proyecto político desde el Gobierno]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/05/24/leonel-fernandez-acusa-al-prm-de-descuidar-interes-nacional-2006661/</link>
-    <description><![CDATA[Leonel Fernández, líder de la Fuerza del Pueblo, acusó al PRM de descuidar el interés nacional para fortalecer su proyecto político. Durante un evento en Santo Domingo, criticó al Gobierno por crear una crisis económica y aumentar la nómina pública para consolidar una base electoral.
-
-Fernández afirmó que el PRM busca reducir la participación ciudadana en los comicios y llamó a movilizarse para las elecciones de 2028. Destacó que la Fuerza del Pueblo busca impulsar transformaciones nacionales, priorizando la eliminación de apagones, acceso al agua potable, educación de calidad, modernización del sistema de salud y reducción del déficit habitacional.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779666402/autonoticias/articles/20260524_234642_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 24 May 2026 23:48:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260524234819</guid>
   </item>
 </channel>
 </rss>
