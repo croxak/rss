@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 30 May 2026 13:41:47 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 30 May 2026 14:32:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Abinader honra a quienes lucharon por la democracia en aniversario del ajusticiamiento de Trujillo]]></title>
+    <link>https://eldia.com.do/abinader-honra-a-quienes-lucharon-por-la-democracia-en-aniversario-del-ajusticiamiento-de-trujillo/</link>
+    <description><![CDATA[El presidente Luis Abinader rindió homenaje a los hombres y mujeres que lucharon por la democracia en el aniversario del ajusticiamiento de Rafael Leonidas Trujillo. En un mensaje en Instagram, Abinader destacó el legado de quienes participaron en este capítulo de la historia dominicana.
+
+Abinader afirmó que una nación debe ser capaz de dirigir su propio destino, guiada por principios de igualdad y respeto a los derechos ciudadanos. Cada 30 de mayo, la República Dominicana conmemora el ajusticiamiento de Trujillo, ocurrido en 1961, que marcó el fin de más de tres décadas de dictadura.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780151522/autonoticias/articles/20260530_143202_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 30 May 2026 14:32:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260530143240</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ejército detiene a 23 haitianos indocumentados que se ocultaban en zona boscosa de Guayubín]]></title>
     <link>https://n.com.do/2026/05/30/ejercito-detiene-a-23-haitianos-indocumentados-que-se-ocultaban-en-zona-boscosa-de-guayubin/</link>
     <description><![CDATA[El Ejército de República Dominicana detuvo a 23 haitianos indocumentados en una zona boscosa de Guayubín, Montecristi. La operación se llevó a cabo tras labores de inteligencia y con el apoyo de una patrulla del puesto de chequeo Mangá.
@@ -1317,20 +1329,6 @@ En cuanto a la agenda del PLD, Medina indicó que tras las asambleas nacionales,
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779651143/autonoticias/articles/20260524_193223_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 24 May 2026 19:33:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260524193300</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Carolina Mejía afirma en Santiago: “Estoy lista para ser presidenta”]]></title>
-    <link>https://noticiassin.com/politica/2026/05/24/carolina-mejia-lista-para-ser-presidenta-en-santiago-prm-2006520/</link>
-    <description><![CDATA[Carolina Mejía, secretaria general del PRM y aspirante presidencial, cerró su gira de rendición de cuentas en Santiago, reafirmando su aspiración a la presidencia de la República Dominicana.
-
-Mejía destacó su compromiso con los valores del PRM y aseguró que no gobernará sola, enfatizando su vínculo personal con el Cibao, región donde concluyó su recorrido.
-
-La dirigente defendió la gestión del PRM y el gobierno de Luis Abinader, resaltando el apoyo político recibido en el Cibao.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779650473/autonoticias/articles/20260524_192113_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 24 May 2026 19:21:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260524192140</guid>
   </item>
 </channel>
 </rss>
