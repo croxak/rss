@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 30 May 2026 14:34:45 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 30 May 2026 17:39:17 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Presidenta de Surinam arribó este sábado a la República Dominicana]]></title>
+    <link>https://www.presidencia.gob.do/noticias/presidenta-de-surinam-arribo-este-sabado-la-republica-dominicana</link>
+    <description><![CDATA[La presidenta de Surinam, Jennifer Geerlings-Simons, arribó a la República Dominicana este sábado para una visita oficial que se extenderá hasta el 2 de junio. Fue recibida con honores por el Condón Presidencial del Regimiento de la Guardia de Honor del Ministerio de Defensa.
+
+El lunes 1 de junio, Geerlings-Simons se reunirá con el presidente Luis Abinader en el Palacio Nacional. La agenda incluye una audiencia bilateral, la firma de instrumentos bilaterales y una ofrenda floral en el Altar de la Patria.
+
+El martes 2 de junio, la presidenta se reunirá con líderes del Senado y la Cámara de Diputados. Su salida está programada para las 4:50 de la tarde desde el Aeropuerto Internacional de Las Américas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780162662/autonoticias/articles/20260530_173741_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 30 May 2026 17:39:17 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260530173917</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Raquel Peña encabeza acto por 100 años del Himno a las Madres]]></title>
     <link>https://www.elcaribe.com.do/panorama/region-norte/raquel-pena-encabeza-acto-por-100-anos-del-himno-a-las-madres/</link>
     <description><![CDATA[La vicepresidenta Raquel Peña lideró un acto en el Gran Teatro del Cibao para celebrar los 100 años del Himno a las Madres y reconocer a mujeres destacadas en la cultura dominicana. Ingrid González de Rodríguez, Ivanova Casimiro, Martha Beato y Juana Expósito fueron homenajeadas por su compromiso social y cultural.
@@ -1319,18 +1333,6 @@ El Ministerio Público realizó evaluaciones psicológicas forenses para confirm
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779714512/autonoticias/articles/20260525_130831_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 25 May 2026 13:09:07 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260525130907</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Hallan mujer embarazada muerta en Miches; había sido reportada desaparecida]]></title>
-    <link>https://elnuevodiario.com.do/hallan-mujer-embarazada-muerta-en-miches-habia-sido-reportada-como-desaparecida/</link>
-    <description><![CDATA[Andreina García, de 36 años, fue encontrada muerta en Miches, provincia El Seibo. Había sido reportada desaparecida desde el 15 de mayo en Higüey. García, quien estaba embarazada, dejó una niña de 10 años en la orfandad.
-
-El cuerpo fue hallado en avanzado estado de descomposición en terrenos baldíos del sector El Asfalto. Las autoridades aún no han ofrecido más detalles ni informado sobre detenciones. Los familiares piden una investigación profunda.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779711298/autonoticias/articles/20260525_121457_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 25 May 2026 12:15:09 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260525121509</guid>
   </item>
 </channel>
 </rss>
