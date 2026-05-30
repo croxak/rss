@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 30 May 2026 14:32:40 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 30 May 2026 14:32:54 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA["Voy por todo": Gonzalo Castillo anuncia sus aspiraciones presidenciales para el 2028 tras fallo judicial]]></title>
+    <link>https://eldia.com.do/voy-por-todo-gonzalo-castillo-anuncia-sus-aspiraciones-presidenciales-para-el-2028-tras-fallo-judicial/</link>
+    <description><![CDATA[Gonzalo Castillo, exministro de Obras Públicas, ha anunciado sus aspiraciones presidenciales para el 2028. Este anuncio se produce después de que fuera favorecido con un auto de no ha lugar en el caso Operación Calamar.
+
+Castillo expresó su intención de llevar mayor bienestar a los hogares dominicanos y aseguró que será el nuevo presidente en 2028. La Operación Calamar es una investigación sobre un presunto entramado de corrupción administrativa.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780151478/autonoticias/articles/20260530_143118_article.webp" type="image/jpeg"/>
+    <pubDate>Sat, 30 May 2026 14:32:54 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260530143254</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader honra a quienes lucharon por la democracia en aniversario del ajusticiamiento de Trujillo]]></title>
     <link>https://eldia.com.do/abinader-honra-a-quienes-lucharon-por-la-democracia-en-aniversario-del-ajusticiamiento-de-trujillo/</link>
     <description><![CDATA[El presidente Luis Abinader rindió homenaje a los hombres y mujeres que lucharon por la democracia en el aniversario del ajusticiamiento de Rafael Leonidas Trujillo. En un mensaje en Instagram, Abinader destacó el legado de quienes participaron en este capítulo de la historia dominicana.
@@ -1317,18 +1329,6 @@ Fernández afirmó que el PRM busca reducir la participación ciudadana en los c
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779666402/autonoticias/articles/20260524_234642_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 24 May 2026 23:48:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260524234819</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Danilo Medina ve “sospechosa” suspensión de encuestas]]></title>
-    <link>https://panorama.com.do/danilo-medina-es-sumamente-sospechoso-que-sea-en-este-momento-que-se-suspendan-las-encuestas/</link>
-    <description><![CDATA[Danilo Medina, líder del PLD, expresó su descontento con la decisión de la JCE de eliminar las encuestas en el proceso político actual, calificándola de "sospechosa". Medina argumentó que en 2024 las encuestas favorecieron al gobierno y ahora se prohíben por temor a revelar la situación electoral del oficialismo.
-
-En cuanto a la agenda del PLD, Medina indicó que tras las asambleas nacionales, los precandidatos presidenciales tomarán protagonismo en la campaña. También aclaró que su "rinconcito" es simplemente su oficina de trabajo.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779651143/autonoticias/articles/20260524_193223_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 24 May 2026 19:33:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260524193300</guid>
   </item>
 </channel>
 </rss>
