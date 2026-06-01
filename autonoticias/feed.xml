@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 16:14:31 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 16:50:12 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Fallece por un infarto el exregidor César Guzmán]]></title>
+    <link>https://n.com.do/2026/06/01/fallece-por-un-infarto-el-exregidor-cesar-guzman/</link>
+    <description><![CDATA[César Guzmán, exregidor del municipio Santo Domingo Oeste y dirigente del Partido Revolucionario Dominicano (PRD), falleció este lunes tras sufrir un infarto. La noticia fue confirmada por una fuente cercana.
+
+En los últimos años, Guzmán se desempeñó como funcionario de la Unidad Ejecutora de la Presidencia, coordinando la Unidad Gubernamental de Rápida Acción (UGRA) en operativos de limpieza y apoyo a comunidades afectadas por emergencias ambientales.
+
+Guzmán tuvo una trayectoria destacada dentro del PRD, participando activamente en la política local y en causas comunitarias, lo que le permitió mantener un contacto cercano con las bases y los habitantes de Santo Domingo Oeste.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780330352/autonoticias/articles/20260601_161232_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 16:50:12 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601165012</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece coronel al caer de un edificio en Punta Cana]]></title>
     <link>https://listindiario.com/la-republica/provincias/20260601/fallece-coronel-caer-edificio-punta-cana_908003.html</link>
     <description><![CDATA[Juan Salvador Toribio Mejía, teniente coronel del Ejército Dominicano, falleció tras caer desde el cuarto nivel de su residencia en Verón Punta Cana. El hecho ocurrió en la madrugada del lunes en el residencial West Villa Village.
@@ -1319,18 +1333,6 @@ La combinación de fenómenos atmosféricos podría causar granizadas aisladas. 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779810084/autonoticias/articles/20260526_154123_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 15:42:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526154231</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Hipólito Mejía respalda prohibición de encuestas fuera de campaña]]></title>
-    <link>https://robertocavada.com/hipolito-mejia-respalda-prohibicion-de-encuestas-fuera-de-campana/</link>
-    <description><![CDATA[El ex presidente Hipólito Mejía ha mostrado su apoyo a la medida de la Junta Central Electoral que prohíbe la difusión de encuestas fuera del periodo de campaña.
-
-Mejía enfatizó la necesidad de penalizar y establecer orden en el país, criticando que "todo el mundo quiere hacer lo que le da la gana y decir lo que le dé la gana".]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779808628/autonoticias/articles/20260526_151707_article.webp" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 15:24:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526152434</guid>
   </item>
 </channel>
 </rss>
