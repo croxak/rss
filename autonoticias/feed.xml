@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 15:35:39 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 15:37:07 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Cae banda que se hacía pasar por taxistas para asaltar a extranjeros en Santiago y Bonao]]></title>
+    <link>https://elnuevodiario.com.do/cae-banda-que-se-hacia-pasar-por-taxistas-para-asaltar-extranjeros-en-santiago-y-bonao/</link>
+    <description><![CDATA[La Policía Nacional desarticuló una presunta banda que se hacía pasar por taxistas para asaltar a extranjeros en Santiago y Bonao. Los detenidos son Jordy Abreu Capellán, Elvin de Jesús Torres Espinal y Charli Peña. Un cuarto implicado, "El Patu", sigue prófugo.
+
+La banda captaba principalmente a kenianos que transitaban por el país tras realizar labores humanitarias en Haití. Interceptaban a las víctimas, las trasladaban a zonas apartadas y las despojaban de sus pertenencias.
+
+Las autoridades recuperaron una computadora portátil HP y varios teléfonos celulares como parte de las evidencias. Los detenidos serán puestos a disposición del Ministerio Público.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780328173/autonoticias/articles/20260601_153613_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 15:37:07 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601153707</guid>
+  </item>
+
+  <item>
     <title><![CDATA[PLD considera fallo a favor de Gonzalo Castillo y Peralta una reivindicación moral]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/06/01/pld-ve-fallo-a-favor-de-castillo-y-peralta-como-2014164/</link>
     <description><![CDATA[El Partido de la Liberación Dominicana (PLD) aseguró que la decisión judicial que favorece a Gonzalo Castillo y José Ramón Peralta es una reivindicación moral y evidencia la falta de fundamentos en las acusaciones.
@@ -1319,18 +1333,6 @@ El proyecto, que involucra la adquisición de inmuebles de 45 personas físicas 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779804236/autonoticias/articles/20260526_140356_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 14:04:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526140428</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ejército captura a 16 haitianos indocumentados durante patrullaje en Santiago]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/05/26/ejercito-detiene-16-haitianos-indocumentados-en-santiago-2007999/</link>
-    <description><![CDATA[El Ejército de República Dominicana realizó operativos en Santiago, deteniendo a 16 haitianos indocumentados. En un minibús interceptado, viajaban 11 haitianos junto al conductor José Luis Fernández Monegro y un cobrador sin documentos.
-
-Además, cinco haitianos fueron detenidos en la calle 30 de Marzo. Todos fueron entregados a la Dirección General de Migración.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779800771/autonoticias/articles/20260526_130611_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 13:07:07 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526130707</guid>
   </item>
 </channel>
 </rss>
