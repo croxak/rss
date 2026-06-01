@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 11:35:45 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 13:25:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Presidente Abinader recibirá este lunes a su homóloga de Surinam, Jennifer Geerlings-Simons, en el Palacio Nacional]]></title>
+    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-recibira-este-lunes-su-homologa-de-surinam-jennifer-geerlings-simons</link>
+    <description><![CDATA[El presidente Luis Abinader recibirá a su homóloga de Surinam, Jennifer Geerlings-Simons, este lunes en el Palacio Nacional. La ceremonia incluirá honores militares y una reunión privada.
+
+Las delegaciones de ambos países se reunirán para discutir temas bilaterales. Posteriormente, los jefes de Estado firmarán instrumentos bilaterales y ofrecerán una declaración conjunta.
+
+La visita concluirá con un almuerzo en el Salón Verde.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780320287/autonoticias/articles/20260601_132447_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 13:25:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601132520</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidente Abinader saluda compromiso de Colombia con la democracia en elecciones]]></title>
     <link>https://elnuevodiario.com.do/presidente-abinader-saluda-compromiso-de-colombia-con-la-democracia-en-elecciones/</link>
     <description><![CDATA[El presidente Luis Abinader de República Dominicana destacó el compromiso del pueblo colombiano con la democracia en las recientes elecciones. A través de su cuenta de X, felicitó a las autoridades electorales y a los candidatos que avanzaron a la segunda vuelta presidencial.
@@ -1317,20 +1331,6 @@ Se ordenó el decomiso de varios bienes, excepto un certificado financiero que f
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779756580/autonoticias/articles/20260526_004939_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 00:50:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526005005</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El Mived mantiene cierre de ocho negocios chinos y asegura que nuevos locales han sido intervenidos]]></title>
-    <link>https://www.diariolibre.com/economia/negocios/2026/05/25/mantienen-clausura-de-ocho-negocios-chinos-por-irregularidades/3545668</link>
-    <description><![CDATA[El Ministerio de Vivienda, Hábitat y Edificaciones (Mivhed) ha mantenido el cierre de ocho negocios chinos de un total de 14 clausurados entre agosto y octubre de 2025 por incumplimiento de normas. Seis de estos establecimientos han reabierto, incluyendo Suplax en la avenida Nicolás de Ovando.
-
-Edgar José Pellerano, director de Inspección de Obras Privadas, informó que han clausurado nuevas edificaciones de origen chino y otras nacionalidades debido a violaciones a la ley. De las 67 obras paradas, el 25 % corresponde a origen chino.
-
-El ministro Víctor Bisonó enfatizó que la clausura de negocios busca proteger vidas y no discriminar por nacionalidad, destacando la importancia de cumplir con las normas de construcción.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779756248/autonoticias/articles/20260526_004407_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 00:44:45 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526004445</guid>
   </item>
 </channel>
 </rss>
