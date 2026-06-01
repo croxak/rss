@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 31 May 2026 16:53:46 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 02:20:29 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Gustavo Petro dice que no acepta resultados del preconteo de las elecciones de Colombia]]></title>
+    <link>https://listindiario.com/las-mundiales/america/20260531/gustavo-petro-dice-acepta-resultados-preliminares-elecciones-colombia_907958.html</link>
+    <description><![CDATA[Gustavo Petro, presidente de Colombia, ha expresado su rechazo a los resultados del preconteo de las elecciones presidenciales. En estos resultados preliminares, su candidato quedó en segundo lugar.
+
+Abelardo de la Espriella, abogado derechista, lideró con el 43,7% de los votos, seguido por el senador oficialista Iván Cepeda con el 40,9%. El próximo presidente se definirá en un balotaje el 21 de junio.
+
+Petro declaró que solo aceptará los resultados oficiales del escrutinio, no los del preconteo.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780280389/autonoticias/articles/20260601_021949_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 02:20:29 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601022029</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ejército intercepta jeepeta con 17 haitianos indocumentados en Santiago Rodríguez]]></title>
     <link>https://eldia.com.do/ejercito-intercepta-jeepeta-con-17-haitianos-indocumentados-en-santiago-rodriguez/</link>
     <description><![CDATA[El Ejército de República Dominicana interceptó una jeepeta Kia Sorento, color rojo, placa G646761, que transportaba a 17 haitianos indocumentados en Santiago Rodríguez. El conductor huyó al notar la presencia militar, dejando el vehículo abandonado.
@@ -1317,18 +1331,6 @@ El Ministerio de Hacienda y Economía ha decidido habilitar gradualmente los rec
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779737908/autonoticias/articles/20260525_193827_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 25 May 2026 19:40:37 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260525194037</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Chofer del TRAE agredido por motoconcho: “Es muy fácil pedir perdón sin pensar lo que ocasionó”]]></title>
-    <link>https://n.com.do/2026/05/25/henry-arias-trae-agresion-santo-domingo-oeste/</link>
-    <description><![CDATA[Henry Arias, chofer del Sistema Nacional de Transporte Estudiantil (TRAE), fue agredido por un motoconcho en un incidente de tránsito en El Café de Herrera. La audiencia para conocer la medida de coerción contra el agresor fue aplazada.
-
-Arias comentó que pedir disculpas no borra el impacto del hecho.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779735170/autonoticias/articles/20260525_185250_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 25 May 2026 18:53:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260525185314</guid>
   </item>
 </channel>
 </rss>
