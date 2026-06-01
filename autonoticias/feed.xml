@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 15:05:06 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 15:35:39 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[PLD considera fallo a favor de Gonzalo Castillo y Peralta una reivindicación moral]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/06/01/pld-ve-fallo-a-favor-de-castillo-y-peralta-como-2014164/</link>
+    <description><![CDATA[El Partido de la Liberación Dominicana (PLD) aseguró que la decisión judicial que favorece a Gonzalo Castillo y José Ramón Peralta es una reivindicación moral y evidencia la falta de fundamentos en las acusaciones.
+
+Johnny Pujols, secretario general del PLD, afirmó que los expedientes carecían de pruebas sólidas y que el daño reputacional y emocional no puede ser reparado completamente.
+
+El PLD criticó el uso político de la justicia y advirtió sobre los riesgos para la democracia, rechazando la construcción de narrativas de culpabilidad antes de una sentencia definitiva.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780328100/autonoticias/articles/20260601_153459_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 15:35:39 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601153539</guid>
+  </item>
+
+  <item>
     <title><![CDATA[TC anula decreto que modificó escala de rangos y ascensos en las Fuerzas Armadas]]></title>
     <link>https://n.com.do/2026/06/01/tc-anula-decreto-que-modifico-escala-de-rangos-y-ascensos-en-las-fuerzas-armadas/</link>
     <description><![CDATA[El Tribunal Constitucional de República Dominicana anuló el Decreto 178-25, que modificaba la escala de rangos y ascensos en las Fuerzas Armadas, por invadir competencias del Congreso Nacional.
@@ -1317,20 +1331,6 @@ Además, cinco haitianos fueron detenidos en la calle 30 de Marzo. Todos fueron 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779800771/autonoticias/articles/20260526_130611_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 13:07:07 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526130707</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Identifican restos de dominicano desaparecido en la frontera México-EE.UU 18 años después]]></title>
-    <link>https://elnuevodiario.com.do/identifican-restos-de-dominicano-desaparecido-en-la-frontera-mexico-eeuu-18-anos-despues/</link>
-    <description><![CDATA[El Consulado General de la República Dominicana en Nueva York ha identificado los restos de Andrés Miguel Paulino, desaparecido desde 2008 al intentar cruzar la frontera México-EE.UU. 
-
-El hallazgo fue posible gracias al Equipo Argentino de Antropología Forense, que encontró la osamenta junto a pertenencias personales. Las autoridades dominicanas coordinaron pruebas de ADN para confirmar la identidad.
-
-Una reunión virtual se realizó para discutir los procedimientos y próximos pasos con representantes del Mirex y otras entidades.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779800716/autonoticias/articles/20260526_130516_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 13:05:49 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526130549</guid>
   </item>
 </channel>
 </rss>
