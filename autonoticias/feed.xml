@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 11:34:47 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 11:35:45 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Presidente Abinader saluda compromiso de Colombia con la democracia en elecciones]]></title>
+    <link>https://elnuevodiario.com.do/presidente-abinader-saluda-compromiso-de-colombia-con-la-democracia-en-elecciones/</link>
+    <description><![CDATA[El presidente Luis Abinader de República Dominicana destacó el compromiso del pueblo colombiano con la democracia en las recientes elecciones. A través de su cuenta de X, felicitó a las autoridades electorales y a los candidatos que avanzaron a la segunda vuelta presidencial.
+
+En Colombia, Abelardo de la Espriella e Iván Cepeda se enfrentarán en la segunda vuelta. De la Espriella lideró el conteo con 2.897.245 votos, mientras que Cepeda obtuvo 2.693.234 votos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780313719/autonoticias/articles/20260601_113518_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 11:35:45 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601113545</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Inicia la temporada ciclónica 2026; prevén ambiente caluroso y lluvias aisladas este lunes]]></title>
     <link>https://eldia.com.do/inicia-la-temporada-ciclonica-2026-preven-ambiente-caluroso-y-lluvias-aisladas-este-lunes/</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informó que este lunes 1 de junio inicia oficialmente la temporada ciclónica 2026 para el Atlántico Norte, el mar Caribe y el golfo de México, extendiéndose hasta el 30 de noviembre.
@@ -1319,18 +1331,6 @@ El ministro Víctor Bisonó enfatizó que la clausura de negocios busca proteger
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779756248/autonoticias/articles/20260526_004407_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 00:44:45 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526004445</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Jueces declaran culpable a Wander Franco de abuso sexual contra menor, pero le conceden perdón judicial]]></title>
-    <link>https://eldia.com.do/jueces-declaran-culpable-a-wander-franco-de-abuso-sexual-contra-menor-pero-le-conceden-perdon-judicial/</link>
-    <description><![CDATA[El Tribunal Colegiado de Puerto Plata declaró culpable a Wander Franco de abuso sexual y psicológico contra una adolescente, pero le otorgó el perdón judicial.
-
-Martha Vanessa Chevalier, madre de la menor, fue condenada a 10 años de prisión por abuso psicológico y lavado de activos. Se ordenó el decomiso de sus bienes, incluyendo un solar, un vehículo y dinero en efectivo.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779744520/autonoticias/articles/20260525_212840_article.webp" type="image/jpeg"/>
-    <pubDate>Mon, 25 May 2026 21:29:11 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260525212911</guid>
   </item>
 </channel>
 </rss>
