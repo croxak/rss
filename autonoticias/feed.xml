@@ -7,9 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 23:24:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 23:25:53 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[ADN dispone de más de 1,200 brigadistas ante inicio de la temporada ciclónica]]></title>
+    <link>https://panorama.com.do/alcaldia-del-dn-dispone-de-mas-de-1200-brigadistas-para-labores-preventivas-en-temporada-ciclonica/</link>
+    <description><![CDATA[La Alcaldía del Distrito Nacional ha preparado más de 1,200 brigadistas para enfrentar la temporada ciclónica, que se extiende hasta el 30 de noviembre. Esta medida es parte del plan del Comité de Prevención, Mitigación y Respuesta ante Desastres del Distrito Nacional.
+
+Durante una reunión en la Estación Central del Cuerpo de Bomberos del DN, se revisaron los planes de acción y se coordinaron medidas para reforzar la seguridad ciudadana. Elizabeth Mateo, secretaria general de la Alcaldía, anunció la creación de una brigada interinstitucional para intervenir 30 puntos críticos de la capital.
+
+El plan incluye la participación de juntas de vecinos, charlas preventivas, poda de árboles, limpieza de imbornales y verificación de señalizaciones. También se presentaron planes de comunicación y obras de mitigación.
+
+El Instituto Nacional de Meteorología informó que se esperan 13 fenómenos durante la temporada, de los cuales seis podrían convertirse en huracanes. En la reunión participaron diversas instituciones y entidades del sector salud, electricidad y transporte.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780356311/autonoticias/articles/20260601_232511_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 23:25:53 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601232553</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobernadora de Santiago denuncia venta irregular de apartamentos estatales en Hato del Yaque]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/06/01/gobernadora-de-santiago-denuncia-venta-de-apartamentos-estatales/3553001</link>
     <description><![CDATA[La gobernadora de Santiago, Rosa Santos, ha denunciado la venta irregular de apartamentos estatales en Hato del Yaque. Estos inmuebles, entregados bajo condiciones que los hacen intransferibles, están siendo comercializados de manera informal mediante acuerdos privados.
@@ -1323,18 +1339,6 @@ El informe también acusa al gobierno de ignorar elementos estructurales clave y
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779827940/autonoticias/articles/20260526_203859_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 20:39:29 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526203929</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Peritaje de Espaillat apunta que colapso Jet Set ocurrió por defectos de construcción, no por sobrecarga]]></title>
-    <link>https://n.com.do/2026/05/26/peritaje-de-los-espaillat-apunta-a-que-colapso-jet-set-ocurrio-por-defectos-de-construccion-no-por-sobrecarga/</link>
-    <description><![CDATA[La defensa de Antonio y Maribel Espaillat presentó un contraperitaje sobre el colapso de la discoteca Jet Set, que dejó 236 muertos en 2025. El informe, liderado por ingenieros como José Manuel Lockhart Romero, concluyó que el colapso fue por defectos de construcción y deterioro en las vigas, no por sobrecarga.
-
-Se identificaron fracturas, corrosión y "fisuración asistida por hidrógeno" en las estructuras internas. No se añadieron cargas significativas al techo en los tres años previos al colapso, salvo una membrana impermeabilizante. También se detectaron posibles defectos de construcción ocultos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779827789/autonoticias/articles/20260526_203629_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 20:36:55 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526203655</guid>
   </item>
 </channel>
 </rss>
