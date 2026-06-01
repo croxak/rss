@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 15:37:07 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 16:14:01 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Johnny Pujols: “Nunca ha habido un Ministerio Público independiente”]]></title>
+    <link>https://panorama.com.do/johnny-pujols-nunca-ha-habido-un-ministerio-publico-independiente/</link>
+    <description><![CDATA[Johnny Pujols, del Partido de la Liberación Dominicana, asegura que el Ministerio Público nunca ha sido independiente y critica su comportamiento selectivo, motivado por intereses políticos. Señala que los miembros del PLD no han recibido el mismo trato que otros acusados de corrupción.
+
+El exsenador Yván Lorenzo acusa a la procuradora Yeni Berenice Reynoso de manipular la justicia para perjudicar al PLD, transmitiendo en vivo medidas de coerción para generar rechazo hacia el partido. Lorenzo afirma que se intentó sepultar al PLD con estas acusaciones.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780330401/autonoticias/articles/20260601_161320_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 16:14:01 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601161401</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Cae banda que se hacía pasar por taxistas para asaltar a extranjeros en Santiago y Bonao]]></title>
     <link>https://elnuevodiario.com.do/cae-banda-que-se-hacia-pasar-por-taxistas-para-asaltar-extranjeros-en-santiago-y-bonao/</link>
     <description><![CDATA[La Policía Nacional desarticuló una presunta banda que se hacía pasar por taxistas para asaltar a extranjeros en Santiago y Bonao. Los detenidos son Jordy Abreu Capellán, Elvin de Jesús Torres Espinal y Charli Peña. Un cuarto implicado, "El Patu", sigue prófugo.
@@ -1321,18 +1333,6 @@ Zapatero ha negado las acusaciones, afirmando en un vídeo que nunca ha realizad
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779804303/autonoticias/articles/20260526_140502_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 14:05:36 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526140536</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El Gobierno declara de utilidad pública terrenos en Boca Chica para ampliación de Las Américas]]></title>
-    <link>https://www.diariolibre.com/politica/gobierno/2026/05/25/declaran-de-utilidad-terrenos-de-ampliacion-autopista-las-americas/3543041</link>
-    <description><![CDATA[El Gobierno ha declarado de utilidad pública 25,067.80 metros cuadrados de terrenos en Boca Chica para la ampliación de la autopista Las Américas. Esta medida, bajo el decreto 270-26 del presidente Luis Abinader, busca mejorar la vialidad y el desarrollo de la zona.
-
-El proyecto, que involucra la adquisición de inmuebles de 45 personas físicas y nueve jurídicas, tiene como objetivo incrementar la seguridad y reducir los tiempos de desplazamiento. El justiprecio será pagado con fondos del MOPC, y en caso de desacuerdo, se procederá a la expropiación según las leyes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779804236/autonoticias/articles/20260526_140356_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 14:04:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526140428</guid>
   </item>
 </channel>
 </rss>
