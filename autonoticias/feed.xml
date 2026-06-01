@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 18:18:48 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 20:08:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Ministerio de Trabajo reitera que el jueves de Corpus Christi no es laborable]]></title>
+    <link>https://www.presidencia.gob.do/noticias/ministerio-de-trabajo-reitera-que-el-jueves-de-corpus-christi-no-es-laborable</link>
+    <description><![CDATA[El Ministerio de Trabajo de República Dominicana informa que el jueves 4 de junio, día de Corpus Christi, no será laborable. Esta disposición aplica tanto para el sector público como privado, según la Ley Núm. 139-97.
+
+Las actividades laborales se reanudarán el viernes 5 de junio.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780344319/autonoticias/articles/20260601_200519_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 20:08:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601200820</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Recetas médicas tendrán cobertura aunque el médico no pertenezca a la ARS, informa CNSS]]></title>
     <link>https://eldia.com.do/cnss-valida-recetas-emitidas-fuera-de-la-red-de-ars/</link>
     <description><![CDATA[Los afiliados al Sistema Dominicano de Seguridad Social (SDSS) ahora podrán recibir cobertura para medicamentos con recetas de médicos no contratados por su ARS. Esta medida fue anunciada por el Consejo Nacional de Seguridad Social (CNSS) y aprobada mediante el Decreto 286-26.
@@ -1321,18 +1333,6 @@ Durante el incidente, Gelabert González también agredió a la asistente del ch
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779818192/autonoticias/articles/20260526_175631_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 17:56:59 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526175659</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Hombre muere aplastado por máquina perforadora en construcción en Santiago]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/05/26/muere-obrero-aplastado-por-maquina-perforadora-en-santiago-2008356/</link>
-    <description><![CDATA[Dagoberto Sánchez de los Santos, de 54 años, falleció en un accidente laboral en Los Cerros de Gurabo III, Santiago. El obrero fue aplastado por una máquina perforadora que colapsó mientras trabajaba en una obra de construcción.
-
-El cuerpo fue levantado por el Inacif, y el Cuerpo de Bomberos asistió en el rescate. La Policía Nacional y el Ministerio Público investigan las circunstancias del accidente.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779814334/autonoticias/articles/20260526_165214_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 16:53:02 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526165302</guid>
   </item>
 </channel>
 </rss>
