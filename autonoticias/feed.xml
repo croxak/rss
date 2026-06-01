@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 02:20:29 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 02:20:43 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Uribe reconoce derrota en consulta y respalda candidatura de Abelardo de la Espriella]]></title>
+    <link>https://n.com.do/2026/05/31/uribe-respalda-abelardo-de-la-espriella/</link>
+    <description><![CDATA[El expresidente colombiano Álvaro Uribe reconoció la derrota de su sector político en una consulta interna y asumió la responsabilidad por los resultados obtenidos. Uribe felicitó al abogado Abelardo de la Espriella por su victoria y aseguró que cumplirá con el compromiso de respaldar su candidatura presidencial.
+
+Uribe destacó el liderazgo de la senadora Paloma Valencia y cuestionó el rumbo político del país bajo el gobierno del presidente Gustavo Petro. Llamó a los ciudadanos a respaldar la candidatura de Abelardo de la Espriella en las próximas elecciones presidenciales.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780280376/autonoticias/articles/20260601_021935_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 02:20:43 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601022043</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gustavo Petro dice que no acepta resultados del preconteo de las elecciones de Colombia]]></title>
     <link>https://listindiario.com/las-mundiales/america/20260531/gustavo-petro-dice-acepta-resultados-preliminares-elecciones-colombia_907958.html</link>
     <description><![CDATA[Gustavo Petro, presidente de Colombia, ha expresado su rechazo a los resultados del preconteo de las elecciones presidenciales. En estos resultados preliminares, su candidato quedó en segundo lugar.
@@ -1319,18 +1331,6 @@ En energía, se invitó a República Dominicana a explorar inversiones en el cam
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779740054/autonoticias/articles/20260525_201414_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 25 May 2026 20:14:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260525201458</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente del Poder Judicial se reunirá con Hacienda por indexación salarial de jueces]]></title>
-    <link>https://eldia.com.do/presidente-del-poder-judicial-se-reunira-con-hacienda-por-indexacion-salarial-de-jueces/</link>
-    <description><![CDATA[El presidente del Poder Judicial, Henry Molina, se reunirá con el ministro de Hacienda y Economía, Magín Díaz, para tratar la indexación salarial de jueces y servidores judiciales. Esta reunión busca abordar los reclamos de aumento salarial y mejoras laborales tras un paro de jueces el 21 de mayo.
-
-El Ministerio de Hacienda y Economía ha decidido habilitar gradualmente los recursos necesarios en los presupuestos de 2026 y 2027 para apoyar la indexación salarial, el acceso a la justicia, la infraestructura judicial, la optimización de procesos y la lucha contra la mora judicial.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779737908/autonoticias/articles/20260525_193827_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 25 May 2026 19:40:37 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260525194037</guid>
   </item>
 </channel>
 </rss>
