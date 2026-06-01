@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 16:50:12 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 16:56:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Guido Gómez Mazara destaca madurez cívica y transparencia de las elecciones en Colombia]]></title>
+    <link>https://n.com.do/2026/06/01/guido-gomez-mazara-destaca-madurez-civica-y-transparencia-de-las-elecciones-en-colombia/</link>
+    <description><![CDATA[Guido Gómez Mazara, responsable de la misión de COPPPAL, destacó la madurez cívica y transparencia en las elecciones de Colombia. A través de su cuenta X, informó que el proceso electoral se enfrentará a una segunda vuelta para decidir el nuevo gobernante.
+
+El presidente dominicano, Luis Abinader, felicitó al pueblo colombiano por su participación en las elecciones presidenciales, destacando el compromiso con la democracia y la participación cívica.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780332961/autonoticias/articles/20260601_165600_article.webp" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 16:56:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601165655</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece por un infarto el exregidor César Guzmán]]></title>
     <link>https://n.com.do/2026/06/01/fallece-por-un-infarto-el-exregidor-cesar-guzman/</link>
     <description><![CDATA[César Guzmán, exregidor del municipio Santo Domingo Oeste y dirigente del Partido Revolucionario Dominicano (PRD), falleció este lunes tras sufrir un infarto. La noticia fue confirmada por una fuente cercana.
@@ -1321,18 +1333,6 @@ El incidente ocurrió el 25 de junio de 2023. La víctima fue llevada a un hotel
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779810161/autonoticias/articles/20260526_154240_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 15:43:43 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526154343</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[¡Atentos! Se espera inundaciones repentinas ante fuertes aguaceros por vaguada]]></title>
-    <link>https://n.com.do/2026/05/26/atentos-se-espera-inundaciones-repentinas-ante-fuertes-aguaceros-por-vaguada/</link>
-    <description><![CDATA[El consultor meteorológico Jean Suriel advierte sobre el aumento del potencial de inundaciones repentinas en República Dominicana debido a la onda tropical número 5 y una vaguada. Se esperan aguaceros torrenciales, ráfagas de viento y descargas eléctricas en varias provincias.
-
-La combinación de fenómenos atmosféricos podría causar granizadas aisladas. Para mañana, la onda tropical se alejará, pero la vaguada seguirá provocando lluvias. Además, se espera la llegada de una nube de polvo del Sahara, afectando a personas con alergias.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779810084/autonoticias/articles/20260526_154123_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 15:42:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526154231</guid>
   </item>
 </channel>
 </rss>
