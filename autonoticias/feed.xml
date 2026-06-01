@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 21:45:23 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 23:24:11 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Gobernadora de Santiago denuncia venta irregular de apartamentos estatales en Hato del Yaque]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/06/01/gobernadora-de-santiago-denuncia-venta-de-apartamentos-estatales/3553001</link>
+    <description><![CDATA[La gobernadora de Santiago, Rosa Santos, ha denunciado la venta irregular de apartamentos estatales en Hato del Yaque. Estos inmuebles, entregados bajo condiciones que los hacen intransferibles, están siendo comercializados de manera informal mediante acuerdos privados.
+
+Muchos beneficiarios, reubicados desde zonas vulnerables, venden los apartamentos y regresan a áreas de riesgo. Esta situación complica los esfuerzos de las autoridades para reducir los asentamientos en zonas peligrosas.
+
+Santos exhortó al Ministerio de la Vivienda y Edificaciones a reforzar la supervisión de los apartamentos entregados por el Estado para evitar esta práctica.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780356201/autonoticias/articles/20260601_232321_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 23:24:11 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601232411</guid>
+  </item>
+
+  <item>
     <title><![CDATA[“No hay vuelta atrás”: Otra vez, Juan Manuel Méndez señala intenciones de dejar el COE]]></title>
     <link>https://listindiario.com/la-republica/politica/20260601/hay-vuelta-vez-juan-manuel-mendez-senala-intenciones-dejar-coe_908054.html</link>
     <description><![CDATA[Juan Manuel Méndez, director del COE, anunció en sus redes sociales que en las próximas horas hará un anuncio trascendental. Méndez, quien es uno de los funcionarios mejor valorados del gabinete de Luis Abinader, indicó que su decisión impactará el presente y el futuro.
@@ -1321,18 +1335,6 @@ Se identificaron fracturas, corrosión y "fisuración asistida por hidrógeno" e
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779827789/autonoticias/articles/20260526_203629_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 20:36:55 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526203655</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Miguel Mejía informa venció el cáncer tras seis meses de batalla médica]]></title>
-    <link>https://n.com.do/2026/05/26/miguel-mejia-informa-vencio-el-cancer-tras-seis-meses-de-batalla-medica/</link>
-    <description><![CDATA[Miguel Mejía, abogado y secretario general del Movimiento Izquierda Unida, ha superado un linfoma de células T tras seis meses de tratamiento en Sao Paulo, Brasil. Fue ingresado de urgencia en el Hospital Sirio Libanés, donde recibió quimioterapia, inmunoterapia y radioterapia.
-
-El pasado 7 de mayo, un Pet Scan confirmó que la lesión fue superada y que ningún otro órgano resultó afectado. Mejía continúa en recuperación, pero asegura que vive una nueva etapa marcada por la esperanza y la victoria.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779824066/autonoticias/articles/20260526_193426_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 19:34:54 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526193454</guid>
   </item>
 </channel>
 </rss>
