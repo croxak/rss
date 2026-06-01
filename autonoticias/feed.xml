@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 16:14:01 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 16:14:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Fallece coronel al caer de un edificio en Punta Cana]]></title>
+    <link>https://listindiario.com/la-republica/provincias/20260601/fallece-coronel-caer-edificio-punta-cana_908003.html</link>
+    <description><![CDATA[Juan Salvador Toribio Mejía, teniente coronel del Ejército Dominicano, falleció tras caer desde el cuarto nivel de su residencia en Verón Punta Cana. El hecho ocurrió en la madrugada del lunes en el residencial West Villa Village.
+
+Las autoridades, incluyendo la Dirección Central de Investigación (Dicrim), la Policía Científica, el Ministerio Público y un médico legista, acudieron al lugar. El médico legista certificó que la causa de muerte fue un shock hemorrágico por trauma craneoencefálico severo. El arma de reglamento del oficial no fue encontrada y el caso sigue bajo investigación.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780330445/autonoticias/articles/20260601_161404_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 16:14:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601161431</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Johnny Pujols: “Nunca ha habido un Ministerio Público independiente”]]></title>
     <link>https://panorama.com.do/johnny-pujols-nunca-ha-habido-un-ministerio-publico-independiente/</link>
     <description><![CDATA[Johnny Pujols, del Partido de la Liberación Dominicana, asegura que el Ministerio Público nunca ha sido independiente y critica su comportamiento selectivo, motivado por intereses políticos. Señala que los miembros del PLD no han recibido el mismo trato que otros acusados de corrupción.
@@ -1319,20 +1331,6 @@ Mejía enfatizó la necesidad de penalizar y establecer orden en el país, criti
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779808628/autonoticias/articles/20260526_151707_article.webp" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 15:24:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526152434</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Aplazada la declaración de Zapatero hasta 17 y 18 de junio en caso de aerolínea Plus Ultra]]></title>
-    <link>https://www.diariolibre.com/mundo/espana/2026/05/26/aplazada-la-declaracion-de-jose-luis-rodriguez-zapatero/3546202</link>
-    <description><![CDATA[El juez José Luis Calama ha aplazado la declaración de José Luis Rodríguez Zapatero al 17 y 18 de junio. Zapatero está siendo investigado por presunto tráfico de influencias en favor de la aerolínea Plus Ultra.
-
-La defensa de Zapatero solicitó el aplazamiento debido a la extensión del sumario. El juez considera que Zapatero podría haber utilizado sus contactos para obtener beneficios económicos.
-
-Zapatero ha negado las acusaciones, afirmando en un vídeo que nunca ha realizado gestiones en relación con el rescate de la aerolínea. Este caso ha generado una tormenta política en España.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779804303/autonoticias/articles/20260526_140502_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 14:05:36 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526140536</guid>
   </item>
 </channel>
 </rss>
