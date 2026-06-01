@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 21:08:35 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 21:45:23 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[“No hay vuelta atrás”: Otra vez, Juan Manuel Méndez señala intenciones de dejar el COE]]></title>
+    <link>https://listindiario.com/la-republica/politica/20260601/hay-vuelta-vez-juan-manuel-mendez-senala-intenciones-dejar-coe_908054.html</link>
+    <description><![CDATA[Juan Manuel Méndez, director del COE, anunció en sus redes sociales que en las próximas horas hará un anuncio trascendental. Méndez, quien es uno de los funcionarios mejor valorados del gabinete de Luis Abinader, indicó que su decisión impactará el presente y el futuro.
+
+Hace meses, Méndez expresó su deseo de que el operativo de Semana Santa 2026 fuera el último bajo su dirección, tras 29 años de servicio. También había comunicado su intención de retirarse por motivos de salud y para dedicar más tiempo a su familia.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780350283/autonoticias/articles/20260601_214442_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 21:45:23 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601214523</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Agricultura lanzará plan piloto de mecanización con una inversión de RD$500 millones]]></title>
     <link>https://eldia.com.do/agricultura-lanzara-plan-piloto-de-mecanizacion-con-una-inversion-de-rd500-millones/</link>
     <description><![CDATA[El Ministerio de Agricultura, encabezado por Francisco Oliverio Espaillat, lanzará el Programa Nacional de Mecanización el próximo mes con una inversión de RD$500 millones. Este plan piloto se aplicará en Monte Cristi, Mao, San Juan de la Maguana, la región Nordeste y Constanza.
@@ -1321,18 +1333,6 @@ El pasado 7 de mayo, un Pet Scan confirmó que la lesión fue superada y que nin
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779824066/autonoticias/articles/20260526_193426_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 19:34:54 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526193454</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Abinader anuncia transformación integral de Boca Chica con inversión superior a RD 20,000 millones]]></title>
-    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-anuncia-transformacion-integral-de-boca-chica-con-inversion-superior</link>
-    <description><![CDATA[El presidente Luis Abinader anunció una inversión público-privada superior a RD 20,000 millones para transformar Boca Chica en un polo logístico y turístico. El plan incluye mejoras en agua potable, saneamiento y vialidad, así como la recuperación de espacios públicos.
-
-El proyecto Costa Blanca se desarrollará con áreas residenciales y recreativas. También se fortalecerá el sistema eléctrico y se entregarán títulos de propiedad a más de 2,000 familias.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779820576/autonoticias/articles/20260526_183615_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 18:36:44 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526183644</guid>
   </item>
 </channel>
 </rss>
