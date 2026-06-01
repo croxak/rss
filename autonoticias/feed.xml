@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 02:20:43 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 02:22:26 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Subsectetario de Estado de EE.UU. visita AES Dominicana]]></title>
+    <link>https://robertocavada.com/subsectetario-de-estado-de-ee-uu-visita-aes-dominicana/</link>
+    <description><![CDATA[El Subsecretario de Estado de EE.UU., Christopher Landau, visitó AES Dominicana en Boca Chica, acompañado de la embajadora Leah Campos y una comisión oficial del Gobierno norteamericano. La agenda incluyó un recorrido por el complejo energético AES Andrés y la presentación del modelo operativo de su terminal de Gas Natural Licuado (GNL).
+
+AES Dominicana es el principal punto de entrada de gas natural estadounidense en América Latina y representa la mayor inversión de capital de EE.UU. en el país, con más de US$2,400 millones en infraestructura energética.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780280518/autonoticias/articles/20260601_022157_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 02:22:26 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601022226</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Uribe reconoce derrota en consulta y respalda candidatura de Abelardo de la Espriella]]></title>
     <link>https://n.com.do/2026/05/31/uribe-respalda-abelardo-de-la-espriella/</link>
     <description><![CDATA[El expresidente colombiano Álvaro Uribe reconoció la derrota de su sector político en una consulta interna y asumió la responsabilidad por los resultados obtenidos. Uribe felicitó al abogado Abelardo de la Espriella por su victoria y aseguró que cumplirá con el compromiso de respaldar su candidatura presidencial.
@@ -1317,20 +1329,6 @@ La defensa de Chevalier ha anunciado que apelará la decisión del tribunal.]]><
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779740966/autonoticias/articles/20260525_202926_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 25 May 2026 20:29:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260525202958</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Cancilleres de Ecuador y República Dominicana acuerdan impulsar proyectos bilaterales en beneficio de ambos países]]></title>
-    <link>https://www.presidencia.gob.do/noticias/cancilleres-de-ecuador-y-republica-dominicana-acuerdan-impulsar-proyectos-bilaterales-en</link>
-    <description><![CDATA[Los cancilleres de Ecuador y República Dominicana, Gabriela Sommerfeld y Roberto Álvarez, se reunieron en Santo Domingo para fortalecer la relación bilateral en política, economía, turismo y energía. Acordaron avanzar en un Acuerdo Comercial de Alcance Parcial y en la implementación de un memorando sobre zonas francas.
-
-Hicieron un llamado a la comunidad internacional para abordar la situación en Haití y apoyaron la Fuerza de Supresión de Pandillas. También destacaron la firma de acuerdos en turismo y gastronomía, y la negociación de un Acuerdo de Intercambio de Información Migratoria.
-
-En energía, se invitó a República Dominicana a explorar inversiones en el campo de gas natural "Amistad". Resaltaron el cumplimiento del Programa de Cooperación Técnica Bilateral y la próxima VI Comisión Mixta de Cooperación. También reafirmaron la importancia de un acuerdo en salud y la realización de la I Reunión del Mecanismo de Consultas Políticas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779740054/autonoticias/articles/20260525_201414_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 25 May 2026 20:14:58 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260525201458</guid>
   </item>
 </channel>
 </rss>
