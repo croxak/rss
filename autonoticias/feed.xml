@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 13:25:20 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 13:50:12 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Investigan hallazgo de cadáver de una mujer en el Distrito Nacional]]></title>
+    <link>https://panorama.com.do/investigan-hallazgo-de-cadaver-de-una-mujer-en-el-distrito-nacional/</link>
+    <description><![CDATA[La Policía Nacional investiga el hallazgo del cadáver de Katianely Sánchez Solís, de 30 años, encontrado la madrugada del domingo cerca de una cabaña en el kilómetro 12 de la carretera Sánchez, Distrito Nacional.
+
+El Instituto Nacional de Ciencias Forenses determinará la causa oficial de la muerte. Empleados del lugar notificaron al 9-1-1 tras descubrir el cuerpo.
+
+La DICRIM y el Ministerio Público realizan entrevistas y analizan evidencias. Varias personas están bajo investigación. La Policía trabaja para identificar a los responsables y promete más detalles conforme avance la investigación.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780320819/autonoticias/articles/20260601_133339_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 13:50:12 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601135012</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidente Abinader recibirá este lunes a su homóloga de Surinam, Jennifer Geerlings-Simons, en el Palacio Nacional]]></title>
     <link>https://www.presidencia.gob.do/noticias/presidente-abinader-recibira-este-lunes-su-homologa-de-surinam-jennifer-geerlings-simons</link>
     <description><![CDATA[El presidente Luis Abinader recibirá a su homóloga de Surinam, Jennifer Geerlings-Simons, este lunes en el Palacio Nacional. La ceremonia incluirá honores militares y una reunión privada.
@@ -1317,20 +1331,6 @@ La participación en el NASA Human Exploration Rover Challenge y la alianza con 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779800635/autonoticias/articles/20260526_130354_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 13:04:30 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526130430</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[MP apelará sentencia que declara a Wander Franco culpable y a la vez le otorga un perdón judicial]]></title>
-    <link>https://www.elcaribe.com.do/panorama/pais/mp-apelara-sentencia-que-declara-a-wander-franco-culpable/</link>
-    <description><![CDATA[El Ministerio Público apelará la sentencia que declaró culpable a Wander Samuel Franco Aybar, pero le otorgó un perdón judicial. El tribunal de Puerto Plata, compuesto por los jueces José Ramón Núñez, Jenny Amarilis Martínez y Praire Ruiz, conoció el caso.
-
-La madre de la adolescente fue condenada a 10 años de prisión por explotación sexual comercial y lavado de activos. Los fiscales destacaron la contundencia de las pruebas presentadas.
-
-Se ordenó el decomiso de varios bienes, excepto un certificado financiero que fue entregado a la menor de edad.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779756580/autonoticias/articles/20260526_004939_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 00:50:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526005005</guid>
   </item>
 </channel>
 </rss>
