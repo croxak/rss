@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 16:56:55 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 18:18:48 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Recetas médicas tendrán cobertura aunque el médico no pertenezca a la ARS, informa CNSS]]></title>
+    <link>https://eldia.com.do/cnss-valida-recetas-emitidas-fuera-de-la-red-de-ars/</link>
+    <description><![CDATA[Los afiliados al Sistema Dominicano de Seguridad Social (SDSS) ahora podrán recibir cobertura para medicamentos con recetas de médicos no contratados por su ARS. Esta medida fue anunciada por el Consejo Nacional de Seguridad Social (CNSS) y aprobada mediante el Decreto 286-26.
+
+La gerente general del CNSS, Aura Celeste Fernández Rodríguez, explicó que esta disposición fortalece la libertad de elección de los afiliados y mejora la continuidad de la atención médica dentro del Seguro Familiar de Salud (SFS).]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780337882/autonoticias/articles/20260601_181801_article.webp" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 18:18:48 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601181848</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Guido Gómez Mazara destaca madurez cívica y transparencia de las elecciones en Colombia]]></title>
     <link>https://n.com.do/2026/06/01/guido-gomez-mazara-destaca-madurez-civica-y-transparencia-de-las-elecciones-en-colombia/</link>
     <description><![CDATA[Guido Gómez Mazara, responsable de la misión de COPPPAL, destacó la madurez cívica y transparencia en las elecciones de Colombia. A través de su cuenta X, informó que el proceso electoral se enfrentará a una segunda vuelta para decidir el nuevo gobernante.
@@ -1321,18 +1333,6 @@ El cuerpo fue levantado por el Inacif, y el Cuerpo de Bomberos asistió en el re
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779814334/autonoticias/articles/20260526_165214_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 16:53:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526165302</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio Público apelará condena de 10 años impuesta por tribunal de Hato Mayor a hombre que violó a una mujer mientras la amenazaba con una pistola]]></title>
-    <link>https://pgr.gob.do/ministerio-publico-apelara-condena-de-10-anos-impuesta-por-tribunal-de-hato-mayor-a-hombre-que-violo-a-una-mujer-mientras-la-amenazaba-con-una-pistola/</link>
-    <description><![CDATA[El Ministerio Público de Hato Mayor apelará la condena de 10 años de prisión impuesta a Yirber Antonio Sánchez de la Cruz por violar a una mujer en 2023. Se había solicitado una condena de 20 años.
-
-El incidente ocurrió el 25 de junio de 2023. La víctima fue llevada a un hotel por Sánchez de la Cruz, quien la agredió sexualmente y la amenazó con un arma de fuego. A pesar de las amenazas, la víctima denunció el hecho y se verificó la veracidad de lo ocurrido.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779810161/autonoticias/articles/20260526_154240_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 15:43:43 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526154343</guid>
   </item>
 </channel>
 </rss>
