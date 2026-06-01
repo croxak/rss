@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 02:25:52 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 11:34:47 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Inicia la temporada ciclónica 2026; prevén ambiente caluroso y lluvias aisladas este lunes]]></title>
+    <link>https://eldia.com.do/inicia-la-temporada-ciclonica-2026-preven-ambiente-caluroso-y-lluvias-aisladas-este-lunes/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informó que este lunes 1 de junio inicia oficialmente la temporada ciclónica 2026 para el Atlántico Norte, el mar Caribe y el golfo de México, extendiéndose hasta el 30 de noviembre.
+
+Se espera un ambiente caluroso y lluvias aisladas en República Dominicana. El polvo del Sahara limitará las precipitaciones, aunque se prevén chubascos matutinos en el litoral caribeño y aguaceros aislados en la cordillera Central, el noroeste y la zona fronteriza.
+
+Las temperaturas continuarán altas, por lo que se recomienda ingerir líquidos, usar ropa ligera y evitar la exposición prolongada al sol. Las personas sensibles al polvo deben seguir las orientaciones sanitarias.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780313662/autonoticias/articles/20260601_113421_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 11:34:47 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601113447</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece Dalila Almánzar, madre de Celinés Toribio, a los 81 años]]></title>
     <link>https://n.com.do/2026/05/31/fallece-madre-de-celines-toribio/</link>
     <description><![CDATA[Dalila Almánzar, madre de Celinés Toribio, falleció a los 81 años. La noticia fue compartida por Toribio en sus redes sociales, donde expresó su profundo dolor y agradecimiento por los años vividos junto a su madre.
@@ -1317,18 +1331,6 @@ Martha Vanessa Chevalier, madre de la menor, fue condenada a 10 años de prisió
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779744520/autonoticias/articles/20260525_212840_article.webp" type="image/jpeg"/>
     <pubDate>Mon, 25 May 2026 21:29:11 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260525212911</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Aeronave aterriza de emergencia en el Aeropuerto Las Américas]]></title>
-    <link>https://eldia.com.do/aeronave-aterriza-de-emergencia-en-el-aeropuerto-las-americas/</link>
-    <description><![CDATA[Un vuelo de SKYhigh Dominicana que cubría la ruta Santo Domingo–Martinica tuvo que aterrizar de emergencia en el Aeropuerto Las Américas. La aeronave Embraer E190 presentó problemas de presurización, lo que llevó a la tripulación a activar los protocolos de seguridad y retornar al aeropuerto de origen.
-
-AERODOM activó el protocolo de emergencia, permitiendo un aterrizaje seguro. No se reportaron heridos ni afectados.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779744437/autonoticias/articles/20260525_212716_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 25 May 2026 21:27:59 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260525212759</guid>
   </item>
 </channel>
 </rss>
