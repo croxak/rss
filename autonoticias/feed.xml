@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 20:08:20 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 01 Jun 2026 21:08:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Agricultura lanzará plan piloto de mecanización con una inversión de RD$500 millones]]></title>
+    <link>https://eldia.com.do/agricultura-lanzara-plan-piloto-de-mecanizacion-con-una-inversion-de-rd500-millones/</link>
+    <description><![CDATA[El Ministerio de Agricultura, encabezado por Francisco Oliverio Espaillat, lanzará el Programa Nacional de Mecanización el próximo mes con una inversión de RD$500 millones. Este plan piloto se aplicará en Monte Cristi, Mao, San Juan de la Maguana, la región Nordeste y Constanza.
+
+El objetivo es educar a los productores sobre la mecanización agrícola y la planificación de la siembra. Se adquirirán equipos para capacitación y demostración, beneficiando a asociaciones, cooperativas y productores.
+
+La primera etapa se enfocará en cultivos como el arroz y los vegetales, donde la mecanización puede implementarse con mayor facilidad.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780347901/autonoticias/articles/20260601_210500_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 01 Jun 2026 21:08:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260601210835</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministerio de Trabajo reitera que el jueves de Corpus Christi no es laborable]]></title>
     <link>https://www.presidencia.gob.do/noticias/ministerio-de-trabajo-reitera-que-el-jueves-de-corpus-christi-no-es-laborable</link>
     <description><![CDATA[El Ministerio de Trabajo de República Dominicana informa que el jueves 4 de junio, día de Corpus Christi, no será laborable. Esta disposición aplica tanto para el sector público como privado, según la Ley Núm. 139-97.
@@ -1319,20 +1333,6 @@ El proyecto Costa Blanca se desarrollará con áreas residenciales y recreativas
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779820576/autonoticias/articles/20260526_183615_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 18:36:44 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526183644</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Dictan tres meses de prisión preventiva contra “Negro Malo” por agresión a conductor del TRAE]]></title>
-    <link>https://eldia.com.do/dictan-tres-meses-de-prision-preventiva-contra-negro-malo-por-agresion-a-conductor-del-trae/</link>
-    <description><![CDATA[El juez Reyes Rodríguez dictó tres meses de prisión preventiva contra Gregrori Gelabert González, conocido como "Negro Malo", por agredir a un conductor del programa de Transporte Estudiantil (TRAE) en Santo Domingo Oeste. El incidente ocurrió tras un roce vehicular en el sector El Café de Herrera.
-
-Gelabert González fue enviado al Centro Correccional y de Rehabilitación Las Parras por la agresión a Henry Yubane Arias González, chofer del TRAE del Distrito Escolar 15-05. El Ministerio Público también lo acusa de violar disposiciones de protección de menores debido al impacto psicológico en los estudiantes presentes.
-
-Durante el incidente, Gelabert González también agredió a la asistente del chofer y a un ciudadano que intentó grabar la agresión. Las cámaras de seguridad del autobús captaron el incidente, y las grabaciones serán evaluadas por el INACIF.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779818192/autonoticias/articles/20260526_175631_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 17:56:59 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526175659</guid>
   </item>
 </channel>
 </rss>
