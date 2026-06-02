@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 02 Jun 2026 14:28:03 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 14:29:59 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Teleférico de Santo Domingo suspende temporalmente operaciones en tramo de la Línea 1]]></title>
+    <link>https://n.com.do/2026/06/02/teleferico-de-santo-domingo-suspende-temporalmente-operaciones-en-tramo-de-la-linea-1/</link>
+    <description><![CDATA[La Empresa Metropolitana de Transporte (EMT) ha suspendido temporalmente el Tramo 2 de la Línea 1 del Teleférico de Santo Domingo. Esta medida se tomó tras la detección de una alarma en el sistema de control.
+
+La inspección preventiva se programó en horario valle para reducir el impacto en los pasajeros. La EMT busca identificar el origen de la alarma y reanudar el servicio de manera segura.
+
+No se ha informado el tiempo estimado para la reapertura del tramo afectado. La EMT agradece la comprensión de los usuarios y ofrece disculpas por los inconvenientes.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780410575/autonoticias/articles/20260602_142934_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 02 Jun 2026 14:29:59 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260602142959</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Cartera de crédito agropecuario superó los RD 132,000 millones al cierre de 2025]]></title>
     <link>https://www.presidencia.gob.do/noticias/cartera-de-credito-agropecuario-supero-los-rd-132000-millones-al-cierre-de-2025</link>
     <description><![CDATA[La cartera de crédito agropecuario en República Dominicana alcanzó RD 132,415 millones al cierre de 2025, mostrando un crecimiento del 4.1 % respecto al año anterior. Este sector representa el 10 % de la cartera total de créditos comerciales.
@@ -1329,18 +1343,6 @@ Rodríguez asumió el cargo tras la captura de Nicolás Maduro por Estados Unido
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779839434/autonoticias/articles/20260526_235033_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 23:51:04 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526235104</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio Público solicita prisión preventiva contra 6 personas que integraban red de trata de personas en Puerto Plata]]></title>
-    <link>https://pgr.gob.do/ministerio-publico-solicita-prision-preventiva-contra-6-personas-que-integraban-red-de-trata-de-personas-en-puerto-plata/</link>
-    <description><![CDATA[El Ministerio Público ha solicitado prisión preventiva para seis personas acusadas de integrar una red de trata de personas en Puerto Plata. Los implicados, de diversas nacionalidades, están vinculados a actividades de explotación sexual comercial y proxenetismo.
-
-La audiencia para conocer la medida de coerción está fijada para el 27 de mayo de 2026. Durante el operativo, se rescataron 62 mujeres y se ocuparon armas, vehículos y equipos electrónicos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779838669/autonoticias/articles/20260526_233745_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 23:38:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526233814</guid>
   </item>
 </channel>
 </rss>
