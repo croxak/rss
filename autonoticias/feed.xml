@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 02 Jun 2026 00:54:36 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 13:19:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[INDOMET informa ambiente soleado y caluroso por incremento de polvo del Sahara]]></title>
+    <link>https://robertocavada.com/indomet-informa-ambiente-soleado-y-caluroso-por-incremento-de-polvo-del-sahara/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (INDOMET) ha informado que el clima en el país estará dominado por un sistema de alta presión y un aumento de polvo del Sahara, lo que resultará en un ambiente mayormente soleado y caluroso.
+
+Se esperan chubascos aislados en la mañana en San Pedro de Macorís, San Cristóbal, Peravia, Barahona y el Gran Santo Domingo. En la tarde, podrían ocurrir aguaceros aislados en Santiago, Santiago Rodríguez, Valverde y Dajabón.
+
+Las temperaturas seguirán elevadas, por lo que se recomienda a la población mantenerse hidratada y evitar la exposición prolongada al sol. Para el jueves, se anticipa un cambio en las condiciones debido a una vaguada, con posibles lluvias y tronadas en varias regiones.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780406305/autonoticias/articles/20260602_131824_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 02 Jun 2026 13:19:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260602131900</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Yeni Berenice: “El Ministerio Público no detendrá la lucha contra la corrupción bajo ninguna circunstancia”]]></title>
     <link>https://eldia.com.do/yeni-berenice-el-ministerio-publico-no-detendra-la-lucha-contra-la-corrupcion-bajo-ninguna-circunstancia/</link>
     <description><![CDATA[Yeni Berenice Reynoso, procuradora general de la República, reafirmó el compromiso del Ministerio Público en la lucha contra la corrupción. Aseguró que no detendrán sus esfuerzos y apelarán decisiones judiciales que no se correspondan con las pruebas presentadas.
@@ -1327,20 +1341,6 @@ El martes, la presidenta será recibida en el Congreso Nacional y participará e
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779838429/autonoticias/articles/20260526_233348_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 23:35:30 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526233530</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Scotiabank instalará en República Dominicana su sede regional para el Caribe, Centroamérica y Colombia]]></title>
-    <link>https://noticiassin.com/economia/2026/05/26/scotiabank-instala-sede-regional-en-republica-dominicana-2008759/</link>
-    <description><![CDATA[Scotiabank anunció que establecerá su centro regional en Santo Domingo para dirigir operaciones en el Caribe, Centroamérica y Colombia. La decisión se basa en la estabilidad macroeconómica y el potencial de crecimiento de República Dominicana.
-
-Jabar Singh, presidente ejecutivo de Scotiabank para República Dominicana y el Caribe, explicó que el modelo regional se apoyará en talento dominicano y nuevas capacidades de negocio. La entidad ha invertido más de 650 millones de dólares canadienses en el país desde 1920.
-
-El presidente Luis Abinader afirmó que esta decisión refleja confianza en el clima de negocios del país. El Caribe es una región estratégica para Scotiabank, con activos superiores a 26 mil millones de dólares canadienses.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779831195/autonoticias/articles/20260526_213315_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 21:34:02 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526213402</guid>
   </item>
 </channel>
 </rss>
