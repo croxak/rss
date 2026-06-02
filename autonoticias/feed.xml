@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 02 Jun 2026 14:29:59 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 14:40:39 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Ejército detiene a 54 indocumentados y retiene motocicletas en operativos realizados en Montecristi]]></title>
+    <link>https://n.com.do/2026/06/02/ejercito-detiene-a-54-indocumentados-y-retiene-motocicletas-en-operativos-realizados-en-montecristi/</link>
+    <description><![CDATA[El Ejército de República Dominicana realizó operativos en Montecristi, deteniendo a 54 nacionales haitianos en condición migratoria irregular. En Hatillo Palma, se detuvieron a 20 personas, mientras que en Cayucal, municipio de Guayubín, se interceptaron a otros 20.
+
+En las proximidades de la presa de Maguaca, se detuvieron a 14 extranjeros indocumentados. Además, un ciudadano dominicano fue detenido y tres motocicletas fueron retenidas.
+
+Los detenidos fueron trasladados a instalaciones militares para los procedimientos correspondientes y serán entregados a la Dirección General de Migración.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780411209/autonoticias/articles/20260602_144008_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 02 Jun 2026 14:40:39 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260602144039</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Teleférico de Santo Domingo suspende temporalmente operaciones en tramo de la Línea 1]]></title>
     <link>https://n.com.do/2026/06/02/teleferico-de-santo-domingo-suspende-temporalmente-operaciones-en-tramo-de-la-linea-1/</link>
     <description><![CDATA[La Empresa Metropolitana de Transporte (EMT) ha suspendido temporalmente el Tramo 2 de la Línea 1 del Teleférico de Santo Domingo. Esta medida se tomó tras la detección de una alarma en el sistema de control.
@@ -1329,20 +1343,6 @@ Los escombros estuvieron expuestos al sol y la lluvia durante casi un año, lo q
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779840585/autonoticias/articles/20260527_000944_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 27 May 2026 00:10:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260527001017</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Delcy Rodríguez anuncia la reestructuración del Gobierno ante la «nueva realidad» de Venezuela]]></title>
-    <link>https://panorama.com.do/delcy-rodriguez-anuncia-la-reestructuracion-del-gobierno-ante-la-nueva-realidad-de-venezuela/</link>
-    <description><![CDATA[Delcy Rodríguez, presidenta encargada de Venezuela, ha anunciado una reestructuración del Gobierno. Héctor Rodríguez y Ricardo Menéndez liderarán este proceso para adaptarse a la "nueva realidad" del país.
-
-Anabel Pereira ha sido designada como comisionada presidencial para la gestión eficiente del Gobierno nacional.
-
-Rodríguez asumió el cargo tras la captura de Nicolás Maduro por Estados Unidos. Desde entonces, se han reanudado relaciones diplomáticas con Washington y se han realizado cambios significativos en el gobierno.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779839434/autonoticias/articles/20260526_235033_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 23:51:04 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526235104</guid>
   </item>
 </channel>
 </rss>
