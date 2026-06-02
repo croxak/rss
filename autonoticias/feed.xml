@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 02 Jun 2026 18:14:01 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 20:22:07 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Gobierno adquiere seis transformadores de potencia en China por una inversión superior a los RD 469.7 millones]]></title>
+    <link>https://www.presidencia.gob.do/noticias/gobierno-adquiere-seis-transformadores-de-potencia-en-china-por-una-inversion-superior-los</link>
+    <description><![CDATA[Edesur Dominicana ha adquirido seis transformadores de potencia desde China, con una inversión de más de RD 469.7 millones. La compra fue adjudicada a la empresa Electroval, S.R.L. a través de una licitación pública.
+
+Los transformadores tienen capacidades de hasta 50 megavoltioamperios y manejarán niveles de tensión de 69/12.8 kV y 138/12.8 kV. Un equipo técnico de Edesur visitó Zhejiang, China, para realizar pruebas de aceptación en fábrica.
+
+Estas inversiones buscan mejorar la capacidad de respuesta de la distribuidora ante la creciente demanda energética y están orientadas a la innovación y mejora continua del sistema energético nacional.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780431689/autonoticias/articles/20260602_202128_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 02 Jun 2026 20:22:07 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260602202207</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía Nacional y el ITLA inician capacitación sobre inteligencia artificial]]></title>
     <link>https://www.presidencia.gob.do/noticias/policia-nacional-y-el-itla-inician-capacitacion-sobre-inteligencia-artificial</link>
     <description><![CDATA[La Policía Nacional ha iniciado un taller sobre inteligencia artificial aplicada a funciones policiales, dirigido a oficiales generales. Este taller de cinco semanas se realiza en la Dirección de Área de Policía Científica.
@@ -1323,20 +1337,6 @@ En Duarte, se reportaron inundaciones urbanas en San Francisco de Macorís, y en
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779906785/autonoticias/articles/20260527_183304_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 27 May 2026 18:33:30 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260527183330</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Castaños dice senador debe retractarse tras afirmar que secuestraría gente para ganar elecciones]]></title>
-    <link>https://panorama.com.do/castanos-dice-senador-debe-retractarse-tras-afirmar-que-secuestraria-gente-para-ganar-elecciones/</link>
-    <description><![CDATA[El senador Bernardo Alemán, del Partido Revolucionario Moderno, declaró en una entrevista que estaría dispuesto a apresar y secuestrar votantes para ganar elecciones. Estas declaraciones fueron hechas en el programa «Debate 8».
-
-Servio Tulio Castaños, vicepresidente ejecutivo de FINJUS, instó a Alemán a retractarse, calificando sus palabras como inoportunas e impropias de un legislador. Castaños señaló que este tipo de pronunciamientos pueden tener consecuencias.
-
-Alemán también relató que en procesos pasados utilizó militares para detener a sus contrincantes y evitar que votaran.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779900630/autonoticias/articles/20260527_165030_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 27 May 2026 16:50:58 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260527165058</guid>
   </item>
 </channel>
 </rss>
