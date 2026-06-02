@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 02 Jun 2026 20:22:07 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 20:38:28 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Conani responde a madre de adolescente imputada por muerte de otra: "No procuró contacto con su hija"]]></title>
+    <link>https://panorama.com.do/conani-responde-a-madre-de-adolescente-imputada-por-muerte-de-otra-no-procuro-contacto-con-su-hija/</link>
+    <description><![CDATA[CONANI respondió a la madre de una adolescente imputada por la muerte de otra menor en un hogar de paso, afirmando que no procuró contacto con su hija ni permitió pruebas sociofamiliares.
+
+La madre cuestionó a CONANI, señalando que no había visto a su hija en cuatro meses y se enteró de las acusaciones en la Ciudad Judicial de Santo Domingo Este.
+
+Las tres menores imputadas recibieron 30 días en un Centro de Atención Integral para Adolescentes en Conflicto con la Ley Penal. CONANI suspendió al personal a cargo del hogar de paso y sigue revisando casos para descongestionar los hogares de acogida.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780432660/autonoticias/articles/20260602_203740_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 02 Jun 2026 20:38:28 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260602203828</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno adquiere seis transformadores de potencia en China por una inversión superior a los RD 469.7 millones]]></title>
     <link>https://www.presidencia.gob.do/noticias/gobierno-adquiere-seis-transformadores-de-potencia-en-china-por-una-inversion-superior-los</link>
     <description><![CDATA[Edesur Dominicana ha adquirido seis transformadores de potencia desde China, con una inversión de más de RD 469.7 millones. La compra fue adjudicada a la empresa Electroval, S.R.L. a través de una licitación pública.
@@ -1323,20 +1337,6 @@ El proyecto también incluye sanciones para servidores públicos que no activen 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779909587/autonoticias/articles/20260527_191947_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 27 May 2026 19:20:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260527192014</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El COE mantiene tres provincias en alerta amarilla y 14 en verde por lluvias]]></title>
-    <link>https://www.diariolibre.com/planeta/clima/2026/05/27/clima-en-rd-tres-provincias-bajo-en-alerta-amarilla-por-lluvias/3547757</link>
-    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) informó que mantiene tres provincias en alerta amarilla y 14 en alerta verde por riesgo de inundaciones y deslizamientos de tierra debido a las lluvias. Las provincias en alerta amarilla son María Trinidad Sánchez, Monte Plata y Sánchez Ramírez. En alerta verde están El Seibo, Hato Mayor, San Pedro de Macorís, San Cristóbal, Santo Domingo, Monseñor Nouel, La Vega, Peravia, Santo Domingo, La Altagracia, La Romana, Samaná y Santiago. La alerta verde fue descontinuada para San José de Ocoa.
-
-El COE exhorta a la población a no cruzar ríos y evitar balnearios en las provincias bajo alerta. Se realizan descargas controladas en la presa de Valdesia, afectando la cuenca del río Nizao.
-
-En Duarte, se reportaron inundaciones urbanas en San Francisco de Macorís, y en Monte Plata, el desbordamiento del río Savita dejó incomunicada la comunidad de La Luisa.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779906785/autonoticias/articles/20260527_183304_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 27 May 2026 18:33:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260527183330</guid>
   </item>
 </channel>
 </rss>
