@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 01 Jun 2026 23:25:53 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 00:54:36 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Yeni Berenice: “El Ministerio Público no detendrá la lucha contra la corrupción bajo ninguna circunstancia”]]></title>
+    <link>https://eldia.com.do/yeni-berenice-el-ministerio-publico-no-detendra-la-lucha-contra-la-corrupcion-bajo-ninguna-circunstancia/</link>
+    <description><![CDATA[Yeni Berenice Reynoso, procuradora general de la República, reafirmó el compromiso del Ministerio Público en la lucha contra la corrupción. Aseguró que no detendrán sus esfuerzos y apelarán decisiones judiciales que no se correspondan con las pruebas presentadas.
+
+Reynoso destacó que la corrupción afecta áreas esenciales como la salud, la educación y la seguridad. Mencionó que el Ministerio Público ha logrado 74 condenas y decomisado más de RD$6,000 millones a favor del Estado.
+
+La procuradora afirmó que no se dejarán intimidar por campañas que busquen desacreditar los procesos judiciales y que continuarán impulsando los casos hasta las últimas consecuencias.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780361640/autonoticias/articles/20260602_005400_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 02 Jun 2026 00:54:36 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260602005436</guid>
+  </item>
+
+  <item>
     <title><![CDATA[ADN dispone de más de 1,200 brigadistas ante inicio de la temporada ciclónica]]></title>
     <link>https://panorama.com.do/alcaldia-del-dn-dispone-de-mas-de-1200-brigadistas-para-labores-preventivas-en-temporada-ciclonica/</link>
     <description><![CDATA[La Alcaldía del Distrito Nacional ha preparado más de 1,200 brigadistas para enfrentar la temporada ciclónica, que se extiende hasta el 30 de noviembre. Esta medida es parte del plan del Comité de Prevención, Mitigación y Respuesta ante Desastres del Distrito Nacional.
@@ -1327,18 +1341,6 @@ El presidente Luis Abinader afirmó que esta decisión refleja confianza en el c
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779831195/autonoticias/articles/20260526_213315_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 21:34:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526213402</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Defensa de los Espaillat asegura que peritos del gobierno cometieron errores técnicos “graves” en investigación del colapso del Jet Set]]></title>
-    <link>https://n.com.do/2026/05/26/defensa-de-los-espaillat-asegura-que-peritos-del-gobierno-cometieron-errores-tecnicos-graves-en-investigacion-del-colapso-del-jet-set/</link>
-    <description><![CDATA[La defensa de Antonio Espaillat ha presentado un informe que cuestiona la investigación oficial sobre el colapso de la discoteca Jet Set. Según los ingenieros contratados por la defensa, los peritos del gobierno cometieron errores técnicos graves, como sobreestimar las cargas del techo y utilizar propiedades mecánicas incorrectas.
-
-El informe también acusa al gobierno de ignorar elementos estructurales clave y de exagerar el peso de los tinacos sobre el techo. La defensa sostiene que estos errores llevaron a conclusiones erróneas sobre la causa del colapso.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779827940/autonoticias/articles/20260526_203859_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 20:39:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526203929</guid>
   </item>
 </channel>
 </rss>
