@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 02 Jun 2026 16:10:19 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 16:44:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Ministerio de Salud exhorta a la población a tomar medidas preventivas ante la presencia del polvo del Sahara]]></title>
+    <link>https://msp.gob.do/web/?p=20962</link>
+    <description><![CDATA[El Ministerio de Salud de República Dominicana ha emitido una exhortación a la población para tomar medidas preventivas ante la presencia del polvo del Sahara y el aumento de las temperaturas. Este fenómeno puede afectar la salud, especialmente en personas con enfermedades respiratorias.
+
+El ministro de Salud, Víctor Atallah, recomendó mantenerse hidratado, evitar la exposición prolongada al sol y prestar atención a los grupos más vulnerables, como adultos mayores, niños y personas con enfermedades crónicas. También se aconseja mantener una adecuada higiene ocular y seguir los tratamientos médicos indicados.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780418654/autonoticias/articles/20260602_164414_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 02 Jun 2026 16:44:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260602164440</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Aduanas facilitará pago de impuestos con tarjetas de crédito o débito]]></title>
     <link>https://eldia.com.do/aduanas-facilitara-pago-de-impuestos-con-tarjetas-de-credito-o-debito/</link>
     <description><![CDATA[La Dirección General de Aduanas (DGA) ha lanzado una nueva Plataforma de Pagos con Tarjetas de Crédito y Débito, en colaboración con Visa y las empresas adquirentes CardNET, PORTAL y AZUL.
@@ -1331,20 +1343,6 @@ Familiares del adolescente y organizaciones populares exigen justicia y el escla
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779891586/autonoticias/articles/20260527_141946_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 27 May 2026 14:21:55 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260527142155</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Allanan sede del PSOE y viviendas de altos políticos por corrupción en España]]></title>
-    <link>https://panorama.com.do/allanan-sede-del-psoe-y-viviendas-de-altos-politicos-por-corrupcion-en-espana/</link>
-    <description><![CDATA[La Guardia Civil española realizó un operativo que incluyó el requerimiento de documentación en la sede del PSOE y el allanamiento de varios inmuebles. La operación está vinculada a pagos a la exmilitante socialista Leire Díez.
-
-Se investigan presuntas mordidas en contratos públicos, con implicados como Gaspar Zarrías, Vicente Fernández y Antxon Alonso. Los domicilios de Santos Cerdán y Javier Pérez Dolset también fueron registrados.
-
-Díez, Fernández y Alonso, detenidos en diciembre, enfrentan cargos de malversación, tráfico de influencias y organización criminal. El presidente Pedro Sánchez ha asegurado la colaboración con la justicia.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779891462/autonoticias/articles/20260527_141741_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 27 May 2026 14:19:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260527141930</guid>
   </item>
 </channel>
 </rss>
