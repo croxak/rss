@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 02 Jun 2026 14:40:39 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 15:13:43 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Muere niña de tres años tras presunto ahogamiento en una villa de Puerto Plata]]></title>
+    <link>https://n.com.do/2026/06/02/muere-nina-de-tres-anos-tras-presunto-ahogamiento-en-una-villa-de-puerto-plata/</link>
+    <description><![CDATA[Una niña de tres años, Amanda Michelle Maldonado, falleció en un presunto incidente de ahogamiento en una villa de Puerto Plata. La menor era hija de Guillersis Claudio, conocida como “La Negra del Swing”, y del empresario Manuel Maldonado.
+
+Según versiones preliminares, Amanda Michelle habría seguido a un gato y caído en una piscina. Las autoridades aún no han dado detalles oficiales sobre el caso.
+
+La familia y amigos despidieron a la menor en la funeraria Don Bosco, en Jarabacoa. La noticia ha causado consternación entre los seguidores de la creadora de contenido.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780413052/autonoticias/articles/20260602_151052_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 02 Jun 2026 15:13:43 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260602151343</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ejército detiene a 54 indocumentados y retiene motocicletas en operativos realizados en Montecristi]]></title>
     <link>https://n.com.do/2026/06/02/ejercito-detiene-a-54-indocumentados-y-retiene-motocicletas-en-operativos-realizados-en-montecristi/</link>
     <description><![CDATA[El Ejército de República Dominicana realizó operativos en Montecristi, deteniendo a 54 nacionales haitianos en condición migratoria irregular. En Hatillo Palma, se detuvieron a 20 personas, mientras que en Cayucal, municipio de Guayubín, se interceptaron a otros 20.
@@ -1329,20 +1343,6 @@ Castillo destacó que esta decisión reafirma los valores de libertad y debido p
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779841572/autonoticias/articles/20260527_002611_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 27 May 2026 00:26:36 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260527002636</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Contraperitaje del Jet Set no encuentra rastros de explosivos, pero no descarta esa hipótesis]]></title>
-    <link>https://panorama.com.do/contraperitaje-del-jet-set-no-encuentra-rastros-de-explosivos-pero-no-descarta-esa-hipotesis/</link>
-    <description><![CDATA[El contraperitaje del Jet Set, solicitado por la defensa de sus propietarios, no encontró evidencias de explosivos en las muestras analizadas tras el colapso del centro nocturno en abril de 2025, que dejó 236 fallecidos. Sin embargo, no se descarta la hipótesis de un artefacto explosivo.
-
-El informe de Exponent menciona elementos sospechosos como la falla repentina de la estructura, testimonios de un "estruendo" y videos de una fuerte ráfaga de aire. Además, las cámaras de seguridad presentaban dos minutos faltantes y no mostraban la parte superior de la estructura.
-
-Los escombros estuvieron expuestos al sol y la lluvia durante casi un año, lo que pudo afectar las pruebas. El contraperitaje también cuestiona el informe de la Onesvie por supuestas deficiencias en la preservación de la escena y metodología.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779840585/autonoticias/articles/20260527_000944_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 27 May 2026 00:10:17 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260527001017</guid>
   </item>
 </channel>
 </rss>
