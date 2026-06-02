@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 02 Jun 2026 16:44:40 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 16:52:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Mamdani nombra a policía de origen haitiano como nuevo sheriff de la ciudad de Nueva York]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/06/02/edwin-raymond-de-origen-haitiano-es-el-nuevo-sheriff-de-ny/3553821</link>
+    <description><![CDATA[El alcalde de Nueva York, Zohran Mamdani, ha nombrado a Edwin Raymond como el nuevo sheriff de la ciudad. Raymond, de origen haitiano, es un exteniente del NYPD conocido por su defensa de la rendición de cuentas y la reforma policial.
+
+Raymond reemplaza a Anthony Miranda, quien dejó el cargo en medio de cuestionamientos. Con 15 años de experiencia en el NYPD, Raymond ha trabajado en diversas unidades de Brooklyn y ha sido una voz destacada en la lucha por la transparencia en las fuerzas del orden.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780418621/autonoticias/articles/20260602_164340_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 02 Jun 2026 16:52:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260602165205</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministerio de Salud exhorta a la población a tomar medidas preventivas ante la presencia del polvo del Sahara]]></title>
     <link>https://msp.gob.do/web/?p=20962</link>
     <description><![CDATA[El Ministerio de Salud de República Dominicana ha emitido una exhortación a la población para tomar medidas preventivas ante la presencia del polvo del Sahara y el aumento de las temperaturas. Este fenómeno puede afectar la salud, especialmente en personas con enfermedades respiratorias.
@@ -1331,18 +1343,6 @@ El procesado cumplirá su condena en el Centro de Corrección y Rehabilitación 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779892878/autonoticias/articles/20260527_144118_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 27 May 2026 15:11:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260527151105</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Militarizan Palacio de Justicia por caso de adolescente en SFM]]></title>
-    <link>https://noticiassin.com/pais/justicia/2026/05/27/seguridad-reforzada-en-palacio-de-justicia-por-caso-angel-2009423/</link>
-    <description><![CDATA[El Palacio de Justicia de San Francisco de Macorís amaneció militarizado este miércoles por la audiencia del caso Ángel Manuel Luna. La medida de coerción contra el militar implicado en su muerte ha generado un ambiente de tensión en la provincia Duarte.
-
-Familiares del adolescente y organizaciones populares exigen justicia y el esclarecimiento de los hechos. La muerte de Ángel Manuel Luna ocurrió durante una persecución, y el caso ha provocado indignación y protestas en la comunidad.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779891586/autonoticias/articles/20260527_141946_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 27 May 2026 14:21:55 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260527142155</guid>
   </item>
 </channel>
 </rss>
