@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 02 Jun 2026 15:37:05 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 16:10:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Aduanas facilitará pago de impuestos con tarjetas de crédito o débito]]></title>
+    <link>https://eldia.com.do/aduanas-facilitara-pago-de-impuestos-con-tarjetas-de-credito-o-debito/</link>
+    <description><![CDATA[La Dirección General de Aduanas (DGA) ha lanzado una nueva Plataforma de Pagos con Tarjetas de Crédito y Débito, en colaboración con Visa y las empresas adquirentes CardNET, PORTAL y AZUL.
+
+Este sistema permitirá realizar pagos de impuestos aduaneros con tarjetas físicas o dispositivos móviles, tanto en las administraciones de la DGA como en sus plataformas digitales. La iniciativa busca agilizar la recaudación y mejorar la trazabilidad, beneficiando especialmente a las MIPYMES.
+
+Durante el lanzamiento, el director general de Aduanas, Nelson Arroyo, destacó el compromiso con la transparencia y eficiencia en la gestión pública. Además, se ofrecerá un beneficio de cashback de hasta un 10 % para tarjetahabientes de Visa que paguen sus impuestos aduaneros entre el 2 de junio y el 31 de julio de 2026.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780416583/autonoticias/articles/20260602_160943_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 02 Jun 2026 16:10:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260602161019</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidenta de Surinam llega al Congreso y es recibida por dirigentes de ambas cámaras]]></title>
     <link>https://n.com.do/2026/06/02/presidenta-de-surinam/</link>
     <description><![CDATA[La presidenta de Surinam, Jennifer Geerlings-Simons, llegó al Congreso Nacional de República Dominicana. Fue recibida por los presidentes del Senado, Ricardo de los Santos, y de la Cámara de Diputados, Alfredo Pacheco.
@@ -1331,20 +1345,6 @@ Díez, Fernández y Alonso, detenidos en diciembre, enfrentan cargos de malversa
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779891462/autonoticias/articles/20260527_141741_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 27 May 2026 14:19:30 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260527141930</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[RD y Trinidad y Tobago suscriben acuerdo de cielos abiertos]]></title>
-    <link>https://panorama.com.do/rd-y-trinidad-y-tobago-suscriben-acuerdo-de-cielos-abiertos/</link>
-    <description><![CDATA[República Dominicana y Trinidad y Tobago han firmado el "Acuerdo de Servicios Aéreos", que busca facilitar intercambios comerciales y turísticos, promover inversiones y fortalecer la relación entre ambos países.
-
-El acuerdo fue firmado por el canciller Roberto Álvarez y el ministro de Transporte y Aviación Civil de Trinidad y Tobago, Eli Zakour. Este convenio complementa el Convenio sobre Aviación Civil Internacional de Chicago de 1944, otorgando derechos de sobrevuelo y aterrizaje, y estableciendo medidas de seguridad operacional.
-
-El canciller Álvarez destacó la importancia de Trinidad y Tobago como socio estratégico en la integración regional del Caribe. El ministro Zakour resaltó el papel del sector de la aviación en el desarrollo económico y la conectividad entre ambos países.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779891488/autonoticias/articles/20260527_141808_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 27 May 2026 14:19:10 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260527141910</guid>
   </item>
 </channel>
 </rss>
