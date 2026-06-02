@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 02 Jun 2026 15:13:43 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 15:35:50 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Presidenta de Surinam llega al Congreso y es recibida por dirigentes de ambas cámaras]]></title>
+    <link>https://n.com.do/2026/06/02/presidenta-de-surinam/</link>
+    <description><![CDATA[La presidenta de Surinam, Jennifer Geerlings-Simons, llegó al Congreso Nacional de República Dominicana. Fue recibida por los presidentes del Senado, Ricardo de los Santos, y de la Cámara de Diputados, Alfredo Pacheco.
+
+La mandataria sostendrá un encuentro privado con los líderes de ambas cámaras para fortalecer los vínculos diplomáticos y parlamentarios entre ambos países. Posteriormente, participará en una jornada de discursos oficiales en el Salón de Sesiones del Congreso Nacional.
+
+La visita de Geerlings-Simons forma parte de una agenda oficial que busca afianzar la cooperación bilateral entre República Dominicana y Surinam. Su salida del país está prevista para las 4:50 de la tarde desde el Aeropuerto Internacional de Las Américas José Francisco Peña Gómez.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780414500/autonoticias/articles/20260602_153500_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 02 Jun 2026 15:35:50 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260602153550</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Muere niña de tres años tras presunto ahogamiento en una villa de Puerto Plata]]></title>
     <link>https://n.com.do/2026/06/02/muere-nina-de-tres-anos-tras-presunto-ahogamiento-en-una-villa-de-puerto-plata/</link>
     <description><![CDATA[Una niña de tres años, Amanda Michelle Maldonado, falleció en un presunto incidente de ahogamiento en una villa de Puerto Plata. La menor era hija de Guillersis Claudio, conocida como “La Negra del Swing”, y del empresario Manuel Maldonado.
@@ -1331,18 +1345,6 @@ Esta es la vigesimoquinta misión electoral de la OEA en Colombia, financiada po
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779847988/autonoticias/articles/20260527_021307_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 27 May 2026 02:13:49 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260527021349</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gonzalo Castillo agradece a Trump y embajadora de EE.UU en RD por restitución de su visado]]></title>
-    <link>https://n.com.do/2026/05/26/gonzalo-castillo-agradece-a-trump-y-embajadora-de-ee-uu-en-rd-por-restitucion-de-su-visado/</link>
-    <description><![CDATA[Gonzalo Castillo, excandidato presidencial y aspirante a la nominación presidencial por el PLD, agradeció al presidente Donald Trump y a la embajadora Leah Francis Campos por la restitución de su visado. La visa había sido retirada el año pasado debido a un proceso judicial por presunta corrupción.
-
-Castillo destacó que esta decisión reafirma los valores de libertad y debido proceso que distinguen a los Estados Unidos. En febrero, fue inscrito como precandidato presidencial para las elecciones de 2028.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779841572/autonoticias/articles/20260527_002611_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 27 May 2026 00:26:36 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260527002636</guid>
   </item>
 </channel>
 </rss>
