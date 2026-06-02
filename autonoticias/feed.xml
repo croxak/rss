@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 02 Jun 2026 20:38:42 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 22:01:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Senado aprueba en segunda lectura modificación a Ley de partidos]]></title>
+    <link>https://eldia.com.do/senado-aprueba-en-segunda-lectura-modificacion-a-ley-de-partidos/</link>
+    <description><![CDATA[El Senado dominicano aprobó en segunda lectura un proyecto de ley que modifica la Ley de partidos 33-18. Esta propuesta busca evitar la entrada de dinero ilícito en la política mediante controles financieros más estrictos.
+
+Los aspirantes a cargos electivos deberán someterse a pruebas antidopaje y presentar certificaciones de no antecedentes penales de los últimos 15 años. Además, se implementarán procedimientos de "debida diligencia" para verificar antecedentes y origen de recursos de candidatos y donantes.
+
+La Junta Central Electoral tendrá mayores facultades para supervisar el financiamiento partidario, incluyendo la fiscalización de los sistemas internos de cumplimiento y la verificación de la identidad de los donantes.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780437533/autonoticias/articles/20260602_215853_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 02 Jun 2026 22:01:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260602220109</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidenta de Conani afirma hogar donde murió adolescente contaba con la supervisión establecida]]></title>
     <link>https://n.com.do/2026/06/02/presidenta-de-conani-afirma-hogar-donde-murio-adolescente-contaba-con-la-supervision-establecida/</link>
     <description><![CDATA[Ligia Pérez Peña, presidenta de Conani, aseguró que el hogar de paso en San Antonio de Guerra, donde murió una adolescente, tenía la supervisión adecuada. Tras el incidente, se activaron los protocolos y el Ministerio Público investiga el caso.
@@ -1325,20 +1339,6 @@ Vargas Núñez habría utilizado los equipos para extraer datos personales de ci
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779917121/autonoticias/articles/20260527_212521_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 27 May 2026 21:26:23 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260527212623</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Antonio Taveras se va del PRM, será senador independiente y cuestiona que pocas cosas han avanzado]]></title>
-    <link>https://listindiario.com/la-republica/congreso/20260527/antonio-taveras-se-va-prm-sera-senador-independiente_907432.html</link>
-    <description><![CDATA[Antonio Taveras, senador de la provincia Santo Domingo, ha decidido dejar el Partido Revolucionario Moderno (PRM) para actuar como senador independiente. Durante una sesión del Senado, Taveras expresó su preocupación por la falta de avances en reformas estructurales y cuestionó si se están cumpliendo las demandas ciudadanas.
-
-El senador destacó que, aunque ha habido avances en algunas áreas, como la independencia del Ministerio Público, aún se postergan reformas necesarias para el desarrollo del país. Mencionó problemas en el modelo económico, la educación, el sector eléctrico, la salud y la seguridad social.
-
-Taveras agradeció al presidente Luis Abinader y a la militancia del PRM por su respeto y colaboración. Manifestó que su independencia es una expresión de democracia y un compromiso con la ciudadanía que lo eligió.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779917143/autonoticias/articles/20260527_212542_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 27 May 2026 21:26:06 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260527212606</guid>
   </item>
 </channel>
 </rss>
