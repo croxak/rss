@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 02 Jun 2026 17:54:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 18:14:01 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Policía Nacional y el ITLA inician capacitación sobre inteligencia artificial]]></title>
+    <link>https://www.presidencia.gob.do/noticias/policia-nacional-y-el-itla-inician-capacitacion-sobre-inteligencia-artificial</link>
+    <description><![CDATA[La Policía Nacional ha iniciado un taller sobre inteligencia artificial aplicada a funciones policiales, dirigido a oficiales generales. Este taller de cinco semanas se realiza en la Dirección de Área de Policía Científica.
+
+La apertura fue encabezada por el rector del ITLA, Jimmy Rosario Bernard, y el director general de la Policía Nacional, Andrés Modesto Cruz Cruz. Al concluir, se firmó un memorando de entendimiento para desarrollar iniciativas conjuntas en formación y transformación digital.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780424011/autonoticias/articles/20260602_181331_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 02 Jun 2026 18:14:01 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260602181401</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Encuentran sin vida en Puerto Plata a hombre que era buscado por homicidio de su pareja en Verón]]></title>
     <link>https://panorama.com.do/encuentran-sin-vida-en-puerto-plata-a-hombre-que-era-buscado-por-homicidio-de-su-pareja-en-veron/</link>
     <description><![CDATA[Leandro Almonte Lantigua, de 45 años, fue hallado sin vida en un hotel de Villa Isabela, Puerto Plata. Era buscado por su presunta implicación en la muerte de su pareja, Yuri Ernestina Pichardo, en Verón, Punta Cana.
@@ -1325,22 +1337,6 @@ Alemán también relató que en procesos pasados utilizó militares para detener
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779900630/autonoticias/articles/20260527_165030_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 27 May 2026 16:50:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260527165058</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio de Educación emite nuevos lineamientos nacionales sobre el uso de celulares en escuelas y colegios]]></title>
-    <link>https://www.presidencia.gob.do/noticias/ministerio-de-educacion-emite-nuevos-lineamientos-nacionales-sobre-el-uso-de-celulares-en</link>
-    <description><![CDATA[El Ministerio de Educación de República Dominicana ha emitido la Orden Departamental 011-2026, estableciendo nuevos lineamientos sobre el uso de dispositivos móviles en escuelas y colegios.
-
-La normativa prohíbe totalmente los celulares en el nivel inicial, restringe su uso en primaria y lo regula en secundaria. Cada centro educativo deberá crear protocolos internos sobre el uso de dispositivos móviles.
-
-La orden también aborda la privacidad, prohibiendo la grabación y difusión de imágenes sin consentimiento, y contempla medidas contra el ciberacoso.
-
-Excepciones se prevén para estudiantes con necesidades específicas y se incluyen programas de formación para docentes y familias.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779896712/autonoticias/articles/20260527_154512_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 27 May 2026 16:24:55 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260527162455</guid>
   </item>
 </channel>
 </rss>
