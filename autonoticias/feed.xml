@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 02 Jun 2026 13:19:00 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 02 Jun 2026 14:28:03 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Cartera de crédito agropecuario superó los RD 132,000 millones al cierre de 2025]]></title>
+    <link>https://www.presidencia.gob.do/noticias/cartera-de-credito-agropecuario-supero-los-rd-132000-millones-al-cierre-de-2025</link>
+    <description><![CDATA[La cartera de crédito agropecuario en República Dominicana alcanzó RD 132,415 millones al cierre de 2025, mostrando un crecimiento del 4.1 % respecto al año anterior. Este sector representa el 10 % de la cartera total de créditos comerciales.
+
+Los cultivos de arroz, cacao y café concentran el 23.6 % del total de la cartera agropecuaria. La región Norte o Cibao lidera la distribución regional de créditos con el 47.9 %, seguida por la región Metropolitana con el 32.8 %.
+
+Las tasas de interés promedio para créditos en moneda nacional y extranjera son 11 % y 6.7 %, respectivamente. El índice de morosidad se ubicó en 0.8 %, por debajo del promedio del resto de la cartera comercial.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780410437/autonoticias/articles/20260602_142716_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 02 Jun 2026 14:28:03 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260602142803</guid>
+  </item>
+
+  <item>
     <title><![CDATA[INDOMET informa ambiente soleado y caluroso por incremento de polvo del Sahara]]></title>
     <link>https://robertocavada.com/indomet-informa-ambiente-soleado-y-caluroso-por-incremento-de-polvo-del-sahara/</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología (INDOMET) ha informado que el clima en el país estará dominado por un sistema de alta presión y un aumento de polvo del Sahara, lo que resultará en un ambiente mayormente soleado y caluroso.
@@ -1327,20 +1341,6 @@ La audiencia para conocer la medida de coerción está fijada para el 27 de mayo
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779838669/autonoticias/articles/20260526_233745_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 26 May 2026 23:38:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260526233814</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidenta de Surinam llegará a República Dominicana este sábado]]></title>
-    <link>https://eldia.com.do/presidenta-de-surinam-llegara-a-republica-dominicana-este-sabado/</link>
-    <description><![CDATA[La presidenta de Surinam, Jennifer Greelings-Simons, visitará la República Dominicana desde este sábado hasta el martes 2 de junio. Será recibida por el presidente Luis Abinader en el Palacio Nacional el lunes.
-
-Durante su visita, Geerlings-Simons se reunirá con los presidentes del Senado y la Cámara de Diputados, Ricardo de los Santos y Alfredo Pacheco. La agenda incluye reuniones oficiales, una ceremonia de firma de instrumentos y una ofrenda floral en el Parque Independencia.
-
-El martes, la presidenta será recibida en el Congreso Nacional y participará en una sesión de discursos antes de su partida por el Aeropuerto Internacional de las Américas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779838429/autonoticias/articles/20260526_233348_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 26 May 2026 23:35:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260526233530</guid>
   </item>
 </channel>
 </rss>
