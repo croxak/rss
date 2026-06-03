@@ -7,9 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 03 Jun 2026 10:52:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 03 Jun 2026 11:41:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Polvo del Sahara mantendrá ambiente caluroso y limitará las lluvias este miércoles]]></title>
+    <link>https://eldia.com.do/polvo-del-sahara-mantendra-ambiente-caluroso-y-limitara-las-lluvias-este-miercoles/</link>
+    <description><![CDATA[El polvo del Sahara seguirá afectando el clima en República Dominicana este miércoles, generando un ambiente caluroso y limitando las lluvias. Las temperaturas mínimas estarán entre 24 °C y 26 °C, y las máximas entre 31 °C y 33 °C.
+
+El Instituto Dominicano de Meteorología informa que el polvo sahariano reducirá el desarrollo de nubes significativas, aunque podrían ocurrir chubascos locales con tronadas aisladas en algunas áreas del sureste, nordeste y la Cordillera Central.
+
+Además, el polvo afecta la calidad del aire, especialmente para personas con alergias o enfermedades respiratorias. Se recomienda mantenerse hidratado, evitar el sol entre las 11:00 a.m. y las 4:00 p.m., y usar ropa ligera.
+
+Se espera una ligera disminución del polvo durante la noche del miércoles y el jueves, pero los niveles volverán a la normalidad entre la tarde y la noche del jueves. En el Gran Santo Domingo, persistirá una sensación calurosa con posibles chubascos pasajeros.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780486833/autonoticias/articles/20260603_114033_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 03 Jun 2026 11:41:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260603114104</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Trump da su respaldo “completo y total” a Abelardo de la Espriella en segunda vuelta en Colombia]]></title>
     <link>https://n.com.do/2026/06/02/trump-da-su-respaldo-completo-y-total-a-abelardo-de-la-espriella-en-segunda-vuelta-en-colombia/</link>
     <description><![CDATA[Donald Trump ha respaldado a Abelardo de la Espriella, candidato presidencial en Colombia, tras su victoria en la primera vuelta de las elecciones. De la Espriella, conocido como "El Tigre", obtuvo el 43,74 % de los votos, superando al candidato oficialista Iván Cepeda.
@@ -1321,20 +1337,6 @@ El Comando Sur del Ejército estadounidense informó que el operativo ha causado
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779933344/autonoticias/articles/20260528_015544_article.webp" type="image/jpeg"/>
     <pubDate>Thu, 28 May 2026 01:56:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260528015614</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Tamara Martínez es condenada a tres meses de prisión por difamación contra Gabi Desangles]]></title>
-    <link>https://n.com.do/2026/05/27/tamara-martinez-es-condenada-a-tres-meses-de-presion-por-difamacion-contra-gabi-desangles/</link>
-    <description><![CDATA[Tamara Martínez, comunicadora, ha sido condenada a tres meses de prisión por difamación e injuria contra Gabi Desangles.
-
-La jueza Clara Luz Almonte, de la Segunda Sala Penal del Juzgado de Primera Instancia del Distrito Nacional, dictó la sentencia.
-
-Martínez cumplirá su condena en el Centro de Corrección y Rehabilitación Najayo-Mujeres. Fue hallada culpable de violar la Ley 53-07 sobre Crímenes y Delitos de Alta Tecnología.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779933309/autonoticias/articles/20260528_015509_article.png" type="image/png"/>
-    <pubDate>Thu, 28 May 2026 01:55:57 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260528015557</guid>
   </item>
 </channel>
 </rss>
