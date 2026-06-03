@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 03 Jun 2026 13:49:20 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 03 Jun 2026 16:01:23 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Agente de Migración fallece tras ser atropellado mientras se dirigía a sus labores]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/06/03/dgm-lamenta-fallecimiento-de-agente-migratorio/3554775?utm_source=relacionadas&amp;utm_medium=portada&amp;utm_campaign=relacionadas</link>
+    <description><![CDATA[La Dirección General de Migración (DGM) lamenta el fallecimiento del agente Snayder Almánzar, quien murió tras un accidente de tránsito el 31 de mayo. Almánzar sufrió un trauma craneoencefálico y murió por un shock hipovolémico.
+
+El accidente ocurrió cuando una yipeta Porsche cruzó un semáforo en rojo e impactó la camioneta de la DGM. El conductor del vehículo fue sometido a una prueba de alcoholemia, que resultó positiva, y está detenido.
+
+La DGM expresó sus condolencias a los familiares y compañeros de Almánzar, recordándolo como un colaborador comprometido.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780502429/autonoticias/articles/20260603_160029_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 03 Jun 2026 16:01:23 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260603160123</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Mivhed y sector financiero impulsan mecanismo que facilitará el acceso a vivienda a familias sin historial crediticio]]></title>
     <link>https://www.presidencia.gob.do/noticias/mivhed-y-sector-financiero-impulsan-mecanismo-que-facilitara-el-acceso-vivienda-familias</link>
     <description><![CDATA[El Ministerio de Vivienda, Hábitat y Edificaciones y el sector financiero han suscrito un acuerdo para facilitar el acceso a vivienda a familias sin historial crediticio. Esta iniciativa busca utilizar información alternativa sobre hábitos de pago para mejorar los perfiles crediticios de potenciales compradores.
@@ -1321,20 +1335,6 @@ La detención se produjo el 19 de mayo después de que una investigación intern
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779980341/autonoticias/articles/20260528_145901_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 28 May 2026 14:59:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260528145940</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Hallan cadáver en avanzado estado de descomposición en cañaverales de San Pedro de Macorís]]></title>
-    <link>https://n.com.do/2026/05/28/hallan-cadaver-en-avanzado-estado-de-descomposicion-en-canaverales-de-san-pedro-de-macoris/</link>
-    <description><![CDATA[Un cadáver en avanzado estado de descomposición fue hallado en los cañaverales del sector Cruce de Cayacoa, San Pedro de Macorís. El cuerpo es de un hombre cuya identidad aún no ha sido establecida.
-
-El teniente coronel Gregory Montero Santana ordenó la intervención del personal de la Dirección Central de Investigaciones Criminales para iniciar las pesquisas. Especialistas del Instituto Nacional de Ciencias Forenses realizaron el levantamiento del cadáver.
-
-Los restos fueron trasladados a la morgue del Inacif en San Pedro de Macorís para análisis y autopsia. Las investigaciones continúan abiertas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779979211/autonoticias/articles/20260528_144011_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 28 May 2026 14:40:39 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260528144039</guid>
   </item>
 </channel>
 </rss>
