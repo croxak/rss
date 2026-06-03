@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 03 Jun 2026 19:32:43 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 03 Jun 2026 19:32:58 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[La aprobación de Bukele se sitúa en 85,5 % tras siete años en el Gobierno de El Salvador]]></title>
+    <link>https://panorama.com.do/la-aprobacion-de-bukele-se-situa-en-855-tras-siete-anos-en-el-gobierno-de-el-salvador-2/</link>
+    <description><![CDATA[La aprobación del presidente salvadoreño Nayib Bukele alcanza el 85,5 % al cierre del segundo año de su segundo mandato, según una encuesta de La Prensa Gráfica. Esta cifra refleja una caída de 6,4 puntos respecto a enero.
+
+Las preocupaciones económicas, especialmente el costo de la vida, son el principal foco de insatisfacción ciudadana. La encuesta se realizó entre el 15 y el 23 de mayo con 1.200 entrevistas y tiene un margen de error de +/- 2,8 %.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780514341/autonoticias/articles/20260603_191900_article.webp" type="image/jpeg"/>
+    <pubDate>Wed, 03 Jun 2026 19:32:58 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260603193258</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Milton Morrison rechaza propuesta de Antonio Marte de eliminar el Intrant y la Digesett]]></title>
     <link>https://n.com.do/2026/06/03/milton-morrison-rechaza-propuesta-de-antonio-marte-de-eliminar-el-intrant-y-la-digesett/</link>
     <description><![CDATA[Milton Morrison, director del Intrant, ha rechazado la propuesta del senador Antonio Marte de eliminar el Intrant y la Digesett. Morrison considera que estas entidades son esenciales para la regulación del tránsito en República Dominicana.
@@ -1319,20 +1331,6 @@ La UASD también puso en funcionamiento un sistema audiovisual para fortalecer l
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779995155/autonoticias/articles/20260528_190555_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 28 May 2026 19:06:50 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260528190650</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[COE disminuye a cinco las provincias en alerta verde por vaguada]]></title>
-    <link>https://n.com.do/2026/05/28/coe-mantiene-alerta-verde-cinco-provincias-inundaciones/</link>
-    <description><![CDATA[El Centro de Operaciones y Emergencias (COE) ha decidido mantener la alerta verde en cinco provincias de República Dominicana debido al riesgo de crecidas de ríos y posibles inundaciones. Las provincias afectadas son María Trinidad Sánchez, Sánchez Ramírez, Duarte, Samaná y Monte Plata.
-
-Esta medida se basa en los boletines emitidos por el Instituto Dominicano de Meteorología y el Instituto Nacional de Recursos Hidráulicos. Las lluvias recientes han acumulado humedad en los suelos, lo que ha llevado a esta decisión en cumplimiento de la Ley 147-02 sobre Gestión de Riesgos.
-
-El COE ha descontinuado la alerta verde en otras provincias. Se espera que una vaguada provoque aguaceros locales en algunas áreas del país.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779994082/autonoticias/articles/20260528_184801_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 28 May 2026 19:06:35 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260528190635</guid>
   </item>
 </channel>
 </rss>
