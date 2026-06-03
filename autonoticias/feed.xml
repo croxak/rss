@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 03 Jun 2026 01:26:52 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 03 Jun 2026 03:06:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Capturan y deportan a dominicana vinculada a crimen en Villa Altagracia]]></title>
+    <link>https://panorama.com.do/capturan-y-deportan-a-dominicana-vinculada-a-crimen-en-villa-altagracia/</link>
+    <description><![CDATA[Raysa Corporán Guzmán, de 34 años, fue deportada desde Estados Unidos y entregada a la Policía Nacional en el Aeropuerto Internacional de Las Américas. Era buscada por su presunta vinculación con un homicidio en Villa Altagracia.
+
+La Interpol había emitido una notificación roja a solicitud de las autoridades dominicanas. Corporán Guzmán habría estado involucrada en un incidente en el sector El Puerto, donde se realizaron disparos que causaron la muerte de Dania Estrella Lara.
+
+Tras el incidente, salió del país y fue localizada en Estados Unidos por su situación migratoria irregular. Ahora enfrentará el proceso judicial en el país.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780451624/autonoticias/articles/20260603_015343_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 03 Jun 2026 03:06:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260603030634</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidente Abinader designa a Pastora Méndez y a José García en el consejo directivo del CEA]]></title>
     <link>https://noticiassin.com/pais/gobierno/2026/06/03/abinader-designa-nuevos-miembros-del-consejo-del-cea-2-2016445/</link>
     <description><![CDATA[El presidente Luis Abinader ha designado a tres nuevos miembros para el consejo de directores del Consejo Estatal del Azúcar (CEA) mediante el Decreto 352-26. José García Ramírez y Rosa Pastora Méndez Méndez representarán al sector privado, mientras que Aníbal Amparo lo hará por el sector fabril.
@@ -1323,20 +1337,6 @@ El proyecto también introduce cambios en el financiamiento de partidos, obligan
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779927412/autonoticias/articles/20260528_001651_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 28 May 2026 00:17:18 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260528001718</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Armada Dominicana concluye entrenamiento táctico junto a Boinas Verdes de EE.UU.]]></title>
-    <link>https://panorama.com.do/armada-dominicana-concluye-entrenamiento-tactico-junto-a-boinas-verdes-de-ee-uu/</link>
-    <description><![CDATA[La Armada Dominicana concluyó el Entrenamiento Conjunto y Combinado (JCET) junto a los Boinas Verdes de EE.UU. en la Base Naval “Las Calderas”, Peravia. La ceremonia contó con la presencia del ministro de Defensa, Carlos Antonio Fernández Onofre, el vicealmirante Juan Bienvenido Crisóstomo Martínez y la embajadora de EE.UU., Leah Francis Campos.
-
-El vicealmirante Crisóstomo Martínez destacó la importancia de estos entrenamientos para fortalecer la interoperabilidad y cooperación internacional. Se realizó una demostración operativa con miembros de la Armada Dominicana y el equipo Alfa ODA 735 de los Boinas Verdes.
-
-El capitán Raymond Wrigth valoró la integración y disciplina de los participantes. Se entregaron certificados a los militares que completaron los programas de formación.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779927233/autonoticias/articles/20260528_001353_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 28 May 2026 00:16:38 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260528001638</guid>
   </item>
 </channel>
 </rss>
