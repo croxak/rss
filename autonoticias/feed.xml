@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 03 Jun 2026 18:23:54 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 03 Jun 2026 18:55:54 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Ministro David Collado entrega 42 equipos a ayuntamientos con vocación turística para recolección de desechos]]></title>
+    <link>https://www.presidencia.gob.do/noticias/ministro-david-collado-entrega-42-equipos-ayuntamientos-con-vocacion-turistica-para</link>
+    <description><![CDATA[El ministro de Turismo, David Collado, entregó 42 equipos a municipios turísticos para mejorar la recolección de desechos. La entrega incluyó 30 camiones, 6 máquinas barredoras y 6 tractores, con una inversión de más de 128 millones de pesos.
+
+Los equipos fueron distribuidos en localidades como Punta Cana, Bayahíbe, San Pedro, Barahona, Cabrera, Samaná y Baní. Esta acción es parte de un acuerdo con la Agencia de Cooperación Internacional del Japón (JICA).
+
+El Ministerio de Turismo aportó 86 millones de pesos, mientras que JICA contribuyó con 41 millones de pesos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780512844/autonoticias/articles/20260603_185403_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 03 Jun 2026 18:55:54 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260603185554</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Candidata de origen dominicano gana primaria demócrata y busca mantenerse en el Congreso de EE. UU.]]></title>
     <link>https://www.diariolibre.com/usa/actualidad/2026/06/03/primarias-en-nueva-jersey-definen-candidatos-para-el-congreso/3554868</link>
     <description><![CDATA[Analilia Mejía, de origen dominicano, ha ganado la nominación demócrata para el Distrito 11 de Nueva Jersey en la Cámara de Representantes de EE. UU. Mejía busca mantener su escaño en las elecciones generales de noviembre tras vencer a tres aspirantes demócratas.
@@ -1319,20 +1333,6 @@ Duarte confía en que el PRM superará las tensiones internas y está preparado 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779990227/autonoticias/articles/20260528_174347_article.webp" type="image/jpeg"/>
     <pubDate>Thu, 28 May 2026 17:44:18 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260528174418</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Llevan al Tribunal Superior Electoral resolución que prohíbe divulgar encuestas fuera de precampaña]]></title>
-    <link>https://www.diariolibre.com/politica/partidos/2026/05/28/llevan-al-tse-resolucion-de-la-jce-que-prohibe-divulgar-encuestas/3548963</link>
-    <description><![CDATA[Justicia Sin Fronteras ha llevado al Tribunal Superior Electoral una solicitud de medidas cautelares contra una disposición de la Junta Central Electoral que limita la publicación de encuestas fuera del período de precampaña.
-
-La organización argumenta que la resolución vulnera la libertad de expresión y el derecho a recibir información política, además de restringir el debate público. La demanda se fundamenta en los conceptos jurídicos de periculum in mora y fumus boni iuris.
-
-El Tribunal Superior Electoral es competente para conocer impugnaciones contra resoluciones de la JCE relacionadas con actos administrativos de contenido electoral, según la Ley 20-23 sobre Régimen Electoral.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779989507/autonoticias/articles/20260528_173147_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 28 May 2026 17:33:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260528173330</guid>
   </item>
 </channel>
 </rss>
