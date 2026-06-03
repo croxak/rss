@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 03 Jun 2026 17:17:01 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 03 Jun 2026 18:23:54 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Candidata de origen dominicano gana primaria demócrata y busca mantenerse en el Congreso de EE. UU.]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/06/03/primarias-en-nueva-jersey-definen-candidatos-para-el-congreso/3554868</link>
+    <description><![CDATA[Analilia Mejía, de origen dominicano, ha ganado la nominación demócrata para el Distrito 11 de Nueva Jersey en la Cámara de Representantes de EE. UU. Mejía busca mantener su escaño en las elecciones generales de noviembre tras vencer a tres aspirantes demócratas.
+
+Rebecca Bennett se impuso en el Séptimo Distrito Congresional de Nueva Jersey y enfrentará al republicano Tom Kean Jr. en noviembre. Kean ha estado ausente en votaciones del Congreso por más de tres meses debido a una condición médica no detallada.
+
+En otras contiendas, Adam Hamawy ganó la candidatura demócrata en el Distrito 12, LaMonica McIver en el Distrito 10, y Zack Mullock en el Segundo Distrito. Las elecciones generales de noviembre serán clave para definir la composición de la Cámara de Representantes.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780511000/autonoticias/articles/20260603_182320_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 03 Jun 2026 18:23:54 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260603182354</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Antonio Marte pide cerrar el Intrant y la Digesett por la falta de control con los motoristas]]></title>
     <link>https://listindiario.com/la-republica/20260603/antonio-marte-pide-cerrar-intrant-digesett-falta-control-motoristas_908304.html</link>
     <description><![CDATA[Antonio Marte, senador y presidente de Conatra, ha pedido el cierre del Intrant y la Digesett por la falta de control sobre los motoristas. Según Marte, el incremento de los accidentes de tránsito y la falta de cumplimiento de la ley de tránsito son preocupantes.
@@ -1319,18 +1333,6 @@ El Tribunal Superior Electoral es competente para conocer impugnaciones contra r
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779989507/autonoticias/articles/20260528_173147_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 28 May 2026 17:33:30 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260528173330</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Permiso digital de salida del menor será gratuito por un mes; costará RD$6,500]]></title>
-    <link>https://n.com.do/?p=844703</link>
-    <description><![CDATA[El director general de Migración, Luis Rafael Lee Ballester, informó que el Permiso de Salida del Menor será digital y gratuito durante 30 días. Después de este periodo, el costo será de RD$6,500.
-
-El anuncio se realizó en el Palacio Nacional, encabezado por el presidente de la República, Luis Abinader, durante el lanzamiento del nuevo servicio de Migración.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779988344/autonoticias/articles/20260528_171224_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 28 May 2026 17:14:17 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260528171417</guid>
   </item>
 </channel>
 </rss>
