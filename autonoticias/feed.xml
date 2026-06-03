@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 03 Jun 2026 19:32:58 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 03 Jun 2026 19:33:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Wilson Camacho sobre fiscal imputado por soborno en caso Senasa: “No hay forma de negarlo”]]></title>
+    <link>https://eldia.com.do/wilson-camacho-sobre-fiscal-imputado-por-soborno-en-caso-senasa-no-hay-forma-de-negarlo/</link>
+    <description><![CDATA[Wilson Manuel Camacho, director de Persecución del Ministerio Público, declaró que no hay forma de negar los hechos en el caso de soborno imputado al fiscal Aurelio Valdez Alcántara. Según Camacho, existen pruebas suficientes que sustentan la acusación.
+
+El arresto de Valdez Alcántara se llevó a cabo mediante una entrega controlada de dinero previamente marcado y fotografiado. La prisión preventiva fue ratificada por el Tribunal y la Suprema Corte de Justicia.
+
+Camacho destacó la necesidad de revisar internamente las condiciones de los fiscales, ya que su función es perseguir delitos con pruebas suficientes.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780515138/autonoticias/articles/20260603_193218_article.webp" type="image/jpeg"/>
+    <pubDate>Wed, 03 Jun 2026 19:33:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260603193341</guid>
+  </item>
+
+  <item>
     <title><![CDATA[La aprobación de Bukele se sitúa en 85,5 % tras siete años en el Gobierno de El Salvador]]></title>
     <link>https://panorama.com.do/la-aprobacion-de-bukele-se-situa-en-855-tras-siete-anos-en-el-gobierno-de-el-salvador-2/</link>
     <description><![CDATA[La aprobación del presidente salvadoreño Nayib Bukele alcanza el 85,5 % al cierre del segundo año de su segundo mandato, según una encuesta de La Prensa Gráfica. Esta cifra refleja una caída de 6,4 puntos respecto a enero.
@@ -1317,20 +1331,6 @@ Entre los implicados están Eduardo Rafael Estévez Bretón, Fredy Núñez, Juli
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779996318/autonoticias/articles/20260528_192517_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 28 May 2026 19:27:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260528192700</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader inaugura nuevas infraestructuras en la UASD]]></title>
-    <link>https://panorama.com.do/abinader-inaugura-nuevas-infraestructuras-en-la-uasd/</link>
-    <description><![CDATA[El presidente Luis Abinader y el rector Editrudis Beltrán inauguraron un moderno Centro Multiservicios y nuevas infraestructuras en la UASD. Estas obras forman parte del proceso de modernización y fortalecimiento institucional de la universidad.
-
-El nuevo Centro Multiservicios, con una inversión de RD$151 millones, centraliza servicios académicos y administrativos. Además, se entregaron nuevas aulas para tecnología e idiomas, y se inauguró la Plaza del Estudiante.
-
-La UASD también puso en funcionamiento un sistema audiovisual para fortalecer la formación en producción audiovisual y comunicación digital. La Clínica C de la Escuela de Odontología fue renovada con nuevas unidades dentales.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779995155/autonoticias/articles/20260528_190555_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 28 May 2026 19:06:50 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260528190650</guid>
   </item>
 </channel>
 </rss>
