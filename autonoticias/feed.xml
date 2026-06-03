@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 02 Jun 2026 22:01:09 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 03 Jun 2026 00:26:43 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Presidente Abinader designa nuevos miembros del Consejo de Directores del CEA]]></title>
+    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-designa-nuevos-miembros-del-consejo-de-directores-del-cea</link>
+    <description><![CDATA[El presidente Luis Abinader ha designado a tres nuevos miembros para el Consejo de Directores del Consejo Estatal del Azúcar (CEA) mediante el Decreto núm. 352-26.
+
+José García Ramírez y Rosa Pastora Méndez Méndez representarán al sector privado, mientras que Aníbal Amparo lo hará por el sector fabril. Estas designaciones estarán vigentes hasta la disolución del CEA o hasta que el Poder Ejecutivo disponga su sustitución.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780446367/autonoticias/articles/20260603_002606_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 03 Jun 2026 00:26:43 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260603002643</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Senado aprueba en segunda lectura modificación a Ley de partidos]]></title>
     <link>https://eldia.com.do/senado-aprueba-en-segunda-lectura-modificacion-a-ley-de-partidos/</link>
     <description><![CDATA[El Senado dominicano aprobó en segunda lectura un proyecto de ley que modifica la Ley de partidos 33-18. Esta propuesta busca evitar la entrada de dinero ilícito en la política mediante controles financieros más estrictos.
@@ -1325,20 +1337,6 @@ El legislador explicó que su salida no está relacionada con diferencias person
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779924788/autonoticias/articles/20260527_233308_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 27 May 2026 23:34:16 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260527233416</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Desmantelan laboratorio de falsificación de documentos en Santiago]]></title>
-    <link>https://panorama.com.do/desmantelan-laboratorio-de-falsificacion-de-documentos-en-santiago/</link>
-    <description><![CDATA[Las autoridades desmantelaron un laboratorio clandestino en Santiago de los Caballeros, dedicado a la falsificación de documentos y delitos cibernéticos. En el operativo realizado en el sector Villa Olímpica, fue arrestado Luis Miguel Vargas Núñez, señalado como el principal responsable.
-
-La intervención fue ejecutada por agentes de la Subdirección Regional Cibao Central de Inteligencia, junto a unidades preventivas, el equipo Swat y el Ministerio Público. Se ocuparon computadoras, celulares, memorias USB, discos duros y otros equipos tecnológicos.
-
-Vargas Núñez habría utilizado los equipos para extraer datos personales de ciudadanos extranjeros con fines de estafa. La Policía Nacional informó que tanto el detenido como las evidencias serán puestos a disposición del Ministerio Público.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779917121/autonoticias/articles/20260527_212521_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 27 May 2026 21:26:23 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260527212623</guid>
   </item>
 </channel>
 </rss>
