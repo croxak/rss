@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 03 Jun 2026 03:06:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 03 Jun 2026 10:52:22 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Trump da su respaldo “completo y total” a Abelardo de la Espriella en segunda vuelta en Colombia]]></title>
+    <link>https://n.com.do/2026/06/02/trump-da-su-respaldo-completo-y-total-a-abelardo-de-la-espriella-en-segunda-vuelta-en-colombia/</link>
+    <description><![CDATA[Donald Trump ha respaldado a Abelardo de la Espriella, candidato presidencial en Colombia, tras su victoria en la primera vuelta de las elecciones. De la Espriella, conocido como "El Tigre", obtuvo el 43,74 % de los votos, superando al candidato oficialista Iván Cepeda.
+
+Trump resaltó la importancia de estas elecciones para el futuro de Colombia y su relación con Estados Unidos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780483918/autonoticias/articles/20260603_105158_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 03 Jun 2026 10:52:22 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260603105222</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Capturan y deportan a dominicana vinculada a crimen en Villa Altagracia]]></title>
     <link>https://panorama.com.do/capturan-y-deportan-a-dominicana-vinculada-a-crimen-en-villa-altagracia/</link>
     <description><![CDATA[Raysa Corporán Guzmán, de 34 años, fue deportada desde Estados Unidos y entregada a la Policía Nacional en el Aeropuerto Internacional de Las Américas. Era buscada por su presunta vinculación con un homicidio en Villa Altagracia.
@@ -1323,20 +1335,6 @@ Martínez cumplirá su condena en el Centro de Corrección y Rehabilitación Naj
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779933309/autonoticias/articles/20260528_015509_article.png" type="image/png"/>
     <pubDate>Thu, 28 May 2026 01:55:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260528015557</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Senado aprueba en primera lectura proyecto modifica ley de partidos en relación a dinero ilícito]]></title>
-    <link>https://www.diariolibre.com/politica/congreso-nacional/2026/05/27/senado-aprueba-proyecto-modifica-ley-de-partidos/3548077</link>
-    <description><![CDATA[El Senado dominicano aprobó en primera lectura un proyecto de ley que modifica la Ley 33-18 de Partidos Políticos. Esta iniciativa busca fortalecer la integridad y transparencia en el sistema político.
-
-Entre las modificaciones propuestas se incluyen requisitos como la declaración jurada de patrimonio y certificaciones de no antecedentes penales para quienes aspiren a cargos de elección popular o dirección partidaria.
-
-El proyecto también introduce cambios en el financiamiento de partidos, obligando a verificar el origen lícito de los recursos y permitiendo la sustitución de candidatos por falsedad en la información presentada.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779927412/autonoticias/articles/20260528_001651_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 28 May 2026 00:17:18 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260528001718</guid>
   </item>
 </channel>
 </rss>
