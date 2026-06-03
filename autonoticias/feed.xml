@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 03 Jun 2026 19:33:41 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 03 Jun 2026 19:35:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Abinader juramenta el Comité de Salud Mental Penitenciaria y anuncia tres nuevos centros especializados]]></title>
+    <link>https://eldia.com.do/abinader-juramenta-el-comite-de-salud-mental-penitenciaria-y-anuncia-tres-nuevos-centros-especializados/</link>
+    <description><![CDATA[El presidente Luis Abinader encabezó la juramentación del Comité Dominicano de Salud Mental Penitenciaria, buscando mejorar la atención de salud mental en las cárceles del país. Este comité, liderado por Sandra Margarita Fernández Cedeño, trabajará junto a especialistas y académicos.
+
+Durante el evento, Abinader anunció la apertura de tres nuevos centros penitenciarios especializados en salud mental en Azua, La Vega y San Pedro de Macorís, que comenzarán a operar este viernes.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780515261/autonoticias/articles/20260603_193421_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 03 Jun 2026 19:35:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260603193519</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Wilson Camacho sobre fiscal imputado por soborno en caso Senasa: “No hay forma de negarlo”]]></title>
     <link>https://eldia.com.do/wilson-camacho-sobre-fiscal-imputado-por-soborno-en-caso-senasa-no-hay-forma-de-negarlo/</link>
     <description><![CDATA[Wilson Manuel Camacho, director de Persecución del Ministerio Público, declaró que no hay forma de negar los hechos en el caso de soborno imputado al fiscal Aurelio Valdez Alcántara. Según Camacho, existen pruebas suficientes que sustentan la acusación.
@@ -1317,20 +1329,6 @@ Para los servidores administrativos, el aumento será entre un 35 % y un 50 %, a
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780000415/autonoticias/articles/20260528_203335_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 28 May 2026 20:34:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260528203405</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Imponen garantía económica de ocho millones de pesos a implicados en muerte de Stephora]]></title>
-    <link>https://panorama.com.do/imponen-garantia-economica-de-ocho-millones-de-pesos-a-implicados-en-muerte-de-stephora/</link>
-    <description><![CDATA[El juez Joob García del Juzgado de la Instrucción del Distrito Judicial de Santiago ha impuesto una garantía económica de RD$8 millones a los implicados en la muerte de Stephora Joseph.
-
-La niña, de 11 años y nacionalidad haitiana, falleció ahogada en una piscina de la hacienda Los Caballos, en Gurabo, durante una excursión del colegio Leonardo Da Vinci.
-
-Entre los implicados están Eduardo Rafael Estévez Bretón, Fredy Núñez, Julio César Muñoz, Víctor Manuel Muñoz y Dominga Blanco Muñoz. El caso es calificado como homicidio involuntario por el Ministerio Público.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779996318/autonoticias/articles/20260528_192517_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 28 May 2026 19:27:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260528192700</guid>
   </item>
 </channel>
 </rss>
