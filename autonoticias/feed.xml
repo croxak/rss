@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 03 Jun 2026 13:30:08 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 03 Jun 2026 13:49:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Mivhed y sector financiero impulsan mecanismo que facilitará el acceso a vivienda a familias sin historial crediticio]]></title>
+    <link>https://www.presidencia.gob.do/noticias/mivhed-y-sector-financiero-impulsan-mecanismo-que-facilitara-el-acceso-vivienda-familias</link>
+    <description><![CDATA[El Ministerio de Vivienda, Hábitat y Edificaciones y el sector financiero han suscrito un acuerdo para facilitar el acceso a vivienda a familias sin historial crediticio. Esta iniciativa busca utilizar información alternativa sobre hábitos de pago para mejorar los perfiles crediticios de potenciales compradores.
+
+El ministro Víctor “Ito” Bisonó destacó que el acceso a una vivienda no debe depender únicamente de mecanismos tradicionales de evaluación financiera. Rosanna Ruiz, presidenta ejecutiva de la Asociación de Bancos Múltiples, resaltó el impacto transformador de esta alianza en el marco de Meta RD 2036.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780494534/autonoticias/articles/20260603_134854_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 03 Jun 2026 13:49:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260603134920</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ejército incauta contrabando transportado en mulos en zona fronteriza de Elías Piña]]></title>
     <link>https://robertocavada.com/ejercito-incauta-contrabando-transportado-en-mulos-en-zona-fronteriza-de-elias-pina/</link>
     <description><![CDATA[El Ejército de República Dominicana incautó un cargamento de contrabando en la provincia Elías Piña. La operación se realizó en Loma del Ranchito, donde se encontraron tres mulos cargados con mercancías ilícitas.
@@ -1323,22 +1335,6 @@ Los restos fueron trasladados a la morgue del Inacif en San Pedro de Macorís pa
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779979211/autonoticias/articles/20260528_144011_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 28 May 2026 14:40:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260528144039</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Vaguada seguirá provocando aguaceros sobre el territorio dominicano pese a su debilitamiento gradual]]></title>
-    <link>https://www.diariolibre.com/planeta/clima/2026/05/28/clima-en-rd-vaguada-seguira-provocando-aguaceros-este-jueves/3548594</link>
-    <description><![CDATA[La vaguada en los niveles altos de la atmósfera en República Dominicana comenzará a debilitarse gradualmente, pero seguirá provocando aguaceros en combinación con el viento del este/sureste. Durante la mañana del jueves se esperan aguaceros dispersos en el litoral caribeño y la región noreste. Por la tarde, se prevén aguaceros moderados y tronadas aisladas en el noreste, sureste, la Cordillera Central y la zona fronteriza.
-
-Las provincias con mayor probabilidad de lluvias incluyen Santo Domingo, San Cristóbal, Barahona, Samaná, Hato Mayor, Monte Plata, El Seibo, Duarte, Sánchez Ramírez, La Altagracia, La Romana, María Trinidad Sánchez, Dajabón y Santiago Rodríguez. Las temperaturas seguirán calurosas, con mínimas entre 22 °C y 24 °C y máximas entre 30 °C y 32 °C.
-
-Para el viernes, se espera la llegada de una masa de aire con menor humedad y polvo del Sahara, lo que traerá condiciones mayormente soleadas y calurosas, con escasas lluvias. Sin embargo, una débil vaguada y el calentamiento diurno podrían causar aguaceros dispersos y tronadas aisladas en el noroeste, la Cordillera Central y la zona fronteriza.
-
-El sábado, se prevé un ambiente brumoso con escasas precipitaciones debido a la poca humedad y el polvo del Sahara, con chubascos aislados y posibles tronadas en el noroeste, la zona fronteriza y la Cordillera Central.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779975589/autonoticias/articles/20260528_133949_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 28 May 2026 13:40:17 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260528134017</guid>
   </item>
 </channel>
 </rss>
