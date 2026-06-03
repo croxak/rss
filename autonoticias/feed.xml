@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 03 Jun 2026 17:15:53 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 03 Jun 2026 17:17:01 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Antonio Marte pide cerrar el Intrant y la Digesett por la falta de control con los motoristas]]></title>
+    <link>https://listindiario.com/la-republica/20260603/antonio-marte-pide-cerrar-intrant-digesett-falta-control-motoristas_908304.html</link>
+    <description><![CDATA[Antonio Marte, senador y presidente de Conatra, ha pedido el cierre del Intrant y la Digesett por la falta de control sobre los motoristas. Según Marte, el incremento de los accidentes de tránsito y la falta de cumplimiento de la ley de tránsito son preocupantes.
+
+El senador destacó que la ley exige que los motociclistas usen casco, pero cuestionó su cumplimiento. También criticó la presencia de motoristas indocumentados y paradas ilegales.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780506985/autonoticias/articles/20260603_171625_article.png" type="image/png"/>
+    <pubDate>Wed, 03 Jun 2026 17:17:01 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260603171701</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Suprema rechaza apelación de fiscal Aurelio Valdez y mantiene prisión preventiva]]></title>
     <link>https://panorama.com.do/suprema-rechaza-apelacion-de-fiscal-aurelio-valdez-y-mantiene-prision-preventiva/</link>
     <description><![CDATA[La Suprema Corte de Justicia rechazó la apelación del fiscal Aurelio Valdez Alcántara, acusado de recibir un soborno de 10 mil dólares en el caso del Seguro Nacional de Salud (Senasa).
@@ -1319,20 +1331,6 @@ El anuncio se realizó en el Palacio Nacional, encabezado por el presidente de l
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779988344/autonoticias/articles/20260528_171224_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 28 May 2026 17:14:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260528171417</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Permiso de salida de menores ya podrá tramitarse 100% en línea en República Dominicana]]></title>
-    <link>https://eldia.com.do/gobierno-pone-en-marcha-permiso-de-salida-de-menores-100-digital-proceso-reducira-tiempo-y-gastos-para-las-familias/</link>
-    <description><![CDATA[El Gobierno dominicano ha implementado un sistema digital para gestionar el permiso de salida de menores de edad completamente en línea. Este nuevo proceso busca reducir tiempos de espera y costos para las familias, eliminando la necesidad de desplazamientos físicos y documentos impresos.
-
-Durante los primeros 30 días, el servicio será gratuito. La plataforma, parte del programa Burocracia Cero, fue presentada por el presidente Luis Abinader, quien destacó la simplificación de procesos y la mejora de la experiencia del usuario.
-
-El sistema permitirá validaciones automáticas y pagos electrónicos, con una tarifa fija de RD$3,000 para el servicio notarial digital. En una primera etapa, estará disponible solo para padres dominicanos que autoricen al otro progenitor a viajar con el menor.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779988330/autonoticias/articles/20260528_171210_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 28 May 2026 17:12:38 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260528171238</guid>
   </item>
 </channel>
 </rss>
