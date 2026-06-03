@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 03 Jun 2026 11:48:58 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 03 Jun 2026 13:30:08 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Ejército incauta contrabando transportado en mulos en zona fronteriza de Elías Piña]]></title>
+    <link>https://robertocavada.com/ejercito-incauta-contrabando-transportado-en-mulos-en-zona-fronteriza-de-elias-pina/</link>
+    <description><![CDATA[El Ejército de República Dominicana incautó un cargamento de contrabando en la provincia Elías Piña. La operación se realizó en Loma del Ranchito, donde se encontraron tres mulos cargados con mercancías ilícitas.
+
+Los artículos incautados incluyen 12,000 cigarrillos marca Capital, seis sacos de ajo y 1,754 botellas de ron. Los responsables huyeron al notar la presencia militar.
+
+Las mercancías fueron trasladadas al 11er. Batallón de Infantería para los procedimientos legales correspondientes.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780493344/autonoticias/articles/20260603_132903_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 03 Jun 2026 13:30:08 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260603133008</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Venta de boletas Juegos Centroamericanos 2026 inicia el jueves]]></title>
     <link>https://www.elcaribe.com.do/deportes/polideportivo/inicia-venta-de-boletos-juegos-santo-domingo-2026/</link>
     <description><![CDATA[El Comité Organizador de los XXV Juegos Centroamericanos y del Caribe Santo Domingo 2026 y UEPA Tickets han anunciado la venta de boletas para la ceremonia inaugural, que comenzará este jueves. La ceremonia se realizará el 24 de julio en el Estadio Olímpico.
@@ -1325,18 +1339,6 @@ El sábado, se prevé un ambiente brumoso con escasas precipitaciones debido a l
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779975589/autonoticias/articles/20260528_133949_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 28 May 2026 13:40:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260528134017</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Detienen a 65 indocumentados en operativos en la frontera con Dajabón]]></title>
-    <link>https://n.com.do/2026/05/28/detienen-a-65-indocumentados-en-operativos-en-la-frontera-con-dajabon/</link>
-    <description><![CDATA[El Ejército de República Dominicana detuvo a 65 nacionales haitianos en condición migratoria irregular durante operativos en la frontera con Dajabón. Las detenciones se realizaron en el Puesto Masacre, el puesto de chequeo La Ciénega y la sección Los Pomos.
-
-Los detenidos fueron entregados a la Dirección General de Migración para los fines legales correspondientes. Las acciones forman parte de los esfuerzos para combatir el tráfico ilegal de personas y garantizar la seguridad nacional.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779975527/autonoticias/articles/20260528_133846_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 28 May 2026 13:39:18 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260528133918</guid>
   </item>
 </channel>
 </rss>
