@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 03 Jun 2026 16:01:23 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 03 Jun 2026 16:01:48 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[EEUU señala a RD como una de las economías que exporta productos realizados con trabajo forzoso]]></title>
+    <link>https://listindiario.com/economia/20260603/eeuu-senala-rd-economias-exporta-productos-realizados-trabajo-forzoso_908305.html</link>
+    <description><![CDATA[Estados Unidos ha incluido a República Dominicana en un informe que señala a economías que exportan productos realizados con trabajo forzoso. Según la Oficina del Representante Comercial de Estados Unidos, el país no ha aplicado eficazmente una prohibición a la importación de estos bienes.
+
+El informe indica que la falta de imposición de esta prohibición es irrazonable y perjudica el comercio de Estados Unidos. Aunque no se especifican los productos, República Dominicana es parte del Tratado de Libre Comercio con varios países de Centroamérica y Estados Unidos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780502248/autonoticias/articles/20260603_155728_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 03 Jun 2026 16:01:48 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260603160148</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Agente de Migración fallece tras ser atropellado mientras se dirigía a sus labores]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/06/03/dgm-lamenta-fallecimiento-de-agente-migratorio/3554775?utm_source=relacionadas&amp;utm_medium=portada&amp;utm_campaign=relacionadas</link>
     <description><![CDATA[La Dirección General de Migración (DGM) lamenta el fallecimiento del agente Snayder Almánzar, quien murió tras un accidente de tránsito el 31 de mayo. Almánzar sufrió un trauma craneoencefálico y murió por un shock hipovolémico.
@@ -1323,18 +1335,6 @@ Las demandas incluyen aumentos salariales, mejoras en condiciones de trabajo, un
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779980372/autonoticias/articles/20260528_145932_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 28 May 2026 15:01:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260528150139</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[FBI arresta a exoficial de la CIA tras hallar lingotes de oro por 40 millones de dólares]]></title>
-    <link>https://www.diariolibre.com/mundo/estados-unidos/2026/05/28/fbi-arresta-a-exagente-cia-tras-hallar-lingotes-de-oro-us-40-mm/3548760</link>
-    <description><![CDATA[El FBI arrestó a David Rush, exalto funcionario de la CIA, tras hallar en su residencia de Virginia más de 300 lingotes de oro valorados en más de 40 millones de dólares, junto con millones en efectivo y relojes de lujo.
-
-La detención se produjo el 19 de mayo después de que una investigación interna de la CIA detectara irregularidades en el manejo de fondos destinados a operaciones oficiales. Rush enfrenta cargos por presunto fraude, malversación de fondos públicos y falsificación de registros de asistencia.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779980341/autonoticias/articles/20260528_145901_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 28 May 2026 14:59:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260528145940</guid>
   </item>
 </channel>
 </rss>
