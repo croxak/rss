@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 04 Jun 2026 14:25:25 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 04 Jun 2026 17:54:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Autoridades capturan a “Chukito”, buscado por violencia de género contra su expareja]]></title>
+    <link>https://eldia.com.do/autoridades-capturan-a-chukito-buscado-por-violencia-de-genero-contra-su-expareja/</link>
+    <description><![CDATA[Jean Carlos Hernández Santos, conocido como “Chukito”, fue arrestado en Santo Domingo Este por presunta violencia de género contra su expareja, Rosmery Pichardo. La captura fue realizada por la Policía Nacional y el Ministerio Público.
+
+La orden de arresto fue emitida el 1 de mayo de 2026, tras denuncias de amenazas, agresiones y acoso. El detenido será presentado ante el Ministerio Público para los procedimientos legales correspondientes.
+
+Las autoridades reiteran su compromiso de perseguir y someter a la justicia a quienes cometan violencia de género e intrafamiliar.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780595647/autonoticias/articles/20260604_175406_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 04 Jun 2026 17:54:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260604175434</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Arrestan a tres hombres acusados de simular ser taxistas para asaltar a pasajeros]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/06/03/caen-banda-de-falsos-taxistas-que-asaltaban-pasajeros-en-santiago/3555322?utm_source=relacionadas&amp;utm_medium=portada&amp;utm_campaign=relacionadas</link>
     <description><![CDATA[La Policía Nacional detuvo a tres hombres en Santiago, acusados de simular ser taxistas para asaltar a pasajeros. Los arrestados son Jordy Abreu Capellán, Elvin de Jesús Torres Espinal y Charli Peña. Operaban entre Santiago y Monseñor Nouel.
@@ -1317,18 +1331,6 @@ Anel Castillo y Ariel Rosario lograron medallas de bronce en sus respectivas cat
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780019164/autonoticias/articles/20260529_014604_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 01:46:44 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529014644</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Senador Antonio Taveras Guzmán pone a circular su libro "La democracia del favor"]]></title>
-    <link>https://www.diariolibre.com/revista/cultura/2026/05/28/senador-antonio-taveras-guzman-pone-a-circular-libro/3549466</link>
-    <description><![CDATA[El senador Antonio Taveras Guzmán lanzó su libro "La Democracia del Favor" en la Biblioteca Nacional. La obra explora el clientelismo político en República Dominicana, mostrando cómo la pobreza obliga a muchos a depender de favores para acceder a derechos básicos.
-
-Historias como la de doña Juana, enferma de cáncer, y un niño que vende paletas para sostener a su familia, ilustran la dependencia de favores en una estructura social desigual. El libro denuncia esta realidad y propone cambios para desmontar el sistema clientelar.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780019154/autonoticias/articles/20260529_014553_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 01:46:27 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529014627</guid>
   </item>
 </channel>
 </rss>
