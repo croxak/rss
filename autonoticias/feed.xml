@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 03 Jun 2026 19:35:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 04 Jun 2026 00:15:06 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[DNCD arresta en Cotuí a hombre requerido en extradición por narcotráfico en Estados Unidos]]></title>
+    <link>https://elnuevodiario.com.do/dncd-arresta-en-cotui-a-hombre-requerido-en-extradicion-por-narcotrafico-en-estados-unidos/</link>
+    <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD), en colaboración con el Ministerio Público y el Servicio de Alguaciles de Estados Unidos, arrestó en Cotuí a Rafael Antonio Castro Facenda. Es requerido por las autoridades estadounidenses por presuntos vínculos con el tráfico internacional de drogas.
+
+El arresto se llevó a cabo en la calle Colón, cumpliendo una orden de extradición emitida por la Suprema Corte de Justicia. Castro Facenda permanece bajo control del Ministerio Público mientras se desarrollan los procedimientos legales correspondientes.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780532081/autonoticias/articles/20260604_001441_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 04 Jun 2026 00:15:06 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260604001506</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader juramenta el Comité de Salud Mental Penitenciaria y anuncia tres nuevos centros especializados]]></title>
     <link>https://eldia.com.do/abinader-juramenta-el-comite-de-salud-mental-penitenciaria-y-anuncia-tres-nuevos-centros-especializados/</link>
     <description><![CDATA[El presidente Luis Abinader encabezó la juramentación del Comité Dominicano de Salud Mental Penitenciaria, buscando mejorar la atención de salud mental en las cárceles del país. Este comité, liderado por Sandra Margarita Fernández Cedeño, trabajará junto a especialistas y académicos.
@@ -1317,18 +1329,6 @@ Residente en Estados Unidos, Martínez fue detenido en Puerto Plata en mayo de 2
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780001937/autonoticias/articles/20260528_205857_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 28 May 2026 20:59:24 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260528205924</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Poder Judicial acuerda aumento salarial de hasta un 50 % para servidores administrativos y 30 % para jueces]]></title>
-    <link>https://eldia.com.do/poder-judicial-aprueba-aumento-salarial-de-30-para-jueces/</link>
-    <description><![CDATA[El Consejo del Poder Judicial ha decidido incrementar los salarios de jueces y servidores administrativos. Los jueces recibirán un aumento del 30 %, comenzando con un 20 % en julio y el 10 % restante en 2027.
-
-Para los servidores administrativos, el aumento será entre un 35 % y un 50 %, aplicado de manera escalonada. Esta medida busca mejorar las condiciones laborales en el sistema judicial.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780000415/autonoticias/articles/20260528_203335_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 28 May 2026 20:34:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260528203405</guid>
   </item>
 </channel>
 </rss>
