@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 04 Jun 2026 02:19:08 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 04 Jun 2026 14:23:56 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Presentan acusación contra tres dominicanos arrestados con 300 kilos de cocaína en aguas de PR]]></title>
+    <link>https://listindiario.com/la-republica/20260604/presentan-acusacion-tres-dominicanos-arrestados-300-kilogramos-cocaina-aguas-pr_908424.html</link>
+    <description><![CDATA[El 15 de mayo, tres dominicanos fueron arrestados mientras se dirigían en una lancha hacia el norte de Puerto Rico con 300 kilogramos de cocaína. Las autoridades lograron incautar 178 kilogramos de la droga.
+
+La Patrulla Fronteriza detuvo la lancha, pero los acusados lanzaron fardos al agua antes de que la embarcación se hundiera. Un gran jurado federal emitió una acusación formal de nueve cargos por importar cocaína a Estados Unidos.
+
+Pedro Emmanuel Carrión Sánchez enfrenta un cargo adicional por no detener la embarcación. Los tres también enfrentan un cargo de inmigración por entrada ilegal al país. El fiscal adjunto Luis A. Valentín está a cargo del caso.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780583001/autonoticias/articles/20260604_142321_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 04 Jun 2026 14:23:56 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260604142356</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Andrés Vander Horst sale de la Fiduciaria Reservas tras casi seis años de servicio]]></title>
     <link>https://elnuevodiario.com.do/andres-van-der-horst-sale-de-la-fiduciaria-reservas-tras-casi-seis-anos-de-servicio/</link>
     <description><![CDATA[Andrés Vander Horst ha concluido su etapa en Fiduciaria Reservas tras casi seis años de servicio. La noticia fue compartida en la red social X, donde personalidades como Samuel Pereyra y Bolívar Valera elogiaron su gestión y logros en la institución.
@@ -1315,18 +1329,6 @@ La defensa de José Ramón Peralta ha cuestionado la legalidad de los interrogat
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780013809/autonoticias/articles/20260529_001649_article.webp" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 00:17:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529001717</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Haití y República Dominicana reanudarán vuelos desde el sábado tras dos años suspendidos]]></title>
-    <link>https://www.diariolibre.com/actualidad/nacional/2026/05/28/haiti-y-republica-dominicana-reanudaran-vuelos-desde-el-sabado/3549415</link>
-    <description><![CDATA[Haití y República Dominicana reanudarán sus vuelos el próximo 30 de mayo, tras más de dos años de suspensión debido a la crisis de violencia en Haití. Las operaciones aéreas se llevarán a cabo desde el Aeropuerto Internacional de Cabo Haitiano.
-
-La reanudación de los vuelos fue anunciada el 17 de abril durante una reunión entre el canciller dominicano, Roberto Álvarez, y su homóloga haitiana, Raina Forbin. El Ministerio de Exteriores de Haití reafirmó su compromiso con el diálogo y la cooperación con las autoridades dominicanas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780013747/autonoticias/articles/20260529_001546_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 00:16:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529001633</guid>
   </item>
 </channel>
 </rss>
