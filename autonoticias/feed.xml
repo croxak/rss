@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 04 Jun 2026 17:54:34 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 04 Jun 2026 17:57:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Renombrarán Base Aérea Puerto Plata en honor al general piloto Rojas Tabar]]></title>
+    <link>https://elnuevodiario.com.do/renombraran-base-aerea-puerto-plata-en-honor-al-general-piloto-rojas-tabar/</link>
+    <description><![CDATA[La Base Aérea Puerto Plata será renombrada en honor al mayor general piloto (r) Juan Bautista Rojas Tabar. El evento se realizará el viernes 5 de junio a las 11:00 de la mañana en Sabaneta de Cangrejos, donde también se develará un busto del oficial.
+
+El comandante general de la Fuerza Aérea de República Dominicana, mayor general piloto Floreal Suárez Martínez, encabezará la ceremonia junto a la Plana Mayor de la institución y otras autoridades civiles y militares. Este homenaje se realiza al cumplirse un año del fallecimiento de Rojas Tabar, quien murió el 18 de junio de 2025.
+
+La iniciativa del renombramiento y el develamiento del busto fue del coronel paracaidista William Leandro Medina Garnes, quien comandó la base durante dos años.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780595797/autonoticias/articles/20260604_175636_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 04 Jun 2026 17:57:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260604175709</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Autoridades capturan a “Chukito”, buscado por violencia de género contra su expareja]]></title>
     <link>https://eldia.com.do/autoridades-capturan-a-chukito-buscado-por-violencia-de-genero-contra-su-expareja/</link>
     <description><![CDATA[Jean Carlos Hernández Santos, conocido como “Chukito”, fue arrestado en Santo Domingo Este por presunta violencia de género contra su expareja, Rosmery Pichardo. La captura fue realizada por la Policía Nacional y el Ministerio Público.
@@ -1319,18 +1333,6 @@ Este incidente es el último revés para Blue Origin, que el mes pasado falló e
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780026975/autonoticias/articles/20260529_035615_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 03:56:54 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529035654</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Dimitrova conquista oro en Panam de Karate]]></title>
-    <link>https://elnuevodiario.com.do/dimitrova-conquista-oro-en-panam-de-karate/</link>
-    <description><![CDATA[María Dimitrova se alzó con la medalla de oro en kata al vencer a Gabrielle Henrique de Brasil con un marcador de 3-2 en el Campeonato Panamericano de Karate en Río de Janeiro. Dimitrova también superó a la venezolana Daniela García y a la chilena Gallo Araya en rondas anteriores.
-
-Anel Castillo y Ariel Rosario lograron medallas de bronce en sus respectivas categorías. Pamela Rodríguez y Karen Madera avanzaron a cuartos de final, pero no alcanzaron el podio. La delegación dominicana está respaldada por el Ministerio de Deportes y el Comité Olímpico Dominicano.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780019164/autonoticias/articles/20260529_014604_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 01:46:44 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529014644</guid>
   </item>
 </channel>
 </rss>
