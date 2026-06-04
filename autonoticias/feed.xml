@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 04 Jun 2026 00:29:55 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 04 Jun 2026 01:17:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Presidente Abinader promulga la Ley 25-26 que crea el sistema nacional “Alertas RD” para la búsqueda de personas desaparecidas]]></title>
+    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-promulga-la-ley-25-26-que-crea-el-sistema-nacional-alertas-rd-para-la</link>
+    <description><![CDATA[El presidente Luis Abinader ha promulgado la Ley 25-26, que crea el sistema "Alertas RD" para la búsqueda de personas desaparecidas en República Dominicana. Esta ley busca una respuesta inmediata ante desapariciones, priorizando la dignidad humana.
+
+Las alertas se clasifican en Amber, Silver, Azul y Rosa, según el perfil de la persona afectada. Además, se crea el Registro Nacional de Personas Desaparecidas y el Consejo Nacional para la Búsqueda de Personas Desaparecidas.
+
+La ley establece sanciones para servidores públicos que no cumplan con los protocolos establecidos, reafirmando el compromiso del Gobierno con la seguridad ciudadana.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780535826/autonoticias/articles/20260604_011706_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 04 Jun 2026 01:17:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260604011732</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Hallan el cuerpo de una mujer en una cañada del sector Rafey, Santiago]]></title>
     <link>https://eldia.com.do/hallan-el-cuerpo-de-una-mujer-en-una-canada-del-sector-rafey-santiago/</link>
     <description><![CDATA[El cuerpo de Sugeldy Arias, de 46 años, fue encontrado en una cañada del sector Rafey, Santiago. Presentaba traumas por herida cortante en la cabeza y fue enviado al INACIF para los fines de ley.
@@ -1315,20 +1329,6 @@ Se discutió la seguridad en las escuelas y la integración de contenidos práct
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780013349/autonoticias/articles/20260529_000908_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 00:12:11 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529001211</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[IDAC, DA y FARD inauguran torre de control en San Isidro con inversión de RD$819 millones]]></title>
-    <link>https://panorama.com.do/idac-da-y-fard-inauguran-torre-de-control-en-san-isidro-con-inversion-de-rd819-millones/</link>
-    <description><![CDATA[El Instituto Dominicano de Aviación Civil, el Departamento Aeroportuario y la Fuerza Aérea de la República Dominicana inauguraron una nueva torre de control en la Base Aérea de San Isidro. La obra, con una inversión de RD$819 millones, fue encabezada por la vicepresidenta Raquel Peña.
-
-El proyecto incluye tecnología de control aéreo y sistemas de iluminación de pista bajo estándares internacionales. Igor Rodríguez Durán, director del IDAC, destacó su importancia para la seguridad operacional del país.
-
-Víctor Pichardo, del DA, explicó que el nuevo sistema de balizamiento sustituye una instalación de más de 60 años. Las mejoras fortalecen la conectividad aérea y el turismo, con más de 79,000 operaciones en el primer cuatrimestre del año.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780002383/autonoticias/articles/20260528_210623_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 28 May 2026 21:10:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260528211033</guid>
   </item>
 </channel>
 </rss>
