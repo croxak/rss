@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 04 Jun 2026 00:15:06 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 04 Jun 2026 00:29:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Hallan el cuerpo de una mujer en una cañada del sector Rafey, Santiago]]></title>
+    <link>https://eldia.com.do/hallan-el-cuerpo-de-una-mujer-en-una-canada-del-sector-rafey-santiago/</link>
+    <description><![CDATA[El cuerpo de Sugeldy Arias, de 46 años, fue encontrado en una cañada del sector Rafey, Santiago. Presentaba traumas por herida cortante en la cabeza y fue enviado al INACIF para los fines de ley.
+
+El esposo de la víctima ha sido detenido para fines de investigación. Las autoridades siguen trabajando para esclarecer las circunstancias del caso.
+
+La Policía Nacional y el Ministerio Público ofrecerán más detalles conforme avancen las investigaciones.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780532964/autonoticias/articles/20260604_002924_article.webp" type="image/jpeg"/>
+    <pubDate>Thu, 04 Jun 2026 00:29:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260604002955</guid>
+  </item>
+
+  <item>
     <title><![CDATA[DNCD arresta en Cotuí a hombre requerido en extradición por narcotráfico en Estados Unidos]]></title>
     <link>https://elnuevodiario.com.do/dncd-arresta-en-cotui-a-hombre-requerido-en-extradicion-por-narcotrafico-en-estados-unidos/</link>
     <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD), en colaboración con el Ministerio Público y el Servicio de Alguaciles de Estados Unidos, arrestó en Cotuí a Rafael Antonio Castro Facenda. Es requerido por las autoridades estadounidenses por presuntos vínculos con el tráfico internacional de drogas.
@@ -1315,20 +1329,6 @@ Víctor Pichardo, del DA, explicó que el nuevo sistema de balizamiento sustituy
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780002383/autonoticias/articles/20260528_210623_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 28 May 2026 21:10:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260528211033</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Condenan a 6 meses de prisión a Ángel Martínez por difamación contra Milagros De Camps Germán]]></title>
-    <link>https://n.com.do/2026/05/28/condenan-a-6-meses-de-prision-a-angel-martinez-por-difamacion-contra-milagros-de-camps-german/</link>
-    <description><![CDATA[Ángel Martínez ha sido condenado a 6 meses de prisión por difamar a Milagros De Camps Germán, exviceministra de Medio Ambiente. Además, deberá pagar RD$10 millones, que De Camps Germán solicitó destinar al Sistema Nacional de Áreas Protegidas.
-
-Martínez enfrenta otras demandas por difamación, incluyendo una querella de Faride Raful, ministra de Interior y Policía. En ese caso, se le impusieron medidas de coerción y se ordenó un juicio de fondo.
-
-Residente en Estados Unidos, Martínez fue detenido en Puerto Plata en mayo de 2025 debido a órdenes judiciales pendientes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780001937/autonoticias/articles/20260528_205857_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 28 May 2026 20:59:24 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260528205924</guid>
   </item>
 </channel>
 </rss>
