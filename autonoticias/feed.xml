@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 04 Jun 2026 14:24:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 04 Jun 2026 14:25:25 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Arrestan a tres hombres acusados de simular ser taxistas para asaltar a pasajeros]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/06/03/caen-banda-de-falsos-taxistas-que-asaltaban-pasajeros-en-santiago/3555322?utm_source=relacionadas&amp;utm_medium=portada&amp;utm_campaign=relacionadas</link>
+    <description><![CDATA[La Policía Nacional detuvo a tres hombres en Santiago, acusados de simular ser taxistas para asaltar a pasajeros. Los arrestados son Jordy Abreu Capellán, Elvin de Jesús Torres Espinal y Charli Peña. Operaban entre Santiago y Monseñor Nouel.
+
+Las víctimas eran llevadas a lugares apartados y despojadas de dinero, documentos y pertenencias. Entre ellas se encuentran ciudadanos kenianos que estaban de tránsito en República Dominicana.
+
+Un cuarto sospechoso, "el Patu", sigue prófugo. Las autoridades recuperaron una computadora portátil de una de las víctimas y varios teléfonos celulares.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780583101/autonoticias/articles/20260604_142501_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 04 Jun 2026 14:25:25 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260604142525</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Indomet prevé chubascos aislados; polvo del Sahara sigue incidiendo en temperaturas calurosas]]></title>
     <link>https://n.com.do/2026/06/04/polvo-sahara-altas-temperaturas-chubascos-republica-dominicana/</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informa sobre chubascos aislados en el litoral caribeño, afectando a La Romana, San Pedro de Macorís, Santo Domingo y San Cristóbal. En la tarde, se prevén tronadas y ráfagas de viento en varias provincias debido a una débil vaguada y una onda tropical.
@@ -1315,18 +1329,6 @@ Historias como la de doña Juana, enferma de cáncer, y un niño que vende palet
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780019154/autonoticias/articles/20260529_014553_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 01:46:27 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529014627</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Superintendente de Bancos respalda actuación del BHD ante caso judicializado]]></title>
-    <link>https://www.elcaribe.com.do/panorama/pais/superintendente-de-bancos-respalda-actuacion-del-bhd-ante-caso-judicializado/</link>
-    <description><![CDATA[El superintendente de Bancos, Alejandro Fernández W., respaldó la actuación del Banco BHD en el caso de acreditaciones irregulares atribuido a un exempleado. Fernández destacó que el banco informó y actuó correctamente, sin comprometer la estabilidad de la entidad ni el riesgo para los depositantes.
-
-Durante la presentación de reediciones de la Colección Bibliófilos-BHD, Luis Molina Achécar, presidente del Centro Financiero BHD, reiteró el compromiso del banco con la ética y la responsabilidad. El monto involucrado en el caso supera los RD$ 200 millones, absorbido contablemente sin afectar los resultados financieros.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780013911/autonoticias/articles/20260529_001831_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 00:18:59 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529001859</guid>
   </item>
 </channel>
 </rss>
