@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 04 Jun 2026 14:23:56 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 04 Jun 2026 14:24:12 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Indomet prevé chubascos aislados; polvo del Sahara sigue incidiendo en temperaturas calurosas]]></title>
+    <link>https://n.com.do/2026/06/04/polvo-sahara-altas-temperaturas-chubascos-republica-dominicana/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informa sobre chubascos aislados en el litoral caribeño, afectando a La Romana, San Pedro de Macorís, Santo Domingo y San Cristóbal. En la tarde, se prevén tronadas y ráfagas de viento en varias provincias debido a una débil vaguada y una onda tropical.
+
+El polvo del Sahara sigue presente, afectando la calidad del aire y aumentando las temperaturas. Se recomienda a la población, especialmente a quienes tienen problemas respiratorios, tomar precauciones como ingerir líquidos y evitar la exposición al sol.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780582910/autonoticias/articles/20260604_142150_article.png" type="image/png"/>
+    <pubDate>Thu, 04 Jun 2026 14:24:12 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260604142412</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presentan acusación contra tres dominicanos arrestados con 300 kilos de cocaína en aguas de PR]]></title>
     <link>https://listindiario.com/la-republica/20260604/presentan-acusacion-tres-dominicanos-arrestados-300-kilogramos-cocaina-aguas-pr_908424.html</link>
     <description><![CDATA[El 15 de mayo, tres dominicanos fueron arrestados mientras se dirigían en una lancha hacia el norte de Puerto Rico con 300 kilogramos de cocaína. Las autoridades lograron incautar 178 kilogramos de la droga.
@@ -1315,20 +1327,6 @@ Durante la presentación de reediciones de la Colección Bibliófilos-BHD, Luis 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780013911/autonoticias/articles/20260529_001831_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 00:18:59 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529001859</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Jueza emitirá este viernes fallo de etapa preliminar del caso contra exministros del pasado Gobierno]]></title>
-    <link>https://robertocavada.com/jueza-emitira-este-viernes-fallo-de-etapa-preliminar-del-caso-contra-exministros-del-pasado-gobierno/</link>
-    <description><![CDATA[La jueza Altagracia Ramírez emitirá este viernes el fallo de la fase preliminar del caso contra los exministros Donald Guerrero Ortiz, Gonzalo Castillo y José Ramón Peralta. Este proceso ha durado más de cinco años desde los primeros interrogatorios en febrero de 2021.
-
-Las defensas han cuestionado la legalidad de las actuaciones del Ministerio Público y han insistido en que el expediente ha excedido los plazos razonables. La defensa de Donald Guerrero argumenta que los recursos supuestamente involucrados en un fraude permanecen bajo control del Estado.
-
-La defensa de José Ramón Peralta ha cuestionado la legalidad de los interrogatorios, mientras que la de Gonzalo Castillo ha denunciado irregularidades en el proceso. Algunos querellantes desistieron de sus acciones, y las defensas coinciden en que el Ministerio Público no logró sostener las acusaciones con pruebas suficientes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780013809/autonoticias/articles/20260529_001649_article.webp" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 00:17:17 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529001717</guid>
   </item>
 </channel>
 </rss>
