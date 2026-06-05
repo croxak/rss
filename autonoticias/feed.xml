@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 05 Jun 2026 13:40:19 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 14:09:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Jueza envía a juicio de fondo a Hugo Beras, Jochi Gómez y otros implicados en el caso Camaleón]]></title>
+    <link>https://eldia.com.do/jueza-envia-a-juicio-de-fondo-a-hugo-beras-jochi-gomez-y-otros-implicados-en-el-caso-camaleon/</link>
+    <description><![CDATA[La jueza Yanibet Rivas ha decidido enviar a juicio de fondo a Hugo Beras, José Ángel Gómez Canaán y otros implicados en el caso Camaleón. Se les acusa de adjudicar fraudulentamente un contrato para la modernización de la red semafórica del Gran Santo Domingo.
+
+El Ministerio Público sostiene que los acusados desviaron fondos públicos y realizaron operaciones de lavado de activos. José Ángel Gómez Canaán es señalado como el eje central del esquema, mientras que Hugo Beras habría facilitado adjudicaciones fraudulentas.
+
+Las empresas involucradas en el caso incluyen Transcore Latam S.R.L., Aurix S.A.S., Inprosol S.R.L., OML Inversiones S.R.L., PagoRD Xchange S.R.L., Industria Soltex Dominicana S.R.L. y Dekolor S.R.L.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780668549/autonoticias/articles/20260605_140908_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 05 Jun 2026 14:09:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260605140933</guid>
+  </item>
+
+  <item>
     <title><![CDATA[CNE aprueba nuevos manuales para agilizar las concesiones de proyectos de energía renovable]]></title>
     <link>https://www.presidencia.gob.do/noticias/cne-aprueba-nuevos-manuales-para-agilizar-las-concesiones-de-proyectos-de-energia</link>
     <description><![CDATA[La Comisión Nacional de Energía (CNE) ha aprobado nuevos manuales para agilizar las concesiones de proyectos de energía renovable, enfocados en energía solar fotovoltaica y eólica.
@@ -1323,18 +1337,6 @@ Familiares y vecinos expresaron su dolor y preocupación por la violencia en la 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780064852/autonoticias/articles/20260529_142731_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 14:28:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529142817</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Embajada de EE.UU. fija posición sobre visas y advierte contra uso político de la justicia]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/05/29/embajada-de-ee-uu-fija-postura-sobre-visas-y-justicia-2012359/</link>
-    <description><![CDATA[La Embajada de los Estados Unidos en Santo Domingo se pronunció sobre la atención mediática relacionada con visas, reafirmando su política de no comentar sobre casos individuales. La embajadora Leah F. Campos subrayó la importancia de un sistema judicial independiente para preservar la confianza pública.
-
-La diplomática rechazó cualquier intento de manipular los procesos judiciales con fines políticos, señalando que estas prácticas afectan la credibilidad de las instituciones democráticas. También mencionó situaciones en Estados Unidos, como los casos contra Donald Trump, que fueron rechazadas en las urnas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780064238/autonoticias/articles/20260529_141718_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 14:17:47 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529141747</guid>
   </item>
 </channel>
 </rss>
