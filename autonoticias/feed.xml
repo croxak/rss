@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 05 Jun 2026 12:40:26 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 12:41:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[INDOMET prevé lluvias para este fin de semana y mantiene alerta por calor]]></title>
+    <link>https://robertocavada.com/indomet-preve-lluvias-para-este-fin-de-semana-y-mantiene-alerta-por-calor/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (INDOMET) ha anunciado que este fin de semana se registrarán lluvias en varias provincias debido a una vaguada. Se esperan aguaceros, tormentas eléctricas y ráfagas de viento, especialmente en Santiago, Valverde, Santiago Rodríguez, Dajabón, Monte Cristi, Puerto Plata, La Vega, Espaillat, Hermanas Mirabal, María Trinidad Sánchez y Samaná.
+
+INDOMET también advierte sobre las altas temperaturas y la presencia de polvo del Sahara, que afecta la calidad del aire. Recomiendan a la población mantenerse hidratada y evitar la exposición prolongada al sol.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780663234/autonoticias/articles/20260605_124034_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 05 Jun 2026 12:41:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260605124141</guid>
+  </item>
+
+  <item>
     <title><![CDATA[MP pide 12 meses de prisión y declarar complejo caso XL526]]></title>
     <link>https://www.elcaribe.com.do/panorama/justicia/mp-pide-12-meses-de-prision-y-declarar-complejo-caso-xl526/</link>
     <description><![CDATA[El Ministerio Público de Santiago ha solicitado que se declare de complejidad el caso XL526 y que se imponga un año de prisión preventiva a 10 personas arrestadas durante la operación.
@@ -1323,18 +1335,6 @@ Liberato Pinales era buscado por asaltos y robos, y tenía una orden de arresto 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780062653/autonoticias/articles/20260529_135053_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 13:51:30 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529135130</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Antonio Taveras descarta rumores sobre posible salida hacia la Fuerza del Pueblo]]></title>
-    <link>https://eldia.com.do/antonio-taveras-descarta-rumores-sobre-posible-salida-hacia-la-fuerza-del-pueblo/</link>
-    <description><![CDATA[El senador Antonio Taveras Guzmán ha rechazado los rumores que lo vinculan con una posible salida hacia la Fuerza del Pueblo. Asegura que su decisión de dejar el bloque senatorial del PRM responde a diferencias con el rumbo del partido y la falta de reformas estructurales.
-
-Taveras enfatizó su compromiso con el desarrollo del país y el fortalecimiento de las instituciones, destacando que su trabajo en el Senado es visible para todos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780062600/autonoticias/articles/20260529_135000_article.webp" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 13:51:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529135114</guid>
   </item>
 </channel>
 </rss>
