@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 05 Jun 2026 12:41:41 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 13:32:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[INABIE avanza en la distribución de utilería escolar y alcanza un 15 % de cobertura a nivel nacional]]></title>
+    <link>https://www.presidencia.gob.do/noticias/inabie-avanza-en-la-distribucion-de-utileria-escolar-y-alcanza-un-15-de-cobertura-nivel</link>
+    <description><![CDATA[El Instituto Nacional de Bienestar Estudiantil (INABIE) ha logrado un 15 % de avance en la distribución de utilería escolar para el próximo año escolar 2026-2027. Adolfo Pérez, director ejecutivo, reafirmó el compromiso de la institución de garantizar que cada estudiante reciba su kit escolar completo desde el primer día de clases.
+
+En San Antonio de Guerra, se entregaron útiles a 10,545 estudiantes de 47 centros educativos. A nivel nacional, el programa beneficiará a 1,850,000 estudiantes y generará un impacto en más de 1.4 millones de familias, con un ahorro estimado de entre RD 3,864 y RD 5,433 por estudiante.
+
+Los kits escolares incluyen mochilas, útiles y uniformes. La distribución se realiza desde los almacenes del INABIE hasta los centros escolares. Además, el programa apoya a mipymes y empresas de la industria textil.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780666231/autonoticias/articles/20260605_133030_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 05 Jun 2026 13:32:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260605133214</guid>
+  </item>
+
+  <item>
     <title><![CDATA[INDOMET prevé lluvias para este fin de semana y mantiene alerta por calor]]></title>
     <link>https://robertocavada.com/indomet-preve-lluvias-para-este-fin-de-semana-y-mantiene-alerta-por-calor/</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología (INDOMET) ha anunciado que este fin de semana se registrarán lluvias en varias provincias debido a una vaguada. Se esperan aguaceros, tormentas eléctricas y ráfagas de viento, especialmente en Santiago, Valverde, Santiago Rodríguez, Dajabón, Monte Cristi, Puerto Plata, La Vega, Espaillat, Hermanas Mirabal, María Trinidad Sánchez y Samaná.
@@ -1321,20 +1335,6 @@ Se recuperaron 30 cargadores tipo C para iPhone, 213 auriculares AirPods, 34 rel
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780064132/autonoticias/articles/20260529_141532_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 14:16:37 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529141637</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía abate a “Nono el Imparable” tras enfrentar agentes en Villas Agrícolas]]></title>
-    <link>https://panorama.com.do/policia-abate-a-nono-el-imparable-tras-enfrentar-agentes-en-villas-agricolas/</link>
-    <description><![CDATA[La Policía Nacional informó sobre la muerte de Brayant Liberato Pinales, alias “Nono el Imparable”, tras un enfrentamiento con agentes de la Dirección Central de Investigación (DICRIM) en Villas Agrícolas.
-
-El incidente ocurrió el jueves 28 de mayo en el callejón Los Coquitos, donde Liberato Pinales abrió fuego contra los agentes, resultando herido y falleciendo en el Hospital Dr. Francisco Moscoso Puello.
-
-Liberato Pinales era buscado por asaltos y robos, y tenía una orden de arresto por asociación de malhechores y robo.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780062653/autonoticias/articles/20260529_135053_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 13:51:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529135130</guid>
   </item>
 </channel>
 </rss>
