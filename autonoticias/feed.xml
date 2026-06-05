@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 05 Jun 2026 19:00:53 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 21:20:49 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Edeeste recomienda evitar volar chichiguas en zonas cableadas y no usar equipos electrónicos mientras están siendo cargado]]></title>
+    <link>https://www.presidencia.gob.do/noticias/edeeste-recomienda-evitar-volar-chichiguas-en-zonas-cableadas-y-no-usar-equipos</link>
+    <description><![CDATA[Edeeste aconseja a sus clientes evitar volar chichiguas cerca de cables eléctricos y no usar dispositivos electrónicos mientras se cargan. Estas acciones pueden resultar en electrocuciones y quemaduras severas.
+
+La empresa también recomienda usar cables originales para cargar dispositivos y evitar hacerlo en superficies blandas. Recientemente, dos menores sufrieron quemaduras en Higüey al volar chichiguas que hicieron contacto con cables eléctricos.
+
+En febrero, una menor falleció en La Otra Banda por electrocución al usar su celular en una silla de metal. Edeeste busca concientizar sobre el uso seguro del servicio energético.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780692364/autonoticias/articles/20260605_204603_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 05 Jun 2026 21:20:49 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260605212049</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ejército intercepta a 23 migrantes haitianos indocumentados en Dajabón]]></title>
     <link>https://n.com.do/2026/06/05/ejercito-intercepta-a-23-migrantes-haitianos-indocumentados-en-dajabon/</link>
     <description><![CDATA[El Ejército de República Dominicana detuvo a 23 migrantes haitianos indocumentados en Dajabón. La operación se llevó a cabo gracias a un sistema de vigilancia aérea con drones que detectó al grupo cerca de la pirámide fronteriza número 25.
@@ -1315,20 +1329,6 @@ Además, se han dispuesto bajas en los precios del avtur, kerosene, fuel oíl y 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780087888/autonoticias/articles/20260529_205128_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 20:52:27 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529205227</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader asciende a más de 600 agentes antinarcóticos]]></title>
-    <link>https://n.com.do/2026/05/29/abinader-asciende-a-mas-de-600-agentes-antinarcoticos-por-primera-vez-en-la-historia-del-organismo/</link>
-    <description><![CDATA[El presidente Luis Abinader ascendió a 634 agentes de la Dirección Nacional de Control de Drogas (DNCD), marcando la primera promoción formal de rango en 38 años de la institución. Esta medida se realizó bajo el decreto 301-23, que establece el reglamento de la “Carrera del Agente” de la DNCD.
-
-Los ascensos incluyen diversas categorías, como agentes primero, segundo y especial, así como oficiales e inspectores. El anuncio se hizo durante el 38 aniversario de la DNCD, con actos encabezados por el vicealmirante José Manuel Cabrera Ulloa.
-
-Abinader felicitó a los agentes por su labor en el combate al narcotráfico, mientras Cabrera Ulloa agradeció el respaldo del mandatario. En los actos participaron funcionarios del Gobierno y representantes de organismos internacionales como la DEA y la INL de Estados Unidos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780076827/autonoticias/articles/20260529_174706_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 17:47:56 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529174756</guid>
   </item>
 </channel>
 </rss>
