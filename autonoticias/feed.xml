@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 04 Jun 2026 17:57:09 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 01:46:45 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Policía captura a “El Bombi”, acusado de robar celular a Ricardo Ripoll]]></title>
+    <link>https://robertocavada.com/policia-captura-a-el-bombi-acusado-de-robar-celular-a-ricardo-ripoll/</link>
+    <description><![CDATA[La Policía Nacional ha capturado a Alison Pérez, conocido como "El Bombi", por el presunto robo de un celular al comunicador Ricardo Ripoll en el sector Bella Vista del Distrito Nacional. El incidente ocurrió el 27 de mayo.
+
+La detención se llevó a cabo tras una investigación que incluyó el análisis de cámaras de vigilancia. Pérez fue arrestado mientras conducía una motocicleta que habría sido utilizada en el robo.
+
+El caso ha sido esclarecido y el detenido, quien tiene antecedentes por delitos similares, ha sido puesto a disposición del Ministerio Público.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780623977/autonoticias/articles/20260605_014617_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 05 Jun 2026 01:46:45 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260605014645</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Renombrarán Base Aérea Puerto Plata en honor al general piloto Rojas Tabar]]></title>
     <link>https://elnuevodiario.com.do/renombraran-base-aerea-puerto-plata-en-honor-al-general-piloto-rojas-tabar/</link>
     <description><![CDATA[La Base Aérea Puerto Plata será renombrada en honor al mayor general piloto (r) Juan Bautista Rojas Tabar. El evento se realizará el viernes 5 de junio a las 11:00 de la mañana en Sabaneta de Cangrejos, donde también se develará un busto del oficial.
@@ -1319,20 +1333,6 @@ Las autoridades han comenzado las investigaciones pertinentes y han detenido a d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780059072/autonoticias/articles/20260529_125112_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 12:51:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529125140</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Explota cohete de Blue Origin durante prueba en Cabo Cañaveral]]></title>
-    <link>https://www.diariolibre.com/mundo/estados-unidos/2026/05/28/bola-de-fuego-envuelve-cohete-de-blue-origin/3549552</link>
-    <description><![CDATA[El cohete New Glenn de Blue Origin explotó en la plataforma de lanzamiento durante una prueba en Cabo Cañaveral, Florida. La empresa informó sobre una "anomalía" y confirmó que todo el personal ha sido localizado.
-
-Un video muestra humo y una bola de fuego envolviendo el cohete. El congresista Mike Haridopolos agradeció la ausencia de heridos y el rápido accionar de los equipos de emergencia.
-
-Este incidente es el último revés para Blue Origin, que el mes pasado falló en una misión con el mismo modelo de cohete.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780026975/autonoticias/articles/20260529_035615_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 03:56:54 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529035654</guid>
   </item>
 </channel>
 </rss>
