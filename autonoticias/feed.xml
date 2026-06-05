@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 05 Jun 2026 14:13:21 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 15:39:36 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Jochi Gómez: “Vamos con todo para el juicio de fondo”]]></title>
+    <link>https://robertocavada.com/jochi-gomez-vamos-con-todo-para-el-juicio-de-fondo/</link>
+    <description><![CDATA[Jochi Gómez, empresario y principal imputado en un supuesto entramado de corrupción y sabotaje a la red semafórica, expresó su determinación de enfrentar el juicio de fondo en el caso Camaleón.
+
+Gómez afirmó que el Estado dominicano ha intentado quitarle lo suyo, pero él no se ha doblegado y está listo para el juicio.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780673667/autonoticias/articles/20260605_153427_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 05 Jun 2026 15:39:36 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260605153936</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader afirma ser el mandatario con mayor contacto directo con los ciudadanos]]></title>
     <link>https://n.com.do/2026/06/05/abinader-afirma-ser-el-mandatario-con-mayor-contacto-directo-con-los-ciudadanos/</link>
     <description><![CDATA[Según un comunicado de la Presidencia, el presidente Luis Abinader es uno de los mandatarios dominicano con mayor contacto directo con el territorio nacional. Desde agosto de 2020, su agenda ha estado marcada por recorridos en provincias, distritos municipales, secciones rurales y parajes.
@@ -1325,18 +1337,6 @@ Luis Santana, CEO de GoldQuest, destacó el avance que representan estos resulta
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780067241/autonoticias/articles/20260529_150721_article.png" type="image/png"/>
     <pubDate>Fri, 29 May 2026 15:08:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529150802</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Defensa de empresario chino desmiente violencia de género: "Víctima tiene un interés marcado"]]></title>
-    <link>https://n.com.do/2026/05/29/defensa-de-empresario-chino-desmiente-violencia-de-genero-victima-tiene-un-interes-marcado/</link>
-    <description><![CDATA[El abogado Feddy Díaz, defensor del empresario chino Po Xie, negó las acusaciones de violencia de género contra su cliente. Según Díaz, hay un interés marcado por parte de la víctima y las pruebas demostrarán la inocencia de Po Xie.
-
-La Oficina de Atención Permanente del Distrito Nacional ha aplazado para el martes la medida de coerción contra Po Xie, acusado de presuntamente agredir a su compañera sentimental.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780067208/autonoticias/articles/20260529_150647_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 15:07:46 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529150746</guid>
   </item>
 </channel>
 </rss>
