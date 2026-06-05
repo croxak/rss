@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 05 Jun 2026 17:27:37 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 19:00:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Liberan al piloto dominicano que tenía 157 días detenido en Guinea]]></title>
+    <link>https://eldia.com.do/liberan-al-piloto-dominicano-que-tenia-157-dias-detenido-en-guinea/</link>
+    <description><![CDATA[El piloto dominicano Fabio Nicolás Espinal Núñez ha sido liberado después de 157 días detenido en Guinea. Espinal Núñez fue arrestado junto a su tripulación el 29 de diciembre de 2025, acusado de violación de espacio aéreo durante un reabastecimiento de combustible en un vuelo de Surinam a Dubai.
+
+La liberación fue posible gracias a un esfuerzo diplomático y legal que involucró a Estados Unidos, Brasil y República Dominicana. La familia agradeció a diversas entidades por su apoyo y solicitó privacidad para el reencuentro y recuperación.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780685992/autonoticias/articles/20260605_185951_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 05 Jun 2026 19:00:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260605190019</guid>
+  </item>
+
+  <item>
     <title><![CDATA[EE.UU. intercepta y aborda un buque vinculado a Irán en el Indo-Pacífico]]></title>
     <link>https://eldia.com.do/ee-uu-intercepta-y-aborda-un-buque-vinculado-a-iran-en-el-indo-pacifico/</link>
     <description><![CDATA[La Armada de Estados Unidos interceptó y abordó el buque cisterna MT DAVINA, vinculado a Irán, en el océano Índico. Esta operación es parte de los esfuerzos para cortar las vías de financiación a Irán durante el cese el fuego en la guerra iniciada junto a Israel.
@@ -1317,22 +1329,6 @@ Se rindió homenaje a Fefita La Grande y otras merengueras típicas. La campaña
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780073343/autonoticias/articles/20260529_164902_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 16:50:29 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529165029</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[“El narcotráfico ofrece riqueza y poder a costa de sangre”, advierte arzobispo durante misa por aniversario de la DNCD]]></title>
-    <link>https://panorama.com.do/el-narcotrafico-ofrece-riqueza-y-poder-a-costa-de-sangre-advierte-arzobispo-durante-misa-por-aniversario-de-la-dncd/</link>
-    <description><![CDATA[El arzobispo coadjutor de Santo Domingo, Carlos Tomás Morel Diplán, advirtió sobre el narcotráfico durante una misa por el aniversario de la DNCD, afirmando que ofrece riqueza y poder a costa de sangre.
-
-Morel Diplán destacó que el narcotráfico provoca dolor, muerte y sufrimiento, pero también enriquece a muchos. Pidió orar por los agentes de la DNCD y reflexionar socialmente para evitar que más jóvenes caigan en el narcotráfico.
-
-El arzobispo señaló que los narcotraficantes se aprovechan de jóvenes de barrios marginados, prometiéndoles dinero y poder. Exhortó a la DNCD a mantener su vocación de servicio y pidió firmeza a las familias, iglesias e instituciones para enfrentar el problema de las drogas.
-
-También insistió en la necesidad de garantizar seguridad a quienes denuncian el narcotráfico y enfatizó la importancia de una voluntad colectiva para combatirlo.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780072672/autonoticias/articles/20260529_163752_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 16:42:21 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529164221</guid>
   </item>
 </channel>
 </rss>
