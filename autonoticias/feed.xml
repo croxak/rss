@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 05 Jun 2026 19:00:19 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 19:00:53 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Ejército intercepta a 23 migrantes haitianos indocumentados en Dajabón]]></title>
+    <link>https://n.com.do/2026/06/05/ejercito-intercepta-a-23-migrantes-haitianos-indocumentados-en-dajabon/</link>
+    <description><![CDATA[El Ejército de República Dominicana detuvo a 23 migrantes haitianos indocumentados en Dajabón. La operación se llevó a cabo gracias a un sistema de vigilancia aérea con drones que detectó al grupo cerca de la pirámide fronteriza número 25.
+
+Entre los detenidos se encuentran 18 hombres, cuatro mujeres y un menor de edad. Todos fueron trasladados al Décimo Batallón de Infantería para los procedimientos correspondientes antes de ser entregados a la Dirección General de Migración.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780685824/autonoticias/articles/20260605_185703_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 05 Jun 2026 19:00:53 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260605190053</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Liberan al piloto dominicano que tenía 157 días detenido en Guinea]]></title>
     <link>https://eldia.com.do/liberan-al-piloto-dominicano-que-tenia-157-dias-detenido-en-guinea/</link>
     <description><![CDATA[El piloto dominicano Fabio Nicolás Espinal Núñez ha sido liberado después de 157 días detenido en Guinea. Espinal Núñez fue arrestado junto a su tripulación el 29 de diciembre de 2025, acusado de violación de espacio aéreo durante un reabastecimiento de combustible en un vuelo de Surinam a Dubai.
@@ -1317,18 +1329,6 @@ Abinader felicitó a los agentes por su labor en el combate al narcotráfico, mi
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780076827/autonoticias/articles/20260529_174706_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 17:47:56 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529174756</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Lanzan campaña “La ONDA Contigo” para fortalecer la cultura del derecho de autor en la República Dominicana]]></title>
-    <link>https://www.presidencia.gob.do/noticias/lanzan-campana-la-onda-contigo-para-fortalecer-la-cultura-del-derecho-de-autor-en-la</link>
-    <description><![CDATA[La Oficina Nacional de Derecho de Autor (ONDA) ha iniciado la campaña "La ONDA Contigo" en Santiago de los Caballeros, dedicada a las Madres del Merengue Típico de República Dominicana. El evento incluyó conferencias, foros y concursos, y fue encabezado por José Rubén Gonell Cosme y el alcalde Ulises Rodríguez.
-
-Se rindió homenaje a Fefita La Grande y otras merengueras típicas. La campaña busca educar sobre el derecho de autor y se desarrollará durante todo el año 2026.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780073343/autonoticias/articles/20260529_164902_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 16:50:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529165029</guid>
   </item>
 </channel>
 </rss>
