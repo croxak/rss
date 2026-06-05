@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 05 Jun 2026 13:32:14 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 13:40:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[CNE aprueba nuevos manuales para agilizar las concesiones de proyectos de energía renovable]]></title>
+    <link>https://www.presidencia.gob.do/noticias/cne-aprueba-nuevos-manuales-para-agilizar-las-concesiones-de-proyectos-de-energia</link>
+    <description><![CDATA[La Comisión Nacional de Energía (CNE) ha aprobado nuevos manuales para agilizar las concesiones de proyectos de energía renovable, enfocados en energía solar fotovoltaica y eólica.
+
+La Resolución núm. CNE-AD-006-2026 establece lineamientos claros para la presentación y evaluación de proyectos bajo la Ley núm. 57-07. Los manuales detallan los requisitos legales, técnicos y financieros necesarios.
+
+Los documentos están disponibles para consulta en www.cne.gob.do.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780666751/autonoticias/articles/20260605_133910_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 05 Jun 2026 13:40:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260605134019</guid>
+  </item>
+
+  <item>
     <title><![CDATA[INABIE avanza en la distribución de utilería escolar y alcanza un 15 % de cobertura a nivel nacional]]></title>
     <link>https://www.presidencia.gob.do/noticias/inabie-avanza-en-la-distribucion-de-utileria-escolar-y-alcanza-un-15-de-cobertura-nivel</link>
     <description><![CDATA[El Instituto Nacional de Bienestar Estudiantil (INABIE) ha logrado un 15 % de avance en la distribución de utilería escolar para el próximo año escolar 2026-2027. Adolfo Pérez, director ejecutivo, reafirmó el compromiso de la institución de garantizar que cada estudiante reciba su kit escolar completo desde el primer día de clases.
@@ -1321,20 +1335,6 @@ La diplomática rechazó cualquier intento de manipular los procesos judiciales 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780064238/autonoticias/articles/20260529_141718_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 14:17:47 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529141747</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[DICRIM de la Policía Nacional desmantela banda dedicada a fraudes electrónicos y apresa cinco de sus integrantes]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/05/29/dicrim-desmantela-banda-de-fraudes-electronicos-2012364/</link>
-    <description><![CDATA[La Dirección Central de Investigación (DICRIM) detuvo a cinco personas en Villa Francisca, Distrito Nacional, por fraudes electrónicos. Los acusados son Dauri Hansel Villanueva, José Ángel de Jesús Fereida, Yeykel Herasme Pérez, Kelvin Miguel Aybar Romero y Daivid José Aybar Romero. Un sexto implicado, "Ramón", está prófugo.
-
-La banda contactaba a sus víctimas por WhatsApp con números falsos, realizando compras fraudulentas de perfumes, celulares y otros artículos. Enviaban comprobantes de pagos falsos para concretar las estafas.
-
-Se recuperaron 30 cargadores tipo C para iPhone, 213 auriculares AirPods, 34 relojes y cinco perfumes. Los detenidos y las evidencias serán entregados al Ministerio Público.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780064132/autonoticias/articles/20260529_141532_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 14:16:37 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529141637</guid>
   </item>
 </channel>
 </rss>
