@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 05 Jun 2026 14:09:33 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 14:13:21 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Abinader afirma ser el mandatario con mayor contacto directo con los ciudadanos]]></title>
+    <link>https://n.com.do/2026/06/05/abinader-afirma-ser-el-mandatario-con-mayor-contacto-directo-con-los-ciudadanos/</link>
+    <description><![CDATA[Según un comunicado de la Presidencia, el presidente Luis Abinader es uno de los mandatarios dominicano con mayor contacto directo con el territorio nacional. Desde agosto de 2020, su agenda ha estado marcada por recorridos en provincias, distritos municipales, secciones rurales y parajes.
+
+Abinader ha actuado como un canal de comunicación entre el Gobierno central y los ciudadanos, manteniendo un vínculo permanente entre instituciones públicas y la población. En casi seis años de gestión, ha visitado las 31 provincias y el Distrito Nacional, encabezando la inauguración y entrega de obras de infraestructura.
+
+También menciona que ha mantenido contacto con sectores de construcción y agrícola, incluyendo productores de arroz, banano, café, cacao, tabaco, ganado y vegetales. Analistas y observadores destacan su presencia activa fuera del Palacio Nacional.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780666874/autonoticias/articles/20260605_134114_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 05 Jun 2026 14:13:21 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260605141321</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Jueza envía a juicio de fondo a Hugo Beras, Jochi Gómez y otros implicados en el caso Camaleón]]></title>
     <link>https://eldia.com.do/jueza-envia-a-juicio-de-fondo-a-hugo-beras-jochi-gomez-y-otros-implicados-en-el-caso-camaleon/</link>
     <description><![CDATA[La jueza Yanibet Rivas ha decidido enviar a juicio de fondo a Hugo Beras, José Ángel Gómez Canaán y otros implicados en el caso Camaleón. Se les acusa de adjudicar fraudulentamente un contrato para la modernización de la red semafórica del Gran Santo Domingo.
@@ -1323,20 +1337,6 @@ La Oficina de Atención Permanente del Distrito Nacional ha aplazado para el mar
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780067208/autonoticias/articles/20260529_150647_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 15:07:46 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529150746</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Dominicana pierde la vida tras tiroteo en fiesta en el Bronx, EE.UU.]]></title>
-    <link>https://noticiassin.com/estados-unidos/2026/05/29/dominicana-muere-en-tiroteo-durante-fiesta-en-el-bronx-2012350/</link>
-    <description><![CDATA[Reyna Cáceres, una joven dominicana de 23 años, falleció tras ser alcanzada por una bala en el ojo izquierdo durante una fiesta en University Heights, Bronx. El tiroteo ocurrió poco después de las 12:10 de la madrugada del jueves.
-
-La policía indicó que Cáceres no era el objetivo del ataque y la describió como una “víctima accidental”. No se han realizado arrestos y la investigación sigue abierta.
-
-Familiares y vecinos expresaron su dolor y preocupación por la violencia en la comunidad. Las autoridades investigan posibles vínculos con conflictos previos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780064852/autonoticias/articles/20260529_142731_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 14:28:17 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529142817</guid>
   </item>
 </channel>
 </rss>
