@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 05 Jun 2026 21:20:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 21:23:36 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Precios de principales combustibles seguirán sin variación esta semana]]></title>
+    <link>https://panorama.com.do/precios-de-principales-combustibles-seguiran-sin-variacion-avtur-y-kerosene-bajan/</link>
+    <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes (MICM) ha decidido mantener sin cambios los precios de los principales combustibles en República Dominicana durante la semana del 6 al 12 de junio de 2026. Esto se logra mediante un subsidio de RD$780.3 millones.
+
+Además, se han anunciado rebajas en varios derivados del petróleo. El avtur disminuirá RD$5.90 por galón, el kerosene RD$6.40, el fuel oíl RD$5.22 y el fuel oíl 1%S RD$7.72.
+
+El Gobierno está absorbiendo parte del costo real de los combustibles, con subsidios que superan los RD$18 mil millones en el año. Los precios para la semana serán: gasolina premium a RD$335.10 por galón, gasolina regular a RD$307.50, gasoil regular a RD$259.80, gasoil óptimo a RD$287.10 y GLP a RD$137.20.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780694473/autonoticias/articles/20260605_212112_article.png" type="image/png"/>
+    <pubDate>Fri, 05 Jun 2026 21:23:36 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260605212336</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Edeeste recomienda evitar volar chichiguas en zonas cableadas y no usar equipos electrónicos mientras están siendo cargado]]></title>
     <link>https://www.presidencia.gob.do/noticias/edeeste-recomienda-evitar-volar-chichiguas-en-zonas-cableadas-y-no-usar-equipos</link>
     <description><![CDATA[Edeeste aconseja a sus clientes evitar volar chichiguas cerca de cables eléctricos y no usar dispositivos electrónicos mientras se cargan. Estas acciones pueden resultar en electrocuciones y quemaduras severas.
@@ -1317,18 +1331,6 @@ El Gobierno está implementando subsidios para mitigar el impacto de los precios
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780093979/autonoticias/articles/20260529_223259_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 22:33:49 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529223349</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Suben los combustibles: gasolina y gasoil aumentan entre RD$2 y RD$4]]></title>
-    <link>https://www.elcaribe.com.do/panorama/pais/sube-gasolina-y-gasoil-aumentan-entre-rd2-y-rd4/</link>
-    <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes informó sobre un aumento en los precios de la gasolina y el gasoil para la semana del 30 de mayo al 5 de junio. La gasolina premium y el gasoil óptimo subirán RD$4.00 por galón, mientras que la gasolina y el gasoil regular aumentarán RD$2.00.
-
-Además, se han dispuesto bajas en los precios del avtur, kerosene, fuel oíl y fuel oíl. El Gobierno ha destinado RD$954.9 millones en subsidios para mantener el precio del GLP congelado y ha subsidiado otros combustibles para no transferir el costo total a la población.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780087888/autonoticias/articles/20260529_205128_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 20:52:27 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529205227</guid>
   </item>
 </channel>
 </rss>
