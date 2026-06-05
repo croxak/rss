@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 05 Jun 2026 12:39:42 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 12:40:26 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[MP pide 12 meses de prisión y declarar complejo caso XL526]]></title>
+    <link>https://www.elcaribe.com.do/panorama/justicia/mp-pide-12-meses-de-prision-y-declarar-complejo-caso-xl526/</link>
+    <description><![CDATA[El Ministerio Público de Santiago ha solicitado que se declare de complejidad el caso XL526 y que se imponga un año de prisión preventiva a 10 personas arrestadas durante la operación.
+
+Los detenidos son acusados de formar parte de una estructura criminal dedicada a extorsionar, chantajear y estafar a residentes en Estados Unidos. Utilizaban anuncios publicitarios para captar víctimas y luego las sometían a extorsión, haciéndose pasar por miembros de organizaciones criminales como el "Cartel de Sinaloa".
+
+Los fondos obtenidos eran canalizados mediante criptomonedas y otros métodos. La solicitud fue presentada por el procurador adjunto Wilson Camacho y las fiscales Quirsa Abreu Peña, Joanna García Rivas y Lía Collado.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780663199/autonoticias/articles/20260605_123958_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 05 Jun 2026 12:40:26 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260605124026</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Tribunal decidirá si abre juicio contra Hugo Beras y acusados del caso Camaleón]]></title>
     <link>https://n.com.do/2026/06/05/tribunal-decidira-si-abre-juicio-contra-hugo-beras-y-acusados-del-caso-camaleon/</link>
     <description><![CDATA[El Sexto Juzgado de la Instrucción del Distrito Nacional emitirá su decisión sobre la apertura de juicio contra Hugo Beras y otros implicados en el caso Camaleón. El Ministerio Público sostiene que hay pruebas suficientes para llevar a juicio a los acusados.
@@ -1321,18 +1335,6 @@ Taveras enfatizó su compromiso con el desarrollo del país y el fortalecimiento
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780062600/autonoticias/articles/20260529_135000_article.webp" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 13:51:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529135114</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Sentencian dominicano a 40 años de prisión por asesinato de cuatro personas en NY]]></title>
-    <link>https://elnuevodiario.com.do/sentencian-a-dominicano-a-40-anos-de-prision-por-asesinato-de-cuatro-personas-en-nueva-york/</link>
-    <description><![CDATA[Randy Rodríguez, un dominicano de 31 años, ha sido sentenciado a un mínimo de 40 años de prisión por el asesinato de cuatro personas sin hogar en Nueva York en 2019. Los hechos ocurrieron en Chinatown, Manhattan, donde Rodríguez atacó a las víctimas con una barra de metal.
-
-Los abogados de Rodríguez alegaron que sufría de esquizofrenia y tenía un historial de adicción a las drogas, pero el jurado rechazó estos argumentos. El fiscal Alvin Bragg señaló el desprecio de Rodríguez por la vida de sus víctimas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780059274/autonoticias/articles/20260529_125434_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 12:55:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529125500</guid>
   </item>
 </channel>
 </rss>
