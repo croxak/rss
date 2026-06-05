@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 05 Jun 2026 17:25:41 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 17:27:37 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[EE.UU. intercepta y aborda un buque vinculado a Irán en el Indo-Pacífico]]></title>
+    <link>https://eldia.com.do/ee-uu-intercepta-y-aborda-un-buque-vinculado-a-iran-en-el-indo-pacifico/</link>
+    <description><![CDATA[La Armada de Estados Unidos interceptó y abordó el buque cisterna MT DAVINA, vinculado a Irán, en el océano Índico. Esta operación es parte de los esfuerzos para cortar las vías de financiación a Irán durante el cese el fuego en la guerra iniciada junto a Israel.
+
+El Pentágono publicó vídeos y fotografías de la operación, reafirmando su compromiso de desmantelar redes ilícitas y negar la libertad de maniobra a actores sancionados en aguas internacionales.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780680421/autonoticias/articles/20260605_172700_article.webp" type="image/jpeg"/>
+    <pubDate>Fri, 05 Jun 2026 17:27:37 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260605172737</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Hugo Beras dice que está "confiado en la justicia” al ser enviado a juicio de fondo por caso Intrant]]></title>
     <link>https://listindiario.com/la-republica/justicia/20260605/hugo-beras-enviado-juicio-fondo-supuesta-corrupcion-confiado-justicia_908593.html</link>
     <description><![CDATA[Hugo Beras, exdirector del Intrant, ha sido enviado a juicio de fondo por un supuesto entramado de corrupción. El caso involucra un contrato de más de RD$1,300 millones con Transcore Latam.
@@ -1321,20 +1333,6 @@ También insistió en la necesidad de garantizar seguridad a quienes denuncian e
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780072672/autonoticias/articles/20260529_163752_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 16:42:21 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529164221</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno entrega segundo Bono de Emergencia a familias afectadas por inundaciones en Villa Montellano]]></title>
-    <link>https://www.elcaribe.com.do/panorama/gobierno-entrega-segundo-bono-de-emergencia/</link>
-    <description><![CDATA[El Gobierno entregó un segundo Bono de Emergencia de RD$7,000 a más de 2,000 familias afectadas por las inundaciones de abril en Villa Montellano, Puerto Plata. La jornada fue encabezada por el ministro de la Presidencia, José Ignacio Paliza.
-
-Durante la actividad, se ofrecieron servicios de actualización de datos a través del SIUBEN. La inversión total en esta fase asciende a más de RD$16 millones, beneficiando a 2,289 familias.
-
-Se anunció un bono adicional para madres de las comunidades afectadas, elevando la inversión total a RD$35 millones.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780072686/autonoticias/articles/20260529_163806_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 16:39:13 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529163913</guid>
   </item>
 </channel>
 </rss>
