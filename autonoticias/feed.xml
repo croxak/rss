@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 05 Jun 2026 01:46:45 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 12:39:42 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Tribunal decidirá si abre juicio contra Hugo Beras y acusados del caso Camaleón]]></title>
+    <link>https://n.com.do/2026/06/05/tribunal-decidira-si-abre-juicio-contra-hugo-beras-y-acusados-del-caso-camaleon/</link>
+    <description><![CDATA[El Sexto Juzgado de la Instrucción del Distrito Nacional emitirá su decisión sobre la apertura de juicio contra Hugo Beras y otros implicados en el caso Camaleón. El Ministerio Público sostiene que hay pruebas suficientes para llevar a juicio a los acusados.
+
+La investigación señala irregularidades en contratos y manejo de fondos relacionados con la modernización de la red semafórica del Gran Santo Domingo. Varias empresas y exfuncionarios están involucrados en el caso, que fue declarado complejo.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780663149/autonoticias/articles/20260605_123908_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 05 Jun 2026 12:39:42 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260605123942</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía captura a “El Bombi”, acusado de robar celular a Ricardo Ripoll]]></title>
     <link>https://robertocavada.com/policia-captura-a-el-bombi-acusado-de-robar-celular-a-ricardo-ripoll/</link>
     <description><![CDATA[La Policía Nacional ha capturado a Alison Pérez, conocido como "El Bombi", por el presunto robo de un celular al comunicador Ricardo Ripoll en el sector Bella Vista del Distrito Nacional. El incidente ocurrió el 27 de mayo.
@@ -1321,18 +1333,6 @@ Los abogados de Rodríguez alegaron que sufría de esquizofrenia y tenía un his
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780059274/autonoticias/articles/20260529_125434_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 12:55:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529125500</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Encuentran joven muerta dentro de su residencia en La Romana; presenta heridas de arma blanca]]></title>
-    <link>https://elnuevodiario.com.do/encuentran-joven-muerta-dentro-de-su-residencia-en-la-romana-presenta-heridas-de-arma-blanca/</link>
-    <description><![CDATA[Angela Dieva Michel, de 20 años, fue hallada sin vida en su residencia en Villa Hermosa, La Romana. Presentaba múltiples heridas de arma blanca y, según el médico legista Benito Kelly, llevaba alrededor de 8 horas fallecida.
-
-Las autoridades han comenzado las investigaciones pertinentes y han detenido a dos personas para interrogarlas en relación con el caso.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780059072/autonoticias/articles/20260529_125112_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 12:51:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529125140</guid>
   </item>
 </channel>
 </rss>
