@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 05 Jun 2026 15:39:36 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 05 Jun 2026 15:41:11 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Abogada de Hugo Beras: "La decisión, a pesar de no estar de acuerdo, estuvo bien estructurada"]]></title>
+    <link>https://n.com.do/2026/06/05/abogada-de-hugo-beras-la-sentencia-a-pesar-de-no-estar-de-acuerdo-estuvo-bien-estructurada/</link>
+    <description><![CDATA[La abogada Laura Acosta, defensora de Hugo Beras, exdirector del Intrant, valoró la sentencia que envía a su cliente a juicio de fondo. Aunque no está de acuerdo, destacó que la sentencia estuvo bien estructurada.
+
+El Sexto Juzgado de la Instrucción del Distrito Nacional, bajo la jueza Yanibet Rivas, decidió abrir juicio contra Beras y el empresario José Ángel Gómez Canaán, conocido como Jochi Gómez, por su presunta vinculación al caso Camaleón.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780673651/autonoticias/articles/20260605_153411_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 05 Jun 2026 15:41:11 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260605154111</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Jochi Gómez: “Vamos con todo para el juicio de fondo”]]></title>
     <link>https://robertocavada.com/jochi-gomez-vamos-con-todo-para-el-juicio-de-fondo/</link>
     <description><![CDATA[Jochi Gómez, empresario y principal imputado en un supuesto entramado de corrupción y sabotaje a la red semafórica, expresó su determinación de enfrentar el juicio de fondo en el caso Camaleón.
@@ -1323,20 +1335,6 @@ El arzobispo coadjutor Carlos Tomás Morel Diplán, presente en la ceremonia, in
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780072701/autonoticias/articles/20260529_163821_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 16:38:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529163857</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[GoldQuest reporta nuevos hallazgos en exploración de minerales en RD]]></title>
-    <link>https://www.diariolibre.com/economia/energia/2026/05/29/goldquest-mining-corp-revela-hallazgos-en-exploracion-minera/3550029</link>
-    <description><![CDATA[GoldQuest Mining Corp. ha informado sobre nuevos hallazgos en su exploración en el objetivo Cachimbo, República Dominicana. El pozo TIR-26-62 interceptó 12.15 metros con leyes significativas de oro, plata, cobre, zinc y plomo.
-
-Este descubrimiento confirma la continuidad del nivel mineralizado de sulfuros masivos volcanogénicos y sugiere un potencial de expansión. Un sub-intervalo reportó valores de zinc extremadamente altos, alcanzando un 35.85 %, con una muestra superando el 40 %.
-
-Luis Santana, CEO de GoldQuest, destacó el avance que representan estos resultados para el programa de exploración en Cachimbo.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780067241/autonoticias/articles/20260529_150721_article.png" type="image/png"/>
-    <pubDate>Fri, 29 May 2026 15:08:02 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529150802</guid>
   </item>
 </channel>
 </rss>
