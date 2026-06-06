@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 06 Jun 2026 20:41:18 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 20:41:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Hombre hiere a cuchilladas a su madre y a una hermana en SFM]]></title>
+    <link>https://www.elcaribe.com.do/panorama/region-norte/hombre-hiere-a-cuchilladas-a-su-madre-y-a-una-hermana-en-sfm/</link>
+    <description><![CDATA[En San Francisco de Macorís, Luis Marlin Polanco Rosado, de 34 años, hirió a su madre y a una hermana con un arma blanca. El incidente ocurrió en un residencial de la ciudad.
+
+La madre fue dada de alta tras recibir atención médica, mientras que la hermana permanece ingresada. Polanco Rosado también resultó herido en una mano.
+
+La procuradora fiscal Sandra Sierra informó que las autoridades investigan las circunstancias del incidente. Un hermano del agresor señaló que Polanco Rosado tiene problemas de salud mental y estaba bajo medicación.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780778397/autonoticias/articles/20260606_203957_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 06 Jun 2026 20:41:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260606204134</guid>
+  </item>
+
+  <item>
     <title><![CDATA[PUCMM entrega 1,149 títulos y exhorta a ejercer con ética en la era de la Inteligencia Artificial]]></title>
     <link>https://n.com.do/2026/06/06/pucmm-gradua-1149-profesionales-defender-dignidad-humana-inteligencia-artificial/</link>
     <description><![CDATA[La Pontificia Universidad Católica Madre y Maestra (PUCMM) celebró su graduación número 114 en Santiago, entregando 1,149 títulos profesionales. El rector, reverendo padre doctor Secilio Espinal, exhortó a los graduandos a ejercer con ética en la era de la Inteligencia Artificial.
@@ -1315,18 +1329,6 @@ El ministro de Cultura, Roberto Ángel Salcedo, destacó el valor del himno y la
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780151656/autonoticias/articles/20260530_143416_article.webp" type="image/jpeg"/>
     <pubDate>Sat, 30 May 2026 14:34:45 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260530143445</guid>
-  </item>
-
-  <item>
-    <title><![CDATA["Voy por todo": Gonzalo Castillo anuncia sus aspiraciones presidenciales para el 2028 tras fallo judicial]]></title>
-    <link>https://eldia.com.do/voy-por-todo-gonzalo-castillo-anuncia-sus-aspiraciones-presidenciales-para-el-2028-tras-fallo-judicial/</link>
-    <description><![CDATA[Gonzalo Castillo, exministro de Obras Públicas, ha anunciado sus aspiraciones presidenciales para el 2028. Este anuncio se produce después de que fuera favorecido con un auto de no ha lugar en el caso Operación Calamar.
-
-Castillo expresó su intención de llevar mayor bienestar a los hogares dominicanos y aseguró que será el nuevo presidente en 2028. La Operación Calamar es una investigación sobre un presunto entramado de corrupción administrativa.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780151478/autonoticias/articles/20260530_143118_article.webp" type="image/jpeg"/>
-    <pubDate>Sat, 30 May 2026 14:32:54 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260530143254</guid>
   </item>
 </channel>
 </rss>
