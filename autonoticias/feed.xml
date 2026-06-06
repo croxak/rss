@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 06 Jun 2026 15:11:14 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 17:51:10 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Restos de Franklin Guerrero serán expuestos en Jardín Memorial]]></title>
+    <link>https://www.elcaribe.com.do/gente/restos-de-franklin-guerrero-seran-expuestos-en-jardin-memorial/</link>
+    <description><![CDATA[Los restos del periodista Franklin Guerrero serán expuestos en el Jardín Memorial este fin de semana. Las honras fúnebres comenzarán el sábado 6 de junio de 4:00 p.m. a 9:00 p.m. y continuarán el domingo 7 desde las 9:00 a.m. La misa de cuerpo presente será el domingo a la 1:00 p.m., seguida del sepelio a las 2:30 p.m.
+
+Franklin Guerrero, quien falleció el viernes 5 de junio a los 71 años, fue un destacado reportero gráfico. Su trabajo en la foto-crónica del programa de Nuria Piera lo hizo reconocido en el ámbito periodístico. Aunque se formó como odontólogo, encontró su verdadera vocación en el periodismo gráfico.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780768247/autonoticias/articles/20260606_175046_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 06 Jun 2026 17:51:10 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260606175110</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Instituto Duartiano accionará legalmente por uso de la bandera nacional en funeral de un civil]]></title>
     <link>https://n.com.do/2026/06/06/instituto-duartiano-accionara-legalmente-por-uso-de-la-bandera-nacional-en-funeral-de-un-civil/</link>
     <description><![CDATA[El Instituto Duartiano anunció acciones legales por el uso indebido de la bandera nacional en el funeral de Luis Miguel Martínez Agramonte en San Francisco de Macorís. Wilson Gómez Ramírez, presidente del instituto, calificó el acto como un ultraje a un símbolo patrio.
@@ -1313,18 +1325,6 @@ Estas acciones son parte de los operativos del Ejército para fortalecer la vigi
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780148439/autonoticias/articles/20260530_134038_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 30 May 2026 13:41:47 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260530134147</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Diputados piden declarar en estado de emergencia al río Nizao]]></title>
-    <link>https://listindiario.com/la-republica/provincias/20260530/diputados-piden-declarar-emergencia-rio-nizao_907736.html</link>
-    <description><![CDATA[La Cámara de Diputados ha aprobado una resolución para declarar en estado de emergencia al río Nizao, a iniciativa del diputado Luis Báez. La medida busca detener la explotación indiscriminada del río, que ha sufrido por décadas la extracción de arena sin sanciones efectivas.
-
-Esta resolución coincide con una del Ministerio de Medio Ambiente que también declara de urgencia la intervención del río Nizao. A pesar de estas acciones, el problema de la extracción de arena y deforestación persiste, afectando el suministro de agua y energía en varias regiones del país.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780116314/autonoticias/articles/20260530_044513_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 30 May 2026 04:45:51 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260530044551</guid>
   </item>
 </channel>
 </rss>
