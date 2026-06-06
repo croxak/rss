@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 06 Jun 2026 00:08:14 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 00:09:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[COE aumenta a 18 provincias en alerta; 5 en amarilla incluyendo el Gran Santo Domingo]]></title>
+    <link>https://eldia.com.do/coe-aumenta-a-18-provincias-en-alerta-5-en-amarilla-incluyendo-el-gran-santo-domingo/</link>
+    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha ampliado a 18 las provincias en alerta debido a condiciones atmosféricas adversas. Seis provincias, incluyendo el Gran Santo Domingo, están en alerta amarilla, mientras que 12 están en verde.
+
+El COE recomienda a la población no cruzar ríos, arroyos y cañadas con altos volúmenes de agua y evitar el uso de balnearios en las provincias bajo alerta.
+
+Para el sábado, se esperan aguaceros aislados en la costa Sur durante la madrugada y fuertes lluvias con tormentas eléctricas en varias regiones del país por la tarde.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780704512/autonoticias/articles/20260606_000832_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 06 Jun 2026 00:09:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260606000914</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Apagón de más de cinco horas afecta gran parte de la provincia San Juan]]></title>
     <link>https://elnuevodiario.com.do/apagon-de-mas-de-cinco-horas-afecta-gran-parte-de-la-provincia-san-juan/</link>
     <description><![CDATA[Una avería en el transformador de potencia de la Subestación de San Juan ha dejado sin electricidad a gran parte de la provincia San Juan desde la tarde de este viernes. La interrupción afecta los circuitos SJUA101, SJUA102, SJUA103 y SJUA104.
@@ -1315,20 +1329,6 @@ La donación voluntaria de sangre ha aumentado significativamente, y el déficit
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780093869/autonoticias/articles/20260529_223108_article.png" type="image/png"/>
     <pubDate>Fri, 29 May 2026 22:35:27 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529223527</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Se entrega “El Gánster”, vinculado al caso de la muerte de “La China” en Santiago]]></title>
-    <link>https://eldia.com.do/se-entrega-el-ganster-vinculado-al-caso-de-la-muerte-de-la-china-en-santiago/</link>
-    <description><![CDATA[José Luis Rodríguez, conocido como “El Gánster”, se entregó a la Policía Nacional en Santiago. Está implicado en el asesinato de Margarita Díaz García, alias “La China”, y en otros hechos violentos.
-
-La Policía informó que Rodríguez se presentó voluntariamente con su abogado. Tras el asesinato de “La China”, dos presuntos sicarios fueron hallados muertos en Jarabacoa, en lo que se presume fue una ejecución interna.
-
-Rodríguez también está vinculado a la muerte de Ramón María Montero y a las heridas de Robert Hans Sánchez Tejada. Será puesto a disposición del Ministerio Público.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780093929/autonoticias/articles/20260529_223209_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 22:35:13 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529223513</guid>
   </item>
 </channel>
 </rss>
