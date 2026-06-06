@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 05 Jun 2026 21:23:36 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 00:00:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Evaluación de Desempeño Docente concluye sexta etapa con 78,462 docentes evaluados]]></title>
+    <link>https://n.com.do/2026/06/05/evaluacion-de-desempeno-docente-concluye-sexta-etapa-con-78462-docentes-evaluados/</link>
+    <description><![CDATA[La Comisión Nacional Rectora de la Evaluación de Desempeño Docente ha concluido la sexta etapa del proceso evaluativo, evaluando a 74,868 docentes de un total de 78,462, logrando un 95.4% del objetivo.
+
+Esta etapa, que representa el 50% de la calificación final, se centró en la observación de clases y revisión de la planificación pedagógica. Se utilizaron instrumentos técnicos estandarizados para garantizar la objetividad y rigor metodológico.
+
+La Comisión destacó el compromiso de los docentes y demás actores involucrados, subrayando el desarrollo del proceso conforme a principios de transparencia y rigor técnico.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780703904/autonoticias/articles/20260605_235823_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 06 Jun 2026 00:00:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260606000031</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Precios de principales combustibles seguirán sin variación esta semana]]></title>
     <link>https://panorama.com.do/precios-de-principales-combustibles-seguiran-sin-variacion-avtur-y-kerosene-bajan/</link>
     <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes (MICM) ha decidido mantener sin cambios los precios de los principales combustibles en República Dominicana durante la semana del 6 al 12 de junio de 2026. Esto se logra mediante un subsidio de RD$780.3 millones.
@@ -1317,20 +1331,6 @@ Antes del acto, el presidente supervisó el Hotel Escuela Guarocuya, un proyecto
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780094003/autonoticias/articles/20260529_223323_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 22:34:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529223402</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[RD mantiene su tasa de política monetaria en el 5.25 % anual]]></title>
-    <link>https://n.com.do/2026/05/29/rd-mantiene-su-tasa-de-politica-monetaria-en-el-5-25-anual/</link>
-    <description><![CDATA[La República Dominicana ha decidido mantener su tasa de interés de política monetaria en el 5.25 % anual por séptimo mes consecutivo. Esta decisión se basa en la recuperación económica local, que creció un 4 % en el primer cuatrimestre del año.
-
-La tasa de la facilidad permanente de expansión de liquidez se mantiene en 5.75 % anual y la tasa de depósitos remunerados en 4.50 % anual. La inflación interanual aumentó a 5.11 % en abril, influenciada por los precios internacionales del petróleo, aunque la inflación subyacente se mantiene dentro del rango meta.
-
-El Gobierno está implementando subsidios para mitigar el impacto de los precios energéticos. Las reservas internacionales del país se sitúan en 15.900 millones de dólares.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780093979/autonoticias/articles/20260529_223259_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 22:33:49 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529223349</guid>
   </item>
 </channel>
 </rss>
