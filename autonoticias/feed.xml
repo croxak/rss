@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 06 Jun 2026 00:00:31 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 00:08:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Apagón de más de cinco horas afecta gran parte de la provincia San Juan]]></title>
+    <link>https://elnuevodiario.com.do/apagon-de-mas-de-cinco-horas-afecta-gran-parte-de-la-provincia-san-juan/</link>
+    <description><![CDATA[Una avería en el transformador de potencia de la Subestación de San Juan ha dejado sin electricidad a gran parte de la provincia San Juan desde la tarde de este viernes. La interrupción afecta los circuitos SJUA101, SJUA102, SJUA103 y SJUA104.
+
+La gobernadora Ana María Castillo Mateo informó que brigadas técnicas están trabajando para corregir la avería y restablecer el servicio eléctrico lo antes posible. Los residentes y comerciantes de las zonas afectadas esperan la normalización del suministro.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780704035/autonoticias/articles/20260606_000035_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 06 Jun 2026 00:08:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260606000814</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Evaluación de Desempeño Docente concluye sexta etapa con 78,462 docentes evaluados]]></title>
     <link>https://n.com.do/2026/06/05/evaluacion-de-desempeno-docente-concluye-sexta-etapa-con-78462-docentes-evaluados/</link>
     <description><![CDATA[La Comisión Nacional Rectora de la Evaluación de Desempeño Docente ha concluido la sexta etapa del proceso evaluativo, evaluando a 74,868 docentes de un total de 78,462, logrando un 95.4% del objetivo.
@@ -1317,20 +1329,6 @@ Rodríguez también está vinculado a la muerte de Ramón María Montero y a las
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780093929/autonoticias/articles/20260529_223209_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 22:35:13 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529223513</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno entrega hospital materno infantil en Barahona]]></title>
-    <link>https://panorama.com.do/gobierno-entrega-hospital-materno-infantil-en-barahona/</link>
-    <description><![CDATA[El presidente Luis Abinader inauguró el remozamiento y ampliación del Hospital Regional Materno Infantil Dr. Jaime Sánchez en Barahona. Este moderno centro especializado atenderá a mujeres, niños y recién nacidos de la región sur, con nuevas unidades de cuidados intensivos pediátricos.
-
-El director del SNS, Julio César Landrón, informó que la obra tuvo una inversión superior a RD$494 millones. Además, Abinader anunció que próximamente se entregarán remozados los hospitales de Paraíso, Vicente Noble y Enriquillo, junto a un nuevo hospital oncológico en Barahona.
-
-Antes del acto, el presidente supervisó el Hotel Escuela Guarocuya, un proyecto del INFOTEP que se inaugurará a finales de julio.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780094003/autonoticias/articles/20260529_223323_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 22:34:02 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529223402</guid>
   </item>
 </channel>
 </rss>
