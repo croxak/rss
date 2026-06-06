@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 06 Jun 2026 20:41:34 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 20:43:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Encuentran sin vida a hombre que había sido reportado como desaparecido en Sabana Grande de Boyá]]></title>
+    <link>https://panorama.com.do/encuentran-sin-vida-a-hombre-que-habia-sido-reportado-como-desaparecido-en-sabana-grande-de-boya/</link>
+    <description><![CDATA[Juan de Dios Delisma, de 54 años, fue encontrado sin vida en Sabana Grande de Boyá tras haber sido reportado como desaparecido desde el viernes. Su cuerpo fue hallado en una zanja en el sector Las Cañitas.
+
+Delisma se dedicaba a la recolección y venta de botellas reciclables y padecía de epilepsia. Se presume que pudo haber sufrido un episodio relacionado con su condición médica, pero las circunstancias exactas de su fallecimiento aún no han sido determinadas oficialmente.
+
+Las autoridades están a cargo de las investigaciones para establecer la causa de muerte.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780778500/autonoticias/articles/20260606_204139_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 06 Jun 2026 20:43:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260606204320</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Hombre hiere a cuchilladas a su madre y a una hermana en SFM]]></title>
     <link>https://www.elcaribe.com.do/panorama/region-norte/hombre-hiere-a-cuchilladas-a-su-madre-y-a-una-hermana-en-sfm/</link>
     <description><![CDATA[En San Francisco de Macorís, Luis Marlin Polanco Rosado, de 34 años, hirió a su madre y a una hermana con un arma blanca. El incidente ocurrió en un residencial de la ciudad.
@@ -1315,20 +1329,6 @@ El martes 2 de junio, la presidenta se reunirá con líderes del Senado y la Cá
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780162662/autonoticias/articles/20260530_173741_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 30 May 2026 17:39:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260530173917</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Raquel Peña encabeza acto por 100 años del Himno a las Madres]]></title>
-    <link>https://www.elcaribe.com.do/panorama/region-norte/raquel-pena-encabeza-acto-por-100-anos-del-himno-a-las-madres/</link>
-    <description><![CDATA[La vicepresidenta Raquel Peña lideró un acto en el Gran Teatro del Cibao para celebrar los 100 años del Himno a las Madres y reconocer a mujeres destacadas en la cultura dominicana. Ingrid González de Rodríguez, Ivanova Casimiro, Martha Beato y Juana Expósito fueron homenajeadas por su compromiso social y cultural.
-
-Raquel Peña resaltó el papel de las madres en la sociedad y mencionó iniciativas como "Cariñito a las Madres", que beneficia a más de un millón de madres en situación de vulnerabilidad.
-
-El ministro de Cultura, Roberto Ángel Salcedo, destacó el valor del himno y la resiliencia de la mujer dominicana. La ceremonia incluyó música de la Orquesta Filarmónica de Santo Domingo y artistas como Jessy Savery y Marta Heredia.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780151656/autonoticias/articles/20260530_143416_article.webp" type="image/jpeg"/>
-    <pubDate>Sat, 30 May 2026 14:34:45 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260530143445</guid>
   </item>
 </channel>
 </rss>
