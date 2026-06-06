@@ -7,9 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 06 Jun 2026 20:43:20 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 21:15:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Lluvias continuarán durante el fin de semana; Indomet llama a tomar precaución ante posibles inundaciones]]></title>
+    <link>https://robertocavada.com/lluvias-continuaran-durante-el-fin-de-semana-indomet-llama-a-tomar-precaucion-ante-posibles-inundaciones/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) ha anunciado que las lluvias continuarán durante el fin de semana debido a una vaguada prefrontal y una onda tropical. Estas condiciones afectarán gran parte del territorio nacional con aguaceros moderados a fuertes, tormentas eléctricas y ráfagas de viento.
+
+Indomet ha emitido alertas meteorológicas: alerta amarilla para varias provincias, incluyendo Santo Domingo y Santiago, y alerta verde para otras como Pedernales y La Vega.
+
+Se espera que las lluvias continúen en el Gran Santo Domingo, especialmente en Santo Domingo Este, y se trasladen al Distrito Nacional y otras áreas. El domingo, las lluvias persistirán, y el lunes se prevé una disminución de las precipitaciones.
+
+Indomet exhorta a la población a seguir los boletines oficiales y las recomendaciones de los organismos de protección civil.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780778447/autonoticias/articles/20260606_204047_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 06 Jun 2026 21:15:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260606211500</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Encuentran sin vida a hombre que había sido reportado como desaparecido en Sabana Grande de Boyá]]></title>
     <link>https://panorama.com.do/encuentran-sin-vida-a-hombre-que-habia-sido-reportado-como-desaparecido-en-sabana-grande-de-boya/</link>
     <description><![CDATA[Juan de Dios Delisma, de 54 años, fue encontrado sin vida en Sabana Grande de Boyá tras haber sido reportado como desaparecido desde el viernes. Su cuerpo fue hallado en una zanja en el sector Las Cañitas.
@@ -1315,20 +1331,6 @@ El cabecilla de la red, Nelson Antonio González Brito, fue identificado como pr
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780162786/autonoticias/articles/20260530_173946_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 30 May 2026 17:40:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260530174017</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidenta de Surinam arribó este sábado a la República Dominicana]]></title>
-    <link>https://www.presidencia.gob.do/noticias/presidenta-de-surinam-arribo-este-sabado-la-republica-dominicana</link>
-    <description><![CDATA[La presidenta de Surinam, Jennifer Geerlings-Simons, arribó a la República Dominicana este sábado para una visita oficial que se extenderá hasta el 2 de junio. Fue recibida con honores por el Condón Presidencial del Regimiento de la Guardia de Honor del Ministerio de Defensa.
-
-El lunes 1 de junio, Geerlings-Simons se reunirá con el presidente Luis Abinader en el Palacio Nacional. La agenda incluye una audiencia bilateral, la firma de instrumentos bilaterales y una ofrenda floral en el Altar de la Patria.
-
-El martes 2 de junio, la presidenta se reunirá con líderes del Senado y la Cámara de Diputados. Su salida está programada para las 4:50 de la tarde desde el Aeropuerto Internacional de Las Américas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780162662/autonoticias/articles/20260530_173741_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 30 May 2026 17:39:17 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260530173917</guid>
   </item>
 </channel>
 </rss>
