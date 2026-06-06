@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 06 Jun 2026 13:46:06 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 14:17:51 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Ejército detiene 27 haitianos indocumentados en Esperanza]]></title>
+    <link>https://panorama.com.do/ejercito-detiene-27-haitianos-indocumentados-en-esperanza/</link>
+    <description><![CDATA[Miembros del Ejército de República Dominicana detuvieron una miniván con veintisiete nacionales haitianos en condición migratoria irregular en Esperanza, provincia Valverde. El vehículo fue interceptado en la autopista Duarte, cerca de Maizal.
+
+El conductor huyó al notar la presencia militar, abandonando el vehículo tras una persecución. Entre los detenidos hay quince hombres, nueve mujeres y tres menores de edad.
+
+Los detenidos y el vehículo fueron trasladados a la sede de la 4ta. Brigada de Infantería del ERD para su entrega a la Dirección General de Migración. El Ejército mantiene operativos de vigilancia en la región Noroeste.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780755401/autonoticias/articles/20260606_141641_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 06 Jun 2026 14:17:51 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260606141751</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece el veterano fotorreportero Franklin Guerrero]]></title>
     <link>https://eldia.com.do/luto-en-la-prensa-dominicana-fallece-el-veterano-fotorreportero-franklin-guerrero/</link>
     <description><![CDATA[El fotoreportero Franklin Guerrero ha fallecido este viernes en Santo Domingo, mientras recibía atención médica en Cedimat. Guerrero, reconocido por su estilo único en la cobertura de fuentes judiciales, políticas y de sucesos, dejó una marca en el periodismo dominicano.
@@ -1313,20 +1327,6 @@ Morrison expresó su confianza en la JCE y llamó a la población a preservar lo
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780094288/autonoticias/articles/20260529_223808_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 22:38:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529223833</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fallece Bernardo Defilló, referente de la cardiología y la seguridad social en República Dominicana]]></title>
-    <link>https://www.diariolibre.com/actualidad/salud/2026/05/29/fallece-bernardo-defillo-referente-de-la-cardiologia-en-rd/3550464</link>
-    <description><![CDATA[El doctor Bernardo Defilló, uno de los médicos más influyentes de la República Dominicana, falleció a los 86 años. Fue una figura clave en el desarrollo de la cardiología, medicina interna y seguridad social del país.
-
-Nacido en Santo Domingo en 1940, estudió Medicina en la UASD y se especializó en México. Ocupó importantes cargos en la gestión sanitaria nacional y contribuyó al sistema de seguridad social.
-
-Defilló también fue un prolífico autor, publicando numerosos artículos científicos y siendo miembro de varias sociedades médicas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780094091/autonoticias/articles/20260529_223451_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 22:35:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529223541</guid>
   </item>
 </channel>
 </rss>
