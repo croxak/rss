@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 06 Jun 2026 14:17:51 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 15:11:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Instituto Duartiano accionará legalmente por uso de la bandera nacional en funeral de un civil]]></title>
+    <link>https://n.com.do/2026/06/06/instituto-duartiano-accionara-legalmente-por-uso-de-la-bandera-nacional-en-funeral-de-un-civil/</link>
+    <description><![CDATA[El Instituto Duartiano anunció acciones legales por el uso indebido de la bandera nacional en el funeral de Luis Miguel Martínez Agramonte en San Francisco de Macorís. Wilson Gómez Ramírez, presidente del instituto, calificó el acto como un ultraje a un símbolo patrio.
+
+La Ley 210-19 establece que solo ciertos ciudadanos pueden recibir un homenaje póstumo con la bandera nacional. Gómez Ramírez criticó la falta de intervención de los agentes policiales presentes y espera sanciones ejemplares.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780758625/autonoticias/articles/20260606_151024_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 06 Jun 2026 15:11:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260606151114</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ejército detiene 27 haitianos indocumentados en Esperanza]]></title>
     <link>https://panorama.com.do/ejercito-detiene-27-haitianos-indocumentados-en-esperanza/</link>
     <description><![CDATA[Miembros del Ejército de República Dominicana detuvieron una miniván con veintisiete nacionales haitianos en condición migratoria irregular en Esperanza, provincia Valverde. El vehículo fue interceptado en la autopista Duarte, cerca de Maizal.
@@ -1313,20 +1325,6 @@ Esta resolución coincide con una del Ministerio de Medio Ambiente que también 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780116314/autonoticias/articles/20260530_044513_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 30 May 2026 04:45:51 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260530044551</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Partido Camino Nuevo desmonta vallas tras reunión con presidente de la JCE]]></title>
-    <link>https://elnuevodiario.com.do/partido-camino-nuevo-desmonta-vallas-tras-reunion-con-presidente-de-la-jce/</link>
-    <description><![CDATA[El presidente de la Junta Central Electoral, Román Andrés Jáquez Liranzo, se reunió con Eglenin Morrison, líder del partido Camino Nuevo, para tratar el tema de las vallas publicitarias colocadas por el partido.
-
-Morrison explicó las razones jurídicas para la instalación de las vallas y decidió retirarlas para evitar tensiones mientras el Tribunal Constitucional revisa el caso. El retiro comenzó el jueves.
-
-Morrison expresó su confianza en la JCE y llamó a la población a preservar los valores democráticos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780094288/autonoticias/articles/20260529_223808_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 29 May 2026 22:38:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529223833</guid>
   </item>
 </channel>
 </rss>
