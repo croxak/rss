@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 06 Jun 2026 00:09:14 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 13:46:06 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Fallece el veterano fotorreportero Franklin Guerrero]]></title>
+    <link>https://eldia.com.do/luto-en-la-prensa-dominicana-fallece-el-veterano-fotorreportero-franklin-guerrero/</link>
+    <description><![CDATA[El fotoreportero Franklin Guerrero ha fallecido este viernes en Santo Domingo, mientras recibía atención médica en Cedimat. Guerrero, reconocido por su estilo único en la cobertura de fuentes judiciales, políticas y de sucesos, dejó una marca en el periodismo dominicano.
+
+En su carrera, destacó por la "Foto-Crónica de la Semana", un segmento audiovisual en programas de investigación periodística de Nuria Piera, donde combinaba sus fotografías con narraciones descriptivas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780753537/autonoticias/articles/20260606_134536_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 06 Jun 2026 13:46:06 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260606134606</guid>
+  </item>
+
+  <item>
     <title><![CDATA[COE aumenta a 18 provincias en alerta; 5 en amarilla incluyendo el Gran Santo Domingo]]></title>
     <link>https://eldia.com.do/coe-aumenta-a-18-provincias-en-alerta-5-en-amarilla-incluyendo-el-gran-santo-domingo/</link>
     <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha ampliado a 18 las provincias en alerta debido a condiciones atmosféricas adversas. Seis provincias, incluyendo el Gran Santo Domingo, están en alerta amarilla, mientras que 12 están en verde.
@@ -1315,20 +1327,6 @@ Defilló también fue un prolífico autor, publicando numerosos artículos cient
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780094091/autonoticias/articles/20260529_223451_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 29 May 2026 22:35:41 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260529223541</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Salud Pública construirá tres hemocentros regionales para ampliar acceso a sangre gratuita]]></title>
-    <link>https://panorama.com.do/salud-publica-construira-tres-hemocentros-regionales-para-ampliar-acceso-a-sangre-gratuita/</link>
-    <description><![CDATA[El Hemocentro Nacional, bajo la dirección de Pedro Sing Ureña, construirá tres nuevos hemocentros regionales en Santiago, la región Este y la región Sur. Esta medida busca mejorar el acceso a sangre gratuita y fomentar la donación voluntaria.
-
-Para finales de 2027, se planea adquirir 12 unidades móviles de colecta de sangre y establecer seis centros fijos cerca de hospitales traumatológicos. Desde 2021, el Hemocentro ha ahorrado RD$326 millones a familias vulnerables.
-
-La donación voluntaria de sangre ha aumentado significativamente, y el déficit nacional de sangre se ha reducido considerablemente. El Hemocentro Nacional lidera en cobertura de hemoderivados en el país.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780093869/autonoticias/articles/20260529_223108_article.png" type="image/png"/>
-    <pubDate>Fri, 29 May 2026 22:35:27 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260529223527</guid>
   </item>
 </channel>
 </rss>
