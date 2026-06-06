@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 06 Jun 2026 17:51:10 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 06 Jun 2026 20:41:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Productores de mango advierten que el país exporta menos de la mitad de su producción]]></title>
+    <link>https://panorama.com.do/productores-de-mango-advierten-que-el-pais-exporta-menos-de-la-mitad-de-su-produccion/</link>
+    <description><![CDATA[República Dominicana produce entre 4,500 y 5,000 contenedores de mango al año, pero solo exporta entre 1,700 y 1,800, según Germán Báez, presidente de la Asociación de Productores de Mango. Esta brecha genera pérdidas significativas para los productores.
+
+Báez destacó la necesidad de fortalecer los mecanismos de comercialización y ampliar el acceso a mercados internacionales. Las exportaciones a menudo se realizan bajo acuerdos de consignación, lo que puede resultar en engaños.
+
+Expo Mango 2026 ha crecido, ofreciendo más espacios para expositores y actividades culturales y técnicas. La feria es una de las principales actividades agropecuarias del país.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780778431/autonoticias/articles/20260606_204031_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 06 Jun 2026 20:41:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260606204105</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Restos de Franklin Guerrero serán expuestos en Jardín Memorial]]></title>
     <link>https://www.elcaribe.com.do/gente/restos-de-franklin-guerrero-seran-expuestos-en-jardin-memorial/</link>
     <description><![CDATA[Los restos del periodista Franklin Guerrero serán expuestos en el Jardín Memorial este fin de semana. Las honras fúnebres comenzarán el sábado 6 de junio de 4:00 p.m. a 9:00 p.m. y continuarán el domingo 7 desde las 9:00 a.m. La misa de cuerpo presente será el domingo a la 1:00 p.m., seguida del sepelio a las 2:30 p.m.
@@ -1311,20 +1325,6 @@ Abinader afirmó que una nación debe ser capaz de dirigir su propio destino, gu
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780151522/autonoticias/articles/20260530_143202_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 30 May 2026 14:32:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260530143240</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ejército detiene a 23 haitianos indocumentados que se ocultaban en zona boscosa de Guayubín]]></title>
-    <link>https://n.com.do/2026/05/30/ejercito-detiene-a-23-haitianos-indocumentados-que-se-ocultaban-en-zona-boscosa-de-guayubin/</link>
-    <description><![CDATA[El Ejército de República Dominicana detuvo a 23 haitianos indocumentados en una zona boscosa de Guayubín, Montecristi. La operación se llevó a cabo tras labores de inteligencia y con el apoyo de una patrulla del puesto de chequeo Mangá.
-
-Entre los detenidos se encuentran 18 hombres, 2 mujeres y 3 menores de edad. Todos fueron trasladados a la 4ta. Brigada de Infantería del ERD para los procedimientos legales y su entrega a la Dirección General de Migración.
-
-Estas acciones son parte de los operativos del Ejército para fortalecer la vigilancia fronteriza y combatir el tráfico ilegal de personas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780148439/autonoticias/articles/20260530_134038_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 30 May 2026 13:41:47 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260530134147</guid>
   </item>
 </channel>
 </rss>
