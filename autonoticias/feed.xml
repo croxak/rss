@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 07 Jun 2026 14:01:30 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 07 Jun 2026 14:01:46 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Faride Raful valora aprobación de Alerta RD como un paso decisivo para proteger vidas]]></title>
+    <link>https://eldia.com.do/faride-raful-valora-aprobacion-de-alerta-rd-como-un-paso-decisivo-para-proteger-vidas/</link>
+    <description><![CDATA[Faride Raful, ministra de Interior y Policía, destacó la aprobación de la Ley 25-26, que crea el sistema Alerta RD para mejorar la respuesta ante desapariciones. La ley también establece el Consejo Nacional para la Búsqueda de Personas Desaparecidas.
+
+La activación de alertas se realizará conjuntamente entre la Policía Nacional y el Ministerio Público en un plazo de 24 horas tras recibir una denuncia. El sistema incluye la Alerta Amber para menores y la Alerta Rosa para mujeres en riesgo.
+
+El Consejo Nacional estará integrado por diversas instituciones, como la Procuraduría General, el Ministerio de Defensa y el Sistema 9-1-1, entre otras.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780840807/autonoticias/articles/20260607_140007_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 07 Jun 2026 14:01:46 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260607140146</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Arrestan a mujer por intentar introducir sustancia prohibida en la cárcel de Las Parras]]></title>
     <link>https://eldia.com.do/arrestan-a-mujer-por-intentar-introducir-sustancia-prohibida-en-la-carcel-de-las-parras/</link>
     <description><![CDATA[Una mujer fue detenida en la cárcel Las Parras por intentar ingresar sustancias controladas, lo que provocó un intento de motín en el Centro de Corrección y Rehabilitación de San Antonio de Guerra. La mujer, acompañada de su hija de 11 años, fue arrestada durante el proceso de inspección.
@@ -1319,18 +1333,6 @@ Petro declaró que solo aceptará los resultados oficiales del escrutinio, no lo
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780280389/autonoticias/articles/20260601_021949_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 01 Jun 2026 02:20:29 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260601022029</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ejército intercepta jeepeta con 17 haitianos indocumentados en Santiago Rodríguez]]></title>
-    <link>https://eldia.com.do/ejercito-intercepta-jeepeta-con-17-haitianos-indocumentados-en-santiago-rodriguez/</link>
-    <description><![CDATA[El Ejército de República Dominicana interceptó una jeepeta Kia Sorento, color rojo, placa G646761, que transportaba a 17 haitianos indocumentados en Santiago Rodríguez. El conductor huyó al notar la presencia militar, dejando el vehículo abandonado.
-
-Los migrantes, compuestos por trece hombres, tres mujeres y un menor de edad, están bajo custodia militar para los fines legales correspondientes. Estos operativos son parte de las acciones para combatir el tráfico ilegal de personas y reforzar el control migratorio.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780246396/autonoticias/articles/20260531_165316_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 31 May 2026 16:53:46 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260531165346</guid>
   </item>
 </channel>
 </rss>
