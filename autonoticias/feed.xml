@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 07 Jun 2026 14:01:46 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 07 Jun 2026 14:02:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Fallece el bailarín Iván Tejeda tras permanecer ingresado en el Hospital Darío Contreras]]></title>
+    <link>https://eldia.com.do/fallece-el-bailarin-ivan-tejeda-tras-permanecer-ingresado-en-el-hospital-dario-contreras/</link>
+    <description><![CDATA[Iván Tejada, reconocido coreógrafo y bailarín, falleció en el Hospital Universitario Docente Traumatológico Dr. Darío Contreras. Tejada había sido hospitalizado desde el 29 de mayo debido a un accidente de tránsito que le causó graves lesiones.
+
+El hospital informó que se hicieron todos los esfuerzos posibles para salvar su vida y expresó sus condolencias a familiares y amigos. Tejada tenía más de dos décadas de trayectoria artística y fue galardonado con premios como el Soberano.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780840772/autonoticias/articles/20260607_135932_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 07 Jun 2026 14:02:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260607140202</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Faride Raful valora aprobación de Alerta RD como un paso decisivo para proteger vidas]]></title>
     <link>https://eldia.com.do/faride-raful-valora-aprobacion-de-alerta-rd-como-un-paso-decisivo-para-proteger-vidas/</link>
     <description><![CDATA[Faride Raful, ministra de Interior y Policía, destacó la aprobación de la Ley 25-26, que crea el sistema Alerta RD para mejorar la respuesta ante desapariciones. La ley también establece el Consejo Nacional para la Búsqueda de Personas Desaparecidas.
@@ -1319,20 +1331,6 @@ Uribe destacó el liderazgo de la senadora Paloma Valencia y cuestionó el rumbo
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780280376/autonoticias/articles/20260601_021935_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 01 Jun 2026 02:20:43 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260601022043</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gustavo Petro dice que no acepta resultados del preconteo de las elecciones de Colombia]]></title>
-    <link>https://listindiario.com/las-mundiales/america/20260531/gustavo-petro-dice-acepta-resultados-preliminares-elecciones-colombia_907958.html</link>
-    <description><![CDATA[Gustavo Petro, presidente de Colombia, ha expresado su rechazo a los resultados del preconteo de las elecciones presidenciales. En estos resultados preliminares, su candidato quedó en segundo lugar.
-
-Abelardo de la Espriella, abogado derechista, lideró con el 43,7% de los votos, seguido por el senador oficialista Iván Cepeda con el 40,9%. El próximo presidente se definirá en un balotaje el 21 de junio.
-
-Petro declaró que solo aceptará los resultados oficiales del escrutinio, no los del preconteo.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780280389/autonoticias/articles/20260601_021949_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 01 Jun 2026 02:20:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260601022029</guid>
   </item>
 </channel>
 </rss>
