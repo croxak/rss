@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 08 Jun 2026 19:58:41 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 19:59:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Po Xie y su pareja reaparecen con video de IA tras polémico caso]]></title>
+    <link>https://www.elcaribe.com.do/panorama/pais/po-xie-pareja-video-ia-mudan/</link>
+    <description><![CDATA[Po Xie, propietario de la tienda Mudan, y su pareja han reaparecido en redes sociales mediante un video de inteligencia artificial. En este video, ambos negaron la gravedad de las acusaciones sobre su situación sentimental, aunque reconocieron haber tenido una discusión de pareja.
+
+El caso comenzó el 28 de mayo con el arresto de Po Xie por presunta violencia de género. Aunque el Ministerio Público solicitó prisión preventiva, el juez impuso una garantía económica y otras medidas mientras continúa la investigación.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780948708/autonoticias/articles/20260608_195828_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 08 Jun 2026 19:59:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260608195934</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader se reúne con empresarios para evaluar medidas dirigidas a enfrentar los efectos de la actual crisis internacional]]></title>
     <link>https://eldia.com.do/abinader-se-reune-con-empresarios-para-evaluar-medidas-dirigidas-a-enfrentar-los-efectos-de-la-actual-crisis-internacional/</link>
     <description><![CDATA[El presidente Luis Abinader se reunirá con líderes empresariales, industriales, comerciales y agrícolas para evaluar medidas que mitiguen el impacto económico de la guerra entre Estados Unidos, Israel e Irán. Este conflicto ha provocado alzas de hasta RD$45 por galón en los combustibles.
@@ -1317,20 +1329,6 @@ Las tasas de interés promedio para créditos en moneda nacional y extranjera so
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780410437/autonoticias/articles/20260602_142716_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 02 Jun 2026 14:28:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260602142803</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[INDOMET informa ambiente soleado y caluroso por incremento de polvo del Sahara]]></title>
-    <link>https://robertocavada.com/indomet-informa-ambiente-soleado-y-caluroso-por-incremento-de-polvo-del-sahara/</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (INDOMET) ha informado que el clima en el país estará dominado por un sistema de alta presión y un aumento de polvo del Sahara, lo que resultará en un ambiente mayormente soleado y caluroso.
-
-Se esperan chubascos aislados en la mañana en San Pedro de Macorís, San Cristóbal, Peravia, Barahona y el Gran Santo Domingo. En la tarde, podrían ocurrir aguaceros aislados en Santiago, Santiago Rodríguez, Valverde y Dajabón.
-
-Las temperaturas seguirán elevadas, por lo que se recomienda a la población mantenerse hidratada y evitar la exposición prolongada al sol. Para el jueves, se anticipa un cambio en las condiciones debido a una vaguada, con posibles lluvias y tronadas en varias regiones.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780406305/autonoticias/articles/20260602_131824_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 02 Jun 2026 13:19:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260602131900</guid>
   </item>
 </channel>
 </rss>
