@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 08 Jun 2026 19:59:49 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 21:49:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Pasaportes elimina cargo por pérdida y deterioro para facilitar acceso al documento electrónico]]></title>
+    <link>https://panorama.com.do/pasaportes-elimina-cargo-por-perdida-y-deterioro-para-facilitar-acceso-al-documento-electronico/</link>
+    <description><![CDATA[La Dirección General de Pasaportes ha implementado medidas para facilitar el acceso al nuevo pasaporte electrónico dominicano. Entre ellas, se elimina temporalmente el cargo por pérdida o deterioro del documento, lo que permitirá un ahorro estimado de RD$48 millones para los usuarios.
+
+Estas acciones forman parte de una estrategia para fortalecer la seguridad documental y mejorar la experiencia de los ciudadanos al solicitar o renovar su pasaporte. También se está ampliando la cobertura de los servicios en distintas provincias del país.
+
+El nuevo pasaporte electrónico incorpora estándares internacionales de seguridad, ofreciendo mayor protección de los datos personales de los ciudadanos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780955310/autonoticias/articles/20260608_214830_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 08 Jun 2026 21:49:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260608214919</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Exalcalde Carlos Guzmán desmiente su retorno al PLD]]></title>
     <link>https://n.com.do/2026/06/08/exalcalde-carlos-guzman-desmiente-su-retorno-al-pld/</link>
     <description><![CDATA[Carlos Guzmán, exalcalde de Santo Domingo Norte, negó las versiones sobre su regreso al Partido de la Liberación Dominicana (PLD). Afirmó que las especulaciones son falsas y descartó cualquier información en ese sentido.
@@ -1313,20 +1327,6 @@ Los detenidos fueron trasladados a instalaciones militares para los procedimient
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780411209/autonoticias/articles/20260602_144008_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 02 Jun 2026 14:40:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260602144039</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Teleférico de Santo Domingo suspende temporalmente operaciones en tramo de la Línea 1]]></title>
-    <link>https://n.com.do/2026/06/02/teleferico-de-santo-domingo-suspende-temporalmente-operaciones-en-tramo-de-la-linea-1/</link>
-    <description><![CDATA[La Empresa Metropolitana de Transporte (EMT) ha suspendido temporalmente el Tramo 2 de la Línea 1 del Teleférico de Santo Domingo. Esta medida se tomó tras la detección de una alarma en el sistema de control.
-
-La inspección preventiva se programó en horario valle para reducir el impacto en los pasajeros. La EMT busca identificar el origen de la alarma y reanudar el servicio de manera segura.
-
-No se ha informado el tiempo estimado para la reapertura del tramo afectado. La EMT agradece la comprensión de los usuarios y ofrece disculpas por los inconvenientes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780410575/autonoticias/articles/20260602_142934_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 02 Jun 2026 14:29:59 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260602142959</guid>
   </item>
 </channel>
 </rss>
