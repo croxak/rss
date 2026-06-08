@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 08 Jun 2026 02:33:50 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 02:34:37 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Florentino Pérez seguirá presidiendo el Real Madrid hasta 2030]]></title>
+    <link>https://www.diariolibre.com/deportes/futbol/2026/06/07/florentino-perez-seguira-presidiendo-real-madrid-hasta-2030/3559330</link>
+    <description><![CDATA[Florentino Pérez ha sido reelegido como presidente del Real Madrid hasta 2030, superando a Enrique Riquelme con el 65% de los votos. Esta es la primera elección en 20 años para el club.
+
+Pérez anunció el regreso de José Mourinho como entrenador y la incorporación de los defensas Ibrahima Konaté y Denzel Dumfries. También planea una oferta histórica por un jugador de la Champions.
+
+El presidente reafirmó su compromiso de mantener el club en manos de los socios, rechazando la privatización y considerando la entrada de un inversor con un máximo del 5% del club.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780886052/autonoticias/articles/20260608_023411_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 08 Jun 2026 02:34:37 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260608023437</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Avión que se accidentó en La Romana iba a buscar al expelotero Yadier Molina a Texas]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/06/07/avion-siniestrado-en-la-romana-iba-a-buscar-a-yadier-molina/3559324</link>
     <description><![CDATA[Un avión que se dirigía a Austin, Texas, para recoger al exjugador de Grandes Ligas Yadier Molina se accidentó en el aeropuerto de La Romana. El piloto Erick Javier Diago y el copiloto Rudy Ghazal fallecieron en el incidente. Molina lamentó la tragedia y ofreció sus condolencias a las familias de los tripulantes.]]></description>
@@ -1317,20 +1331,6 @@ La DICRIM y el Ministerio Público realizan entrevistas y analizan evidencias. V
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780320819/autonoticias/articles/20260601_133339_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 01 Jun 2026 13:50:12 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260601135012</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Abinader recibirá este lunes a su homóloga de Surinam, Jennifer Geerlings-Simons, en el Palacio Nacional]]></title>
-    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-recibira-este-lunes-su-homologa-de-surinam-jennifer-geerlings-simons</link>
-    <description><![CDATA[El presidente Luis Abinader recibirá a su homóloga de Surinam, Jennifer Geerlings-Simons, este lunes en el Palacio Nacional. La ceremonia incluirá honores militares y una reunión privada.
-
-Las delegaciones de ambos países se reunirán para discutir temas bilaterales. Posteriormente, los jefes de Estado firmarán instrumentos bilaterales y ofrecerán una declaración conjunta.
-
-La visita concluirá con un almuerzo en el Salón Verde.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780320287/autonoticias/articles/20260601_132447_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 01 Jun 2026 13:25:20 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260601132520</guid>
   </item>
 </channel>
 </rss>
