@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 08 Jun 2026 19:56:51 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 19:58:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Abinader se reúne con empresarios para evaluar medidas dirigidas a enfrentar los efectos de la actual crisis internacional]]></title>
+    <link>https://eldia.com.do/abinader-se-reune-con-empresarios-para-evaluar-medidas-dirigidas-a-enfrentar-los-efectos-de-la-actual-crisis-internacional/</link>
+    <description><![CDATA[El presidente Luis Abinader se reunirá con líderes empresariales, industriales, comerciales y agrícolas para evaluar medidas que mitiguen el impacto económico de la guerra entre Estados Unidos, Israel e Irán. Este conflicto ha provocado alzas de hasta RD$45 por galón en los combustibles.
+
+La reunión se realizará a puertas cerradas en el Palacio Nacional a las 3:30 de la tarde. Desde el inicio de la guerra el 28 de febrero de 2026, los precios de los combustibles han aumentado significativamente, rompiendo una racha de 38 semanas sin variaciones.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780948689/autonoticias/articles/20260608_195809_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 08 Jun 2026 19:58:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260608195841</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministro Joel Santos resaltó que el país ya produce cerca de 2,000 MW de energía renovable]]></title>
     <link>https://www.presidencia.gob.do/noticias/ministro-joel-santos-resalto-que-el-pais-ya-produce-cerca-de-2000-mw-de-energia-renovable</link>
     <description><![CDATA[El ministro Joel Santos anunció que la República Dominicana produce cerca de 2,000 MW de energía renovable, con una proyección de alcanzar 2,600 MW para 2028. Este avance ha generado una inversión de 3,000 millones de dólares.
@@ -1319,20 +1331,6 @@ Las temperaturas seguirán elevadas, por lo que se recomienda a la población ma
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780406305/autonoticias/articles/20260602_131824_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 02 Jun 2026 13:19:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260602131900</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Yeni Berenice: “El Ministerio Público no detendrá la lucha contra la corrupción bajo ninguna circunstancia”]]></title>
-    <link>https://eldia.com.do/yeni-berenice-el-ministerio-publico-no-detendra-la-lucha-contra-la-corrupcion-bajo-ninguna-circunstancia/</link>
-    <description><![CDATA[Yeni Berenice Reynoso, procuradora general de la República, reafirmó el compromiso del Ministerio Público en la lucha contra la corrupción. Aseguró que no detendrán sus esfuerzos y apelarán decisiones judiciales que no se correspondan con las pruebas presentadas.
-
-Reynoso destacó que la corrupción afecta áreas esenciales como la salud, la educación y la seguridad. Mencionó que el Ministerio Público ha logrado 74 condenas y decomisado más de RD$6,000 millones a favor del Estado.
-
-La procuradora afirmó que no se dejarán intimidar por campañas que busquen desacreditar los procesos judiciales y que continuarán impulsando los casos hasta las últimas consecuencias.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780361640/autonoticias/articles/20260602_005400_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 02 Jun 2026 00:54:36 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260602005436</guid>
   </item>
 </channel>
 </rss>
