@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 08 Jun 2026 00:48:17 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 00:49:45 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Esposa de Miguel Vargas respalda aspiración de Gonzalo Castillo: “El país necesita ser liberado”]]></title>
+    <link>https://elnuevodiario.com.do/esposa-de-miguel-vargas-respalda-aspiracion-de-gonzalo-castillo-el-pais-necesita-ser-liberado/</link>
+    <description><![CDATA[Angelita García de Vargas, esposa de Miguel Vargas Maldonado, presidente del PRD, ha mostrado su apoyo a la candidatura presidencial de Gonzalo Castillo por el PLD. García de Vargas destacó la importancia de líderes emprendedores para el país y valoró la decisión de Castillo de regresar a la política.
+
+Gonzalo Castillo, quien fue candidato presidencial del PLD en 2020, obtuvo el segundo lugar con un 37 % de los votos. Ha enfrentado procesos judiciales relacionados con el caso Calamar, pero una decisión judicial dictó "no ha lugar", evitando un juicio de fondo.
+
+Castillo ha manifestado su intención de buscar nuevamente la candidatura presidencial por el PLD para las elecciones de 2028.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780879756/autonoticias/articles/20260608_004916_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 08 Jun 2026 00:49:45 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260608004945</guid>
+  </item>
+
+  <item>
     <title><![CDATA[COE mantiene siete provincias en alerta verde por vaguada y onda tropical]]></title>
     <link>https://eldia.com.do/coe-mantiene-siete-provincias-en-alerta-verde-por-vaguada-y-onda-tropical/</link>
     <description><![CDATA[El Centro de Operaciones de Emergencias (COE) informó que siete provincias están en alerta verde por una vaguada y una onda tropical. Las provincias afectadas son Barahona, Santiago Rodríguez, Dajabón, Puerto Plata, Santiago, Valverde y Monte Cristi.
@@ -1319,20 +1333,6 @@ En Colombia, Abelardo de la Espriella e Iván Cepeda se enfrentarán en la segun
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780313719/autonoticias/articles/20260601_113518_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 01 Jun 2026 11:35:45 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260601113545</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Inicia la temporada ciclónica 2026; prevén ambiente caluroso y lluvias aisladas este lunes]]></title>
-    <link>https://eldia.com.do/inicia-la-temporada-ciclonica-2026-preven-ambiente-caluroso-y-lluvias-aisladas-este-lunes/</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informó que este lunes 1 de junio inicia oficialmente la temporada ciclónica 2026 para el Atlántico Norte, el mar Caribe y el golfo de México, extendiéndose hasta el 30 de noviembre.
-
-Se espera un ambiente caluroso y lluvias aisladas en República Dominicana. El polvo del Sahara limitará las precipitaciones, aunque se prevén chubascos matutinos en el litoral caribeño y aguaceros aislados en la cordillera Central, el noroeste y la zona fronteriza.
-
-Las temperaturas continuarán altas, por lo que se recomienda ingerir líquidos, usar ropa ligera y evitar la exposición prolongada al sol. Las personas sensibles al polvo deben seguir las orientaciones sanitarias.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780313662/autonoticias/articles/20260601_113421_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 01 Jun 2026 11:34:47 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260601113447</guid>
   </item>
 </channel>
 </rss>
