@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 08 Jun 2026 21:49:19 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 21:57:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Abinader designa nuevos cónsules en Chile, EU. UU y Venezuela]]></title>
+    <link>https://www.elcaribe.com.do/panorama/pais/abinader-designa-consules-chile-estados-unidos-venezuela/</link>
+    <description><![CDATA[El presidente Luis Abinader ha designado nuevos cónsules en Chile, Estados Unidos y Venezuela mediante los decretos 350-26 y 351-26.
+
+Robert Ramón Arias Fernández será el cónsul general en Santiago de Chile, mientras que Juan Mercedes Mateo Guerrero ocupará el cargo en Providence, Rhode Island. María Luisa Ubiera Zorrilla ha sido nombrada cónsul general en Raleigh, Carolina del Norte.
+
+En Caracas, Venezuela, Héctor Pastor Vásquez Frías asumirá como cónsul general. Estas designaciones se realizan bajo la Ley núm. 630-16.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780955336/autonoticias/articles/20260608_214855_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 08 Jun 2026 21:57:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260608215740</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Pasaportes elimina cargo por pérdida y deterioro para facilitar acceso al documento electrónico]]></title>
     <link>https://panorama.com.do/pasaportes-elimina-cargo-por-perdida-y-deterioro-para-facilitar-acceso-al-documento-electronico/</link>
     <description><![CDATA[La Dirección General de Pasaportes ha implementado medidas para facilitar el acceso al nuevo pasaporte electrónico dominicano. Entre ellas, se elimina temporalmente el cargo por pérdida o deterioro del documento, lo que permitirá un ahorro estimado de RD$48 millones para los usuarios.
@@ -1313,20 +1327,6 @@ La familia y amigos despidieron a la menor en la funeraria Don Bosco, en Jarabac
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780413052/autonoticias/articles/20260602_151052_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 02 Jun 2026 15:13:43 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260602151343</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ejército detiene a 54 indocumentados y retiene motocicletas en operativos realizados en Montecristi]]></title>
-    <link>https://n.com.do/2026/06/02/ejercito-detiene-a-54-indocumentados-y-retiene-motocicletas-en-operativos-realizados-en-montecristi/</link>
-    <description><![CDATA[El Ejército de República Dominicana realizó operativos en Montecristi, deteniendo a 54 nacionales haitianos en condición migratoria irregular. En Hatillo Palma, se detuvieron a 20 personas, mientras que en Cayucal, municipio de Guayubín, se interceptaron a otros 20.
-
-En las proximidades de la presa de Maguaca, se detuvieron a 14 extranjeros indocumentados. Además, un ciudadano dominicano fue detenido y tres motocicletas fueron retenidas.
-
-Los detenidos fueron trasladados a instalaciones militares para los procedimientos correspondientes y serán entregados a la Dirección General de Migración.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780411209/autonoticias/articles/20260602_144008_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 02 Jun 2026 14:40:39 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260602144039</guid>
   </item>
 </channel>
 </rss>
