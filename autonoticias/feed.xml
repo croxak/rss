@@ -7,9 +7,19 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 08 Jun 2026 00:49:45 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 02:33:50 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Avión que se accidentó en La Romana iba a buscar al expelotero Yadier Molina a Texas]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/06/07/avion-siniestrado-en-la-romana-iba-a-buscar-a-yadier-molina/3559324</link>
+    <description><![CDATA[Un avión que se dirigía a Austin, Texas, para recoger al exjugador de Grandes Ligas Yadier Molina se accidentó en el aeropuerto de La Romana. El piloto Erick Javier Diago y el copiloto Rudy Ghazal fallecieron en el incidente. Molina lamentó la tragedia y ofreció sus condolencias a las familias de los tripulantes.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780886007/autonoticias/articles/20260608_023326_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 08 Jun 2026 02:33:50 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260608023350</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Esposa de Miguel Vargas respalda aspiración de Gonzalo Castillo: “El país necesita ser liberado”]]></title>
     <link>https://elnuevodiario.com.do/esposa-de-miguel-vargas-respalda-aspiracion-de-gonzalo-castillo-el-pais-necesita-ser-liberado/</link>
     <description><![CDATA[Angelita García de Vargas, esposa de Miguel Vargas Maldonado, presidente del PRD, ha mostrado su apoyo a la candidatura presidencial de Gonzalo Castillo por el PLD. García de Vargas destacó la importancia de líderes emprendedores para el país y valoró la decisión de Castillo de regresar a la política.
@@ -1321,18 +1331,6 @@ La visita concluirá con un almuerzo en el Salón Verde.]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780320287/autonoticias/articles/20260601_132447_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 01 Jun 2026 13:25:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260601132520</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Abinader saluda compromiso de Colombia con la democracia en elecciones]]></title>
-    <link>https://elnuevodiario.com.do/presidente-abinader-saluda-compromiso-de-colombia-con-la-democracia-en-elecciones/</link>
-    <description><![CDATA[El presidente Luis Abinader de República Dominicana destacó el compromiso del pueblo colombiano con la democracia en las recientes elecciones. A través de su cuenta de X, felicitó a las autoridades electorales y a los candidatos que avanzaron a la segunda vuelta presidencial.
-
-En Colombia, Abelardo de la Espriella e Iván Cepeda se enfrentarán en la segunda vuelta. De la Espriella lideró el conteo con 2.897.245 votos, mientras que Cepeda obtuvo 2.693.234 votos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780313719/autonoticias/articles/20260601_113518_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 01 Jun 2026 11:35:45 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260601113545</guid>
   </item>
 </channel>
 </rss>
