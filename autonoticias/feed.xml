@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 08 Jun 2026 16:09:19 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 16:09:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[DNCD desmantela cultivo de marihuana en Ocoa; apresa a dos haitianos y un dominicano]]></title>
+    <link>https://panorama.com.do/dncd-desmantela-cultivo-de-marihuana-en-ocoa-apresa-a-dos-haitianos-y-un-dominicano/</link>
+    <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD) y el Ministerio Público, con apoyo de la Fuerza Aérea y agencias de inteligencia, desmantelaron una plantación de presunta marihuana en San José de Ocoa. Se incautaron más de 3,000 plantas y equipos para su procesamiento.
+
+Durante la operación, fueron arrestados dos haitianos y un dominicano. Las autoridades continúan investigando para capturar a otros posibles implicados. Las plantas fueron enviadas al Instituto Nacional de Ciencias Forenses para determinar su cantidad y peso.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780934697/autonoticias/articles/20260608_160456_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 08 Jun 2026 16:09:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260608160933</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ramfis Trujillo anuncia aspiraciones presidenciales tras cumplirse 10 años de renunciar a su doble nacionalidad]]></title>
     <link>https://panorama.com.do/ramfis-trujillo-anuncia-aspiraciones-presidenciales-tras-cumplirse-10-anos-de-renunciar-a-su-doble-nacionalidad/</link>
     <description><![CDATA[Ramfis Domínguez Trujillo anunció su intención de aspirar a la candidatura presidencial del Partido Esperanza Democrática tras cumplir diez años desde su renuncia a la doble nacionalidad, cumpliendo así con los requisitos constitucionales.
@@ -1321,18 +1333,6 @@ Guzmán tuvo una trayectoria destacada dentro del PRD, participando activamente 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780330352/autonoticias/articles/20260601_161232_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 01 Jun 2026 16:50:12 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260601165012</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fallece coronel al caer de un edificio en Punta Cana]]></title>
-    <link>https://listindiario.com/la-republica/provincias/20260601/fallece-coronel-caer-edificio-punta-cana_908003.html</link>
-    <description><![CDATA[Juan Salvador Toribio Mejía, teniente coronel del Ejército Dominicano, falleció tras caer desde el cuarto nivel de su residencia en Verón Punta Cana. El hecho ocurrió en la madrugada del lunes en el residencial West Villa Village.
-
-Las autoridades, incluyendo la Dirección Central de Investigación (Dicrim), la Policía Científica, el Ministerio Público y un médico legista, acudieron al lugar. El médico legista certificó que la causa de muerte fue un shock hemorrágico por trauma craneoencefálico severo. El arma de reglamento del oficial no fue encontrada y el caso sigue bajo investigación.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780330445/autonoticias/articles/20260601_161404_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 01 Jun 2026 16:14:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260601161431</guid>
   </item>
 </channel>
 </rss>
