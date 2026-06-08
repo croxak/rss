@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 07 Jun 2026 14:02:18 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 00:48:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Ministro David Collado y embajadora Leah Campos realizan visita al portaaviones USS Nimitz]]></title>
+    <link>https://robertocavada.com/ministro-david-collado-y-embajadora-leah-campos-realizan-visita-al-portaaviones-uss-nimitz/</link>
+    <description><![CDATA[El ministro de Turismo, David Collado, visitó el portaaviones USS Nimitz, invitado por la embajadora de Estados Unidos en República Dominicana, Leah Campos. La visita comenzó en la Base Aérea de San Isidro.
+
+Participaron el ministro de Defensa, teniente general Carlos Antonio Fernández Onofre; el vicealmirante Juan Bienvenido Crisóstomo Martínez; el vicealmirante Agustín Alberto Morillo Rodríguez; y el mayor general Jorge Iván Camino Pérez.
+
+El Capitán de Navío Joseph J. Furco recibió a la delegación y encabezó un recorrido por las áreas operativas del portaaviones. La actividad fortaleció los vínculos de amistad y colaboración entre República Dominicana y Estados Unidos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780879633/autonoticias/articles/20260608_004712_article.png" type="image/png"/>
+    <pubDate>Mon, 08 Jun 2026 00:48:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260608004802</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Comienza en Perú la votación de la segunda vuelta presidencial entre Fujimori y Sánchez]]></title>
     <link>https://eldia.com.do/comienza-en-peru-la-votacion-de-la-segunda-vuelta-presidencial-entre-fujimori-y-sanchez/</link>
     <description><![CDATA[En Perú, se lleva a cabo la segunda vuelta de las elecciones presidenciales entre Keiko Fujimori y Roberto Sánchez. Más de 27,3 millones de peruanos están convocados a votar, con la jornada extendiéndose desde las 7.00 hasta las 17.00 hora local.
@@ -1321,18 +1335,6 @@ El fallecimiento ha generado múltiples mensajes de solidaridad hacia Celinés T
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780280716/autonoticias/articles/20260601_022516_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 01 Jun 2026 02:25:52 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260601022552</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Subsectetario de Estado de EE.UU. visita AES Dominicana]]></title>
-    <link>https://robertocavada.com/subsectetario-de-estado-de-ee-uu-visita-aes-dominicana/</link>
-    <description><![CDATA[El Subsecretario de Estado de EE.UU., Christopher Landau, visitó AES Dominicana en Boca Chica, acompañado de la embajadora Leah Campos y una comisión oficial del Gobierno norteamericano. La agenda incluyó un recorrido por el complejo energético AES Andrés y la presentación del modelo operativo de su terminal de Gas Natural Licuado (GNL).
-
-AES Dominicana es el principal punto de entrada de gas natural estadounidense en América Latina y representa la mayor inversión de capital de EE.UU. en el país, con más de US$2,400 millones en infraestructura energética.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780280518/autonoticias/articles/20260601_022157_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 01 Jun 2026 02:22:26 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260601022226</guid>
   </item>
 </channel>
 </rss>
