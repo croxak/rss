@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 08 Jun 2026 13:59:14 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 16:09:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Ramfis Trujillo anuncia aspiraciones presidenciales tras cumplirse 10 años de renunciar a su doble nacionalidad]]></title>
+    <link>https://panorama.com.do/ramfis-trujillo-anuncia-aspiraciones-presidenciales-tras-cumplirse-10-anos-de-renunciar-a-su-doble-nacionalidad/</link>
+    <description><![CDATA[Ramfis Domínguez Trujillo anunció su intención de aspirar a la candidatura presidencial del Partido Esperanza Democrática tras cumplir diez años desde su renuncia a la doble nacionalidad, cumpliendo así con los requisitos constitucionales.
+
+Destacó que el PED es la cuarta fuerza política nacional y anunció una convocatoria nacional para identificar candidatos a través de la plataforma Precandidateate.com.
+
+Domínguez Trujillo también mencionó un recurso pendiente ante el Tribunal Constitucional sobre la posición electoral del PED, afirmando que esta controversia es una cuestión de seguridad jurídica y estabilidad institucional.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780934714/autonoticias/articles/20260608_160514_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 08 Jun 2026 16:09:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260608160919</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Más de 40 sectores quedarán sin electricidad por trabajos de Edeeste]]></title>
     <link>https://n.com.do/2026/06/08/mas-de-40-sectores-quedaran-sin-electricidad-por-trabajos-de-edeeste/</link>
     <description><![CDATA[La Empresa Distribuidora de Electricidad del Este (Edeeste) anunció que este lunes interrumpirá temporalmente el suministro eléctrico en más de 40 sectores de Santo Domingo Este. La suspensión está programada entre las 9:00 de la mañana y la 1:00 de la tarde.
@@ -1319,18 +1333,6 @@ Las autoridades, incluyendo la Dirección Central de Investigación (Dicrim), la
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780330445/autonoticias/articles/20260601_161404_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 01 Jun 2026 16:14:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260601161431</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Johnny Pujols: “Nunca ha habido un Ministerio Público independiente”]]></title>
-    <link>https://panorama.com.do/johnny-pujols-nunca-ha-habido-un-ministerio-publico-independiente/</link>
-    <description><![CDATA[Johnny Pujols, del Partido de la Liberación Dominicana, asegura que el Ministerio Público nunca ha sido independiente y critica su comportamiento selectivo, motivado por intereses políticos. Señala que los miembros del PLD no han recibido el mismo trato que otros acusados de corrupción.
-
-El exsenador Yván Lorenzo acusa a la procuradora Yeni Berenice Reynoso de manipular la justicia para perjudicar al PLD, transmitiendo en vivo medidas de coerción para generar rechazo hacia el partido. Lorenzo afirma que se intentó sepultar al PLD con estas acusaciones.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780330401/autonoticias/articles/20260601_161320_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 01 Jun 2026 16:14:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260601161401</guid>
   </item>
 </channel>
 </rss>
