@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 08 Jun 2026 19:59:34 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 08 Jun 2026 19:59:49 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Exalcalde Carlos Guzmán desmiente su retorno al PLD]]></title>
+    <link>https://n.com.do/2026/06/08/exalcalde-carlos-guzman-desmiente-su-retorno-al-pld/</link>
+    <description><![CDATA[Carlos Guzmán, exalcalde de Santo Domingo Norte, negó las versiones sobre su regreso al Partido de la Liberación Dominicana (PLD). Afirmó que las especulaciones son falsas y descartó cualquier información en ese sentido.
+
+Guzmán militó en el PLD hasta su elección como alcalde en 2020 y luego se unió a la Fuerza del Pueblo, de la que renunció tras las elecciones municipales de 2024.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780948748/autonoticias/articles/20260608_195907_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 08 Jun 2026 19:59:49 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260608195949</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Po Xie y su pareja reaparecen con video de IA tras polémico caso]]></title>
     <link>https://www.elcaribe.com.do/panorama/pais/po-xie-pareja-video-ia-mudan/</link>
     <description><![CDATA[Po Xie, propietario de la tienda Mudan, y su pareja han reaparecido en redes sociales mediante un video de inteligencia artificial. En este video, ambos negaron la gravedad de las acusaciones sobre su situación sentimental, aunque reconocieron haber tenido una discusión de pareja.
@@ -1315,20 +1327,6 @@ No se ha informado el tiempo estimado para la reapertura del tramo afectado. La 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780410575/autonoticias/articles/20260602_142934_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 02 Jun 2026 14:29:59 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260602142959</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Cartera de crédito agropecuario superó los RD 132,000 millones al cierre de 2025]]></title>
-    <link>https://www.presidencia.gob.do/noticias/cartera-de-credito-agropecuario-supero-los-rd-132000-millones-al-cierre-de-2025</link>
-    <description><![CDATA[La cartera de crédito agropecuario en República Dominicana alcanzó RD 132,415 millones al cierre de 2025, mostrando un crecimiento del 4.1 % respecto al año anterior. Este sector representa el 10 % de la cartera total de créditos comerciales.
-
-Los cultivos de arroz, cacao y café concentran el 23.6 % del total de la cartera agropecuaria. La región Norte o Cibao lidera la distribución regional de créditos con el 47.9 %, seguida por la región Metropolitana con el 32.8 %.
-
-Las tasas de interés promedio para créditos en moneda nacional y extranjera son 11 % y 6.7 %, respectivamente. El índice de morosidad se ubicó en 0.8 %, por debajo del promedio del resto de la cartera comercial.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780410437/autonoticias/articles/20260602_142716_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 02 Jun 2026 14:28:03 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260602142803</guid>
   </item>
 </channel>
 </rss>
