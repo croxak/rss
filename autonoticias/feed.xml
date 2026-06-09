@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 09 Jun 2026 12:55:56 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 14:04:08 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Ejército intercepta a 35 haitianos indocumentados en montañas de El Cercado]]></title>
+    <link>https://n.com.do/2026/06/09/ejercito-intercepta-a-35-haitianos-indocumentados-en-montanas-de-el-cercado/</link>
+    <description><![CDATA[El Ejército de República Dominicana interceptó a 35 haitianos indocumentados en una zona montañosa del paraje Jorgillo, en El Cercado, provincia San Juan de la Maguana. El grupo, compuesto por 31 hombres, 3 mujeres y una menor, fue detenido mientras descendía por rutas montañosas desde Hondo Valle y Calimete.
+
+Los detenidos fueron llevados a la Fortaleza La Estrelleta y luego entregados a la Dirección General de Migración para los procedimientos legales correspondientes. El Ejército mantiene operativos permanentes para fortalecer la seguridad fronteriza.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781013801/autonoticias/articles/20260609_140320_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 09 Jun 2026 14:04:08 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260609140408</guid>
+  </item>
+
+  <item>
     <title><![CDATA[EE. UU. amplía lista de compañías chinas consideradas riesgos para la seguridad nacional]]></title>
     <link>https://n.com.do/2026/06/09/ee-uu-amplia-lista-de-companias-chinas-consideradas-riesgos-para-la-seguridad-nacional/</link>
     <description><![CDATA[El Gobierno de Estados Unidos ha ampliado su lista de empresas chinas consideradas riesgos para la seguridad nacional. Entre las nuevas incorporaciones se encuentran Alibaba, Baidu, Tencent y BYD.
@@ -1315,18 +1327,6 @@ El acta de levantamiento señala que la causa del fallecimiento fue envenenamien
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780422836/autonoticias/articles/20260602_175355_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 02 Jun 2026 17:54:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260602175432</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[JCE informa un millón de dominicanos ya tienen nueva cédula de identidad]]></title>
-    <link>https://n.com.do/2026/06/02/la-jce-informo-que-un-millon-de-dominicanos-ya-tiene-la-nueva-cedula-de-identidad/</link>
-    <description><![CDATA[La Junta Central Electoral (JCE) ha anunciado que un millón de dominicanos ya han renovado su cédula de identidad. Este logro es parte de un proyecto que impactará a más de 9.4 millones de ciudadanos dentro y fuera del país.
-
-La nueva cédula incorpora tecnologías avanzadas de seguridad y estándares internacionales. La duración del documento varía según la edad del ciudadano, con vigencias de 12, 16 y 20 años.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780419135/autonoticias/articles/20260602_165215_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 02 Jun 2026 16:52:52 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260602165252</guid>
   </item>
 </channel>
 </rss>
