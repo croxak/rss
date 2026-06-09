@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 09 Jun 2026 12:55:10 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 12:55:56 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[EE. UU. amplía lista de compañías chinas consideradas riesgos para la seguridad nacional]]></title>
+    <link>https://n.com.do/2026/06/09/ee-uu-amplia-lista-de-companias-chinas-consideradas-riesgos-para-la-seguridad-nacional/</link>
+    <description><![CDATA[El Gobierno de Estados Unidos ha ampliado su lista de empresas chinas consideradas riesgos para la seguridad nacional. Entre las nuevas incorporaciones se encuentran Alibaba, Baidu, Tencent y BYD.
+
+La medida ha provocado una rápida reacción de Pekín, que acusa a Washington de utilizar el concepto de seguridad nacional para restringir el crecimiento de las compañías chinas. El portavoz del Ministerio de Relaciones Exteriores de China, Lin Jian, expresó el rechazo de su gobierno a la medida.
+
+Baidu ha negado públicamente cualquier vínculo con el sector militar y ha anunciado que utilizará mecanismos legales para lograr su exclusión del listado estadounidense.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781009699/autonoticias/articles/20260609_125458_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 09 Jun 2026 12:55:56 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260609125556</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece Luis Inchausti, exdirigente del PLD y figura influyente de la política dominicana]]></title>
     <link>https://robertocavada.com/fallece-luis-inchausti-exdirigente-del-pld-y-figura-influyente-de-la-politica-dominicana/</link>
     <description><![CDATA[Luis Inchausti, exdirigente del PLD, falleció la madrugada de este martes en Santo Domingo mientras recibía atención médica en CECANOT. No se han revelado detalles sobre la causa de su muerte ni sobre los actos fúnebres.
@@ -1313,20 +1327,6 @@ La nueva cédula incorpora tecnologías avanzadas de seguridad y estándares int
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780419135/autonoticias/articles/20260602_165215_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 02 Jun 2026 16:52:52 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260602165252</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[HOMS obtiene Acreditación Platino de Accreditation Canada]]></title>
-    <link>https://www.elcaribe.com.do/panorama/salud/homs-obtiene-acreditacion-platino-de-accreditation-canada/</link>
-    <description><![CDATA[El Hospital Metropolitano de Santiago (HOMS) ha sido reconocido con la Acreditación Platino de Accreditation Canada, destacándose como el único hospital en República Dominicana con esta certificación.
-
-La evaluación del HOMS alcanzó un 95.8 % de cumplimiento, satisfaciendo 1,868 de 1,949 criterios mediante el Modelo Qmentum, que garantiza calidad y seguridad en atención médica.
-
-Este logro fortalece el posicionamiento del HOMS en el Caribe y Centroamérica, impulsando el turismo de salud en República Dominicana y reafirmando su compromiso con la excelencia médica.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780418636/autonoticias/articles/20260602_164355_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 02 Jun 2026 16:52:36 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260602165236</guid>
   </item>
 </channel>
 </rss>
