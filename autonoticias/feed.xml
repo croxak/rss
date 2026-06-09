@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 09 Jun 2026 18:55:08 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 19:00:37 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Cámara de Diputados rinde minuto de silencio en memoria de Franklin Guerrero]]></title>
+    <link>https://n.com.do/2026/06/09/camara-diputados-homenaje-franklin-guerrero-luis-inchausti/</link>
+    <description><![CDATA[La Cámara de Diputados rindió homenaje al fotorreportero Franklin Guerrero y al exdirigente del PLD, Luis Inchausti, con un minuto de silencio en sesión legislativa.
+
+Franklin Guerrero, conocido por su trabajo en "La Foto-Crónica" y N Investiga, falleció tras luchar contra el cáncer. Sus restos fueron velados en el Jardín Memorial.
+
+Luis Inchausti, exdiputado y exfuncionario del Estado, fue recordado por su participación en la política nacional.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781031444/autonoticias/articles/20260609_185723_article.png" type="image/png"/>
+    <pubDate>Tue, 09 Jun 2026 19:00:37 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260609190037</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abogado de Jean Alain Rodríguez se querella contra titular de la PEPCA por difamación e injuria]]></title>
     <link>https://eldia.com.do/abogado-de-jean-alain-rodriguez-se-querella-contra-titular-de-la-pepca-por-difamacion-e-injuria/</link>
     <description><![CDATA[Carlos Balcarce, abogado de Jean Alain Rodríguez, presentó una querella contra Mirna Ortiz, titular de la PEPCA, por presunta difamación e injuria. Balcarce solicita una indemnización de RD$25 millones a favor de los Bomberos de Jimaní.
@@ -1309,18 +1323,6 @@ Tras el incidente, salió del país y fue localizada en Estados Unidos por su si
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780451624/autonoticias/articles/20260603_015343_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 03 Jun 2026 03:06:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260603030634</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Abinader designa a Pastora Méndez y a José García en el consejo directivo del CEA]]></title>
-    <link>https://noticiassin.com/pais/gobierno/2026/06/03/abinader-designa-nuevos-miembros-del-consejo-del-cea-2-2016445/</link>
-    <description><![CDATA[El presidente Luis Abinader ha designado a tres nuevos miembros para el consejo de directores del Consejo Estatal del Azúcar (CEA) mediante el Decreto 352-26. José García Ramírez y Rosa Pastora Méndez Méndez representarán al sector privado, mientras que Aníbal Amparo lo hará por el sector fabril.
-
-Estas designaciones forman parte del proceso de transformación y reorganización de los organismos estatales que impulsa el Gobierno. Los nuevos miembros permanecerán en sus cargos hasta la disolución del CEA o hasta que se disponga su sustitución.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780449959/autonoticias/articles/20260603_012559_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 03 Jun 2026 01:26:52 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260603012652</guid>
   </item>
 </channel>
 </rss>
