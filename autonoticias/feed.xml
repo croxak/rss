@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 09 Jun 2026 17:44:54 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 17:45:29 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Felipe González y Leonel Fernández piden alianzas en Iberoamérica ante el "caos mundial"]]></title>
+    <link>https://www.diariolibre.com/mundo/espana/2026/06/09/felipe-gonzalez-y-leonel-piden-alianzas-iberoamerica-ante/3561162</link>
+    <description><![CDATA[Felipe González y Leonel Fernández han pedido fortalecer las alianzas en Iberoamérica ante el "caos mundial". En un diálogo en la Universidad Autónoma de Madrid, destacaron la necesidad de avanzar en economía, cultura y seguridad.
+
+González señaló una crisis de gobernanza en las democracias representativas y las consecuencias económicas de las guerras en Oriente Medio. Fernández describió a América Latina como un "laboratorio político permanente" y resaltó la importancia de la unidad iberoamericana.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781027052/autonoticias/articles/20260609_174412_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 09 Jun 2026 17:45:29 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260609174529</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno lanzará este jueves la Consulta Nacional para el Futuro de la Educación Dominicana]]></title>
     <link>https://www.presidencia.gob.do/noticias/gobierno-lanzara-este-jueves-la-consulta-nacional-para-el-futuro-de-la-educacion</link>
     <description><![CDATA[El Gobierno dominicano lanzará este jueves 11 de junio la Consulta Nacional para el Futuro de la Educación Dominicana. Este proceso busca recoger opiniones y propuestas sobre la educación que necesita el país para los próximos años.
@@ -1309,20 +1321,6 @@ José García Ramírez y Rosa Pastora Méndez Méndez representarán al sector p
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780446367/autonoticias/articles/20260603_002606_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 03 Jun 2026 00:26:43 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260603002643</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Senado aprueba en segunda lectura modificación a Ley de partidos]]></title>
-    <link>https://eldia.com.do/senado-aprueba-en-segunda-lectura-modificacion-a-ley-de-partidos/</link>
-    <description><![CDATA[El Senado dominicano aprobó en segunda lectura un proyecto de ley que modifica la Ley de partidos 33-18. Esta propuesta busca evitar la entrada de dinero ilícito en la política mediante controles financieros más estrictos.
-
-Los aspirantes a cargos electivos deberán someterse a pruebas antidopaje y presentar certificaciones de no antecedentes penales de los últimos 15 años. Además, se implementarán procedimientos de "debida diligencia" para verificar antecedentes y origen de recursos de candidatos y donantes.
-
-La Junta Central Electoral tendrá mayores facultades para supervisar el financiamiento partidario, incluyendo la fiscalización de los sistemas internos de cumplimiento y la verificación de la identidad de los donantes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780437533/autonoticias/articles/20260602_215853_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 02 Jun 2026 22:01:09 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260602220109</guid>
   </item>
 </channel>
 </rss>
