@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 09 Jun 2026 17:45:29 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 18:55:08 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Abogado de Jean Alain Rodríguez se querella contra titular de la PEPCA por difamación e injuria]]></title>
+    <link>https://eldia.com.do/abogado-de-jean-alain-rodriguez-se-querella-contra-titular-de-la-pepca-por-difamacion-e-injuria/</link>
+    <description><![CDATA[Carlos Balcarce, abogado de Jean Alain Rodríguez, presentó una querella contra Mirna Ortiz, titular de la PEPCA, por presunta difamación e injuria. Balcarce solicita una indemnización de RD$25 millones a favor de los Bomberos de Jimaní.
+
+La audiencia fue reprogramada para el 23 de junio. Wilson Camacho, director de Persecución del Ministerio Público, afirmó que la querella busca amedrentar la lucha contra la corrupción.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781031249/autonoticias/articles/20260609_185408_article.webp" type="image/jpeg"/>
+    <pubDate>Tue, 09 Jun 2026 18:55:08 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260609185508</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Felipe González y Leonel Fernández piden alianzas en Iberoamérica ante el "caos mundial"]]></title>
     <link>https://www.diariolibre.com/mundo/espana/2026/06/09/felipe-gonzalez-y-leonel-piden-alianzas-iberoamerica-ante/3561162</link>
     <description><![CDATA[Felipe González y Leonel Fernández han pedido fortalecer las alianzas en Iberoamérica ante el "caos mundial". En un diálogo en la Universidad Autónoma de Madrid, destacaron la necesidad de avanzar en economía, cultura y seguridad.
@@ -1309,18 +1321,6 @@ Estas designaciones forman parte del proceso de transformación y reorganizació
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780449959/autonoticias/articles/20260603_012559_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 03 Jun 2026 01:26:52 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260603012652</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Abinader designa nuevos miembros del Consejo de Directores del CEA]]></title>
-    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-designa-nuevos-miembros-del-consejo-de-directores-del-cea</link>
-    <description><![CDATA[El presidente Luis Abinader ha designado a tres nuevos miembros para el Consejo de Directores del Consejo Estatal del Azúcar (CEA) mediante el Decreto núm. 352-26.
-
-José García Ramírez y Rosa Pastora Méndez Méndez representarán al sector privado, mientras que Aníbal Amparo lo hará por el sector fabril. Estas designaciones estarán vigentes hasta la disolución del CEA o hasta que el Poder Ejecutivo disponga su sustitución.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780446367/autonoticias/articles/20260603_002606_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 03 Jun 2026 00:26:43 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260603002643</guid>
   </item>
 </channel>
 </rss>
