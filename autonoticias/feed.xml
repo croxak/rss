@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 09 Jun 2026 23:14:08 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 23:14:24 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[EE.UU. lanzará servicio exprés para visas: citas en 10 días por un pago adicional de USD 750]]></title>
+    <link>https://www.elcaribe.com.do/panorama/internacionales/ee-uu-lanzara-servicio-expres-para-visas/</link>
+    <description><![CDATA[El Departamento de Estado de EE.UU. implementará un programa piloto desde el 1 de julio para agilizar las entrevistas consulares de visas de turismo y negocios. Los solicitantes podrán obtener una cita en un máximo de diez días hábiles por un costo adicional de USD 750.
+
+Este servicio exprés aplica a las visas B-1 y B-2, elevando el costo total del trámite a USD 935. El pago no asegura la aprobación de la visa y no es reembolsable. El programa estará vigente hasta el 31 de diciembre de 2026.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781046745/autonoticias/articles/20260609_231224_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 09 Jun 2026 23:14:24 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260609231424</guid>
+  </item>
+
+  <item>
     <title><![CDATA[SCJ rechaza recurso de casación del MP y deja firme Auto de No ha Lugar a favor del empresario Raúl Rizik Yeb]]></title>
     <link>https://elnuevodiario.com.do/scj-rechaza-recurso-de-casacion-del-mp-y-deja-firme-auto-de-no-ha-lugar-a-favor-del-empresario-raul-rizik-yeb/</link>
     <description><![CDATA[La Suprema Corte de Justicia rechazó el recurso de casación del Ministerio Público, dejando firme el Auto de No ha Lugar a favor de Raúl Rizik Yeb. La decisión confirma la falta de pruebas suficientes para abrir juicio en su contra.
@@ -1311,18 +1323,6 @@ Se espera una ligera disminución del polvo durante la noche del miércoles y el
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780486833/autonoticias/articles/20260603_114033_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 03 Jun 2026 11:41:04 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260603114104</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Trump da su respaldo “completo y total” a Abelardo de la Espriella en segunda vuelta en Colombia]]></title>
-    <link>https://n.com.do/2026/06/02/trump-da-su-respaldo-completo-y-total-a-abelardo-de-la-espriella-en-segunda-vuelta-en-colombia/</link>
-    <description><![CDATA[Donald Trump ha respaldado a Abelardo de la Espriella, candidato presidencial en Colombia, tras su victoria en la primera vuelta de las elecciones. De la Espriella, conocido como "El Tigre", obtuvo el 43,74 % de los votos, superando al candidato oficialista Iván Cepeda.
-
-Trump resaltó la importancia de estas elecciones para el futuro de Colombia y su relación con Estados Unidos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780483918/autonoticias/articles/20260603_105158_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 03 Jun 2026 10:52:22 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260603105222</guid>
   </item>
 </channel>
 </rss>
