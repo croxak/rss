@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 09 Jun 2026 00:23:45 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 12:27:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Apresan a un haitiano que atacó a mujer con un arma blanca en playa Sabaneta de Cangrejos]]></title>
+    <link>https://eldia.com.do/apresan-a-un-haitiano-que-ataco-a-mujer-con-un-arma-blanca-en-playa-sabaneta-de-cangrejos/</link>
+    <description><![CDATA[Willy Pierre, un hombre de nacionalidad haitiana, fue detenido por soldados de la Base Aérea Puerto Plata después de atacar con un cuchillo a una mujer en la playa Sabaneta de Cangrejos.
+
+El incidente ocurrió el pasado domingo por la mañana en el municipio de Villa Montellano. La víctima, conocida como "Nani", fue herida y recibió atención médica.
+
+Las autoridades están investigando el caso, ya que se sospecha que el ataque podría haber sido parte de un intento de asalto.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781008005/autonoticias/articles/20260609_122644_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 09 Jun 2026 12:27:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260609122732</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Hallan sin vida a dominicano desaparecido en el río Delaware; comunidad de Villa La Mata lamenta la tragedia]]></title>
     <link>https://n.com.do/2026/06/08/hallan-sin-vida-a-dominicano-desaparecido-en-el-rio-delaware-comunidad-de-villa-la-mata-lamenta-la-tragedia/</link>
     <description><![CDATA[Carlos Manuel Gil Reyes, un joven dominicano, fue encontrado sin vida tras haber desaparecido en el río Delaware, Filadelfia. La noticia ha causado pesar en la comunidad dominicana tanto en Estados Unidos como en Villa La Mata, su lugar de origen.
@@ -1311,20 +1325,6 @@ El ministro de Salud, Víctor Atallah, recomendó mantenerse hidratado, evitar l
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780418654/autonoticias/articles/20260602_164414_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 02 Jun 2026 16:44:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260602164440</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Aduanas facilitará pago de impuestos con tarjetas de crédito o débito]]></title>
-    <link>https://eldia.com.do/aduanas-facilitara-pago-de-impuestos-con-tarjetas-de-credito-o-debito/</link>
-    <description><![CDATA[La Dirección General de Aduanas (DGA) ha lanzado una nueva Plataforma de Pagos con Tarjetas de Crédito y Débito, en colaboración con Visa y las empresas adquirentes CardNET, PORTAL y AZUL.
-
-Este sistema permitirá realizar pagos de impuestos aduaneros con tarjetas físicas o dispositivos móviles, tanto en las administraciones de la DGA como en sus plataformas digitales. La iniciativa busca agilizar la recaudación y mejorar la trazabilidad, beneficiando especialmente a las MIPYMES.
-
-Durante el lanzamiento, el director general de Aduanas, Nelson Arroyo, destacó el compromiso con la transparencia y eficiencia en la gestión pública. Además, se ofrecerá un beneficio de cashback de hasta un 10 % para tarjetahabientes de Visa que paguen sus impuestos aduaneros entre el 2 de junio y el 31 de julio de 2026.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780416583/autonoticias/articles/20260602_160943_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 02 Jun 2026 16:10:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260602161019</guid>
   </item>
 </channel>
 </rss>
