@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 09 Jun 2026 15:47:06 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 16:02:30 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Realizan primer implante en RD de válvula aórtica Allegra con técnica Valve-in-Valve]]></title>
+    <link>https://www.elcaribe.com.do/panorama/salud/realizan-primer-implante-en-rd-de-valvula-aortica-allegra-con-tecnica-valve-in-valve/</link>
+    <description><![CDATA[Los Centros de Diagnóstico, Medicina Avanzada y de Conferencias Médicas y Telemedicina CEDIMAT realizaron con éxito el primer implante en República Dominicana de una válvula aórtica Allegra mediante la técnica Valve-in-Valve.
+
+El procedimiento fue ejecutado por el equipo de Hemodinamia y Cardiología Intervencionista, dirigido por el doctor Carlos García Lithgow, en un paciente con una bioprótesis aórtica quirúrgica previamente implantada que había perdido su funcionalidad.
+
+La técnica Valve-in-Valve permitió evitar una nueva cirugía a corazón abierto, reduciendo los riesgos asociados y favoreciendo una recuperación más rápida. Se utilizó la válvula autoexpandible Allegra, destacada por su potencial para mejorar el flujo sanguíneo.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781020905/autonoticias/articles/20260609_160145_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 09 Jun 2026 16:02:30 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260609160230</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Autoridades destruyen mercancías ilícitas valoradas en casi RD$9,000 millones]]></title>
     <link>https://eldia.com.do/autoridades-destruyen-mercancias-ilicitas-valoradas-en-casi-rd9000-millones/</link>
     <description><![CDATA[Las autoridades en Santo Domingo han destruido mercancías ilícitas valoradas en más de RD$8,894 millones. Este acto fue encabezado por el ministro de Industria, Comercio y Mipymes, Eduardo Sanz Lovatón, y el director del CECCOM, general Orlando Jerez Espaillat.
@@ -1313,20 +1327,6 @@ Las tres menores imputadas recibieron 30 días en un Centro de Atención Integra
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780432660/autonoticias/articles/20260602_203740_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 02 Jun 2026 20:38:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260602203828</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno adquiere seis transformadores de potencia en China por una inversión superior a los RD 469.7 millones]]></title>
-    <link>https://www.presidencia.gob.do/noticias/gobierno-adquiere-seis-transformadores-de-potencia-en-china-por-una-inversion-superior-los</link>
-    <description><![CDATA[Edesur Dominicana ha adquirido seis transformadores de potencia desde China, con una inversión de más de RD 469.7 millones. La compra fue adjudicada a la empresa Electroval, S.R.L. a través de una licitación pública.
-
-Los transformadores tienen capacidades de hasta 50 megavoltioamperios y manejarán niveles de tensión de 69/12.8 kV y 138/12.8 kV. Un equipo técnico de Edesur visitó Zhejiang, China, para realizar pruebas de aceptación en fábrica.
-
-Estas inversiones buscan mejorar la capacidad de respuesta de la distribuidora ante la creciente demanda energética y están orientadas a la innovación y mejora continua del sistema energético nacional.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780431689/autonoticias/articles/20260602_202128_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 02 Jun 2026 20:22:07 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260602202207</guid>
   </item>
 </channel>
 </rss>
