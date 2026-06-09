@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 09 Jun 2026 16:50:34 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 17:44:54 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Gobierno lanzará este jueves la Consulta Nacional para el Futuro de la Educación Dominicana]]></title>
+    <link>https://www.presidencia.gob.do/noticias/gobierno-lanzara-este-jueves-la-consulta-nacional-para-el-futuro-de-la-educacion</link>
+    <description><![CDATA[El Gobierno dominicano lanzará este jueves 11 de junio la Consulta Nacional para el Futuro de la Educación Dominicana. Este proceso busca recoger opiniones y propuestas sobre la educación que necesita el país para los próximos años.
+
+La iniciativa es impulsada por el Ministerio de Educación, el Ministerio de Educación Superior, Ciencia y Tecnología, el Ministerio de Administración Pública y el Instituto Nacional de Formación Técnico Profesional. Está dirigida a estudiantes, docentes, familias, y dominicanos en el exterior.
+
+Se desarrollarán foros regionales y sectoriales hasta julio, con el objetivo de avanzar hacia una nueva ley de educación que responda a los desafíos actuales del país.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781026936/autonoticias/articles/20260609_174216_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 09 Jun 2026 17:44:54 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260609174454</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Leonel Fernández: "Las encuestas todavía no me mandan al retiro"]]></title>
     <link>https://eldia.com.do/leonel-fernandez-las-encuestas-todavia-no-me-mandan-al-retiro/</link>
     <description><![CDATA[Leonel Fernández, expresidente de República Dominicana, asegura que las encuestas no lo envían al retiro y no descarta una candidatura presidencial en 2028. Su partido, Fuerza del Pueblo, lidera las encuestas con más del 40%.
@@ -1309,22 +1323,6 @@ La Junta Central Electoral tendrá mayores facultades para supervisar el financi
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780437533/autonoticias/articles/20260602_215853_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 02 Jun 2026 22:01:09 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260602220109</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidenta de Conani afirma hogar donde murió adolescente contaba con la supervisión establecida]]></title>
-    <link>https://n.com.do/2026/06/02/presidenta-de-conani-afirma-hogar-donde-murio-adolescente-contaba-con-la-supervision-establecida/</link>
-    <description><![CDATA[Ligia Pérez Peña, presidenta de Conani, aseguró que el hogar de paso en San Antonio de Guerra, donde murió una adolescente, tenía la supervisión adecuada. Tras el incidente, se activaron los protocolos y el Ministerio Público investiga el caso.
-
-La adolescente estaba en una habitación con 29 menores, vigiladas por dos guías y una custodia militar. Las cámaras captaron a las guías saliendo para recibir a otra adolescente llevada por la Policía. La custodia permaneció en la habitación.
-
-Pérez Peña explicó que las adolescentes en estos hogares provienen de entornos vulnerables y son evaluadas para determinar las medidas de protección necesarias. La fallecida llevaba nueve días en el hogar.
-
-La presidenta de Conani también pidió agilizar otras investigaciones pendientes, como el caso de Jazlyn Isabela Graciano de la Cruz.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780432632/autonoticias/articles/20260602_203711_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 02 Jun 2026 20:38:42 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260602203842</guid>
   </item>
 </channel>
 </rss>
