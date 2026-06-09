@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 09 Jun 2026 12:27:47 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 12:55:10 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Fallece Luis Inchausti, exdirigente del PLD y figura influyente de la política dominicana]]></title>
+    <link>https://robertocavada.com/fallece-luis-inchausti-exdirigente-del-pld-y-figura-influyente-de-la-politica-dominicana/</link>
+    <description><![CDATA[Luis Inchausti, exdirigente del PLD, falleció la madrugada de este martes en Santo Domingo mientras recibía atención médica en CECANOT. No se han revelado detalles sobre la causa de su muerte ni sobre los actos fúnebres.
+
+Inchausti fue una figura clave en la política dominicana durante las décadas de 1980 y 1990, contribuyendo al fortalecimiento del PLD y a la campaña que llevó a Leonel Fernández a la presidencia en 1996. Fue director del Programa de Empleos Mínimos Eventuales.
+
+Su carrera estuvo marcada por el "Caso PEME", relacionado con presuntas irregularidades en el manejo de fondos públicos. En sus últimos años, se distanció del PLD y enfrentó problemas de salud.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781009678/autonoticias/articles/20260609_125437_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 09 Jun 2026 12:55:10 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260609125510</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Indomet prevé un martes con chubascos aislados, polvo del Sahara y calor]]></title>
     <link>https://panorama.com.do/indomet-preve-un-martes-con-chubascos-aislados-polvo-del-sahara-y-calor/</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) pronostica un martes con chubascos aislados en Monte Cristi, Valverde, Barahona y otras provincias. Un cielo grisáceo con nubosidad dispersa se observará en gran parte del país debido a un sistema anticiclónico y la presencia de polvo del Sahara.
@@ -1313,18 +1327,6 @@ Este logro fortalece el posicionamiento del HOMS en el Caribe y Centroamérica, 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780418636/autonoticias/articles/20260602_164355_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 02 Jun 2026 16:52:36 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260602165236</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Mamdani nombra a policía de origen haitiano como nuevo sheriff de la ciudad de Nueva York]]></title>
-    <link>https://www.diariolibre.com/usa/actualidad/2026/06/02/edwin-raymond-de-origen-haitiano-es-el-nuevo-sheriff-de-ny/3553821</link>
-    <description><![CDATA[El alcalde de Nueva York, Zohran Mamdani, ha nombrado a Edwin Raymond como el nuevo sheriff de la ciudad. Raymond, de origen haitiano, es un exteniente del NYPD conocido por su defensa de la rendición de cuentas y la reforma policial.
-
-Raymond reemplaza a Anthony Miranda, quien dejó el cargo en medio de cuestionamientos. Con 15 años de experiencia en el NYPD, Raymond ha trabajado en diversas unidades de Brooklyn y ha sido una voz destacada en la lucha por la transparencia en las fuerzas del orden.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780418621/autonoticias/articles/20260602_164340_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 02 Jun 2026 16:52:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260602165205</guid>
   </item>
 </channel>
 </rss>
