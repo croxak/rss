@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 09 Jun 2026 16:02:30 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 16:50:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Leonel Fernández: "Las encuestas todavía no me mandan al retiro"]]></title>
+    <link>https://eldia.com.do/leonel-fernandez-las-encuestas-todavia-no-me-mandan-al-retiro/</link>
+    <description><![CDATA[Leonel Fernández, expresidente de República Dominicana, asegura que las encuestas no lo envían al retiro y no descarta una candidatura presidencial en 2028. Su partido, Fuerza del Pueblo, lidera las encuestas con más del 40%.
+
+Fernández habló sobre el auge de la ultraderecha en América Latina, considerándolo un fenómeno cíclico. Afirmó que en República Dominicana no se observa un partido de extrema derecha y destacó la importancia de la democracia liberal.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781023791/autonoticias/articles/20260609_164950_article.webp" type="image/jpeg"/>
+    <pubDate>Tue, 09 Jun 2026 16:50:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260609165034</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Realizan primer implante en RD de válvula aórtica Allegra con técnica Valve-in-Valve]]></title>
     <link>https://www.elcaribe.com.do/panorama/salud/realizan-primer-implante-en-rd-de-valvula-aortica-allegra-con-tecnica-valve-in-valve/</link>
     <description><![CDATA[Los Centros de Diagnóstico, Medicina Avanzada y de Conferencias Médicas y Telemedicina CEDIMAT realizaron con éxito el primer implante en República Dominicana de una válvula aórtica Allegra mediante la técnica Valve-in-Valve.
@@ -1313,20 +1325,6 @@ La presidenta de Conani también pidió agilizar otras investigaciones pendiente
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780432632/autonoticias/articles/20260602_203711_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 02 Jun 2026 20:38:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260602203842</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Conani responde a madre de adolescente imputada por muerte de otra: "No procuró contacto con su hija"]]></title>
-    <link>https://panorama.com.do/conani-responde-a-madre-de-adolescente-imputada-por-muerte-de-otra-no-procuro-contacto-con-su-hija/</link>
-    <description><![CDATA[CONANI respondió a la madre de una adolescente imputada por la muerte de otra menor en un hogar de paso, afirmando que no procuró contacto con su hija ni permitió pruebas sociofamiliares.
-
-La madre cuestionó a CONANI, señalando que no había visto a su hija en cuatro meses y se enteró de las acusaciones en la Ciudad Judicial de Santo Domingo Este.
-
-Las tres menores imputadas recibieron 30 días en un Centro de Atención Integral para Adolescentes en Conflicto con la Ley Penal. CONANI suspendió al personal a cargo del hogar de paso y sigue revisando casos para descongestionar los hogares de acogida.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780432660/autonoticias/articles/20260602_203740_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 02 Jun 2026 20:38:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260602203828</guid>
   </item>
 </channel>
 </rss>
