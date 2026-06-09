@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 09 Jun 2026 23:14:24 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 23:23:44 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[DNI entrega a la Policía Nacional dos dominicanos capturados en Haití por asesinato]]></title>
+    <link>https://eldia.com.do/dni-entrega-a-la-policia-nacional-dos-dominicanos-capturados-en-haiti-por-asesinato/</link>
+    <description><![CDATA[La Dirección Nacional de Inteligencia (DNI) entregó a la Policía Nacional a dos dominicanos capturados en Haití por su presunta vinculación en el asesinato de Yoel Cuevas Medina.
+
+Los detenidos, Marlong Mariano Severino Carrasco y Deivi Mora, fueron localizados en Haití y entregados en el cruce fronterizo de Comendador, Elías Piña. La detención fue coordinada entre la Policía Judicial de Haití y el DNI dominicano.
+
+Los sospechosos fueron trasladados a Barahona para enfrentar cargos ante el Ministerio Público.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781046732/autonoticias/articles/20260609_231212_article.webp" type="image/jpeg"/>
+    <pubDate>Tue, 09 Jun 2026 23:23:44 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260609232344</guid>
+  </item>
+
+  <item>
     <title><![CDATA[EE.UU. lanzará servicio exprés para visas: citas en 10 días por un pago adicional de USD 750]]></title>
     <link>https://www.elcaribe.com.do/panorama/internacionales/ee-uu-lanzara-servicio-expres-para-visas/</link>
     <description><![CDATA[El Departamento de Estado de EE.UU. implementará un programa piloto desde el 1 de julio para agilizar las entrevistas consulares de visas de turismo y negocios. Los solicitantes podrán obtener una cita en un máximo de diez días hábiles por un costo adicional de USD 750.
@@ -1307,22 +1321,6 @@ Las boletas para la ceremonia inaugural tendrán un precio único de RD$1,500 y 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780487309/autonoticias/articles/20260603_114829_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 03 Jun 2026 11:48:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260603114858</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Polvo del Sahara mantendrá ambiente caluroso y limitará las lluvias este miércoles]]></title>
-    <link>https://eldia.com.do/polvo-del-sahara-mantendra-ambiente-caluroso-y-limitara-las-lluvias-este-miercoles/</link>
-    <description><![CDATA[El polvo del Sahara seguirá afectando el clima en República Dominicana este miércoles, generando un ambiente caluroso y limitando las lluvias. Las temperaturas mínimas estarán entre 24 °C y 26 °C, y las máximas entre 31 °C y 33 °C.
-
-El Instituto Dominicano de Meteorología informa que el polvo sahariano reducirá el desarrollo de nubes significativas, aunque podrían ocurrir chubascos locales con tronadas aisladas en algunas áreas del sureste, nordeste y la Cordillera Central.
-
-Además, el polvo afecta la calidad del aire, especialmente para personas con alergias o enfermedades respiratorias. Se recomienda mantenerse hidratado, evitar el sol entre las 11:00 a.m. y las 4:00 p.m., y usar ropa ligera.
-
-Se espera una ligera disminución del polvo durante la noche del miércoles y el jueves, pero los niveles volverán a la normalidad entre la tarde y la noche del jueves. En el Gran Santo Domingo, persistirá una sensación calurosa con posibles chubascos pasajeros.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780486833/autonoticias/articles/20260603_114033_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 03 Jun 2026 11:41:04 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260603114104</guid>
   </item>
 </channel>
 </rss>
