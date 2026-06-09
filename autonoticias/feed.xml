@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 09 Jun 2026 15:05:38 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 09 Jun 2026 15:47:06 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Autoridades destruyen mercancías ilícitas valoradas en casi RD$9,000 millones]]></title>
+    <link>https://eldia.com.do/autoridades-destruyen-mercancias-ilicitas-valoradas-en-casi-rd9000-millones/</link>
+    <description><![CDATA[Las autoridades en Santo Domingo han destruido mercancías ilícitas valoradas en más de RD$8,894 millones. Este acto fue encabezado por el ministro de Industria, Comercio y Mipymes, Eduardo Sanz Lovatón, y el director del CECCOM, general Orlando Jerez Espaillat.
+
+Se destruyeron 19,958,898 unidades de productos ilegales, incluyendo cigarrillos, medicamentos falsificados, bebidas alcohólicas adulteradas y estimulantes sexuales ilícitos. Esta acción forma parte de una estrategia interinstitucional para combatir el comercio ilícito.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781020000/autonoticias/articles/20260609_154639_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 09 Jun 2026 15:47:06 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260609154706</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Sacerdote dominicano canta ante el papa León XIV durante multitudinario acto en Madrid]]></title>
     <link>https://n.com.do/2026/06/09/sacerdote-dominicano-canta-ante-el-papa-leon-xiv-durante-multitudinario-acto-en-madrid/</link>
     <description><![CDATA[El sacerdote dominicano Carlos Cabrera tuvo una participación destacada en el Estadio Santiago Bernabéu de Madrid, donde interpretó la canción "Ungidos" junto al grupo Convivium ante miles de fieles.
@@ -1315,18 +1327,6 @@ Estas inversiones buscan mejorar la capacidad de respuesta de la distribuidora a
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780431689/autonoticias/articles/20260602_202128_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 02 Jun 2026 20:22:07 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260602202207</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía Nacional y el ITLA inician capacitación sobre inteligencia artificial]]></title>
-    <link>https://www.presidencia.gob.do/noticias/policia-nacional-y-el-itla-inician-capacitacion-sobre-inteligencia-artificial</link>
-    <description><![CDATA[La Policía Nacional ha iniciado un taller sobre inteligencia artificial aplicada a funciones policiales, dirigido a oficiales generales. Este taller de cinco semanas se realiza en la Dirección de Área de Policía Científica.
-
-La apertura fue encabezada por el rector del ITLA, Jimmy Rosario Bernard, y el director general de la Policía Nacional, Andrés Modesto Cruz Cruz. Al concluir, se firmó un memorando de entendimiento para desarrollar iniciativas conjuntas en formación y transformación digital.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780424011/autonoticias/articles/20260602_181331_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 02 Jun 2026 18:14:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260602181401</guid>
   </item>
 </channel>
 </rss>
