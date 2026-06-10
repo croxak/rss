@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 10 Jun 2026 17:18:18 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 17:19:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Diputado de Pedernales renuncia de la Fuerza del Pueblo]]></title>
+    <link>https://eldia.com.do/diputado-de-pedernales-renuncia-de-la-fuerza-del-pueblo/</link>
+    <description><![CDATA[El diputado Rafael Pérez, representante de la provincia de Pedernales, ha renunciado a la Fuerza del Pueblo. La decisión fue anunciada este martes.
+
+No se han proporcionado detalles sobre las razones de su renuncia ni sobre sus próximos pasos en la política.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781111906/autonoticias/articles/20260610_171826_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 10 Jun 2026 17:19:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260610171932</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ejército retiene camión cargado con 125 postes de cambrón ocultos entre pacas de paja sin permiso ambiental en Esperanza, Valverde]]></title>
     <link>https://robertocavada.com/ejercito-retiene-camion-cargado-con-125-postes-de-cambron-ocultos-entre-pacas-de-paja-sin-permiso-ambiental-en-esperanza-valverde/</link>
     <description><![CDATA[El Ejército de República Dominicana detuvo un camión en Esperanza, Valverde, que transportaba 125 postes de cambrón ocultos entre pacas de paja sin el permiso ambiental necesario.
@@ -1321,18 +1333,6 @@ El arresto se llevó a cabo en la calle Colón, cumpliendo una orden de extradic
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780532081/autonoticias/articles/20260604_001441_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 04 Jun 2026 00:15:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260604001506</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader juramenta el Comité de Salud Mental Penitenciaria y anuncia tres nuevos centros especializados]]></title>
-    <link>https://eldia.com.do/abinader-juramenta-el-comite-de-salud-mental-penitenciaria-y-anuncia-tres-nuevos-centros-especializados/</link>
-    <description><![CDATA[El presidente Luis Abinader encabezó la juramentación del Comité Dominicano de Salud Mental Penitenciaria, buscando mejorar la atención de salud mental en las cárceles del país. Este comité, liderado por Sandra Margarita Fernández Cedeño, trabajará junto a especialistas y académicos.
-
-Durante el evento, Abinader anunció la apertura de tres nuevos centros penitenciarios especializados en salud mental en Azua, La Vega y San Pedro de Macorís, que comenzarán a operar este viernes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780515261/autonoticias/articles/20260603_193421_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 03 Jun 2026 19:35:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260603193519</guid>
   </item>
 </channel>
 </rss>
