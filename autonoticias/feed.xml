@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 10 Jun 2026 18:29:52 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 19:27:58 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Trasladan a “Mantequilla” a la fiscalía de Monte Plata]]></title>
+    <link>https://panorama.com.do/trasladan-a-mantequilla-a-la-fiscalia-de-monte-plata/</link>
+    <description><![CDATA[Wilkin García Peguero, alias “Mantequilla”, ha sido trasladado a la fiscalía de Monte Plata. Permanecerá en prisión hasta que se conozca la medida de coerción.
+
+El coronel Diego Pesqueira, vocero de la Policía Nacional, indicó que García Peguero estuvo bajo custodia en Ciudad Nueva, Distrito Nacional. Se le vincula a varios delitos, incluyendo asociación de malhechores y tentativa de homicidio agravada.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781119625/autonoticias/articles/20260610_192705_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 10 Jun 2026 19:27:58 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260610192758</guid>
+  </item>
+
+  <item>
     <title><![CDATA[SeNaSa cierra en positivo primer trimestre de 2026 y publica estados financieros de 2024 y 2025]]></title>
     <link>https://www.presidencia.gob.do/noticias/senasa-cierra-en-positivo-primer-trimestre-de-2026-y-publica-estados-financieros-de-2024-y</link>
     <description><![CDATA[El Seguro Nacional de Salud (SeNaSa) informó resultados positivos de RD 1,283,000.00 en el primer trimestre de 2026, atribuidos a mejoras financieras y tecnológicas. Publicaron los estados financieros de 2024 y preliminares de 2025 y 2026.
@@ -1321,20 +1333,6 @@ La ley establece sanciones para servidores públicos que no cumplan con los prot
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780535826/autonoticias/articles/20260604_011706_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 04 Jun 2026 01:17:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260604011732</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Hallan el cuerpo de una mujer en una cañada del sector Rafey, Santiago]]></title>
-    <link>https://eldia.com.do/hallan-el-cuerpo-de-una-mujer-en-una-canada-del-sector-rafey-santiago/</link>
-    <description><![CDATA[El cuerpo de Sugeldy Arias, de 46 años, fue encontrado en una cañada del sector Rafey, Santiago. Presentaba traumas por herida cortante en la cabeza y fue enviado al INACIF para los fines de ley.
-
-El esposo de la víctima ha sido detenido para fines de investigación. Las autoridades siguen trabajando para esclarecer las circunstancias del caso.
-
-La Policía Nacional y el Ministerio Público ofrecerán más detalles conforme avancen las investigaciones.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780532964/autonoticias/articles/20260604_002924_article.webp" type="image/jpeg"/>
-    <pubDate>Thu, 04 Jun 2026 00:29:55 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260604002955</guid>
   </item>
 </channel>
 </rss>
