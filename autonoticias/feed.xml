@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 10 Jun 2026 13:08:02 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 13:11:44 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Jefa de gabinete del secretario de la OEA deja su cargo en medio de acusaciones de corrupción]]></title>
+    <link>https://elnuevodiario.com.do/jefa-de-gabinete-del-secretario-de-la-oea-deja-su-cargo-en-medio-de-acusaciones-de-corrupcion/</link>
+    <description><![CDATA[Xaviera Jessurun, jefa de gabinete del secretario general de la OEA, ha dejado su cargo en medio de acusaciones de corrupción en Surinam. Su visa diplomática fue revocada, lo que la obliga a abandonar Estados Unidos.
+
+Jessurun está presuntamente involucrada en un caso de corrupción que afecta a la Compañía de Aviación Surinamesa desde 2022. A pesar de las acusaciones, mantuvo su posición en la OEA hasta su reciente salida.
+
+La OEA, con sede en Washington, enfrenta presiones de Estados Unidos, que es su principal fuente de financiamiento.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781097056/autonoticias/articles/20260610_131056_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 10 Jun 2026 13:11:44 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260610131144</guid>
+  </item>
+
+  <item>
     <title><![CDATA[MICM y Banco Sabadell se unen para atraer inversión española y fortalecer exportaciones]]></title>
     <link>https://micm.gob.do/micm-y-banco-sabadell-se-unen-para-atraer-inversion-espanola-y-fortalecer-exportaciones/</link>
     <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes (MICM) y el Banco de Sabadell han firmado un acuerdo para atraer inversión española y fortalecer las exportaciones en República Dominicana.
@@ -1311,18 +1325,6 @@ Aurelio Valdez expresó su disposición a enfrentar el proceso judicial y negó 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780502184/autonoticias/articles/20260603_155623_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 03 Jun 2026 16:02:10 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260603160210</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[EEUU señala a RD como una de las economías que exporta productos realizados con trabajo forzoso]]></title>
-    <link>https://listindiario.com/economia/20260603/eeuu-senala-rd-economias-exporta-productos-realizados-trabajo-forzoso_908305.html</link>
-    <description><![CDATA[Estados Unidos ha incluido a República Dominicana en un informe que señala a economías que exportan productos realizados con trabajo forzoso. Según la Oficina del Representante Comercial de Estados Unidos, el país no ha aplicado eficazmente una prohibición a la importación de estos bienes.
-
-El informe indica que la falta de imposición de esta prohibición es irrazonable y perjudica el comercio de Estados Unidos. Aunque no se especifican los productos, República Dominicana es parte del Tratado de Libre Comercio con varios países de Centroamérica y Estados Unidos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780502248/autonoticias/articles/20260603_155728_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 03 Jun 2026 16:01:48 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260603160148</guid>
   </item>
 </channel>
 </rss>
