@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 10 Jun 2026 19:27:58 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 22:41:50 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Senador Taveras propone eliminar del Código Penal la prisión por difamación]]></title>
+    <link>https://panorama.com.do/senador-taveras-propone-eliminar-prision-por-difamacion-y-derogar-ultraje-a-funcionarios/</link>
+    <description><![CDATA[El senador Antonio Taveras Guzmán ha presentado una propuesta para modificar la Ley 74-25, con el fin de fortalecer las garantías de libertad de expresión y prensa. La iniciativa busca adecuar los delitos contra el honor a los principios de legalidad y proporcionalidad.
+
+Entre los cambios propuestos, se encuentra la eliminación de penas de prisión por difamación, sustituyéndolas por multas y reparación civil. También se plantea reducir las penas por difamación extorsiva y proteger a los medios de comunicación de sanciones que limiten su funcionamiento.
+
+La propuesta incluye la derogación del artículo que sanciona el ultraje a funcionarios públicos, argumentando que concede una protección penal privilegiada y limita el escrutinio ciudadano.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781131283/autonoticias/articles/20260610_224122_article.png" type="image/png"/>
+    <pubDate>Wed, 10 Jun 2026 22:41:50 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260610224150</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Trasladan a “Mantequilla” a la fiscalía de Monte Plata]]></title>
     <link>https://panorama.com.do/trasladan-a-mantequilla-a-la-fiscalia-de-monte-plata/</link>
     <description><![CDATA[Wilkin García Peguero, alias “Mantequilla”, ha sido trasladado a la fiscalía de Monte Plata. Permanecerá en prisión hasta que se conozca la medida de coerción.
@@ -1319,20 +1333,6 @@ Vander Horst transformó y aumentó las utilidades de la Fiduciaria Reservas, co
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780539524/autonoticias/articles/20260604_021844_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 04 Jun 2026 02:19:08 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260604021908</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Abinader promulga la Ley 25-26 que crea el sistema nacional “Alertas RD” para la búsqueda de personas desaparecidas]]></title>
-    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-promulga-la-ley-25-26-que-crea-el-sistema-nacional-alertas-rd-para-la</link>
-    <description><![CDATA[El presidente Luis Abinader ha promulgado la Ley 25-26, que crea el sistema "Alertas RD" para la búsqueda de personas desaparecidas en República Dominicana. Esta ley busca una respuesta inmediata ante desapariciones, priorizando la dignidad humana.
-
-Las alertas se clasifican en Amber, Silver, Azul y Rosa, según el perfil de la persona afectada. Además, se crea el Registro Nacional de Personas Desaparecidas y el Consejo Nacional para la Búsqueda de Personas Desaparecidas.
-
-La ley establece sanciones para servidores públicos que no cumplan con los protocolos establecidos, reafirmando el compromiso del Gobierno con la seguridad ciudadana.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780535826/autonoticias/articles/20260604_011706_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 04 Jun 2026 01:17:32 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260604011732</guid>
   </item>
 </channel>
 </rss>
