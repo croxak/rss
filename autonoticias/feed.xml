@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 10 Jun 2026 16:40:20 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 16:44:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Nueva cédula de RD es reconocida como Mejor Documento de Identidad de América Latina]]></title>
+    <link>https://n.com.do/2026/06/10/nueva-cedula-de-rd-es-reconocida-como-mejor-documento-de-identidad-de-america-latina/</link>
+    <description><![CDATA[La nueva cédula de identidad y electoral de República Dominicana ha sido reconocida como el Mejor Documento de Identidad de América Latina en 2026. La Junta Central Electoral (JCE) recibió el galardón en el Foro High Security Printing Latin America 2026.
+
+El documento dominicano fue destacado por su seguridad documental, innovación tecnológica, identidad digital, capacidad operativa y experiencia ciudadana, superando a competidores como Costa Rica y Argentina.
+
+La cédula incorpora más de 100 características de seguridad en tres niveles y está fabricada en policarbonato, con tecnología de imagen grabada con láser y un chip sin contacto que permite su uso como documento de viaje.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781109803/autonoticias/articles/20260610_164323_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 10 Jun 2026 16:44:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260610164432</guid>
+  </item>
+
+  <item>
     <title><![CDATA[TSS informa que ha recaudado más de RD$103 mil millones en 2026]]></title>
     <link>https://panorama.com.do/tss-informa-que-ha-recaudado-mas-de-rd103-mil-millones-en-2026/</link>
     <description><![CDATA[La Tesorería de la Seguridad Social (TSS) ha recaudado RD$103,414 millones en los primeros cinco meses de 2026, un 11.2 % más que en el mismo período de 2025. El acumulado histórico desde la creación del sistema asciende a RD$2,071,622,236,571.02.
@@ -1319,18 +1333,6 @@ Las preocupaciones económicas, especialmente el costo de la vida, son el princi
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780514341/autonoticias/articles/20260603_191900_article.webp" type="image/jpeg"/>
     <pubDate>Wed, 03 Jun 2026 19:32:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260603193258</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Milton Morrison rechaza propuesta de Antonio Marte de eliminar el Intrant y la Digesett]]></title>
-    <link>https://n.com.do/2026/06/03/milton-morrison-rechaza-propuesta-de-antonio-marte-de-eliminar-el-intrant-y-la-digesett/</link>
-    <description><![CDATA[Milton Morrison, director del Intrant, ha rechazado la propuesta del senador Antonio Marte de eliminar el Intrant y la Digesett. Morrison considera que estas entidades son esenciales para la regulación del tránsito en República Dominicana.
-
-Antonio Marte, senador por Santiago Rodríguez, argumentó que las instituciones no tienen la autoridad necesaria para enfrentar el desorden vial. Marte ha pedido endurecer las medidas contra conductores que violan las normas de tránsito.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780514563/autonoticias/articles/20260603_192243_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 03 Jun 2026 19:32:43 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260603193243</guid>
   </item>
 </channel>
 </rss>
