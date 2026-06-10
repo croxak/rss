@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 10 Jun 2026 12:41:21 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 12:42:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Vaguada provocará aguaceros y tronadas en varias provincias]]></title>
+    <link>https://eldia.com.do/vaguada-provocara-aguaceros-y-tronadas-en-varias-provincias-4/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informa que una vaguada provocará aguaceros moderados, tronadas y ráfagas de viento aisladas en varias provincias del país. Las precipitaciones se concentrarán en Monte Plata, Duarte, Independencia, Sánchez Ramírez, La Vega, San José de Ocoa, Santiago Rodríguez, Dajabón, San Juan, Elías Piña, Hato Mayor y El Seibo.
+
+Se espera un ambiente mayormente soleado durante la mañana, con chubascos aislados en sectores del litoral caribeño. Las temperaturas mínimas estarán entre 23 °C y 25 °C, y las máximas entre 31 °C y 33 °C.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781095314/autonoticias/articles/20260610_124153_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 10 Jun 2026 12:42:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260610124231</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Encuentran adolescente muerta en el interior de una piscina en La Caleta]]></title>
     <link>https://elnuevodiario.com.do/encuentran-una-adolescente-muerta-con-heridas-en-el-interior-de-una-piscina-cerrada-en-la-caleta/</link>
     <description><![CDATA[Una adolescente fue hallada muerta con heridas de arma blanca en el cuello dentro de una piscina cerrada al público en La Caleta, Santo Domingo. En el lugar se encontraron galones de vino y un cuchillo, presunta arma utilizada en el crimen.
@@ -1311,18 +1323,6 @@ La DGM expresó sus condolencias a los familiares y compañeros de Almánzar, re
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780502429/autonoticias/articles/20260603_160029_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 03 Jun 2026 16:01:23 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260603160123</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Mivhed y sector financiero impulsan mecanismo que facilitará el acceso a vivienda a familias sin historial crediticio]]></title>
-    <link>https://www.presidencia.gob.do/noticias/mivhed-y-sector-financiero-impulsan-mecanismo-que-facilitara-el-acceso-vivienda-familias</link>
-    <description><![CDATA[El Ministerio de Vivienda, Hábitat y Edificaciones y el sector financiero han suscrito un acuerdo para facilitar el acceso a vivienda a familias sin historial crediticio. Esta iniciativa busca utilizar información alternativa sobre hábitos de pago para mejorar los perfiles crediticios de potenciales compradores.
-
-El ministro Víctor “Ito” Bisonó destacó que el acceso a una vivienda no debe depender únicamente de mecanismos tradicionales de evaluación financiera. Rosanna Ruiz, presidenta ejecutiva de la Asociación de Bancos Múltiples, resaltó el impacto transformador de esta alianza en el marco de Meta RD 2036.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780494534/autonoticias/articles/20260603_134854_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 03 Jun 2026 13:49:20 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260603134920</guid>
   </item>
 </channel>
 </rss>
