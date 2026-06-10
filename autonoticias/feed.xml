@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 10 Jun 2026 17:19:32 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 18:29:52 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[SeNaSa cierra en positivo primer trimestre de 2026 y publica estados financieros de 2024 y 2025]]></title>
+    <link>https://www.presidencia.gob.do/noticias/senasa-cierra-en-positivo-primer-trimestre-de-2026-y-publica-estados-financieros-de-2024-y</link>
+    <description><![CDATA[El Seguro Nacional de Salud (SeNaSa) informó resultados positivos de RD 1,283,000.00 en el primer trimestre de 2026, atribuidos a mejoras financieras y tecnológicas. Publicaron los estados financieros de 2024 y preliminares de 2025 y 2026.
+
+SeNaSa lanzó una nueva plataforma para la gestión de medicamentos y el programa SeNaSa InTEgrA para afiliados con Trastorno del Espectro Autista, beneficiando a 1,103 afiliados.
+
+La institución resaltó la colaboración con la Comisión Técnica y Asesora y el CoSeNaSa, y las reuniones con el Servicio Nacional de Salud para fortalecer la red pública de salud.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781113591/autonoticias/articles/20260610_174631_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 10 Jun 2026 18:29:52 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260610182952</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Diputado de Pedernales renuncia de la Fuerza del Pueblo]]></title>
     <link>https://eldia.com.do/diputado-de-pedernales-renuncia-de-la-fuerza-del-pueblo/</link>
     <description><![CDATA[El diputado Rafael Pérez, representante de la provincia de Pedernales, ha renunciado a la Fuerza del Pueblo. La decisión fue anunciada este martes.
@@ -1321,18 +1335,6 @@ La Policía Nacional y el Ministerio Público ofrecerán más detalles conforme 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780532964/autonoticias/articles/20260604_002924_article.webp" type="image/jpeg"/>
     <pubDate>Thu, 04 Jun 2026 00:29:55 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260604002955</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[DNCD arresta en Cotuí a hombre requerido en extradición por narcotráfico en Estados Unidos]]></title>
-    <link>https://elnuevodiario.com.do/dncd-arresta-en-cotui-a-hombre-requerido-en-extradicion-por-narcotrafico-en-estados-unidos/</link>
-    <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD), en colaboración con el Ministerio Público y el Servicio de Alguaciles de Estados Unidos, arrestó en Cotuí a Rafael Antonio Castro Facenda. Es requerido por las autoridades estadounidenses por presuntos vínculos con el tráfico internacional de drogas.
-
-El arresto se llevó a cabo en la calle Colón, cumpliendo una orden de extradición emitida por la Suprema Corte de Justicia. Castro Facenda permanece bajo control del Ministerio Público mientras se desarrollan los procedimientos legales correspondientes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780532081/autonoticias/articles/20260604_001441_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 04 Jun 2026 00:15:06 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260604001506</guid>
   </item>
 </channel>
 </rss>
