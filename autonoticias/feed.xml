@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 10 Jun 2026 14:20:33 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 16:40:06 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[El Gobierno anunciará medidas para impulsar economía ante incertidumbre internacional]]></title>
+    <link>https://www.diariolibre.com/economia/macroeconomia/2026/06/10/ministro-de-hacienda-anunciara-medidas-para-impulsar-economia/3562231</link>
+    <description><![CDATA[El ministro de Hacienda y Economía, Magín Díaz, presentará un paquete de medidas para impulsar el crecimiento económico y mitigar los efectos de la crisis internacional en la economía dominicana. El anuncio se realizará este jueves a las 11:00 de la mañana en la sede de la institución.
+
+La economía mundial enfrenta presiones por el conflicto geopolítico en Medio Oriente y la volatilidad de los precios energéticos. El Banco Central reportó una inflación interanual de 5.35 % en mayo, superando el rango meta.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781109579/autonoticias/articles/20260610_163938_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 10 Jun 2026 16:40:06 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260610164006</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Denuncian exhumaciones de cadáveres ilegales en cementerios de Bayaguana]]></title>
     <link>https://noticiassin.com/pais/provincias/2026/06/10/denuncian-exhumaciones-ilegales-en-cementerios-de-bayaguana-2023376/</link>
     <description><![CDATA[El regidor de Bayaguana, Caonabo Hubieres, ha denunciado exhumaciones ilegales en los cementerios de la zona, lo que ha generado serios inconvenientes. Según Hubieres, la falta de respeto a los espacios en los cementerios públicos es una constante desde que asumió la actual gestión municipal.
@@ -1317,20 +1329,6 @@ El Ministerio de Turismo aportó 86 millones de pesos, mientras que JICA contrib
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780512844/autonoticias/articles/20260603_185403_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 03 Jun 2026 18:55:54 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260603185554</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Candidata de origen dominicano gana primaria demócrata y busca mantenerse en el Congreso de EE. UU.]]></title>
-    <link>https://www.diariolibre.com/usa/actualidad/2026/06/03/primarias-en-nueva-jersey-definen-candidatos-para-el-congreso/3554868</link>
-    <description><![CDATA[Analilia Mejía, de origen dominicano, ha ganado la nominación demócrata para el Distrito 11 de Nueva Jersey en la Cámara de Representantes de EE. UU. Mejía busca mantener su escaño en las elecciones generales de noviembre tras vencer a tres aspirantes demócratas.
-
-Rebecca Bennett se impuso en el Séptimo Distrito Congresional de Nueva Jersey y enfrentará al republicano Tom Kean Jr. en noviembre. Kean ha estado ausente en votaciones del Congreso por más de tres meses debido a una condición médica no detallada.
-
-En otras contiendas, Adam Hamawy ganó la candidatura demócrata en el Distrito 12, LaMonica McIver en el Distrito 10, y Zack Mullock en el Segundo Distrito. Las elecciones generales de noviembre serán clave para definir la composición de la Cámara de Representantes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780511000/autonoticias/articles/20260603_182320_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 03 Jun 2026 18:23:54 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260603182354</guid>
   </item>
 </channel>
 </rss>
