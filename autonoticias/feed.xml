@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 10 Jun 2026 12:42:31 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 13:08:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[MICM y Banco Sabadell se unen para atraer inversión española y fortalecer exportaciones]]></title>
+    <link>https://micm.gob.do/micm-y-banco-sabadell-se-unen-para-atraer-inversion-espanola-y-fortalecer-exportaciones/</link>
+    <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes (MICM) y el Banco de Sabadell han firmado un acuerdo para atraer inversión española y fortalecer las exportaciones en República Dominicana.
+
+El acuerdo busca identificar nuevas oportunidades de inversión y expandir empresas españolas en el país, conectándolas con cadenas globales de valor. El MICM ofrecerá beneficios y apoyo a empresas interesadas en establecerse en zonas francas, mientras que el Banco Sabadell proporcionará financiamiento.
+
+En 2025, España fue el principal inversionista extranjero en República Dominicana, aportando US$1,086.1 millones. La embajadora de España, Lorea Arribalzaga Ceballos, destacó el impacto positivo de las empresas españolas en la economía dominicana.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781096849/autonoticias/articles/20260610_130729_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 10 Jun 2026 13:08:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260610130802</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Vaguada provocará aguaceros y tronadas en varias provincias]]></title>
     <link>https://eldia.com.do/vaguada-provocara-aguaceros-y-tronadas-en-varias-provincias-4/</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informa que una vaguada provocará aguaceros moderados, tronadas y ráfagas de viento aisladas en varias provincias del país. Las precipitaciones se concentrarán en Monte Plata, Duarte, Independencia, Sánchez Ramírez, La Vega, San José de Ocoa, Santiago Rodríguez, Dajabón, San Juan, Elías Piña, Hato Mayor y El Seibo.
@@ -1309,20 +1323,6 @@ El informe indica que la falta de imposición de esta prohibición es irrazonabl
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780502248/autonoticias/articles/20260603_155728_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 03 Jun 2026 16:01:48 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260603160148</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Agente de Migración fallece tras ser atropellado mientras se dirigía a sus labores]]></title>
-    <link>https://www.diariolibre.com/actualidad/sucesos/2026/06/03/dgm-lamenta-fallecimiento-de-agente-migratorio/3554775?utm_source=relacionadas&amp;utm_medium=portada&amp;utm_campaign=relacionadas</link>
-    <description><![CDATA[La Dirección General de Migración (DGM) lamenta el fallecimiento del agente Snayder Almánzar, quien murió tras un accidente de tránsito el 31 de mayo. Almánzar sufrió un trauma craneoencefálico y murió por un shock hipovolémico.
-
-El accidente ocurrió cuando una yipeta Porsche cruzó un semáforo en rojo e impactó la camioneta de la DGM. El conductor del vehículo fue sometido a una prueba de alcoholemia, que resultó positiva, y está detenido.
-
-La DGM expresó sus condolencias a los familiares y compañeros de Almánzar, recordándolo como un colaborador comprometido.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780502429/autonoticias/articles/20260603_160029_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 03 Jun 2026 16:01:23 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260603160123</guid>
   </item>
 </channel>
 </rss>
