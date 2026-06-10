@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 10 Jun 2026 03:28:14 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 10 Jun 2026 12:41:21 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Encuentran adolescente muerta en el interior de una piscina en La Caleta]]></title>
+    <link>https://elnuevodiario.com.do/encuentran-una-adolescente-muerta-con-heridas-en-el-interior-de-una-piscina-cerrada-en-la-caleta/</link>
+    <description><![CDATA[Una adolescente fue hallada muerta con heridas de arma blanca en el cuello dentro de una piscina cerrada al público en La Caleta, Santo Domingo. En el lugar se encontraron galones de vino y un cuchillo, presunta arma utilizada en el crimen.
+
+Se presume que los autores del hecho realizaron un atraco antes de ingresar al establecimiento. Los residentes de la zona están alarmados por el nivel de violencia y exigen un aumento del patrullaje policial.
+
+Las autoridades están investigando para esclarecer el caso y encontrar a los responsables.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781095252/autonoticias/articles/20260610_124052_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 10 Jun 2026 12:41:21 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260610124121</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministerio Público arresta a "Mantequilla" por estafa y otros delitos]]></title>
     <link>https://eldia.com.do/ministerio-publico-arresta-a-mantequilla-por-estafa-y-otros-delitos/</link>
     <description><![CDATA[El Ministerio Público arrestó a Wilkin García Peguero, conocido como "Mantequilla", por delitos de asociación de malhechores, tentativa de homicidio agravada, agresión física y estafa. Fue detenido en Arroyo Hondo Viejo y trasladado al Centro de Atención y Privación de Libertad de Ciudad Nueva.
@@ -1309,20 +1323,6 @@ El ministro Víctor “Ito” Bisonó destacó que el acceso a una vivienda no d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780494534/autonoticias/articles/20260603_134854_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 03 Jun 2026 13:49:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260603134920</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ejército incauta contrabando transportado en mulos en zona fronteriza de Elías Piña]]></title>
-    <link>https://robertocavada.com/ejercito-incauta-contrabando-transportado-en-mulos-en-zona-fronteriza-de-elias-pina/</link>
-    <description><![CDATA[El Ejército de República Dominicana incautó un cargamento de contrabando en la provincia Elías Piña. La operación se realizó en Loma del Ranchito, donde se encontraron tres mulos cargados con mercancías ilícitas.
-
-Los artículos incautados incluyen 12,000 cigarrillos marca Capital, seis sacos de ajo y 1,754 botellas de ron. Los responsables huyeron al notar la presencia militar.
-
-Las mercancías fueron trasladadas al 11er. Batallón de Infantería para los procedimientos legales correspondientes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780493344/autonoticias/articles/20260603_132903_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 03 Jun 2026 13:30:08 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260603133008</guid>
   </item>
 </channel>
 </rss>
