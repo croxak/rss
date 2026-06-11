@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 11 Jun 2026 14:12:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 11 Jun 2026 14:57:38 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Julio Brache afirma que el país necesita un Estado que vea al sector productivo “como un aliado”]]></title>
+    <link>https://panorama.com.do/julio-brache-afirma-que-el-pais-necesita-un-estado-que-vea-al-sector-productivo-como-un-aliado/</link>
+    <description><![CDATA[Julio Brache, presidente de la AIRD, afirmó que el país necesita un Estado que vea al sector productivo como un aliado estratégico para el crecimiento económico y la sostenibilidad. Destacó la importancia de reglas claras y seguridad jurídica.
+
+Brache resaltó las iniciativas de economía circular y eficiencia energética de la industria dominicana. Abogó por mecanismos como la ventanilla única para reducir la burocracia y valoró el papel del Ministerio de Medio Ambiente en el desarrollo sostenible.
+
+También mencionó la necesidad de abordar la minería de manera seria y responsable, destacando que la sostenibilidad y el crecimiento económico deben avanzar juntos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781189808/autonoticias/articles/20260611_145648_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 11 Jun 2026 14:57:38 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260611145738</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Extraditan a EE. UU. dominicano acusado de narcotráfico internacional]]></title>
     <link>https://www.elcaribe.com.do/panorama/pais/extraditan-a-ee-uu-dominicano-acusado-de-narcotrafico-internacional/</link>
     <description><![CDATA[Las autoridades dominicanas han extraditado a Missaelle Morales Silvestre, conocido como “Bori” o “El Viejo”, a Estados Unidos. Morales Silvestre enfrenta cargos de narcotráfico internacional en el Distrito Judicial de Puerto Rico.
@@ -1317,20 +1331,6 @@ Las empresas involucradas en el caso incluyen Transcore Latam S.R.L., Aurix S.A.
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780668549/autonoticias/articles/20260605_140908_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 05 Jun 2026 14:09:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260605140933</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[CNE aprueba nuevos manuales para agilizar las concesiones de proyectos de energía renovable]]></title>
-    <link>https://www.presidencia.gob.do/noticias/cne-aprueba-nuevos-manuales-para-agilizar-las-concesiones-de-proyectos-de-energia</link>
-    <description><![CDATA[La Comisión Nacional de Energía (CNE) ha aprobado nuevos manuales para agilizar las concesiones de proyectos de energía renovable, enfocados en energía solar fotovoltaica y eólica.
-
-La Resolución núm. CNE-AD-006-2026 establece lineamientos claros para la presentación y evaluación de proyectos bajo la Ley núm. 57-07. Los manuales detallan los requisitos legales, técnicos y financieros necesarios.
-
-Los documentos están disponibles para consulta en www.cne.gob.do.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780666751/autonoticias/articles/20260605_133910_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 05 Jun 2026 13:40:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260605134019</guid>
   </item>
 </channel>
 </rss>
