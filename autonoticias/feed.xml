@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 11 Jun 2026 00:08:42 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 11 Jun 2026 00:10:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Minerd investiga caso de estudiante que perdió un testículo tras incidente en escuela de Nagua]]></title>
+    <link>https://elnuevodiario.com.do/minerd-investiga-caso-de-estudiante-que-perdio-un-testiculo-tras-incidente-en-escuela-de-nagua/</link>
+    <description><![CDATA[El ministro de Educación, Luis Miguel De Camps, anunció que se está investigando el caso de un estudiante que perdió un testículo tras un incidente en una escuela de Nagua. El Ministerio de Educación está dando seguimiento a la situación y fortaleciendo las medidas de acompañamiento a los estudiantes.
+
+El menor resultó herido durante un juego con otros estudiantes y fue sometido a una cirugía. Los padres del niño han solicitado la intervención de las autoridades para esclarecer las circunstancias del hecho.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781136624/autonoticias/articles/20260611_001023_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 11 Jun 2026 00:10:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260611001055</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El Museo de Arte Moderno dedica gran retrospectiva al surrealista Jorge Noceda Sánchez]]></title>
     <link>https://www.diariolibre.com/revista/cultura/2026/06/10/jorge-noceda-sanchez-revive-con-una-muestra-retrospectiva/3562891</link>
     <description><![CDATA[El Museo de Arte Moderno presentará una retrospectiva dedicada al pintor surrealista Jorge Noceda Sánchez, titulada "El sueño de la memoria". La exposición se inaugurará el 18 de junio y estará abierta hasta el 9 de agosto de 2026.
@@ -1323,18 +1335,6 @@ Un cuarto sospechoso, "el Patu", sigue prófugo. Las autoridades recuperaron una
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780583101/autonoticias/articles/20260604_142501_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 04 Jun 2026 14:25:25 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260604142525</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Indomet prevé chubascos aislados; polvo del Sahara sigue incidiendo en temperaturas calurosas]]></title>
-    <link>https://n.com.do/2026/06/04/polvo-sahara-altas-temperaturas-chubascos-republica-dominicana/</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informa sobre chubascos aislados en el litoral caribeño, afectando a La Romana, San Pedro de Macorís, Santo Domingo y San Cristóbal. En la tarde, se prevén tronadas y ráfagas de viento en varias provincias debido a una débil vaguada y una onda tropical.
-
-El polvo del Sahara sigue presente, afectando la calidad del aire y aumentando las temperaturas. Se recomienda a la población, especialmente a quienes tienen problemas respiratorios, tomar precauciones como ingerir líquidos y evitar la exposición al sol.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780582910/autonoticias/articles/20260604_142150_article.png" type="image/png"/>
-    <pubDate>Thu, 04 Jun 2026 14:24:12 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260604142412</guid>
   </item>
 </channel>
 </rss>
