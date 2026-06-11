@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 11 Jun 2026 14:10:52 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 11 Jun 2026 14:12:03 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Desconocidos a bordo de una pasola acribillan un hombre SFM]]></title>
+    <link>https://panorama.com.do/desconocidos-a-bordo-de-una-pasola-acribillan-un-hombre-sfm/</link>
+    <description><![CDATA[Un hombre fue asesinado a tiros en San Francisco de Macorís. La víctima, Keury de la Cruz de la Cruz, conocido como "Eury", fue atacada por desconocidos que se desplazaban en una pasola.
+
+El incidente ocurrió en la intersección de las calles Emilio Proud-Homme y José del Orbe. Las autoridades recolectaron más de diez casquillos en el lugar.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781187053/autonoticias/articles/20260611_141053_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 11 Jun 2026 14:12:03 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260611141203</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ejército detiene a 38 haitianos indocumentados en Dajabón y Santiago Rodríguez]]></title>
     <link>https://panorama.com.do/ejercito-detiene-a-38-haitianos-indocumentados-en-dajabon-y-santiago-rodriguez/</link>
     <description><![CDATA[El Ejército de República Dominicana detuvo a 38 haitianos indocumentados en operativos en Dajabón y Santiago Rodríguez. En La Vigía, Dajabón, se localizaron 23 personas, mientras que en Monción, Santiago Rodríguez, se detuvieron a 11.
@@ -1319,18 +1331,6 @@ Los kits escolares incluyen mochilas, útiles y uniformes. La distribución se r
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780666231/autonoticias/articles/20260605_133030_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 05 Jun 2026 13:32:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260605133214</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[INDOMET prevé lluvias para este fin de semana y mantiene alerta por calor]]></title>
-    <link>https://robertocavada.com/indomet-preve-lluvias-para-este-fin-de-semana-y-mantiene-alerta-por-calor/</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (INDOMET) ha anunciado que este fin de semana se registrarán lluvias en varias provincias debido a una vaguada. Se esperan aguaceros, tormentas eléctricas y ráfagas de viento, especialmente en Santiago, Valverde, Santiago Rodríguez, Dajabón, Monte Cristi, Puerto Plata, La Vega, Espaillat, Hermanas Mirabal, María Trinidad Sánchez y Samaná.
-
-INDOMET también advierte sobre las altas temperaturas y la presencia de polvo del Sahara, que afecta la calidad del aire. Recomiendan a la población mantenerse hidratada y evitar la exposición prolongada al sol.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780663234/autonoticias/articles/20260605_124034_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 05 Jun 2026 12:41:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260605124141</guid>
   </item>
 </channel>
 </rss>
