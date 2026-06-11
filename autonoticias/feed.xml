@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 11 Jun 2026 16:12:28 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 11 Jun 2026 16:12:42 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Medio Ambiente cierra temporalmente la Cueva de la Línea en Los Haitises]]></title>
+    <link>https://n.com.do/2026/06/11/medio-ambiente-cierra-temporalmente-la-cueva-de-la-linea-en-los-haitises/</link>
+    <description><![CDATA[El Ministerio de Medio Ambiente y Recursos Naturales ha cerrado temporalmente la Cueva de la Línea en el Parque Nacional Los Haitises. Esta acción es parte de las evaluaciones de infraestructura y seguridad en áreas protegidas.
+
+Se están llevando a cabo inspecciones técnicas para identificar necesidades de intervención y asegurar condiciones seguras para los visitantes. No se ha dado una fecha de reapertura, pero se trabaja para implementar soluciones rápidamente.
+
+La Cueva de la Línea es un atractivo ecoturístico importante en el parque, conocido por su riqueza natural y biodiversidad.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781194253/autonoticias/articles/20260611_161053_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 11 Jun 2026 16:12:42 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260611161242</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Trump anuncia ataques a Irán esta noche y advierte que controlará el crudo iraní como con Venezuela]]></title>
     <link>https://n.com.do/2026/06/11/trump-anuncia-ataques-a-iran-esta-noche-y-advierte-que-controlara-el-crudo-irani-como-con-venezuela/</link>
     <description><![CDATA[Donald Trump, presidente de Estados Unidos, ha anunciado que su país atacará a Irán "con gran dureza" esta noche. Además, ha advertido que Estados Unidos tomará el control de la industria petrolera iraní, de manera similar a lo que hizo con Venezuela.
@@ -1317,18 +1331,6 @@ El Sexto Juzgado de la Instrucción del Distrito Nacional, bajo la jueza Yanibet
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780673651/autonoticias/articles/20260605_153411_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 05 Jun 2026 15:41:11 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260605154111</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Jochi Gómez: “Vamos con todo para el juicio de fondo”]]></title>
-    <link>https://robertocavada.com/jochi-gomez-vamos-con-todo-para-el-juicio-de-fondo/</link>
-    <description><![CDATA[Jochi Gómez, empresario y principal imputado en un supuesto entramado de corrupción y sabotaje a la red semafórica, expresó su determinación de enfrentar el juicio de fondo en el caso Camaleón.
-
-Gómez afirmó que el Estado dominicano ha intentado quitarle lo suyo, pero él no se ha doblegado y está listo para el juicio.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780673667/autonoticias/articles/20260605_153427_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 05 Jun 2026 15:39:36 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260605153936</guid>
   </item>
 </channel>
 </rss>
