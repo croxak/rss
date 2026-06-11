@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 11 Jun 2026 16:12:42 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 11 Jun 2026 16:12:57 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Fenómeno El Niño se forma en el Pacífico con previsión de ser «muy fuerte», avisa EE. UU.]]></title>
+    <link>https://elnuevodiario.com.do/el-fenomeno-el-nino-se-forma-en-el-pacifico-con-prevision-de-ser-muy-fuerte-avisa-ee-uu/</link>
+    <description><![CDATA[El fenómeno El Niño se ha formado en el Pacífico tropical y se espera que sea "muy fuerte" y prolongado, según la NOAA. Se prevé que las temperaturas de la superficie marítima superen los 2 grados centígrados sobre lo usual.
+
+Este fenómeno implica aguas más cálidas y vientos más intensos, lo que puede resultar en condiciones más secas y un invierno más cálido en Estados Unidos, además de más tormentas en el sur del país. También se espera una mayor actividad ciclónica en el Pacífico y un menor número de huracanes en el Atlántico.
+
+La NOAA ha pronosticado 14 ciclones con nombre en el Atlántico, incluyendo seis huracanes, y entre 15 y 22 tormentas con nombre en el Pacífico. Además, hay un mayor riesgo de inundaciones por oleaje en la costa oeste de Estados Unidos y cambios en la migración de peces y formación de algas dañinas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781194294/autonoticias/articles/20260611_161134_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 11 Jun 2026 16:12:57 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260611161257</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Medio Ambiente cierra temporalmente la Cueva de la Línea en Los Haitises]]></title>
     <link>https://n.com.do/2026/06/11/medio-ambiente-cierra-temporalmente-la-cueva-de-la-linea-en-los-haitises/</link>
     <description><![CDATA[El Ministerio de Medio Ambiente y Recursos Naturales ha cerrado temporalmente la Cueva de la Línea en el Parque Nacional Los Haitises. Esta acción es parte de las evaluaciones de infraestructura y seguridad en áreas protegidas.
@@ -1319,18 +1333,6 @@ Otros implicados, como José Gómez Canaán y varios exfuncionarios del Intrant,
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780675528/autonoticias/articles/20260605_160528_article.png" type="image/png"/>
     <pubDate>Fri, 05 Jun 2026 17:25:41 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260605172541</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abogada de Hugo Beras: "La decisión, a pesar de no estar de acuerdo, estuvo bien estructurada"]]></title>
-    <link>https://n.com.do/2026/06/05/abogada-de-hugo-beras-la-sentencia-a-pesar-de-no-estar-de-acuerdo-estuvo-bien-estructurada/</link>
-    <description><![CDATA[La abogada Laura Acosta, defensora de Hugo Beras, exdirector del Intrant, valoró la sentencia que envía a su cliente a juicio de fondo. Aunque no está de acuerdo, destacó que la sentencia estuvo bien estructurada.
-
-El Sexto Juzgado de la Instrucción del Distrito Nacional, bajo la jueza Yanibet Rivas, decidió abrir juicio contra Beras y el empresario José Ángel Gómez Canaán, conocido como Jochi Gómez, por su presunta vinculación al caso Camaleón.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780673651/autonoticias/articles/20260605_153411_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 05 Jun 2026 15:41:11 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260605154111</guid>
   </item>
 </channel>
 </rss>
