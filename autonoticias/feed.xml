@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 11 Jun 2026 14:57:38 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 11 Jun 2026 16:11:57 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Ministro de Agricultura: “Se acabó el negocio con los permisos de importación agrícola”]]></title>
+    <link>https://panorama.com.do/ministro-de-agricultura-se-acabo-el-negocio-con-los-permisos-de-importacion-agricola/</link>
+    <description><![CDATA[El ministro de Agricultura, Francisco Oliverio Espaillat, declaró que se acabó el negocio irregular con los permisos de importación agrícola. Las transacciones no oficiales no serán reconocidas, y el número de importadores autorizados se redujo de 51 a 19.
+
+Se lanzó el programa PRONAMET para modernizar el sector agrícola y enfrentar la escasez de mano de obra. Además, se están evaluando terrenos en Neiba y Enriquillo para cultivos de alto valor.
+
+El director de Ganadería, Abel Madera, informó sobre los avances en sanidad porcina y la autosuficiencia en la producción de carne de res.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781194207/autonoticias/articles/20260611_161007_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 11 Jun 2026 16:11:57 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260611161157</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Julio Brache afirma que el país necesita un Estado que vea al sector productivo “como un aliado”]]></title>
     <link>https://panorama.com.do/julio-brache-afirma-que-el-pais-necesita-un-estado-que-vea-al-sector-productivo-como-un-aliado/</link>
     <description><![CDATA[Julio Brache, presidente de la AIRD, afirmó que el país necesita un Estado que vea al sector productivo como un aliado estratégico para el crecimiento económico y la sostenibilidad. Destacó la importancia de reglas claras y seguridad jurídica.
@@ -1317,20 +1331,6 @@ También menciona que ha mantenido contacto con sectores de construcción y agr�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780666874/autonoticias/articles/20260605_134114_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 05 Jun 2026 14:13:21 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260605141321</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Jueza envía a juicio de fondo a Hugo Beras, Jochi Gómez y otros implicados en el caso Camaleón]]></title>
-    <link>https://eldia.com.do/jueza-envia-a-juicio-de-fondo-a-hugo-beras-jochi-gomez-y-otros-implicados-en-el-caso-camaleon/</link>
-    <description><![CDATA[La jueza Yanibet Rivas ha decidido enviar a juicio de fondo a Hugo Beras, José Ángel Gómez Canaán y otros implicados en el caso Camaleón. Se les acusa de adjudicar fraudulentamente un contrato para la modernización de la red semafórica del Gran Santo Domingo.
-
-El Ministerio Público sostiene que los acusados desviaron fondos públicos y realizaron operaciones de lavado de activos. José Ángel Gómez Canaán es señalado como el eje central del esquema, mientras que Hugo Beras habría facilitado adjudicaciones fraudulentas.
-
-Las empresas involucradas en el caso incluyen Transcore Latam S.R.L., Aurix S.A.S., Inprosol S.R.L., OML Inversiones S.R.L., PagoRD Xchange S.R.L., Industria Soltex Dominicana S.R.L. y Dekolor S.R.L.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780668549/autonoticias/articles/20260605_140908_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 05 Jun 2026 14:09:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260605140933</guid>
   </item>
 </channel>
 </rss>
