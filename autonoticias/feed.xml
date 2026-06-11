@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 10 Jun 2026 22:41:50 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 11 Jun 2026 00:07:18 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Senado impulsa creación del INDOCASABE y declara patrimonio cultural tradiciones de Moca y Monte Cristi]]></title>
+    <link>https://panorama.com.do/senado-impulsa-creacion-del-indocasabe-y-declara-patrimonio-cultural-tradiciones-de-moca-y-monte-cristi/</link>
+    <description><![CDATA[El Senado de la República aprobó en primera lectura la creación del Instituto Dominicano del Casabe (INDOCASABE), presentado por los senadores Antonio Marte y Manuel María Rodríguez, para fortalecer la producción de casabe y fomentar la siembra de yuca.
+
+Se declaró Patrimonio Cultural Inmaterial la tradición de la muñeca sin rostro de El Higüerito en Moca y “Los Toros de Monte Cristi”. También se designó la circunvalación de Baní como “Boulevard Turístico Rafael De Jesús Perelló Abreu”.
+
+El polideportivo de Pueblo Nuevo en San Cristóbal fue nombrado Douglas Miguel Hasbún José y se instituyó el 10 de septiembre como “Día del Orgullo Petromacorisano”. El Senado guardó un minuto de silencio por Franklin Guerrero, Isidro Ventura Guzmán y Eden de Jesús.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781136361/autonoticias/articles/20260611_000600_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 11 Jun 2026 00:07:18 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260611000718</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Senador Taveras propone eliminar del Código Penal la prisión por difamación]]></title>
     <link>https://panorama.com.do/senador-taveras-propone-eliminar-prision-por-difamacion-y-derogar-ultraje-a-funcionarios/</link>
     <description><![CDATA[El senador Antonio Taveras Guzmán ha presentado una propuesta para modificar la Ley 74-25, con el fin de fortalecer las garantías de libertad de expresión y prensa. La iniciativa busca adecuar los delitos contra el honor a los principios de legalidad y proporcionalidad.
@@ -1321,18 +1335,6 @@ Pedro Emmanuel Carrión Sánchez enfrenta un cargo adicional por no detener la e
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780583001/autonoticias/articles/20260604_142321_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 04 Jun 2026 14:23:56 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260604142356</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Andrés Vander Horst sale de la Fiduciaria Reservas tras casi seis años de servicio]]></title>
-    <link>https://elnuevodiario.com.do/andres-van-der-horst-sale-de-la-fiduciaria-reservas-tras-casi-seis-anos-de-servicio/</link>
-    <description><![CDATA[Andrés Vander Horst ha concluido su etapa en Fiduciaria Reservas tras casi seis años de servicio. La noticia fue compartida en la red social X, donde personalidades como Samuel Pereyra y Bolívar Valera elogiaron su gestión y logros en la institución.
-
-Vander Horst transformó y aumentó las utilidades de la Fiduciaria Reservas, contribuyendo al crecimiento del mercado de viviendas de bajo costo. Agradeció las muestras de apoyo con un mensaje dirigido a Pereyra.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780539524/autonoticias/articles/20260604_021844_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 04 Jun 2026 02:19:08 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260604021908</guid>
   </item>
 </channel>
 </rss>
