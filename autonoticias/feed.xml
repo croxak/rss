@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 11 Jun 2026 14:12:03 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 11 Jun 2026 14:12:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Extraditan a EE. UU. dominicano acusado de narcotráfico internacional]]></title>
+    <link>https://www.elcaribe.com.do/panorama/pais/extraditan-a-ee-uu-dominicano-acusado-de-narcotrafico-internacional/</link>
+    <description><![CDATA[Las autoridades dominicanas han extraditado a Missaelle Morales Silvestre, conocido como “Bori” o “El Viejo”, a Estados Unidos. Morales Silvestre enfrenta cargos de narcotráfico internacional en el Distrito Judicial de Puerto Rico.
+
+La extradición se llevó a cabo en el Aeropuerto Internacional de Las Américas, cumpliendo con el decreto 338-26. Morales Silvestre fue arrestado en abril de 2026 en el Distrito Nacional.
+
+Este caso es parte de los esfuerzos conjuntos entre República Dominicana y Estados Unidos para combatir el narcotráfico y la criminalidad organizada transnacional.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781187038/autonoticias/articles/20260611_141038_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 11 Jun 2026 14:12:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260611141219</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Desconocidos a bordo de una pasola acribillan un hombre SFM]]></title>
     <link>https://panorama.com.do/desconocidos-a-bordo-de-una-pasola-acribillan-un-hombre-sfm/</link>
     <description><![CDATA[Un hombre fue asesinado a tiros en San Francisco de Macorís. La víctima, Keury de la Cruz de la Cruz, conocido como "Eury", fue atacada por desconocidos que se desplazaban en una pasola.
@@ -1317,20 +1331,6 @@ Los documentos están disponibles para consulta en www.cne.gob.do.]]></descripti
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780666751/autonoticias/articles/20260605_133910_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 05 Jun 2026 13:40:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260605134019</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[INABIE avanza en la distribución de utilería escolar y alcanza un 15 % de cobertura a nivel nacional]]></title>
-    <link>https://www.presidencia.gob.do/noticias/inabie-avanza-en-la-distribucion-de-utileria-escolar-y-alcanza-un-15-de-cobertura-nivel</link>
-    <description><![CDATA[El Instituto Nacional de Bienestar Estudiantil (INABIE) ha logrado un 15 % de avance en la distribución de utilería escolar para el próximo año escolar 2026-2027. Adolfo Pérez, director ejecutivo, reafirmó el compromiso de la institución de garantizar que cada estudiante reciba su kit escolar completo desde el primer día de clases.
-
-En San Antonio de Guerra, se entregaron útiles a 10,545 estudiantes de 47 centros educativos. A nivel nacional, el programa beneficiará a 1,850,000 estudiantes y generará un impacto en más de 1.4 millones de familias, con un ahorro estimado de entre RD 3,864 y RD 5,433 por estudiante.
-
-Los kits escolares incluyen mochilas, útiles y uniformes. La distribución se realiza desde los almacenes del INABIE hasta los centros escolares. Además, el programa apoya a mipymes y empresas de la industria textil.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780666231/autonoticias/articles/20260605_133030_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 05 Jun 2026 13:32:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260605133214</guid>
   </item>
 </channel>
 </rss>
