@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 11 Jun 2026 13:09:31 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 11 Jun 2026 13:46:48 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Fuerza del Pueblo minimiza salidas en su partido y asegura que "es normal en procesos electorales"]]></title>
+    <link>https://eldia.com.do/fuerza-del-pueblo-minimiza-salidas-en-su-partido-y-asegura-que-es-normal-en-procesos-electorales/</link>
+    <description><![CDATA[Freddy Pérez, dirigente de la Fuerza del Pueblo, restó importancia a las recientes renuncias en su partido, considerándolas normales en el contexto electoral. Según Pérez, el practicismo ha reemplazado a la ideología en la política actual.
+
+El exfuncionario también se refirió a la abstención del 46% en las últimas elecciones presidenciales y destacó la alta participación en la Línea Noroeste, donde votó el 71% en promedio.
+
+Pérez se mostró optimista sobre una mayor participación en las próximas elecciones, rechazando la idea de una apatía ciudadana insalvable.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781185549/autonoticias/articles/20260611_134549_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 11 Jun 2026 13:46:48 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260611134648</guid>
+  </item>
+
+  <item>
     <title><![CDATA[INDOMET mantiene alertas meteorológicas; prevén aguaceros, tronadas y ráfagas de viento]]></title>
     <link>https://robertocavada.com/indomet-mantiene-alertas-meteorologicas-preven-aguaceros-tronadas-y-rafagas-de-viento/</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología (INDOMET) ha emitido un informe sobre las condiciones meteorológicas actuales. Una vaguada y una onda tropical al sur del país están generando lluvias en varias provincias. Se esperan aguaceros moderados a fuertes, tormentas eléctricas y ráfagas de viento en San José de Ocoa, La Vega, Santiago, San Juan, Santiago Rodríguez, Elías Piña y Dajabón. También se prevén precipitaciones menores en El Seibo, Hato Mayor y Monte Plata.
@@ -1319,20 +1333,6 @@ El caso ha sido esclarecido y el detenido, quien tiene antecedentes por delitos 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780623977/autonoticias/articles/20260605_014617_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 05 Jun 2026 01:46:45 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260605014645</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Renombrarán Base Aérea Puerto Plata en honor al general piloto Rojas Tabar]]></title>
-    <link>https://elnuevodiario.com.do/renombraran-base-aerea-puerto-plata-en-honor-al-general-piloto-rojas-tabar/</link>
-    <description><![CDATA[La Base Aérea Puerto Plata será renombrada en honor al mayor general piloto (r) Juan Bautista Rojas Tabar. El evento se realizará el viernes 5 de junio a las 11:00 de la mañana en Sabaneta de Cangrejos, donde también se develará un busto del oficial.
-
-El comandante general de la Fuerza Aérea de República Dominicana, mayor general piloto Floreal Suárez Martínez, encabezará la ceremonia junto a la Plana Mayor de la institución y otras autoridades civiles y militares. Este homenaje se realiza al cumplirse un año del fallecimiento de Rojas Tabar, quien murió el 18 de junio de 2025.
-
-La iniciativa del renombramiento y el develamiento del busto fue del coronel paracaidista William Leandro Medina Garnes, quien comandó la base durante dos años.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780595797/autonoticias/articles/20260604_175636_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 04 Jun 2026 17:57:09 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260604175709</guid>
   </item>
 </channel>
 </rss>
