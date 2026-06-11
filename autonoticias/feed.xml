@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 11 Jun 2026 13:48:23 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 11 Jun 2026 14:10:52 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Ejército detiene a 38 haitianos indocumentados en Dajabón y Santiago Rodríguez]]></title>
+    <link>https://panorama.com.do/ejercito-detiene-a-38-haitianos-indocumentados-en-dajabon-y-santiago-rodriguez/</link>
+    <description><![CDATA[El Ejército de República Dominicana detuvo a 38 haitianos indocumentados en operativos en Dajabón y Santiago Rodríguez. En La Vigía, Dajabón, se localizaron 23 personas, mientras que en Monción, Santiago Rodríguez, se detuvieron a 11.
+
+Los detenidos fueron trasladados bajo custodia militar para su entrega a la Dirección General de Migración, conforme a la legislación vigente. Estos operativos forman parte de las acciones para combatir el tráfico ilegal de personas y fortalecer la seguridad fronteriza.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781187022/autonoticias/articles/20260611_141022_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 11 Jun 2026 14:10:52 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260611141052</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fujimori vuelve a situarse por delante de Sánchez en la recta final del escrutinio en Perú]]></title>
     <link>https://eldia.com.do/fujimori-vuelve-a-situarse-por-delante-de-sanchez-en-la-recta-final-del-escrutinio-en-peru/</link>
     <description><![CDATA[Keiko Fujimori ha tomado la delantera en el escrutinio de la segunda vuelta de las elecciones presidenciales de Perú, con el 98,20 % de los votos contados. Fujimori tiene el 50,001 % de los votos válidos, mientras que Roberto Sánchez cuenta con el 49,999 %.
@@ -1319,20 +1331,6 @@ INDOMET también advierte sobre las altas temperaturas y la presencia de polvo d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780663234/autonoticias/articles/20260605_124034_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 05 Jun 2026 12:41:41 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260605124141</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[MP pide 12 meses de prisión y declarar complejo caso XL526]]></title>
-    <link>https://www.elcaribe.com.do/panorama/justicia/mp-pide-12-meses-de-prision-y-declarar-complejo-caso-xl526/</link>
-    <description><![CDATA[El Ministerio Público de Santiago ha solicitado que se declare de complejidad el caso XL526 y que se imponga un año de prisión preventiva a 10 personas arrestadas durante la operación.
-
-Los detenidos son acusados de formar parte de una estructura criminal dedicada a extorsionar, chantajear y estafar a residentes en Estados Unidos. Utilizaban anuncios publicitarios para captar víctimas y luego las sometían a extorsión, haciéndose pasar por miembros de organizaciones criminales como el "Cartel de Sinaloa".
-
-Los fondos obtenidos eran canalizados mediante criptomonedas y otros métodos. La solicitud fue presentada por el procurador adjunto Wilson Camacho y las fiscales Quirsa Abreu Peña, Joanna García Rivas y Lía Collado.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780663199/autonoticias/articles/20260605_123958_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 05 Jun 2026 12:40:26 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260605124026</guid>
   </item>
 </channel>
 </rss>
