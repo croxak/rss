@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 11 Jun 2026 00:07:18 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 11 Jun 2026 00:08:42 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[El Museo de Arte Moderno dedica gran retrospectiva al surrealista Jorge Noceda Sánchez]]></title>
+    <link>https://www.diariolibre.com/revista/cultura/2026/06/10/jorge-noceda-sanchez-revive-con-una-muestra-retrospectiva/3562891</link>
+    <description><![CDATA[El Museo de Arte Moderno presentará una retrospectiva dedicada al pintor surrealista Jorge Noceda Sánchez, titulada "El sueño de la memoria". La exposición se inaugurará el 18 de junio y estará abierta hasta el 9 de agosto de 2026.
+
+La muestra incluye más de 60 obras del artista, quien desarrolló su carrera entre las décadas de 1950 y 1980. La exposición es organizada por Fernando Báez Guerrero y Nancy Tavárez de Báez, con el apoyo del Ministerio de Cultura y la Dirección General de Museos.
+
+La coordinación está a cargo de Mildred Canahuate y la curaduría de Amable López Meléndez. El diseño museográfico fue realizado por Luis Tejada.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781136496/autonoticias/articles/20260611_000815_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 11 Jun 2026 00:08:42 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260611000842</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Senado impulsa creación del INDOCASABE y declara patrimonio cultural tradiciones de Moca y Monte Cristi]]></title>
     <link>https://panorama.com.do/senado-impulsa-creacion-del-indocasabe-y-declara-patrimonio-cultural-tradiciones-de-moca-y-monte-cristi/</link>
     <description><![CDATA[El Senado de la República aprobó en primera lectura la creación del Instituto Dominicano del Casabe (INDOCASABE), presentado por los senadores Antonio Marte y Manuel María Rodríguez, para fortalecer la producción de casabe y fomentar la siembra de yuca.
@@ -1321,20 +1335,6 @@ El polvo del Sahara sigue presente, afectando la calidad del aire y aumentando l
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780582910/autonoticias/articles/20260604_142150_article.png" type="image/png"/>
     <pubDate>Thu, 04 Jun 2026 14:24:12 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260604142412</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presentan acusación contra tres dominicanos arrestados con 300 kilos de cocaína en aguas de PR]]></title>
-    <link>https://listindiario.com/la-republica/20260604/presentan-acusacion-tres-dominicanos-arrestados-300-kilogramos-cocaina-aguas-pr_908424.html</link>
-    <description><![CDATA[El 15 de mayo, tres dominicanos fueron arrestados mientras se dirigían en una lancha hacia el norte de Puerto Rico con 300 kilogramos de cocaína. Las autoridades lograron incautar 178 kilogramos de la droga.
-
-La Patrulla Fronteriza detuvo la lancha, pero los acusados lanzaron fardos al agua antes de que la embarcación se hundiera. Un gran jurado federal emitió una acusación formal de nueve cargos por importar cocaína a Estados Unidos.
-
-Pedro Emmanuel Carrión Sánchez enfrenta un cargo adicional por no detener la embarcación. Los tres también enfrentan un cargo de inmigración por entrada ilegal al país. El fiscal adjunto Luis A. Valentín está a cargo del caso.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780583001/autonoticias/articles/20260604_142321_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 04 Jun 2026 14:23:56 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260604142356</guid>
   </item>
 </channel>
 </rss>
