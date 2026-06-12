@@ -6,7 +6,7 @@
   <link>https://eltestigo.com</link>
   <description>Artículos de opinión de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 12 Jun 2026 16:52:16 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 12 Jun 2026 16:55:42 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/opinion/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
@@ -14,7 +14,33 @@
     <link>https://eltestigo.com</link>
   </image>
 
-            <item>
+              <item>
+    <title><![CDATA[Wearables: ¿salud o vigilancia?]]></title>
+    <link>https://eltestigo.com</link>
+    <author><![CDATA[Alfredo López Ariza]]></author>
+    <description><![CDATA[En mayo de 2025, en mi artículo Privacidad en pausa, el lado oscuro de las apps, escribí sobre un riesgo que ya estaba frente a nosotros. Las aplicaciones de ejercicio, bienestar y geolocalización pueden dibujar un mapa preciso de nuestras rutinas. Usé como ejemplo al oficial naval ruso Stanislav Rzhitsky, asesinado mientras corría tras ser rastreado por sus recorridos públicos en Strava. Fue un episodio extremo, pero revelador. Lo que hacemos por comodidad también puede convertirse en información explotable.
+
+Ahora la información más íntima va pegada al cuerpo, en un reloj, en un anillo, en una banda. Registran cómo dormimos, cómo respiramos, cómo entrenamos y cuánto nos estresamos. La ubicación ya no es el único problema.
+
+En República Dominicana se ven cada vez más. El Apple Watch, el Oura Ring o las bandas de WHOOP se han vuelto distintivos de clase media y alta, visibles en el gimnasio y en las redes. Lo que casi nadie se pregunta es a dónde van a parar esos datos.
+
+La promesa no es falsa. Estos dispositivos ofrecen métricas útiles y ayudan a crear hábitos. El problema empieza cuando esas mediciones tan íntimas salen del terreno personal y entran en circuitos comerciales, judiciales o gubernamentales. En agosto de 2025, WHOOP enfrentó una demanda colectiva en California por presuntamente compartir datos sensibles de usuarios con una herramienta de analítica llamada Segment sin un consentimiento claro. El caso todavía debe probarse, pero muestra el tipo de litigios que ya rodean a este mercado.
+
+Un estudio publicado en 2025 en npj Digital Medicine, revista del grupo Nature, evaluó las políticas de privacidad de 17 fabricantes líderes de wearables y cuestionó su transparencia, control del usuario y manejo de brechas. La conclusión incomoda es que la industria aún no ha fijado reglas mínimas suficientemente claras para proteger al usuario.
+
+Los wearables también han llegado a las investigaciones criminales. Datos de un Fitbit, hoy parte del ecosistema de Google, o de un Apple Watch ya sirven para reconstruir movimientos, horarios y señales corporales. El caso más conocido es el de Richard Dabate, condenado en Connecticut en 2022 a 65 años por el asesinato de su esposa. Uno de los elementos que debilitó su defensa fue el Fitbit de ella, cuyos registros contradecían la versión que había dado a la policía.
+
+El Oura Ring abre otro frente. En 2025 la empresa quedó en el centro de la polémica por su trabajo con el Departamento de Defensa de Estados Unidos y su vínculo con Palantir. Un artículo de Zayanna Serrano para USC Dornsife sobre la “paradoja de la privacidad” en el caso Oura-Palantir planteó el problema de fondo, la falta de límites claros sobre propósito, acceso y separación de datos biométricos. Oura negó vender o compartir datos individuales, pero la incomodidad no se disuelve con un comunicado. ¿Qué garantías hay de que el bienestar personal y la defensa nacional no terminen tocándose dentro de una misma empresa?
+
+Conviene tener claras dos ideas, finalidad y doble uso. Si entrego mis datos para dormir mejor, deberían quedarse en ese propósito. La misma tecnología que avisa que estás agotado puede servir también para vigilarte, clasificarte o convertir tu cuerpo en una fuente permanente de inferencias.
+
+Nada de esto significa tirar los wearables a la basura. Preocupa el desequilibrio entre quien entrega esas señales y quien decide qué hacer con ellas. Los wearables no se van a ir, y cada día saben más de nosotros. Mientras más íntimas se vuelven esas mediciones, más urgente es preguntarse quién tiene permiso para interpretarlas. Casi nadie pierde la privacidad de golpe, se va cediendo, una noche de sueño a la vez.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781283315/noticias/articles/20260612_165514_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 12 Jun 2026 16:55:42 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-opinion-20260612165542</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El error de aumentar el 0.15 % al 0.20 %: penalizar la bancarización y premiar el efectivo]]></title>
     <link>https://eltestigo.com</link>
     <author><![CDATA[Rodolfo Dauhajre]]></author>
