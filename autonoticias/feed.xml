@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 13 Jun 2026 18:40:21 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 18:42:17 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Accidente de vehículo de Supérate deja 16 personas heridas en trayecto entre Consuelo y Hato Mayor]]></title>
+    <link>https://n.com.do/2026/06/13/accidente-de-vehiculo-de-superate-deja-16-personas-heridas-en-trayecto-entre-consuelo-y-hato-mayor/</link>
+    <description><![CDATA[Un vehículo de la Dirección de Desarrollo Social Supérate sufrió un accidente en la carretera entre Consuelo y Hato Mayor, dejando 16 personas heridas. Los afectados fueron trasladados a centros de salud y no se han reportado víctimas mortales.
+
+Supérate expresó su solidaridad con los afectados y sus familias, asegurando que mantiene el acompañamiento al personal involucrado. La institución seguirá informando conforme se disponga de información oficial.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781376097/autonoticias/articles/20260613_184136_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 13 Jun 2026 18:42:17 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260613184217</guid>
+  </item>
+
+  <item>
     <title><![CDATA[COE descontinúa alerta en 12 provincias; tres permanecen en alerta verde]]></title>
     <link>https://eldia.com.do/coe-descontinua-alerta-en-12-provincias-tres-permanecen-en-alerta-verde/</link>
     <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha descontinuado las alertas en 12 provincias, pero mantiene a Dajabón, Santiago Rodríguez y Elías Piña en alerta verde. Se esperan chubascos aislados y tronadas en algunas localidades del noreste y la cordillera Central.
@@ -1319,20 +1331,6 @@ La procuradora fiscal Sandra Sierra informó que las autoridades investigan las 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780778397/autonoticias/articles/20260606_203957_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 06 Jun 2026 20:41:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260606204134</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[PUCMM entrega 1,149 títulos y exhorta a ejercer con ética en la era de la Inteligencia Artificial]]></title>
-    <link>https://n.com.do/2026/06/06/pucmm-gradua-1149-profesionales-defender-dignidad-humana-inteligencia-artificial/</link>
-    <description><![CDATA[La Pontificia Universidad Católica Madre y Maestra (PUCMM) celebró su graduación número 114 en Santiago, entregando 1,149 títulos profesionales. El rector, reverendo padre doctor Secilio Espinal, exhortó a los graduandos a ejercer con ética en la era de la Inteligencia Artificial.
-
-Espinal destacó que el 66 % de los graduandos son mujeres y que el 25.4 % cursó sus estudios con becas. Un equipo de estudiantes de Ingeniería en Ciencias de la Computación ganó la Huawei ICT Global Competition 2025-2026 en China.
-
-Leonardo Aguilera, presidente ejecutivo de Banreservas, instó a los egresados a enfrentar los desafíos con disciplina. La PUCMM ha formado a 105,755 profesionales.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780778410/autonoticias/articles/20260606_204009_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 06 Jun 2026 20:41:18 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260606204118</guid>
   </item>
 </channel>
 </rss>
