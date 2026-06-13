@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 13 Jun 2026 18:42:17 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 18:45:59 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Autoridades profundizan pesquisas en apartamento donde fueron hallados muertos madre e hijo en Piantini]]></title>
+    <link>https://n.com.do/2026/06/13/autoridades-profundizan-pesquisas-en-apartamento-donde-fueron-hallados-muertos-madre-e-hijo-en-piantini/</link>
+    <description><![CDATA[Las autoridades continúan investigando las muertes de Juliza Serrán Guzmán y su hijo Yadhir Nael Cornelio en el ensanche Piantini. Miembros del Ministerio Público, DICRIM y Salud Pública realizaron nuevos levantamientos de evidencias en el apartamento.
+
+Carolyn Milagros Pérez, pareja de Cornelio, fue encontrada inconsciente y trasladada a un centro de salud. Fue entrevistada por el Ministerio Público como parte de las investigaciones.
+
+Los informes toxicológicos detectaron monóxido de carbono en las víctimas, pero no se ha confirmado si fue la causa de muerte. Las autoridades investigan el origen del gas en el apartamento.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781376135/autonoticias/articles/20260613_184215_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 13 Jun 2026 18:45:59 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260613184559</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Accidente de vehículo de Supérate deja 16 personas heridas en trayecto entre Consuelo y Hato Mayor]]></title>
     <link>https://n.com.do/2026/06/13/accidente-de-vehiculo-de-superate-deja-16-personas-heridas-en-trayecto-entre-consuelo-y-hato-mayor/</link>
     <description><![CDATA[Un vehículo de la Dirección de Desarrollo Social Supérate sufrió un accidente en la carretera entre Consuelo y Hato Mayor, dejando 16 personas heridas. Los afectados fueron trasladados a centros de salud y no se han reportado víctimas mortales.
@@ -1317,20 +1331,6 @@ Las autoridades están a cargo de las investigaciones para establecer la causa d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780778500/autonoticias/articles/20260606_204139_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 06 Jun 2026 20:43:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260606204320</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Hombre hiere a cuchilladas a su madre y a una hermana en SFM]]></title>
-    <link>https://www.elcaribe.com.do/panorama/region-norte/hombre-hiere-a-cuchilladas-a-su-madre-y-a-una-hermana-en-sfm/</link>
-    <description><![CDATA[En San Francisco de Macorís, Luis Marlin Polanco Rosado, de 34 años, hirió a su madre y a una hermana con un arma blanca. El incidente ocurrió en un residencial de la ciudad.
-
-La madre fue dada de alta tras recibir atención médica, mientras que la hermana permanece ingresada. Polanco Rosado también resultó herido en una mano.
-
-La procuradora fiscal Sandra Sierra informó que las autoridades investigan las circunstancias del incidente. Un hermano del agresor señaló que Polanco Rosado tiene problemas de salud mental y estaba bajo medicación.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780778397/autonoticias/articles/20260606_203957_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 06 Jun 2026 20:41:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260606204134</guid>
   </item>
 </channel>
 </rss>
