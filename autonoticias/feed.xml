@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 13 Jun 2026 14:55:46 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 14:56:01 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Vaguada y onda tropical provocarán aguaceros; COE incrementa alertas meteorológicas]]></title>
+    <link>https://panorama.com.do/vaguada-y-onda-tropical-provocaran-aguaceros-coe-incrementa-alertas-meteorologicas/</link>
+    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha elevado a alerta amarilla a Hato Mayor y El Seibo. Otras 14 provincias permanecen bajo alerta verde.
+
+Se esperan aguaceros moderados a fuertes, tormentas eléctricas y posibles granizadas aisladas en varias provincias debido a una vaguada y una onda tropical. Las provincias afectadas incluyen Dajabón, Santiago Rodríguez, San Juan, Elías Piña, entre otras.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781362223/autonoticias/articles/20260613_145022_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 13 Jun 2026 14:56:01 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260613145601</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Decidirán este lunes envío a juicio de fondo o auto de no ha lugar en caso Jet Set]]></title>
     <link>https://eldia.com.do/decidiran-este-lunes-envio-a-juicio-de-fondo-o-auto-de-no-ha-lugar-en-caso-jet-set/</link>
     <description><![CDATA[El juez Reymundo Mejía Zorrilla decidirá este lunes 15 de junio si los hermanos Antonio y Maribel Espaillat López serán enviados a juicio de fondo o si se les dictará un auto de no ha lugar por el derrumbe del techo de la discoteca Jet Set Club.
@@ -1321,18 +1333,6 @@ Para el sábado, se esperan aguaceros aislados en la costa Sur durante la madrug
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780704512/autonoticias/articles/20260606_000832_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 06 Jun 2026 00:09:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260606000914</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Apagón de más de cinco horas afecta gran parte de la provincia San Juan]]></title>
-    <link>https://elnuevodiario.com.do/apagon-de-mas-de-cinco-horas-afecta-gran-parte-de-la-provincia-san-juan/</link>
-    <description><![CDATA[Una avería en el transformador de potencia de la Subestación de San Juan ha dejado sin electricidad a gran parte de la provincia San Juan desde la tarde de este viernes. La interrupción afecta los circuitos SJUA101, SJUA102, SJUA103 y SJUA104.
-
-La gobernadora Ana María Castillo Mateo informó que brigadas técnicas están trabajando para corregir la avería y restablecer el servicio eléctrico lo antes posible. Los residentes y comerciantes de las zonas afectadas esperan la normalización del suministro.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780704035/autonoticias/articles/20260606_000035_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 06 Jun 2026 00:08:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260606000814</guid>
   </item>
 </channel>
 </rss>
