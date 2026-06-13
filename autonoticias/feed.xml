@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 13 Jun 2026 14:56:17 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 17:48:25 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Capturan dos presuntos integrantes de estructura criminal vinculada a asalto en colmado de Pedro Brand]]></title>
+    <link>https://panorama.com.do/capturan-dos-presuntos-integrantes-de-estructura-criminal-vinculada-a-asalto-en-colmado-de-pedro-brand/</link>
+    <description><![CDATA[La Subdirección Regional de Investigación (Dicrim) de Santo Domingo Oeste detuvo a Leanyel Ernesto Guevara y Raulin Rafael Santiago Busis, presuntos miembros de una estructura criminal responsable de un asalto en un colmadón de Pedro Brand. El incidente fue captado por cámaras de seguridad y se viralizó en redes sociales.
+
+Durante el arresto, se incautó una pistola modificada y un celular robado. Además, se recuperaron prendas de vestir usadas en el atraco. Santiago Busis fue detenido en un vehículo identificado como el utilizado en el crimen. Otros miembros de la banda están siendo buscados.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781371693/autonoticias/articles/20260613_172812_article.png" type="image/png"/>
+    <pubDate>Sat, 13 Jun 2026 17:48:25 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260613174825</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Muere niño de siete años en incendio de apartamento en Barahona]]></title>
     <link>https://listindiario.com/la-republica/provincias/20260613/muere-nino-siete-anos-incendio-apartamento-e-barahona_909633.html</link>
     <description><![CDATA[Un trágico incendio en un apartamento de alquiler temporal en el barrio de la Policía, Barahona, resultó en la muerte de un niño de siete años. El siniestro ocurrió alrededor de las 4:30 de la madrugada mientras varias personas, entre ellas ciudadanos dominicanos y extranjeros, se encontraban hospedadas en el lugar.
@@ -1319,18 +1331,6 @@ Los detenidos y el vehículo fueron trasladados a la sede de la 4ta. Brigada de 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780755401/autonoticias/articles/20260606_141641_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 06 Jun 2026 14:17:51 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260606141751</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fallece el veterano fotorreportero Franklin Guerrero]]></title>
-    <link>https://eldia.com.do/luto-en-la-prensa-dominicana-fallece-el-veterano-fotorreportero-franklin-guerrero/</link>
-    <description><![CDATA[El fotoreportero Franklin Guerrero ha fallecido este viernes en Santo Domingo, mientras recibía atención médica en Cedimat. Guerrero, reconocido por su estilo único en la cobertura de fuentes judiciales, políticas y de sucesos, dejó una marca en el periodismo dominicano.
-
-En su carrera, destacó por la "Foto-Crónica de la Semana", un segmento audiovisual en programas de investigación periodística de Nuria Piera, donde combinaba sus fotografías con narraciones descriptivas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780753537/autonoticias/articles/20260606_134536_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 06 Jun 2026 13:46:06 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260606134606</guid>
   </item>
 </channel>
 </rss>
