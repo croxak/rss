@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 13 Jun 2026 18:45:59 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 20:15:59 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Harden enfrenta cargos tras ser detenido con un arma visible en su vehículo]]></title>
+    <link>https://n.com.do/2026/06/13/james-harden-arrestado-texas-portacion-ilegal-arma/</link>
+    <description><![CDATA[James Harden, jugador de la NBA, fue arrestado en Texas por presunta portación ilegal de armas. La policía encontró una pistola visible en su vehículo. Tras ser liberado bajo fianza, Harden deberá comparecer en tribunal el 22 de junio.
+
+Como parte de su libertad bajo fianza, tiene prohibido poseer armas y municiones, así como consumir alcohol o drogas sin prescripción médica. También deberá someterse a pruebas aleatorias de orina.
+
+Harden llega a este episodio tras la eliminación de su equipo ante los New York Knicks en las finales de la Conferencia Este. Promedió 20 puntos, 4,9 rebotes y 6,8 asistencias en la temporada.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781381729/autonoticias/articles/20260613_201529_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 13 Jun 2026 20:15:59 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260613201559</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Autoridades profundizan pesquisas en apartamento donde fueron hallados muertos madre e hijo en Piantini]]></title>
     <link>https://n.com.do/2026/06/13/autoridades-profundizan-pesquisas-en-apartamento-donde-fueron-hallados-muertos-madre-e-hijo-en-piantini/</link>
     <description><![CDATA[Las autoridades continúan investigando las muertes de Juliza Serrán Guzmán y su hijo Yadhir Nael Cornelio en el ensanche Piantini. Miembros del Ministerio Público, DICRIM y Salud Pública realizaron nuevos levantamientos de evidencias en el apartamento.
@@ -1317,20 +1331,6 @@ Indomet exhorta a la población a seguir los boletines oficiales y las recomenda
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780778447/autonoticias/articles/20260606_204047_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 06 Jun 2026 21:15:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260606211500</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Encuentran sin vida a hombre que había sido reportado como desaparecido en Sabana Grande de Boyá]]></title>
-    <link>https://panorama.com.do/encuentran-sin-vida-a-hombre-que-habia-sido-reportado-como-desaparecido-en-sabana-grande-de-boya/</link>
-    <description><![CDATA[Juan de Dios Delisma, de 54 años, fue encontrado sin vida en Sabana Grande de Boyá tras haber sido reportado como desaparecido desde el viernes. Su cuerpo fue hallado en una zanja en el sector Las Cañitas.
-
-Delisma se dedicaba a la recolección y venta de botellas reciclables y padecía de epilepsia. Se presume que pudo haber sufrido un episodio relacionado con su condición médica, pero las circunstancias exactas de su fallecimiento aún no han sido determinadas oficialmente.
-
-Las autoridades están a cargo de las investigaciones para establecer la causa de muerte.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780778500/autonoticias/articles/20260606_204139_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 06 Jun 2026 20:43:20 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260606204320</guid>
   </item>
 </channel>
 </rss>
