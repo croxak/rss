@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 13 Jun 2026 17:48:41 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 17:52:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Abinader supervisa el monorriel; anuncia estará listo diciembre]]></title>
+    <link>https://www.elcaribe.com.do/panorama/region-norte/abinader-supervisa-el-monorriel-anuncia-estara-listo-diciembre/</link>
+    <description><![CDATA[El presidente Luis Abinader supervisó el monorriel de Santiago, que se espera esté operativo en diciembre. Jhael Isa Tavárez, director del Fitram, destacó un avance del 92.6% en la obra, con la fabricación total de elementos estructurales y la instalación de pilotes y vigas.
+
+Abinader también inauguró el remozamiento del hospital periférico Monte Adentro y el techado de Los Ciruelitos, mejorando la infraestructura de salud y deportiva en Santiago. Se anunció que el Hospital de Licey al Medio podría ser entregado en septiembre.
+
+El monorriel de Santiago busca transportar 20,000 pasajeros por hora por sentido, transformando el sistema de transporte urbano en la capital del Cibao.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781372994/autonoticias/articles/20260613_174953_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 13 Jun 2026 17:52:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260613175214</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministro de Defensa recibe delegación del Comando Sur de los Estados Unidos para fortalecer cooperación bilateral]]></title>
     <link>https://panorama.com.do/ministro-de-defensa-recibe-delegacion-del-comando-sur-de-los-estados-unidos-para-fortalecer-cooperacion-bilateral/</link>
     <description><![CDATA[El ministro de Defensa, teniente general Carlos Antonio Fernández Onofre, recibió a una delegación del Comando Sur de los Estados Unidos, liderada por el teniente general Evan Pettus y el sargento mayor Rafael Rodríguez.
@@ -1319,18 +1333,6 @@ Franklin Guerrero, quien falleció el viernes 5 de junio a los 71 años, fue un 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780768247/autonoticias/articles/20260606_175046_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 06 Jun 2026 17:51:10 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260606175110</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Instituto Duartiano accionará legalmente por uso de la bandera nacional en funeral de un civil]]></title>
-    <link>https://n.com.do/2026/06/06/instituto-duartiano-accionara-legalmente-por-uso-de-la-bandera-nacional-en-funeral-de-un-civil/</link>
-    <description><![CDATA[El Instituto Duartiano anunció acciones legales por el uso indebido de la bandera nacional en el funeral de Luis Miguel Martínez Agramonte en San Francisco de Macorís. Wilson Gómez Ramírez, presidente del instituto, calificó el acto como un ultraje a un símbolo patrio.
-
-La Ley 210-19 establece que solo ciertos ciudadanos pueden recibir un homenaje póstumo con la bandera nacional. Gómez Ramírez criticó la falta de intervención de los agentes policiales presentes y espera sanciones ejemplares.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780758625/autonoticias/articles/20260606_151024_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 06 Jun 2026 15:11:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260606151114</guid>
   </item>
 </channel>
 </rss>
