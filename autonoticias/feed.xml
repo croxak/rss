@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 13 Jun 2026 20:54:48 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 21:27:25 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Presidente Abinader exhorta a estudiantes a prepararse en inglés, tecnología y valores para alcanzar el éxito]]></title>
+    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-exhorta-estudiantes-prepararse-en-ingles-tecnologia-y-valores-para</link>
+    <description><![CDATA[El presidente Luis Abinader reafirmó su compromiso con el fortalecimiento del sistema educativo dominicano en un encuentro con estudiantes en Santiago. Destacó inversiones en infraestructura escolar, tecnología y transporte estudiantil.
+
+Abinader exhortó a los jóvenes a prepararse en inglés, tecnología y valores para alcanzar el éxito. Anunció la entrega de equipos tecnológicos a estudiantes y la construcción de nuevas aulas.
+
+El ministro de Educación, Luis Miguel De Camps, informó sobre la Estrategia Nacional de Educación en Competencias Digitales, que se implementará el próximo año escolar.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781386007/autonoticias/articles/20260613_212646_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 13 Jun 2026 21:27:25 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260613212725</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Pepca arresta a diez en Santiago por presunto desvío de fondos en Centro Oncológico]]></title>
     <link>https://noticiassin.com/pais/justicia/2026/06/13/pepca-arresta-a-10-por-desvio-de-fondos-en-santiago-2027748/</link>
     <description><![CDATA[Diez personas fueron arrestadas en Santiago por la Pepca en una investigación sobre presuntas irregularidades en el Instituto Oncológico Regional del Cibao.
@@ -1313,20 +1327,6 @@ El hospital informó que se hicieron todos los esfuerzos posibles para salvar su
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780840772/autonoticias/articles/20260607_135932_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 07 Jun 2026 14:02:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260607140202</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Faride Raful valora aprobación de Alerta RD como un paso decisivo para proteger vidas]]></title>
-    <link>https://eldia.com.do/faride-raful-valora-aprobacion-de-alerta-rd-como-un-paso-decisivo-para-proteger-vidas/</link>
-    <description><![CDATA[Faride Raful, ministra de Interior y Policía, destacó la aprobación de la Ley 25-26, que crea el sistema Alerta RD para mejorar la respuesta ante desapariciones. La ley también establece el Consejo Nacional para la Búsqueda de Personas Desaparecidas.
-
-La activación de alertas se realizará conjuntamente entre la Policía Nacional y el Ministerio Público en un plazo de 24 horas tras recibir una denuncia. El sistema incluye la Alerta Amber para menores y la Alerta Rosa para mujeres en riesgo.
-
-El Consejo Nacional estará integrado por diversas instituciones, como la Procuraduría General, el Ministerio de Defensa y el Sistema 9-1-1, entre otras.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780840807/autonoticias/articles/20260607_140007_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 07 Jun 2026 14:01:46 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260607140146</guid>
   </item>
 </channel>
 </rss>
