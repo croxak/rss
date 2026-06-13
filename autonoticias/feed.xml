@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 13 Jun 2026 14:53:52 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 14:54:07 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Ejército localiza 16 indocumentados en centro de acopio en Dajabón]]></title>
+    <link>https://panorama.com.do/ejercito-localiza-16-indocumentados-en-centro-de-acopio-en-dajabon/</link>
+    <description><![CDATA[El Ejército de República Dominicana detuvo a dieciséis nacionales haitianos en condición migratoria irregular en Dajabón. La intervención se realizó en una propiedad abandonada en la comunidad de La Fe, utilizada presuntamente como centro de acopio para el tráfico ilícito de indocumentados.
+
+Los soldados del 10mo. Batallón de Infantería Fortaleza Beller encontraron a trece hombres y tres mujeres sin documentos legales. Los detenidos fueron entregados a la Dirección General de Migración para los procedimientos correspondientes.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781362317/autonoticias/articles/20260613_145156_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 13 Jun 2026 14:54:07 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260613145407</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece hombre que resultó herido en accidente con un vehículo de la avanzada presidencial]]></title>
     <link>https://noticiassin.com/pais/provincias/2026/06/13/muere-hombre-herido-en-accidente-con-avanzada-presidencial-2027592/</link>
     <description><![CDATA[Ariel Silverio Rodríguez falleció en Santo Domingo después de resultar gravemente herido en un accidente de tránsito en abril en la carretera Puerto Plata-Imbert. El accidente involucró a un vehículo de la avanzada presidencial.
@@ -1323,18 +1335,6 @@ En febrero, una menor falleció en La Otra Banda por electrocución al usar su c
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780692364/autonoticias/articles/20260605_204603_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 05 Jun 2026 21:20:49 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260605212049</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ejército intercepta a 23 migrantes haitianos indocumentados en Dajabón]]></title>
-    <link>https://n.com.do/2026/06/05/ejercito-intercepta-a-23-migrantes-haitianos-indocumentados-en-dajabon/</link>
-    <description><![CDATA[El Ejército de República Dominicana detuvo a 23 migrantes haitianos indocumentados en Dajabón. La operación se llevó a cabo gracias a un sistema de vigilancia aérea con drones que detectó al grupo cerca de la pirámide fronteriza número 25.
-
-Entre los detenidos se encuentran 18 hombres, cuatro mujeres y un menor de edad. Todos fueron trasladados al Décimo Batallón de Infantería para los procedimientos correspondientes antes de ser entregados a la Dirección General de Migración.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780685824/autonoticias/articles/20260605_185703_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 05 Jun 2026 19:00:53 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260605190053</guid>
   </item>
 </channel>
 </rss>
