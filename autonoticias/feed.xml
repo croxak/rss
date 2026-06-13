@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 13 Jun 2026 14:54:55 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 14:55:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Hombre habría citado a su exesposa en una cabaña antes de presunto feminicidio-suicidio en Nagua]]></title>
+    <link>https://n.com.do/2026/06/13/hombre-habria-citado-a-su-exesposa-en-una-cabana-antes-de-presunto-feminicidio-suicidio-en-nagua/</link>
+    <description><![CDATA[Un presunto feminicidio-suicidio está siendo investigado por las autoridades en Nagua. Berkis María Lantigua y Héctor Rafael Hernández fueron hallados sin vida en una cabaña. Según versiones, Hernández habría convencido a su exesposa de reunirse con él antes de atacarla con un arma blanca y luego quitarse la vida.
+
+La Policía Nacional y el Ministerio Público están a cargo de las investigaciones. Los cuerpos fueron trasladados al INACIF para determinar las causas de muerte.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781362256/autonoticias/articles/20260613_145056_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 13 Jun 2026 14:55:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260613145520</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Anthropic suspende acceso a su modelo más avanzado por orden de seguridad nacional de EE. UU.]]></title>
     <link>https://www.diariolibre.com/usa/actualidad/2026/06/13/anthropic-restringe-modelo-mas-avanzado-por-orden-de-ee-uu/3565714</link>
     <description><![CDATA[Anthropic ha suspendido el acceso a sus modelos de inteligencia artificial Fable 5 y Mythos 5. La decisión responde a una directiva de control de exportaciones de la Administración de Trump que busca impedir el acceso a extranjeros por motivos de seguridad nacional.
@@ -1321,20 +1333,6 @@ La Comisión destacó el compromiso de los docentes y demás actores involucrado
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780703904/autonoticias/articles/20260605_235823_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 06 Jun 2026 00:00:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260606000031</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Precios de principales combustibles seguirán sin variación esta semana]]></title>
-    <link>https://panorama.com.do/precios-de-principales-combustibles-seguiran-sin-variacion-avtur-y-kerosene-bajan/</link>
-    <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes (MICM) ha decidido mantener sin cambios los precios de los principales combustibles en República Dominicana durante la semana del 6 al 12 de junio de 2026. Esto se logra mediante un subsidio de RD$780.3 millones.
-
-Además, se han anunciado rebajas en varios derivados del petróleo. El avtur disminuirá RD$5.90 por galón, el kerosene RD$6.40, el fuel oíl RD$5.22 y el fuel oíl 1%S RD$7.72.
-
-El Gobierno está absorbiendo parte del costo real de los combustibles, con subsidios que superan los RD$18 mil millones en el año. Los precios para la semana serán: gasolina premium a RD$335.10 por galón, gasolina regular a RD$307.50, gasoil regular a RD$259.80, gasoil óptimo a RD$287.10 y GLP a RD$137.20.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780694473/autonoticias/articles/20260605_212112_article.png" type="image/png"/>
-    <pubDate>Fri, 05 Jun 2026 21:23:36 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260605212336</guid>
   </item>
 </channel>
 </rss>
