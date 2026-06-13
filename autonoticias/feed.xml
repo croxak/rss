@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 11 Jun 2026 16:12:57 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 05:18:58 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Trump anuncia la muerte del 'Niño Guerrero', el líder de banda venezolana Tren de Aragua]]></title>
+    <link>https://panorama.com.do/trump-anuncia-la-muerte-del-nino-guerrero-el-lider-de-banda-venezolana-tren-de-aragua/</link>
+    <description><![CDATA[Donald Trump anunció la muerte de Héctor Guerrero Flores, alias ‘Niño Guerrero’, líder del Tren de Aragua. Según Trump, el Comando Sur de EE.UU. realizó un ataque coordinado con Venezuela.
+
+Guerrero fue sancionado en 2025 y estaba prófugo desde 2023. Trump declaró al Tren de Aragua como organización terrorista extranjera.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781327911/autonoticias/articles/20260613_051831_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 13 Jun 2026 05:18:58 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260613051858</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fenómeno El Niño se forma en el Pacífico con previsión de ser «muy fuerte», avisa EE. UU.]]></title>
     <link>https://elnuevodiario.com.do/el-fenomeno-el-nino-se-forma-en-el-pacifico-con-prevision-de-ser-muy-fuerte-avisa-ee-uu/</link>
     <description><![CDATA[El fenómeno El Niño se ha formado en el Pacífico tropical y se espera que sea "muy fuerte" y prolongado, según la NOAA. Se prevé que las temperaturas de la superficie marítima superen los 2 grados centígrados sobre lo usual.
@@ -1319,20 +1331,6 @@ El Pentágono publicó vídeos y fotografías de la operación, reafirmando su c
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780680421/autonoticias/articles/20260605_172700_article.webp" type="image/jpeg"/>
     <pubDate>Fri, 05 Jun 2026 17:27:37 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260605172737</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Hugo Beras dice que está "confiado en la justicia” al ser enviado a juicio de fondo por caso Intrant]]></title>
-    <link>https://listindiario.com/la-republica/justicia/20260605/hugo-beras-enviado-juicio-fondo-supuesta-corrupcion-confiado-justicia_908593.html</link>
-    <description><![CDATA[Hugo Beras, exdirector del Intrant, ha sido enviado a juicio de fondo por un supuesto entramado de corrupción. El caso involucra un contrato de más de RD$1,300 millones con Transcore Latam.
-
-Beras manifestó su confianza en la justicia. Su abogada, Laura Acosta, subrayó que la decisión no implica culpabilidad y elogió el trabajo de la jueza Yenibet Rivas.
-
-Otros implicados, como José Gómez Canaán y varios exfuncionarios del Intrant, también enfrentarán juicio.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780675528/autonoticias/articles/20260605_160528_article.png" type="image/png"/>
-    <pubDate>Fri, 05 Jun 2026 17:25:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260605172541</guid>
   </item>
 </channel>
 </rss>
