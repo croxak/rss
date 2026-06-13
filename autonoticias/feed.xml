@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 13 Jun 2026 20:15:59 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 20:18:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Abinader encabezará Consejo de Ministros e inaugurará obras deportivas y de agua potable en Santiago]]></title>
+    <link>https://eldia.com.do/abinader-encabezara-consejo-de-ministros-e-inaugurara-obras-deportivas-y-de-agua-potable-en-santiago/</link>
+    <description><![CDATA[El presidente Luis Abinader continuará su agenda de trabajo en Santiago este domingo, encabezando un Consejo de Ministros en el Jardín Botánico. 
+
+Además, inaugurará el techado del Club Deportivo Domingo Paulino y pondrá en funcionamiento una estación de bombeo de agua potable en Villa Hortensia.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781381716/autonoticias/articles/20260613_201516_article.png" type="image/png"/>
+    <pubDate>Sat, 13 Jun 2026 20:18:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260613201832</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Harden enfrenta cargos tras ser detenido con un arma visible en su vehículo]]></title>
     <link>https://n.com.do/2026/06/13/james-harden-arrestado-texas-portacion-ilegal-arma/</link>
     <description><![CDATA[James Harden, jugador de la NBA, fue arrestado en Texas por presunta portación ilegal de armas. La policía encontró una pistola visible en su vehículo. Tras ser liberado bajo fianza, Harden deberá comparecer en tribunal el 22 de junio.
@@ -1315,22 +1327,6 @@ La nueva orden de arresto no detalla los motivos, pero el caso sigue generando a
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780785557/autonoticias/articles/20260606_223916_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 06 Jun 2026 22:41:29 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260606224129</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Lluvias continuarán durante el fin de semana; Indomet llama a tomar precaución ante posibles inundaciones]]></title>
-    <link>https://robertocavada.com/lluvias-continuaran-durante-el-fin-de-semana-indomet-llama-a-tomar-precaucion-ante-posibles-inundaciones/</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) ha anunciado que las lluvias continuarán durante el fin de semana debido a una vaguada prefrontal y una onda tropical. Estas condiciones afectarán gran parte del territorio nacional con aguaceros moderados a fuertes, tormentas eléctricas y ráfagas de viento.
-
-Indomet ha emitido alertas meteorológicas: alerta amarilla para varias provincias, incluyendo Santo Domingo y Santiago, y alerta verde para otras como Pedernales y La Vega.
-
-Se espera que las lluvias continúen en el Gran Santo Domingo, especialmente en Santo Domingo Este, y se trasladen al Distrito Nacional y otras áreas. El domingo, las lluvias persistirán, y el lunes se prevé una disminución de las precipitaciones.
-
-Indomet exhorta a la población a seguir los boletines oficiales y las recomendaciones de los organismos de protección civil.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780778447/autonoticias/articles/20260606_204047_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 06 Jun 2026 21:15:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260606211500</guid>
   </item>
 </channel>
 </rss>
