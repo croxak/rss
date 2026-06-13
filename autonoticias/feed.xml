@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 13 Jun 2026 17:52:50 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 18:40:21 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[COE descontinúa alerta en 12 provincias; tres permanecen en alerta verde]]></title>
+    <link>https://eldia.com.do/coe-descontinua-alerta-en-12-provincias-tres-permanecen-en-alerta-verde/</link>
+    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha descontinuado las alertas en 12 provincias, pero mantiene a Dajabón, Santiago Rodríguez y Elías Piña en alerta verde. Se esperan chubascos aislados y tronadas en algunas localidades del noreste y la cordillera Central.
+
+El COE recomienda a la población evitar cruzar ríos y usar balnearios en las provincias bajo alerta. Además, se advierte sobre las concentraciones de polvo del Sahara que afectan la calidad del aire y la salud.
+
+Se sugiere ingerir suficientes líquidos, vestir ropa ligera y evitar la exposición prolongada al sol entre las 11:00 a. m. y las 4:00 p. m.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781375242/autonoticias/articles/20260613_182721_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 13 Jun 2026 18:40:21 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260613184021</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Allanan y arrestan a exdirectivos del Oncológico de Santiago]]></title>
     <link>https://noticiassin.com/pais/provincias/2026/06/13/arrestan-exdirectivos-del-oncologico-de-santiago-2027671/</link>
     <description><![CDATA[La madrugada de este sábado, el Ministerio Público llevó a cabo allanamientos y arrestos de exdirectivos del Instituto Oncológico Regional del Cibao en Santiago. Entre los detenidos se encuentran Héctor Lora, Luisa Guzmán y Dilcia Vargas.
@@ -1319,20 +1333,6 @@ Leonardo Aguilera, presidente ejecutivo de Banreservas, instó a los egresados a
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780778410/autonoticias/articles/20260606_204009_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 06 Jun 2026 20:41:18 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260606204118</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Productores de mango advierten que el país exporta menos de la mitad de su producción]]></title>
-    <link>https://panorama.com.do/productores-de-mango-advierten-que-el-pais-exporta-menos-de-la-mitad-de-su-produccion/</link>
-    <description><![CDATA[República Dominicana produce entre 4,500 y 5,000 contenedores de mango al año, pero solo exporta entre 1,700 y 1,800, según Germán Báez, presidente de la Asociación de Productores de Mango. Esta brecha genera pérdidas significativas para los productores.
-
-Báez destacó la necesidad de fortalecer los mecanismos de comercialización y ampliar el acceso a mercados internacionales. Las exportaciones a menudo se realizan bajo acuerdos de consignación, lo que puede resultar en engaños.
-
-Expo Mango 2026 ha crecido, ofreciendo más espacios para expositores y actividades culturales y técnicas. La feria es una de las principales actividades agropecuarias del país.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780778431/autonoticias/articles/20260606_204031_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 06 Jun 2026 20:41:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260606204105</guid>
   </item>
 </channel>
 </rss>
