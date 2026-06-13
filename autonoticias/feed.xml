@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 13 Jun 2026 20:54:01 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 20:54:48 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Pepca arresta a diez en Santiago por presunto desvío de fondos en Centro Oncológico]]></title>
+    <link>https://noticiassin.com/pais/justicia/2026/06/13/pepca-arresta-a-10-por-desvio-de-fondos-en-santiago-2027748/</link>
+    <description><![CDATA[Diez personas fueron arrestadas en Santiago por la Pepca en una investigación sobre presuntas irregularidades en el Instituto Oncológico Regional del Cibao.
+
+Entre los detenidos están Héctor Lora, Luisa Guzmán y Dilcia Isabel Vargas. Las autoridades aún no han detallado los posibles cargos.
+
+Los detenidos permanecen bajo custodia en la sede regional de la Policía Nacional en Santiago. Sus abogados han reconocido la existencia de una querella en curso.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781384063/autonoticias/articles/20260613_205423_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 13 Jun 2026 20:54:48 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260613205448</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Secuestran al inspector general de la policía de Haití]]></title>
     <link>https://www.diariolibre.com/mundo/haiti/2026/06/13/secuestran-al-inspector-general-de-policia-de-haiti/3565981</link>
     <description><![CDATA[James Boyard, director de gabinete del Ministerio de Defensa de Haití e inspector general de la Policía Nacional, fue secuestrado por hombres armados en Bourdon, Puerto Príncipe. Este es el secuestro de más alto perfil en los últimos años en el país.
@@ -1313,18 +1327,6 @@ El Consejo Nacional estará integrado por diversas instituciones, como la Procur
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780840807/autonoticias/articles/20260607_140007_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 07 Jun 2026 14:01:46 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260607140146</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Arrestan a mujer por intentar introducir sustancia prohibida en la cárcel de Las Parras]]></title>
-    <link>https://eldia.com.do/arrestan-a-mujer-por-intentar-introducir-sustancia-prohibida-en-la-carcel-de-las-parras/</link>
-    <description><![CDATA[Una mujer fue detenida en la cárcel Las Parras por intentar ingresar sustancias controladas, lo que provocó un intento de motín en el Centro de Corrección y Rehabilitación de San Antonio de Guerra. La mujer, acompañada de su hija de 11 años, fue arrestada durante el proceso de inspección.
-
-La Dirección General de Servicios Penitenciarios y Correccionales entregó a la detenida al Ministerio Público y mantiene su nombre en reserva para proteger la identidad de la niña. Las autoridades han iniciado las investigaciones correspondientes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780840842/autonoticias/articles/20260607_140041_article.png" type="image/png"/>
-    <pubDate>Sun, 07 Jun 2026 14:01:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260607140130</guid>
   </item>
 </channel>
 </rss>
