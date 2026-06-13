@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 13 Jun 2026 14:54:07 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 14:54:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Anthropic suspende acceso a su modelo más avanzado por orden de seguridad nacional de EE. UU.]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/06/13/anthropic-restringe-modelo-mas-avanzado-por-orden-de-ee-uu/3565714</link>
+    <description><![CDATA[Anthropic ha suspendido el acceso a sus modelos de inteligencia artificial Fable 5 y Mythos 5. La decisión responde a una directiva de control de exportaciones de la Administración de Trump que busca impedir el acceso a extranjeros por motivos de seguridad nacional.
+
+La compañía informó que no ha recibido detalles específicos sobre la amenaza que representan sus servicios. La suspensión se produjo poco después de que Fable 5 se ofreciera a sus suscriptores.
+
+Fable 5, basado en el modelo Mythos, fue considerado superior en habilidades y seguridad. Anthropic había alertado sobre los riesgos de Mythos en ciberseguridad y lo puso a disposición de empresas selectas bajo el Project Glasswing.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781362291/autonoticias/articles/20260613_145131_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 13 Jun 2026 14:54:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260613145455</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ejército localiza 16 indocumentados en centro de acopio en Dajabón]]></title>
     <link>https://panorama.com.do/ejercito-localiza-16-indocumentados-en-centro-de-acopio-en-dajabon/</link>
     <description><![CDATA[El Ejército de República Dominicana detuvo a dieciséis nacionales haitianos en condición migratoria irregular en Dajabón. La intervención se realizó en una propiedad abandonada en la comunidad de La Fe, utilizada presuntamente como centro de acopio para el tráfico ilícito de indocumentados.
@@ -1321,20 +1335,6 @@ El Gobierno está absorbiendo parte del costo real de los combustibles, con subs
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780694473/autonoticias/articles/20260605_212112_article.png" type="image/png"/>
     <pubDate>Fri, 05 Jun 2026 21:23:36 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260605212336</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Edeeste recomienda evitar volar chichiguas en zonas cableadas y no usar equipos electrónicos mientras están siendo cargado]]></title>
-    <link>https://www.presidencia.gob.do/noticias/edeeste-recomienda-evitar-volar-chichiguas-en-zonas-cableadas-y-no-usar-equipos</link>
-    <description><![CDATA[Edeeste aconseja a sus clientes evitar volar chichiguas cerca de cables eléctricos y no usar dispositivos electrónicos mientras se cargan. Estas acciones pueden resultar en electrocuciones y quemaduras severas.
-
-La empresa también recomienda usar cables originales para cargar dispositivos y evitar hacerlo en superficies blandas. Recientemente, dos menores sufrieron quemaduras en Higüey al volar chichiguas que hicieron contacto con cables eléctricos.
-
-En febrero, una menor falleció en La Otra Banda por electrocución al usar su celular en una silla de metal. Edeeste busca concientizar sobre el uso seguro del servicio energético.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780692364/autonoticias/articles/20260605_204603_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 05 Jun 2026 21:20:49 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260605212049</guid>
   </item>
 </channel>
 </rss>
