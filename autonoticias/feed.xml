@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 13 Jun 2026 20:18:32 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 20:54:01 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Secuestran al inspector general de la policía de Haití]]></title>
+    <link>https://www.diariolibre.com/mundo/haiti/2026/06/13/secuestran-al-inspector-general-de-policia-de-haiti/3565981</link>
+    <description><![CDATA[James Boyard, director de gabinete del Ministerio de Defensa de Haití e inspector general de la Policía Nacional, fue secuestrado por hombres armados en Bourdon, Puerto Príncipe. Este es el secuestro de más alto perfil en los últimos años en el país.
+
+La violencia de las pandillas en Haití sigue en aumento, con cerca del 70 % de la capital bajo control de la coalición Viv Ansanm. No se ha informado sobre los responsables del secuestro de Boyard ni si se ha exigido rescate.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781384016/autonoticias/articles/20260613_205336_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 13 Jun 2026 20:54:01 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260613205401</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader encabezará Consejo de Ministros e inaugurará obras deportivas y de agua potable en Santiago]]></title>
     <link>https://eldia.com.do/abinader-encabezara-consejo-de-ministros-e-inaugurara-obras-deportivas-y-de-agua-potable-en-santiago/</link>
     <description><![CDATA[El presidente Luis Abinader continuará su agenda de trabajo en Santiago este domingo, encabezando un Consejo de Ministros en el Jardín Botánico. 
@@ -1313,20 +1325,6 @@ La Dirección General de Servicios Penitenciarios y Correccionales entregó a la
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780840842/autonoticias/articles/20260607_140041_article.png" type="image/png"/>
     <pubDate>Sun, 07 Jun 2026 14:01:30 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260607140130</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[DICRIM activa búsqueda y captura de “Mantequilla”; lo califican como altamente peligroso]]></title>
-    <link>https://panorama.com.do/dicrim-activa-busqueda-y-captura-de-mantequilla-lo-califican-como-altamente-peligroso/</link>
-    <description><![CDATA[La Dirección Central de Investigación (DICRIM) ha activado la búsqueda y captura de Wilkin García Peguero, conocido como “Mantequilla”, por presuntas violaciones al Código Penal. Las autoridades lo consideran "altamente peligroso" y solicitan la colaboración ciudadana para su localización.
-
-García Peguero alcanzó notoriedad en 2022 con el esquema de inversiones 3.14 Inversiones World Wide, señalado como piramidal. En marzo de 2024, fue condenado a dos años de prisión por abuso de confianza, con disposiciones para devolver fondos a las víctimas.
-
-La nueva orden de arresto no detalla los motivos, pero el caso sigue generando atención pública debido al impacto del esquema financiero y las denuncias en su contra.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780785557/autonoticias/articles/20260606_223916_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 06 Jun 2026 22:41:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260606224129</guid>
   </item>
 </channel>
 </rss>
