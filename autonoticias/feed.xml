@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 13 Jun 2026 17:52:14 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 13 Jun 2026 17:52:50 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Allanan y arrestan a exdirectivos del Oncológico de Santiago]]></title>
+    <link>https://noticiassin.com/pais/provincias/2026/06/13/arrestan-exdirectivos-del-oncologico-de-santiago-2027671/</link>
+    <description><![CDATA[La madrugada de este sábado, el Ministerio Público llevó a cabo allanamientos y arrestos de exdirectivos del Instituto Oncológico Regional del Cibao en Santiago. Entre los detenidos se encuentran Héctor Lora, Luisa Guzmán y Dilcia Vargas.
+
+Los arrestos han generado cuestionamientos entre familiares y allegados, quienes sostienen que la medida ocurre en medio de un conflicto judicial y administrativo con la actual gestión del centro de salud. Hasta el momento, las autoridades no han ofrecido detalles sobre los fundamentos de los allanamientos ni sobre los cargos que podrían sustentar las detenciones.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781373144/autonoticias/articles/20260613_175223_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 13 Jun 2026 17:52:50 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260613175250</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader supervisa el monorriel; anuncia estará listo diciembre]]></title>
     <link>https://www.elcaribe.com.do/panorama/region-norte/abinader-supervisa-el-monorriel-anuncia-estara-listo-diciembre/</link>
     <description><![CDATA[El presidente Luis Abinader supervisó el monorriel de Santiago, que se espera esté operativo en diciembre. Jhael Isa Tavárez, director del Fitram, destacó un avance del 92.6% en la obra, con la fabricación total de elementos estructurales y la instalación de pilotes y vigas.
@@ -1321,18 +1333,6 @@ Expo Mango 2026 ha crecido, ofreciendo más espacios para expositores y activida
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780778431/autonoticias/articles/20260606_204031_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 06 Jun 2026 20:41:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260606204105</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Restos de Franklin Guerrero serán expuestos en Jardín Memorial]]></title>
-    <link>https://www.elcaribe.com.do/gente/restos-de-franklin-guerrero-seran-expuestos-en-jardin-memorial/</link>
-    <description><![CDATA[Los restos del periodista Franklin Guerrero serán expuestos en el Jardín Memorial este fin de semana. Las honras fúnebres comenzarán el sábado 6 de junio de 4:00 p.m. a 9:00 p.m. y continuarán el domingo 7 desde las 9:00 a.m. La misa de cuerpo presente será el domingo a la 1:00 p.m., seguida del sepelio a las 2:30 p.m.
-
-Franklin Guerrero, quien falleció el viernes 5 de junio a los 71 años, fue un destacado reportero gráfico. Su trabajo en la foto-crónica del programa de Nuria Piera lo hizo reconocido en el ámbito periodístico. Aunque se formó como odontólogo, encontró su verdadera vocación en el periodismo gráfico.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780768247/autonoticias/articles/20260606_175046_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 06 Jun 2026 17:51:10 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260606175110</guid>
   </item>
 </channel>
 </rss>
