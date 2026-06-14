@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 14 Jun 2026 22:36:02 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 14 Jun 2026 22:36:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Papa León podría visitar República Dominicana en 2027]]></title>
+    <link>https://panorama.com.do/papa-leon-podria-visitar-republica-dominicana-en-2027/</link>
+    <description><![CDATA[El papa León XIV podría visitar la República Dominicana en 2027. Así lo afirmó el arzobispo coadjutor de Santo Domingo, Carlos Tomás Morel Diplán, quien aseguró que el papa prometió "hacer lo posible" para incluir al país en su agenda.
+
+Morel Diplán destacó la importancia de que la Iglesia dominicana sea visible y recordó que desde 1992 no ha habido una visita papal al país. También mencionó que el papa mostró interés en visitar el Caribe, incluyendo Puerto Rico, Cuba y Haití.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781476441/autonoticias/articles/20260614_223401_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 14 Jun 2026 22:36:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260614223615</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministro de Obras Públicas anuncia la entrega de la Circunvalación de Navarrete en septiembre]]></title>
     <link>https://eldia.com.do/ministro-de-obras-publicas-anuncia-la-entrega-de-la-circunvalacion-de-navarrete-en-septiembre/</link>
     <description><![CDATA[El ministro de Obras Públicas, Eduardo Estrella, anunció la entrega de la Circunvalación de Navarrete entre septiembre y octubre. Esta obra, con una inversión de RD$12,000 millones, beneficiará a las provincias de la Línea Noroeste y fortalecerá la conexión con el Puerto de Manzanillo.
@@ -1317,20 +1329,6 @@ Rodríguez llegó a Turquía desde India, acompañada por varios ministros venez
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780935241/autonoticias/articles/20260608_161401_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 08 Jun 2026 16:14:47 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260608161447</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Padre Rogelio cree presión social empujará juicio de fondo en caso Jet Set: “Nos conviene es que se haga justicia”]]></title>
-    <link>https://n.com.do/2026/06/08/padre-rogelio-caso-jet-set-ira-juicio-fondo-presion-social/</link>
-    <description><![CDATA[El padre Rogelio Cruz considera que la presión social podría impulsar el juicio de fondo en el caso del colapso del techo de la discoteca Jet Set, que dejó 236 fallecidos. Según Cruz, tanto los imputados como las autoridades enfrentan un fuerte escrutinio público.
-
-El sacerdote afirmó que los familiares de las víctimas han pasado de pedir justicia a exigirla, y respaldó los esfuerzos del movimiento Justicia por Jet Set. También sugirió revisar las medidas de coerción para los hermanos Antonio y Maribel Espaillat, imputados en el caso.
-
-Cruz indicó que una eventual condena debería considerar la cantidad de víctimas mortales. El impacto de la tragedia sigue presente en la sociedad dominicana, generando una fuerte reacción entre la población.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780935143/autonoticias/articles/20260608_161223_article.png" type="image/png"/>
-    <pubDate>Mon, 08 Jun 2026 16:13:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260608161340</guid>
   </item>
 </channel>
 </rss>
