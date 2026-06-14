@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 14 Jun 2026 16:48:28 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 14 Jun 2026 16:56:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Policía apresa a presuntos responsables de la muerte de capitán del ERD en Villa Altagracia]]></title>
+    <link>https://eldia.com.do/policia-apresa-a-presuntos-responsables-de-la-muerte-de-capitan-del-erd-en-villa-altagracia/</link>
+    <description><![CDATA[La Policía Nacional ha arrestado a Luismi Sánchez Sánchez "El Ruso" y José Luis Alcántara Lebrón "Trimbi", señalados como presuntos responsables de la muerte del capitán del Ejército de la República Dominicana, Oliver Octavio Ogando Suero, en Villa Altagracia.
+
+Durante el arresto, se ocuparon dos armas de fuego a Sánchez Sánchez, una de las cuales pertenecía al oficial fallecido. Las investigaciones preliminares sugieren que el capitán fue herido mortalmente durante un conflicto.
+
+Las autoridades siguen investigando para esclarecer los hechos y determinar responsabilidades. Los detenidos serán puestos a disposición del Ministerio Público.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781456135/autonoticias/articles/20260614_165535_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 14 Jun 2026 16:56:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260614165615</guid>
+  </item>
+
+  <item>
     <title><![CDATA[MP pone en marcha la Operación Onco14 para procesar estructura fraudulenta que cometió crímenes en contra de pacientes de cáncer y del SeNaSa]]></title>
     <link>https://pgr.gob.do/ministerio-publico-pone-en-marcha-la-operacion-onco14-para-procesar-estructura-fraudulenta-que-cometio-crimenes-en-contra-de-pacientes-de-cancer-y-del-senasa/</link>
     <description><![CDATA[El Ministerio Público ha lanzado la Operación Onco14, arrestando a tres exdirectivos del Patronato Cibaeño Contra el Cáncer por fraude millonario.
@@ -1317,18 +1331,6 @@ Castillo ha manifestado su intención de buscar nuevamente la candidatura presid
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780879756/autonoticias/articles/20260608_004916_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 08 Jun 2026 00:49:45 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260608004945</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[COE mantiene siete provincias en alerta verde por vaguada y onda tropical]]></title>
-    <link>https://eldia.com.do/coe-mantiene-siete-provincias-en-alerta-verde-por-vaguada-y-onda-tropical/</link>
-    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) informó que siete provincias están en alerta verde por una vaguada y una onda tropical. Las provincias afectadas son Barahona, Santiago Rodríguez, Dajabón, Puerto Plata, Santiago, Valverde y Monte Cristi.
-
-Se esperan aguaceros fuertes, tormentas eléctricas y ráfagas de viento. El COE exhorta a la población a seguir los boletines oficiales y evitar cruzar ríos o usar balnearios en las provincias bajo alerta.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780879621/autonoticias/articles/20260608_004701_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 08 Jun 2026 00:48:17 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260608004817</guid>
   </item>
 </channel>
 </rss>
