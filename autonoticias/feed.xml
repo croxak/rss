@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 14 Jun 2026 18:47:54 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 14 Jun 2026 22:30:38 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Presidente Abinader encabeza Consejo de Ministros en Santiago]]></title>
+    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-encabeza-consejo-de-ministros-en-santiago</link>
+    <description><![CDATA[El presidente Luis Abinader y la vicepresidenta Raquel Peña encabezaron el Consejo de Ministros en el Jardín Botánico de Santiago, revisando más de 200 obras en la provincia.
+
+Entre las obras destacadas están la primera línea del Teleférico de Santiago, el acueducto de Navarrete y el proyecto de transformación integral de arroyo Gurabo.
+
+El ministro José Ignacio Paliza informó que la inversión pública en Santiago supera los RD 110,000 millones en cinco años, triplicando la de períodos anteriores.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781476216/autonoticias/articles/20260614_223016_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 14 Jun 2026 22:30:38 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260614223038</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía es asesinado a tiros dentro de una banca de lotería en Nagua]]></title>
     <link>https://noticiassin.com/sin-categoria/2026/06/14/policia-asesinado-a-tiros-en-banca-de-loteria-en-nagua-2027954/</link>
     <description><![CDATA[Un agente de la Policía Nacional fue asesinado a tiros dentro de una banca de lotería en Nagua. El uniformado recibió varios impactos de bala en la cabeza y falleció en el lugar.
@@ -1321,20 +1335,6 @@ La empresa agradeció la comprensión de los clientes y reiteró su compromiso d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780927038/autonoticias/articles/20260608_135718_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 08 Jun 2026 13:59:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260608135914</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[SNS interviene Hospital Taiwán de Azua y asume control de sus operaciones]]></title>
-    <link>https://n.com.do/2026/06/08/sns-interviene-hospital-taiwan-de-azua-y-asume-control-de-sus-operaciones/</link>
-    <description><![CDATA[El Servicio Nacional de Salud (SNS) ha intervenido el Hospital Regional Docente Taiwán 19 de Marzo en Azua. Julio Landrón, director del SNS, informó que la medida busca fortalecer la gestión y mejorar la calidad de los servicios ofrecidos.
-
-Durante una visita de supervisión sin previo aviso, Landrón recorrió el hospital para evaluar los servicios y las condiciones de atención. La intervención busca optimizar los procesos de atención y elevar los estándares de calidad.
-
-El SNS asume la administración operativa del hospital para garantizar servicios oportunos y de calidad, basados en la dignidad y la transparencia.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780927057/autonoticias/articles/20260608_135736_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 08 Jun 2026 13:58:59 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260608135859</guid>
   </item>
 </channel>
 </rss>
