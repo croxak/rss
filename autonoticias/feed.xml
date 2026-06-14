@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 13 Jun 2026 21:27:25 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 14 Jun 2026 00:15:18 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Trasladarán caja negra de avión en que fallecieron dos pilotos a EEUU para investigación]]></title>
+    <link>https://listindiario.com/la-republica/20260613/trasladaran-caja-negra-avion-fallecieron-dos-pilotos-eeuu-investigacion_909683.html</link>
+    <description><![CDATA[La caja negra del avión siniestrado en el que murieron los pilotos Erick Diago y Rudy Gahasal será enviada a Estados Unidos para su análisis. El accidente ocurrió en el Aeropuerto Internacional de La Romana durante una maniobra fallida de aterrizaje.
+
+La Comisión Investigadora de Accidentes de Aviación (CIAA), encabezada por el general retirado Pedro Alberto Peña, lidera el proceso de traslado del dispositivo. La caja negra es crucial para determinar las causas del accidente, ya que almacena información esencial del vuelo.
+
+Los investigadores continúan trabajando en el lugar del accidente, recopilando evidencias y fragmentos de la aeronave para establecer una secuencia precisa de los hechos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781396091/autonoticias/articles/20260614_001451_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 14 Jun 2026 00:15:18 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260614001518</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidente Abinader exhorta a estudiantes a prepararse en inglés, tecnología y valores para alcanzar el éxito]]></title>
     <link>https://www.presidencia.gob.do/noticias/presidente-abinader-exhorta-estudiantes-prepararse-en-ingles-tecnologia-y-valores-para</link>
     <description><![CDATA[El presidente Luis Abinader reafirmó su compromiso con el fortalecimiento del sistema educativo dominicano en un encuentro con estudiantes en Santiago. Destacó inversiones en infraestructura escolar, tecnología y transporte estudiantil.
@@ -1315,18 +1329,6 @@ La contienda está marcada por la división entre fujimorismo y antifujimorismo,
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780840760/autonoticias/articles/20260607_135920_article.webp" type="image/jpeg"/>
     <pubDate>Sun, 07 Jun 2026 14:02:18 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260607140218</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fallece el bailarín Iván Tejeda tras permanecer ingresado en el Hospital Darío Contreras]]></title>
-    <link>https://eldia.com.do/fallece-el-bailarin-ivan-tejeda-tras-permanecer-ingresado-en-el-hospital-dario-contreras/</link>
-    <description><![CDATA[Iván Tejada, reconocido coreógrafo y bailarín, falleció en el Hospital Universitario Docente Traumatológico Dr. Darío Contreras. Tejada había sido hospitalizado desde el 29 de mayo debido a un accidente de tránsito que le causó graves lesiones.
-
-El hospital informó que se hicieron todos los esfuerzos posibles para salvar su vida y expresó sus condolencias a familiares y amigos. Tejada tenía más de dos décadas de trayectoria artística y fue galardonado con premios como el Soberano.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780840772/autonoticias/articles/20260607_135932_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 07 Jun 2026 14:02:02 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260607140202</guid>
   </item>
 </channel>
 </rss>
