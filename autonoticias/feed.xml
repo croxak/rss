@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 14 Jun 2026 22:31:23 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 14 Jun 2026 22:31:36 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Trump anuncia que ha alcanzado un acuerdo con Irán para reabrir el estrecho de Ormuz]]></title>
+    <link>https://panorama.com.do/trump-anuncia-que-ha-alcanzado-un-acuerdo-con-iran-para-reabrir-el-estrecho-de-ormuz/</link>
+    <description><![CDATA[El presidente de Estados Unidos, Donald Trump, ha anunciado un acuerdo con Irán para reabrir el estrecho de Ormuz después de más de tres meses de guerra.
+
+Desde Islamabad, el primer ministro de Pakistán, Shehbaz Sharif, confirmó un acuerdo de paz entre Estados Unidos e Irán que finaliza el conflicto armado en Oriente Medio.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781476269/autonoticias/articles/20260614_223109_article.webp" type="image/jpeg"/>
+    <pubDate>Sun, 14 Jun 2026 22:31:36 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260614223136</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El oro pierde un 25 % desde máximos y se anota la caída más rápida desde la gran crisis]]></title>
     <link>https://panorama.com.do/el-oro-pierde-un-25-desde-maximos-y-se-anota-la-caida-mas-rapida-desde-la-gran-crisis/</link>
     <description><![CDATA[El oro ha experimentado una caída del 25 % desde sus máximos históricos de enero y del 20 % desde el inicio de la guerra en Irán, marcando la caída más rápida desde la crisis financiera de 2008. El fortalecimiento del dólar y las expectativas de subidas de tipos han influido en esta tendencia.
@@ -1319,20 +1331,6 @@ Durante la operación, fueron arrestados dos haitianos y un dominicano. Las auto
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780934697/autonoticias/articles/20260608_160456_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 08 Jun 2026 16:09:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260608160933</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ramfis Trujillo anuncia aspiraciones presidenciales tras cumplirse 10 años de renunciar a su doble nacionalidad]]></title>
-    <link>https://panorama.com.do/ramfis-trujillo-anuncia-aspiraciones-presidenciales-tras-cumplirse-10-anos-de-renunciar-a-su-doble-nacionalidad/</link>
-    <description><![CDATA[Ramfis Domínguez Trujillo anunció su intención de aspirar a la candidatura presidencial del Partido Esperanza Democrática tras cumplir diez años desde su renuncia a la doble nacionalidad, cumpliendo así con los requisitos constitucionales.
-
-Destacó que el PED es la cuarta fuerza política nacional y anunció una convocatoria nacional para identificar candidatos a través de la plataforma Precandidateate.com.
-
-Domínguez Trujillo también mencionó un recurso pendiente ante el Tribunal Constitucional sobre la posición electoral del PED, afirmando que esta controversia es una cuestión de seguridad jurídica y estabilidad institucional.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780934714/autonoticias/articles/20260608_160514_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 08 Jun 2026 16:09:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260608160919</guid>
   </item>
 </channel>
 </rss>
