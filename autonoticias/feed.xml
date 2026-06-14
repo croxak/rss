@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 14 Jun 2026 22:31:36 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 14 Jun 2026 22:36:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Ministro de Obras Públicas anuncia la entrega de la Circunvalación de Navarrete en septiembre]]></title>
+    <link>https://eldia.com.do/ministro-de-obras-publicas-anuncia-la-entrega-de-la-circunvalacion-de-navarrete-en-septiembre/</link>
+    <description><![CDATA[El ministro de Obras Públicas, Eduardo Estrella, anunció la entrega de la Circunvalación de Navarrete entre septiembre y octubre. Esta obra, con una inversión de RD$12,000 millones, beneficiará a las provincias de la Línea Noroeste y fortalecerá la conexión con el Puerto de Manzanillo.
+
+En Santiago, el Ministerio ha concluido obras por RD$6,400 millones y mantiene proyectos en ejecución por más de RD$20,500 millones. Entre las obras en marcha se encuentra la ampliación de la Autopista Duarte y la construcción de la avenida Eléctrica.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781476533/autonoticias/articles/20260614_223533_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 14 Jun 2026 22:36:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260614223602</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Trump anuncia que ha alcanzado un acuerdo con Irán para reabrir el estrecho de Ormuz]]></title>
     <link>https://panorama.com.do/trump-anuncia-que-ha-alcanzado-un-acuerdo-con-iran-para-reabrir-el-estrecho-de-ormuz/</link>
     <description><![CDATA[El presidente de Estados Unidos, Donald Trump, ha anunciado un acuerdo con Irán para reabrir el estrecho de Ormuz después de más de tres meses de guerra.
@@ -1319,18 +1331,6 @@ Cruz indicó que una eventual condena debería considerar la cantidad de víctim
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780935143/autonoticias/articles/20260608_161223_article.png" type="image/png"/>
     <pubDate>Mon, 08 Jun 2026 16:13:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260608161340</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[DNCD desmantela cultivo de marihuana en Ocoa; apresa a dos haitianos y un dominicano]]></title>
-    <link>https://panorama.com.do/dncd-desmantela-cultivo-de-marihuana-en-ocoa-apresa-a-dos-haitianos-y-un-dominicano/</link>
-    <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD) y el Ministerio Público, con apoyo de la Fuerza Aérea y agencias de inteligencia, desmantelaron una plantación de presunta marihuana en San José de Ocoa. Se incautaron más de 3,000 plantas y equipos para su procesamiento.
-
-Durante la operación, fueron arrestados dos haitianos y un dominicano. Las autoridades continúan investigando para capturar a otros posibles implicados. Las plantas fueron enviadas al Instituto Nacional de Ciencias Forenses para determinar su cantidad y peso.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780934697/autonoticias/articles/20260608_160456_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 08 Jun 2026 16:09:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260608160933</guid>
   </item>
 </channel>
 </rss>
