@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 14 Jun 2026 17:08:29 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 14 Jun 2026 18:46:57 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Onco14: Solicitarán prisión contra 3 acusados de desviar fondos de pacientes oncológicos]]></title>
+    <link>https://eldia.com.do/onco14-solicitaran-prision-contra-3-acusados-de-desviar-fondos-de-pacientes-oncologicos/</link>
+    <description><![CDATA[El Ministerio Público solicitará prisión contra tres personas acusadas de desviar fondos de pacientes oncológicos en el caso Onco14. Los imputados son Héctor Antonio Lora Cruceta, Luisa Yasiris Guzmán y Dilcia Isabel Vargas Sánchez.
+
+Se les acusa de asociación de malhechores, estafa contra el Estado, soborno, delitos de alta tecnología y lavado de activos. Durante el operativo, se incautaron dinero en efectivo, un arma de fuego, documentos, vehículos, títulos de propiedad, computadoras, celulares y DVR.
+
+Las investigaciones continúan para identificar a otros posibles involucrados en el caso.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781462765/autonoticias/articles/20260614_184605_article.png" type="image/png"/>
+    <pubDate>Sun, 14 Jun 2026 18:46:57 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260614184657</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Remesas en el país superan 5,000 millones de dólares hasta mayo de 2026]]></title>
     <link>https://eldia.com.do/remesas-en-el-pais-superan-5000-millones-de-dolares-hasta-mayo-de-2026/</link>
     <description><![CDATA[El Banco Central de la República Dominicana reporta que las remesas alcanzaron US$5,170.1 millones de enero a mayo de 2026, con un crecimiento interanual del 5.4 %. En mayo, se recibieron US$1,090.2 millones, un aumento del 10.6 % respecto al mismo mes de 2025.
@@ -1321,20 +1335,6 @@ Los votos de Lima y otras ciudades favorecen a Fujimori, mientras que Sánchez c
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780922539/autonoticias/articles/20260608_124219_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 08 Jun 2026 12:42:46 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260608124246</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Florentino Pérez seguirá presidiendo el Real Madrid hasta 2030]]></title>
-    <link>https://www.diariolibre.com/deportes/futbol/2026/06/07/florentino-perez-seguira-presidiendo-real-madrid-hasta-2030/3559330</link>
-    <description><![CDATA[Florentino Pérez ha sido reelegido como presidente del Real Madrid hasta 2030, superando a Enrique Riquelme con el 65% de los votos. Esta es la primera elección en 20 años para el club.
-
-Pérez anunció el regreso de José Mourinho como entrenador y la incorporación de los defensas Ibrahima Konaté y Denzel Dumfries. También planea una oferta histórica por un jugador de la Champions.
-
-El presidente reafirmó su compromiso de mantener el club en manos de los socios, rechazando la privatización y considerando la entrada de un inversor con un máximo del 5% del club.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780886052/autonoticias/articles/20260608_023411_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 08 Jun 2026 02:34:37 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260608023437</guid>
   </item>
 </channel>
 </rss>
