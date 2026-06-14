@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 14 Jun 2026 22:30:38 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 14 Jun 2026 22:31:23 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[El oro pierde un 25 % desde máximos y se anota la caída más rápida desde la gran crisis]]></title>
+    <link>https://panorama.com.do/el-oro-pierde-un-25-desde-maximos-y-se-anota-la-caida-mas-rapida-desde-la-gran-crisis/</link>
+    <description><![CDATA[El oro ha experimentado una caída del 25 % desde sus máximos históricos de enero y del 20 % desde el inicio de la guerra en Irán, marcando la caída más rápida desde la crisis financiera de 2008. El fortalecimiento del dólar y las expectativas de subidas de tipos han influido en esta tendencia.
+
+El pasado 29 de enero, el oro alcanzó un récord de 5.595,47 dólares, cayendo a 4.024,01 dólares el jueves pasado. Al cierre de los mercados en Europa el viernes, el oro cotizaba en 4.222,53 dólares.
+
+Expertos de XTB destacan que el oro ha necesitado 91 sesiones para entrar en mercado bajista. Analistas de Indosuez Wealth Management y UBS mantienen perspectivas positivas a medio plazo, mientras que Julius Baer atribuye la caída a un cambio en la tendencia técnica.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781476245/autonoticias/articles/20260614_223045_article.webp" type="image/jpeg"/>
+    <pubDate>Sun, 14 Jun 2026 22:31:23 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260614223123</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidente Abinader encabeza Consejo de Ministros en Santiago]]></title>
     <link>https://www.presidencia.gob.do/noticias/presidente-abinader-encabeza-consejo-de-ministros-en-santiago</link>
     <description><![CDATA[El presidente Luis Abinader y la vicepresidenta Raquel Peña encabezaron el Consejo de Ministros en el Jardín Botánico de Santiago, revisando más de 200 obras en la provincia.
@@ -1319,22 +1333,6 @@ Domínguez Trujillo también mencionó un recurso pendiente ante el Tribunal Con
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780934714/autonoticias/articles/20260608_160514_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 08 Jun 2026 16:09:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260608160919</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Más de 40 sectores quedarán sin electricidad por trabajos de Edeeste]]></title>
-    <link>https://n.com.do/2026/06/08/mas-de-40-sectores-quedaran-sin-electricidad-por-trabajos-de-edeeste/</link>
-    <description><![CDATA[La Empresa Distribuidora de Electricidad del Este (Edeeste) anunció que este lunes interrumpirá temporalmente el suministro eléctrico en más de 40 sectores de Santo Domingo Este. La suspensión está programada entre las 9:00 de la mañana y la 1:00 de la tarde.
-
-Esta medida es parte de una intervención técnica en el circuito INVI03, que busca mejorar la estabilidad y confiabilidad del sistema eléctrico. Los trabajos incluyen un trasvase de carga entre los reclosers Simón Orozco y San Isidro, lo que permitirá redistribuir la demanda energética.
-
-Entre las comunidades afectadas se encuentran Invivienda, Autopista de San Isidro, Los Trinitarios, Villa Carmen, Prado Oriental, y otras. Edeeste contará con brigadas y técnicos especializados para optimizar la capacidad operativa de la red.
-
-La empresa agradeció la comprensión de los clientes y reiteró su compromiso de mejorar el suministro eléctrico en su zona de concesión.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780927038/autonoticias/articles/20260608_135718_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 08 Jun 2026 13:59:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260608135914</guid>
   </item>
 </channel>
 </rss>
