@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 15 Jun 2026 16:39:50 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 15 Jun 2026 17:17:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Persio Maldonado alerta sobre riesgos para el periodismo en nuevo Código Penal]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/06/15/persio-maldonado-alerta-riesgos-del-codigo-penal-y-prensa-2028445/</link>
+    <description><![CDATA[Persio Maldonado, presidente de la Sociedad Dominicana de Diarios, ha manifestado su preocupación por la figura de “difamación extorsiva” en el nuevo Código Penal, que podría afectar el periodismo y la libertad de expresión. Maldonado advierte que la redacción actual podría confundir la labor periodística con prácticas de extorsión.
+
+Además, criticó la reincorporación de penas de prisión para difamación e injuria, señalando que podría contradecir criterios del Tribunal Constitucional sobre libertad de expresión. El proyecto sigue en discusión en el Congreso Nacional.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781543791/autonoticias/articles/20260615_171630_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 15 Jun 2026 17:17:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260615171719</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministerio Público solicita prisión para miembros de estructura fraudulenta enfrentada con la Operación Onco14]]></title>
     <link>https://pgr.gob.do/ministerio-publico-solicita-prision-para-miembros-de-estructura-fraudulenta-enfrentada-con-la-operacion-onco14/</link>
     <description><![CDATA[El Ministerio Público ha solicitado prisión preventiva para Héctor Antonio Lora Cruceta, Luisa Yasiris Guzmán y Dilcia Isabel Vargas Sánchez, acusados de fraude contra el Seguro Nacional de Salud (SeNaSa) y el Estado dominicano.
@@ -1319,20 +1331,6 @@ En Caracas, Venezuela, Héctor Pastor Vásquez Frías asumirá como cónsul gene
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780955336/autonoticias/articles/20260608_214855_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 08 Jun 2026 21:57:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260608215740</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Pasaportes elimina cargo por pérdida y deterioro para facilitar acceso al documento electrónico]]></title>
-    <link>https://panorama.com.do/pasaportes-elimina-cargo-por-perdida-y-deterioro-para-facilitar-acceso-al-documento-electronico/</link>
-    <description><![CDATA[La Dirección General de Pasaportes ha implementado medidas para facilitar el acceso al nuevo pasaporte electrónico dominicano. Entre ellas, se elimina temporalmente el cargo por pérdida o deterioro del documento, lo que permitirá un ahorro estimado de RD$48 millones para los usuarios.
-
-Estas acciones forman parte de una estrategia para fortalecer la seguridad documental y mejorar la experiencia de los ciudadanos al solicitar o renovar su pasaporte. También se está ampliando la cobertura de los servicios en distintas provincias del país.
-
-El nuevo pasaporte electrónico incorpora estándares internacionales de seguridad, ofreciendo mayor protección de los datos personales de los ciudadanos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780955310/autonoticias/articles/20260608_214830_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 08 Jun 2026 21:49:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260608214919</guid>
   </item>
 </channel>
 </rss>
