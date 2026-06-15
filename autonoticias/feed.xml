@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 15 Jun 2026 16:38:39 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 15 Jun 2026 16:39:50 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Ministerio Público solicita prisión para miembros de estructura fraudulenta enfrentada con la Operación Onco14]]></title>
+    <link>https://pgr.gob.do/ministerio-publico-solicita-prision-para-miembros-de-estructura-fraudulenta-enfrentada-con-la-operacion-onco14/</link>
+    <description><![CDATA[El Ministerio Público ha solicitado prisión preventiva para Héctor Antonio Lora Cruceta, Luisa Yasiris Guzmán y Dilcia Isabel Vargas Sánchez, acusados de fraude contra el Seguro Nacional de Salud (SeNaSa) y el Estado dominicano.
+
+La Operación Onco14 reveló maniobras fraudulentas que afectaron a pacientes de cáncer, incluyendo el uso de sellos médicos falsos y lavado de activos. Los imputados fueron arrestados y se busca declarar el caso como de tramitación compleja.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781541567/autonoticias/articles/20260615_163927_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 15 Jun 2026 16:39:50 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260615163950</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Wilson Camacho califica como “apegada a derecho” decisión que envía a juicio caso Jet Set por homicidio involuntario]]></title>
     <link>https://elnuevodiario.com.do/wilson-camacho-califica-como-apegada-a-derecho-decision-que-envia-a-juicio-caso-jet-set-por-homicidio-involuntario/</link>
     <description><![CDATA[Wilson Camacho, director de Persecución de la Corrupción del Ministerio Público, valoró como “apegada al derecho” la decisión del juez Raymundo Mejía de enviar a juicio el caso del colapso de la discoteca Jet Set.
@@ -1321,18 +1333,6 @@ El nuevo pasaporte electrónico incorpora estándares internacionales de segurid
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780955310/autonoticias/articles/20260608_214830_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 08 Jun 2026 21:49:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260608214919</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Exalcalde Carlos Guzmán desmiente su retorno al PLD]]></title>
-    <link>https://n.com.do/2026/06/08/exalcalde-carlos-guzman-desmiente-su-retorno-al-pld/</link>
-    <description><![CDATA[Carlos Guzmán, exalcalde de Santo Domingo Norte, negó las versiones sobre su regreso al Partido de la Liberación Dominicana (PLD). Afirmó que las especulaciones son falsas y descartó cualquier información en ese sentido.
-
-Guzmán militó en el PLD hasta su elección como alcalde en 2020 y luego se unió a la Fuerza del Pueblo, de la que renunció tras las elecciones municipales de 2024.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780948748/autonoticias/articles/20260608_195907_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 08 Jun 2026 19:59:49 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260608195949</guid>
   </item>
 </channel>
 </rss>
