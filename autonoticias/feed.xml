@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 15 Jun 2026 17:28:44 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 15 Jun 2026 17:40:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Investigan muerte de hombre hallado en piscina de centro recreativo en Dajabón]]></title>
+    <link>https://n.com.do/2026/06/15/investigan-muerte-de-hombre-hallado-en-piscina-de-centro-recreativo-en-dajabon/</link>
+    <description><![CDATA[Yonatan Medina, conocido como “Pananao”, fue hallado sin vida en la piscina Aguas del Paraíso, en La Vigía, Dajabón. Estaba con amigos y consumiendo alcohol antes del suceso.
+
+Las autoridades investigan si la causa fue ahogamiento o un infarto. Se esperan los resultados de la autopsia para esclarecer el caso.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781545213/autonoticias/articles/20260615_174012_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 15 Jun 2026 17:40:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260615174055</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ivannia Rivera renuncia a la Fuerza del Pueblo]]></title>
     <link>https://panorama.com.do/ivannia-rivera-renuncia-a-la-fuerza-del-pueblo/</link>
     <description><![CDATA[Ivannia Rivera ha renunciado a su posición en la Dirección Política del Partido Fuerza del Pueblo y a su militancia en la organización. En su comunicado, expresó agradecimiento por el espacio brindado y reafirmó su compromiso con el desarrollo del país.
@@ -1315,20 +1327,6 @@ Su familia solicita una investigación exhaustiva para esclarecer las circunstan
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780964578/autonoticias/articles/20260609_002258_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 09 Jun 2026 00:23:45 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260609002345</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Aidita Selman advierte acciones legales por deuda millonaria vinculada al homenaje “Rubby Pérez Infinito”]]></title>
-    <link>https://n.com.do/2026/06/08/aidita-selman-advierte-acciones-legales-por-deuda-millonaria-vinculada-al-homenaje-rubby-perez-infinito/</link>
-    <description><![CDATA[Aidita Selman, productora artística, evalúa acciones legales por una deuda de más de RD$2 millones relacionada con el homenaje "Rubby Pérez Infinito". La deuda se originó tras asumir compromisos económicos para el evento, sin recibir los pagos acordados.
-
-Selman ha intentado resolver el asunto de manera amistosa, pero no ha logrado una solución. La deuda está vinculada a promesas de pago por la venta de bienes de la sucesión del artista, que no se han concretado.
-
-Algunos familiares de Rubby Pérez se han desvinculado de la responsabilidad económica del homenaje. Selman busca recuperar los recursos invertidos y cumplir con los compromisos pendientes, advirtiendo que podría recurrir a acciones legales si no se encuentra una solución.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780964391/autonoticias/articles/20260609_001950_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 09 Jun 2026 00:22:08 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260609002208</guid>
   </item>
 </channel>
 </rss>
