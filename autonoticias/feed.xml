@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 15 Jun 2026 12:40:42 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 15 Jun 2026 13:15:21 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Fallece colaboradora de Supérate resultó herida en accidente del sábado en SPM]]></title>
+    <link>https://elnuevodiario.com.do/fallece-colaboradora-de-superate-resulto-herida-en-accidente-del-sabado-en-spm/</link>
+    <description><![CDATA[Yolanda García, colaboradora del programa Supérate, falleció tras un accidente de tránsito en San Pedro de Macorís. Sufrió múltiples traumas y fue atendida en dos hospitales, pero no logró sobrevivir.
+
+La noticia ha causado tristeza entre sus familiares y compañeros, quienes destacan su dedicación y calidad humana.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781529292/autonoticias/articles/20260615_131451_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 15 Jun 2026 13:15:21 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260615131521</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Tribunal dicta este lunes la sentencia del caso Coral; el MP pide 20 años para Adán Cáceres]]></title>
     <link>https://www.elcaribe.com.do/panorama/justicia/tribunal-dicta-este-lunes-la-sentencia-del-caso-coral-el-mp-pide-20-anos-para-adan-caceres/</link>
     <description><![CDATA[Este lunes 15 de junio, el Primer Tribunal Colegiado del Distrito Nacional dará a conocer la sentencia del caso Coral y Coral 5G. El Ministerio Público acusa a una red de oficiales de sustraer más de RD$4,500 millones del Estado.
@@ -1315,20 +1327,6 @@ Fermín fue declarado culpable en 2011 por conspirar para distribuir más de 1,7
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780943128/autonoticias/articles/20260608_182527_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 08 Jun 2026 18:25:56 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260608182556</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Superintendencia de Bancos alerta sobre contenido falso que promueve supuesta plataforma de inversión “Pro Renta”]]></title>
-    <link>https://robertocavada.com/superintendencia-de-bancos-alerta-sobre-contenido-falso-que-promueve-supuesta-plataforma-de-inversion-pro-renta/</link>
-    <description><![CDATA[La Superintendencia de Bancos de la República Dominicana ha emitido una advertencia sobre la circulación de información falsa en redes sociales relacionada con "Pro Renta", una supuesta plataforma de inversión.
-
-Esta plataforma utiliza de manera fraudulenta la identidad visual de la Superintendencia y la imagen del superintendente Alejandro Fernández W.
-
-La entidad recuerda que sus comunicaciones oficiales se difunden exclusivamente a través de sus canales institucionales y exhorta a la población a verificar cualquier información antes de compartirla o realizar transacciones.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780938318/autonoticias/articles/20260608_170517_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 08 Jun 2026 17:05:45 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260608170545</guid>
   </item>
 </channel>
 </rss>
