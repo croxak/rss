@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 15 Jun 2026 17:17:51 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 15 Jun 2026 17:28:44 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Ivannia Rivera renuncia a la Fuerza del Pueblo]]></title>
+    <link>https://panorama.com.do/ivannia-rivera-renuncia-a-la-fuerza-del-pueblo/</link>
+    <description><![CDATA[Ivannia Rivera ha renunciado a su posición en la Dirección Política del Partido Fuerza del Pueblo y a su militancia en la organización. En su comunicado, expresó agradecimiento por el espacio brindado y reafirmó su compromiso con el desarrollo del país.
+
+Rivera, odontóloga y política, fue diputada por Puerto Plata y ha trabajado en la gestión de ayudas sociales. También ha sido reconocida por promover la participación de mujeres jóvenes en la política dominicana.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781544495/autonoticias/articles/20260615_172814_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 15 Jun 2026 17:28:44 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260615172844</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Juez dispone inmovilización de bienes de los hermanos Espaillat por hasta 500 millones de pesos]]></title>
     <link>https://listindiario.com/la-republica/20260615/juez-dispone-inmovilizacion-bienes-hermanos-espaillat-500-millones-pesos_909849.html</link>
     <description><![CDATA[El juez Raymundo Mejía dispuso la inmovilización de bienes de Antonio y Maribel Espaillat por hasta 500 millones de pesos. Entre las entidades afectadas están Inversiones NLS, S.R.L y Radio Cadena Comercial, S.R.L.
@@ -1317,18 +1329,6 @@ Algunos familiares de Rubby Pérez se han desvinculado de la responsabilidad eco
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780964391/autonoticias/articles/20260609_001950_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 09 Jun 2026 00:22:08 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260609002208</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Embajadora de EEUU visita a Gonzalo Castillo y sostienen reunión]]></title>
-    <link>https://listindiario.com/la-republica/politica/20260608/embajadora-eeuu-reune-gonzalo-castillo_909018.html</link>
-    <description><![CDATA[La embajadora de Estados Unidos en República Dominicana, Leah Campos, visitó a Gonzalo Castillo, aspirante a la candidatura presidencial del PLD. Ambos compartieron visiones sobre el futuro del país y cómo fortalecer la alianza con EE.UU.
-
-La reunión se produjo poco más de una semana después de que el tribunal dictara un "no ha lugar" a favor de Castillo, quien había sido acusado de corrupción administrativa. Castillo agradeció la restitución de su visado a Estados Unidos, que había sido retirado cuando fue sometido a la justicia.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780960538/autonoticias/articles/20260608_231538_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 08 Jun 2026 23:16:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260608231605</guid>
   </item>
 </channel>
 </rss>
