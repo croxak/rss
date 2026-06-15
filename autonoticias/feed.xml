@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 15 Jun 2026 14:02:16 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 15 Jun 2026 16:37:54 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Temístocles Montás: “El Gobierno le tiene miedo a enfrentar las exenciones fiscales”]]></title>
+    <link>https://panorama.com.do/temistocles-montas-el-gobierno-le-tiene-miedo-a-enfrentar-las-exenciones-fiscales/</link>
+    <description><![CDATA[Temístocles Montás, vicepresidente del PLD, criticó al Gobierno por evitar discutir las exenciones fiscales y la baja eficiencia en la recaudación tributaria, mientras promueve nuevas cargas impositivas.
+
+Montás señaló que el índice de eficiencia recaudatoria del ITBIS en República Dominicana es de 0.38, inferior al promedio de América Latina de 0.61. Afirmó que mejorar la eficiencia permitiría recaudar más del doble de lo que se busca con la propuesta fiscal.
+
+El dirigente del PLD insistió en la necesidad de una administración tributaria más eficiente y una revisión del sistema de exenciones antes de aplicar nuevas medidas impositivas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781541353/autonoticias/articles/20260615_163553_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 15 Jun 2026 16:37:54 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260615163754</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Niño de un año fallece asfixiado dentro de vehículo en Villa Altagracia]]></title>
     <link>https://elnuevodiario.com.do/nino-de-un-ano-fallece-asfixiado-dentro-de-vehiculo-en-villa-altagracia/</link>
     <description><![CDATA[Un trágico incidente ocurrió en Villa Altagracia, San Cristóbal, donde un niño de un año falleció por asfixia mecánica por sofocación. El menor, identificado con las iniciales A.D.M., fue hallado en el asiento trasero del vehículo de su padre, un Hyundai Sonata.
@@ -1315,20 +1329,6 @@ La reunión se realizará a puertas cerradas en el Palacio Nacional a las 3:30 d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780948689/autonoticias/articles/20260608_195809_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 08 Jun 2026 19:58:41 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260608195841</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministro Joel Santos resaltó que el país ya produce cerca de 2,000 MW de energía renovable]]></title>
-    <link>https://www.presidencia.gob.do/noticias/ministro-joel-santos-resalto-que-el-pais-ya-produce-cerca-de-2000-mw-de-energia-renovable</link>
-    <description><![CDATA[El ministro Joel Santos anunció que la República Dominicana produce cerca de 2,000 MW de energía renovable, con una proyección de alcanzar 2,600 MW para 2028. Este avance ha generado una inversión de 3,000 millones de dólares.
-
-El sector eléctrico ha liderado la captación de inversión extranjera con 1,000 millones de dólares anuales en los últimos cuatro años. Se desarrollan proyectos para mejorar la capacidad de almacenamiento, con 200 MW listos para finales de 2026.
-
-En el sector minero, se registró un crecimiento del 10.7 % en el primer cuatrimestre de 2026, aportando 20,000 millones de pesos en ingresos fiscales. Se revisa la Ley Minera para fortalecer la inversión en comunidades.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780942190/autonoticias/articles/20260608_180949_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 08 Jun 2026 19:56:51 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260608195651</guid>
   </item>
 </channel>
 </rss>
