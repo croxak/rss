@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 15 Jun 2026 21:41:17 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 15 Jun 2026 21:42:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Dirección ejecutiva del PRM se reúne esta tarde para conocer la reforma estatutaria]]></title>
+    <link>https://eldia.com.do/direccion-ejecutiva-del-prm-se-reune-esta-tarde-para-conocer-la-reforma-estatutaria/</link>
+    <description><![CDATA[La dirección ejecutiva del PRM se reúne esta tarde en Santo Domingo con el objetivo de discutir una reforma estatutaria. 
+
+La reforma se enfocará en modificar el artículo que trata sobre la elección de las autoridades. Se ha informado que el secretario general y el presidente serían elegidos por un año, mientras que los directivos provinciales y municipales por dos años.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781559562/autonoticias/articles/20260615_213921_article.webp" type="image/jpeg"/>
+    <pubDate>Mon, 15 Jun 2026 21:42:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260615214214</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Extraditan desde Aruba dominicano vinculado en decomiso de ocho paquetes de cocaína en el AILA]]></title>
     <link>https://elnuevodiario.com.do/extraditan-desde-aruba-dominicano-vinculado-en-decomiso-de-ocho-paquetes-de-cocaina-en-el-aila/</link>
     <description><![CDATA[Willy Batista Santos, un dominicano vinculado a una estructura de narcotráfico internacional, fue extraditado desde Aruba a República Dominicana. Fue arrestado al llegar al aeropuerto Internacional Joaquín Balaguer La Isabela y será sometido a la justicia por violación a la ley 50-88 sobre drogas.
@@ -1313,18 +1325,6 @@ Su carrera estuvo marcada por el "Caso PEME", relacionado con presuntas irregula
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781009678/autonoticias/articles/20260609_125437_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 09 Jun 2026 12:55:10 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260609125510</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Indomet prevé un martes con chubascos aislados, polvo del Sahara y calor]]></title>
-    <link>https://panorama.com.do/indomet-preve-un-martes-con-chubascos-aislados-polvo-del-sahara-y-calor/</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) pronostica un martes con chubascos aislados en Monte Cristi, Valverde, Barahona y otras provincias. Un cielo grisáceo con nubosidad dispersa se observará en gran parte del país debido a un sistema anticiclónico y la presencia de polvo del Sahara.
-
-Por la tarde, se esperan chubascos locales con posibles tronadas en La Vega, Santiago, Santiago Rodríguez, Puerto Plata y provincias del Cibao Noroeste, influenciados por una débil vaguada. Las temperaturas mínimas estarán entre 23 °C y 25 °C, y las máximas entre 31 °C y 33 °C.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781008027/autonoticias/articles/20260609_122707_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 09 Jun 2026 12:27:47 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260609122747</guid>
   </item>
 </channel>
 </rss>
