@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 16 Jun 2026 16:08:04 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 16 Jun 2026 16:08:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[PRM convoca al Comité Nacional para definir reforma estatutaria y elección de autoridades]]></title>
+    <link>https://eldia.com.do/prm-convoca-al-comite-nacional-para-definir-reforma-estatutaria-y-eleccion-de-autoridades/</link>
+    <description><![CDATA[La Dirección Ejecutiva del PRM ha convocado al Comité Nacional para una reunión este domingo. El objetivo es conocer y aprobar las convocatorias para reformar los estatutos del partido y elegir nuevas autoridades.
+
+Se propone que las próximas autoridades sean elegidas por un período de dos años, en lugar de cuatro, como medida transitoria. Después de 2028, se retomaría el esquema original de elección por cuatro años.
+
+Además, se discutió la posibilidad de fortalecer el papel de las tres vicepresidencias del partido, otorgándoles mayores responsabilidades.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781625887/autonoticias/articles/20260616_160447_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 16 Jun 2026 16:08:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260616160820</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ejército detiene a 70 haitianos indocumentados en Dajabón y Montecristi]]></title>
     <link>https://n.com.do/2026/06/16/ejercito-detiene-70-haitianos-indocumentados-drones-dajabon-montecristi/</link>
     <description><![CDATA[El Ejército de República Dominicana detuvo a 70 haitianos indocumentados en operativos en Dajabón y Montecristi. Las acciones, que incluyeron el uso de drones y patrullas terrestres, buscan reforzar los controles migratorios en la frontera.
@@ -1313,18 +1327,6 @@ La audiencia fue reprogramada para el 23 de junio. Wilson Camacho, director de P
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781031249/autonoticias/articles/20260609_185408_article.webp" type="image/jpeg"/>
     <pubDate>Tue, 09 Jun 2026 18:55:08 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260609185508</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Felipe González y Leonel Fernández piden alianzas en Iberoamérica ante el "caos mundial"]]></title>
-    <link>https://www.diariolibre.com/mundo/espana/2026/06/09/felipe-gonzalez-y-leonel-piden-alianzas-iberoamerica-ante/3561162</link>
-    <description><![CDATA[Felipe González y Leonel Fernández han pedido fortalecer las alianzas en Iberoamérica ante el "caos mundial". En un diálogo en la Universidad Autónoma de Madrid, destacaron la necesidad de avanzar en economía, cultura y seguridad.
-
-González señaló una crisis de gobernanza en las democracias representativas y las consecuencias económicas de las guerras en Oriente Medio. Fernández describió a América Latina como un "laboratorio político permanente" y resaltó la importancia de la unidad iberoamericana.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781027052/autonoticias/articles/20260609_174412_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 09 Jun 2026 17:45:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260609174529</guid>
   </item>
 </channel>
 </rss>
