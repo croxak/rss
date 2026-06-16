@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 16 Jun 2026 17:23:28 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 16 Jun 2026 17:23:45 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Legisladores respaldan condenas del caso Coral: "La población debe saber que no todos somos delincuentes"]]></title>
+    <link>https://eldia.com.do/legisladores-respaldan-condenas-del-caso-coral-la-poblacion-debe-saber-que-no-todos-somos-delincuentes/</link>
+    <description><![CDATA[Legisladores del Congreso Nacional han expresado su respaldo a las condenas en los casos de corrupción Coral y Coral 5G. La diputada Soraya Suárez del PRM y el senador Rogelio Genao del PRSC destacaron que estas sentencias fortalecen la justicia independiente.
+
+Suárez afirmó que el veredicto ayuda a limpiar la imagen de la clase política y advirtió sobre las consecuencias de traicionar la confianza pública. Genao mencionó que el nuevo Código Penal será más estricto y desalentará la corrupción y el crimen organizado.
+
+La diputada Suárez también recordó las expectativas sobre el caso SeNaSa, lamentando las consecuencias fatales de la presunta corrupción en esa institución.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781630543/autonoticias/articles/20260616_172222_article.webp" type="image/jpeg"/>
+    <pubDate>Tue, 16 Jun 2026 17:23:45 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260616172345</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Leonel Fernández propone retirar aumento de impuestos y reformular presupuesto de 2026]]></title>
     <link>https://n.com.do/2026/06/16/leonel-fernandez-propone-retirar-aumento-de-impuestos-y-reformular-presupuesto-de-2026/</link>
     <description><![CDATA[Leonel Fernández, líder de la Fuerza del Pueblo, ha propuesto retirar las medidas de aumento de impuestos del proyecto de reforma fiscal del Poder Ejecutivo. Sugiere reformular el Presupuesto General del Estado de 2026 para reducir y reorientar el gasto público.
@@ -1315,20 +1329,6 @@ La justicia determinó que no había pruebas suficientes para abrir juicio, reaf
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781046816/autonoticias/articles/20260609_231336_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 09 Jun 2026 23:14:08 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260609231408</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Cámara de Diputados rinde minuto de silencio en memoria de Franklin Guerrero]]></title>
-    <link>https://n.com.do/2026/06/09/camara-diputados-homenaje-franklin-guerrero-luis-inchausti/</link>
-    <description><![CDATA[La Cámara de Diputados rindió homenaje al fotorreportero Franklin Guerrero y al exdirigente del PLD, Luis Inchausti, con un minuto de silencio en sesión legislativa.
-
-Franklin Guerrero, conocido por su trabajo en "La Foto-Crónica" y N Investiga, falleció tras luchar contra el cáncer. Sus restos fueron velados en el Jardín Memorial.
-
-Luis Inchausti, exdiputado y exfuncionario del Estado, fue recordado por su participación en la política nacional.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781031444/autonoticias/articles/20260609_185723_article.png" type="image/png"/>
-    <pubDate>Tue, 09 Jun 2026 19:00:37 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260609190037</guid>
   </item>
 </channel>
 </rss>
