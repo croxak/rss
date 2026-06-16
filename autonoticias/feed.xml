@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 16 Jun 2026 20:54:44 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 16 Jun 2026 21:06:10 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Ministro Yayo viajará a Alemania a captar inversiones para la industria de los semiconductores en RD]]></title>
+    <link>https://micm.gob.do/ministro-yayo-viajara-a-alemania-a-captar-inversiones-para-la-industria-de-los-semiconductores-en-rd/</link>
+    <description><![CDATA[El ministro de Industria, Comercio y Mipymes, Yayo Sanz Lovatón, anunció un viaje a Alemania para captar inversiones en la industria de semiconductores de la República Dominicana. El objetivo es abastecer a Alemania con semiconductores fabricados en el país.
+
+Esta iniciativa se alinea con el decreto 324-24, que declara de alta prioridad nacional la promoción y desarrollo de esta industria. Las exportaciones dominicanas han evolucionado hacia productos más cualificados, como insumos médicos y electrónicos.
+
+El ministro destacó que los grandes mercados de consumo buscan reducir su dependencia de cadenas de suministro lejanas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781643550/autonoticias/articles/20260616_205910_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 16 Jun 2026 21:06:10 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260616210610</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Omar sobre propuesta de ser vice de Leonel: “Esto no es una monarquía ni un principado”]]></title>
     <link>https://elnuevodiario.com.do/omar-sobre-propuesta-de-ser-vice-de-leonel-esto-no-es-una-monarquia-ni-un-principado/</link>
     <description><![CDATA[Omar Fernández, congresista dominicano, respondió a la propuesta de ser candidato vicepresidencial junto a su padre Leonel Fernández. Durante su participación en el programa El Panorama de la Mañana, Omar calificó la idea como inviable, argumentando que República Dominicana no es una monarquía.
@@ -1309,20 +1323,6 @@ Se espera un ambiente mayormente soleado durante la mañana, con chubascos aisla
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781095314/autonoticias/articles/20260610_124153_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 10 Jun 2026 12:42:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260610124231</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Encuentran adolescente muerta en el interior de una piscina en La Caleta]]></title>
-    <link>https://elnuevodiario.com.do/encuentran-una-adolescente-muerta-con-heridas-en-el-interior-de-una-piscina-cerrada-en-la-caleta/</link>
-    <description><![CDATA[Una adolescente fue hallada muerta con heridas de arma blanca en el cuello dentro de una piscina cerrada al público en La Caleta, Santo Domingo. En el lugar se encontraron galones de vino y un cuchillo, presunta arma utilizada en el crimen.
-
-Se presume que los autores del hecho realizaron un atraco antes de ingresar al establecimiento. Los residentes de la zona están alarmados por el nivel de violencia y exigen un aumento del patrullaje policial.
-
-Las autoridades están investigando para esclarecer el caso y encontrar a los responsables.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781095252/autonoticias/articles/20260610_124052_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 10 Jun 2026 12:41:21 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260610124121</guid>
   </item>
 </channel>
 </rss>
