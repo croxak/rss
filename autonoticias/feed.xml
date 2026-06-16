@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 16 Jun 2026 16:04:40 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 16 Jun 2026 16:07:36 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Colombia: Cae red acusada de lavar unos US$29 millones por tráfico de migrantes por el Darién]]></title>
+    <link>https://listindiario.com/las-mundiales/20260616/colombia-cae-red-acusada-lavar-us-29-millones-trafico-migrantes-darien_910016.html</link>
+    <description><![CDATA[La Fiscalía de Colombia ha imputado a nueve presuntos integrantes de una red criminal acusada de lavar cerca de 29,1 millones de dólares obtenidos del tráfico de migrantes. Esta red facilitó la salida irregular de más de 800.000 migrantes por el golfo de Urabá.
+
+La organización operaba desde localidades como Necoclí y Capurganá, utilizando supuestos paquetes turísticos como fachada para coordinar el traslado de migrantes hacia Centroamérica. Los ingresos fueron ocultados mediante maniobras de lavado de activos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781625992/autonoticias/articles/20260616_160632_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 16 Jun 2026 16:07:36 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260616160736</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Recuperan 750 gramos de prendas y RD$320,000 robados de joyería en Capotillo]]></title>
     <link>https://n.com.do/2026/06/16/recuperan-750-gramos-de-prendas-y-rd320000-robados-de-joyeria-en-capotillo/</link>
     <description><![CDATA[Agentes de la División de Investigación de Crímenes y Delitos Contra la Propiedad del Ensanche Luperón recuperaron 750 gramos de joyas y RD$320,000 robados de una joyería en Capotillo.
@@ -1313,20 +1325,6 @@ Fernández habló sobre el auge de la ultraderecha en América Latina, consider�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781023791/autonoticias/articles/20260609_164950_article.webp" type="image/jpeg"/>
     <pubDate>Tue, 09 Jun 2026 16:50:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260609165034</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Realizan primer implante en RD de válvula aórtica Allegra con técnica Valve-in-Valve]]></title>
-    <link>https://www.elcaribe.com.do/panorama/salud/realizan-primer-implante-en-rd-de-valvula-aortica-allegra-con-tecnica-valve-in-valve/</link>
-    <description><![CDATA[Los Centros de Diagnóstico, Medicina Avanzada y de Conferencias Médicas y Telemedicina CEDIMAT realizaron con éxito el primer implante en República Dominicana de una válvula aórtica Allegra mediante la técnica Valve-in-Valve.
-
-El procedimiento fue ejecutado por el equipo de Hemodinamia y Cardiología Intervencionista, dirigido por el doctor Carlos García Lithgow, en un paciente con una bioprótesis aórtica quirúrgica previamente implantada que había perdido su funcionalidad.
-
-La técnica Valve-in-Valve permitió evitar una nueva cirugía a corazón abierto, reduciendo los riesgos asociados y favoreciendo una recuperación más rápida. Se utilizó la válvula autoexpandible Allegra, destacada por su potencial para mejorar el flujo sanguíneo.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781020905/autonoticias/articles/20260609_160145_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 09 Jun 2026 16:02:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260609160230</guid>
   </item>
 </channel>
 </rss>
