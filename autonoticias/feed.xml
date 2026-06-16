@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 16 Jun 2026 16:07:50 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 16 Jun 2026 16:08:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Ejército detiene a 70 haitianos indocumentados en Dajabón y Montecristi]]></title>
+    <link>https://n.com.do/2026/06/16/ejercito-detiene-70-haitianos-indocumentados-drones-dajabon-montecristi/</link>
+    <description><![CDATA[El Ejército de República Dominicana detuvo a 70 haitianos indocumentados en operativos en Dajabón y Montecristi. Las acciones, que incluyeron el uso de drones y patrullas terrestres, buscan reforzar los controles migratorios en la frontera.
+
+En Dajabón, 32 haitianos fueron interceptados cerca de la finca "Nene Checo". En Montecristi, 31 fueron detenidos en la berma del canal mayor. Además, en Don Miguel, Dajabón, se apresaron a siete haitianos más.
+
+Los detenidos fueron entregados a la Dirección General de Migración para los procedimientos correspondientes.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781625942/autonoticias/articles/20260616_160542_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 16 Jun 2026 16:08:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260616160804</guid>
+  </item>
+
+  <item>
     <title><![CDATA[RD nombra la embajadora Lina Ajoy como secretaria general del SICA]]></title>
     <link>https://panorama.com.do/rd-nombra-la-embajadora-lina-ajoy-como-secretaria-general-del-sica/</link>
     <description><![CDATA[El presidente Luis Abinader y el canciller Roberto Álvarez lideraron la Reunión Extraordinaria de Jefes de Estado y de Gobierno del SICA, donde se designó a Lina Eugenia Ajoy Rojas como secretaria general del organismo para el período 2026-2030.
@@ -1311,20 +1325,6 @@ González señaló una crisis de gobernanza en las democracias representativas y
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781027052/autonoticias/articles/20260609_174412_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 09 Jun 2026 17:45:29 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260609174529</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno lanzará este jueves la Consulta Nacional para el Futuro de la Educación Dominicana]]></title>
-    <link>https://www.presidencia.gob.do/noticias/gobierno-lanzara-este-jueves-la-consulta-nacional-para-el-futuro-de-la-educacion</link>
-    <description><![CDATA[El Gobierno dominicano lanzará este jueves 11 de junio la Consulta Nacional para el Futuro de la Educación Dominicana. Este proceso busca recoger opiniones y propuestas sobre la educación que necesita el país para los próximos años.
-
-La iniciativa es impulsada por el Ministerio de Educación, el Ministerio de Educación Superior, Ciencia y Tecnología, el Ministerio de Administración Pública y el Instituto Nacional de Formación Técnico Profesional. Está dirigida a estudiantes, docentes, familias, y dominicanos en el exterior.
-
-Se desarrollarán foros regionales y sectoriales hasta julio, con el objetivo de avanzar hacia una nueva ley de educación que responda a los desafíos actuales del país.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781026936/autonoticias/articles/20260609_174216_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 09 Jun 2026 17:44:54 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260609174454</guid>
   </item>
 </channel>
 </rss>
