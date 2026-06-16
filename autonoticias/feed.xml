@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 16 Jun 2026 21:06:10 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 16 Jun 2026 21:11:13 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[La República Dominicana inaugura la LXVI Conferencia de Jefes de las Fuerzas Aéreas Americanas]]></title>
+    <link>https://www.presidencia.gob.do/noticias/la-republica-dominicana-inaugura-la-lxvi-conferencia-de-jefes-de-las-fuerzas-aereas</link>
+    <description><![CDATA[La República Dominicana dio inicio a la LXVI Conferencia de Jefes de las Fuerzas Aéreas Americanas (Conjefamer 2026) en Punta Cana. Este encuentro reúne a comandantes y representantes de las fuerzas aéreas del hemisferio occidental.
+
+La ceremonia de apertura fue liderada por el mayor general piloto Floreal Suárez Martínez, comandante general de la Fuerza Aérea de la República Dominicana, y el general John D. Lamontagne, vicejefe de Estado Mayor de la Fuerza Aérea de los Estados Unidos.
+
+La conferencia se lleva a cabo en el marco del Sistema de Cooperación entre las Fuerzas Aéreas Americanas (Sicofaa), promoviendo la colaboración multinacional en operaciones de asistencia humanitaria y respuesta ante desastres naturales.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781643567/autonoticias/articles/20260616_205927_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 16 Jun 2026 21:11:13 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260616211113</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministro Yayo viajará a Alemania a captar inversiones para la industria de los semiconductores en RD]]></title>
     <link>https://micm.gob.do/ministro-yayo-viajara-a-alemania-a-captar-inversiones-para-la-industria-de-los-semiconductores-en-rd/</link>
     <description><![CDATA[El ministro de Industria, Comercio y Mipymes, Yayo Sanz Lovatón, anunció un viaje a Alemania para captar inversiones en la industria de semiconductores de la República Dominicana. El objetivo es abastecer a Alemania con semiconductores fabricados en el país.
@@ -1311,18 +1325,6 @@ En 2025, España fue el principal inversionista extranjero en República Dominic
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781096849/autonoticias/articles/20260610_130729_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 10 Jun 2026 13:08:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260610130802</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Vaguada provocará aguaceros y tronadas en varias provincias]]></title>
-    <link>https://eldia.com.do/vaguada-provocara-aguaceros-y-tronadas-en-varias-provincias-4/</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informa que una vaguada provocará aguaceros moderados, tronadas y ráfagas de viento aisladas en varias provincias del país. Las precipitaciones se concentrarán en Monte Plata, Duarte, Independencia, Sánchez Ramírez, La Vega, San José de Ocoa, Santiago Rodríguez, Dajabón, San Juan, Elías Piña, Hato Mayor y El Seibo.
-
-Se espera un ambiente mayormente soleado durante la mañana, con chubascos aislados en sectores del litoral caribeño. Las temperaturas mínimas estarán entre 23 °C y 25 °C, y las máximas entre 31 °C y 33 °C.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781095314/autonoticias/articles/20260610_124153_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 10 Jun 2026 12:42:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260610124231</guid>
   </item>
 </channel>
 </rss>
