@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 17 Jun 2026 12:58:53 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 17 Jun 2026 13:36:56 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[DNCD lanza nuevo canal de denuncias vía whatsapp]]></title>
+    <link>https://panorama.com.do/dncd-lanza-nuevo-canal-de-denuncias-via-whatsapp/</link>
+    <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD) ha habilitado un nuevo canal de denuncias mediante WhatsApp. A través del número 809-688-0202, los ciudadanos pueden reportar actividades relacionadas con drogas, fortaleciendo la respuesta operativa de la institución.
+
+La DNCD recomienda incluir detalles como ubicación, descripción de hechos, nombres o apodos de involucrados, y cualquier evidencia que ayude en la investigación. La confidencialidad de las denuncias está garantizada.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781703393/autonoticias/articles/20260617_133632_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 17 Jun 2026 13:36:56 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260617133656</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Irán reanuda las exportaciones de petróleo tras dos meses de bloqueo]]></title>
     <link>https://n.com.do/2026/06/17/iran-reanuda-las-exportaciones-de-petroleo-tras-dos-meses-de-bloqueo/</link>
     <description><![CDATA[Irán ha reanudado sus exportaciones de petróleo tras un bloqueo naval de dos meses. Dos superpetroleros, el DIONA y el HERO2, han salido de aguas iraníes con 3,8 millones de barriles de petróleo. La información fue confirmada por TankerTrackers mediante datos de seguimiento marítimo y satelitales.
@@ -1303,20 +1315,6 @@ La economía mundial enfrenta presiones por el conflicto geopolítico en Medio O
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781109579/autonoticias/articles/20260610_163938_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 10 Jun 2026 16:40:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260610164006</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Denuncian exhumaciones de cadáveres ilegales en cementerios de Bayaguana]]></title>
-    <link>https://noticiassin.com/pais/provincias/2026/06/10/denuncian-exhumaciones-ilegales-en-cementerios-de-bayaguana-2023376/</link>
-    <description><![CDATA[El regidor de Bayaguana, Caonabo Hubieres, ha denunciado exhumaciones ilegales en los cementerios de la zona, lo que ha generado serios inconvenientes. Según Hubieres, la falta de respeto a los espacios en los cementerios públicos es una constante desde que asumió la actual gestión municipal.
-
-Un caso destacado fue el de un joven que no encontró la tumba de su madre, ya que los restos fueron trasladados a un área común. Hubieres instó al alcalde Frangel García a notificar a las familias sobre los espacios en los cementerios para evitar conflictos.
-
-El regidor advirtió que la exhumación de cadáveres sin la debida aprobación es un delito penal.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781101207/autonoticias/articles/20260610_142006_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 10 Jun 2026 14:20:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260610142033</guid>
   </item>
 </channel>
 </rss>
