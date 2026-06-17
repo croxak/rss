@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 17 Jun 2026 13:36:56 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 17 Jun 2026 13:37:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[El juez rechaza retirar el pasaporte a Zapatero y no le impone ninguna medida cautelar]]></title>
+    <link>https://elnuevodiario.com.do/el-juez-rechaza-retirar-el-pasaporte-a-zapatero-y-no-le-impone-ninguna-medida-cautelar/</link>
+    <description><![CDATA[El juez José Luis Calama decidió no retirar el pasaporte al expresidente José Luis Rodríguez Zapatero ni imponerle medidas cautelares tras su declaración en el caso Plus Ultra. A pesar de no desvirtuar los indicios de criminalidad, su notoriedad pública fue un factor clave.
+
+Zapatero negó haber influido para que Plus Ultra recibiera un préstamo de 53 millones de euros y afirmó que los pagos que recibió eran por trabajos de consultoría. También enfrenta imputaciones por delitos fiscales y de contrabando relacionados con joyas incautadas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781703428/autonoticias/articles/20260617_133708_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 17 Jun 2026 13:37:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260617133733</guid>
+  </item>
+
+  <item>
     <title><![CDATA[DNCD lanza nuevo canal de denuncias vía whatsapp]]></title>
     <link>https://panorama.com.do/dncd-lanza-nuevo-canal-de-denuncias-via-whatsapp/</link>
     <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD) ha habilitado un nuevo canal de denuncias mediante WhatsApp. A través del número 809-688-0202, los ciudadanos pueden reportar actividades relacionadas con drogas, fortaleciendo la respuesta operativa de la institución.
@@ -1303,18 +1315,6 @@ La TSS hace un llamado a los empleadores informales a regularizar la situación 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781107673/autonoticias/articles/20260610_160752_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 10 Jun 2026 16:40:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260610164020</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El Gobierno anunciará medidas para impulsar economía ante incertidumbre internacional]]></title>
-    <link>https://www.diariolibre.com/economia/macroeconomia/2026/06/10/ministro-de-hacienda-anunciara-medidas-para-impulsar-economia/3562231</link>
-    <description><![CDATA[El ministro de Hacienda y Economía, Magín Díaz, presentará un paquete de medidas para impulsar el crecimiento económico y mitigar los efectos de la crisis internacional en la economía dominicana. El anuncio se realizará este jueves a las 11:00 de la mañana en la sede de la institución.
-
-La economía mundial enfrenta presiones por el conflicto geopolítico en Medio Oriente y la volatilidad de los precios energéticos. El Banco Central reportó una inflación interanual de 5.35 % en mayo, superando el rango meta.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781109579/autonoticias/articles/20260610_163938_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 10 Jun 2026 16:40:06 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260610164006</guid>
   </item>
 </channel>
 </rss>
