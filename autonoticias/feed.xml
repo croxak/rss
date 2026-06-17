@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 17 Jun 2026 12:55:38 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 17 Jun 2026 12:57:57 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[UASD elegirá nuevas autoridades con más de 3,000 votantes este miércoles]]></title>
+    <link>https://eldia.com.do/uasd-elegira-nuevas-autoridades-con-mas-de-3000-votantes-este-miercoles/</link>
+    <description><![CDATA[La Universidad Autónoma de Santo Domingo (UASD) celebra elecciones internas este miércoles. Más de 3,000 votantes, entre profesores, estudiantes y empleados, elegirán nuevas autoridades para 121 cargos.
+
+Jorge Asjana David y Radhamés Silverio son los candidatos a la rectoría. La jornada electoral se realizará en la sede central y en recintos distribuidos en todo el país.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781701050/autonoticias/articles/20260617_125730_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 17 Jun 2026 12:57:57 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260617125757</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Asaltan hombre en Dajabón que llegó de EEUU; denuncia le quitaron casi dos millones en prendas]]></title>
     <link>https://listindiario.com/la-republica/provincias/20260616/asaltan-hombre-dajabon-llego-ee-uu-le-quitan-dos-millones-prendas_910068.html</link>
     <description><![CDATA[Nicolás Morel fue víctima de un asalto en Dajabón al llegar de Estados Unidos. Dos hombres lo sorprendieron apuntándole a la cabeza con un arma de fuego.
@@ -1307,20 +1319,6 @@ El caso ha generado conmoción en Boca Chica, y las autoridades trabajan para es
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781099700/autonoticias/articles/20260610_135459_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 10 Jun 2026 13:55:47 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260610135547</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Detenidos en España 12 miembros de Dominican Don´t Play por organización criminal]]></title>
-    <link>https://noticiassin.com/mundo/espana/2026/06/10/detenidos-12-miembros-de-dominican-dont-play-en-espana-2023352/</link>
-    <description><![CDATA[La Policía española ha detenido a doce miembros de la banda juvenil Dominican Don’t Play en Zaragoza. Los detenidos enfrentan cargos de pertenencia a organización criminal, tráfico de drogas y otros delitos.
-
-Siete de los arrestados ya cumplen prisión provisional. La investigación, que comenzó hace meses, detectó un aumento de la actividad de la banda en Zaragoza, con un claro reparto de tareas y gran influencia entre los jóvenes.
-
-Durante los registros, se incautaron armas blancas, armas de fuego simuladas, drogas y dispositivos tecnológicos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781097677/autonoticias/articles/20260610_132117_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 10 Jun 2026 13:21:43 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260610132143</guid>
   </item>
 </channel>
 </rss>
