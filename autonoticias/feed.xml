@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 18 Jun 2026 13:02:27 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 18 Jun 2026 18:22:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Identifican mujer hallada en aguas del Malecón; padecía enfermedad de salud mental]]></title>
+    <link>https://n.com.do/2026/06/18/identifican-mujer-hallada-en-aguas-del-malecon-padecia-enfermedad-de-salud-mental/</link>
+    <description><![CDATA[Esperanza Santana Montes de Oca, de 28 años, fue identificada como la mujer hallada sin vida en las aguas del Malecón del Distrito Nacional. Familiares indicaron que recibía tratamiento por problemas de salud mental.
+
+La Dirección Central de Investigación (DICRIM) está investigando las circunstancias del incidente, revisando cámaras de videovigilancia y entrevistando a personas vinculadas al caso.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781806893/autonoticias/articles/20260618_182133_article.png" type="image/png"/>
+    <pubDate>Thu, 18 Jun 2026 18:22:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260618182219</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Leonel reconoce inquietudes internas en la Fuerza del Pueblo]]></title>
     <link>https://panorama.com.do/leonel-reconoce-inquietudes-internas-en-la-fuerza-del-pueblo/</link>
     <description><![CDATA[Leonel Fernández, presidente de la Fuerza del Pueblo, reconoció que existen inquietudes internas en el partido. Durante una entrevista, explicó que ha sostenido encuentros con alcaldes y diputados que han planteado preocupaciones sobre el funcionamiento interno.
@@ -1299,18 +1311,6 @@ La institución resaltó la colaboración con la Comisión Técnica y Asesora y 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781113591/autonoticias/articles/20260610_174631_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 10 Jun 2026 18:29:52 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260610182952</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Diputado de Pedernales renuncia de la Fuerza del Pueblo]]></title>
-    <link>https://eldia.com.do/diputado-de-pedernales-renuncia-de-la-fuerza-del-pueblo/</link>
-    <description><![CDATA[El diputado Rafael Pérez, representante de la provincia de Pedernales, ha renunciado a la Fuerza del Pueblo. La decisión fue anunciada este martes.
-
-No se han proporcionado detalles sobre las razones de su renuncia ni sobre sus próximos pasos en la política.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781111906/autonoticias/articles/20260610_171826_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 10 Jun 2026 17:19:32 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260610171932</guid>
   </item>
 </channel>
 </rss>
