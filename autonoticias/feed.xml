@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 18 Jun 2026 18:22:19 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 19 Jun 2026 22:02:16 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Caso Onco14: Gerentes obligaban a vender medicamentos donados bajo amenaza de despido]]></title>
+    <link>https://eldia.com.do/caso-onco14-gerentes-obligaban-a-vender-medicamentos-donados-bajo-amenaza-de-despido/</link>
+    <description><![CDATA[El caso Onco14 involucra a tres gerentes del Patronato Cibaeño Contra el Cáncer, acusados de vender medicamentos donados destinados a pacientes oncológicos. Según el Ministerio Público, esta práctica perjudicó a personas de escasos recursos.
+
+Los imputados también enfrentan cargos por doble facturación y fraude contra SeNaSa, así como por privatizar habitaciones para pacientes oncológicos. La audiencia de medida de coerción se llevará a cabo en Santiago.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781906508/autonoticias/articles/20260619_220147_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 19 Jun 2026 22:02:16 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260619220216</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Identifican mujer hallada en aguas del Malecón; padecía enfermedad de salud mental]]></title>
     <link>https://n.com.do/2026/06/18/identifican-mujer-hallada-en-aguas-del-malecon-padecia-enfermedad-de-salud-mental/</link>
     <description><![CDATA[Esperanza Santana Montes de Oca, de 28 años, fue identificada como la mujer hallada sin vida en las aguas del Malecón del Distrito Nacional. Familiares indicaron que recibía tratamiento por problemas de salud mental.
@@ -1297,20 +1309,6 @@ El coronel Diego Pesqueira, vocero de la Policía Nacional, indicó que García 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781119625/autonoticias/articles/20260610_192705_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 10 Jun 2026 19:27:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260610192758</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[SeNaSa cierra en positivo primer trimestre de 2026 y publica estados financieros de 2024 y 2025]]></title>
-    <link>https://www.presidencia.gob.do/noticias/senasa-cierra-en-positivo-primer-trimestre-de-2026-y-publica-estados-financieros-de-2024-y</link>
-    <description><![CDATA[El Seguro Nacional de Salud (SeNaSa) informó resultados positivos de RD 1,283,000.00 en el primer trimestre de 2026, atribuidos a mejoras financieras y tecnológicas. Publicaron los estados financieros de 2024 y preliminares de 2025 y 2026.
-
-SeNaSa lanzó una nueva plataforma para la gestión de medicamentos y el programa SeNaSa InTEgrA para afiliados con Trastorno del Espectro Autista, beneficiando a 1,103 afiliados.
-
-La institución resaltó la colaboración con la Comisión Técnica y Asesora y el CoSeNaSa, y las reuniones con el Servicio Nacional de Salud para fortalecer la red pública de salud.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781113591/autonoticias/articles/20260610_174631_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 10 Jun 2026 18:29:52 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260610182952</guid>
   </item>
 </channel>
 </rss>
