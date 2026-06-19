@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 19 Jun 2026 22:07:25 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 19 Jun 2026 22:09:13 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Fallece turista italiana tras resultar afectada por incendio en hotel de Bayahíbe]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/06/19/muere-turista-italiana-afectada-por-incendio-en-hotel-de-bayahibe/3572994</link>
+    <description><![CDATA[Una turista italiana, Francesca Valentino, de 46 años, falleció tras ser afectada por un incendio en un hotel de Bayahíbe, provincia La Altagracia. Fue asistida por el Sistema 911 y trasladada a un centro de salud en La Romana, donde murió mientras recibía atención médica.
+
+Las autoridades continúan trabajando para controlar el incendio con un operativo interinstitucional que incluye unidades de bomberos, policía, drones y recursos del Ministerio de Obras Públicas. El Instituto Nacional de Aguas Potables y Alcantarillados (Inapa) apoya con el suministro de agua. Las causas del incendio aún no se han determinado.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781906927/autonoticias/articles/20260619_220847_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 19 Jun 2026 22:09:13 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260619220913</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fabricantes de motores israelíes y canadienses participarán en investigación de accidente aéreo en La Romana]]></title>
     <link>https://eldia.com.do/fabricantes-de-motores-israelies-y-canadienses-participaran-en-investigacion-de-accidente-aereo-en-la-romana/</link>
     <description><![CDATA[Fabricantes de motores israelíes y canadienses se suman a la investigación del accidente aéreo en La Romana. La aeronave, que se dirigía a Austin, Texas, sufrió un siniestro que resultó en la muerte de sus dos pilotos.
@@ -1297,20 +1309,6 @@ La coordinación está a cargo de Mildred Canahuate y la curaduría de Amable L�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781136496/autonoticias/articles/20260611_000815_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 11 Jun 2026 00:08:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260611000842</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Senado impulsa creación del INDOCASABE y declara patrimonio cultural tradiciones de Moca y Monte Cristi]]></title>
-    <link>https://panorama.com.do/senado-impulsa-creacion-del-indocasabe-y-declara-patrimonio-cultural-tradiciones-de-moca-y-monte-cristi/</link>
-    <description><![CDATA[El Senado de la República aprobó en primera lectura la creación del Instituto Dominicano del Casabe (INDOCASABE), presentado por los senadores Antonio Marte y Manuel María Rodríguez, para fortalecer la producción de casabe y fomentar la siembra de yuca.
-
-Se declaró Patrimonio Cultural Inmaterial la tradición de la muñeca sin rostro de El Higüerito en Moca y “Los Toros de Monte Cristi”. También se designó la circunvalación de Baní como “Boulevard Turístico Rafael De Jesús Perelló Abreu”.
-
-El polideportivo de Pueblo Nuevo en San Cristóbal fue nombrado Douglas Miguel Hasbún José y se instituyó el 10 de septiembre como “Día del Orgullo Petromacorisano”. El Senado guardó un minuto de silencio por Franklin Guerrero, Isidro Ventura Guzmán y Eden de Jesús.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781136361/autonoticias/articles/20260611_000600_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 11 Jun 2026 00:07:18 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260611000718</guid>
   </item>
 </channel>
 </rss>
