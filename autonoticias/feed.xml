@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 20 Jun 2026 21:23:51 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 20 Jun 2026 21:24:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Fallece turista estadounidense tras ser impactada por embarcación mientras buceaba en Bahía de las Águilas]]></title>
+    <link>https://panorama.com.do/fallece-turista-estadounidense-tras-ser-impactada-por-embarcacion-mientras-buceaba-en-bahia-de-las-aguilas/</link>
+    <description><![CDATA[Gabriela Cartagena, una turista estadounidense de 20 años, perdió la vida tras ser impactada por una embarcación mientras buceaba en Bahía de las Águilas. El capitán de una yola no advirtió su presencia, causándole graves heridas.
+
+Fue trasladada al Hospital Dr. Elio Fiallo en Pedernales, pero debido a la gravedad de sus lesiones, se confirmó su fallecimiento. Las autoridades han iniciado investigaciones para esclarecer el accidente.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781990646/autonoticias/articles/20260620_212405_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 20 Jun 2026 21:24:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260620212431</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno aclara Ley 30-26 no contempla impuestos por suscripciones a plataformas digitales]]></title>
     <link>https://n.com.do/2026/06/20/gobierno-aclara-ley-30-26-no-contempla-impuestos-por-suscripciones-a-plataformas-digitales/</link>
     <description><![CDATA[El Ministerio de Hacienda y Economía aclaró que la Ley 30-26 no impone impuestos a suscripciones de plataformas digitales. La ley reduce la retención del Impuesto sobre la Renta de 27 % a 15 % para pagos de empresas dominicanas a proveedores extranjeros por licencias de software, regalías, derechos de autor, publicidad digital y servicios de almacenamiento en la nube.
@@ -1295,20 +1307,6 @@ La NOAA ha pronosticado 14 ciclones con nombre en el Atlántico, incluyendo seis
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781194294/autonoticias/articles/20260611_161134_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 11 Jun 2026 16:12:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260611161257</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Medio Ambiente cierra temporalmente la Cueva de la Línea en Los Haitises]]></title>
-    <link>https://n.com.do/2026/06/11/medio-ambiente-cierra-temporalmente-la-cueva-de-la-linea-en-los-haitises/</link>
-    <description><![CDATA[El Ministerio de Medio Ambiente y Recursos Naturales ha cerrado temporalmente la Cueva de la Línea en el Parque Nacional Los Haitises. Esta acción es parte de las evaluaciones de infraestructura y seguridad en áreas protegidas.
-
-Se están llevando a cabo inspecciones técnicas para identificar necesidades de intervención y asegurar condiciones seguras para los visitantes. No se ha dado una fecha de reapertura, pero se trabaja para implementar soluciones rápidamente.
-
-La Cueva de la Línea es un atractivo ecoturístico importante en el parque, conocido por su riqueza natural y biodiversidad.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781194253/autonoticias/articles/20260611_161053_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 11 Jun 2026 16:12:42 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260611161242</guid>
   </item>
 </channel>
 </rss>
