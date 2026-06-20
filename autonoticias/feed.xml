@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 19 Jun 2026 22:43:14 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 20 Jun 2026 01:02:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[JCE dispone entrega de cédula fines de semana sin restricción mes nacimiento]]></title>
+    <link>https://panorama.com.do/jce-dispone-entrega-de-cedula-fines-de-semana-sin-restriccion-mes-nacimiento/</link>
+    <description><![CDATA[La Junta Central Electoral (JCE) ha dispuesto que la renovación de la cédula se realice sin restricción del mes de nacimiento los sábados, domingos y feriados en todos los centros de cedulación del país.
+
+Además, se ha eliminado la restricción del mes de nacimiento para personas de setenta años o más, permitiendo su atención inmediata en cualquier centro de cedulación.
+
+Se han añadido 38 centros de cedulación en igual número de municipios para facilitar la renovación de la cédula de lunes a viernes y sin restricciones los fines de semana y feriados.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781917308/autonoticias/articles/20260620_010148_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 20 Jun 2026 01:02:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260620010220</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Dictan 18 meses de prisión contra cinco de los implicados en el caso XL-526]]></title>
     <link>https://listindiario.com/la-republica/provincias/20260619/conocen-medida-coercion-10-personas-caso-xl-526_910501.html</link>
     <description><![CDATA[La jueza Yiberty Polanco impuso 18 meses de prisión preventiva a cinco de los implicados en el caso XL-526, quienes cumplirán la medida en el Centro de Corrección y Rehabilitación Rafey Hombres. El caso fue declarado complejo y se otorgó al Ministerio Público un plazo de ocho meses para concluir la investigación.
@@ -1297,20 +1311,6 @@ Pérez se mostró optimista sobre una mayor participación en las próximas elec
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781185549/autonoticias/articles/20260611_134549_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 11 Jun 2026 13:46:48 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260611134648</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[INDOMET mantiene alertas meteorológicas; prevén aguaceros, tronadas y ráfagas de viento]]></title>
-    <link>https://robertocavada.com/indomet-mantiene-alertas-meteorologicas-preven-aguaceros-tronadas-y-rafagas-de-viento/</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (INDOMET) ha emitido un informe sobre las condiciones meteorológicas actuales. Una vaguada y una onda tropical al sur del país están generando lluvias en varias provincias. Se esperan aguaceros moderados a fuertes, tormentas eléctricas y ráfagas de viento en San José de Ocoa, La Vega, Santiago, San Juan, Santiago Rodríguez, Elías Piña y Dajabón. También se prevén precipitaciones menores en El Seibo, Hato Mayor y Monte Plata.
-
-Las alertas meteorológicas se mantienen en Santiago Rodríguez, San Juan, Elías Piña y Santiago debido al riesgo de inundaciones urbanas. Además, ligeras concentraciones de polvo del Sahara están afectando la calidad del aire y aumentando la sensación térmica. INDOMET recomienda tomar precauciones ante el calor.
-
-Por otro lado, una baja presión en la Bahía de Campeche tiene bajas probabilidades de desarrollo ciclónico y no representa peligro para la República Dominicana.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781183229/autonoticias/articles/20260611_130709_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 11 Jun 2026 13:09:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260611130931</guid>
   </item>
 </channel>
 </rss>
