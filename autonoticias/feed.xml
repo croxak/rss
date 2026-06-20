@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 20 Jun 2026 21:20:24 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 20 Jun 2026 21:23:51 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Gobierno aclara Ley 30-26 no contempla impuestos por suscripciones a plataformas digitales]]></title>
+    <link>https://n.com.do/2026/06/20/gobierno-aclara-ley-30-26-no-contempla-impuestos-por-suscripciones-a-plataformas-digitales/</link>
+    <description><![CDATA[El Ministerio de Hacienda y Economía aclaró que la Ley 30-26 no impone impuestos a suscripciones de plataformas digitales. La ley reduce la retención del Impuesto sobre la Renta de 27 % a 15 % para pagos de empresas dominicanas a proveedores extranjeros por licencias de software, regalías, derechos de autor, publicidad digital y servicios de almacenamiento en la nube.
+
+Esta medida aplica exclusivamente a relaciones comerciales entre empresas y no afecta a servicios digitales contratados por personas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781990526/autonoticias/articles/20260620_212206_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 20 Jun 2026 21:23:51 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260620212351</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gómez Mazara lidera supervisión electoral en Colombia por la COPPPAL]]></title>
     <link>https://www.elcaribe.com.do/nacionales/gomez-mazara-lidera-supervision-electoral-en-colombia-por-la-copppal/</link>
     <description><![CDATA[Guido Gómez Mazara, dirigente político dominicano, encabeza la misión de observación electoral de la COPPPAL en Colombia durante los comicios presidenciales. Su labor se centra en la supervisión técnica e imparcial del proceso electoral.
@@ -1297,18 +1309,6 @@ La Cueva de la Línea es un atractivo ecoturístico importante en el parque, con
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781194253/autonoticias/articles/20260611_161053_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 11 Jun 2026 16:12:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260611161242</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Trump anuncia ataques a Irán esta noche y advierte que controlará el crudo iraní como con Venezuela]]></title>
-    <link>https://n.com.do/2026/06/11/trump-anuncia-ataques-a-iran-esta-noche-y-advierte-que-controlara-el-crudo-irani-como-con-venezuela/</link>
-    <description><![CDATA[Donald Trump, presidente de Estados Unidos, ha anunciado que su país atacará a Irán "con gran dureza" esta noche. Además, ha advertido que Estados Unidos tomará el control de la industria petrolera iraní, de manera similar a lo que hizo con Venezuela.
-
-Las tensiones entre Estados Unidos e Irán han escalado tras ataques recientes y el cierre del estrecho de Ormuz por parte de Irán. Trump ha señalado que Irán ha tardado demasiado en negociar y ahora debe afrontar las consecuencias.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781194145/autonoticias/articles/20260611_160905_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 11 Jun 2026 16:12:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260611161228</guid>
   </item>
 </channel>
 </rss>
