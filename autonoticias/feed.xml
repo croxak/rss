@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 20 Jun 2026 21:19:59 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 20 Jun 2026 21:20:24 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Gómez Mazara lidera supervisión electoral en Colombia por la COPPPAL]]></title>
+    <link>https://www.elcaribe.com.do/nacionales/gomez-mazara-lidera-supervision-electoral-en-colombia-por-la-copppal/</link>
+    <description><![CDATA[Guido Gómez Mazara, dirigente político dominicano, encabeza la misión de observación electoral de la COPPPAL en Colombia durante los comicios presidenciales. Su labor se centra en la supervisión técnica e imparcial del proceso electoral.
+
+La misión de Gómez Mazara se desarrolla junto a otras delegaciones internacionales, como la de la OEA encabezada por Leonel Fernández. En la contienda presidencial participan figuras como Iván Cepeda, Paloma Valencia, Abelardo de la Espriella, Sergio Fajardo y Claudia López.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781990337/autonoticias/articles/20260620_211857_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 20 Jun 2026 21:20:24 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260620212024</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Caso Naco: este lunes Corte decidirá si Jean Andrés Pumarol enfrenta juicio de fondo]]></title>
     <link>https://n.com.do/2026/06/20/corte-conocera-apelacion-no-ha-lugar-jean-andres-pumarol/</link>
     <description><![CDATA[La Segunda Sala Penal de la Corte de Apelación del Distrito Nacional conocerá este lunes los recursos contra la decisión que favoreció a Jean Andrés Pumarol Fernández con un auto de "no ha lugar". Pumarol está vinculado al ataque en Naco, donde una mujer murió y varias personas resultaron heridas.
@@ -1297,20 +1309,6 @@ Las tensiones entre Estados Unidos e Irán han escalado tras ataques recientes y
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781194145/autonoticias/articles/20260611_160905_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 11 Jun 2026 16:12:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260611161228</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministro de Agricultura: “Se acabó el negocio con los permisos de importación agrícola”]]></title>
-    <link>https://panorama.com.do/ministro-de-agricultura-se-acabo-el-negocio-con-los-permisos-de-importacion-agricola/</link>
-    <description><![CDATA[El ministro de Agricultura, Francisco Oliverio Espaillat, declaró que se acabó el negocio irregular con los permisos de importación agrícola. Las transacciones no oficiales no serán reconocidas, y el número de importadores autorizados se redujo de 51 a 19.
-
-Se lanzó el programa PRONAMET para modernizar el sector agrícola y enfrentar la escasez de mano de obra. Además, se están evaluando terrenos en Neiba y Enriquillo para cultivos de alto valor.
-
-El director de Ganadería, Abel Madera, informó sobre los avances en sanidad porcina y la autosuficiencia en la producción de carne de res.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781194207/autonoticias/articles/20260611_161007_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 11 Jun 2026 16:11:57 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260611161157</guid>
   </item>
 </channel>
 </rss>
