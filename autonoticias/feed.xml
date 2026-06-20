@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 20 Jun 2026 15:29:56 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 20 Jun 2026 15:30:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Poder Ejecutivo dispone la extradición a EE. UU. de dominicano acusado de narcotráfico]]></title>
+    <link>https://eldia.com.do/poder-ejecutivo-dispone-la-extradicion-a-ee-uu-de-dominicano-acusado-de-narcotrafico/</link>
+    <description><![CDATA[El presidente Luis Abinader ha dispuesto la extradición de Rafael Antonio Castro Facenda a Estados Unidos. El dominicano es acusado de conspiración y distribución de heroína en Nueva Jersey, según una investigación desde 2019.
+
+El Decreto 409-26 autoriza su entrega bajo el tratado de extradición de 2016. La Procuraduría General de la República y la Dirección General de Migración ejecutarán la orden.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781969312/autonoticias/articles/20260620_152832_article.webp" type="image/jpeg"/>
+    <pubDate>Sat, 20 Jun 2026 15:30:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260620153019</guid>
+  </item>
+
+  <item>
     <title><![CDATA[HOMS impulsa la cultura de donación y de trasplantes]]></title>
     <link>https://www.elcaribe.com.do/panorama/region-norte/homs-impulsa-la-cultura-de-donacion-y-de-trasplantes/</link>
     <description><![CDATA[El Hospital Metropolitano de Santiago (HOMS) reafirma su compromiso con la cultura de donación y trasplantes en República Dominicana. A través de una jornada académica, busca orientar y sensibilizar al personal médico sobre los desafíos en esta área.
@@ -1301,18 +1313,6 @@ El incidente ocurrió en la intersección de las calles Emilio Proud-Homme y Jos
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781187053/autonoticias/articles/20260611_141053_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 11 Jun 2026 14:12:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260611141203</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ejército detiene a 38 haitianos indocumentados en Dajabón y Santiago Rodríguez]]></title>
-    <link>https://panorama.com.do/ejercito-detiene-a-38-haitianos-indocumentados-en-dajabon-y-santiago-rodriguez/</link>
-    <description><![CDATA[El Ejército de República Dominicana detuvo a 38 haitianos indocumentados en operativos en Dajabón y Santiago Rodríguez. En La Vigía, Dajabón, se localizaron 23 personas, mientras que en Monción, Santiago Rodríguez, se detuvieron a 11.
-
-Los detenidos fueron trasladados bajo custodia militar para su entrega a la Dirección General de Migración, conforme a la legislación vigente. Estos operativos forman parte de las acciones para combatir el tráfico ilegal de personas y fortalecer la seguridad fronteriza.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781187022/autonoticias/articles/20260611_141022_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 11 Jun 2026 14:10:52 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260611141052</guid>
   </item>
 </channel>
 </rss>
