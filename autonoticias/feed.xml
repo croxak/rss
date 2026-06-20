@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 20 Jun 2026 15:26:46 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 20 Jun 2026 15:29:56 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[HOMS impulsa la cultura de donación y de trasplantes]]></title>
+    <link>https://www.elcaribe.com.do/panorama/region-norte/homs-impulsa-la-cultura-de-donacion-y-de-trasplantes/</link>
+    <description><![CDATA[El Hospital Metropolitano de Santiago (HOMS) reafirma su compromiso con la cultura de donación y trasplantes en República Dominicana. A través de una jornada académica, busca orientar y sensibilizar al personal médico sobre los desafíos en esta área.
+
+Aurivet Martínez Tejada, coordinadora del programa de trasplantes del HOMS, enfatiza la importancia del trabajo conjunto para el éxito de los sistemas de donación. El hospital aspira a ser un referente nacional en trasplantes.
+
+En 2024, se realizaron 173,727 trasplantes de órganos a nivel mundial, pero en República Dominicana solo se efectuaron 1,027 trasplantes renales entre 2008 y 2025. La situación sigue siendo preocupante.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781969329/autonoticias/articles/20260620_152848_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 20 Jun 2026 15:29:56 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260620152956</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Detienen dos agentes de Migración por transportar irregularmente haitianos]]></title>
     <link>https://n.com.do/2026/06/20/detienen-dos-agentes-de-migracion-por-transportar-irregularmente-haitianos/</link>
     <description><![CDATA[La Dirección General de Migración detuvo a dos de sus colaboradores por transportar irregularmente a 22 haitianos en vehículos de la institución entre las provincias de Dajabón y Puerto Plata.
@@ -1299,18 +1313,6 @@ Los detenidos fueron trasladados bajo custodia militar para su entrega a la Dire
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781187022/autonoticias/articles/20260611_141022_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 11 Jun 2026 14:10:52 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260611141052</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fujimori vuelve a situarse por delante de Sánchez en la recta final del escrutinio en Perú]]></title>
-    <link>https://eldia.com.do/fujimori-vuelve-a-situarse-por-delante-de-sanchez-en-la-recta-final-del-escrutinio-en-peru/</link>
-    <description><![CDATA[Keiko Fujimori ha tomado la delantera en el escrutinio de la segunda vuelta de las elecciones presidenciales de Perú, con el 98,20 % de los votos contados. Fujimori tiene el 50,001 % de los votos válidos, mientras que Roberto Sánchez cuenta con el 49,999 %.
-
-Los votos restantes provienen del extranjero y de actas impugnadas, principalmente de Lima, donde Fujimori es la más votada. Este resultado podría significar el regreso del fujimorismo al poder después de 26 años.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781185666/autonoticias/articles/20260611_134746_article.webp" type="image/jpeg"/>
-    <pubDate>Thu, 11 Jun 2026 13:48:23 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260611134823</guid>
   </item>
 </channel>
 </rss>
