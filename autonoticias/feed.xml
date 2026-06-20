@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 20 Jun 2026 21:24:31 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 20 Jun 2026 21:26:53 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[COE concluye operativo tras incendio en hotel de Bayahíbe y transfiere seguimiento a Turismo y Migración]]></title>
+    <link>https://panorama.com.do/coe-concluye-operativo-tras-incendio-en-hotel-de-bayahibe-y-transfiere-seguimiento-a-turismo-y-migracion/</link>
+    <description><![CDATA[El COE ha concluido su intervención en el incendio del hotel Viva Wyndham Dominicus Beach en Bayahíbe, tras controlar el siniestro. Ahora, el Ministerio de Turismo y la Dirección General de Migración se encargan de las acciones posteriores.
+
+Durante la emergencia, se evacuaron cerca de 1,690 personas, quienes fueron trasladadas a otros hoteles de la zona. La respuesta incluyó 475 miembros de diversas entidades y el uso de 22 camiones de bomberos, ocho camiones cisterna, 10 ambulancias y dos helicópteros.
+
+Las investigaciones sobre las causas del incendio continúan. Se considera que el viento y materiales combustibles en techos de cana pudieron influir en la propagación del fuego. Lamentablemente, una persona falleció durante el incidente.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781990500/autonoticias/articles/20260620_212140_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 20 Jun 2026 21:26:53 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260620212653</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece turista estadounidense tras ser impactada por embarcación mientras buceaba en Bahía de las Águilas]]></title>
     <link>https://panorama.com.do/fallece-turista-estadounidense-tras-ser-impactada-por-embarcacion-mientras-buceaba-en-bahia-de-las-aguilas/</link>
     <description><![CDATA[Gabriela Cartagena, una turista estadounidense de 20 años, perdió la vida tras ser impactada por una embarcación mientras buceaba en Bahía de las Águilas. El capitán de una yola no advirtió su presencia, causándole graves heridas.
@@ -1293,20 +1307,6 @@ Guerrero fue sancionado en 2025 y estaba prófugo desde 2023. Trump declaró al 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781327911/autonoticias/articles/20260613_051831_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 13 Jun 2026 05:18:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260613051858</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fenómeno El Niño se forma en el Pacífico con previsión de ser «muy fuerte», avisa EE. UU.]]></title>
-    <link>https://elnuevodiario.com.do/el-fenomeno-el-nino-se-forma-en-el-pacifico-con-prevision-de-ser-muy-fuerte-avisa-ee-uu/</link>
-    <description><![CDATA[El fenómeno El Niño se ha formado en el Pacífico tropical y se espera que sea "muy fuerte" y prolongado, según la NOAA. Se prevé que las temperaturas de la superficie marítima superen los 2 grados centígrados sobre lo usual.
-
-Este fenómeno implica aguas más cálidas y vientos más intensos, lo que puede resultar en condiciones más secas y un invierno más cálido en Estados Unidos, además de más tormentas en el sur del país. También se espera una mayor actividad ciclónica en el Pacífico y un menor número de huracanes en el Atlántico.
-
-La NOAA ha pronosticado 14 ciclones con nombre en el Atlántico, incluyendo seis huracanes, y entre 15 y 22 tormentas con nombre en el Pacífico. Además, hay un mayor riesgo de inundaciones por oleaje en la costa oeste de Estados Unidos y cambios en la migración de peces y formación de algas dañinas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781194294/autonoticias/articles/20260611_161134_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 11 Jun 2026 16:12:57 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260611161257</guid>
   </item>
 </channel>
 </rss>
