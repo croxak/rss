@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 20 Jun 2026 15:30:35 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 20 Jun 2026 15:31:46 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Interceptan en Constanza cuatro vehículos con 29 haitianos indocumentados]]></title>
+    <link>https://eldia.com.do/interceptan-en-constanza-cuatro-vehiculos-con-29-haitianos-indocumentados/</link>
+    <description><![CDATA[Miembros del Ejército de la República Dominicana detuvieron a 29 haitianos indocumentados en Constanza. Los extranjeros iban ocultos bajo lonas en cuatro vehículos con destino a Santiago.
+
+El operativo se llevó a cabo en el paraje Tireo, donde se interceptaron los vehículos. Los conductores dominicanos fueron detenidos y trasladados junto a los migrantes para procedimientos de investigación.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781969135/autonoticias/articles/20260620_152534_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 20 Jun 2026 15:31:46 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260620153146</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Cierran temporalmente el Puente Flotante este sábado por paso de embarcación]]></title>
     <link>https://panorama.com.do/cierran-temporalmente-el-puente-flotante-este-sabado-por-paso-de-embarcacion/</link>
     <description><![CDATA[El Ministerio de Obras Públicas y Comunicaciones (MOPC) cerrará temporalmente el Puente Flotante sobre el río Ozama este sábado. La medida se aplicará de 10:00 a.m. a 12:00 p.m. para permitir el paso del buque M/V Isla Mujeres.
@@ -1299,20 +1311,6 @@ También mencionó la necesidad de abordar la minería de manera seria y respons
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781189808/autonoticias/articles/20260611_145648_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 11 Jun 2026 14:57:38 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260611145738</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Extraditan a EE. UU. dominicano acusado de narcotráfico internacional]]></title>
-    <link>https://www.elcaribe.com.do/panorama/pais/extraditan-a-ee-uu-dominicano-acusado-de-narcotrafico-internacional/</link>
-    <description><![CDATA[Las autoridades dominicanas han extraditado a Missaelle Morales Silvestre, conocido como “Bori” o “El Viejo”, a Estados Unidos. Morales Silvestre enfrenta cargos de narcotráfico internacional en el Distrito Judicial de Puerto Rico.
-
-La extradición se llevó a cabo en el Aeropuerto Internacional de Las Américas, cumpliendo con el decreto 338-26. Morales Silvestre fue arrestado en abril de 2026 en el Distrito Nacional.
-
-Este caso es parte de los esfuerzos conjuntos entre República Dominicana y Estados Unidos para combatir el narcotráfico y la criminalidad organizada transnacional.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781187038/autonoticias/articles/20260611_141038_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 11 Jun 2026 14:12:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260611141219</guid>
   </item>
 </channel>
 </rss>
