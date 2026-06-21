@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 20 Jun 2026 21:26:53 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 21 Jun 2026 16:23:57 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[DNCD desmantela plantación de marihuana con más de 15 mil plantas en Ocoa]]></title>
+    <link>https://panorama.com.do/dncd-desmantela-plantacion-de-marihuana-con-mas-de-15-mil-plantas-en-ocoa/</link>
+    <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD) y el Ministerio Público desmantelaron una plantación de marihuana con más de 15,000 plantas en San José de Ocoa. Este operativo es el más grande de su tipo registrado en la historia del país.
+
+El hallazgo se realizó en una zona montañosa del distrito municipal El Pinar, gracias a labores de inteligencia y vigilancia aérea. Más de 70 agentes participaron en la intervención, que incluyó el uso de drones y seguimiento continuo.
+
+En el lugar se encontraron 15,392 plantas de marihuana y una vivienda utilizada como centro de acopio. Las autoridades han interrogado a más de diez personas en relación con el caso.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782059004/autonoticias/articles/20260621_162323_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 21 Jun 2026 16:23:57 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260621162357</guid>
+  </item>
+
+  <item>
     <title><![CDATA[COE concluye operativo tras incendio en hotel de Bayahíbe y transfiere seguimiento a Turismo y Migración]]></title>
     <link>https://panorama.com.do/coe-concluye-operativo-tras-incendio-en-hotel-de-bayahibe-y-transfiere-seguimiento-a-turismo-y-migracion/</link>
     <description><![CDATA[El COE ha concluido su intervención en el incendio del hotel Viva Wyndham Dominicus Beach en Bayahíbe, tras controlar el siniestro. Ahora, el Ministerio de Turismo y la Dirección General de Migración se encargan de las acciones posteriores.
@@ -1295,18 +1309,6 @@ Las autoridades siguen investigando para determinar el origen del monóxido de c
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781361760/autonoticias/articles/20260613_144239_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 13 Jun 2026 14:43:12 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260613144312</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Trump anuncia la muerte del 'Niño Guerrero', el líder de banda venezolana Tren de Aragua]]></title>
-    <link>https://panorama.com.do/trump-anuncia-la-muerte-del-nino-guerrero-el-lider-de-banda-venezolana-tren-de-aragua/</link>
-    <description><![CDATA[Donald Trump anunció la muerte de Héctor Guerrero Flores, alias ‘Niño Guerrero’, líder del Tren de Aragua. Según Trump, el Comando Sur de EE.UU. realizó un ataque coordinado con Venezuela.
-
-Guerrero fue sancionado en 2025 y estaba prófugo desde 2023. Trump declaró al Tren de Aragua como organización terrorista extranjera.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781327911/autonoticias/articles/20260613_051831_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 13 Jun 2026 05:18:58 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260613051858</guid>
   </item>
 </channel>
 </rss>
