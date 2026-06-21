@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 21 Jun 2026 16:30:06 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 21 Jun 2026 18:47:12 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Irán suspendería cualquier negociación con EEUU si Israel no se retira de Líbano, según un medio iraní]]></title>
+    <link>https://eldia.com.do/iran-suspenderia-cualquier-negociacion-con-eeuu-si-israel-no-se-retira-de-libano-segun-un-medio-irani/</link>
+    <description><![CDATA[Irán podría suspender cualquier negociación con Estados Unidos si Israel no se retira del Líbano, según la agencia Tasnim. Teherán condiciona el diálogo a avances en el alto el fuego y el respeto a la soberanía libanesa.
+
+El ministro de Defensa israelí, Israel Katz, afirmó que sus tropas no se retirarán de la zona que Israel define como “zona de seguridad” en el sur del Líbano.
+
+Las delegaciones de Estados Unidos e Irán, encabezadas por JD Vance y Mohamad Baqer Qalibaf, respectivamente, comenzaron sus conversaciones en Suiza, mediadas por Catar y Pakistán.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782067562/autonoticias/articles/20260621_184602_article.png" type="image/png"/>
+    <pubDate>Sun, 21 Jun 2026 18:47:12 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260621184712</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader afirma el PRM solo se debilitaría si se fomentan divisiones innecesarias de grupos internos]]></title>
     <link>https://eldia.com.do/abinader-afirma-el-prm-solo-se-debilitaria-si-se-fomentan-divisiones-innecesarias-de-grupos-internos/</link>
     <description><![CDATA[El presidente Luis Abinader expresó que el Partido Revolucionario Moderno (PRM) solo se debilitaría si se fomentan divisiones innecesarias entre sus grupos internos. En un partido grande, es normal que surjan intereses de muchos aspirantes, lo cual fortalece a la organización si se antepone el interés colectivo.
@@ -1297,20 +1311,6 @@ La Policía Nacional y el Ministerio Público están a cargo de las investigacio
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781362256/autonoticias/articles/20260613_145056_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 13 Jun 2026 14:55:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260613145520</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Anthropic suspende acceso a su modelo más avanzado por orden de seguridad nacional de EE. UU.]]></title>
-    <link>https://www.diariolibre.com/usa/actualidad/2026/06/13/anthropic-restringe-modelo-mas-avanzado-por-orden-de-ee-uu/3565714</link>
-    <description><![CDATA[Anthropic ha suspendido el acceso a sus modelos de inteligencia artificial Fable 5 y Mythos 5. La decisión responde a una directiva de control de exportaciones de la Administración de Trump que busca impedir el acceso a extranjeros por motivos de seguridad nacional.
-
-La compañía informó que no ha recibido detalles específicos sobre la amenaza que representan sus servicios. La suspensión se produjo poco después de que Fable 5 se ofreciera a sus suscriptores.
-
-Fable 5, basado en el modelo Mythos, fue considerado superior en habilidades y seguridad. Anthropic había alertado sobre los riesgos de Mythos en ciberseguridad y lo puso a disposición de empresas selectas bajo el Project Glasswing.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781362291/autonoticias/articles/20260613_145131_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 13 Jun 2026 14:54:55 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260613145455</guid>
   </item>
 </channel>
 </rss>
