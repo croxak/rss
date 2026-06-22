@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 22 Jun 2026 01:20:29 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 22 Jun 2026 01:27:47 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Marco Rubio celebra la victoria de De la Espriella y reafirma la cooperación con Colombia]]></title>
+    <link>https://n.com.do/2026/06/21/marco-rubio-reafirma-cooperacion-con-colombia-tras-victoria-de-de-la-espriella/</link>
+    <description><![CDATA[Marco Rubio, secretario de Estado de EE.UU., felicitó a Abelardo de la Espriella por su victoria en las elecciones presidenciales de Colombia. Rubio destacó la intención de la administración Trump de trabajar estrechamente con el nuevo gobierno colombiano.
+
+La cooperación se centrará en la seguridad regional, la inmigración ilegal hacia EE.UU. y el fortalecimiento de los lazos económicos. Rubio expresó optimismo sobre el futuro de Colombia, afirmando que "los mejores días de Colombia están por venir".]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782091612/autonoticias/articles/20260622_012651_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 22 Jun 2026 01:27:47 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260622012747</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abelardo de la Espriella gana la Presidencia de Colombia, según conteo preliminar]]></title>
     <link>https://noticiassin.com/mundo/america/2026/06/21/abelardo-de-la-espriella-gana-la-presidencia-de-colombia-2035237/</link>
     <description><![CDATA[Abelardo de la Espriella ha sido declarado ganador de la presidencia de Colombia en segunda vuelta, según el conteo preliminar de la Registraduría Nacional. Obtuvo 12.931.544 votos, superando a Iván Cepeda por 245.738 votos.
@@ -1301,18 +1313,6 @@ Las familias habían llegado a Barahona para vacacionar. El menor quedó atrapad
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781362204/autonoticias/articles/20260613_145004_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 13 Jun 2026 14:56:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260613145617</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Vaguada y onda tropical provocarán aguaceros; COE incrementa alertas meteorológicas]]></title>
-    <link>https://panorama.com.do/vaguada-y-onda-tropical-provocaran-aguaceros-coe-incrementa-alertas-meteorologicas/</link>
-    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha elevado a alerta amarilla a Hato Mayor y El Seibo. Otras 14 provincias permanecen bajo alerta verde.
-
-Se esperan aguaceros moderados a fuertes, tormentas eléctricas y posibles granizadas aisladas en varias provincias debido a una vaguada y una onda tropical. Las provincias afectadas incluyen Dajabón, Santiago Rodríguez, San Juan, Elías Piña, entre otras.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781362223/autonoticias/articles/20260613_145022_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 13 Jun 2026 14:56:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260613145601</guid>
   </item>
 </channel>
 </rss>
