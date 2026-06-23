@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 23 Jun 2026 13:32:33 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 23 Jun 2026 15:40:59 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Instituto Duartiano pide priorizar a estudiantes dominicanos ante los extranjeros]]></title>
+    <link>https://panorama.com.do/instituto-duartiano-pide-priorizar-a-estudiantes-dominicanos-ante-los-extranjeros/</link>
+    <description><![CDATA[Wilson Gómez Ramírez, presidente del Instituto Duartiano, alertó sobre el riesgo de que estudiantes dominicanos queden fuera de las aulas debido a la ocupación de plazas por familias extranjeras en situación irregular. Hizo un llamado a los padres para que inscriban a sus hijos en planteles públicos.
+
+Gómez Ramírez respaldó la medida de la Dirección General de Migración de cancelar y someter a la justicia a servidores involucrados en tráfico de indocumentados. Reclamó una actuación contundente del Ministerio Público y pidió a las agencias de inteligencia combatir la corrupción fronteriza.
+
+Advirtió sobre los asentamientos de haitianos indocumentados y demandó el cumplimiento de las leyes migratorias y laborales, asegurando el 80% de la mano de obra para trabajadores dominicanos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782229217/autonoticias/articles/20260623_154017_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 23 Jun 2026 15:40:59 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260623154059</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Estudiantes dominicanos clasifican a final mundial de competencia tecnológica en China]]></title>
     <link>https://www.elcaribe.com.do/panorama/educacion/estudiantes-dominicanos-clasifican-a-final-mundial-de-competencia-tecnologica-en-china/</link>
     <description><![CDATA[Un equipo de la Pontificia Universidad Católica Madre y Maestra (PUCMM) ha logrado clasificar a la fase final de la Huawei ICT Global Competition 2025-2026, que se llevará a cabo en Shenzhen, China.
@@ -1301,18 +1315,6 @@ Los informes toxicológicos detectaron monóxido de carbono en las víctimas, pe
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781376135/autonoticias/articles/20260613_184215_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 13 Jun 2026 18:45:59 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260613184559</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Accidente de vehículo de Supérate deja 16 personas heridas en trayecto entre Consuelo y Hato Mayor]]></title>
-    <link>https://n.com.do/2026/06/13/accidente-de-vehiculo-de-superate-deja-16-personas-heridas-en-trayecto-entre-consuelo-y-hato-mayor/</link>
-    <description><![CDATA[Un vehículo de la Dirección de Desarrollo Social Supérate sufrió un accidente en la carretera entre Consuelo y Hato Mayor, dejando 16 personas heridas. Los afectados fueron trasladados a centros de salud y no se han reportado víctimas mortales.
-
-Supérate expresó su solidaridad con los afectados y sus familias, asegurando que mantiene el acompañamiento al personal involucrado. La institución seguirá informando conforme se disponga de información oficial.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781376097/autonoticias/articles/20260613_184136_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 13 Jun 2026 18:42:17 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260613184217</guid>
   </item>
 </channel>
 </rss>
