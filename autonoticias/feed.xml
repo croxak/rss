@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 23 Jun 2026 12:51:36 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 23 Jun 2026 13:32:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Estudiantes dominicanos clasifican a final mundial de competencia tecnológica en China]]></title>
+    <link>https://www.elcaribe.com.do/panorama/educacion/estudiantes-dominicanos-clasifican-a-final-mundial-de-competencia-tecnologica-en-china/</link>
+    <description><![CDATA[Un equipo de la Pontificia Universidad Católica Madre y Maestra (PUCMM) ha logrado clasificar a la fase final de la Huawei ICT Global Competition 2025-2026, que se llevará a cabo en Shenzhen, China.
+
+El equipo, integrado por Marco Reyes, Yira Tavárez y Diego de Jesús Peralta Mora, competirá en la pista de Informática. Bajo la mentoría del profesor Jesús Nicolás Mejías, se han posicionado como la única representación de Centroamérica y el Caribe en la final.
+
+La competencia reúne a estudiantes de más de 80 países, promoviendo habilidades prácticas e innovación tecnológica a nivel global.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782221526/autonoticias/articles/20260623_133205_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 23 Jun 2026 13:32:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260623133233</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Más de 111 mil estudiantes se enfrentan a Pruebas Nacionales desde este martes]]></title>
     <link>https://n.com.do/2026/06/23/minerd-iniciara-este-martes-las-pruebas-nacionales-2026-para-mas-de-111-mil-estudiantes/</link>
     <description><![CDATA[Este martes 23 de junio inicia la primera convocatoria de las Pruebas Nacionales 2026 en República Dominicana. Participarán 111,994 estudiantes de Educación Secundaria y de Educación Secundaria de Personas Jóvenes y Adultas.
@@ -1299,20 +1313,6 @@ Supérate expresó su solidaridad con los afectados y sus familias, asegurando q
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781376097/autonoticias/articles/20260613_184136_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 13 Jun 2026 18:42:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260613184217</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[COE descontinúa alerta en 12 provincias; tres permanecen en alerta verde]]></title>
-    <link>https://eldia.com.do/coe-descontinua-alerta-en-12-provincias-tres-permanecen-en-alerta-verde/</link>
-    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha descontinuado las alertas en 12 provincias, pero mantiene a Dajabón, Santiago Rodríguez y Elías Piña en alerta verde. Se esperan chubascos aislados y tronadas en algunas localidades del noreste y la cordillera Central.
-
-El COE recomienda a la población evitar cruzar ríos y usar balnearios en las provincias bajo alerta. Además, se advierte sobre las concentraciones de polvo del Sahara que afectan la calidad del aire y la salud.
-
-Se sugiere ingerir suficientes líquidos, vestir ropa ligera y evitar la exposición prolongada al sol entre las 11:00 a. m. y las 4:00 p. m.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781375242/autonoticias/articles/20260613_182721_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 13 Jun 2026 18:40:21 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260613184021</guid>
   </item>
 </channel>
 </rss>
