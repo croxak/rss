@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 24 Jun 2026 17:47:36 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 24 Jun 2026 23:11:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Sismo de 7.1 sacude a Venezuela; emiten alerta de tsunami para todo el Caribe]]></title>
+    <link>https://n.com.do/2026/06/24/sismo-de-7-1-sacude-a-venezuela-emiten-alerta-de-tsunami-para-todo-el-caribe/</link>
+    <description><![CDATA[Un terremoto de magnitud preliminar 6.19 sacudió la costa al norte de Venezuela a las 6:04 p.m., siendo sentido en República Dominicana y Puerto Rico. 
+
+El Servicio Nacional de Meteorología emitió una advertencia de tsunami para el Caribe. El epicentro se localizó a 21 km al este de Morón, a una profundidad de 10 km. Tras el sismo, se registraron varias réplicas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782342665/autonoticias/articles/20260624_231104_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 24 Jun 2026 23:11:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260624231135</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Desmantelan fábrica clandestina de bebidas adulteradas; ocupan más de 1,300 botellas]]></title>
     <link>https://panorama.com.do/desmantelan-fabrica-clandestina-de-bebidas-adulteradas-ocupan-mas-de-1300-botellas/</link>
     <description><![CDATA[Agentes de la Policía Nacional y el Ministerio Público desmantelaron una fábrica clandestina de bebidas adulteradas en el Km 14 de Los Alcarrizos. Se ocuparon más de 1,300 botellas, dos máquinas de fabricación, decenas de galones de alcohol y vino, 60,000 cigarrillos de contrabando, un vehículo y otros insumos.
@@ -1301,20 +1313,6 @@ La operación contó con la cooperación de la Policía Nacional y la Unidad de 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781455662/autonoticias/articles/20260614_164741_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 14 Jun 2026 16:48:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260614164828</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Wilson Camacho acude a la Fiscalía de Santiago tras arresto del director del Oncológico]]></title>
-    <link>https://n.com.do/2026/06/13/wilson-camacho-acude-a-la-fiscalia-de-santiago-tras-arresto-del-director-del-oncologico/</link>
-    <description><![CDATA[Wilson Camacho, director de la Pepca, acudió a la Fiscalía de Santiago para los interrogatorios al exdirector del Instituto Oncológico Regional del Cibao, Héctor Lora, su esposa Luisa Guzmán y otros vinculados a una investigación del Ministerio Público.
-
-La investigación se originó tras una querella del Patronato Cibaeño Contra el Cáncer por presuntas irregularidades administrativas y financieras durante la gestión de Lora. El Ministerio Público realizó operativos y arrestos mientras avanza en las pesquisas.
-
-Hasta ahora, las autoridades no han informado oficialmente los cargos ni las próximas acciones judiciales.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781397339/autonoticias/articles/20260614_003538_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 14 Jun 2026 00:36:17 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260614003617</guid>
   </item>
 </channel>
 </rss>
