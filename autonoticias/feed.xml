@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 25 Jun 2026 12:31:26 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 25 Jun 2026 12:31:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Delcy Rodríguez reporta 164 fallecidos, 971 heridos y 30 réplicas tras sismos en Venezuela]]></title>
+    <link>https://robertocavada.com/delcy-rodriguez-reporta-164-fallecidos-971-heridos-y-30-replicas-tras-sismos-en-venezuela/</link>
+    <description><![CDATA[Delcy Rodríguez, presidenta encargada de Venezuela, confirmó 164 muertos y 971 heridos debido a dos terremotos que sacudieron el país. Se han registrado 30 réplicas.
+
+Un fondo de 200 millones de dólares se ha establecido para la reconstrucción de las zonas afectadas. La Guaira ha sido declarada zona de desastre natural.
+
+Equipos de rescate internacionales, incluidos grupos certificados por la ONU, están en camino para ayudar en las labores de rescate.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782390667/autonoticias/articles/20260625_123107_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 25 Jun 2026 12:31:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260625123141</guid>
+  </item>
+
+  <item>
     <title><![CDATA[La ONU coordinará equipos de rescate de «toda la comunidad internacional» tras los terremotos de Venezuela]]></title>
     <link>https://eldia.com.do/la-onu-coordinara-equipos-de-rescate-de-toda-la-comunidad-internacional-tras-los-terremotos-de-venezuela-2/</link>
     <description><![CDATA[La ONU ha anunciado su movilización para apoyar a Venezuela tras los recientes terremotos. La Oficina de Coordinación de Asuntos Humanitarios coordina el despliegue de equipos de rescate de la comunidad internacional y ha enviado un equipo de respuesta rápida para reforzar el personal en el terreno.
@@ -1293,20 +1307,6 @@ Las investigaciones continúan para identificar a otros posibles involucrados en
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781462765/autonoticias/articles/20260614_184605_article.png" type="image/png"/>
     <pubDate>Sun, 14 Jun 2026 18:46:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260614184657</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Remesas en el país superan 5,000 millones de dólares hasta mayo de 2026]]></title>
-    <link>https://eldia.com.do/remesas-en-el-pais-superan-5000-millones-de-dolares-hasta-mayo-de-2026/</link>
-    <description><![CDATA[El Banco Central de la República Dominicana reporta que las remesas alcanzaron US$5,170.1 millones de enero a mayo de 2026, con un crecimiento interanual del 5.4 %. En mayo, se recibieron US$1,090.2 millones, un aumento del 10.6 % respecto al mismo mes de 2025.
-
-El 82.3 % de las remesas en mayo provinieron de Estados Unidos, seguido por España, Italia, Haití y Suiza. El Distrito Nacional captó el 49.7 % del flujo de remesas en mayo.
-
-La moneda nacional se apreció 7.8 % frente al dólar al 31 de mayo de 2026. Las reservas internacionales alcanzaron US$15,771.1 millones, cubriendo 5.7 meses de importaciones.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781456876/autonoticias/articles/20260614_170756_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 14 Jun 2026 17:08:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260614170829</guid>
   </item>
 </channel>
 </rss>
