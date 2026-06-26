@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 25 Jun 2026 21:45:39 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 26 Jun 2026 00:06:54 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[EE.UU. levanta sanciones para permitir transacciones de ayuda a Venezuela por terremotos]]></title>
+    <link>https://elnuevodiario.com.do/ee-uu-levanta-sanciones-para-permitir-transacciones-de-ayuda-a-venezuela-por-terremotos/</link>
+    <description><![CDATA[Estados Unidos ha levantado ciertas sanciones para permitir transacciones de ayuda a Venezuela tras los terremotos que han dejado más de 180 muertos. Esta autorización estará vigente hasta el 23 de octubre de 2026, según el Departamento del Tesoro.
+
+La medida no incluye el desbloqueo de bienes sujetos al reglamento de sanciones. Los terremotos, de magnitud 7,2 y 7,4, son los más devastadores en la historia reciente de Venezuela.
+
+Además, EE.UU. enviará 150 millones de dólares para asistencia humanitaria a través de la OCHA.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782432388/autonoticias/articles/20260626_000627_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 26 Jun 2026 00:06:54 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260626000654</guid>
+  </item>
+
+  <item>
     <title><![CDATA[PN apresa mujer de nacionalidad haitiana por la muerte de su pareja sentimental en Villa Mella]]></title>
     <link>https://n.com.do/2026/06/25/pn-apresa-mujer-de-nacionalidad-haitiana-por-la-muerte-de-su-pareja-sentimental-en-villa-mella/</link>
     <description><![CDATA[La Policía Nacional arrestó a Enires de la Flex, una mujer haitiana, por la muerte de su pareja, Mario Gabriel (a) Yan Carlos, en Villa Mella. El hecho ocurrió el 24 de junio cerca de la autopista Circunvalación.
@@ -1295,18 +1309,6 @@ Los organismos de investigación están trabajando en el caso para esclarecer lo
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781462841/autonoticias/articles/20260614_184721_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 14 Jun 2026 18:47:54 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260614184754</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio de Defensa gradúa nuevos tiradores de alta precisión y operadores tácticos especializados]]></title>
-    <link>https://panorama.com.do/ministerio-de-defensa-gradua-nuevos-tiradores-de-alta-precision-y-operadores-tacticos-especializados/</link>
-    <description><![CDATA[El Ministerio de Defensa de la República Dominicana celebró la graduación de 53 militares en cursos especializados. La ceremonia fue liderada por el ministro de Defensa, Carlos Antonio Fernández Onofre, quien resaltó la importancia de la capacitación para enfrentar los desafíos de seguridad.
-
-Los graduados incluyen 37 operadores tácticos y 16 tiradores de alta precisión, quienes completaron programas de formación en liderazgo, armamento, combate cercano, tiro de precisión y más. Estos programas son parte del proceso de modernización de las Fuerzas Armadas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781462794/autonoticias/articles/20260614_184634_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 14 Jun 2026 18:47:09 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260614184709</guid>
   </item>
 </channel>
 </rss>
