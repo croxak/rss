@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 26 Jun 2026 01:14:51 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 26 Jun 2026 13:14:42 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Ministerio de Salud prepara despliegue del Equipo Móviles de Emergencias EMT Tipo 1 para apoyar a Venezuela]]></title>
+    <link>https://msp.gob.do/web/?p=21097</link>
+    <description><![CDATA[El Ministerio de Salud Pública de la República Dominicana, junto al Centro de Operaciones de Emergencias, se prepara para enviar el Equipo Móviles de Emergencias (EMT) Tipo 1 a Venezuela. Esta misión humanitaria busca apoyar a la población afectada por el reciente terremoto.
+
+El despliegue incluye un hospital móvil y un equipo de aproximadamente 40 profesionales de la salud, entre ellos médicos, enfermeras y psicólogos. El hospital móvil está equipado para ofrecer diversos servicios médicos y apoyo en salud mental.
+
+Esta iniciativa es parte de las acciones coordinadas para fortalecer la asistencia humanitaria que la República Dominicana ofrece a Venezuela, siguiendo la decisión del presidente Luis Abinader.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782479655/autonoticias/articles/20260626_131414_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 26 Jun 2026 13:14:42 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260626131442</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidente Abinader inaugura la remodelada Arena Banreservas Virgilio Travieso Soto]]></title>
     <link>https://www.presidencia.gob.do/noticias/presidente-abinader-inaugura-la-remodelada-arena-banreservas-virgilio-travieso-soto</link>
     <description><![CDATA[El presidente Luis Abinader inauguró la remodelada Arena Banreservas Virgilio Travieso Soto en Santo Domingo, destacada como una de las instalaciones deportivas más modernas del Caribe. La transformación fue realizada por el Ministerio de la Vivienda.
@@ -1295,20 +1309,6 @@ Expertos de XTB destacan que el oro ha necesitado 91 sesiones para entrar en mer
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781476245/autonoticias/articles/20260614_223045_article.webp" type="image/jpeg"/>
     <pubDate>Sun, 14 Jun 2026 22:31:23 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260614223123</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Abinader encabeza Consejo de Ministros en Santiago]]></title>
-    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-encabeza-consejo-de-ministros-en-santiago</link>
-    <description><![CDATA[El presidente Luis Abinader y la vicepresidenta Raquel Peña encabezaron el Consejo de Ministros en el Jardín Botánico de Santiago, revisando más de 200 obras en la provincia.
-
-Entre las obras destacadas están la primera línea del Teleférico de Santiago, el acueducto de Navarrete y el proyecto de transformación integral de arroyo Gurabo.
-
-El ministro José Ignacio Paliza informó que la inversión pública en Santiago supera los RD 110,000 millones en cinco años, triplicando la de períodos anteriores.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781476216/autonoticias/articles/20260614_223016_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 14 Jun 2026 22:30:38 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260614223038</guid>
   </item>
 </channel>
 </rss>
