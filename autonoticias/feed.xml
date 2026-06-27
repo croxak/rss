@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 27 Jun 2026 21:03:19 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 27 Jun 2026 22:50:58 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Presidente Abinader dispone envío de importante cargamento de medicamentos a Venezuela]]></title>
+    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-dispone-envio-de-importante-cargamento-de-medicamentos-venezuela</link>
+    <description><![CDATA[El presidente Luis Abinader ha dispuesto el envío de un cargamento de medicamentos a Venezuela, en el marco de la Operación Quisqueya Solidaria 2026. Este esfuerzo busca apoyar a la población afectada por los recientes terremotos.
+
+La misión fue coordinada por el Ministerio de Defensa, el Ministerio de Salud Pública y Asistencia Social, y el Programa de Medicamentos Esenciales y Central de Apoyo Logístico. Los medicamentos serán entregados a las autoridades venezolanas para su distribución.
+
+Además, se prepara el envío de una embarcación con ayuda humanitaria que incluirá alimentos, agua e insumos médicos, ampliando la asistencia de la República Dominicana al pueblo venezolano.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782600619/autonoticias/articles/20260627_225019_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 27 Jun 2026 22:50:58 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260627225058</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Otro sismo de magnitud 4,8 sacude la costa de Venezuela]]></title>
     <link>https://listindiario.com/las-mundiales/venezuela/20260627/sismo-magnitud-4-8-sacude-costa-venezuela_911560.html</link>
     <description><![CDATA[Un terremoto de magnitud 4,8 se registró este sábado en la costa de Venezuela. El epicentro estuvo en el mar, a 30 kilómetros al noroeste de El Limón, estado de Aragua, y fue sentido en Caracas. No se reportaron daños.
@@ -1299,18 +1313,6 @@ Sánchez denuncia irregularidades en el conteo y señala que su partido ha detec
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781476428/autonoticias/articles/20260614_223348_article.webp" type="image/jpeg"/>
     <pubDate>Sun, 14 Jun 2026 22:36:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260614223631</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Papa León podría visitar República Dominicana en 2027]]></title>
-    <link>https://panorama.com.do/papa-leon-podria-visitar-republica-dominicana-en-2027/</link>
-    <description><![CDATA[El papa León XIV podría visitar la República Dominicana en 2027. Así lo afirmó el arzobispo coadjutor de Santo Domingo, Carlos Tomás Morel Diplán, quien aseguró que el papa prometió "hacer lo posible" para incluir al país en su agenda.
-
-Morel Diplán destacó la importancia de que la Iglesia dominicana sea visible y recordó que desde 1992 no ha habido una visita papal al país. También mencionó que el papa mostró interés en visitar el Caribe, incluyendo Puerto Rico, Cuba y Haití.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781476441/autonoticias/articles/20260614_223401_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 14 Jun 2026 22:36:15 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260614223615</guid>
   </item>
 </channel>
 </rss>
