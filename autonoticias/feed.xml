@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 27 Jun 2026 15:38:42 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 27 Jun 2026 21:03:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Otro sismo de magnitud 4,8 sacude la costa de Venezuela]]></title>
+    <link>https://listindiario.com/las-mundiales/venezuela/20260627/sismo-magnitud-4-8-sacude-costa-venezuela_911560.html</link>
+    <description><![CDATA[Un terremoto de magnitud 4,8 se registró este sábado en la costa de Venezuela. El epicentro estuvo en el mar, a 30 kilómetros al noroeste de El Limón, estado de Aragua, y fue sentido en Caracas. No se reportaron daños.
+
+Venezuela sigue enfrentando las consecuencias de dos terremotos anteriores de magnitudes 7,2 y 7,5 que causaron 1,430 muertes y dejaron a miles de familias damnificadas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782594167/autonoticias/articles/20260627_210247_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 27 Jun 2026 21:03:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260627210319</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ocupan 421 plantas de presunta marihuana durante operativo en Santo Domingo Oeste]]></title>
     <link>https://eldia.com.do/ocupan-421-plantas-de-presunta-marihuana-durante-operativo-en-santo-domingo-oeste/</link>
     <description><![CDATA[Durante un operativo en Santo Domingo Oeste, las autoridades ocuparon 421 plantas de presunta marihuana. La intervención se realizó en el sector La Cuaba, donde las plantas estaban sembradas en vasos de foam.
@@ -1299,18 +1311,6 @@ Morel Diplán destacó la importancia de que la Iglesia dominicana sea visible y
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781476441/autonoticias/articles/20260614_223401_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 14 Jun 2026 22:36:15 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260614223615</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministro de Obras Públicas anuncia la entrega de la Circunvalación de Navarrete en septiembre]]></title>
-    <link>https://eldia.com.do/ministro-de-obras-publicas-anuncia-la-entrega-de-la-circunvalacion-de-navarrete-en-septiembre/</link>
-    <description><![CDATA[El ministro de Obras Públicas, Eduardo Estrella, anunció la entrega de la Circunvalación de Navarrete entre septiembre y octubre. Esta obra, con una inversión de RD$12,000 millones, beneficiará a las provincias de la Línea Noroeste y fortalecerá la conexión con el Puerto de Manzanillo.
-
-En Santiago, el Ministerio ha concluido obras por RD$6,400 millones y mantiene proyectos en ejecución por más de RD$20,500 millones. Entre las obras en marcha se encuentra la ampliación de la Autopista Duarte y la construcción de la avenida Eléctrica.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781476533/autonoticias/articles/20260614_223533_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 14 Jun 2026 22:36:02 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260614223602</guid>
   </item>
 </channel>
 </rss>
