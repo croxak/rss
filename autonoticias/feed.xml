@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 26 Jun 2026 18:41:32 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 27 Jun 2026 15:38:42 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Ocupan 421 plantas de presunta marihuana durante operativo en Santo Domingo Oeste]]></title>
+    <link>https://eldia.com.do/ocupan-421-plantas-de-presunta-marihuana-durante-operativo-en-santo-domingo-oeste/</link>
+    <description><![CDATA[Durante un operativo en Santo Domingo Oeste, las autoridades ocuparon 421 plantas de presunta marihuana. La intervención se realizó en el sector La Cuaba, donde las plantas estaban sembradas en vasos de foam.
+
+Un hombre fue arrestado y será presentado ante el Ministerio Público. Además, se incautaron equipos utilizados para el cultivo del vegetal.
+
+Las investigaciones continúan para identificar a otros posibles implicados en esta actividad ilícita.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782574629/autonoticias/articles/20260627_153709_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 27 Jun 2026 15:38:42 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260627153842</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Intervienen otra narcolancha con alijo de 1,743 paquetes de drogas en Peravia]]></title>
     <link>https://n.com.do/2026/06/26/intervienen-otra-narcolancha-con-alijo-de-1743-paquetes-de-drogas-en-peravia/</link>
     <description><![CDATA[Oficiales de la DNCD, la Armada de República Dominicana y la Fuerza Aérea, con apoyo de agencias de inteligencia y bajo la coordinación del Ministerio Público, intervinieron un cargamento de 1,743 paquetes de presunta marihuana y cocaína en las costas de Baní, provincia Peravia.
@@ -1297,18 +1311,6 @@ En Santiago, el Ministerio ha concluido obras por RD$6,400 millones y mantiene p
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781476533/autonoticias/articles/20260614_223533_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 14 Jun 2026 22:36:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260614223602</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Trump anuncia que ha alcanzado un acuerdo con Irán para reabrir el estrecho de Ormuz]]></title>
-    <link>https://panorama.com.do/trump-anuncia-que-ha-alcanzado-un-acuerdo-con-iran-para-reabrir-el-estrecho-de-ormuz/</link>
-    <description><![CDATA[El presidente de Estados Unidos, Donald Trump, ha anunciado un acuerdo con Irán para reabrir el estrecho de Ormuz después de más de tres meses de guerra.
-
-Desde Islamabad, el primer ministro de Pakistán, Shehbaz Sharif, confirmó un acuerdo de paz entre Estados Unidos e Irán que finaliza el conflicto armado en Oriente Medio.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781476269/autonoticias/articles/20260614_223109_article.webp" type="image/jpeg"/>
-    <pubDate>Sun, 14 Jun 2026 22:31:36 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260614223136</guid>
   </item>
 </channel>
 </rss>
