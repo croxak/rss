@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 28 Jun 2026 22:12:04 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 28 Jun 2026 22:12:18 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Leonel exige al Gobierno bajar la gasolina porque el petróleo volvió a US$70 el barril]]></title>
+    <link>https://panorama.com.do/leonel-exige-al-gobierno-bajar-la-gasolina-porque-el-petroleo-volvio-a-us70-el-barril/</link>
+    <description><![CDATA[Leonel Fernández, presidente de la Fuerza del Pueblo, pidió al Gobierno del PRM bajar el precio de los combustibles, ya que el petróleo ha regresado a los niveles previstos en el presupuesto.
+
+Durante una asamblea en Puerto Plata, Fernández criticó las medidas tributarias tomadas cuando el petróleo subió a 104 dólares por la crisis en Medio Oriente. Ahora que el petróleo está a 70 dólares, cuestiona por qué no se ha reducido el precio de la gasolina.
+
+Fernández también acusó al Gobierno de buscar recursos para fines políticos, sugiriendo que intentan comprar apoyo de otros partidos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782684547/autonoticias/articles/20260628_220907_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 28 Jun 2026 22:12:18 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260628221218</guid>
+  </item>
+
+  <item>
     <title><![CDATA[RD adquiere categoría de accionista clase A en el Banco Centroamericano de Integración Económica]]></title>
     <link>https://www.diariolibre.com/economia/negocios/2026/06/28/rd-adquiere-categoria-de-accionista-clase-a-en-el-bcie/3582467</link>
     <description><![CDATA[La República Dominicana se ha convertido en accionista "serie A" del Banco Centroamericano de Integración Económica (BCIE), uniéndose al 51 % de participación junto a los países fundadores. Esta incorporación fue aprobada en la sexagésima sexta reunión ordinaria de la asamblea de gobernadores del BCIE en Oviedo, España.
@@ -1301,18 +1315,6 @@ Además, criticó la reincorporación de penas de prisión para difamación e in
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781543791/autonoticias/articles/20260615_171630_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 15 Jun 2026 17:17:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260615171719</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio Público solicita prisión para miembros de estructura fraudulenta enfrentada con la Operación Onco14]]></title>
-    <link>https://pgr.gob.do/ministerio-publico-solicita-prision-para-miembros-de-estructura-fraudulenta-enfrentada-con-la-operacion-onco14/</link>
-    <description><![CDATA[El Ministerio Público ha solicitado prisión preventiva para Héctor Antonio Lora Cruceta, Luisa Yasiris Guzmán y Dilcia Isabel Vargas Sánchez, acusados de fraude contra el Seguro Nacional de Salud (SeNaSa) y el Estado dominicano.
-
-La Operación Onco14 reveló maniobras fraudulentas que afectaron a pacientes de cáncer, incluyendo el uso de sellos médicos falsos y lavado de activos. Los imputados fueron arrestados y se busca declarar el caso como de tramitación compleja.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781541567/autonoticias/articles/20260615_163927_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 15 Jun 2026 16:39:50 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260615163950</guid>
   </item>
 </channel>
 </rss>
