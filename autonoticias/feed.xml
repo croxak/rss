@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 27 Jun 2026 22:50:58 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 28 Jun 2026 01:12:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Gobierno habilita vuelo humanitario para repatriar a dominicanos afectados por terremotos en Venezuela]]></title>
+    <link>https://panorama.com.do/gobierno-habilita-vuelo-humanitario-para-repatriar-a-dominicanos-afectados-por-terremotos-en-venezuela/</link>
+    <description><![CDATA[El Gobierno dominicano, bajo instrucciones del presidente Luis Abinader, ha dispuesto un vuelo humanitario para repatriar a dominicanos afectados por los terremotos en Venezuela. El vuelo saldrá el 29 de junio desde el Aeropuerto Internacional Arturo Michelena en Valencia hacia Santo Domingo.
+
+Los pasajeros deben presentar su cédula de identidad o pasaporte vigente. Además, una delegación de la Junta Central Electoral viajará a Venezuela para asistir a quienes hayan perdido sus documentos.
+
+El Ministerio de Relaciones Exteriores ha habilitado líneas telefónicas y un correo electrónico para ofrecer asistencia a los interesados en retornar.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782609103/autonoticias/articles/20260628_011142_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 28 Jun 2026 01:12:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260628011209</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidente Abinader dispone envío de importante cargamento de medicamentos a Venezuela]]></title>
     <link>https://www.presidencia.gob.do/noticias/presidente-abinader-dispone-envio-de-importante-cargamento-de-medicamentos-venezuela</link>
     <description><![CDATA[El presidente Luis Abinader ha dispuesto el envío de un cargamento de medicamentos a Venezuela, en el marco de la Operación Quisqueya Solidaria 2026. Este esfuerzo busca apoyar a la población afectada por los recientes terremotos.
@@ -1299,20 +1313,6 @@ De los graduados, 1,372 son de grado y 396 de posgrado, con la Facultad de Cienc
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781484476/autonoticias/articles/20260615_004755_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 15 Jun 2026 00:48:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260615004831</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fujimori se aleja de Sánchez y su ventaja supera los 18.000 votos al 98,59 % del escrutinio en Perú]]></title>
-    <link>https://eldia.com.do/fujimori-se-aleja-de-sanchez-y-su-ventaja-supera-los-18-000-votos-al-9859-del-escrutinio-en-peru/</link>
-    <description><![CDATA[Keiko Fujimori se distancia de Roberto Sánchez con una ventaja de 18.832 votos al 98,59 % del escrutinio en Perú. Fujimori obtiene el 50,052 % de los votos, mientras que Sánchez tiene el 49,948 %.
-
-La ONPE ha completado el conteo de actas pendientes, pero aún quedan 1.308 actas observadas e impugnadas por resolver. Fujimori ha rechazado la propuesta de Sánchez de un recuento conjunto de votos.
-
-Sánchez denuncia irregularidades en el conteo y señala que su partido ha detectado posibles irregularidades en Lima y en la votación en el exterior.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781476428/autonoticias/articles/20260614_223348_article.webp" type="image/jpeg"/>
-    <pubDate>Sun, 14 Jun 2026 22:36:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260614223631</guid>
   </item>
 </channel>
 </rss>
