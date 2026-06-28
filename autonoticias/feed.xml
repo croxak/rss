@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 28 Jun 2026 01:12:09 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 28 Jun 2026 15:40:57 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Gobierno dominicano envía nuevo contingente de rescatistas a Venezuela para reforzar las labores de búsqueda y rescate]]></title>
+    <link>https://www.presidencia.gob.do/noticias/gobierno-dominicano-envia-nuevo-contingente-de-rescatistas-venezuela-para-reforzar-las</link>
+    <description><![CDATA[El Gobierno dominicano ha enviado un nuevo contingente de rescatistas a Venezuela como parte de la Operación Quisqueya Solidaria 2026. Este equipo se une a las labores de búsqueda y rescate tras los recientes terremotos en Venezuela.
+
+El contingente, compuesto por especialistas del Cuerpo Especializado de Mitigación a Emergencias y Desastres, el Centro de Operaciones de Emergencias y la Defensa Civil, fue trasladado en una aeronave de la Fuerza Aérea de República Dominicana.
+
+El ministro de Defensa, Carlos Antonio Fernández Onofre, despidió al equipo, destacando su preparación y vocación de servicio.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782661223/autonoticias/articles/20260628_154022_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 28 Jun 2026 15:40:57 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260628154057</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno habilita vuelo humanitario para repatriar a dominicanos afectados por terremotos en Venezuela]]></title>
     <link>https://panorama.com.do/gobierno-habilita-vuelo-humanitario-para-repatriar-a-dominicanos-afectados-por-terremotos-en-venezuela/</link>
     <description><![CDATA[El Gobierno dominicano, bajo instrucciones del presidente Luis Abinader, ha dispuesto un vuelo humanitario para repatriar a dominicanos afectados por los terremotos en Venezuela. El vuelo saldrá el 29 de junio desde el Aeropuerto Internacional Arturo Michelena en Valencia hacia Santo Domingo.
@@ -1299,20 +1313,6 @@ El acuerdo busca reducir hostilidades en Medio Oriente y se firmará el 19 de ju
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781484494/autonoticias/articles/20260615_004813_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 15 Jun 2026 00:49:37 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260615004937</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Editrudis Beltrán, rector de la UASD, anuncia su retiro durante graduación en la región norte]]></title>
-    <link>https://panorama.com.do/editrudis-beltran-rector-de-la-uasd-anuncia-su-retiro-durante-graduacion-en-la-region-norte/</link>
-    <description><![CDATA[El rector de la UASD, Editrudis Beltrán Crisóstomo, anunció su retiro tras 55 años de servicio durante la graduación de 1,768 profesionales en la Región Norte. La ceremonia incluyó graduandos de San Francisco de Macorís, Santiago, Mao, Nagua, Bonao, Puerto Plata y La Vega.
-
-Beltrán presentó un balance de su gestión, destacando el fortalecimiento de la universidad. Exhortó a los nuevos egresados a seguir el ejemplo de Rafael Antonio Lantigua Ciriaco y Jonanlis Ramírez Alcántara.
-
-De los graduados, 1,372 son de grado y 396 de posgrado, con la Facultad de Ciencias de la Educación liderando en ambos niveles.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781484476/autonoticias/articles/20260615_004755_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 15 Jun 2026 00:48:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260615004831</guid>
   </item>
 </channel>
 </rss>
