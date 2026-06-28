@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 28 Jun 2026 22:11:37 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 28 Jun 2026 22:11:49 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Ministerio Público arresta inspector migratorio que exigió un soborno de RD$100 mil a mujer]]></title>
+    <link>https://eldia.com.do/ministerio-publico-arresta-inspector-migratorio-que-exigio-un-soborno-de-rd100-mil-a-mujer/</link>
+    <description><![CDATA[El Ministerio Público arrestó a Carlos Javier Sánchez, inspector de control migratorio, por exigir un soborno de RD$100 mil a una mujer para facilitar su salida al Reino de España desde el Aeropuerto Internacional de Punta Cana.
+
+La detención se realizó durante una entrega controlada del dinero, autorizada por la jueza Francis Y. Reyes Diloné. La investigación está a cargo de la Dirección General de Persecución del Ministerio Público, la Procuraduría Especializada de Persecución de la Corrupción Administrativa y la Fiscalía de La Altagracia, con apoyo de la Dirección General de Migración.
+
+El Ministerio Público someterá al imputado a la justicia para conocerle medidas de coerción.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782684649/autonoticias/articles/20260628_221049_article.png" type="image/png"/>
+    <pubDate>Sun, 28 Jun 2026 22:11:49 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260628221149</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Muere buzo de un infarto durante labores de pesca en Puerto Plata]]></title>
     <link>https://eldia.com.do/muere-buzo-de-un-infarto-durante-labores-de-pesca-en-puerto-plata/</link>
     <description><![CDATA[Juan De León Aguilera, un buzo de 25 años, murió de un infarto mientras pescaba en el Banco de La Plata, Puerto Plata. Formaba parte de la tripulación del barco “DAYBI-I”, bajo el mando del capitán Carlos Alberto Lantigua Rivera.
@@ -1301,20 +1315,6 @@ Durante la investigación, se realizaron peritajes con un experto internacional.
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781541491/autonoticias/articles/20260615_163810_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 15 Jun 2026 16:38:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260615163839</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Juez Reymundo al rechazar el dolo eventual en caso Jet Set: “La justicia no es para venganza”]]></title>
-    <link>https://n.com.do/2026/06/15/juez-raimundo-mejia-justicia-no-es-para-venganza-caso-jet-set/</link>
-    <description><![CDATA[El juez Reymundo Mejía rechazó cambiar la calificación del caso Jet Set de homicidio involuntario a voluntario mediante dolo eventual. Afirmó que la justicia no es para venganza y debe actuar con razonabilidad y proporcionalidad.
-
-La tragedia en Jet Set dejó 236 fallecidos tras el colapso del techo. Mejía señaló que no hay pruebas suficientes para demostrar que los imputados querían causar la muerte o aceptaron conscientemente ese resultado.
-
-El juez destacó que los tribunales deben actuar conforme a la ley y no crear nuevas interpretaciones penales bajo presión social.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781541338/autonoticias/articles/20260615_163538_article.webp" type="image/jpeg"/>
-    <pubDate>Mon, 15 Jun 2026 16:38:06 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260615163806</guid>
   </item>
 </channel>
 </rss>
