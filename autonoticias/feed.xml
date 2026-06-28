@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 28 Jun 2026 15:48:52 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 28 Jun 2026 22:11:37 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Muere buzo de un infarto durante labores de pesca en Puerto Plata]]></title>
+    <link>https://eldia.com.do/muere-buzo-de-un-infarto-durante-labores-de-pesca-en-puerto-plata/</link>
+    <description><![CDATA[Juan De León Aguilera, un buzo de 25 años, murió de un infarto mientras pescaba en el Banco de La Plata, Puerto Plata. Formaba parte de la tripulación del barco “DAYBI-I”, bajo el mando del capitán Carlos Alberto Lantigua Rivera.
+
+El cuerpo fue llevado al puerto de Puerto Plata y examinado por el médico legista Miguel Cuevas, quien certificó la muerte por infarto agudo al miocardio. Luego, fue trasladado al Inacif de Santiago para los procedimientos legales.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782684662/autonoticias/articles/20260628_221102_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 28 Jun 2026 22:11:37 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260628221137</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El Gobierno facilita el regreso a RD de 31 dominicanos desde Venezuela para un total de 42]]></title>
     <link>https://panorama.com.do/el-gobierno-facilita-el-regreso-a-rd-de-31-dominicanos-desde-venezuela-para-un-total-de-42/</link>
     <description><![CDATA[El Gobierno dominicano, a través del Ministerio de Relaciones Exteriores, facilitó el regreso de 31 dominicanos desde Venezuela tras los terremotos recientes. Las operaciones aéreas fueron coordinadas por varias instituciones del Estado como parte de la Operación Quisqueya Solidaria 2026.
@@ -1303,20 +1315,6 @@ El juez destacó que los tribunales deben actuar conforme a la ley y no crear nu
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781541338/autonoticias/articles/20260615_163538_article.webp" type="image/jpeg"/>
     <pubDate>Mon, 15 Jun 2026 16:38:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260615163806</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Temístocles Montás: “El Gobierno le tiene miedo a enfrentar las exenciones fiscales”]]></title>
-    <link>https://panorama.com.do/temistocles-montas-el-gobierno-le-tiene-miedo-a-enfrentar-las-exenciones-fiscales/</link>
-    <description><![CDATA[Temístocles Montás, vicepresidente del PLD, criticó al Gobierno por evitar discutir las exenciones fiscales y la baja eficiencia en la recaudación tributaria, mientras promueve nuevas cargas impositivas.
-
-Montás señaló que el índice de eficiencia recaudatoria del ITBIS en República Dominicana es de 0.38, inferior al promedio de América Latina de 0.61. Afirmó que mejorar la eficiencia permitiría recaudar más del doble de lo que se busca con la propuesta fiscal.
-
-El dirigente del PLD insistió en la necesidad de una administración tributaria más eficiente y una revisión del sistema de exenciones antes de aplicar nuevas medidas impositivas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781541353/autonoticias/articles/20260615_163553_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 15 Jun 2026 16:37:54 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260615163754</guid>
   </item>
 </channel>
 </rss>
