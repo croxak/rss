@@ -7,9 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 28 Jun 2026 15:47:19 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 28 Jun 2026 15:48:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Gobierno y empresarios dominicanos presentan a RD como plataforma industrial ante España]]></title>
+    <link>https://www.elcaribe.com.do/panorama/gobierno-y-empresarios-dominicanos-presentan-a-rd-como-plataforma-industrial-ante-espana/</link>
+    <description><![CDATA[El ministro de Industria, Comercio y Mipymes de República Dominicana, Yayo Sanz Lovatón, presentó en España nuevas oportunidades de inversión en sectores innovadores del país.
+
+Durante el Encuentro Empresarial República Dominicana-España, se destacó la intención de construir una relación económica que trascienda el intercambio comercial tradicional, enfocándose en inversión, innovación y encadenamiento productivo.
+
+En 2025, República Dominicana recibió US$5,033 millones en inversión extranjera directa, con 843 empresas en zonas francas generando más de 200 mil empleos. Se resaltó la posición geográfica del país y su infraestructura para facilitar el comercio.
+
+Además, se presentó una estrategia para desarrollar la industria de semiconductores y manufactura avanzada, invitando a las empresas españolas a considerar a República Dominicana para estas áreas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782661354/autonoticias/articles/20260628_154234_article.webp" type="image/jpeg"/>
+    <pubDate>Sun, 28 Jun 2026 15:48:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260628154800</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Estados Unidos bombardea de nuevo a Irán tras el ataque contra un buque petrolero en Ormuz]]></title>
     <link>https://eldia.com.do/estados-unidos-bombardea-de-nuevo-a-iran-tras-el-ataque-contra-un-buque-petrolero-en-ormuz/</link>
     <description><![CDATA[Estados Unidos lanzó ataques contra objetivos militares en Irán tras un ataque de dron atribuido a Teherán contra un petrolero en el estrecho de Ormuz. El Comando Central de EE.UU. informó que los ataques se dirigieron a infraestructura militar iraní.
@@ -1301,18 +1317,6 @@ La noticia ha causado tristeza entre sus familiares y compañeros, quienes desta
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781529292/autonoticias/articles/20260615_131451_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 15 Jun 2026 13:15:21 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260615131521</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Tribunal dicta este lunes la sentencia del caso Coral; el MP pide 20 años para Adán Cáceres]]></title>
-    <link>https://www.elcaribe.com.do/panorama/justicia/tribunal-dicta-este-lunes-la-sentencia-del-caso-coral-el-mp-pide-20-anos-para-adan-caceres/</link>
-    <description><![CDATA[Este lunes 15 de junio, el Primer Tribunal Colegiado del Distrito Nacional dará a conocer la sentencia del caso Coral y Coral 5G. El Ministerio Público acusa a una red de oficiales de sustraer más de RD$4,500 millones del Estado.
-
-Se ha solicitado una pena de 20 años de prisión para Adán Cáceres Silvestre, exjefe del Cuerpo de Seguridad Presidencial, y otros implicados. La defensa, por su parte, pide la absolución, alegando falta de pruebas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781527199/autonoticias/articles/20260615_123958_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 15 Jun 2026 12:40:42 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260615124042</guid>
   </item>
 </channel>
 </rss>
