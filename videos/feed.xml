@@ -5,7 +5,7 @@
     <link>https://eltestigo.com</link>
     <description>Videos de El Testigo</description>
     <language>es</language>
-    <lastBuildDate>Sat, 27 Jun 2026 01:44:12 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2026 03:18:23 +0000</lastBuildDate>
     <atom:link rel="self" href="https://croxak.github.io/rss/videos/feed.xml" type="application/rss+xml" />
     <image>
       <url>https://eltestigo.com/logo.png</url>
@@ -14,7 +14,17 @@
       <width>144</width>
       <height>144</height>
     </image>
-                                  <item>
+                                    <item>
+    <title><![CDATA[Brigadas de rescate de RD, Ecuador y Venezuela hallan con vida a niño tras 5 días bajo los escombros - Video]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/06/29/rescatan-vivo-a-nino-tras-5-dias-bajo-escombros-en-venezuela/3584077</link>
+    <description><![CDATA[Brigadas de rescate de República Dominicana, Ecuador y Venezuela lograron rescatar con vida a Carlos Miguel Gutiérrez, un niño de 12 años, tras cinco días atrapado bajo los escombros en Macuto, estado La Guaira, Venezuela. El rescate fue informado por la periodista Elianta Quintero, quien compartió un video del momento.
+
+Carlos Miguel fue trasladado al Hospital de Clínicas Caracas para recibir atención médica. Las labores de búsqueda y rescate continúan en las zonas más afectadas por los sismos, con la esperanza de encontrar más sobrevivientes. <iframe src="https://player.cloudinary.com/embed/?cloud_name=dqbrvalg6&amp;public_id=videos/original/20260630_031715_original&amp;fluid=true" width="640" height="360" allow="autoplay; fullscreen" frameborder="0"></iframe>]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782789451/videos/thumbnails/20260630_031731_thumbnail.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 30 Jun 2026 03:18:23 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-video-20260630031823</guid>
+  </item>
+  <item>
     <title><![CDATA[Rescatan con vida a una niña entre los escombros tras tragedia en Venezuela - Video]]></title>
     <link>https://eltestigo.com</link>
     <description><![CDATA[Los equipos de búsqueda y rescate en Venezuela han logrado un milagro al sacar con vida a una niña que estaba atrapada entre los escombros tras la reciente tragedia en el país. Este rescate es el resultado de las intensas labores realizadas por brigadas de emergencia, rescatistas y voluntarios.
