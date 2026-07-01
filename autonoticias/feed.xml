@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 01 Jul 2026 01:59:05 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 01 Jul 2026 02:29:29 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Abinader designa a Federico Cuello para coordinar adhesión a la OCDE]]></title>
+    <link>https://www.elcaribe.com.do/panorama/abinader-designa-a-federico-cuello-para-coordinar-adhesion-a-la-ocde/</link>
+    <description><![CDATA[El presidente Luis Abinader ha emitido el Decreto núm. 438-26, designando a Federico Alberto Cuello Camilo como embajador en misión especial para la OCDE y coordinador del proceso de adhesión de la República Dominicana a esta organización.
+
+La medida busca fortalecer la coordinación de los trabajos para el ingreso del país a la OCDE, asegurando la alineación regulatoria con sus normas y estándares. El decreto se fundamenta en la Constitución y la Ley núm. 107-13.
+
+El decreto será remitido al Ministerio de Relaciones Exteriores y otras instituciones para su conocimiento y ejecución.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782872918/autonoticias/articles/20260701_022837_article.webp" type="image/jpeg"/>
+    <pubDate>Wed, 01 Jul 2026 02:29:29 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260701022929</guid>
+  </item>
+
+  <item>
     <title><![CDATA[PN e Indotel firman acuerdo para digitalizar registro y control de detenidos en destacamentos]]></title>
     <link>https://elnuevodiario.com.do/pn-e-indotel-firman-acuerdo-para-digitalizar-registro-y-control-de-detenidos-en-destacamentos/</link>
     <description><![CDATA[La Policía Nacional y el Instituto Dominicano de las Telecomunicaciones (Indotel) han firmado un acuerdo para digitalizar el registro y control de detenidos en destacamentos policiales.
@@ -1307,18 +1321,6 @@ Entre los acusados se encuentran altos oficiales y civiles. El Ministerio Públi
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781559575/autonoticias/articles/20260615_213935_article.png" type="image/png"/>
     <pubDate>Mon, 15 Jun 2026 21:40:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260615214020</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Investigan muerte de hombre hallado en piscina de centro recreativo en Dajabón]]></title>
-    <link>https://n.com.do/2026/06/15/investigan-muerte-de-hombre-hallado-en-piscina-de-centro-recreativo-en-dajabon/</link>
-    <description><![CDATA[Yonatan Medina, conocido como “Pananao”, fue hallado sin vida en la piscina Aguas del Paraíso, en La Vigía, Dajabón. Estaba con amigos y consumiendo alcohol antes del suceso.
-
-Las autoridades investigan si la causa fue ahogamiento o un infarto. Se esperan los resultados de la autopsia para esclarecer el caso.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781545213/autonoticias/articles/20260615_174012_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 15 Jun 2026 17:40:55 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260615174055</guid>
   </item>
 </channel>
 </rss>
