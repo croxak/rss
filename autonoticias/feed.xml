@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 04 Jul 2026 18:00:58 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 04 Jul 2026 18:01:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Abinader entrega 400 títulos de propiedad en Salcedo]]></title>
+    <link>https://panorama.com.do/abinader-entrega-400-titulos-de-propiedad-en-salcedo/</link>
+    <description><![CDATA[El presidente Luis Abinader entregó 400 títulos de propiedad en Pepillo Salcedo, beneficiando a 1,600 personas. Este es parte de un proyecto que contempla 740 títulos en total.
+
+Durante el acto, Abinader resaltó el desarrollo del proyecto Manzanillo, que incluye una planta eléctrica y un muelle turístico en construcción. El mandatario subrayó la importancia de la seguridad jurídica para el crecimiento económico de la zona.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783188041/autonoticias/articles/20260704_180040_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 04 Jul 2026 18:01:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260704180114</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader sobre muerte de joven en Herrera: "Eso no fue un policía, fue un animal"]]></title>
     <link>https://panorama.com.do/abinader-sobre-muerte-de-joven-en-herrera-eso-no-fue-un-policia-fue-un-animal/</link>
     <description><![CDATA[El presidente Luis Abinader manifestó su indignación por la muerte de un joven a manos de un agente de la Policía Nacional en Herrera, Santo Domingo Oeste. Calificó al agente como un "animal" y afirmó que debe recibir una condena ejemplar.
@@ -1309,20 +1321,6 @@ La sentencia, emitida por el Primer Tribunal Colegiado del Distrito Nacional, ta
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781613168/autonoticias/articles/20260616_123248_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 16 Jun 2026 12:33:26 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260616123326</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Caso Coral: Tribunal condena a 20 años a Adán Cáceres, Torres Robiou y Núñez de Aza]]></title>
-    <link>https://eldia.com.do/caso-coral-tribunal-condena-a-20-anos-a-adan-caceres-torres-robiou-y-nunez-de-aza/</link>
-    <description><![CDATA[El Primer Tribunal Colegiado del Distrito Nacional condenó a 20 años de prisión a Adán Benoni Cáceres Silvestre, Juan Carlos Torres Robiou y Rafael Núñez de Aza por corrupción en las operaciones Coral y Coral 5G. También deberán pagar multas de 400 salarios mínimos.
-
-Julio Camilo de los Santos Viola y Rossy Maybelline Guzmán Sánchez recibieron penas de 15 años y multas de 400 y 300 salarios mínimos. Otros acusados enfrentan penas de 10, 5 y 3 años de prisión. Se ordenó la disolución de nueve empresas y el pago de multas.
-
-Seis personas y una iglesia fueron absueltas. Las juezas determinaron que la red operó entre 2012 y 2020 desviando fondos públicos del Cusep, Cestur y el Conani.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781613042/autonoticias/articles/20260616_123042_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 16 Jun 2026 12:31:32 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260616123132</guid>
   </item>
 </channel>
 </rss>
