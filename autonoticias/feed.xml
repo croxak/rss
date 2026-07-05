@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 04 Jul 2026 18:01:14 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 05 Jul 2026 23:59:28 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Anadegas anuncia que eliminará verifones desde este lunes en estaciones de combustibles]]></title>
+    <link>https://panorama.com.do/anadegas-anuncia-que-eliminara-verifones-desde-este-lunes-en-estaciones-de-combustibles/</link>
+    <description><![CDATA[La Asociación Nacional de Detallistas de Gasolinas (Anadegas) anunció el retiro de los verifones en más de 780 estaciones de combustibles afiliadas a partir de este lunes.
+
+La medida es una protesta por las comisiones que consideran excesivas. Según Juan Elías Pérez, presidente de Anadegas, estas comisiones afectan significativamente la rentabilidad de los detallistas.
+
+Anadegas propone una tarifa fija de RD$0.30 por transacción en lugar de las actuales comisiones.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783295931/autonoticias/articles/20260705_235850_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 05 Jul 2026 23:59:28 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260705235928</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader entrega 400 títulos de propiedad en Salcedo]]></title>
     <link>https://panorama.com.do/abinader-entrega-400-titulos-de-propiedad-en-salcedo/</link>
     <description><![CDATA[El presidente Luis Abinader entregó 400 títulos de propiedad en Pepillo Salcedo, beneficiando a 1,600 personas. Este es parte de un proyecto que contempla 740 títulos en total.
@@ -1309,18 +1323,6 @@ Guzmán utilizó empresas y organizaciones religiosas para encubrir bienes y fue
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781613243/autonoticias/articles/20260616_123403_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 16 Jun 2026 12:34:29 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260616123429</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Camacho tilda de "histórica" la condena de 20 años a Adán Cáceres y otros por corrupción]]></title>
-    <link>https://www.diariolibre.com/actualidad/justicia/2026/06/16/wilson-camacho-reacciona-a-la-condena-de-20-anos-a-adan-caceres/3568381?utm_source=relacionadas&amp;utm_medium=portada&amp;utm_campaign=relacionadas</link>
-    <description><![CDATA[Wilson Camacho, director general de Persecución del Ministerio Público, calificó de "histórica" la condena de 20 años de prisión a Adán Cáceres Silvestre, Juan Carlos Torres Robiou y Rafael Núñez de Aza por delitos como estafa y desfalco contra el Estado.
-
-La sentencia, emitida por el Primer Tribunal Colegiado del Distrito Nacional, también incluyó condenas para otras personas, como Julio Camilo de los Santos Viola y Rossy Guzmán, quienes recibieron 15 años de prisión. Siete acusados recibieron penas suspendidas, y varios fueron absueltos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781613168/autonoticias/articles/20260616_123248_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 16 Jun 2026 12:33:26 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260616123326</guid>
   </item>
 </channel>
 </rss>
