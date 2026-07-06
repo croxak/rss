@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 05 Jul 2026 23:59:28 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 06 Jul 2026 12:38:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Hallan sin vida a teniente de la Policía dentro de un destacamento en Santiago]]></title>
+    <link>https://www.elcaribe.com.do/panorama/pais/hallan-sin-vida-a-teniente-de-la-policia-dentro-de-un-destacamento-en-santiago/</link>
+    <description><![CDATA[El teniente de la Policía Nacional, Florangel Duarte Rodríguez, fue encontrado sin vida en el destacamento del sector El Ejido, Santiago. El hallazgo ocurrió alrededor de las ocho de la noche del domingo.
+
+Las autoridades investigan el caso, manejando como hipótesis preliminar el ahorcamiento, aunque la causa oficial se determinará tras la autopsia del INACIF.
+
+El oficial había sido trasladado recientemente desde San José de las Matas a Santiago. La Policía Nacional emitirá un comunicado oficial sobre el caso.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783341478/autonoticias/articles/20260706_123758_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 06 Jul 2026 12:38:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260706123833</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Anadegas anuncia que eliminará verifones desde este lunes en estaciones de combustibles]]></title>
     <link>https://panorama.com.do/anadegas-anuncia-que-eliminara-verifones-desde-este-lunes-en-estaciones-de-combustibles/</link>
     <description><![CDATA[La Asociación Nacional de Detallistas de Gasolinas (Anadegas) anunció el retiro de los verifones en más de 780 estaciones de combustibles afiliadas a partir de este lunes.
@@ -1309,20 +1323,6 @@ Junior Enrique Guzmán devolvió RD$20,000. La Policía Nacional sigue buscando 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781625851/autonoticias/articles/20260616_160410_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 16 Jun 2026 16:04:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260616160440</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Pastora Rossy Guzmán es condenada a 15 años de prisión por corrupción administrativa]]></title>
-    <link>https://elnuevodiario.com.do/pastora-rossy-guzman-es-condenada-a-15-anos-de-prision-por-corrupcion-administrativa/</link>
-    <description><![CDATA[El Primer Tribunal Colegiado del Distrito Nacional ha condenado a 15 años de prisión a la pastora Rossy Maybelline Guzmán Sánchez, conocida como “la Pastora Rossy”, por su participación en una red de corrupción administrativa desmantelada mediante la Operación Coral.
-
-Las juezas Giselle Méndez, Jissel Naranjo y Tania Yunes valoraron las pruebas del Ministerio Público, que acusó a Guzmán de formar parte de una estructura encabezada por el mayor general retirado Adán Cáceres Silvestre. La red movilizó más de RD$4,500 millones de fondos públicos.
-
-Guzmán utilizó empresas y organizaciones religiosas para encubrir bienes y fue señalada como prestanombre de propiedades relacionadas con Cáceres. En el mismo proceso, Cáceres recibió una condena de 20 años de prisión.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781613243/autonoticias/articles/20260616_123403_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 16 Jun 2026 12:34:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260616123429</guid>
   </item>
 </channel>
 </rss>
