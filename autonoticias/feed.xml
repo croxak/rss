@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 06 Jul 2026 12:51:43 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 06 Jul 2026 12:53:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Indomet prevé chubascos en la mañana y aguaceros con tronadas en la tarde; continuará el intenso calor]]></title>
+    <link>https://robertocavada.com/indomet-preve-chubascos-en-la-manana-y-aguaceros-con-tronadas-en-la-tarde-continuara-el-intenso-calor/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informa sobre chubascos aislados en la mañana y aguaceros con tronadas en la tarde debido a una vaguada. Las lluvias matutinas afectarán al Gran Santo Domingo, San Pedro de Macorís, San Cristóbal, Peravia, Barahona y Pedernales. En la tarde, las precipitaciones se extenderán a Monte Plata, Monseñor Nouel, La Vega, Sánchez Ramírez, Duarte, Santiago Rodríguez y otras localidades del interior.
+
+El cielo se mantendrá grisáceo por el polvo del Sahara, y las temperaturas seguirán calurosas, con mínimas de 23 °C a 25 °C y máximas de 32 °C a 34 °C. Indomet recomienda mantenerse hidratado, usar ropa ligera y evitar el sol entre las 11:00 a.m. y las 4:00 p.m.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783342374/autonoticias/articles/20260706_125253_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 06 Jul 2026 12:53:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260706125319</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Deterioro de escuelas obliga a reforzar evaluación de las edificaciones, afirma director de Onesvie]]></title>
     <link>https://eldia.com.do/deterioro-de-escuelas-obliga-a-reforzar-evaluacion-de-las-edificaciones-afirma-director-de-onesvie/</link>
     <description><![CDATA[Leonardo Reyes Madera, director de Onesvie, ha destacado la urgencia de evaluar las edificaciones en República Dominicana, especialmente las escuelas públicas, debido a su deterioro. Estas estructuras presentan grietas y colapsos parciales, lo que subraya la necesidad de identificar vulnerabilidades para prevenir riesgos sísmicos.
@@ -1311,18 +1323,6 @@ Los detenidos fueron entregados a la Dirección General de Migración para los p
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781625942/autonoticias/articles/20260616_160542_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 16 Jun 2026 16:08:04 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260616160804</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[RD nombra la embajadora Lina Ajoy como secretaria general del SICA]]></title>
-    <link>https://panorama.com.do/rd-nombra-la-embajadora-lina-ajoy-como-secretaria-general-del-sica/</link>
-    <description><![CDATA[El presidente Luis Abinader y el canciller Roberto Álvarez lideraron la Reunión Extraordinaria de Jefes de Estado y de Gobierno del SICA, donde se designó a Lina Eugenia Ajoy Rojas como secretaria general del organismo para el período 2026-2030.
-
-Este nombramiento resuelve la vacancia en la Secretaría General del SICA desde 2023 y marca un hito al ser Ajoy la primera costarricense y mujer en ocupar el cargo. República Dominicana ostenta la Presidencia Pro Tempore del SICA de enero a junio de 2026.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781626029/autonoticias/articles/20260616_160709_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 16 Jun 2026 16:07:50 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260616160750</guid>
   </item>
 </channel>
 </rss>
