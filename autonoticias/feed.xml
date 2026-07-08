@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 06 Jul 2026 12:53:19 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 08 Jul 2026 20:05:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Tribunal condena a empresario que cometió fraude eléctrico a pagar más de 47 millones de pesos]]></title>
+    <link>https://pgr.gob.do/tribunal-condena-a-empresario-que-cometio-fraude-electrico-a-pagar-mas-de-47-millones-de-pesos/</link>
+    <description><![CDATA[Javier Francisco Álvarez Valencia ha sido condenado por fraude eléctrico a dos años de prisión suspendida y al pago de más de RD$47 millones. Manipuló el suministro eléctrico en su negocio, Hielo El Grande, perjudicando a Edeeste, S.A. y al Estado dominicano.
+
+La jueza Dolores Galay de la Cruz dictó la sentencia, que incluye una indemnización de RD$200,000 y una multa de 10 salarios mínimos. El Ministerio Público demostró la violación a la Ley General de Electricidad.
+
+El procurador José Aníbal Carela destacó el compromiso del Ministerio Público con la persecución de delitos en el ámbito energético y llamó a la población a denunciar el fraude eléctrico.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783541077/autonoticias/articles/20260708_200436_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 08 Jul 2026 20:05:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260708200534</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Indomet prevé chubascos en la mañana y aguaceros con tronadas en la tarde; continuará el intenso calor]]></title>
     <link>https://robertocavada.com/indomet-preve-chubascos-en-la-manana-y-aguaceros-con-tronadas-en-la-tarde-continuara-el-intenso-calor/</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informa sobre chubascos aislados en la mañana y aguaceros con tronadas en la tarde debido a una vaguada. Las lluvias matutinas afectarán al Gran Santo Domingo, San Pedro de Macorís, San Cristóbal, Peravia, Barahona y Pedernales. En la tarde, las precipitaciones se extenderán a Monte Plata, Monseñor Nouel, La Vega, Sánchez Ramírez, Duarte, Santiago Rodríguez y otras localidades del interior.
@@ -1309,20 +1323,6 @@ Además, se discutió la posibilidad de fortalecer el papel de las tres vicepres
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781625887/autonoticias/articles/20260616_160447_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 16 Jun 2026 16:08:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260616160820</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ejército detiene a 70 haitianos indocumentados en Dajabón y Montecristi]]></title>
-    <link>https://n.com.do/2026/06/16/ejercito-detiene-70-haitianos-indocumentados-drones-dajabon-montecristi/</link>
-    <description><![CDATA[El Ejército de República Dominicana detuvo a 70 haitianos indocumentados en operativos en Dajabón y Montecristi. Las acciones, que incluyeron el uso de drones y patrullas terrestres, buscan reforzar los controles migratorios en la frontera.
-
-En Dajabón, 32 haitianos fueron interceptados cerca de la finca "Nene Checo". En Montecristi, 31 fueron detenidos en la berma del canal mayor. Además, en Don Miguel, Dajabón, se apresaron a siete haitianos más.
-
-Los detenidos fueron entregados a la Dirección General de Migración para los procedimientos correspondientes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781625942/autonoticias/articles/20260616_160542_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 16 Jun 2026 16:08:04 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260616160804</guid>
   </item>
 </channel>
 </rss>
