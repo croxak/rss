@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 08 Jul 2026 20:05:49 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 09 Jul 2026 04:01:53 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Senado aprueba en primera lectura proyecto que modifica la Ley Orgánica de la Policía Nacional]]></title>
+    <link>https://elnuevodiario.com.do/senado-aprueba-en-primera-lectura-proyecto-que-modifica-la-ley-organica-de-la-policia-nacional/</link>
+    <description><![CDATA[El Senado dominicano aprobó en primera lectura un proyecto de ley que modifica la Ley Orgánica de la Policía Nacional. La iniciativa, parte del proceso de transformación de la institución, fue aprobada por 25 de los 27 senadores presentes.
+
+El proyecto propone cambios a más de 40 artículos, elimina varios artículos y numerales, y establece nuevas categorías dentro de la carrera policial. También introduce nuevos protocolos de patrullaje y refuerza la formación académica de los agentes.
+
+La comisión encargada del estudio del proyecto celebró 14 reuniones y recibió observaciones de diversas entidades antes de emitir su informe.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783569689/autonoticias/articles/20260709_040128_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 09 Jul 2026 04:01:53 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260709040153</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidente Abinader entrega Medalla al Mérito Magisterial 2026]]></title>
     <link>https://www.presidencia.gob.do/noticias/presidente-abinader-entrega-medalla-al-merito-magisterial-2026</link>
     <description><![CDATA[El presidente Luis Abinader entregó la Medalla al Mérito Magisterial 2026 en Santo Domingo, destacando la trayectoria de docentes ejemplares. El evento se realizó en el Salón Las Cariátides del Palacio Nacional con la presencia de la primera dama Raquel Arbaje y varios ministros.
@@ -1309,20 +1323,6 @@ La diputada Suárez también recordó las expectativas sobre el caso SeNaSa, lam
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781630543/autonoticias/articles/20260616_172222_article.webp" type="image/jpeg"/>
     <pubDate>Tue, 16 Jun 2026 17:23:45 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260616172345</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Leonel Fernández propone retirar aumento de impuestos y reformular presupuesto de 2026]]></title>
-    <link>https://n.com.do/2026/06/16/leonel-fernandez-propone-retirar-aumento-de-impuestos-y-reformular-presupuesto-de-2026/</link>
-    <description><![CDATA[Leonel Fernández, líder de la Fuerza del Pueblo, ha propuesto retirar las medidas de aumento de impuestos del proyecto de reforma fiscal del Poder Ejecutivo. Sugiere reformular el Presupuesto General del Estado de 2026 para reducir y reorientar el gasto público.
-
-Durante una rueda de prensa en el Congreso Nacional, Fernández señaló que la falta de recursos del Gobierno se debe al incremento del gasto público en los últimos años. Propone aplicar la indexación salarial, restablecer la deducción total de gastos educativos y presentar proyectos de flexibilización fiscal.
-
-Fernández también afirmó que la Fuerza del Pueblo no recibió una presentación formal del proyecto de reforma antes de su sometimiento al Congreso Nacional.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781630576/autonoticias/articles/20260616_172256_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 16 Jun 2026 17:23:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260616172328</guid>
   </item>
 </channel>
 </rss>
