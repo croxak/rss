@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 09 Jul 2026 04:01:53 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Jul 2026 03:07:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Hombre que simuló robo de US$33,090 en su residencia fue arrestado]]></title>
+    <link>https://eldia.com.do/hombre-que-simulo-robo-de-us33090-en-su-residencia-fue-arrestado/</link>
+    <description><![CDATA[Mauricio Batista Marte fue arrestado en Santiago de los Caballeros tras simular un robo de US$33,090 en su residencia. Durante la investigación, admitió haber planificado el robo, descartando la participación de terceros.
+
+El dinero fue recuperado y entregado voluntariamente por un ciudadano, junto con otros objetos vinculados al caso. Además, se le ocupó una pistola calibre 9 mm con documentación legal y otra calibre 40 sin documentos.
+
+El detenido y las evidencias permanecen bajo control del Ministerio Público para los fines legales correspondientes.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783652774/autonoticias/articles/20260710_030614_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 10 Jul 2026 03:07:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260710030702</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Senado aprueba en primera lectura proyecto que modifica la Ley Orgánica de la Policía Nacional]]></title>
     <link>https://elnuevodiario.com.do/senado-aprueba-en-primera-lectura-proyecto-que-modifica-la-ley-organica-de-la-policia-nacional/</link>
     <description><![CDATA[El Senado dominicano aprobó en primera lectura un proyecto de ley que modifica la Ley Orgánica de la Policía Nacional. La iniciativa, parte del proceso de transformación de la institución, fue aprobada por 25 de los 27 senadores presentes.
@@ -1309,20 +1323,6 @@ Durante un encuentro con legisladores, Díaz explicó que el proyecto no tocará
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781639445/autonoticias/articles/20260616_195045_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 16 Jun 2026 19:51:38 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260616195138</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Legisladores respaldan condenas del caso Coral: "La población debe saber que no todos somos delincuentes"]]></title>
-    <link>https://eldia.com.do/legisladores-respaldan-condenas-del-caso-coral-la-poblacion-debe-saber-que-no-todos-somos-delincuentes/</link>
-    <description><![CDATA[Legisladores del Congreso Nacional han expresado su respaldo a las condenas en los casos de corrupción Coral y Coral 5G. La diputada Soraya Suárez del PRM y el senador Rogelio Genao del PRSC destacaron que estas sentencias fortalecen la justicia independiente.
-
-Suárez afirmó que el veredicto ayuda a limpiar la imagen de la clase política y advirtió sobre las consecuencias de traicionar la confianza pública. Genao mencionó que el nuevo Código Penal será más estricto y desalentará la corrupción y el crimen organizado.
-
-La diputada Suárez también recordó las expectativas sobre el caso SeNaSa, lamentando las consecuencias fatales de la presunta corrupción en esa institución.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781630543/autonoticias/articles/20260616_172222_article.webp" type="image/jpeg"/>
-    <pubDate>Tue, 16 Jun 2026 17:23:45 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260616172345</guid>
   </item>
 </channel>
 </rss>
