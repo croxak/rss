@@ -7,9 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 10 Jul 2026 03:07:02 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 10 Jul 2026 03:13:27 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Autoridades destruyen más de una tonelada de drogas]]></title>
+    <link>https://panorama.com.do/autoridades-destruyen-mas-de-una-tonelada-de-drogas/</link>
+    <description><![CDATA[El Instituto Nacional de Ciencias Forenses (Inacif) incineró 1,144.1 kilogramos de drogas, principalmente marihuana, en la República Dominicana. Las sustancias fueron incautadas en operativos contra el narcotráfico.
+
+De la cantidad destruida, 928 kilogramos eran marihuana y 213 kilogramos clorhidrato de cocaína. También se destruyeron 1.5 kilogramos de crack y 69 gramos de éxtasis.
+
+Las drogas estaban vinculadas a 602 casos y fueron decomisadas por el Ministerio Público y la Dirección Nacional de Control de Drogas (DNCD). La provincia de Peravia concentró la mayor cantidad de incautaciones.
+
+La incineración se llevó a cabo en el Campamento Militar 16 de Agosto, en Pedro Brand, provincia Santo Domingo.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783652968/autonoticias/articles/20260710_030927_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 10 Jul 2026 03:13:27 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260710031327</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Hombre que simuló robo de US$33,090 en su residencia fue arrestado]]></title>
     <link>https://eldia.com.do/hombre-que-simulo-robo-de-us33090-en-su-residencia-fue-arrestado/</link>
     <description><![CDATA[Mauricio Batista Marte fue arrestado en Santiago de los Caballeros tras simular un robo de US$33,090 en su residencia. Durante la investigación, admitió haber planificado el robo, descartando la participación de terceros.
@@ -1311,18 +1327,6 @@ El proyecto también reconoce la validez jurídica de las publicaciones electró
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781639427/autonoticias/articles/20260616_195026_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 16 Jun 2026 19:51:52 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260616195152</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Magín Díaz: “Más del 90% de la recaudación estimada provendrá del 1% más rico de la población”]]></title>
-    <link>https://eldia.com.do/magin-diaz-mas-del-90-de-la-recaudacion-estimada-provendra-del-1-mas-rico-de-la-poblacion/</link>
-    <description><![CDATA[El ministro de Hacienda y Economía, Magín Díaz, anunció que más del 90% de la recaudación del nuevo proyecto de ley provendrá del 1% más rico de la población. Este proyecto busca preservar la estabilidad económica sin afectar a la clase media ni a las mipymes.
-
-Durante un encuentro con legisladores, Díaz explicó que el proyecto no tocará el ITBIS y enfatizó la importancia de la equidad tributaria y la transparencia. Se implementará un esquema de rendición de cuentas para que la ciudadanía conozca el destino de los recursos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781639445/autonoticias/articles/20260616_195045_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 16 Jun 2026 19:51:38 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260616195138</guid>
   </item>
 </channel>
 </rss>
