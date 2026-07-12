@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 12 Jul 2026 01:05:55 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 17:00:56 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Abinader comparte mensaje por su cumpleaños: "Hoy celebro un año más de vida"]]></title>
+    <link>https://panorama.com.do/abinader-comparte-mensaje-por-su-cumpleanos-hoy-celebro-un-ano-mas-de-vida/</link>
+    <description><![CDATA[El presidente Luis Abinader celebró su cumpleaños número 59 con un mensaje de agradecimiento en Instagram. Agradeció a Dios, a su familia y a todas las personas que han sido parte de su vida.
+
+En la publicación, Abinader incluyó una imagen creada con inteligencia artificial donde se le ve junto a él mismo cuando era niño. También expresó su gratitud por los mensajes de felicitación recibidos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783875624/autonoticias/articles/20260712_170024_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 12 Jul 2026 17:00:56 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260712170056</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Autoridades investigan hallazgo de medicamentos abandonados en un canal de riego en Dajabón]]></title>
     <link>https://elnuevodiario.com.do/autoridades-investigan-hallazgo-de-medicamentos-abandonados-en-un-canal-de-riego-en-dajabon/</link>
     <description><![CDATA[Una gran cantidad de medicamentos en cajas fue encontrada abandonada en la berma del canal mayor, en el sector La Paz, del municipio de Dajabón. Este hallazgo ha generado preocupación entre los residentes de la zona.
@@ -1321,20 +1333,6 @@ El decreto permite la adquisición de terrenos con recursos del Ministerio de Me
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781653825/autonoticias/articles/20260616_235024_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 16 Jun 2026 23:51:18 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260616235118</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[La República Dominicana inaugura la LXVI Conferencia de Jefes de las Fuerzas Aéreas Americanas]]></title>
-    <link>https://www.presidencia.gob.do/noticias/la-republica-dominicana-inaugura-la-lxvi-conferencia-de-jefes-de-las-fuerzas-aereas</link>
-    <description><![CDATA[La República Dominicana dio inicio a la LXVI Conferencia de Jefes de las Fuerzas Aéreas Americanas (Conjefamer 2026) en Punta Cana. Este encuentro reúne a comandantes y representantes de las fuerzas aéreas del hemisferio occidental.
-
-La ceremonia de apertura fue liderada por el mayor general piloto Floreal Suárez Martínez, comandante general de la Fuerza Aérea de la República Dominicana, y el general John D. Lamontagne, vicejefe de Estado Mayor de la Fuerza Aérea de los Estados Unidos.
-
-La conferencia se lleva a cabo en el marco del Sistema de Cooperación entre las Fuerzas Aéreas Americanas (Sicofaa), promoviendo la colaboración multinacional en operaciones de asistencia humanitaria y respuesta ante desastres naturales.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781643567/autonoticias/articles/20260616_205927_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 16 Jun 2026 21:11:13 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260616211113</guid>
   </item>
 </channel>
 </rss>
