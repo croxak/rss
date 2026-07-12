@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 12 Jul 2026 00:13:41 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 12 Jul 2026 01:05:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Autoridades investigan hallazgo de medicamentos abandonados en un canal de riego en Dajabón]]></title>
+    <link>https://elnuevodiario.com.do/autoridades-investigan-hallazgo-de-medicamentos-abandonados-en-un-canal-de-riego-en-dajabon/</link>
+    <description><![CDATA[Una gran cantidad de medicamentos en cajas fue encontrada abandonada en la berma del canal mayor, en el sector La Paz, del municipio de Dajabón. Este hallazgo ha generado preocupación entre los residentes de la zona.
+
+Miembros de la Dirección Central de Investigación (Dicrim) y personal de la Dirección Provincial de Salud acudieron al lugar para realizar el levantamiento de los productos farmacéuticos e iniciar las investigaciones correspondientes.
+
+La dirección del Hospital Provincial de Dajabón, encabezada por la doctora Arias, aclaró que los medicamentos encontrados no pertenecen ni fueron sustraídos de ese centro de salud.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783818328/autonoticias/articles/20260712_010528_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 12 Jul 2026 01:05:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260712010555</guid>
+  </item>
+
+  <item>
     <title><![CDATA[RD registra 762 muertes infantiles en el primer semestre de 2026]]></title>
     <link>https://panorama.com.do/rd-registra-762-muertes-infantiles-en-el-primer-semestre-de-2026/</link>
     <description><![CDATA[La República Dominicana enfrenta un aumento en la mortalidad infantil con 762 muertes registradas en el primer semestre de 2026. De estas, 653 son neonatos. Las áreas más afectadas son Santo Domingo, Santiago y el Distrito Nacional.
@@ -1321,20 +1335,6 @@ La conferencia se lleva a cabo en el marco del Sistema de Cooperación entre las
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781643567/autonoticias/articles/20260616_205927_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 16 Jun 2026 21:11:13 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260616211113</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministro Yayo viajará a Alemania a captar inversiones para la industria de los semiconductores en RD]]></title>
-    <link>https://micm.gob.do/ministro-yayo-viajara-a-alemania-a-captar-inversiones-para-la-industria-de-los-semiconductores-en-rd/</link>
-    <description><![CDATA[El ministro de Industria, Comercio y Mipymes, Yayo Sanz Lovatón, anunció un viaje a Alemania para captar inversiones en la industria de semiconductores de la República Dominicana. El objetivo es abastecer a Alemania con semiconductores fabricados en el país.
-
-Esta iniciativa se alinea con el decreto 324-24, que declara de alta prioridad nacional la promoción y desarrollo de esta industria. Las exportaciones dominicanas han evolucionado hacia productos más cualificados, como insumos médicos y electrónicos.
-
-El ministro destacó que los grandes mercados de consumo buscan reducir su dependencia de cadenas de suministro lejanas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781643550/autonoticias/articles/20260616_205910_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 16 Jun 2026 21:06:10 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260616210610</guid>
   </item>
 </channel>
 </rss>
