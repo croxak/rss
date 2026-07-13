@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 13 Jul 2026 21:07:27 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 21:09:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Detienen en Bogotá hombre vestido de piloto que viajaba a España con 10 kilos de cocaína]]></title>
+    <link>https://elnuevodiario.com.do/detienen-en-bogota-a-hombre-vestido-de-piloto-que-viajaba-a-espana-con-10-kilos-de-cocaina/</link>
+    <description><![CDATA[Un hombre vestido con uniforme de piloto fue detenido en el aeropuerto internacional El Dorado de Bogotá. Intentaba viajar a España con 10 kilos de cocaína camuflada en su cuerpo.
+
+La Policía Antinarcóticos lo detuvo tras notar su comportamiento sospechoso. Los paquetes de droga estaban pegados con cinta adhesiva en el torso y las piernas. El detenido fue puesto a disposición de la autoridad competente.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783976946/autonoticias/articles/20260713_210906_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 13 Jul 2026 21:09:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260713210933</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministerio de Salud de RD ha atendido a más de 1,200 víctimas del terremoto en Venezuela en seis días]]></title>
     <link>https://www.presidencia.gob.do/noticias/ministerio-de-salud-de-rd-ha-atendido-mas-de-1200-victimas-del-terremoto-en-venezuela-en</link>
     <description><![CDATA[El Ministerio de Salud Pública de la República Dominicana ha desplegado su Equipo Médico de Emergencias en Venezuela, atendiendo a más de 1,200 víctimas del terremoto en seis días. Esta misión es parte de la Misión Humanitaria Quisqueya Solidaria.
@@ -1331,20 +1343,6 @@ Las autoridades continúan trabajando para controlar el incendio con un operativ
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781906927/autonoticias/articles/20260619_220847_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 19 Jun 2026 22:09:13 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260619220913</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fabricantes de motores israelíes y canadienses participarán en investigación de accidente aéreo en La Romana]]></title>
-    <link>https://eldia.com.do/fabricantes-de-motores-israelies-y-canadienses-participaran-en-investigacion-de-accidente-aereo-en-la-romana/</link>
-    <description><![CDATA[Fabricantes de motores israelíes y canadienses se suman a la investigación del accidente aéreo en La Romana. La aeronave, que se dirigía a Austin, Texas, sufrió un siniestro que resultó en la muerte de sus dos pilotos.
-
-La investigación está a cargo de la Comisión Investigadora de Accidentes de Aviación Civil de la República Dominicana, con la colaboración de autoridades de Estados Unidos y representantes de los países relacionados con la fabricación de la aeronave y sus motores.
-
-Héctor Porcella, presidente de la Junta de Aviación Civil, enfatizó la necesidad de seguir un protocolo riguroso y pidió prudencia ante las especulaciones sobre el caso.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781906677/autonoticias/articles/20260619_220437_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 19 Jun 2026 22:07:25 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260619220725</guid>
   </item>
 </channel>
 </rss>
