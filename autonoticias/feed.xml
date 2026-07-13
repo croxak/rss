@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 13 Jul 2026 03:27:34 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 21:07:27 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Ministerio de Salud de RD ha atendido a más de 1,200 víctimas del terremoto en Venezuela en seis días]]></title>
+    <link>https://www.presidencia.gob.do/noticias/ministerio-de-salud-de-rd-ha-atendido-mas-de-1200-victimas-del-terremoto-en-venezuela-en</link>
+    <description><![CDATA[El Ministerio de Salud Pública de la República Dominicana ha desplegado su Equipo Médico de Emergencias en Venezuela, atendiendo a más de 1,200 víctimas del terremoto en seis días. Esta misión es parte de la Misión Humanitaria Quisqueya Solidaria.
+
+El hospital de campaña dominicano ha realizado 710 consultas generales, 232 atenciones ginecológicas, 144 consultas pediátricas y 114 intervenciones en salud mental. Además, se han distribuido medicamentos, aplicado vacunas y realizado acciones de saneamiento.
+
+Esta es la primera misión internacional de un Equipo Médico de Emergencias Tipo 1 del país, certificado por la OMS, demostrando la capacidad de respuesta de la República Dominicana ante desastres internacionales.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783976813/autonoticias/articles/20260713_210652_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 13 Jul 2026 21:07:27 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260713210727</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader niega persecución política contra Gonzalo; abogados del Estado trabajan en coordinación con el MP]]></title>
     <link>https://elnuevodiario.com.do/abinader-niega-persecucion-politica-contra-gonzalo-abogados-del-estado-trabajan-en-coordinacion-con-el-mp/</link>
     <description><![CDATA[El presidente Luis Abinader aseguró que el Equipo de Recuperación del Patrimonio Público (ERPP) opera de manera independiente en los procesos judiciales y no recibe instrucciones del Poder Ejecutivo. Este equipo trabaja junto al Ministerio Público para recuperar bienes del Estado en casos de presunta corrupción.
@@ -1331,20 +1345,6 @@ Héctor Porcella, presidente de la Junta de Aviación Civil, enfatizó la necesi
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781906677/autonoticias/articles/20260619_220437_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 19 Jun 2026 22:07:25 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260619220725</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Medio Ambiente califica de preocupante situación del río Masacre por actividades irregulares de haitianos]]></title>
-    <link>https://n.com.do/2026/06/19/medio-ambiente-califica-de-preocupante-situacion-del-rio-masacre-por-actividades-irregulares-de-haitianos/</link>
-    <description><![CDATA[El ministro de Medio Ambiente, Armando Paíno Henríquez, expresó preocupación por la extracción ilegal de materiales en el río Masacre, que afecta a comunidades dominicanas como Dajabón. Estas actividades irregulares se realizan en territorio haitiano y serán abordadas dentro del marco del derecho internacional. Un informe será remitido al canciller Roberto Álvarez.
-
-Durante un recorrido por la zona fronteriza, el ministro destacó la contribución de la Verja Perimetral Inteligente a la recuperación de la cobertura forestal y la protección del territorio. En Montecristi, se logró un acuerdo histórico para fortalecer la protección del Parque Nacional El Morro y se anunció la continuidad de las jornadas de reforestación en la frontera.
-
-El director del SENPA, general de brigada Ángel Alfredo Camacho Ubiera, confirmó que la verja ha fortalecido las acciones contra los ilícitos ambientales. El ministro valoró el trabajo del Ministerio de Defensa en la ejecución de la verja, destacando su impacto en el ordenamiento y seguridad de la frontera.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781906694/autonoticias/articles/20260619_220454_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 19 Jun 2026 22:07:09 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260619220709</guid>
   </item>
 </channel>
 </rss>
