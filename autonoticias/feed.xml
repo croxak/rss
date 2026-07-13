@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 13 Jul 2026 02:53:01 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 02:53:47 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Asesinan a tiros a un hermano del narcotraficante Fito en la costa de Ecuador]]></title>
+    <link>https://noticiassin.com/mundo/2026/07/13/asesinan-en-ecuador-a-hermano-de-fito-lider-de-los-choneros-2057131/</link>
+    <description><![CDATA[David Macías Villamar, hermano de Fito, líder de Los Choneros, fue asesinado en Santa Elena, Ecuador. El ataque ocurrió a las 00:30, hora local, por individuos disfrazados de policías. La víctima tenía antecedentes y era miembro de la banda criminal.
+
+La Policía Nacional y la Fiscalía investigan el asesinato para identificar a los responsables. Este suceso se produce tras la captura de otro hermano de Fito en Colombia, quien fue extraditado a Ecuador.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783911199/autonoticias/articles/20260713_025318_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 13 Jul 2026 02:53:47 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260713025347</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Informe preliminar atribuye muerte del senador Lindsey Graham a una disección aórtica]]></title>
     <link>https://n.com.do/2026/07/12/informe-preliminar-atribuye-muerte-del-senador-lindsey-graham-a-una-diseccion-aortica/</link>
     <description><![CDATA[El senador republicano Lindsey Graham falleció a causa de una disección aórtica provocada por una enfermedad cardiovascular arteriosclerótica, según un informe preliminar de la Oficina del Médico Forense del Distrito de Columbia.
@@ -1323,18 +1335,6 @@ La DNCD recomienda incluir detalles como ubicación, descripción de hechos, nom
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781703393/autonoticias/articles/20260617_133632_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 17 Jun 2026 13:36:56 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260617133656</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Irán reanuda las exportaciones de petróleo tras dos meses de bloqueo]]></title>
-    <link>https://n.com.do/2026/06/17/iran-reanuda-las-exportaciones-de-petroleo-tras-dos-meses-de-bloqueo/</link>
-    <description><![CDATA[Irán ha reanudado sus exportaciones de petróleo tras un bloqueo naval de dos meses. Dos superpetroleros, el DIONA y el HERO2, han salido de aguas iraníes con 3,8 millones de barriles de petróleo. La información fue confirmada por TankerTrackers mediante datos de seguimiento marítimo y satelitales.
-
-Otro petrolero, el STREAM, se aproxima a la línea de bloqueo desde la Zona Económica Exclusiva de Pakistán. Este movimiento coincide con el anuncio de un próximo memorando de entendimiento entre Estados Unidos e Irán para abrir negociaciones de paz.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781700965/autonoticias/articles/20260617_125605_article.webp" type="image/jpeg"/>
-    <pubDate>Wed, 17 Jun 2026 12:58:53 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260617125853</guid>
   </item>
 </channel>
 </rss>
