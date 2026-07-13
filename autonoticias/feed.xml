@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 13 Jul 2026 03:07:03 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 03:08:42 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Presidente Abinader afirma que en 2028 dejará un país "mejor que el que encontró" en 2020]]></title>
+    <link>https://www.diariolibre.com/politica/gobierno/2026/07/12/abinader-asegura-su-gobierno-dejara-al-pais-mejor-que-antes/3597611</link>
+    <description><![CDATA[El presidente Luis Abinader aseguró que en 2028 dejará una República Dominicana mejor que en 2020. Resaltó la reducción de la pobreza, el blindaje constitucional, avances en infraestructura y control de la corrupción como pilares de su legado.
+
+Abinader destacó la reforma policial, la lucha anticorrupción y la mejora económica. La pobreza se redujo del 26% al 16% y el país está cerca de "hambre cero" según la FAO. El 93% de los dominicanos tiene seguro médico.
+
+En infraestructura, mencionó el desarrollo de Manzanillo como zona industrial y energética, y la transformación turística y logística de Pedernales.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783912089/autonoticias/articles/20260713_030809_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 13 Jul 2026 03:08:42 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260713030842</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader: "Yo soy el más interesado en tener la garantía de que cuando salga del Gobierno pueda expresarme libremente"]]></title>
     <link>https://eldia.com.do/abinader-yo-soy-el-mas-interesado-en-tener-la-garantia-de-que-cuando-salga-del-gobierno-pueda-expresarme-libremente/</link>
     <description><![CDATA[El presidente Luis Abinader expresó su interés en garantizar su libertad de expresión después de su mandato. Negó que las modificaciones al Código Penal busquen restringir esta libertad, afirmando que buscan un equilibrio entre el derecho a expresarse y la protección del honor y la dignidad.
@@ -1325,20 +1339,6 @@ Su gestión se centrará en la unificación de la comunidad universitaria y en e
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781787585/autonoticias/articles/20260618_125945_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 18 Jun 2026 13:02:08 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260618130208</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ogtic e ITLA impulsan programas de formación para fortalecer las capacidades digitales del país]]></title>
-    <link>https://www.presidencia.gob.do/noticias/ogtic-e-itla-impulsan-programas-de-formacion-para-fortalecer-las-capacidades-digitales-del</link>
-    <description><![CDATA[La Oficina Gubernamental de Tecnologías de la Información y Comunicación (Ogtic) y el Instituto Tecnológico de Las Américas (ITLA) han unido fuerzas para desarrollar programas de formación y certificaciones especializadas. Esta colaboración busca fortalecer las competencias digitales de los dominicanos y contribuir a la transformación digital del Estado.
-
-Edgar Batista, director general de Ogtic, y Jimmy Rosario Bernard, rector del ITLA, resaltaron la importancia de preparar a las personas para liderar la nueva economía digital y acercar los servicios públicos a la ciudadanía.
-
-Ogtic brindará asesoría técnica en áreas como ciberseguridad y modernización tecnológica, mientras que ITLA ofrecerá espacios académicos y recursos tecnológicos para la capacitación e innovación.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781712873/autonoticias/articles/20260617_161432_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 17 Jun 2026 16:15:03 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260617161503</guid>
   </item>
 </channel>
 </rss>
