@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 13 Jul 2026 03:18:47 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 03:26:30 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Tribunal de Ocoa ordena liberar a detenidos por plantación marihuana en El Pinar]]></title>
+    <link>https://panorama.com.do/tribunal-de-ocoa-ordena-liberar-a-detenidos-por-plantacion-marihuana-en-el-pinar/</link>
+    <description><![CDATA[La Oficina Judicial de Atención Permanente de San José de Ocoa ha ordenado la liberación de tres detenidos en un operativo de la DNCD en El Pinar, donde se desmanteló un cultivo de más de 3,000 plantas de marihuana.
+
+El tribunal rechazó la solicitud del Ministerio Público, alegando que el procedimiento vulneró garantías constitucionales. El abogado de los imputados, Arsenio Jiménez, sostiene que sus clientes son agricultores y obreros de la zona, no responsables del cultivo.
+
+El terreno donde se halló la plantación fue arrendado a terceros. Los propietarios intentaron rescindir el contrato tras detectar irregularidades, pero fueron amenazados.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783911602/autonoticias/articles/20260713_030001_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 13 Jul 2026 03:26:30 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260713032630</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Comunicación con Haití «no es fluida, dice Abinader: «Nos comunicamos cuando hay algo especial»]]></title>
     <link>https://elnuevodiario.com.do/comunicacion-con-haiti-no-es-fluida-dice-abinader-nos-comunicamos-cuando-hay-algo-especial/</link>
     <description><![CDATA[El presidente Luis Abinader señaló que la comunicación con Haití no es fluida, pero se mantiene para asuntos específicos debido a la crisis institucional en el país vecino. A través del Ministerio de Relaciones Exteriores, se comunican cuando es necesario.
@@ -1331,18 +1345,6 @@ Los imputados también enfrentan cargos por doble facturación y fraude contra S
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781906508/autonoticias/articles/20260619_220147_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 19 Jun 2026 22:02:16 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260619220216</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Identifican mujer hallada en aguas del Malecón; padecía enfermedad de salud mental]]></title>
-    <link>https://n.com.do/2026/06/18/identifican-mujer-hallada-en-aguas-del-malecon-padecia-enfermedad-de-salud-mental/</link>
-    <description><![CDATA[Esperanza Santana Montes de Oca, de 28 años, fue identificada como la mujer hallada sin vida en las aguas del Malecón del Distrito Nacional. Familiares indicaron que recibía tratamiento por problemas de salud mental.
-
-La Dirección Central de Investigación (DICRIM) está investigando las circunstancias del incidente, revisando cámaras de videovigilancia y entrevistando a personas vinculadas al caso.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781806893/autonoticias/articles/20260618_182133_article.png" type="image/png"/>
-    <pubDate>Thu, 18 Jun 2026 18:22:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260618182219</guid>
   </item>
 </channel>
 </rss>
