@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 13 Jul 2026 22:11:26 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 13 Jul 2026 22:24:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Grupo creado por el secretario de Guerra perseguirá filtraciones a medios estadounidenses]]></title>
+    <link>https://n.com.do/2026/07/13/grupo-creado-por-el-secretario-de-guerra-perseguira-filtraciones-a-medios-estadounidenses/</link>
+    <description><![CDATA[El secretario de Guerra de EE.UU., Pete Hegseth, ha anunciado la creación de un grupo de trabajo conjunto entre el Pentágono y el Departamento de Justicia. Este grupo buscará identificar y procesar a quienes filtren información sensible de defensa a los medios.
+
+Hegseth ha delegado en la Oficina del Asesor General del Departamento de Guerra la autoridad para solicitar y recabar información necesaria dentro del Pentágono, con un plazo de respuesta de 48 horas.
+
+La iniciativa sigue a la revelación del New York Times sobre citaciones judiciales contra periodistas tras un reportaje sobre el avión del presidente Trump.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783981374/autonoticias/articles/20260713_222254_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 13 Jul 2026 22:24:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260713222419</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidente del Senado aclara no se modificará la prescripción de delitos sexuales contra menores]]></title>
     <link>https://n.com.do/2026/07/13/presidente-del-senado-aclara-no-se-modificara-la-prescripcion-de-delitos-sexuales-contra-menores/</link>
     <description><![CDATA[El presidente del Senado, Ricardo de los Santos, aclaró que las modificaciones al artículo 141 del proyecto de Código Penal no alteran el plazo de prescripción para delitos sexuales contra menores y personas vulnerables.
@@ -1331,18 +1345,6 @@ Los imputados están acusados de formar parte de una red criminal dedicada a la 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781908943/autonoticias/articles/20260619_224222_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 19 Jun 2026 22:43:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260619224314</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno mantiene congelados los combustibles como parte del Plan Anti-Crisis]]></title>
-    <link>https://eldia.com.do/gobierno-mantiene-congelados-los-combustibles-como-parte-del-plan-anti-crisis/</link>
-    <description><![CDATA[El Gobierno dominicano ha congelado los precios de los combustibles esenciales del 20 al 26 de junio, como parte del Plan Anti-Crisis. Se ha destinado un subsidio de RD$399.4 millones para proteger el poder adquisitivo de las familias y evitar el impacto de las fluctuaciones del mercado internacional.
-
-Los precios de las gasolinas, el gasoil y el GLP se mantendrán sin cambios. Sin embargo, el avtur, el kerosene y el fuel oil tendrán rebajas durante este período.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781906658/autonoticias/articles/20260619_220418_article.webp" type="image/jpeg"/>
-    <pubDate>Fri, 19 Jun 2026 22:19:56 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260619221956</guid>
   </item>
 </channel>
 </rss>
