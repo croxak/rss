@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 13 Jul 2026 23:51:50 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 00:35:45 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Andeclip deja sin efecto el llamado a la suspensión de servicios de salud a afiliados ARS]]></title>
+    <link>https://www.elcaribe.com.do/panorama/pais/andeclip-deja-sin-efecto-el-llamado-a-la-suspension-de-servicios-de-salud-a-afiliados-ars/</link>
+    <description><![CDATA[El ministro de Trabajo, Eddy Olivares, junto a Aura Celeste Fernández del CNSS, lideró una reunión con representantes de ADARS, ARS Futuro, ARS Primera y ANDECLIP. Se acordó dejar sin efecto la suspensión de servicios de salud a afiliados de estas administradoras.
+
+ANDECLIP levantó la medida, permitiendo que los afiliados continúen recibiendo servicios de salud con normalidad. Se ha programado una nueva reunión para el próximo miércoles a las 4:00 de la tarde.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783989288/autonoticias/articles/20260714_003448_article.webp" type="image/jpeg"/>
+    <pubDate>Tue, 14 Jul 2026 00:35:45 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260714003545</guid>
+  </item>
+
+  <item>
     <title><![CDATA[La SIP rechaza citaciones judiciales a periodistas del New York Times]]></title>
     <link>https://robertocavada.com/la-sip-rechaza-citaciones-judiciales-a-periodistas-del-new-york-times/</link>
     <description><![CDATA[La Sociedad Interamericana de Prensa (SIP) expresó su rechazo a la citación judicial de cuatro periodistas de The New York Times por parte del Departamento de Justicia de Estados Unidos. Los periodistas fueron llamados a declarar ante un gran jurado federal en Manhattan tras un reportaje sobre el avión presidencial.
@@ -1325,20 +1337,6 @@ El Decreto 409-26 autoriza su entrega bajo el tratado de extradición de 2016. L
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781969312/autonoticias/articles/20260620_152832_article.webp" type="image/jpeg"/>
     <pubDate>Sat, 20 Jun 2026 15:30:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260620153019</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[HOMS impulsa la cultura de donación y de trasplantes]]></title>
-    <link>https://www.elcaribe.com.do/panorama/region-norte/homs-impulsa-la-cultura-de-donacion-y-de-trasplantes/</link>
-    <description><![CDATA[El Hospital Metropolitano de Santiago (HOMS) reafirma su compromiso con la cultura de donación y trasplantes en República Dominicana. A través de una jornada académica, busca orientar y sensibilizar al personal médico sobre los desafíos en esta área.
-
-Aurivet Martínez Tejada, coordinadora del programa de trasplantes del HOMS, enfatiza la importancia del trabajo conjunto para el éxito de los sistemas de donación. El hospital aspira a ser un referente nacional en trasplantes.
-
-En 2024, se realizaron 173,727 trasplantes de órganos a nivel mundial, pero en República Dominicana solo se efectuaron 1,027 trasplantes renales entre 2008 y 2025. La situación sigue siendo preocupante.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781969329/autonoticias/articles/20260620_152848_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 20 Jun 2026 15:29:56 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260620152956</guid>
   </item>
 </channel>
 </rss>
