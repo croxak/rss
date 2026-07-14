@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 14 Jul 2026 00:35:45 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 01:01:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Vicepresidenta Raquel Peña y secretario de Salud de Estados Unidos se reunirán este martes en Washington]]></title>
+    <link>https://www.presidencia.gob.do/noticias/vicepresidenta-raquel-pena-y-secretario-de-salud-de-estados-unidos-se-reuniran-este-martes</link>
+    <description><![CDATA[La vicepresidenta de la República Dominicana, Raquel Peña, se reunirá este martes en Washington con el secretario de Salud de Estados Unidos, Robert F. Kennedy Jr. El objetivo es intercambiar experiencias y estrategias para fortalecer los sistemas de salud y la prevención de enfermedades.
+
+En la reunión también participarán la embajadora de Estados Unidos en la República Dominicana, Leah Campos, y el ministro de Salud Pública y Asistencia Social, Víctor Atallah. Uno de los temas centrales será la iniciativa “Make America Healthy Again” (MAHA), enfocada en la prevención de enfermedades crónicas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783990743/autonoticias/articles/20260714_005902_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 14 Jul 2026 01:01:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260714010155</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Andeclip deja sin efecto el llamado a la suspensión de servicios de salud a afiliados ARS]]></title>
     <link>https://www.elcaribe.com.do/panorama/pais/andeclip-deja-sin-efecto-el-llamado-a-la-suspension-de-servicios-de-salud-a-afiliados-ars/</link>
     <description><![CDATA[El ministro de Trabajo, Eddy Olivares, junto a Aura Celeste Fernández del CNSS, lideró una reunión con representantes de ADARS, ARS Futuro, ARS Primera y ANDECLIP. Se acordó dejar sin efecto la suspensión de servicios de salud a afiliados de estas administradoras.
@@ -1325,18 +1337,6 @@ El puente conecta el Distrito Nacional con Villa Duarte, por lo que su cierre im
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781969380/autonoticias/articles/20260620_152940_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 20 Jun 2026 15:30:35 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260620153035</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Poder Ejecutivo dispone la extradición a EE. UU. de dominicano acusado de narcotráfico]]></title>
-    <link>https://eldia.com.do/poder-ejecutivo-dispone-la-extradicion-a-ee-uu-de-dominicano-acusado-de-narcotrafico/</link>
-    <description><![CDATA[El presidente Luis Abinader ha dispuesto la extradición de Rafael Antonio Castro Facenda a Estados Unidos. El dominicano es acusado de conspiración y distribución de heroína en Nueva Jersey, según una investigación desde 2019.
-
-El Decreto 409-26 autoriza su entrega bajo el tratado de extradición de 2016. La Procuraduría General de la República y la Dirección General de Migración ejecutarán la orden.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781969312/autonoticias/articles/20260620_152832_article.webp" type="image/jpeg"/>
-    <pubDate>Sat, 20 Jun 2026 15:30:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260620153019</guid>
   </item>
 </channel>
 </rss>
