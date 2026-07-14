@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 14 Jul 2026 01:01:55 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 01:08:58 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Faride Raful descarta renunciar y reafirma su compromiso con la reforma policial]]></title>
+    <link>https://panorama.com.do/faride-raful-descarta-renunciar-y-reafirma-su-compromiso-con-la-reforma-policial/</link>
+    <description><![CDATA[Faride Raful, ministra de Interior y Policía, descartó su renuncia y reafirmó su compromiso con la reforma policial. Aseguró que su gestión se basa en la transparencia y honestidad.
+
+Raful valoró la aprobación en el Senado del proyecto que modifica la Ley Orgánica de la Policía Nacional, considerándolo un paso importante para la modernización de la institución.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783991301/autonoticias/articles/20260714_010821_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 14 Jul 2026 01:08:58 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260714010858</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Vicepresidenta Raquel Peña y secretario de Salud de Estados Unidos se reunirán este martes en Washington]]></title>
     <link>https://www.presidencia.gob.do/noticias/vicepresidenta-raquel-pena-y-secretario-de-salud-de-estados-unidos-se-reuniran-este-martes</link>
     <description><![CDATA[La vicepresidenta de la República Dominicana, Raquel Peña, se reunirá este martes en Washington con el secretario de Salud de Estados Unidos, Robert F. Kennedy Jr. El objetivo es intercambiar experiencias y estrategias para fortalecer los sistemas de salud y la prevención de enfermedades.
@@ -1325,18 +1337,6 @@ El operativo se llevó a cabo en el paraje Tireo, donde se interceptaron los veh
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781969135/autonoticias/articles/20260620_152534_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 20 Jun 2026 15:31:46 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260620153146</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Cierran temporalmente el Puente Flotante este sábado por paso de embarcación]]></title>
-    <link>https://panorama.com.do/cierran-temporalmente-el-puente-flotante-este-sabado-por-paso-de-embarcacion/</link>
-    <description><![CDATA[El Ministerio de Obras Públicas y Comunicaciones (MOPC) cerrará temporalmente el Puente Flotante sobre el río Ozama este sábado. La medida se aplicará de 10:00 a.m. a 12:00 p.m. para permitir el paso del buque M/V Isla Mujeres.
-
-El puente conecta el Distrito Nacional con Villa Duarte, por lo que su cierre impactará la movilidad entre ambas zonas. Se recomienda a los conductores usar los puentes Matías Ramón Mella, Juan Pablo Duarte y Juan Bosch como rutas alternas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781969380/autonoticias/articles/20260620_152940_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 20 Jun 2026 15:30:35 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260620153035</guid>
   </item>
 </channel>
 </rss>
