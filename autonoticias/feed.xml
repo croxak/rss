@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 14 Jul 2026 01:08:58 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 14 Jul 2026 02:35:13 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[ARS Primera deja sin efecto suspensión de los servicios de salud anunciada]]></title>
+    <link>https://www.diariolibre.com/actualidad/salud/2026/07/13/ars-primera-deja-sin-efecto-suspension-de-servicios/3598659</link>
+    <description><![CDATA[ARS Primera anunció que la suspensión de servicios de salud prevista para el 14 de julio ha sido cancelada. La decisión sigue a una orden del Tribunal Superior Administrativo que impide a Andeclip suspender los servicios.
+
+La aseguradora agradeció la mediación del Ministro de Trabajo y la Gerente General del Consejo Nacional de la Seguridad Social, y reafirmó su compromiso con el acceso a servicios de salud de calidad para sus afiliados.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783996407/autonoticias/articles/20260714_023327_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 14 Jul 2026 02:35:13 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260714023513</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Faride Raful descarta renunciar y reafirma su compromiso con la reforma policial]]></title>
     <link>https://panorama.com.do/faride-raful-descarta-renunciar-y-reafirma-su-compromiso-con-la-reforma-policial/</link>
     <description><![CDATA[Faride Raful, ministra de Interior y Policía, descartó su renuncia y reafirmó su compromiso con la reforma policial. Aseguró que su gestión se basa en la transparencia y honestidad.
@@ -1325,18 +1337,6 @@ La Corte decidirá si mantiene el auto o si acoge los recursos del Ministerio P�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781990367/autonoticias/articles/20260620_211927_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 20 Jun 2026 21:19:59 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260620211959</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Interceptan en Constanza cuatro vehículos con 29 haitianos indocumentados]]></title>
-    <link>https://eldia.com.do/interceptan-en-constanza-cuatro-vehiculos-con-29-haitianos-indocumentados/</link>
-    <description><![CDATA[Miembros del Ejército de la República Dominicana detuvieron a 29 haitianos indocumentados en Constanza. Los extranjeros iban ocultos bajo lonas en cuatro vehículos con destino a Santiago.
-
-El operativo se llevó a cabo en el paraje Tireo, donde se interceptaron los vehículos. Los conductores dominicanos fueron detenidos y trasladados junto a los migrantes para procedimientos de investigación.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781969135/autonoticias/articles/20260620_152534_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 20 Jun 2026 15:31:46 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260620153146</guid>
   </item>
 </channel>
 </rss>
