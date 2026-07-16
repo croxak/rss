@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 16 Jul 2026 16:40:04 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jul 2026 16:54:29 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[¡Atentos! Desde esta tarde incrementarán las posibilidades de lluvias ante acercamiento de vaguada]]></title>
+    <link>https://n.com.do/2026/07/16/atentos-desde-esta-tarde-incrementaran-las-posibilidades-de-lluvias-ante-acercamiento-de-vaguada/</link>
+    <description><![CDATA[Desde esta tarde, las posibilidades de lluvias moderadas aumentarán debido a una débil vaguada. La sensación térmica seguirá elevada por el avance del verano. Jean Suriel informó que las partículas de la nube sahariana número 10 disminuirán.
+
+Se esperan lluvias con ráfagas de viento y posibles descargas eléctricas en la Cordillera Central, norte, noreste, sureste, sur y zona fronteriza. Mañana viernes, el cielo se tornará más azul por la ausencia del evento africano, pero la vaguada continuará aportando nubosidad y lluvias dispersas.
+
+El sábado, la nube sahariana número 11 llegará, y la vaguada podría provocar precipitaciones. El domingo, las partículas africanas seguirán presentes, haciendo el ambiente caluroso y brumoso, con ligeros chubascos en la tarde. El lunes, la influencia sahariana persistirá en República Dominicana.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1784220828/autonoticias/articles/20260716_165347_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 16 Jul 2026 16:54:29 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260716165429</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Jorge Asjana asume la rectoría de la UASD con promesas de reforma académica y modernización]]></title>
     <link>https://panorama.com.do/jorge-asjana-asume-la-rectoria-de-la-uasd-con-promesas-de-reforma-academica-y-modernizacion/</link>
     <description><![CDATA[Jorge Asjana David asumió la rectoría de la UASD para el período 2026-2030, en un acto encabezado por el presidente Luis Abinader. Asjana presentó sus planes de modernización institucional y fortalecimiento académico.
@@ -1329,18 +1343,6 @@ Fue trasladada al Hospital Dr. Elio Fiallo en Pedernales, pero debido a la grave
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781990646/autonoticias/articles/20260620_212405_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 20 Jun 2026 21:24:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260620212431</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno aclara Ley 30-26 no contempla impuestos por suscripciones a plataformas digitales]]></title>
-    <link>https://n.com.do/2026/06/20/gobierno-aclara-ley-30-26-no-contempla-impuestos-por-suscripciones-a-plataformas-digitales/</link>
-    <description><![CDATA[El Ministerio de Hacienda y Economía aclaró que la Ley 30-26 no impone impuestos a suscripciones de plataformas digitales. La ley reduce la retención del Impuesto sobre la Renta de 27 % a 15 % para pagos de empresas dominicanas a proveedores extranjeros por licencias de software, regalías, derechos de autor, publicidad digital y servicios de almacenamiento en la nube.
-
-Esta medida aplica exclusivamente a relaciones comerciales entre empresas y no afecta a servicios digitales contratados por personas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781990526/autonoticias/articles/20260620_212206_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 20 Jun 2026 21:23:51 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260620212351</guid>
   </item>
 </channel>
 </rss>
