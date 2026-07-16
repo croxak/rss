@@ -7,9 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 16 Jul 2026 16:25:22 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 16 Jul 2026 16:40:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Jorge Asjana asume la rectoría de la UASD con promesas de reforma académica y modernización]]></title>
+    <link>https://panorama.com.do/jorge-asjana-asume-la-rectoria-de-la-uasd-con-promesas-de-reforma-academica-y-modernizacion/</link>
+    <description><![CDATA[Jorge Asjana David asumió la rectoría de la UASD para el período 2026-2030, en un acto encabezado por el presidente Luis Abinader. Asjana presentó sus planes de modernización institucional y fortalecimiento académico.
+
+Entre sus prioridades están la actualización de planes de estudio, capacitación del profesorado y uso de inteligencia artificial en la docencia. También anunció un sistema de becas y mejoras en servicios estudiantiles.
+
+En el ámbito de la investigación, creará un fondo para proyectos científicos y fortalecerá los institutos de investigación. Además, buscará ampliar la autonomía de los recintos regionales y fortalecer vínculos con gobiernos locales y sectores productivos.
+
+Durante los primeros cien días, priorizará la infraestructura tecnológica y la mejora de la plataforma UASD Virtual.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1784219963/autonoticias/articles/20260716_163922_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 16 Jul 2026 16:40:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260716164004</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Arrestan en el Aeropuerto del Cibao a hombre investigado por varios delitos]]></title>
     <link>https://noticiassin.com/pais/justicia/2026/07/16/arrestan-en-aeropuerto-del-cibao-a-acusado-de-delitos-2061882/</link>
     <description><![CDATA[El Ministerio Público arrestó a Pedro Fernández Jerez en el Aeropuerto Internacional del Cibao. Está investigado por presunta participación en delitos como contrabando, defraudación aduanera, tráfico de drogas, lavado de activos, porte ilegal de armas y crímenes de alta tecnología.
@@ -1325,18 +1341,6 @@ Esta medida aplica exclusivamente a relaciones comerciales entre empresas y no a
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781990526/autonoticias/articles/20260620_212206_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 20 Jun 2026 21:23:51 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260620212351</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gómez Mazara lidera supervisión electoral en Colombia por la COPPPAL]]></title>
-    <link>https://www.elcaribe.com.do/nacionales/gomez-mazara-lidera-supervision-electoral-en-colombia-por-la-copppal/</link>
-    <description><![CDATA[Guido Gómez Mazara, dirigente político dominicano, encabeza la misión de observación electoral de la COPPPAL en Colombia durante los comicios presidenciales. Su labor se centra en la supervisión técnica e imparcial del proceso electoral.
-
-La misión de Gómez Mazara se desarrolla junto a otras delegaciones internacionales, como la de la OEA encabezada por Leonel Fernández. En la contienda presidencial participan figuras como Iván Cepeda, Paloma Valencia, Abelardo de la Espriella, Sergio Fajardo y Claudia López.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781990337/autonoticias/articles/20260620_211857_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 20 Jun 2026 21:20:24 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260620212024</guid>
   </item>
 </channel>
 </rss>
