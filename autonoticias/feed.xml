@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 16 Jul 2026 16:54:44 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 16:35:28 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Salud Pública envía nueva misión humanitaria a Venezuela con 4,000 libras de ayuda]]></title>
+    <link>https://n.com.do/2026/07/18/salud-publica-envia-nueva-mision-humanitaria-a-venezuela-con-4000-libras-de-ayuda/</link>
+    <description><![CDATA[El Ministerio de Salud Pública de República Dominicana ha enviado 4,000 libras de ayuda humanitaria a Venezuela para asistir a las familias afectadas por los terremotos. La misión partió desde la Base Aérea de San Isidro, con el apoyo del comandante general de la Fuerza Aérea, mayor general piloto Floreal T. Suárez Martínez.
+
+El ministro de Salud Pública, Víctor Atallah, estuvo presente en la salida de la misión. Además, el Equipo Médico de Emergencias (EMT) regresará al país tras brindar atención en Venezuela. La aerolínea Rutaca colaboró en esta misión.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1784392500/autonoticias/articles/20260718_163500_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 18 Jul 2026 16:35:28 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260718163528</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El CONEP somete observaciones del sector privado a la reforma del Código Penal]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/07/16/conep-presenta-observaciones-a-la-reforma-del-codigo-penal-2061867/</link>
     <description><![CDATA[El Consejo Nacional de la Empresa Privada (CONEP) ha presentado sus observaciones sobre las modificaciones al Código Penal ante la Cámara de Diputados. Este documento es el resultado de un proceso de consulta con organizaciones empresariales y especialistas, reflejando el consenso del sector privado.
@@ -1331,20 +1343,6 @@ En el lugar se encontraron 15,392 plantas de marihuana y una vivienda utilizada 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782059004/autonoticias/articles/20260621_162323_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 21 Jun 2026 16:23:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260621162357</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[COE concluye operativo tras incendio en hotel de Bayahíbe y transfiere seguimiento a Turismo y Migración]]></title>
-    <link>https://panorama.com.do/coe-concluye-operativo-tras-incendio-en-hotel-de-bayahibe-y-transfiere-seguimiento-a-turismo-y-migracion/</link>
-    <description><![CDATA[El COE ha concluido su intervención en el incendio del hotel Viva Wyndham Dominicus Beach en Bayahíbe, tras controlar el siniestro. Ahora, el Ministerio de Turismo y la Dirección General de Migración se encargan de las acciones posteriores.
-
-Durante la emergencia, se evacuaron cerca de 1,690 personas, quienes fueron trasladadas a otros hoteles de la zona. La respuesta incluyó 475 miembros de diversas entidades y el uso de 22 camiones de bomberos, ocho camiones cisterna, 10 ambulancias y dos helicópteros.
-
-Las investigaciones sobre las causas del incendio continúan. Se considera que el viento y materiales combustibles en techos de cana pudieron influir en la propagación del fuego. Lamentablemente, una persona falleció durante el incidente.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781990500/autonoticias/articles/20260620_212140_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 20 Jun 2026 21:26:53 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260620212653</guid>
   </item>
 </channel>
 </rss>
