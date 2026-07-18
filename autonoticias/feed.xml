@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 18 Jul 2026 16:35:28 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 18 Jul 2026 16:46:08 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[El Alfa denuncia acoso por parte de un agente de Seguridad de EE. UU.]]></title>
+    <link>https://panorama.com.do/el-alfa-denuncia-acoso-por-parte-de-un-agente-de-seguridad-de-ee-uu/</link>
+    <description><![CDATA[El Alfa, cantante urbano, denunció acoso por parte de un agente del Departamento de Homeland Security de EE. UU. en el aeropuerto de Fort Lauderdale. Según El Alfa, fue retenido para una revisión adicional a pesar de no tener irregularidades.
+
+El agente revisó exhaustivamente su teléfono y le pidió reunirse en un lugar no oficial, lo que generó sospechas. El Alfa afirmó que otras personas en su lista de contactos también han sido interrogadas, lo que considera un patrón de hostigamiento.
+
+El Alfa hizo un llamado a las autoridades para que expliquen las razones de estas actuaciones, asegurando que siempre ha cumplido con las leyes y obligaciones fiscales.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1784393139/autonoticias/articles/20260718_164538_article.png" type="image/png"/>
+    <pubDate>Sat, 18 Jul 2026 16:46:08 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260718164608</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Salud Pública envía nueva misión humanitaria a Venezuela con 4,000 libras de ayuda]]></title>
     <link>https://n.com.do/2026/07/18/salud-publica-envia-nueva-mision-humanitaria-a-venezuela-con-4000-libras-de-ayuda/</link>
     <description><![CDATA[El Ministerio de Salud Pública de República Dominicana ha enviado 4,000 libras de ayuda humanitaria a Venezuela para asistir a las familias afectadas por los terremotos. La misión partió desde la Base Aérea de San Isidro, con el apoyo del comandante general de la Fuerza Aérea, mayor general piloto Floreal T. Suárez Martínez.
@@ -1329,20 +1343,6 @@ Todos los detenidos fueron entregados a la Dirección General de Migración.]]><
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782059259/autonoticias/articles/20260621_162739_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 21 Jun 2026 16:29:24 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260621162924</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[DNCD desmantela plantación de marihuana con más de 15 mil plantas en Ocoa]]></title>
-    <link>https://panorama.com.do/dncd-desmantela-plantacion-de-marihuana-con-mas-de-15-mil-plantas-en-ocoa/</link>
-    <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD) y el Ministerio Público desmantelaron una plantación de marihuana con más de 15,000 plantas en San José de Ocoa. Este operativo es el más grande de su tipo registrado en la historia del país.
-
-El hallazgo se realizó en una zona montañosa del distrito municipal El Pinar, gracias a labores de inteligencia y vigilancia aérea. Más de 70 agentes participaron en la intervención, que incluyó el uso de drones y seguimiento continuo.
-
-En el lugar se encontraron 15,392 plantas de marihuana y una vivienda utilizada como centro de acopio. Las autoridades han interrogado a más de diez personas en relación con el caso.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782059004/autonoticias/articles/20260621_162323_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 21 Jun 2026 16:23:57 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260621162357</guid>
   </item>
 </channel>
 </rss>
