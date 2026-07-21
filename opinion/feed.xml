@@ -6,7 +6,7 @@
   <link>https://eltestigo.com</link>
   <description>Artículos de opinión de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 17 Jul 2026 14:08:25 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Jul 2026 02:52:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/opinion/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
@@ -14,7 +14,41 @@
     <link>https://eltestigo.com</link>
   </image>
 
-                                                            <item>
+                                                              <item>
+    <title><![CDATA[Riesgos de la IA en la aplicación del derecho]]></title>
+    <link>https://eltestigo.com</link>
+    <author><![CDATA[Lic. César V. Polanco Reynoso]]></author>
+    <description><![CDATA[Hace unos días tuve la oportunidad, gracias a Dios, de ser invitado a participar en el conversatorio sobre Inteligencia Artificial y el Futuro en el Ejercicio del Derecho, celebrado en la Universidad Iberoamericana (UNIBE) y organizado por la Dominican Bar Association de los Estados Unidos.
+
+Esta organización reúne a distintos jóvenes de ascendencia dominicana y latina —cariñosamente dominicanizados— que buscan mejorar la calidad de la educación y crear oportunidades para los jóvenes de su país natal: la República Dominicana.
+
+En este conversatorio participaron distintos profesionales de importante relevancia, tales como Vicente A. Sánchez Henríquez, diputado y líder de la Comisión de Información y Telecomunicaciones; Pablo Segura, socio fundador de Segarra IP PLLC; Miguel Maldonado, abogado asociado de Chartwell Law; Ricy Francisco Bidó Astacio, director de Tecnología de la Información y Comunicación del Poder Judicial de la República Dominicana; y, por último, el humilde servidor que les escribe.
+
+Entre los temas que tuvimos la oportunidad de dialogar se encontraban la discriminación en los sistemas de IA, los resultados inexactos y engañosos, los riesgos en litigación, la privacidad, la confidencialidad, la ciberseguridad y los asuntos de responsabilidad legal.
+
+Dentro de estos riesgos, que son los más comunes y conocidos, pudimos establecer varios paralelismos con películas de ciencia ficción de ayer y hoy. Estas nos recuerdan con nostalgia cómo antes pensábamos que el futuro “distópico” que nos presentaban estaba muy lejos de nuestra realidad actual.
+
+Entre los filmes presentados como ejemplos de los tópicos mencionados, encontramos que, en materia de discriminación, la película Ex Machina se complementa a la perfección con la definición de esta problemática. De manera rápida, mencionamos que una robot termina haciéndole creer a su propio creador que sentía algo por él —prometo que no haré spoilers en este artículo—. Algo similar ocurre con frecuencia con la IA, que no solamente discrimina por género o raza, sino también mediante una idea de superioridad entre el ser humano y la máquina.
+
+En cuanto a los resultados inexactos o engañosos, podemos citar la película Blade Runner, en cualquiera de sus versiones, al recordar la famosa escena de los interrogatorios que los humanos debían realizar para localizar a posibles replicantes que intentaban regresar a la Tierra. ¿Les parece conocido?
+
+Cuando nos referimos a los riesgos en litigación, no podía dejar de pensar en la epopeya espacial dirigida por Stanley Kubrick, 2001: A Space Odyssey, donde la IA, representada por HAL 3000, tomaba decisiones por encima del bienestar de los seres humanos que se encontraban en la nave junto a ella, por el simple hecho de colocar la misión como objetivo primordial. Esto puede suceder en casos donde la IA genera argumentos con sustentación legal que pueden parecer lógicos, pero que simplemente buscan completar su misión: generar una respuesta por encima de lo que sea.
+
+Mientras seguíamos conversando sobre privacidad, confidencialidad y ciberseguridad, mi mente no dejaba de pensar en el famoso anime Ghost in the Shell, donde se mostraban los distintos riesgos que podían sufrir los seres humanos al integrarse a la máquina mediante la simbiosis que hoy describimos como transhumanismo. Esta obra japonesa nos presenta un futuro distópico en el que un hacker puede, sin temor alguno, reescribir nuestros recuerdos, lograr que realicemos acciones que serían imposibles en nuestro sano juicio o tomar decisiones que no necesariamente estén alineadas con nuestros valores y principios.
+
+Cualquier parecido con la realidad que vivimos a través de las redes sociales y del contenido que se genera en internet no es pura coincidencia. Es una manera introductoria de todo esto que fuimos describiendo en el párrafo anterior y que nos recuerda que la Primavera Árabe fue un experimento de hace ya más de una década.
+
+Por último, pero no menos importante, les dejo un filme que no mencioné durante mi exposición, pero que cae como anillo al dedo con el tema de la responsabilidad legal en materia de IA, robótica y machine learning. Este es un tópico que va más allá de quién es el culpable o responsable de una programación; debemos fijarnos también en la responsabilidad del usuario cuando utiliza estas nuevas tecnologías. El filme que retrata a la perfección este tópico es A.I. Inteligencia Artificial, dirigida por Steven Spielberg en el año 2001.
+
+Esta película nos presenta a un robot humanoide que nunca dejará de ser un niño y cuya función principal es acompañar a adultos que pasan por el trauma de la pérdida de un ser querido, en este caso, de un hijo. La moraleja que nos deja este filme sobre este tópico se relaciona con la responsabilidad del dueño de la máquina en el momento en que decide prescindir de ella. ¿Realmente era necesaria su creación? ¿Hasta dónde podemos reconocer los derechos de estas nuevas creaciones? ¿Seremos capaces de generar derechos robóticos para nuestras máquinas o simplemente terminaremos como en las películas The Matrix o I, Robot?
+
+Muchas preguntas surgieron en mi mente luego de este importante panel que sostuvimos; nuevas respuestas que les tocará a las nuevas generaciones descubrir. Pero, sobre todas las cosas, y en palabras de la Dra. Sagrario Feliz de Cochon, el gran reto que tenemos como humanidad en los próximos años será reconocer a nuestra creación su propia personalidad jurídica.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1784602137/noticias/articles/20260721_024857_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 21 Jul 2026 02:52:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-opinion-20260721025234</guid>
+  </item>
+
+  <item>
     <title><![CDATA[De 2 a 3 años de prisión y cierre de negocios por discriminación, y su contradicción]]></title>
     <link>https://eltestigo.com</link>
     <author><![CDATA[Lic. Amadeo Peralta]]></author>
