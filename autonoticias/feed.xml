@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 21 Jul 2026 00:06:44 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Jul 2026 00:07:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Presidente Abinader inaugura los pabellones de voleibol y taekwondo en el Centro Olímpico]]></title>
+    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-inaugura-los-pabellones-de-voleibol-y-taekwondo-en-el-centro-olimpico</link>
+    <description><![CDATA[El presidente Luis Abinader inauguró los pabellones de voleibol y taekwondo en el Centro Olímpico Juan Pablo Duarte, a pocos días de los XXV Juegos Centroamericanos y del Caribe Santo Domingo 2026. Durante el acto, entregó la bandera dominicana a la delegación nacional y presenció un partido de exhibición entre República Dominicana y Cuba.
+
+Junto a los ministros Víctor “Ito” Bisonó y Kelvin Cruz, Abinader recorrió las instalaciones deportivas. Se invirtieron RD 9,000 millones en acondicionamiento, y se destinaron RD 70 millones en incentivos para atletas medallistas.
+
+Obras entregadas incluyen instalaciones en el Centro Olímpico y el Parque del Este, como el campo de tiro con arco y pabellones de halterofilia, gimnasia, tenis de mesa y balonmano.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1784592448/autonoticias/articles/20260721_000727_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 21 Jul 2026 00:07:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260721000755</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministro Magín Díaz: La economía de RD responde positivamente pese a la incertidumbre persistente]]></title>
     <link>https://www.presidencia.gob.do/noticias/ministro-magin-diaz-la-economia-de-rd-responde-positivamente-pese-la-incertidumbre</link>
     <description><![CDATA[El ministro de Hacienda y Economía, Magín Díaz, informó que la economía dominicana creció un 4.2 % en los primeros cinco meses del año, duplicando el crecimiento del año anterior, a pesar de la incertidumbre internacional.
@@ -1333,20 +1347,6 @@ El procurador fiscal Franklyn Vicente Vicente resaltó el compromiso del Ministe
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782151477/autonoticias/articles/20260622_180437_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 22 Jun 2026 18:05:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260622180505</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader felicita a Abelardo de la Espriella y apuesta por fortalecer relaciones entre RD y Colombia]]></title>
-    <link>https://elnuevodiario.com.do/abinader-felicita-a-abelardo-de-la-espriella-y-apuesta-por-fortalecer-relaciones-entre-rd-y-colombia/</link>
-    <description><![CDATA[El presidente dominicano, Luis Abinader, felicitó a Abelardo de la Espriella por su virtual victoria en las elecciones presidenciales de Colombia, según resultados preliminares.
-
-Abinader expresó su deseo de fortalecer los lazos entre República Dominicana y Colombia y trabajar con el presidente electo en favor del bienestar de ambas naciones.
-
-De la Espriella, del movimiento Defensores de la Patria, obtenía el 49,65 % de los votos frente al 48,70 % de Iván Cepeda. El presidente colombiano, Gustavo Petro, ha solicitado esperar el escrutinio oficial por presuntas irregularidades.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782091681/autonoticias/articles/20260622_012800_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 22 Jun 2026 01:28:25 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260622012825</guid>
   </item>
 </channel>
 </rss>
