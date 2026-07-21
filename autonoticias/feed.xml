@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 21 Jul 2026 00:14:46 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 21 Jul 2026 00:59:38 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Cámara de Diputados aprueba en segunda discusión modificación al Código Penal]]></title>
+    <link>https://eldia.com.do/camara-de-diputados-aprueba-en-segunda-discusion-modificacion-al-codigo-penal/</link>
+    <description><![CDATA[La Cámara de Diputados aprobó en segunda discusión el proyecto de ley que modifica el Código Penal de la República Dominicana. La votación fue de 120 a favor y 17 en contra. Se introdujeron 14 propuestas de modificación, de las cuales 8 fueron aceptadas. El presidente de la Cámara, Alfredo Pacheco, explicó que algunas modificaciones provienen de diputados y otras de la sociedad civil. El proyecto pasa ahora al Senado.
+
+También se aprobó la resolución del Acuerdo entre el Gobierno dominicano y el Consejo Federal Suizo sobre servicios aéreos regulares, firmado en Kuala Lumpur el 21 de octubre de 2024. Este acuerdo busca promover la competencia entre aerolíneas con mínima regulación gubernamental.
+
+Se rindió un minuto de silencio en memoria del sacerdote Gabriel Antonio Rafael Camilo González. Los diputados fueron convocados a sesión para el martes a las 11:00 AM.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1784595520/autonoticias/articles/20260721_005839_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 21 Jul 2026 00:59:38 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260721005938</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Identifican estructura criminal tras asalto a camión de valores en Monte Plata; hay dos presos]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/07/20/asalto-camion-valores-en-don-juan-esclarecido-por-policia-nacional/3605357</link>
     <description><![CDATA[La Policía Nacional ha detenido a dos hombres relacionados con el asalto a un camión de valores en Monte Plata. Aneurys Adolfo Ortiz Ogando, quien admitió su participación, y Juan Carlos Suero López, acusado de falsificar placas, están bajo custodia.
@@ -1337,18 +1351,6 @@ La competencia reúne a estudiantes de más de 80 países, promoviendo habilidad
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782221526/autonoticias/articles/20260623_133205_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 23 Jun 2026 13:32:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260623133233</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Más de 111 mil estudiantes se enfrentan a Pruebas Nacionales desde este martes]]></title>
-    <link>https://n.com.do/2026/06/23/minerd-iniciara-este-martes-las-pruebas-nacionales-2026-para-mas-de-111-mil-estudiantes/</link>
-    <description><![CDATA[Este martes 23 de junio inicia la primera convocatoria de las Pruebas Nacionales 2026 en República Dominicana. Participarán 111,994 estudiantes de Educación Secundaria y de Educación Secundaria de Personas Jóvenes y Adultas.
-
-Las pruebas se realizarán en 3,002 centros educativos y abarcarán las áreas de Matemática, Ciencias Sociales, Lengua Española y Ciencias de la Naturaleza. El Ministerio de Educación ha implementado un sistema de supervisión para garantizar la transparencia y calidad del proceso.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782219062/autonoticias/articles/20260623_125102_article.png" type="image/png"/>
-    <pubDate>Tue, 23 Jun 2026 12:51:36 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260623125136</guid>
   </item>
 </channel>
 </rss>
