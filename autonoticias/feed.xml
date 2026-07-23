@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 21 Jul 2026 00:59:38 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 23 Jul 2026 18:02:10 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Gobierno dispone reducción de jornada laboral este viernes en instituciones públicas]]></title>
+    <link>https://www.presidencia.gob.do/noticias/gobierno-dispone-reduccion-de-jornada-laboral-este-viernes-en-instituciones-publicas</link>
+    <description><![CDATA[El Ministerio de Administración Pública ha decidido que las instituciones del Estado en el Gran Santo Domingo terminarán la jornada laboral del viernes 24 de julio de 2026 a la 1:00 p. m. Esta medida busca mejorar la movilidad en la ciudad debido al inicio de los XXV Juegos Centroamericanos y del Caribe.
+
+La inauguración de los Juegos se realizará en el Estadio Olímpico Félix Sánchez a las 7:00 de la noche, con puertas abiertas desde las 4:00 de la tarde. Se espera la asistencia de 45,000 personas, incluyendo espectadores, atletas y personal de logística.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1784829681/autonoticias/articles/20260723_180121_article.png" type="image/png"/>
+    <pubDate>Thu, 23 Jul 2026 18:02:10 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260723180210</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Cámara de Diputados aprueba en segunda discusión modificación al Código Penal]]></title>
     <link>https://eldia.com.do/camara-de-diputados-aprueba-en-segunda-discusion-modificacion-al-codigo-penal/</link>
     <description><![CDATA[La Cámara de Diputados aprobó en segunda discusión el proyecto de ley que modifica el Código Penal de la República Dominicana. La votación fue de 120 a favor y 17 en contra. Se introdujeron 14 propuestas de modificación, de las cuales 8 fueron aceptadas. El presidente de la Cámara, Alfredo Pacheco, explicó que algunas modificaciones provienen de diputados y otras de la sociedad civil. El proyecto pasa ahora al Senado.
@@ -1337,20 +1349,6 @@ Advirtió sobre los asentamientos de haitianos indocumentados y demandó el cump
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782229217/autonoticias/articles/20260623_154017_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 23 Jun 2026 15:40:59 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260623154059</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Estudiantes dominicanos clasifican a final mundial de competencia tecnológica en China]]></title>
-    <link>https://www.elcaribe.com.do/panorama/educacion/estudiantes-dominicanos-clasifican-a-final-mundial-de-competencia-tecnologica-en-china/</link>
-    <description><![CDATA[Un equipo de la Pontificia Universidad Católica Madre y Maestra (PUCMM) ha logrado clasificar a la fase final de la Huawei ICT Global Competition 2025-2026, que se llevará a cabo en Shenzhen, China.
-
-El equipo, integrado por Marco Reyes, Yira Tavárez y Diego de Jesús Peralta Mora, competirá en la pista de Informática. Bajo la mentoría del profesor Jesús Nicolás Mejías, se han posicionado como la única representación de Centroamérica y el Caribe en la final.
-
-La competencia reúne a estudiantes de más de 80 países, promoviendo habilidades prácticas e innovación tecnológica a nivel global.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782221526/autonoticias/articles/20260623_133205_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 23 Jun 2026 13:32:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260623133233</guid>
   </item>
 </channel>
 </rss>
