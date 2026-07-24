@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 24 Jul 2026 01:35:33 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 24 Jul 2026 01:40:59 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[EE.UU. impone un arancel del 12,5 % a República Dominicana por "trabajo forzoso"]]></title>
+    <link>https://eldia.com.do/ee-uu-impone-un-arancel-del-125-a-republica-dominicana-por-trabajo-forzoso/</link>
+    <description><![CDATA[La Administración de Donald Trump ha impuesto un arancel del 12,5 % a las importaciones de República Dominicana. Esta decisión sigue a una investigación sobre esfuerzos insuficientes para combatir el trabajo forzoso.
+
+República Dominicana se une a una lista de 60 países que enfrentarán nuevos aranceles de entre el 10 % y el 12,5 %. En América Latina, México, Guatemala, Honduras y El Salvador tendrán un arancel adicional del 10 %, mientras que Costa Rica y Panamá también estarán sujetos al 12,5 %.
+
+La medida fue anunciada por la oficina del Representante Comercial de Estados Unidos, Jamieson Greer, y es parte de la política arancelaria de Trump.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1784857213/autonoticias/articles/20260724_014013_article.webp" type="image/jpeg"/>
+    <pubDate>Fri, 24 Jul 2026 01:40:59 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260724014059</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Diputados aprueban préstamos por US$465.5 millones para seguridad vial y la cuenca del río Yuna]]></title>
     <link>https://www.diariolibre.com/politica/congreso-nacional/2026/07/23/diputados-aprueban-prestamo-por-us4655-millones-para-seguridad-vial/3608754</link>
     <description><![CDATA[La Cámara de Diputados aprobó dos préstamos por un total de 465.5 millones de dólares para proyectos de seguridad vial y manejo de la cuenca del río Yuna.
@@ -1337,20 +1351,6 @@ El presidente reafirmó el compromiso del Gobierno con la democracia, la transpa
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782322940/autonoticias/articles/20260624_174219_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 24 Jun 2026 17:42:52 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260624174252</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader afirma que llevará a la justicia “cada acto de corrupción” detectado]]></title>
-    <link>https://n.com.do/2026/06/24/abinader-afirma-que-llevara-a-la-justicia-cada-acto-de-corrupcion-detectado/</link>
-    <description><![CDATA[El presidente Luis Abinader aseguró que su gobierno llevará a la justicia cada acto de corrupción detectado, sin importar el nivel de la administración pública. Reiteró que la lucha contra las irregularidades es una de las principales características de su gestión.
-
-Abinader enfatizó que las acciones contra la corrupción deben comenzar desde las prácticas cotidianas en las instituciones públicas y extenderse a los casos más graves. Señaló que el favoritismo y el uso indebido de influencias también son formas de corrupción que afectan la igualdad de condiciones.
-
-El mandatario reafirmó su compromiso con la transparencia, la rendición de cuentas y el fortalecimiento institucional, abogando por una cultura de respeto a las normas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782322545/autonoticias/articles/20260624_173544_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 24 Jun 2026 17:36:15 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260624173615</guid>
   </item>
 </channel>
 </rss>
