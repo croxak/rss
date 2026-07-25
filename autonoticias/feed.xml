@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 25 Jul 2026 19:23:16 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 21:41:43 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Brigadas de la CAASD reparan avería que afecta el abastecimiento de agua en Santo Domingo Este]]></title>
+    <link>https://n.com.do/2026/07/25/averia-tuberia-48-pulgadas-afecta-agua-santo-domingo-este/</link>
+    <description><![CDATA[La CAASD está reparando una avería en una tubería de 48 pulgadas en Santo Domingo Este, causada por trabajos de la ETED. Esta situación ha disminuido el suministro de agua en varios sectores del municipio.
+
+Brigadas técnicas de la CAASD trabajan para corregir la avería y restablecer el servicio rápidamente. La entidad ha pedido disculpas a los usuarios y agradeció su comprensión.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785015645/autonoticias/articles/20260725_214045_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 25 Jul 2026 21:41:43 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260725214143</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Carolina Mejía: “Tenemos que venir a darle esa fuerza y esa energía a nuestros atletas”]]></title>
     <link>https://eldia.com.do/carolina-mejia-tenemos-que-venir-a-darle-esa-fuerza-y-esa-energia-a-nuestros-atletas/</link>
     <description><![CDATA[Carolina Mejía, alcaldesa del Distrito Nacional, celebró el triunfo del equipo dominicano de voleibol de playa en los XXV Juegos Centroamericanos y del Caribe 2026. Invitó a los ciudadanos a apoyar a los atletas en el Malecón Deportivo.
@@ -1333,20 +1345,6 @@ Esta iniciativa es parte de las acciones coordinadas para fortalecer la asistenc
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782479655/autonoticias/articles/20260626_131414_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 26 Jun 2026 13:14:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260626131442</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Abinader inaugura la remodelada Arena Banreservas Virgilio Travieso Soto]]></title>
-    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-inaugura-la-remodelada-arena-banreservas-virgilio-travieso-soto</link>
-    <description><![CDATA[El presidente Luis Abinader inauguró la remodelada Arena Banreservas Virgilio Travieso Soto en Santo Domingo, destacada como una de las instalaciones deportivas más modernas del Caribe. La transformación fue realizada por el Ministerio de la Vivienda.
-
-La arena está equipada con estándares internacionales, lista para albergar partidos de la NBA y otros eventos deportivos y culturales. Leonardo Aguilera, presidente ejecutivo de Banreservas, resaltó que esta remodelación es un homenaje a la historia deportiva dominicana.
-
-La Arena Banreservas será sede de partidos clasificatorios de la FIBA para la Copa Mundial de Baloncesto Catar 2027, enfrentando a Nicaragua y Estados Unidos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782436461/autonoticias/articles/20260626_011420_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 26 Jun 2026 01:14:51 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260626011451</guid>
   </item>
 </channel>
 </rss>
