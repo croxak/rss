@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 25 Jul 2026 03:14:30 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 03:28:08 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA["Soy Caribe" convirtió el Estadio Olímpico en un gran lienzo de identidad dominicana]]></title>
+    <link>https://n.com.do/2026/07/24/soy-caribe-convirtio-el-estadio-olimpico-en-un-gran-lienzo-de-identidad-dominicana/</link>
+    <description><![CDATA[El segmento final de la ceremonia de apertura, “Soy Caribe”, celebró la riqueza artística y cultural de la República Dominicana. Obras de maestros como Ada Balcácer y Guillo Pérez fueron proyectadas en el Estadio Olímpico Félix Sánchez, convirtiéndolo en un lienzo de talento nacional.
+
+La música dominicana tuvo un papel destacado. Jandy Ventura y Miriam Cruz rindieron homenaje a Johnny Ventura, mientras que Alexandra y Jeo Veras interpretaron bachata. El Prodigio llevó el merengue típico al escenario, y Maridalia Hernández cerró con “Soy Caribe” en una "yola de la esperanza".]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1784950057/autonoticias/articles/20260725_032736_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 25 Jul 2026 03:28:08 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260725032808</guid>
+  </item>
+
+  <item>
     <title><![CDATA[INTERPOL captura a cuatro hombres requeridos por la justicia internacional en RD]]></title>
     <link>https://panorama.com.do/interpol-captura-a-cuatro-hombres-requeridos-por-la-justicia-internacional-en-rd/</link>
     <description><![CDATA[La OCN-INTERPOL Santo Domingo arrestó a cuatro personas requeridas por la justicia internacional en República Dominicana. Entre ellos, el canadiense Nolin Stephane, buscado por presunto fraude financiero en Quebec, Canadá. Stephane será deportado por su permanencia irregular en el país.
@@ -1337,18 +1349,6 @@ Tom Fletcher, coordinador humanitario de la ONU, ha mantenido comunicación con 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782390648/autonoticias/articles/20260625_123048_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 25 Jun 2026 12:31:26 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260625123126</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Descontinúan alerta por tsunami emitida tras sismo de 7.1 en Venezuela]]></title>
-    <link>https://robertocavada.com/descontinuan-alerta-por-tsunami-emitida-tras-sismo-de-7-1-en-venezuela/</link>
-    <description><![CDATA[La Dirección del Centro de Operaciones de Emergencias (COE) ha descontinuado la alerta por tsunami para la costa Sur de República Dominicana. Esta medida sigue al boletín del Instituto Dominicano de Meteorología (INDOMET) tras un sismo de magnitud 7.1 en Venezuela.
-
-El sismo ocurrió el 24 de junio de 2026 a las 6:04 p.m., con una localización a 53 km al oeste de Puerto Cabello, Venezuela. En consecuencia, el COE ha descontinuado los niveles de alerta amarilla para Pedernales y Barahona, y el nivel de alerta verde para otras provincias.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782348229/autonoticias/articles/20260625_004348_article.png" type="image/png"/>
-    <pubDate>Thu, 25 Jun 2026 00:44:27 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260625004427</guid>
   </item>
 </channel>
 </rss>
