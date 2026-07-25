@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 25 Jul 2026 21:41:43 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 21:41:57 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Judoca Ana Rosa da primer oro a RD en Centroamericanos 2026]]></title>
+    <link>https://eldia.com.do/judoca-ana-rosa-da-primer-oro-a-rd-en-centroamericanos-2026/</link>
+    <description><![CDATA[Ana Rosa se coronó campeona en judo, otorgando a República Dominicana su primer oro en los Juegos Centroamericanos y del Caribe Santo Domingo 2026. La victoria fue lograda con ippon ante la colombiana María Villalba en la final de los -57 kilogramos.
+
+En la categoría masculina, Diego García también destacó al conseguir una medalla de bronce en los -60 kilogramos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785015599/autonoticias/articles/20260725_213958_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 25 Jul 2026 21:41:57 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260725214157</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Brigadas de la CAASD reparan avería que afecta el abastecimiento de agua en Santo Domingo Este]]></title>
     <link>https://n.com.do/2026/07/25/averia-tuberia-48-pulgadas-afecta-agua-santo-domingo-este/</link>
     <description><![CDATA[La CAASD está reparando una avería en una tubería de 48 pulgadas en Santo Domingo Este, causada por trabajos de la ETED. Esta situación ha disminuido el suministro de agua en varios sectores del municipio.
@@ -1331,20 +1343,6 @@ Las autoridades han confiscado más de 23.5 toneladas de drogas en 2026. El carg
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782499265/autonoticias/articles/20260626_184104_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 26 Jun 2026 18:41:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260626184132</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio de Salud prepara despliegue del Equipo Móviles de Emergencias EMT Tipo 1 para apoyar a Venezuela]]></title>
-    <link>https://msp.gob.do/web/?p=21097</link>
-    <description><![CDATA[El Ministerio de Salud Pública de la República Dominicana, junto al Centro de Operaciones de Emergencias, se prepara para enviar el Equipo Móviles de Emergencias (EMT) Tipo 1 a Venezuela. Esta misión humanitaria busca apoyar a la población afectada por el reciente terremoto.
-
-El despliegue incluye un hospital móvil y un equipo de aproximadamente 40 profesionales de la salud, entre ellos médicos, enfermeras y psicólogos. El hospital móvil está equipado para ofrecer diversos servicios médicos y apoyo en salud mental.
-
-Esta iniciativa es parte de las acciones coordinadas para fortalecer la asistencia humanitaria que la República Dominicana ofrece a Venezuela, siguiendo la decisión del presidente Luis Abinader.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782479655/autonoticias/articles/20260626_131414_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 26 Jun 2026 13:14:42 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260626131442</guid>
   </item>
 </channel>
 </rss>
