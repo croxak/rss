@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 25 Jul 2026 19:22:19 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 19:23:16 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Carolina Mejía: “Tenemos que venir a darle esa fuerza y esa energía a nuestros atletas”]]></title>
+    <link>https://eldia.com.do/carolina-mejia-tenemos-que-venir-a-darle-esa-fuerza-y-esa-energia-a-nuestros-atletas/</link>
+    <description><![CDATA[Carolina Mejía, alcaldesa del Distrito Nacional, celebró el triunfo del equipo dominicano de voleibol de playa en los XXV Juegos Centroamericanos y del Caribe 2026. Invitó a los ciudadanos a apoyar a los atletas en el Malecón Deportivo.
+
+Julibeth Payano y Crismil Paniagua lograron una victoria frente a Islas Caimán. Payano expresó su emoción por jugar en casa, mientras que Paniagua agradeció la oportunidad de representar al país.
+
+Mejía resaltó la importancia de espacios como el Malecón Deportivo para disfrutar de los eventos deportivos con seguridad y alegría.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785007372/autonoticias/articles/20260725_192252_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 25 Jul 2026 19:23:16 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260725192316</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Muere el destacado ginecólogo obstetra José Plácido Montero]]></title>
     <link>https://elnuevodiario.com.do/muere-el-destacado-ginecologo-obstetra-jose-placido-montero/</link>
     <description><![CDATA[El doctor José Plácido Montero, reconocido ginecólogo obstetra, ha fallecido. La Clínica Corazones Unidos confirmó la noticia y lamentó su pérdida, destacando su legado en la medicina dominicana.
@@ -1333,20 +1347,6 @@ La Arena Banreservas será sede de partidos clasificatorios de la FIBA para la C
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782436461/autonoticias/articles/20260626_011420_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 26 Jun 2026 01:14:51 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260626011451</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[EE.UU. levanta sanciones para permitir transacciones de ayuda a Venezuela por terremotos]]></title>
-    <link>https://elnuevodiario.com.do/ee-uu-levanta-sanciones-para-permitir-transacciones-de-ayuda-a-venezuela-por-terremotos/</link>
-    <description><![CDATA[Estados Unidos ha levantado ciertas sanciones para permitir transacciones de ayuda a Venezuela tras los terremotos que han dejado más de 180 muertos. Esta autorización estará vigente hasta el 23 de octubre de 2026, según el Departamento del Tesoro.
-
-La medida no incluye el desbloqueo de bienes sujetos al reglamento de sanciones. Los terremotos, de magnitud 7,2 y 7,4, son los más devastadores en la historia reciente de Venezuela.
-
-Además, EE.UU. enviará 150 millones de dólares para asistencia humanitaria a través de la OCHA.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782432388/autonoticias/articles/20260626_000627_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 26 Jun 2026 00:06:54 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260626000654</guid>
   </item>
 </channel>
 </rss>
