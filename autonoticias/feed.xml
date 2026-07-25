@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 25 Jul 2026 21:41:57 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 25 Jul 2026 21:42:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Prohibido el uso de drones durante los XXV Juegos Centroamericanos]]></title>
+    <link>https://eldia.com.do/prohibido-el-uso-de-drones-durante-los-xxv-juegos-centroamericanos/</link>
+    <description><![CDATA[El Comité Organizador de los XXV Juegos Centroamericanos y del Caribe Santo Domingo 2026 ha establecido una prohibición sobre el uso de drones en los recintos y clústeres del evento. Esta medida responde a protocolos de seguridad para proteger a atletas, oficiales, espectadores y demás participantes.
+
+Los medios de comunicación deben abstenerse de operar drones sin autorización expresa del Comité Organizador y las autoridades competentes. El incumplimiento puede resultar en sanciones conforme a las normas de seguridad y condiciones de acreditación.
+
+Para más información sobre las regulaciones y lineamientos, se puede consultar la página oficial www.jcc2026.org.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785015683/autonoticias/articles/20260725_214123_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 25 Jul 2026 21:42:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260725214241</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Judoca Ana Rosa da primer oro a RD en Centroamericanos 2026]]></title>
     <link>https://eldia.com.do/judoca-ana-rosa-da-primer-oro-a-rd-en-centroamericanos-2026/</link>
     <description><![CDATA[Ana Rosa se coronó campeona en judo, otorgando a República Dominicana su primer oro en los Juegos Centroamericanos y del Caribe Santo Domingo 2026. La victoria fue lograda con ippon ante la colombiana María Villalba en la final de los -57 kilogramos.
@@ -1329,20 +1343,6 @@ Las investigaciones continúan para identificar a otros posibles implicados en e
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782574629/autonoticias/articles/20260627_153709_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 27 Jun 2026 15:38:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260627153842</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Intervienen otra narcolancha con alijo de 1,743 paquetes de drogas en Peravia]]></title>
-    <link>https://n.com.do/2026/06/26/intervienen-otra-narcolancha-con-alijo-de-1743-paquetes-de-drogas-en-peravia/</link>
-    <description><![CDATA[Oficiales de la DNCD, la Armada de República Dominicana y la Fuerza Aérea, con apoyo de agencias de inteligencia y bajo la coordinación del Ministerio Público, intervinieron un cargamento de 1,743 paquetes de presunta marihuana y cocaína en las costas de Baní, provincia Peravia.
-
-La operación incluyó un operativo aéreo, marítimo y terrestre, interceptando una embarcación al Sur de Punta Salinas. Se arrestaron a dos dominicanos, quienes serán sometidos a medidas de coerción.
-
-Las autoridades han confiscado más de 23.5 toneladas de drogas en 2026. El cargamento está siendo analizado por el Instituto Nacional de Ciencias Forenses (INACIF).]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782499265/autonoticias/articles/20260626_184104_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 26 Jun 2026 18:41:32 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260626184132</guid>
   </item>
 </channel>
 </rss>
