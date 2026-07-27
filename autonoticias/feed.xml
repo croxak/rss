@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 25 Jul 2026 21:42:41 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 27 Jul 2026 23:08:42 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Incendio afecta tienda china Ming Sheng en la avenida Isabel Aguiar]]></title>
+    <link>https://panorama.com.do/incendio-afecta-tienda-china-ming-sheng-en-la-avenida-isabel-aguiar/</link>
+    <description><![CDATA[Un incendio afectó la tienda china Ming Sheng en la avenida Isabel Aguiar, Santo Domingo Oeste, la tarde del lunes. Las autoridades no han reportado heridos.
+
+El fuego comenzó alrededor de las 4:00 p.m., movilizando a varias unidades del Cuerpo de Bomberos y al Sistema Nacional de Atención a Emergencias y Seguridad 9-1-1. La vía fue cerrada un kilómetro para facilitar las labores de emergencia.
+
+El comandante de operaciones, Fernando Arturo Santana, explicó que la extinción presentó dificultades por falta de agua. Las causas del incendio serán investigadas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785193686/autonoticias/articles/20260727_230805_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 27 Jul 2026 23:08:42 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260727230842</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Prohibido el uso de drones durante los XXV Juegos Centroamericanos]]></title>
     <link>https://eldia.com.do/prohibido-el-uso-de-drones-durante-los-xxv-juegos-centroamericanos/</link>
     <description><![CDATA[El Comité Organizador de los XXV Juegos Centroamericanos y del Caribe Santo Domingo 2026 ha establecido una prohibición sobre el uso de drones en los recintos y clústeres del evento. Esta medida responde a protocolos de seguridad para proteger a atletas, oficiales, espectadores y demás participantes.
@@ -1329,20 +1343,6 @@ Venezuela sigue enfrentando las consecuencias de dos terremotos anteriores de ma
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782594167/autonoticias/articles/20260627_210247_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 27 Jun 2026 21:03:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260627210319</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ocupan 421 plantas de presunta marihuana durante operativo en Santo Domingo Oeste]]></title>
-    <link>https://eldia.com.do/ocupan-421-plantas-de-presunta-marihuana-durante-operativo-en-santo-domingo-oeste/</link>
-    <description><![CDATA[Durante un operativo en Santo Domingo Oeste, las autoridades ocuparon 421 plantas de presunta marihuana. La intervención se realizó en el sector La Cuaba, donde las plantas estaban sembradas en vasos de foam.
-
-Un hombre fue arrestado y será presentado ante el Ministerio Público. Además, se incautaron equipos utilizados para el cultivo del vegetal.
-
-Las investigaciones continúan para identificar a otros posibles implicados en esta actividad ilícita.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782574629/autonoticias/articles/20260627_153709_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 27 Jun 2026 15:38:42 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260627153842</guid>
   </item>
 </channel>
 </rss>
