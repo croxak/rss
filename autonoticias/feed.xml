@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 27 Jul 2026 23:08:42 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 27 Jul 2026 23:33:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[911 utiliza drones para sofocar incendio en tienda china de SDO]]></title>
+    <link>https://n.com.do/2026/07/27/911-utiliza-drones-para-sofocar-incendio-en-tienda-china-de-sdo/</link>
+    <description><![CDATA[Un incendio se desató en el tercer nivel de una tienda china ubicada en la avenida Isabel Aguiar, Santo Domingo Oeste. El fuego comenzó a las 4:21 de la tarde y para las 7:00 de la noche, varias unidades de bomberos trabajaban para controlarlo.
+
+El Sistema Nacional de Atención a Emergencia y Seguridad 911 desplegó drones para ayudar en las labores de extinción. Seis unidades de bomberos, una ambulancia, y varias unidades de la Policía Nacional, Comipol y Digesett fueron enviadas al lugar. Hasta el momento, no se han reportado personas afectadas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785195186/autonoticias/articles/20260727_233305_article.png" type="image/png"/>
+    <pubDate>Mon, 27 Jul 2026 23:33:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260727233333</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Incendio afecta tienda china Ming Sheng en la avenida Isabel Aguiar]]></title>
     <link>https://panorama.com.do/incendio-afecta-tienda-china-ming-sheng-en-la-avenida-isabel-aguiar/</link>
     <description><![CDATA[Un incendio afectó la tienda china Ming Sheng en la avenida Isabel Aguiar, Santo Domingo Oeste, la tarde del lunes. Las autoridades no han reportado heridos.
@@ -1331,18 +1343,6 @@ Además, se prepara el envío de una embarcación con ayuda humanitaria que incl
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782600619/autonoticias/articles/20260627_225019_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 27 Jun 2026 22:50:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260627225058</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Otro sismo de magnitud 4,8 sacude la costa de Venezuela]]></title>
-    <link>https://listindiario.com/las-mundiales/venezuela/20260627/sismo-magnitud-4-8-sacude-costa-venezuela_911560.html</link>
-    <description><![CDATA[Un terremoto de magnitud 4,8 se registró este sábado en la costa de Venezuela. El epicentro estuvo en el mar, a 30 kilómetros al noroeste de El Limón, estado de Aragua, y fue sentido en Caracas. No se reportaron daños.
-
-Venezuela sigue enfrentando las consecuencias de dos terremotos anteriores de magnitudes 7,2 y 7,5 que causaron 1,430 muertes y dejaron a miles de familias damnificadas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782594167/autonoticias/articles/20260627_210247_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 27 Jun 2026 21:03:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260627210319</guid>
   </item>
 </channel>
 </rss>
