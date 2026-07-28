@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 28 Jul 2026 18:45:16 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 19:13:13 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Tribunal fija para agosto primera audiencia de fondo por derrumbe del Jet Set]]></title>
+    <link>https://m.n.com.do/2026/07/28/audiencia-fondo-caso-jet-set-agosto-2026/</link>
+    <description><![CDATA[La Cuarta Sala de la Cámara Penal del Juzgado de Primera Instancia del Distrito Nacional celebrará en agosto la primera audiencia de fondo contra los hermanos Maribel y Antonio Espaillat por el derrumbe de la discoteca Jet Set, tragedia en la que murieron 236 personas y más de 100 resultaron heridas.
+
+El proceso está pautado para el 28 de agosto de 2026, a las 9:00 a. m., de manera pública y presencial. La acusación incluye homicidio involuntario e imprudencia, según los artículos 319 y 320 del Código Penal dominicano.
+
+El juez Raymundo Mejía Ortiz impuso medidas de coerción, incluyendo la inmovilización de 500 millones de pesos y una garantía económica de 50 millones de pesos para cada acusado. También se admitieron entidades como tercero civilmente demandado.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785265933/noticias/articles/20260728_191213_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 28 Jul 2026 19:13:13 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260728191313</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno lanza fideicomiso de Crédito Educativo “Impulsa tu futuro”]]></title>
     <link>https://m.n.com.do/2026/07/28/gobierno-lanza-fideicomiso-credito-educativo-impulsa-tu-futuro/</link>
     <description><![CDATA[El presidente Luis Abinader presentó el fideicomiso de Crédito Educativo “Impulsa tu futuro”, destinado a ampliar el acceso a financiamientos para estudios de grado y posgrado. Este programa beneficiará a estudiantes que no califican para becas tradicionales.
@@ -1247,17 +1260,6 @@ La reunión subraya la importancia de la cooperación internacional en el ámbit
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777224370/noticias/articles/20260426_172609_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 26 Apr 2026 17:27:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260426172757</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader dice sentirse aliviado de que Trump esté a salvo "después de un cobarde ataque de anoche"]]></title>
-    <link>https://listindiario.com/la-republica/gobierno/20260426/abinader-sobre-ataque-trump-dominicanos-pueblo-estadounidense_903298.html</link>
-    <description><![CDATA[El presidente Luis Abinader manifestó su alivio luego de que Donald Trump fuera evacuado de una cena en Washington tras un ataque. Agradeció a los oficiales que detuvieron al atacante y envió oraciones de los dominicanos a los estadounidenses.
-
-El presidente Trump y otros dirigentes fueron evacuados de la cena anual de corresponsales de la Casa Blanca. El Servicio Secreto rodeó el salón mientras los invitados se protegían.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777223512/noticias/articles/20260426_171152_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 26 Apr 2026 17:13:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260426171305</guid>
   </item>
 </channel>
 </rss>
