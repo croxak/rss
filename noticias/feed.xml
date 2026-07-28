@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 28 Jul 2026 14:41:35 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 17:03:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                <item>
+    <title><![CDATA[Cuatro personas mueren en balneario La Neverita al caer vehículo en uno de los charcos]]></title>
+    <link>https://listindiario.com/la-republica/20260728/cuatro-personas-mueren-balneario-neverita-caer-vehiculo-charco_915683.html</link>
+    <description><![CDATA[Cuatro personas fallecieron en el balneario La Neverita, en el río Nizao, al caer su vehículo en uno de los charcos. Las víctimas, residentes en Santo Domingo, fueron Karlos Jamil Lorenzo Gilarranz, Gabriel Rafael Joa Rondón, Aldy Chamir Royer Frías y Ginneudy Alcántara Suero. El accidente ocurrió cuando el grupo se retiraba del lugar en una jeepeta Chevrolet Tahoe y perdió el control, quedando atrapados.
+
+En otro incidente en Peravia, Alexander Mojica y Jhoan Ángel Germán murieron al chocar de frente sus motocicletas en la carretera hacia Villa Güera.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785258190/noticias/articles/20260728_170310_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 28 Jul 2026 17:03:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260728170340</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Keiko Fujimori se inviste como presidenta de Perú; noveno cambio de presidente en diez años]]></title>
     <link>https://listindiario.com/las-mundiales/america/20260728/peru-vive-noveno-cambio-presidente-diez-anos-investidura-keiko-fujimori_915670.html</link>
     <description><![CDATA[Keiko Fujimori ha sido investida como presidenta de Perú, convirtiéndose en la primera mujer en ocupar este cargo en el país. Su elección marca el noveno cambio presidencial en Perú en la última década.
@@ -1245,17 +1256,6 @@ Allen, originario de Torrance, California, trabaja como maestro y no es un agent
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777180586/noticias/articles/20260426_051626_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 26 Apr 2026 05:17:01 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260426051701</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Donald Trump confirma detención de tirador tras evacuación en gala de corresponsales]]></title>
-    <link>https://hoy.com.do/el-mundo/estados-unidos/donald-trump-confirma-detencion-tirador-evacuacion-gala-corresponsales_1084888_amp.html</link>
-    <description><![CDATA[Donald Trump, presidente de EE.UU., informó que un tirador ha sido detenido después de unos aparentes disparos en una cena de gala en Washington. 
-
-Trump fue evacuado del evento y sugirió que no se suspenda la gala.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777172759/noticias/articles/20260426_030559_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 26 Apr 2026 03:06:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260426030631</guid>
   </item>
 </channel>
 </rss>
