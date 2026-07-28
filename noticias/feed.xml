@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 28 Jul 2026 18:39:20 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 18:45:16 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Gobierno lanza fideicomiso de Crédito Educativo “Impulsa tu futuro”]]></title>
+    <link>https://m.n.com.do/2026/07/28/gobierno-lanza-fideicomiso-credito-educativo-impulsa-tu-futuro/</link>
+    <description><![CDATA[El presidente Luis Abinader presentó el fideicomiso de Crédito Educativo “Impulsa tu futuro”, destinado a ampliar el acceso a financiamientos para estudios de grado y posgrado. Este programa beneficiará a estudiantes que no califican para becas tradicionales.
+
+El fideicomiso permitirá financiar estudios tanto en la República Dominicana como en el extranjero, cubriendo gastos de matrícula, alimentación y transporte. También facilitará la inserción laboral de los beneficiarios.
+
+La iniciativa se fundamenta en el Decreto 551-21 y opera bajo la Ley 189-11, con el objetivo de ampliar las oportunidades de acceso a la educación superior.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785264252/noticias/articles/20260728_184412_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 28 Jul 2026 18:45:16 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260728184516</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Embargan por US$5 millones representantes de empresas vinculada a Karpowership]]></title>
     <link>https://listindiario.com/la-republica/justicia/20260728/embargan-us-5-millones-representantes-empresas-vinculada-karpowership_915680.html</link>
     <description><![CDATA[La Segunda Sala de la Cámara Penal del Distrito Nacional ha impuesto una medida de coerción real de 5 millones de dólares contra Dynex Energy Group, Dynex Energy RD, S.R.L. y su representante Carlos Matamoros Bregni. Estas entidades están vinculadas a la operación de la central eléctrica flotante Karpowership en Azua.
@@ -1245,17 +1258,6 @@ El presidente Trump y otros dirigentes fueron evacuados de la cena anual de corr
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777223512/noticias/articles/20260426_171152_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 26 Apr 2026 17:13:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260426171305</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El sospechoso del tiroteo en Washington actuó por motivos anticristianos, según Trump]]></title>
-    <link>https://listindiario.com/las-mundiales/ee-uu/20260426/sospechoso-tiroteo-washington-actuo-motivos-anticristianos-trump_903312.html</link>
-    <description><![CDATA[Tomas Colen Allen es señalado como el sospechoso de un intento de tiroteo en una cena con el presidente Donald Trump. Según Trump, Allen actuó por un "odio" hacia los cristianos, basado en un manifiesto y datos de las autoridades.
-
-El presidente describió al atacante como un "tipo muy problemático" con un trasfondo religioso radical. Trump fue evacuado por el Servicio Secreto tras los disparos en el hotel Washington Hilton.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777223470/noticias/articles/20260426_171110_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 26 Apr 2026 17:11:39 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260426171139</guid>
   </item>
 </channel>
 </rss>
