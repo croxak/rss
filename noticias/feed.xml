@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 28 Jul 2026 17:03:40 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 18:39:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Embargan por US$5 millones representantes de empresas vinculada a Karpowership]]></title>
+    <link>https://listindiario.com/la-republica/justicia/20260728/embargan-us-5-millones-representantes-empresas-vinculada-karpowership_915680.html</link>
+    <description><![CDATA[La Segunda Sala de la Cámara Penal del Distrito Nacional ha impuesto una medida de coerción real de 5 millones de dólares contra Dynex Energy Group, Dynex Energy RD, S.R.L. y su representante Carlos Matamoros Bregni. Estas entidades están vinculadas a la operación de la central eléctrica flotante Karpowership en Azua.
+
+La jueza Clara Luz Almonte autorizó embargos sobre los bienes de los imputados, pero rechazó la solicitud de impedimento de salida del país para Matamoros Bregni. La decisión se basa en la existencia de un crédito justificado y la necesidad de evitar la insolvencia del imputado.
+
+La disputa se origina de un acuerdo de 2018 entre Dynex y TEPC, donde se estableció una distribución de fondos que no se ha cumplido según la parte querellante. Las barcazas están operando y generando ingresos, pero TEPC no ha recibido el porcentaje pactado.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785263921/noticias/articles/20260728_183841_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 28 Jul 2026 18:39:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260728183920</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Cuatro personas mueren en balneario La Neverita al caer vehículo en uno de los charcos]]></title>
     <link>https://listindiario.com/la-republica/20260728/cuatro-personas-mueren-balneario-neverita-caer-vehiculo-charco_915683.html</link>
     <description><![CDATA[Cuatro personas fallecieron en el balneario La Neverita, en el río Nizao, al caer su vehículo en uno de los charcos. Las víctimas, residentes en Santo Domingo, fueron Karlos Jamil Lorenzo Gilarranz, Gabriel Rafael Joa Rondón, Aldy Chamir Royer Frías y Ginneudy Alcántara Suero. El accidente ocurrió cuando el grupo se retiraba del lugar en una jeepeta Chevrolet Tahoe y perdió el control, quedando atrapados.
@@ -1243,19 +1256,6 @@ El presidente describió al atacante como un "tipo muy problemático" con un tra
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777223470/noticias/articles/20260426_171110_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 26 Apr 2026 17:11:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260426171139</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[¿Quién es Cole Thomas Allen, presunto tirador en la cena de Trump? Traía dos pistolas y cuchillos]]></title>
-    <link>https://www.elfinanciero.com.mx/mundo/2026/04/25/quien-es-cole-thomas-allen-presunto-tirador-en-la-cena-de-trump-traia-dos-pistolas-y-cuchillos/</link>
-    <description><![CDATA[Cole Thomas Allen fue detenido en la Cena de Corresponsales 2026, lo que llevó a la evacuación del presidente Donald Trump. Allen, de 31 años, llevaba una escopeta, una pistola y múltiples cuchillos.
-
-El presidente Trump y el jefe interino del Departamento de la Policía Metropolitana, Jeff Carroll, lo describieron como un "actor solitario". La investigación está a cargo del Servicio Secreto, la Policía Metropolitana y el FBI.
-
-Allen, originario de Torrance, California, trabaja como maestro y no es un agente extranjero ni un operador político. Trump descartó que el ataque esté relacionado con la guerra en Medio Oriente.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777180586/noticias/articles/20260426_051626_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 26 Apr 2026 05:17:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260426051701</guid>
   </item>
 </channel>
 </rss>
