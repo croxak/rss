@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 28 Jul 2026 00:26:38 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 00:31:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                          <item>
+    <title><![CDATA[EE. UU. sugiere estudio sobre la propuesta del doctor Fadul para el tratamiento del autismo]]></title>
+    <link>https://elnacional.com.do/nacionales/ee-uu-sugiere-estudio-sobre-propuesta-doctor-fadul-tratamiento-autismo_576956_amp.html</link>
+    <description><![CDATA[La embajadora de Estados Unidos en la República Dominicana, Leah Campos, desarrolló una agenda de trabajo en Washington D. C. con representantes de la Casa Blanca, el Departamento de Estado, el Departamento de Salud, la Oficina del Representante Comercial y el Congreso.
+
+Durante las reuniones, se discutió la propuesta del doctor Ernesto Fadul sobre el tratamiento del autismo con suplementos naturales. El secretario de Salud, Robert F. Kennedy Jr., sugirió realizar un estudio exhaustivo sobre esta propuesta.
+
+Además, se respaldó la extensión de la iniciativa sanitaria MAHA a la República Dominicana, conversando sobre estrategias bilaterales en salud pública.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785198667/noticias/articles/20260728_003107_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 28 Jul 2026 00:31:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260728003132</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Incendio de embarcación frente a isla Saona deja al menos 12 heridos]]></title>
     <link>https://acento.com.do/amp/actualidad/incendio-de-embarcacion-frente-a-isla-saona-deja-al-menos-12-heridos-9726817.html</link>
     <description><![CDATA[Un incendio en una lancha turística frente a la isla Saona ha dejado al menos 12 personas con quemaduras. De los heridos, 11 están hospitalizados y uno recibe atención especializada en una clínica privada.
@@ -1239,19 +1252,6 @@ Cury resaltó la importancia de recordar la Revolución de Abril de 1965 y la lu
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777066258/noticias/articles/20260424_213058_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 24 Apr 2026 21:31:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260424213133</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Daños detectados en el Quisqueya tras concierto superan los RD$3.6 millones; promotores asumirán monto]]></title>
-    <link>https://n.com.do/2026/04/24/danos-detectados-en-el-quisqueya-tras-concierto-supera-los-rd3-6-millones-promotores-asumiran-monto/</link>
-    <description><![CDATA[El Estadio Quisqueya sufrió daños en su terreno tras un concierto, con un costo de reparación de 3.6 millones de pesos. Los promotores del evento asumirán este gasto, conforme al contrato de alquiler. A pesar de estos daños, el Patronato para la Administración del Estadio Quisqueya asegura que el terreno estará en óptimas condiciones antes del torneo de béisbol de los Juegos Centroamericanos y del Caribe Santo Domingo 2026.
-
-Esta garantía fue ofrecida tras una reunión con representantes del Comité Organizador de los Juegos, el Ministerio de Deportes, LIDOM y la Oficina del Comisionado Nacional de Béisbol. José Monegro, presidente del Comité Organizador, expresó su satisfacción con el plan de mantenimiento presentado.
-
-Las demás áreas del estadio, que fueron recientemente adecuadas, se encuentran en perfecto estado. En la reunión participaron figuras como Vitelio Mejía Ortiz, presidente de LIDOM, y Miguel Guerra, presidente de los Tigres del Licey, entre otros.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777063295/noticias/articles/20260424_204135_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 24 Apr 2026 20:42:24 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260424204224</guid>
   </item>
 </channel>
 </rss>
