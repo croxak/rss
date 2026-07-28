@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 28 Jul 2026 14:25:25 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 14:35:44 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Ejército incauta cargamento de madera sin documentación legal en Santiago]]></title>
+    <link>https://panorama.com.do/ejercito-incauta-cargamento-de-madera-sin-documentacion-legal-en-santiago/</link>
+    <description><![CDATA[El Ejército de República Dominicana incautó dos camiones en Casabito, Santiago, que transportaban 3,000 palos de madera de acacia sin documentación legal. 
+
+Los vehículos, un Daihatsu y un Isuzu, fueron detenidos durante un operativo de vigilancia. Los conductores y la madera serán entregados al SENPA.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785249317/autonoticias/articles/20260728_143516_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 28 Jul 2026 14:35:44 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260728143544</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Demanda eléctrica vuelve a romper su récord histórico y alcanza los 4,203 MW]]></title>
     <link>https://www.presidencia.gob.do/noticias/demanda-electrica-vuelve-romper-su-record-historico-y-alcanza-los-4203-mw</link>
     <description><![CDATA[La demanda eléctrica en República Dominicana estableció un nuevo récord al alcanzar 4,203 megavatios (MW) de potencia instantánea, según informó el ministro de Energía y Minas, Joel Santos. Este es el cuarto registro consecutivo que supera los máximos históricos durante julio.
@@ -1323,22 +1335,6 @@ Los detenidos, todos dominicanos, están bajo custodia del Ministerio Público d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782661320/autonoticias/articles/20260628_154200_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 28 Jun 2026 15:48:21 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260628154821</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno y empresarios dominicanos presentan a RD como plataforma industrial ante España]]></title>
-    <link>https://www.elcaribe.com.do/panorama/gobierno-y-empresarios-dominicanos-presentan-a-rd-como-plataforma-industrial-ante-espana/</link>
-    <description><![CDATA[El ministro de Industria, Comercio y Mipymes de República Dominicana, Yayo Sanz Lovatón, presentó en España nuevas oportunidades de inversión en sectores innovadores del país.
-
-Durante el Encuentro Empresarial República Dominicana-España, se destacó la intención de construir una relación económica que trascienda el intercambio comercial tradicional, enfocándose en inversión, innovación y encadenamiento productivo.
-
-En 2025, República Dominicana recibió US$5,033 millones en inversión extranjera directa, con 843 empresas en zonas francas generando más de 200 mil empleos. Se resaltó la posición geográfica del país y su infraestructura para facilitar el comercio.
-
-Además, se presentó una estrategia para desarrollar la industria de semiconductores y manufactura avanzada, invitando a las empresas españolas a considerar a República Dominicana para estas áreas.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782661354/autonoticias/articles/20260628_154234_article.webp" type="image/jpeg"/>
-    <pubDate>Sun, 28 Jun 2026 15:48:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260628154800</guid>
   </item>
 </channel>
 </rss>
