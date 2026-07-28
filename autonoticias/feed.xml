@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 27 Jul 2026 23:34:03 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 01:35:53 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[JCE elimina servicios de cedulación de madrugada a partir del 1 de agosto]]></title>
+    <link>https://eldia.com.do/jce-elimina-servicios-de-cedulacion-de-madrugada-a-partir-del-1-de-agosto/</link>
+    <description><![CDATA[La Junta Central Electoral (JCE) ha decidido modificar los horarios de atención de los Centros de Cedulación de Servicio Extendido. A partir del 1 de agosto, estos centros operarán de 8:00 de la mañana a 12:00 de la medianoche, eliminando el servicio de madrugada.
+
+Esta medida afectará a los centros ubicados en Barahona, Herrera, Distrito Nacional, La Romana, La Vega, Las Américas, San Cristóbal, San Francisco de Macorís, San Pedro de Macorís y Santiago. La JCE busca garantizar una mayor cobertura y facilitar el acceso a los procesos de cedulación.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785202523/autonoticias/articles/20260728_013522_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 28 Jul 2026 01:35:53 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260728013553</guid>
+  </item>
+
+  <item>
     <title><![CDATA[MP dice Jean Alain continúa utilizando tácticas dilatorias en el proceso seguido en su contra]]></title>
     <link>https://n.com.do/2026/07/27/mp-dice-jean-alain-continua-utilizando-tacticas-dilatorias-en-el-proceso-seguido-en-su-contra/</link>
     <description><![CDATA[El Ministerio Público sostiene que Jean Alain Rodríguez Sánchez sigue utilizando tácticas dilatorias en su proceso judicial. La procuradora Mirna Ortiz afirmó que no es posible una sentencia de extinción de la acción penal en este caso.
@@ -1329,20 +1341,6 @@ El ministro de Defensa, Carlos Antonio Fernández Onofre, despidió al equipo, d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782661223/autonoticias/articles/20260628_154022_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 28 Jun 2026 15:40:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260628154057</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno habilita vuelo humanitario para repatriar a dominicanos afectados por terremotos en Venezuela]]></title>
-    <link>https://panorama.com.do/gobierno-habilita-vuelo-humanitario-para-repatriar-a-dominicanos-afectados-por-terremotos-en-venezuela/</link>
-    <description><![CDATA[El Gobierno dominicano, bajo instrucciones del presidente Luis Abinader, ha dispuesto un vuelo humanitario para repatriar a dominicanos afectados por los terremotos en Venezuela. El vuelo saldrá el 29 de junio desde el Aeropuerto Internacional Arturo Michelena en Valencia hacia Santo Domingo.
-
-Los pasajeros deben presentar su cédula de identidad o pasaporte vigente. Además, una delegación de la Junta Central Electoral viajará a Venezuela para asistir a quienes hayan perdido sus documentos.
-
-El Ministerio de Relaciones Exteriores ha habilitado líneas telefónicas y un correo electrónico para ofrecer asistencia a los interesados en retornar.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782609103/autonoticias/articles/20260628_011142_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 28 Jun 2026 01:12:09 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260628011209</guid>
   </item>
 </channel>
 </rss>
