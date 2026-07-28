@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 28 Jul 2026 00:31:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 28 Jul 2026 00:40:51 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                            <item>
+    <title><![CDATA[PCR eleva las calificaciones del Grupo Estrella y destaca su fortaleza financiera]]></title>
+    <link>https://www.cibaonoticias.com/economia/pcr-eleva-calificaciones-grupo-estrella/</link>
+    <description><![CDATA[Pacific Credit Rating (PCR) ha mejorado las calificaciones de riesgo de varias empresas del Grupo Estrella, destacando su fortalecimiento financiero y expansión regional.
+
+Ingeniería Estrella y Consorcio Minero Dominicano recibieron mejoras en sus calificaciones, mientras que Acero Estrella mantiene su calificación con una perspectiva mejorada.
+
+El Grupo Estrella opera en más de 15 países y cuenta con más de 6,000 colaboradores, reforzando su capacidad de ejecución en el sector construcción.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785199225/noticias/articles/20260728_004025_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 28 Jul 2026 00:40:51 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260728004051</guid>
+  </item>
+
+  <item>
     <title><![CDATA[EE. UU. sugiere estudio sobre la propuesta del doctor Fadul para el tratamiento del autismo]]></title>
     <link>https://elnacional.com.do/nacionales/ee-uu-sugiere-estudio-sobre-propuesta-doctor-fadul-tratamiento-autismo_576956_amp.html</link>
     <description><![CDATA[La embajadora de Estados Unidos en la República Dominicana, Leah Campos, desarrolló una agenda de trabajo en Washington D. C. con representantes de la Casa Blanca, el Departamento de Estado, el Departamento de Salud, la Oficina del Representante Comercial y el Congreso.
@@ -1241,17 +1254,6 @@ Un hombre armado irrumpió en el Salón de Baile, lo que provocó que los asiste
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777165974/noticias/articles/20260426_011253_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 26 Apr 2026 01:13:24 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260426011324</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader juramenta comisión de la Gesta de Abril presidida por Jottin Cury]]></title>
-    <link>https://listindiario.com/la-republica/gobierno/20260424/comision-gesta-abril-nuestra-soberania-esta-amenazada-invasion-indocumentados_903123.html</link>
-    <description><![CDATA[El presidente Luis Abinader juramentó a los miembros de una comisión encargada de la creación del Museo Histórico de la Gesta de Abril. La comisión, presidida por Jottin Cury, utilizará el edificio Copello en la Zona Colonial para establecer el museo.
-
-Cury resaltó la importancia de recordar la Revolución de Abril de 1965 y la lucha por la soberanía dominicana. La comisión trabajará de manera honorífica y estará adscrita al Ministerio de la Presidencia.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777066258/noticias/articles/20260424_213058_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 24 Apr 2026 21:31:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260424213133</guid>
   </item>
 </channel>
 </rss>
