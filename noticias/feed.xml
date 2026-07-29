@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 28 Jul 2026 19:13:13 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 01:09:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                        <item>
+    <title><![CDATA[República Dominicana da inicio a su primera Dominicana Tech Week con más de 70 eventos que impulsarán la innovación del país]]></title>
+    <link>https://robertocavada.com/video-republica-dominicana-da-inicio-a-su-primera-dominicana-tech-week-con-mas-de-70-eventos-que-impulsaran-la-innovacion-del-pais/</link>
+    <description><![CDATA[República Dominicana ha dado inicio a su primera Dominicana Tech Week, un evento que se extenderá del 27 al 31 de julio con más de 70 actividades. La agenda incluye conferencias, paneles, talleres y encuentros de networking, entre otros.
+
+La iniciativa, impulsada por Venture.do y Turisteo, busca fortalecer el ecosistema tecnológico del país mediante la colaboración entre startups, empresas y organizaciones. Se espera la participación de más de 5,000 personas en eventos en Santo Domingo, Santiago y Punta Cana.
+
+El evento cuenta con el apoyo de varias organizaciones, incluyendo el Ministerio de Industria, Comercio y MIPYMES, CREE Banreservas, Oracle y más. La agenda oficial está disponible en las redes sociales de Dominicana Tech Week.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785287342/noticias/articles/20260729_010901_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 29 Jul 2026 01:09:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260729010932</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Tribunal fija para agosto primera audiencia de fondo por derrumbe del Jet Set]]></title>
     <link>https://m.n.com.do/2026/07/28/audiencia-fondo-caso-jet-set-agosto-2026/</link>
     <description><![CDATA[La Cuarta Sala de la Cámara Penal del Juzgado de Primera Instancia del Distrito Nacional celebrará en agosto la primera audiencia de fondo contra los hermanos Maribel y Antonio Espaillat por el derrumbe de la discoteca Jet Set, tragedia en la que murieron 236 personas y más de 100 resultaron heridas.
@@ -1245,21 +1258,6 @@ Lluberes Sánchez fue condenado tras ser hallado culpable de encabezar una red d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777225949/noticias/articles/20260426_175228_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 26 Apr 2026 17:54:13 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260426175413</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Embajadora de EEUU destaca labor de doctor Fadul y respalda incorporar medicina natural en tratamiento del autismo]]></title>
-    <link>https://robertocavada.com/embajadora-de-ee-uu-respalda-ampliar-opciones-no-farmacologicas-para-tratar-el-autismo-tras-reunion-con-fadul/</link>
-    <description><![CDATA[La embajadora de Estados Unidos en República Dominicana, Leah Campos, ha destacado la labor del doctor Fadul en el ámbito de la medicina natural para el tratamiento del autismo. Durante una reunión, Campos expresó su respaldo a las opciones no farmacológicas para tratar esta condición en niños, subrayando la importancia de explorar alternativas que puedan complementar los tratamientos tradicionales.
-
-En el encuentro, también se abordaron diversas iniciativas de salud impulsadas por Estados Unidos, con el objetivo de mejorar la atención médica y las opciones disponibles para las familias dominicanas. La embajadora Campos mostró su compromiso con el intercambio de mejores prácticas regulatorias entre ambos países.
-
-Para avanzar en este propósito, Campos acordó colaborar con las autoridades dominicanas, incluyendo a la vicepresidenta Raquel Peña y el ministro de Salud, Víctor Atallah. Este esfuerzo conjunto busca ampliar las opciones de tratamiento para los padres de niños con autismo, promoviendo un enfoque más inclusivo y diverso en el manejo de esta condición.
-
-La reunión subraya la importancia de la cooperación internacional en el ámbito de la salud, y el interés de Estados Unidos en apoyar iniciativas que beneficien a la población dominicana, especialmente en áreas sensibles como el tratamiento del autismo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777224370/noticias/articles/20260426_172609_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 26 Apr 2026 17:27:57 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260426172757</guid>
   </item>
 </channel>
 </rss>
