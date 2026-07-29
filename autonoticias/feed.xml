@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 29 Jul 2026 16:11:36 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 29 Jul 2026 18:19:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[“El Barbero” había realizado otras cirugías previo a la que acabo con la vida de Rebeca Brizard]]></title>
+    <link>https://panorama.com.do/el-barbero-habia-realizado-otras-cirugias-previo-a-la-que-acabo-con-la-vida-de-rebeca-brizard/</link>
+    <description><![CDATA[Emanuel Hernández, apodado "El Barbero", realizó varias cirugías antes de la que terminó con la vida de Rebeca Brizard. Según Juan Gerardo Mesa, del Ministerio de Salud Pública, Hernández no es médico ni cirujano plástico.
+
+El centro donde operaba no verificó sus credenciales, y las autoridades investigan cómo pudo realizar estas intervenciones sin la titulación requerida.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785349132/autonoticias/articles/20260729_181850_article.png" type="image/png"/>
+    <pubDate>Wed, 29 Jul 2026 18:19:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260729181940</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Apresan en el AILA a presunto implicado en homicidio en Baní cuando intentaba huir hacia Colombia]]></title>
     <link>https://eldia.com.do/apresan-en-el-aila-a-presunto-implicado-en-homicidio-en-bani-cuando-intentaba-huir-hacia-colombia/</link>
     <description><![CDATA[Alejandro Gabriel García Lacerda, alias "Alex El Guardita", fue detenido en el Aeropuerto Internacional de Las Américas cuando intentaba abordar un vuelo hacia Bogotá, Colombia. Es buscado por su presunta participación en un homicidio en Baní.
@@ -1321,20 +1333,6 @@ Caminero ha logrado jonrones en cuatro juegos consecutivos, convirtiéndose en e
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782684508/autonoticias/articles/20260628_220828_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 28 Jun 2026 22:13:12 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260628221312</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Leonel exige al Gobierno bajar la gasolina porque el petróleo volvió a US$70 el barril]]></title>
-    <link>https://panorama.com.do/leonel-exige-al-gobierno-bajar-la-gasolina-porque-el-petroleo-volvio-a-us70-el-barril/</link>
-    <description><![CDATA[Leonel Fernández, presidente de la Fuerza del Pueblo, pidió al Gobierno del PRM bajar el precio de los combustibles, ya que el petróleo ha regresado a los niveles previstos en el presupuesto.
-
-Durante una asamblea en Puerto Plata, Fernández criticó las medidas tributarias tomadas cuando el petróleo subió a 104 dólares por la crisis en Medio Oriente. Ahora que el petróleo está a 70 dólares, cuestiona por qué no se ha reducido el precio de la gasolina.
-
-Fernández también acusó al Gobierno de buscar recursos para fines políticos, sugiriendo que intentan comprar apoyo de otros partidos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782684547/autonoticias/articles/20260628_220907_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 28 Jun 2026 22:12:18 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260628221218</guid>
   </item>
 </channel>
 </rss>
