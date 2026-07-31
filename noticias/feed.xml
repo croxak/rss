@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 29 Jul 2026 01:09:32 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 31 Jul 2026 02:00:38 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                          <item>
+    <title><![CDATA[El Consejo Nacional de Educación aprueba nuevas políticas de prevención de violencia de género]]></title>
+    <link>https://www.diariolibre.com/actualidad/educacion/2026/07/30/cne-aprueba-politicas-de-prevencion-violencia-de-genero/3615481</link>
+    <description><![CDATA[El Consejo Nacional de Educación aprobó nuevas políticas para prevenir la violencia de género en centros educativos. La propuesta, presentada por el ministro Luis Miguel De Camps, busca consolidar el sistema educativo como un espacio seguro para niños, niñas y adolescentes.
+
+Las medidas incluyen dotar a docentes de herramientas para identificar señales de abuso y ofrecer capacitaciones continuas. Se creará un sello para centros que cumplan con los protocolos y se garantizará la confidencialidad de los casos.
+
+Jorge Asjana fue juramentado como nuevo miembro del Consejo Nacional de Educación.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785463205/noticias/articles/20260731_020004_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 31 Jul 2026 02:00:38 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260731020038</guid>
+  </item>
+
+  <item>
     <title><![CDATA[República Dominicana da inicio a su primera Dominicana Tech Week con más de 70 eventos que impulsarán la innovación del país]]></title>
     <link>https://robertocavada.com/video-republica-dominicana-da-inicio-a-su-primera-dominicana-tech-week-con-mas-de-70-eventos-que-impulsaran-la-innovacion-del-pais/</link>
     <description><![CDATA[República Dominicana ha dado inicio a su primera Dominicana Tech Week, un evento que se extenderá del 27 al 31 de julio con más de 70 actividades. La agenda incluye conferencias, paneles, talleres y encuentros de networking, entre otros.
@@ -1243,21 +1256,6 @@ Mientras tanto, 27 organizaciones populares han llamado a un paro de labores en 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777227162/noticias/articles/20260426_181241_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 26 Apr 2026 18:13:41 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260426181341</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Exteniente coronel condenado a 30 años por caso de 454 kilos de cocaína en el AILA es hallado muerto en celda de San Luis]]></title>
-    <link>https://eltestigo.com</link>
-    <description><![CDATA[El exteniente coronel de la Policía Nacional, Hans Wender Lluberes Sánchez, condenado a 30 años de prisión por narcotráfico internacional, fue hallado muerto la noche del sábado en el interior de una celda en la cárcel del poblado de San Luis, en Santo Domingo Este.
-
-Según informaciones preliminares, Lluberes Sánchez, de 54 años de edad, fue encontrado ahorcado pasadas las 9:00 de la noche, en momentos en que agentes de custodia realizaban una inspección rutinaria en las celdas del recinto penitenciario.
-
-El exoficial policial permanecía detenido a la espera de ser trasladado al Centro de Corrección y Rehabilitación (CCR) de Najayo, en la provincia San Cristóbal, donde cumpliría la condena impuesta por el Segundo Tribunal Colegiado de Santo Domingo Este.
-
-Lluberes Sánchez fue condenado tras ser hallado culpable de encabezar una red de tráfico internacional de drogas, a la que en el año 2015 se le ocuparon 450 paquetes de cocaína, con un peso de 454.060 kilogramos, durante un operativo en el Aeropuerto Internacional de las Américas (AILA).]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777225949/noticias/articles/20260426_175228_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 26 Apr 2026 17:54:13 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260426175413</guid>
   </item>
 </channel>
 </rss>
