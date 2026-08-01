@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 31 Jul 2026 02:00:38 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 01 Aug 2026 21:38:18 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                            <item>
+    <title><![CDATA[PN apresa a 17 personas por presunto saqueo durante incendio en L&R Comercial]]></title>
+    <link>https://m.n.com.do/2026/08/01/apresan-17-personas-saqueo-incendio-lr-comercial/</link>
+    <description><![CDATA[La Policía Nacional arrestó a 17 personas por presunto saqueo durante un incendio en L&R Comercial, ubicado en la autopista Las Américas, Santo Domingo Este. Los detenidos fueron sorprendidos en flagrante delito cargando electrodomésticos.
+
+El operativo de seguridad fue supervisado por el director regional Santo Domingo Oriental, general Claudio González Moquete. No se reportaron víctimas mortales, pero se mantiene un perímetro de seguridad debido al riesgo de colapso parcial de la estructura.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785620269/noticias/articles/20260801_213748_article.png" type="image/png"/>
+    <pubDate>Sat, 01 Aug 2026 21:38:18 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260801213818</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El Consejo Nacional de Educación aprueba nuevas políticas de prevención de violencia de género]]></title>
     <link>https://www.diariolibre.com/actualidad/educacion/2026/07/30/cne-aprueba-politicas-de-prevencion-violencia-de-genero/3615481</link>
     <description><![CDATA[El Consejo Nacional de Educación aprobó nuevas políticas para prevenir la violencia de género en centros educativos. La propuesta, presentada por el ministro Luis Miguel De Camps, busca consolidar el sistema educativo como un espacio seguro para niños, niñas y adolescentes.
@@ -1243,19 +1254,6 @@ Además, Francisco Javier García señala que muchas familias dominicanas no pue
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777227920/noticias/articles/20260426_182520_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 26 Apr 2026 18:27:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260426182734</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Raquel Arbaje dice esperan por estudio ambiental para ponderar explotación minera en San Juan]]></title>
-    <link>https://listindiario.com/la-republica/20260425/raquel-arbaje-esperan-estudio-ambiental-explotacion-minera-san-juan_903242.html</link>
-    <description><![CDATA[Raquel Arbaje, primera dama de la República, ha declarado que se está a la espera de un estudio de impacto ambiental para considerar la explotación minera en San Juan de la Maguana. La decisión se tomará tras evaluar los resultados del estudio, que determinará la factibilidad del proyecto.
-
-En respuesta a un video de la periodista Laura Merán, Arbaje aseguró que el proyecto está en fase de estudio y que no se ha tomado una decisión final. La preocupación principal es evitar la contaminación en los ríos de la zona.
-
-Mientras tanto, 27 organizaciones populares han llamado a un paro de labores en la provincia, en protesta contra la explotación minera propuesta por la empresa GoldQuest Mining Corp.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777227162/noticias/articles/20260426_181241_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 26 Apr 2026 18:13:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260426181341</guid>
   </item>
 </channel>
 </rss>
