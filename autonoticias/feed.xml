@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 02 Aug 2026 22:15:28 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 03 Aug 2026 02:42:17 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Hallan dos cadáveres con signos de violencia en Rancho Quemado de Villa Los Almácigos]]></title>
+    <link>https://panorama.com.do/hallan-dos-cadaveres-con-signos-de-violencia-en-rancho-quemado-de-villa-los-almacigos/</link>
+    <description><![CDATA[Dos cadáveres fueron encontrados en el paraje Bohío Viejo, sección Rancho Quemado, del municipio Villa Los Almácigos. Los cuerpos presentaban signos de violencia, con sogas atadas al cuello y las extremidades amarradas.
+
+Las autoridades presumen que las víctimas son de nacionalidad dominicana, aunque sus identidades aún no han sido establecidas. Los cuerpos serán trasladados al INACIF para realizar las autopsias y estudios correspondientes.
+
+El caso está siendo investigado como un hecho de extrema gravedad. Las autoridades ofrecerán más detalles a medida que avancen las pesquisas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785724902/autonoticias/articles/20260803_024141_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 03 Aug 2026 02:42:17 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260803024217</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Tras cirugía nasal muere Ibelise Fabián esposa de José Peña Suazo por complicaciones respiratorias]]></title>
     <link>https://panorama.com.do/muere-ybelise-fabian-esposa-de-jose-pena-suazo-tras-cirugia-nasal-por-complicaciones-respiratorias/</link>
     <description><![CDATA[El merenguero José Virgilio Peña Suazo anunció el fallecimiento de su esposa, Ibelise Fabián, a través de Instagram. Fabián había estado enfrentando problemas de salud tras una cirugía nasal para corregir complicaciones respiratorias crónicas.
@@ -1319,20 +1333,6 @@ El decreto será remitido al Ministerio de Relaciones Exteriores y otras institu
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782872918/autonoticias/articles/20260701_022837_article.webp" type="image/jpeg"/>
     <pubDate>Wed, 01 Jul 2026 02:29:29 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260701022929</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[PN e Indotel firman acuerdo para digitalizar registro y control de detenidos en destacamentos]]></title>
-    <link>https://elnuevodiario.com.do/pn-e-indotel-firman-acuerdo-para-digitalizar-registro-y-control-de-detenidos-en-destacamentos/</link>
-    <description><![CDATA[La Policía Nacional y el Instituto Dominicano de las Telecomunicaciones (Indotel) han firmado un acuerdo para digitalizar el registro y control de detenidos en destacamentos policiales.
-
-La nueva plataforma reemplazará los registros manuales por un sistema digital seguro, interoperable y auditable, que permitirá registrar en tiempo real la información de las personas detenidas. Además, integrará validación biométrica con la Junta Central Electoral.
-
-El sistema incluirá mecanismos de supervisión, alertas sobre los plazos legales de detención, paneles de monitoreo y reportes estadísticos. Indotel financiará y coordinará la implementación del sistema, mientras que la Policía Nacional proveerá la infraestructura necesaria. El proyecto se ejecutará en tres meses.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782871117/autonoticias/articles/20260701_015837_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 01 Jul 2026 01:59:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260701015905</guid>
   </item>
 </channel>
 </rss>
