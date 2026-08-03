@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 03 Aug 2026 02:42:17 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 03 Aug 2026 02:42:56 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[El Piro anuncia acciones ante el Tribunal Constitucional y rechaza cambios al Código Penal]]></title>
+    <link>https://panorama.com.do/el-piro-anuncia-acciones-ante-el-tribunal-constitucional-y-rechaza-cambios-al-codigo-penal/</link>
+    <description><![CDATA[El Piro, artista y activista, anunció que llevará acciones ante el Tribunal Constitucional contra las modificaciones del Código Penal, aprobadas en 2025, que considera una amenaza para la libertad de expresión.
+
+Durante el "Festival Mordaza", El Piro sostuvo que las opiniones personales no deberían requerir pruebas, siempre que no sean irrespetuosas. Llamó a la ciudadanía a apoyar las gestiones legales y advirtió sobre el riesgo de que las disposiciones del Código Penal se usen en perjuicio de las personas.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785724889/autonoticias/articles/20260803_024129_article.webp" type="image/jpeg"/>
+    <pubDate>Mon, 03 Aug 2026 02:42:56 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260803024256</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Hallan dos cadáveres con signos de violencia en Rancho Quemado de Villa Los Almácigos]]></title>
     <link>https://panorama.com.do/hallan-dos-cadaveres-con-signos-de-violencia-en-rancho-quemado-de-villa-los-almacigos/</link>
     <description><![CDATA[Dos cadáveres fueron encontrados en el paraje Bohío Viejo, sección Rancho Quemado, del municipio Villa Los Almácigos. Los cuerpos presentaban signos de violencia, con sogas atadas al cuello y las extremidades amarradas.
@@ -1319,20 +1331,6 @@ La certificación Great Place to Work® otorgó al Banco Popular una valoración
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782946511/autonoticias/articles/20260701_225510_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 02 Jul 2026 01:21:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260702012102</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader designa a Federico Cuello para coordinar adhesión a la OCDE]]></title>
-    <link>https://www.elcaribe.com.do/panorama/abinader-designa-a-federico-cuello-para-coordinar-adhesion-a-la-ocde/</link>
-    <description><![CDATA[El presidente Luis Abinader ha emitido el Decreto núm. 438-26, designando a Federico Alberto Cuello Camilo como embajador en misión especial para la OCDE y coordinador del proceso de adhesión de la República Dominicana a esta organización.
-
-La medida busca fortalecer la coordinación de los trabajos para el ingreso del país a la OCDE, asegurando la alineación regulatoria con sus normas y estándares. El decreto se fundamenta en la Constitución y la Ley núm. 107-13.
-
-El decreto será remitido al Ministerio de Relaciones Exteriores y otras instituciones para su conocimiento y ejecución.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782872918/autonoticias/articles/20260701_022837_article.webp" type="image/jpeg"/>
-    <pubDate>Wed, 01 Jul 2026 02:29:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260701022929</guid>
   </item>
 </channel>
 </rss>
