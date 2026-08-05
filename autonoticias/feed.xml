@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 04 Aug 2026 00:47:58 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 01:49:53 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Hallan agricultor brutalmente asesinado en finca de Moca]]></title>
+    <link>https://www.elcaribe.com.do/panorama/pais/hallan-agricultor-brutalmente-asesinado-en-finca-de-moca/</link>
+    <description><![CDATA[El agricultor José Castillo Bellos, de 63 años, fue encontrado muerto en su finca en el paraje Puerto Grande, comunidad de Mosquita, San Víctor. Su cuerpo presentaba múltiples heridas y mutilaciones con un arma blanca.
+
+El principal sospechoso es un ciudadano haitiano que habría seguido a Castillo Bellos tras enterarse de que había recibido dinero por la venta de aguacates. La Policía Nacional ha desplegado un operativo de búsqueda y varios ciudadanos haitianos han sido detenidos para fines de depuración.
+
+El caso está bajo investigación del Ministerio Público y la Policía Nacional, que trabajan para esclarecer las circunstancias del homicidio.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785894566/autonoticias/articles/20260805_014926_article.webp" type="image/jpeg"/>
+    <pubDate>Wed, 05 Aug 2026 01:49:53 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260805014953</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Marileidy culmina remontada dominicana para ganar el oro en el relevo mixto 4x400 metros]]></title>
     <link>https://www.diariolibre.com/deportes/olimpismo/2026/08/03/marileidy-culmina-remontada-dominicana-para-ganar-el-oro-en-el-relevo/3618851</link>
     <description><![CDATA[El equipo de relevo mixto de 4x400 de la República Dominicana se llevó la medalla de oro en los XXV Juegos Centroamericanos y del Caribe Santo Domingo 2026. Marileidy Paulino fue fundamental en la remontada final, logrando un tiempo de 3:10.57, nuevo récord del certamen.
@@ -1317,18 +1331,6 @@ Abinader lamentó que el hecho ocurriera mientras se impulsa la reforma de la Po
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783188028/autonoticias/articles/20260704_180027_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 04 Jul 2026 18:00:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260704180058</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio de Salud recomienda medidas para prevenir golpes de calor]]></title>
-    <link>https://msp.gob.do/web/?p=21145</link>
-    <description><![CDATA[El Ministerio de Salud de República Dominicana recomienda medidas para prevenir golpes de calor ante las altas temperaturas. Se aconseja mantenerse hidratado, evitar el sol entre las 11:00 a.m. y las 3:00 p.m., y usar ropa ligera.
-
-Los grupos vulnerables, como niños y adultos mayores, deben tener especial cuidado. El golpe de calor es una emergencia médica que requiere atención inmediata. Se recomienda ventilar espacios, reducir la actividad física intensa y evitar bebidas alcohólicas y con cafeína.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783099876/autonoticias/articles/20260703_173116_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 03 Jul 2026 17:31:43 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260703173143</guid>
   </item>
 </channel>
 </rss>
