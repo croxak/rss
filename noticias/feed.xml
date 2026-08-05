@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 01 Aug 2026 21:38:18 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 05 Aug 2026 00:12:38 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Senador Alexis Victoria reconoce a 75 estudiantes meritorios de María Trinidad Sánchez]]></title>
+    <link>https://elnuevodiario.com.do/senador-alexis-victoria-reconoce-a-75-estudiantes-meritorios-de-maria-trinidad-sanchez/</link>
+    <description><![CDATA[El senador Alexis Victoria Yeb celebró la ceremonia Mérito Estudiantil 2026 en la provincia María Trinidad Sánchez, donde reconoció a 75 estudiantes meritorios por su dedicación y excelencia académica. Cada estudiante recibió una computadora portátil o una tableta para apoyar su formación.
+
+Durante el evento, el senador destacó la importancia de la educación como inversión para el futuro y felicitó a los jóvenes por su compromiso. La ceremonia, realizada en Lumare Eventos, reunió a estudiantes, padres, docentes y autoridades.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785888726/noticias/articles/20260805_001206_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 05 Aug 2026 00:12:38 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260805001238</guid>
+  </item>
+
+  <item>
     <title><![CDATA[PN apresa a 17 personas por presunto saqueo durante incendio en L&R Comercial]]></title>
     <link>https://m.n.com.do/2026/08/01/apresan-17-personas-saqueo-incendio-lr-comercial/</link>
     <description><![CDATA[La Policía Nacional arrestó a 17 personas por presunto saqueo durante un incendio en L&R Comercial, ubicado en la autopista Las Américas, Santo Domingo Este. Los detenidos fueron sorprendidos en flagrante delito cargando electrodomésticos.
@@ -1241,19 +1252,6 @@ El conductor del vehículo también resultó herido con golpes en el hombro, pie
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777230339/noticias/articles/20260426_190538_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 26 Apr 2026 19:06:47 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260426190647</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Francisco Javier dice que el Gobierno obliga a parte de la población a hacer “ayuno intermitente”]]></title>
-    <link>https://listindiario.com/la-republica/gobierno/20260426/pld-critica-gestion-prm-denuncia-deterioro-economico-pais_903319.html</link>
-    <description><![CDATA[Francisco Javier García, miembro del Comité Político del Partido de la Liberación Dominicana (PLD), ha expresado críticas hacia el gobierno del Partido Revolucionario Moderno (PRM). Según García, la gestión actual ha llevado a una parte de la población dominicana a practicar el "ayuno intermitente" debido a la falta de recursos para cubrir necesidades alimenticias básicas.
-
-García, quien es aspirante a la candidatura presidencial del PLD, argumenta que esta situación es un reflejo del deterioro en las condiciones de vida en el país. Critica al gobierno por su incapacidad para enfrentar los problemas que afectan a la población.
-
-Además, Francisco Javier García señala que muchas familias dominicanas no pueden cubrir la canasta básica debido a los aumentos en los precios de los alimentos. También menciona que los servicios públicos han empeorado, lo que agrava aún más la situación de las familias en el país.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777227920/noticias/articles/20260426_182520_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 26 Apr 2026 18:27:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260426182734</guid>
   </item>
 </channel>
 </rss>
