@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 06 Aug 2026 00:56:33 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 06 Aug 2026 00:58:25 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Marileidy Paulino vence a la lluvia y gana el oro en Santo Domingo 2026]]></title>
+    <link>https://www.espn.com.do/otros-deportes/nota/_/id/17083778/juegos-centroamericanos-caribe-dominicana-paulino-gana-oro-bajo-lluvia</link>
+    <description><![CDATA[Marileidy Paulino se coronó con el oro en los 400 metros planos femeninos en los Juegos Centroamericanos y del Caribe Santo Domingo 2026. La dominicana logró un tiempo de 48.94 segundos, estableciendo un nuevo récord de la prueba.
+
+A pesar de la lluvia torrencial, Paulino venció a siete rivales, incluyendo a Roxana Gómez de Cuba y Shafiqua Maloney de San Vicente y Granadinas, quienes terminaron en segundo y tercer lugar, respectivamente.
+
+Esta victoria representa la segunda medalla de oro de Paulino en estos juegos y la cuarta en su carrera en estas justas regionales.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785977881/noticias/articles/20260806_005800_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 06 Aug 2026 00:58:25 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260806005825</guid>
+  </item>
+
+  <item>
     <title><![CDATA[María Dimitrova hace historia con su sexto oro consecutivo en los Juegos Centroamericanos y del Caribe]]></title>
     <link>https://deultimominuto.net/deportes/maria-dimitrova-hace-historia-con-su-sexto-oro-consecutivo-en-los-juegos-centroamericanos-y-del-caribe/</link>
     <description><![CDATA[María Dimitrova reafirmó su dominio en el kata al obtener su sexto oro consecutivo en los Juegos Centroamericanos y del Caribe Santo Domingo 2026. En un abarrotado Pabellón de Karate del Centro Olímpico Juan Pablo Duarte, Dimitrova venció a la venezolana Daniela García por 3-2.
@@ -1241,17 +1254,6 @@ Reconocido por su dirección del proyecto del Templo Mayor de Tenochtitlán en M
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777238319/noticias/articles/20260426_211839_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 26 Apr 2026 21:19:07 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260426211907</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Danilo Medina: “Que nadie espere que el PLD le va a endosar su fuerza a ningún partido”]]></title>
-    <link>https://listindiario.com/la-republica/politica/20260426/danilo-medina-nadie-espere-pld-le-endosar-fuerza-ningun-partido_903328.html</link>
-    <description><![CDATA[Danilo Medina, presidente del PLD, dejó clara su postura sobre posibles alianzas electorales, afirmando que el partido no cederá su fuerza a otras agrupaciones. Rechazó la idea de que el PLD sufra del "síndrome de Estocolmo".
-
-En un acto en Valverde, Medina destacó la estructura sólida del PLD en todo el país y defendió los logros de sus gestiones de gobierno. Proyectó el retorno del partido al poder y llamó a la militancia a creer en la política y adueñarse del partido.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777231492/noticias/articles/20260426_192452_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 26 Apr 2026 19:25:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260426192540</guid>
   </item>
 </channel>
 </rss>
