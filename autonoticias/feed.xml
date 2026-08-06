@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 06 Aug 2026 01:31:38 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 06 Aug 2026 17:38:06 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Suspenden agente penitenciario tras filtrarse video de recluso con un celular en la cárcel Las Parras]]></title>
+    <link>https://eldia.com.do/suspenden-agente-penitenciario-tras-filtrarse-video-de-recluso-con-un-celular-en-la-carcel-las-parras/</link>
+    <description><![CDATA[La Dirección General de Servicios Penitenciarios y Correccionales (DGSPC) ha suspendido a un agente penitenciario tras la filtración de un video en redes sociales. En el video, un recluso aparece usando un celular en la cárcel Las Parras.
+
+Las autoridades investigan cómo ingresó el teléfono que grabó la escena. Según la DGSPC, el recluso usaba una flota oficial para comunicarse con sus familiares, conforme a la ley.
+
+La DGSPC, junto con Indotel, trabaja en un proyecto para bloquear la señal de celulares y prevenir actos delictivos desde el centro penitenciario.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786037853/autonoticias/articles/20260806_173733_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 06 Aug 2026 17:38:06 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260806173806</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Jueces decidirán este jueves si revocan o mantienen el "No Ha Lugar" a favor de Pumarol]]></title>
     <link>https://eldia.com.do/jueces-decidiran-este-jueves-si-revocan-o-mantienen-el-no-ha-lugar-a-favor-de-pumarol/</link>
     <description><![CDATA[Este jueves, los jueces de la Segunda Sala Penal de la Corte de Apelación del Distrito Nacional decidirán sobre el recurso de apelación que busca revocar el "No Ha Lugar" a favor de Jean Andrés Pumarol Fernández, acusado de quitarle la vida a Ivonne Handal Abugabir y herir a varias personas en Naco.
@@ -1321,18 +1335,6 @@ Anadegas propone una tarifa fija de RD$0.30 por transacción en lugar de las act
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783295931/autonoticias/articles/20260705_235850_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 05 Jul 2026 23:59:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260705235928</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader entrega 400 títulos de propiedad en Salcedo]]></title>
-    <link>https://panorama.com.do/abinader-entrega-400-titulos-de-propiedad-en-salcedo/</link>
-    <description><![CDATA[El presidente Luis Abinader entregó 400 títulos de propiedad en Pepillo Salcedo, beneficiando a 1,600 personas. Este es parte de un proyecto que contempla 740 títulos en total.
-
-Durante el acto, Abinader resaltó el desarrollo del proyecto Manzanillo, que incluye una planta eléctrica y un muelle turístico en construcción. El mandatario subrayó la importancia de la seguridad jurídica para el crecimiento económico de la zona.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783188041/autonoticias/articles/20260704_180040_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 04 Jul 2026 18:01:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260704180114</guid>
   </item>
 </channel>
 </rss>
