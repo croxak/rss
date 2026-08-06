@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 05 Aug 2026 00:12:38 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 06 Aug 2026 00:56:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                <item>
+    <title><![CDATA[María Dimitrova hace historia con su sexto oro consecutivo en los Juegos Centroamericanos y del Caribe]]></title>
+    <link>https://deultimominuto.net/deportes/maria-dimitrova-hace-historia-con-su-sexto-oro-consecutivo-en-los-juegos-centroamericanos-y-del-caribe/</link>
+    <description><![CDATA[María Dimitrova reafirmó su dominio en el kata al obtener su sexto oro consecutivo en los Juegos Centroamericanos y del Caribe Santo Domingo 2026. En un abarrotado Pabellón de Karate del Centro Olímpico Juan Pablo Duarte, Dimitrova venció a la venezolana Daniela García por 3-2.
+
+La atleta, nacionalizada dominicana, ha mantenido su hegemonía desde Cartagena de Indias 2006. Dimitrova expresó su emoción por ganar en casa, con su familia presente, consolidándose como una de las deportistas más exitosas de la región.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785977767/noticias/articles/20260806_005606_article.webp" type="image/webp"/>
+    <pubDate>Thu, 06 Aug 2026 00:56:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260806005633</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Senador Alexis Victoria reconoce a 75 estudiantes meritorios de María Trinidad Sánchez]]></title>
     <link>https://elnuevodiario.com.do/senador-alexis-victoria-reconoce-a-75-estudiantes-meritorios-de-maria-trinidad-sanchez/</link>
     <description><![CDATA[El senador Alexis Victoria Yeb celebró la ceremonia Mérito Estudiantil 2026 en la provincia María Trinidad Sánchez, donde reconoció a 75 estudiantes meritorios por su dedicación y excelencia académica. Cada estudiante recibió una computadora portátil o una tableta para apoyar su formación.
@@ -1241,17 +1252,6 @@ En un acto en Valverde, Medina destacó la estructura sólida del PLD en todo el
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777231492/noticias/articles/20260426_192452_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 26 Apr 2026 19:25:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260426192540</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Mujer de 79 años recibe 30 puntos en el rostro tras ataque con peñón a vehículo en SDE]]></title>
-    <link>https://cdn.com.do/nacionales/mujer-de-79-anos-resulta-herida-en-ataque-en-sde/</link>
-    <description><![CDATA[Una mujer de 79 años sufrió graves heridas después de que un peñón impactara el vehículo en el que viajaba en San Isidro, Santo Domingo Este. El incidente ocurrió el domingo al mediodía, cuando regresaba del aeropuerto. La víctima, Mercedes Gil, recibió 30 puntos de sutura en el rostro.
-
-El conductor del vehículo también resultó herido con golpes en el hombro, pierna y torso. El presunto responsable es descrito como un hombre de tez morena, baja estatura, con aparentes trastornos mentales. Se hace un llamado a las autoridades para prevenir futuros incidentes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777230339/noticias/articles/20260426_190538_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 26 Apr 2026 19:06:47 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260426190647</guid>
   </item>
 </channel>
 </rss>
