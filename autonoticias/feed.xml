@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 06 Aug 2026 17:38:06 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 06 Aug 2026 23:58:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Joven muere tras lanzarse del puente Juan Bosch en el Distrito Nacional]]></title>
+    <link>https://panorama.com.do/joven-muere-tras-lanzarse-del-puente-juan-bosch-en-el-distrito-nacional/</link>
+    <description><![CDATA[Illio Onofre Constanza De León, un joven de entre 20 y 30 años, murió tras lanzarse del puente Juan Bosch en el Distrito Nacional. El suceso fue captado en video por un testigo, mostrando al joven con una mochila antes de caer en la calle Paseo del Río, en La Ciénaga.
+
+Personas en el lugar intentaron ayudarlo, pero no lograron evitar la tragedia. Las autoridades, incluyendo el 9-1-1, la Policía Nacional y el Cuerpo de Bomberos, acudieron al lugar. El INACIF realizó el levantamiento del cuerpo. Familiares del joven llegaron al sitio, pero no ofrecieron declaraciones.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786060664/autonoticias/articles/20260806_235744_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 06 Aug 2026 23:58:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260806235841</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Suspenden agente penitenciario tras filtrarse video de recluso con un celular en la cárcel Las Parras]]></title>
     <link>https://eldia.com.do/suspenden-agente-penitenciario-tras-filtrarse-video-de-recluso-con-un-celular-en-la-carcel-las-parras/</link>
     <description><![CDATA[La Dirección General de Servicios Penitenciarios y Correccionales (DGSPC) ha suspendido a un agente penitenciario tras la filtración de un video en redes sociales. En el video, un recluso aparece usando un celular en la cárcel Las Parras.
@@ -1321,20 +1333,6 @@ El oficial había sido trasladado recientemente desde San José de las Matas a S
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783341478/autonoticias/articles/20260706_123758_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 06 Jul 2026 12:38:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260706123833</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Anadegas anuncia que eliminará verifones desde este lunes en estaciones de combustibles]]></title>
-    <link>https://panorama.com.do/anadegas-anuncia-que-eliminara-verifones-desde-este-lunes-en-estaciones-de-combustibles/</link>
-    <description><![CDATA[La Asociación Nacional de Detallistas de Gasolinas (Anadegas) anunció el retiro de los verifones en más de 780 estaciones de combustibles afiliadas a partir de este lunes.
-
-La medida es una protesta por las comisiones que consideran excesivas. Según Juan Elías Pérez, presidente de Anadegas, estas comisiones afectan significativamente la rentabilidad de los detallistas.
-
-Anadegas propone una tarifa fija de RD$0.30 por transacción en lugar de las actuales comisiones.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783295931/autonoticias/articles/20260705_235850_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 05 Jul 2026 23:59:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260705235928</guid>
   </item>
 </channel>
 </rss>
