@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 07 Aug 2026 18:17:20 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 18:18:24 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Senador Alexis Victoria reconoce a 75 estudiantes meritorios de María Trinidad Sánchez]]></title>
+    <link>https://elnuevodiario.com.do/senador-alexis-victoria-reconoce-a-75-estudiantes-meritorios-de-maria-trinidad-sanchez/</link>
+    <description><![CDATA[El senador Alexis Victoria Yeb celebró la ceremonia Mérito Estudiantil 2026 en Nagua, donde reconoció a 75 estudiantes meritorios de la provincia María Trinidad Sánchez. Cada estudiante recibió una computadora portátil o una tableta para apoyar su formación académica.
+
+Durante el evento, el senador destacó la importancia de la educación como inversión para el futuro y felicitó a los jóvenes por su dedicación y esfuerzo. El acto reunió a estudiantes, padres, docentes y autoridades en Lumare Eventos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786126674/autonoticias/articles/20260807_181754_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 07 Aug 2026 18:18:24 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260807181824</guid>
+  </item>
+
+  <item>
     <title><![CDATA[MenaRD entre los cuatro semifinalistas en Street Fighter 6 del E-Sports]]></title>
     <link>https://panorama.com.do/menard-entre-los-cuatro-semifinalistas-en-street-fighter-6-del-e-sports/</link>
     <description><![CDATA[Saúl Mena, conocido como MenaRD, ha llegado a las semifinales en Street Fighter 6 en los XXV Juegos Centroamericanos y del Caribe. MenaRD dominó el grupo A sin perder una ronda, venciendo a sus tres rivales 3-0.
@@ -1325,18 +1337,6 @@ El procurador José Aníbal Carela destacó el compromiso del Ministerio Públic
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783541077/autonoticias/articles/20260708_200436_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 08 Jul 2026 20:05:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260708200534</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Indomet prevé chubascos en la mañana y aguaceros con tronadas en la tarde; continuará el intenso calor]]></title>
-    <link>https://robertocavada.com/indomet-preve-chubascos-en-la-manana-y-aguaceros-con-tronadas-en-la-tarde-continuara-el-intenso-calor/</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informa sobre chubascos aislados en la mañana y aguaceros con tronadas en la tarde debido a una vaguada. Las lluvias matutinas afectarán al Gran Santo Domingo, San Pedro de Macorís, San Cristóbal, Peravia, Barahona y Pedernales. En la tarde, las precipitaciones se extenderán a Monte Plata, Monseñor Nouel, La Vega, Sánchez Ramírez, Duarte, Santiago Rodríguez y otras localidades del interior.
-
-El cielo se mantendrá grisáceo por el polvo del Sahara, y las temperaturas seguirán calurosas, con mínimas de 23 °C a 25 °C y máximas de 32 °C a 34 °C. Indomet recomienda mantenerse hidratado, usar ropa ligera y evitar el sol entre las 11:00 a.m. y las 4:00 p.m.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783342374/autonoticias/articles/20260706_125253_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 06 Jul 2026 12:53:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260706125319</guid>
   </item>
 </channel>
 </rss>
