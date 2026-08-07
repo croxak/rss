@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 07 Aug 2026 18:17:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 18:17:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[MenaRD entre los cuatro semifinalistas en Street Fighter 6 del E-Sports]]></title>
+    <link>https://panorama.com.do/menard-entre-los-cuatro-semifinalistas-en-street-fighter-6-del-e-sports/</link>
+    <description><![CDATA[Saúl Mena, conocido como MenaRD, ha llegado a las semifinales en Street Fighter 6 en los XXV Juegos Centroamericanos y del Caribe. MenaRD dominó el grupo A sin perder una ronda, venciendo a sus tres rivales 3-0.
+
+En la semifinal, MenaRD se enfrentará al jamaiquino Okair Mclaren. Por otro lado, el panameño Raúl Cogley, ganador del Grupo B, se medirá contra el colombiano Juan López.
+
+MenaRD se une a otros dominicanos que buscan medalla en los Juegos Santo Domingo 2026.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786126597/autonoticias/articles/20260807_181637_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 07 Aug 2026 18:17:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260807181720</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Se entrega hombre señalado por incendio de pensión donde residían siete familias]]></title>
     <link>https://n.com.do/2026/08/07/caco-de-vaca-se-entrega-incendio-pension-fantino/</link>
     <description><![CDATA[Iván Rodríguez Rosa, conocido como “Caco de Vaca”, se entregó en el destacamento de la Policía Nacional de Cotuí. Es señalado por su presunta vinculación con el incendio de una pensión en Fantino, donde vivían siete familias.
@@ -1323,18 +1337,6 @@ El cielo se mantendrá grisáceo por el polvo del Sahara, y las temperaturas seg
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783342374/autonoticias/articles/20260706_125253_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 06 Jul 2026 12:53:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260706125319</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Deterioro de escuelas obliga a reforzar evaluación de las edificaciones, afirma director de Onesvie]]></title>
-    <link>https://eldia.com.do/deterioro-de-escuelas-obliga-a-reforzar-evaluacion-de-las-edificaciones-afirma-director-de-onesvie/</link>
-    <description><![CDATA[Leonardo Reyes Madera, director de Onesvie, ha destacado la urgencia de evaluar las edificaciones en República Dominicana, especialmente las escuelas públicas, debido a su deterioro. Estas estructuras presentan grietas y colapsos parciales, lo que subraya la necesidad de identificar vulnerabilidades para prevenir riesgos sísmicos.
-
-Reyes Madera recordó que el país dispone de un código sísmico actualizado en 2011, y enfatizó que las edificaciones construidas conforme a esta normativa deben comportarse adecuadamente ante un sismo.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783342244/autonoticias/articles/20260706_125044_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 06 Jul 2026 12:51:43 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260706125143</guid>
   </item>
 </channel>
 </rss>
