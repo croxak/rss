@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 07 Aug 2026 21:28:08 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 23:13:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Guido Gómez Mazara se reúne con subsecretario adjunto del Departamento de Estado de EE. UU. John R. Mills]]></title>
+    <link>https://eltestigo.com</link>
+    <description><![CDATA[El presidente del Consejo Directivo del Instituto Dominicano de las Telecomunicaciones (INDOTEL), Guido Gómez Mazara, sostuvo un encuentro con John R. Mills, subsecretario adjunto de la Oficina de Ciberespacio y Política Digital del Departamento de Estado de los Estados Unidos.
+
+Durante la reunión, ambos funcionarios abordaron el fortalecimiento de la cooperación tecnológica entre República Dominicana y Estados Unidos, con especial atención a la seguridad y resiliencia de las redes de telecomunicaciones.
+
+El encuentro se produjo en el marco del U.S.-Caribbean Digital Transformation Accelerator, organizado por el Departamento de Estado estadounidense en Punta Cana, previo al inicio de la 41st CANTO Annual Conference & Trade Exhibition, uno de los principales encuentros regionales del sector de las telecomunicaciones.
+
+La reunión forma parte de los esfuerzos por ampliar la cooperación bilateral en transformación digital, conectividad e infraestructura tecnológica.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786144359/noticias/articles/20260807_231238_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 07 Aug 2026 23:13:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260807231304</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno aumenta entre RD$2 y RD$3 las gasolinas y gasoil]]></title>
     <link>https://noticiassin.com/pais/pais-economia/2026/08/07/gobierno-sube-gasolinas-y-gasoil-glp-se-mantiene-2082751/</link>
     <description><![CDATA[El Gobierno dominicano ha anunciado un aumento en los precios de las gasolinas y el gasoil para la semana del 8 al 14 de agosto de 2026. La gasolina premium subirá RD$3.00 por galón, mientras que la regular aumentará RD$2.00. El gasoil regular y el óptimo también verán incrementos.
@@ -1243,19 +1258,6 @@ Eliezer criticó la ligereza con la que las autoridades han tratado el caso y ap
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777327415/noticias/articles/20260427_220335_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 27 Apr 2026 22:04:46 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260427220446</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio Público arresta en aeropuerto a implicado en fraude al SeNaSa]]></title>
-    <link>https://elnuevodiario.com.do/ministerio-publico-arresta-en-aeropuerto-a-implicado-en-fraude-al-senasa/</link>
-    <description><![CDATA[El Ministerio Público arrestó a Ángel Luis Guzmán Vásquez en el aeropuerto cuando intentaba salir del país hacia Boston sin boleto de retorno. Guzmán Vásquez está implicado en un fraude al SeNaSa, donde trabajaba como auxiliar del Departamento de Autorizaciones Médicas.
-
-Se le acusa de participar en una red de corrupción que sustrajo miles de millones de pesos del Estado dominicano. La Pepca solicita 18 meses de prisión preventiva y que el caso sea declarado de tramitación compleja.
-
-La investigación es parte de la Operación Cobra, que ya ha llevado a prisión a varios implicados, incluyendo al exdirector del SeNaSa, Santiago Marcelo F. Hazim Albainy.]]></description>
-    <enclosure url="https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/04/MP-scaled.jpg?resize=1200%2C1200&amp;quality=100&amp;ssl=1" type="image/jpeg"/>
-    <pubDate>Sun, 26 Apr 2026 21:58:12 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260426215812</guid>
   </item>
 </channel>
 </rss>
