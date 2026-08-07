@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 06 Aug 2026 23:58:57 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 18:17:03 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Se entrega hombre señalado por incendio de pensión donde residían siete familias]]></title>
+    <link>https://n.com.do/2026/08/07/caco-de-vaca-se-entrega-incendio-pension-fantino/</link>
+    <description><![CDATA[Iván Rodríguez Rosa, conocido como “Caco de Vaca”, se entregó en el destacamento de la Policía Nacional de Cotuí. Es señalado por su presunta vinculación con el incendio de una pensión en Fantino, donde vivían siete familias.
+
+El incendio ocurrió el 27 de julio en el sector Los Chinchilines, afectando parcialmente la vivienda de ocho habitaciones. No se reportaron personas lesionadas.
+
+La orden de arresto fue emitida el 30 de julio de 2026. Rodríguez Rosa quedó bajo custodia policial y será puesto a disposición del Ministerio Público.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786126582/autonoticias/articles/20260807_181622_article.png" type="image/png"/>
+    <pubDate>Fri, 07 Aug 2026 18:17:03 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260807181703</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Herrera Carbuccia renuncia a evaluación del CNM, deja una cuarta vacante en la Suprema Corte de Justicia]]></title>
     <link>https://eldia.com.do/herrera-carbuccia-renuncia-a-evaluacion-del-cnm-deja-una-cuarta-vacante-en-la-suprema-corte-de-justicia/</link>
     <description><![CDATA[El magistrado Manuel Ramón Herrera Carbuccia ha decidido no participar en el proceso de evaluación del Consejo Nacional de la Magistratura para optar por un nuevo período en la Suprema Corte de Justicia.
@@ -1321,20 +1335,6 @@ Reyes Madera recordó que el país dispone de un código sísmico actualizado en
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783342244/autonoticias/articles/20260706_125044_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 06 Jul 2026 12:51:43 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260706125143</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno informa el retorno de otras 84 personas desde Venezuela]]></title>
-    <link>https://www.presidencia.gob.do/noticias/gobierno-informa-el-retorno-de-otras-84-personas-desde-venezuela</link>
-    <description><![CDATA[El Ministerio de Relaciones Exteriores de República Dominicana informó sobre el retorno de 62 ciudadanos desde Venezuela, afectados por los recientes terremotos. Con este grupo, suman 171 las personas que han regresado al país mediante vuelos humanitarios.
-
-Los retornados fueron recibidos en el Aeropuerto Internacional de las Américas por la vicepresidenta Raquel Peña y otras autoridades. Entre ellos, 50 dominicanos y 12 venezolanos con vínculos familiares.
-
-El vuelo también trajo de regreso al equipo dominicano de búsqueda y rescate y a la misión del Mirex que asistió a los dominicanos en Venezuela. Además, se envió ayuda humanitaria y un equipo médico a Venezuela.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783342161/autonoticias/articles/20260706_124921_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 06 Jul 2026 12:50:36 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260706125036</guid>
   </item>
 </channel>
 </rss>
