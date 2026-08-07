@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 06 Aug 2026 00:58:25 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 07 Aug 2026 21:28:08 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Gobierno aumenta entre RD$2 y RD$3 las gasolinas y gasoil]]></title>
+    <link>https://noticiassin.com/pais/pais-economia/2026/08/07/gobierno-sube-gasolinas-y-gasoil-glp-se-mantiene-2082751/</link>
+    <description><![CDATA[El Gobierno dominicano ha anunciado un aumento en los precios de las gasolinas y el gasoil para la semana del 8 al 14 de agosto de 2026. La gasolina premium subirá RD$3.00 por galón, mientras que la regular aumentará RD$2.00. El gasoil regular y el óptimo también verán incrementos.
+
+El precio del Gas Licuado de Petróleo (GLP) se mantendrá sin cambios en RD$135.20 por galón. El Gobierno destinará RD$931.79 millones para subsidiar los combustibles, citando los costos internacionales y el conflicto geopolítico entre Estados Unidos e Irán como razones para el reajuste.
+
+Otros combustibles, como el avtur y el kerosene, experimentarán reducciones en sus precios durante la misma semana.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786138056/noticias/articles/20260807_212736_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 07 Aug 2026 21:28:08 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260807212808</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Marileidy Paulino vence a la lluvia y gana el oro en Santo Domingo 2026]]></title>
     <link>https://www.espn.com.do/otros-deportes/nota/_/id/17083778/juegos-centroamericanos-caribe-dominicana-paulino-gana-oro-bajo-lluvia</link>
     <description><![CDATA[Marileidy Paulino se coronó con el oro en los 400 metros planos femeninos en los Juegos Centroamericanos y del Caribe Santo Domingo 2026. La dominicana logró un tiempo de 48.94 segundos, estableciendo un nuevo récord de la prueba.
@@ -1243,17 +1256,6 @@ La investigación es parte de la Operación Cobra, que ya ha llevado a prisión 
     <enclosure url="https://i0.wp.com/nuevodiario-assets.s3.us-east-2.amazonaws.com/wp-content/uploads/2026/04/MP-scaled.jpg?resize=1200%2C1200&amp;quality=100&amp;ssl=1" type="image/jpeg"/>
     <pubDate>Sun, 26 Apr 2026 21:58:12 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260426215812</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Otorgan nacionalidad dominicana privilegiada a Eduardo Matos Moctezuma]]></title>
-    <link>https://www.diariolibre.com/amp/actualidad/nacional/2026/04/26/otorgan-nacionalidad-dominicana-a-eduardo-matos-moctezuma/3514702</link>
-    <description><![CDATA[El presidente Luis Abinader ha otorgado la nacionalidad dominicana al arqueólogo Eduardo Matos Moctezuma mediante naturalización privilegiada, según el decreto 723-25 del 31 de diciembre de 2025. Matos Moctezuma es hijo del diplomático dominicano Rafael Matos Díaz.
-
-Reconocido por su dirección del proyecto del Templo Mayor de Tenochtitlán en México, Matos Moctezuma ha mantenido vínculos con la República Dominicana, participando en la concepción del Museo del Hombre Dominicano. Será juramentado como ciudadano dominicano en mayo próximo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777238319/noticias/articles/20260426_211839_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 26 Apr 2026 21:19:07 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260426211907</guid>
   </item>
 </channel>
 </rss>
