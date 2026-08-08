@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 07 Aug 2026 23:14:04 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 02:52:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Presidente Abinader concluye agenda en Colombia y sale hacia la República Dominicana tras toma de posesión de Abelardo de la Espriella]]></title>
+    <link>https://www.presidencia.gob.do/noticias/presidente-abinader-concluye-agenda-en-colombia-y-sale-hacia-la-republica-dominicana-tras</link>
+    <description><![CDATA[El presidente Luis Abinader finalizó su agenda en Cali, Colombia, y regresó a Santo Domingo. Durante su visita, asistió a la toma de posesión de Abelardo de la Espriella como nuevo mandatario colombiano.
+
+Abinader también se reunió con el presidente de Honduras, Nasry Asfura, quien solicitó apoyo en materia deportiva para los Juegos Centroamericanos y del Caribe 2029. El mandatario dominicano estuvo acompañado por el ministro de Relaciones Exteriores, Roberto Álvarez.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786157494/autonoticias/articles/20260808_025134_article.png" type="image/png"/>
+    <pubDate>Sat, 08 Aug 2026 02:52:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260808025202</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece el diputado del PRM Jorge Frías por la circunscripción 2 de SDE]]></title>
     <link>https://n.com.do/2026/08/07/fallece-el-diputado-del-prm-jorge-frias-por-la-circunscripcion-2-de-sde/</link>
     <description><![CDATA[El diputado Jorge Frías, del Partido Revolucionario Moderno (PRM), falleció este viernes en el Centro de Diagnóstico Medicina Avanzada y Telemedicina (Cedimat). Representaba la circunscripción 2 de Santo Domingo Este y estaba recibiendo atención médica por múltiples problemas de salud.
@@ -1321,20 +1333,6 @@ El detenido y las evidencias permanecen bajo control del Ministerio Público par
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783652774/autonoticias/articles/20260710_030614_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 10 Jul 2026 03:07:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260710030702</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Senado aprueba en primera lectura proyecto que modifica la Ley Orgánica de la Policía Nacional]]></title>
-    <link>https://elnuevodiario.com.do/senado-aprueba-en-primera-lectura-proyecto-que-modifica-la-ley-organica-de-la-policia-nacional/</link>
-    <description><![CDATA[El Senado dominicano aprobó en primera lectura un proyecto de ley que modifica la Ley Orgánica de la Policía Nacional. La iniciativa, parte del proceso de transformación de la institución, fue aprobada por 25 de los 27 senadores presentes.
-
-El proyecto propone cambios a más de 40 artículos, elimina varios artículos y numerales, y establece nuevas categorías dentro de la carrera policial. También introduce nuevos protocolos de patrullaje y refuerza la formación académica de los agentes.
-
-La comisión encargada del estudio del proyecto celebró 14 reuniones y recibió observaciones de diversas entidades antes de emitir su informe.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783569689/autonoticias/articles/20260709_040128_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 09 Jul 2026 04:01:53 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260709040153</guid>
   </item>
 </channel>
 </rss>
