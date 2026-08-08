@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 08 Aug 2026 19:36:51 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 19:38:42 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Muere adolescente de 15 años tras recibir varios disparos en Los Alcarrizos]]></title>
+    <link>https://panorama.com.do/muere-adolescente-de-15-anos-tras-recibir-varios-disparos-en-los-alcarrizos/</link>
+    <description><![CDATA[Erick Anderson Díaz Severino, un adolescente de 15 años, falleció después de recibir varios disparos en las inmediaciones del cementerio municipal de Los Alcarrizos.
+
+Las autoridades aún no han esclarecido las circunstancias del incidente. Erick residía en el sector Alto Chavón, Los Alcarrizos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786217889/noticias/articles/20260808_193809_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 08 Aug 2026 19:38:42 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260808193842</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Incendio en vertedero de Cancino Adentro cubre de humo sectores de Santo Domingo Este]]></title>
     <link>https://eldia.com.do/incendio-en-vertedero-de-cancino-adentro-cubre-de-humo-sectores-de-santo-domingo-este/</link>
     <description><![CDATA[Un incendio en el vertedero de Cancino Adentro, Santo Domingo Este, ha generado una densa humareda desde las 2:00 de la madrugada, afectando a varios sectores del municipio. Las llamas han alcanzado gomas y basura, reduciendo la visibilidad en la zona.
@@ -1235,19 +1246,6 @@ Hasta el momento, no se han ofrecido detalles sobre las honras fúnebres.]]></de
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778617792/noticias/articles/20260512_202952_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 12 May 2026 20:30:22 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260512203022</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ciudadano italiano requerido en extradición muere bajo custodia en Najayo Hombres]]></title>
-    <link>https://deultimominuto.net/nacionales/ciudadano-italiano-muerenajayo/#:~:text=Santo%20Domingo.%2D%20Un%20ciudadano%20italiano,infarto%2C%20según%20informaciones%20preliminares%20suministradas</link>
-    <description><![CDATA[Loris Di Castri, ciudadano italiano de 53 años, falleció mientras estaba detenido en el centro penitenciario Najayo Hombres. Según informaciones preliminares, habría sufrido un infarto.
-
-Di Castri fue arrestado en el Distrito Nacional por la Oficina Central Nacional de INTERPOL Santo Domingo, tras una orden de arresto con fines de extradición emitida por la Segunda Sala de la Suprema Corte de Justicia. Era requerido por las autoridades italianas por presunta vinculación a delitos de asociación para delinquir y tráfico ilícito de sustancias estupefacientes y psicotrópicas.
-
-El Instituto Nacional de Ciencias Forenses (INACIF) determinará la causa oficial del fallecimiento. Las autoridades aún no han esclarecido las circunstancias exactas de su muerte.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778274878/noticias/articles/20260508_211438_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 08 May 2026 21:15:12 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260508211512</guid>
   </item>
 </channel>
 </rss>
