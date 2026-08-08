@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 08 Aug 2026 19:38:42 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 19:44:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Presunta disputa familiar por unos tenis termina en muerte: tío es señalado por matar a sobrino]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/08/08/hombre-es-senalado-de-matar-a-sobrino-tras-discutir-por-tenis/3623498</link>
+    <description><![CDATA[Una discusión familiar en el barrio La Española, de Moca, terminó en tragedia cuando Javier Camacho Lizardo, de 26 años, murió tras recibir una estocada con un arma blanca. El presunto agresor es su tío, Francisco Lizardo, de 39 años.
+
+El incidente ocurrió alrededor de las 2:00 de la madrugada del sábado. Las versiones sobre el motivo del conflicto varían entre una disputa por unos tenis y una petición de comida a su abuela.
+
+Francisco Lizardo está bajo custodia de la Policía Nacional mientras se investigan las circunstancias del hecho. El cuerpo de Javier fue trasladado a Santiago de los Caballeros para una autopsia en el Inacif.
+
+Fuente: Diario Libre - José Zapata]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786218176/noticias/articles/20260808_194256_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 08 Aug 2026 19:44:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260808194433</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Muere adolescente de 15 años tras recibir varios disparos en Los Alcarrizos]]></title>
     <link>https://panorama.com.do/muere-adolescente-de-15-anos-tras-recibir-varios-disparos-en-los-alcarrizos/</link>
     <description><![CDATA[Erick Anderson Díaz Severino, un adolescente de 15 años, falleció después de recibir varios disparos en las inmediaciones del cementerio municipal de Los Alcarrizos.
@@ -1233,19 +1248,6 @@ José David Figueroa Agosto, nacido en Bayamón, Puerto Rico, fue un destacado n
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778704369/noticias/articles/20260513_203249_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 13 May 2026 20:33:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260513203340</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fallece el comunicador Melvin TV tras luchar contra el cáncer de colon]]></title>
-    <link>https://elnacional.com.do/fallece-el-comunicador-melvin-tv/</link>
-    <description><![CDATA[El comunicador Melvin Alexander Vicente Ventura, conocido como Melvin TV, ha fallecido tras enfrentar un cáncer de colon. Había solicitado ayuda económica para sus tratamientos médicos.
-
-Durante su enfermedad, recibió el respaldo de figuras del entretenimiento como Cheddy García y Santiago Matías, quienes le brindaron apoyo económico y emocional.
-
-Hasta el momento, no se han ofrecido detalles sobre las honras fúnebres.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778617792/noticias/articles/20260512_202952_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 12 May 2026 20:30:22 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260512203022</guid>
   </item>
 </channel>
 </rss>
