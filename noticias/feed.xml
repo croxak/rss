@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 07 Aug 2026 23:13:04 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 00:46:01 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[El nuevo presidente promete hacer de Colombia un país seguro para invertir]]></title>
+    <link>https://elnuevodiario.com.do/el-nuevo-presidente-promete-hacer-de-colombia-un-pais-seguro-para-invertir/</link>
+    <description><![CDATA[El presidente de Colombia, Abelardo de la Espriella, presentó un plan económico basado en la austeridad y la atracción de inversión. Su objetivo es recuperar la confianza en el país y hacerlo un destino seguro para inversores.
+
+De la Espriella aseguró que la austeridad no afectará a los sectores más vulnerables y que se preservarán sus programas sociales. Anunció una reforma tributaria para simplificar el sistema y eliminar el impuesto al patrimonio.
+
+La recuperación de Ecopetrol es una prioridad para el nuevo gobierno. De la Espriella autorizará el fracking para aumentar las reservas de petróleo y gas, criticando la gestión anterior de la petrolera.
+
+El presidente prometió respetar la independencia del Banco de la República y trabajar para recuperar el prestigio de Colombia ante la comunidad internacional.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786149931/noticias/articles/20260808_004531_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 08 Aug 2026 00:46:01 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260808004601</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Guido Gómez Mazara se reúne con subsecretario adjunto del Departamento de Estado de EE. UU. John R. Mills]]></title>
     <link>https://eltestigo.com</link>
     <description><![CDATA[El presidente del Consejo Directivo del Instituto Dominicano de las Telecomunicaciones (INDOTEL), Guido Gómez Mazara, sostuvo un encuentro con John R. Mills, subsecretario adjunto de la Oficina de Ciberespacio y Política Digital del Departamento de Estado de los Estados Unidos.
@@ -1247,17 +1262,6 @@ En las horas previas al colapso, Adames suplicó a Maribel Espaillat suspender l
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777327710/noticias/articles/20260427_220830_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 27 Apr 2026 22:09:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260427220958</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Rubby Pérez rechazaba ir al Jet Set "porque Antonio no respeta a los artistas", según su hermano]]></title>
-    <link>https://listindiario.com/entretenimiento/farandula/20260427/rubby-perez-rechazaba-cantar-jet-set-antonio-respeta-artistas-publico-hermano_903467.html</link>
-    <description><![CDATA[El hermano de Rubby Pérez, Eliezer Pérez, reveló que su hermano evitaba presentarse allí porque Antonio Espaillat "no respetaba a los artistas ni al público". 
-
-Eliezer criticó la ligereza con la que las autoridades han tratado el caso y apeló a la justicia para que actúe con firmeza. La audiencia fue recesada para el 1 de mayo, cuando la defensa de los hermanos Espaillat deberá hablar.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777327415/noticias/articles/20260427_220335_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 27 Apr 2026 22:04:46 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260427220446</guid>
   </item>
 </channel>
 </rss>
