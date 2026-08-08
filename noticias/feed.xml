@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 08 Aug 2026 03:19:24 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 19:36:06 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[DNCD incauta 303 paquetes de presunta cocaína ocultos en contenedor en Puerto Caucedo]]></title>
+    <link>https://eldia.com.do/dncd-incauta-303-paquetes-de-presunta-cocaina-ocultos-en-contenedor-en-puerto-caucedo/</link>
+    <description><![CDATA[La DNCD y el Ministerio Público incautaron 303 paquetes de una sustancia que se presume es cocaína en el Puerto Multimodal Caucedo, Boca Chica. Los paquetes estaban ocultos en el piso de un contenedor que transitaba por el país.
+
+El contenedor, cargado de madera, procedía de Perú y tenía como destino final el Reino Unido. La operación se realizó con el apoyo de agencias de inteligencia del Estado y la seguridad militar del puerto.
+
+Los 303 paquetes fueron enviados al Instituto Nacional de Ciencias Forenses (INACIF) para determinar el tipo y peso exacto de la sustancia incautada.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786217737/noticias/articles/20260808_193536_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 08 Aug 2026 19:36:06 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260808193606</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Saúl Mena hace historia y conquista el oro para RD en el debut de los e-sports]]></title>
     <link>https://acento.com.do/amp/deportes/saul-mena-hace-historia-y-conquista-el-oro-para-rd-en-el-debut-de-los-e-sports-9733531.html</link>
     <description><![CDATA[Saúl Mena, conocido como MenaRD, conquistó la medalla de oro en Street Fighter 6 en los XXV Juegos Centroamericanos y del Caribe Santo Domingo 2026. Esta es la primera medalla de oro para República Dominicana en e-sports en este evento.
@@ -1237,19 +1250,6 @@ Se ha acordado establecer una mesa de diálogo permanente para abordar estos tem
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777935767/noticias/articles/20260504_230243_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 04 May 2026 23:14:52 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260504231452</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Tres décadas después del crimen que impactó al país, Redondo Llenas será liberado este martes]]></title>
-    <link>https://deultimominuto.net/nacionales/mario-jose-redondo-llenas/</link>
-    <description><![CDATA[Mario José Redondo Llenas recuperará su libertad el próximo 5 de mayo, tras cumplir tres décadas en prisión por el asesinato de su primo, José Rafael Llenas Aybar, en 1996. Este crimen marcó profundamente a la sociedad dominicana.
-
-El menor, de 12 años, fue reportado como desaparecido y encontrado sin vida en una zona apartada de Pedro Brand. Redondo Llenas fue sentenciado junto a Juan Manuel Moliné Rodríguez, quien ya había sido liberado en 2016.
-
-Durante el juicio, se presentaron evaluaciones psicológicas que describían a los implicados con rasgos de conducta antisocial. El caso sigue siendo recordado por su brutalidad y las interrogantes sin respuesta.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777817685/noticias/articles/20260503_141445_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 03 May 2026 14:15:23 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260503141523</guid>
   </item>
 </channel>
 </rss>
