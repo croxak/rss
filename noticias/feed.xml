@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 08 Aug 2026 19:36:06 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 19:36:51 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Incendio en vertedero de Cancino Adentro cubre de humo sectores de Santo Domingo Este]]></title>
+    <link>https://eldia.com.do/incendio-en-vertedero-de-cancino-adentro-cubre-de-humo-sectores-de-santo-domingo-este/</link>
+    <description><![CDATA[Un incendio en el vertedero de Cancino Adentro, Santo Domingo Este, ha generado una densa humareda desde las 2:00 de la madrugada, afectando a varios sectores del municipio. Las llamas han alcanzado gomas y basura, reduciendo la visibilidad en la zona.
+
+El Cuerpo de Bomberos de Santo Domingo Este está en el lugar intentando controlar el fuego. Se sospecha que el incendio pudo haber sido provocado intencionalmente. Hasta ahora, no se han reportado personas afectadas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786217779/noticias/articles/20260808_193618_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 08 Aug 2026 19:36:51 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260808193651</guid>
+  </item>
+
+  <item>
     <title><![CDATA[DNCD incauta 303 paquetes de presunta cocaína ocultos en contenedor en Puerto Caucedo]]></title>
     <link>https://eldia.com.do/dncd-incauta-303-paquetes-de-presunta-cocaina-ocultos-en-contenedor-en-puerto-caucedo/</link>
     <description><![CDATA[La DNCD y el Ministerio Público incautaron 303 paquetes de una sustancia que se presume es cocaína en el Puerto Multimodal Caucedo, Boca Chica. Los paquetes estaban ocultos en el piso de un contenedor que transitaba por el país.
@@ -1237,19 +1248,6 @@ El Instituto Nacional de Ciencias Forenses (INACIF) determinará la causa oficia
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778274878/noticias/articles/20260508_211438_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 08 May 2026 21:15:12 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260508211512</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno otorgaría hasta 800 millones en subsidio para sector transporte para evitar alzas de pasaje]]></title>
-    <link>https://listindiario.com/la-republica/gobierno/20260504/gobierno-otorgaria-800-millones-subsidio-sector-transporte-evitar-alzas-pasaje_904394.html</link>
-    <description><![CDATA[El Gobierno dominicano ha anunciado un subsidio adicional de 800 millones de pesos para el sector transporte. Esta medida busca evitar el aumento en el precio del pasaje y mitigar los efectos de la crisis internacional.
-
-El ministro de Industria y Comercio, Eduardo Sanz Lovatón, enfatizó la importancia de un diálogo continuo con los transportistas. Antonio Marte, líder de Conatra, discutirá la medida con su sindicato antes de tomar decisiones sobre el pasaje.
-
-Se ha acordado establecer una mesa de diálogo permanente para abordar estos temas. La reunión contó con la presencia de varios representantes del sector transporte.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777935767/noticias/articles/20260504_230243_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 04 May 2026 23:14:52 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260504231452</guid>
   </item>
 </channel>
 </rss>
