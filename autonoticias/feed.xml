@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 08 Aug 2026 03:11:55 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 16:19:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Policía apresa a “El Vico” en San Juan y dos hombres en La Vega por posesión de armas y drogas]]></title>
+    <link>https://eldia.com.do/policia-apresa-a-el-vico-en-san-juan-y-dos-hombres-en-la-vega-por-posesion-de-armas-y-drogas/</link>
+    <description><![CDATA[La Policía Nacional informó sobre el arresto de tres hombres en las provincias La Vega y San Juan. En La Vega, dos hombres de nacionalidad haitiana fueron detenidos con armas de fabricación casera tipo "chilenas". Andy Jeraldo Santo fue interceptado en Sabana Rey con un arma y cápsulas, mientras que Yeison Fuayilis fue arrestado en Rancho Abajo con otra arma y un teléfono celular.
+
+En San Juan, Luis Alberto Pérez Díaz, conocido como "El Vico", fue detenido en Las Matas de Farfán. Durante la intervención, se encontraron cuatro paquetes de marihuana y una porción de cocaína en su vehículo, junto con un teléfono celular y RD$8,800 en efectivo.
+
+Los detenidos y las evidencias fueron puestos bajo control del Ministerio Público.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786205962/autonoticias/articles/20260808_161922_article.webp" type="image/jpeg"/>
+    <pubDate>Sat, 08 Aug 2026 16:19:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260808161955</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Dominicano Ricardo Cuello celebra el oro en los JCC: “Dios no se queda con el sudor de nadie”]]></title>
     <link>https://panorama.com.do/dominicano-ricardo-cuello-celebra-el-oro-en-los-jcc-dios-no-se-queda-con-el-sudor-de-nadie/</link>
     <description><![CDATA[Ricardo Cuello Encarnación, boxeador dominicano, se coronó campeón en la categoría de 70 kilogramos en los XXV Juegos Centroamericanos y del Caribe Santo Domingo 2026, logrando la medalla de oro número 42 para la República Dominicana, un récord histórico.
@@ -1317,22 +1331,6 @@ Alias Cara Cortada tiene tres registros por tráfico de sustancias y será somet
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783692320/autonoticias/articles/20260710_140520_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 10 Jul 2026 14:05:49 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260710140549</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Autoridades destruyen más de una tonelada de drogas]]></title>
-    <link>https://panorama.com.do/autoridades-destruyen-mas-de-una-tonelada-de-drogas/</link>
-    <description><![CDATA[El Instituto Nacional de Ciencias Forenses (Inacif) incineró 1,144.1 kilogramos de drogas, principalmente marihuana, en la República Dominicana. Las sustancias fueron incautadas en operativos contra el narcotráfico.
-
-De la cantidad destruida, 928 kilogramos eran marihuana y 213 kilogramos clorhidrato de cocaína. También se destruyeron 1.5 kilogramos de crack y 69 gramos de éxtasis.
-
-Las drogas estaban vinculadas a 602 casos y fueron decomisadas por el Ministerio Público y la Dirección Nacional de Control de Drogas (DNCD). La provincia de Peravia concentró la mayor cantidad de incautaciones.
-
-La incineración se llevó a cabo en el Campamento Militar 16 de Agosto, en Pedro Brand, provincia Santo Domingo.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783652968/autonoticias/articles/20260710_030927_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 10 Jul 2026 03:13:27 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260710031327</guid>
   </item>
 </channel>
 </rss>
