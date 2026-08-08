@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 08 Aug 2026 02:34:14 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 08 Aug 2026 02:35:51 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Imponen garantía de 10 mil pesos a hombre acusado de robar guagua y conducir vía contraria]]></title>
+    <link>https://listindiario.com/la-republica/justicia/20260807/imponen-garantia-10-mil-pesos-hombre-acusado-robar-guagua-conducir-contraria_917131.html</link>
+    <description><![CDATA[El juez Rigoberto Sena impuso una garantía económica de 10 mil pesos a Eugenio Mauricio Álvarez, acusado de robar una guagua y conducir en vía contraria. También se le prohibió salir del país y debe presentarse periódicamente.
+
+El propietario del vehículo, Juan Carlos de Jesús Rosario, expresó su indignación por la medida, señalando el peligro al que estuvo expuesta su familia y las pérdidas materiales sufridas.
+
+El incidente ocurrió tras el robo de una guagua Nissan NV350 Rider del dealer Cristal de Jesús Autoimport, y la persecución terminó en la intersección de las avenidas Winston Churchill y Charles Summer.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786156527/noticias/articles/20260808_023527_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 08 Aug 2026 02:35:51 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260808023551</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Penélope Polanco se alza con la medalla de oro en el kumite femenino]]></title>
     <link>https://listindiario.com/el-deporte/olimpismo/20260807/penelope-polanco-alza-medalla-oro-kumite-femenino_917167.html</link>
     <description><![CDATA[Penélope Polanco se alzó con la medalla de oro en el kumite femenino durante los Juegos Centroamericanos y del Caribe Santo Domingo 2026. En un combate decisivo, Polanco venció a la venezolana Claudymar Garcés, quien tiene experiencia olímpica, con un marcador de 8-7.
@@ -1235,17 +1248,6 @@ El caso ha sido remitido al Ministerio Público para los fines legales correspon
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777754139/noticias/articles/20260502_203538_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 02 May 2026 20:36:04 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260502203604</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Arrestan a ocho hombres vinculados a decomiso de 1.7 toneladas de cocaína en Pedernales]]></title>
-    <link>https://panorama.com.do/arrestan-a-ocho-hombres-vinculados-a-decomiso-de-1-7-toneladas-de-cocaina-en-pedernales/</link>
-    <description><![CDATA[Ocho hombres de distintas nacionalidades fueron arrestados por la DNCD en relación con el decomiso de 1,670 paquetes de cocaína en Pedernales. El cargamento, con un peso total de 1,707.92 kilogramos, fue incautado en un operativo conjunto con la JIATFS y la DEA.
-
-Los detenidos incluyen a cinco venezolanos, un colombiano y dos dominicanos, quienes fueron capturados en el Vacacional de Haina y en el sector La Placeta, provincia de Azua. Fueron trasladados a Pedernales bajo un amplio dispositivo de seguridad.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1777753994/noticias/articles/20260502_203313_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 02 May 2026 20:34:18 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260502203418</guid>
   </item>
 </channel>
 </rss>
