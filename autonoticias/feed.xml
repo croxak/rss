@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 09 Aug 2026 14:55:19 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 15:07:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Encapuchados matan a tiros mujer en Salcedo; dos resultaron heridos]]></title>
+    <link>https://panorama.com.do/encapuchados-matan-a-tiros-mujer-en-salcedo-dos-resultaron-heridos/</link>
+    <description><![CDATA[Génesis Brito perdió la vida tras ser baleada por encapuchados en el sector Los Mangos, Salcedo. El ataque también dejó a dos personas heridas, quienes están siendo atendidas en un centro de salud.
+
+Las autoridades aún no han identificado a los responsables ni las circunstancias del hecho.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786287363/autonoticias/articles/20260809_145603_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 09 Aug 2026 15:07:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260809150733</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Cámara de Cuentas entrega auditoría de Senasa al PEPCA y avanza investigación a la gestión de Roberto Fulcar]]></title>
     <link>https://eldia.com.do/camara-de-cuentas-entrega-auditoria-de-senasa-al-pepca-y-avanza-investigacion-a-la-gestion-de-roberto-fulcar/</link>
     <description><![CDATA[La Cámara de Cuentas ha entregado al PEPCA la auditoría del Seguro Nacional de Salud (Senasa), revelando maniobras informáticas para ocultar datos. Los auditores firmaron un acuerdo con Microsoft para desencriptar contratos bloqueados.
@@ -1313,18 +1325,6 @@ Todos los detenidos fueron trasladados a sedes militares y serán entregados a l
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783875679/autonoticias/articles/20260712_170119_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 12 Jul 2026 17:02:30 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260712170230</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader comparte mensaje por su cumpleaños: "Hoy celebro un año más de vida"]]></title>
-    <link>https://panorama.com.do/abinader-comparte-mensaje-por-su-cumpleanos-hoy-celebro-un-ano-mas-de-vida/</link>
-    <description><![CDATA[El presidente Luis Abinader celebró su cumpleaños número 59 con un mensaje de agradecimiento en Instagram. Agradeció a Dios, a su familia y a todas las personas que han sido parte de su vida.
-
-En la publicación, Abinader incluyó una imagen creada con inteligencia artificial donde se le ve junto a él mismo cuando era niño. También expresó su gratitud por los mensajes de felicitación recibidos.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783875624/autonoticias/articles/20260712_170024_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 12 Jul 2026 17:00:56 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260712170056</guid>
   </item>
 </channel>
 </rss>
