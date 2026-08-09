@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 09 Aug 2026 15:04:21 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 15:07:03 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Finjus cuestiona facultad de la JCE para sancionar por publicación de encuestas]]></title>
+    <link>https://www.diariolibre.com/politica/jce/2026/08/09/finjus-cuestiona-facultad-de-jce-para-sancionar-por-publicar-encuestas/3623901</link>
+    <description><![CDATA[La Fundación Institucionalidad y Justicia (Finjus) ha cuestionado la capacidad de la Junta Central Electoral (JCE) para sancionar la publicación de encuestas a través de un reglamento, señalando que debe actuar dentro de los límites de la Constitución y las leyes.
+
+La JCE ha iniciado un procedimiento sancionador contra la firma encuestadora ACD Media, S.R.L. por la presunta publicación de encuestas fuera del período legalmente permitido.
+
+Finjus destaca que la Ley 20-23 prohíbe la publicación de encuestas ocho días antes de las votaciones, pero el reglamento de la JCE añade prohibiciones y sanciones adicionales.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786287996/noticias/articles/20260809_150636_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 09 Aug 2026 15:07:03 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260809150703</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Contratos de alimentos en el Inaipi son suspendidos preventivamente por presuntas irregularidades]]></title>
     <link>https://www.diariolibre.com/politica/gobierno/2026/08/09/contratos-del-inaipi-suspendidos-por-practicas-colusorias/3623920</link>
     <description><![CDATA[El Inaipi ha suspendido preventivamente varios contratos de alimentos debido a presuntas irregularidades detectadas en el proceso de licitación. Esta medida afecta adjudicaciones a empresas como Panaco, S.R.L. y García Tejera & Asociados, S.R.L., por un monto total de 401,541,565 pesos.
@@ -1233,19 +1246,6 @@ Otros combustibles reflejaron reducciones en sus precios, entre ellos el avtur, 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778876820/noticias/articles/20260515_202659_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 15 May 2026 20:27:52 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260515202752</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Panorama publicará primera entrevista con Mario José Redondo Llenas, 30 años después del crimen que estremeció al país]]></title>
-    <link>https://eltestigo.com</link>
-    <description><![CDATA[Un programa especial de Panorama publicará una entrevista exclusiva con Mario José Redondo Llenas, quien hablará públicamente por primera vez en 30 años sobre el caso que estremeció a toda la República Dominicana.
-
-El especial abordará el asesinato de José Rafael Llenas Aybar, uno de los crímenes más impactantes en la historia reciente del país y que marcó a toda una generación de dominicanos.
-
-La entrevista será transmitida este lunes 18 de mayo a las 9:00 de la noche por VTV Canal 32.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778809447/noticias/articles/20260515_014406_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 15 May 2026 01:44:35 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260515014435</guid>
   </item>
 </channel>
 </rss>
