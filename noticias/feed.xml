@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 09 Aug 2026 15:07:03 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 15:10:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[PRM celebra hoy domingo Asamblea de Delegados para renovar su dirección nacional]]></title>
+    <link>https://elnuevodiario.com.do/prm-celebra-hoy-domingo-asamblea-de-delegados-para-renovar-su-direccion-nacional/</link>
+    <description><![CDATA[El Partido Revolucionario Moderno (PRM) realiza hoy su Asamblea de Delegados en el Hotel Sheraton, Santo Domingo, para elegir nuevas autoridades.
+
+Luis Abinader será elegido presidente del PRM, reemplazando a José Ignacio Paliza. Deligne Ascención asumirá como primer vicepresidente ejecutivo.
+
+La duración del mandato de las autoridades se reducirá de cuatro a dos años. Juan Garrigó Mejía es mencionado para la Secretaría General, y Gloria Reyes para la Secretaría de Organización.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786288204/noticias/articles/20260809_151004_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 09 Aug 2026 15:10:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260809151035</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Finjus cuestiona facultad de la JCE para sancionar por publicación de encuestas]]></title>
     <link>https://www.diariolibre.com/politica/jce/2026/08/09/finjus-cuestiona-facultad-de-jce-para-sancionar-por-publicar-encuestas/3623901</link>
     <description><![CDATA[La Fundación Institucionalidad y Justicia (Finjus) ha cuestionado la capacidad de la Junta Central Electoral (JCE) para sancionar la publicación de encuestas a través de un reglamento, señalando que debe actuar dentro de los límites de la Constitución y las leyes.
@@ -1229,23 +1242,6 @@ El partido hace un llamado a la militancia para actuar con madurez y empatía, p
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778887059/noticias/articles/20260515_231738_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 15 May 2026 23:18:10 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260515231810</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gasolina premium y gasoil óptimo suben RD$8; gasolina y gasoil regular aumentan RD$4, mientras GLP se mantiene sin variación]]></title>
-    <link>https://eltestigo.com</link>
-    <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes (MICM) informó los precios oficiales de los combustibles correspondientes a la semana del 16 al 22 de mayo de 2026, destacándose aumentos en las gasolinas y el gasoil, mientras el Gas Licuado de Petróleo (GLP) permanecerá sin cambios.
-
-La gasolina premium aumentará RD$8.00 y se venderá a RD$331.10 por galón, mientras que el gasoil óptimo también subirá RD$8.00, alcanzando los RD$283.10.
-
-De igual forma, la gasolina regular incrementará RD$4.00 para comercializarse a RD$305.50, y el gasoil regular subirá RD$4.00, fijándose en RD$257.80 por galón.
-
-En tanto, el GLP mantendrá su precio en RD$137.20 por galón, sin presentar variación para la próxima semana.
-
-Otros combustibles reflejaron reducciones en sus precios, entre ellos el avtur, kerosene y distintos tipos de fuel oil, según la resolución oficial emitida por el MICM.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778876820/noticias/articles/20260515_202659_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 15 May 2026 20:27:52 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260515202752</guid>
   </item>
 </channel>
 </rss>
