@@ -7,9 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 09 Aug 2026 14:55:05 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 14:55:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Cámara de Cuentas entrega auditoría de Senasa al PEPCA y avanza investigación a la gestión de Roberto Fulcar]]></title>
+    <link>https://eldia.com.do/camara-de-cuentas-entrega-auditoria-de-senasa-al-pepca-y-avanza-investigacion-a-la-gestion-de-roberto-fulcar/</link>
+    <description><![CDATA[La Cámara de Cuentas ha entregado al PEPCA la auditoría del Seguro Nacional de Salud (Senasa), revelando maniobras informáticas para ocultar datos. Los auditores firmaron un acuerdo con Microsoft para desencriptar contratos bloqueados.
+
+El informe no será remitido al Ministerio Público hasta que los involucrados respondan a los hallazgos en un plazo de 45 días.
+
+Además, se está auditando la gestión de Roberto Fulcar en el Ministerio de Educación, como parte de una fiscalización del manejo del 4% del PIB. De las 191 auditorías en proceso, casi todas corresponden al primer periodo de gobierno de Luis Abinader.
+
+El equipo jurídico de la Cámara de Cuentas analiza el impacto del nuevo Código Penal para determinar posibles responsabilidades civiles o penales.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786287270/autonoticias/articles/20260809_145430_article.webp" type="image/jpeg"/>
+    <pubDate>Sun, 09 Aug 2026 14:55:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260809145519</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministro de Justicia confirma razón familiar motivó a que algunos jueces renunciaran a evaluación del CNM]]></title>
     <link>https://n.com.do/2026/08/09/ministro-de-justicia-confirma-razon-familiar-motivo-a-que-algunos-jueces-renunciaran-a-evaluacion-del-cnm/</link>
     <description><![CDATA[El ministro de Justicia, Antoliano Peralta, confirmó que algunos jueces renunciaron a ser evaluados por el Consejo Nacional de la Magistratura (CNM) debido a razones familiares. No se especificó a cuáles jueces se refería.
@@ -1309,20 +1325,6 @@ En la publicación, Abinader incluyó una imagen creada con inteligencia artific
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783875624/autonoticias/articles/20260712_170024_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 12 Jul 2026 17:00:56 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260712170056</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Autoridades investigan hallazgo de medicamentos abandonados en un canal de riego en Dajabón]]></title>
-    <link>https://elnuevodiario.com.do/autoridades-investigan-hallazgo-de-medicamentos-abandonados-en-un-canal-de-riego-en-dajabon/</link>
-    <description><![CDATA[Una gran cantidad de medicamentos en cajas fue encontrada abandonada en la berma del canal mayor, en el sector La Paz, del municipio de Dajabón. Este hallazgo ha generado preocupación entre los residentes de la zona.
-
-Miembros de la Dirección Central de Investigación (Dicrim) y personal de la Dirección Provincial de Salud acudieron al lugar para realizar el levantamiento de los productos farmacéuticos e iniciar las investigaciones correspondientes.
-
-La dirección del Hospital Provincial de Dajabón, encabezada por la doctora Arias, aclaró que los medicamentos encontrados no pertenecen ni fueron sustraídos de ese centro de salud.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783818328/autonoticias/articles/20260712_010528_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 12 Jul 2026 01:05:55 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260712010555</guid>
   </item>
 </channel>
 </rss>
