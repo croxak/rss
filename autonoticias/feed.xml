@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 09 Aug 2026 15:07:33 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 19:27:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Arrestan hombre señalado por muerte de su pareja en Montecristi]]></title>
+    <link>https://panorama.com.do/arrestan-hombre-senalado-por-muerte-de-su-pareja-en-montecristi/</link>
+    <description><![CDATA[La Policía Nacional detuvo a Alan de Jesús Guzmán Castellanos, de 30 años, señalado como el presunto autor de la muerte de su pareja, Nelqui Alejandra Rodríguez García, de 28 años. La joven falleció en la Clínica San Antonio tras ser herida con un arma blanca durante una discusión.
+
+Guzmán Castellanos habría trasladado a la víctima al centro de salud y permaneció allí hasta que llegaron las autoridades. Durante la investigación, se ocuparon dos cuchillos como evidencias.
+
+El cuerpo de Rodríguez García fue remitido al INACIF en Santiago para los estudios correspondientes. Guzmán Castellanos será puesto a disposición del Ministerio Público para continuar con las investigaciones.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786303567/autonoticias/articles/20260809_192606_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 09 Aug 2026 19:27:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260809192704</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Encapuchados matan a tiros mujer en Salcedo; dos resultaron heridos]]></title>
     <link>https://panorama.com.do/encapuchados-matan-a-tiros-mujer-en-salcedo-dos-resultaron-heridos/</link>
     <description><![CDATA[Génesis Brito perdió la vida tras ser baleada por encapuchados en el sector Los Mangos, Salcedo. El ataque también dejó a dos personas heridas, quienes están siendo atendidas en un centro de salud.
@@ -1313,18 +1327,6 @@ La procuradora exhortó a todos los sectores de la sociedad a pensar en el bien 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783894810/autonoticias/articles/20260712_222009_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 12 Jul 2026 22:20:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260712222039</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Detienen 82 haitianos indocumentados en Dajabón y Valverde]]></title>
-    <link>https://n.com.do/2026/07/12/detienen-82-haitianos-indocumentados-en-dajabon-y-valverde/</link>
-    <description><![CDATA[El Ejército de República Dominicana detuvo a 82 haitianos indocumentados en operativos en Dajabón y Valverde. En Dajabón, 20 fueron interceptados cerca de las cabañas El Bohío. En Los Amaseyes, 24 fueron detenidos, y en Mao, 38 tras una persecución.
-
-Todos los detenidos fueron trasladados a sedes militares y serán entregados a la Dirección General de Migración. El Ejército mantiene operaciones de vigilancia en la zona fronteriza para combatir la migración irregular.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783875679/autonoticias/articles/20260712_170119_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 12 Jul 2026 17:02:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260712170230</guid>
   </item>
 </channel>
 </rss>
