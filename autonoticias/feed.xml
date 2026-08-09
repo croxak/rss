@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 09 Aug 2026 14:53:24 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 14:54:44 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Realizarán caravana este domingo en honor a atletas dominicanos de los JCC 2026]]></title>
+    <link>https://eldia.com.do/realizaran-caravana-este-domingo-en-honor-a-atletas-dominicanos-de-los-jcc-2026/</link>
+    <description><![CDATA[El ministro de Deportes, Kelvin Cruz, ha anunciado una caravana en honor a los atletas dominicanos que brillaron en los Juegos Centroamericanos y del Caribe Santo Domingo 2026. La celebración se llevará a cabo este domingo 9 de agosto, comenzando a las 2:00 de la tarde desde el Centro Olímpico Juan Pablo Duarte.
+
+El recorrido atravesará diversos sectores del Gran Santo Domingo, permitiendo a la ciudadanía compartir y celebrar junto a sus representantes deportivos. Cruz destacó que esta iniciativa busca reconocer el esfuerzo y los logros de los atletas, invitando a toda la población a sumarse a esta fiesta deportiva y patriótica.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786287255/autonoticias/articles/20260809_145415_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 09 Aug 2026 14:54:44 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260809145444</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministro de Justicia confirma razón familiar motivó a que algunos jueces renunciaran a evaluación del CNM]]></title>
     <link>https://n.com.do/2026/08/09/ministro-de-justicia-confirma-razon-familiar-motivo-a-que-algunos-jueces-renunciaran-a-evaluacion-del-cnm/</link>
     <description><![CDATA[El ministro de Justicia, Antoliano Peralta, confirmó que algunos jueces renunciaron a ser evaluados por el Consejo Nacional de la Magistratura (CNM) debido a razones familiares. No se especificó a cuáles jueces se refería.
@@ -1313,22 +1325,6 @@ Factores como el acceso limitado a servicios de salud y condiciones socioeconóm
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783815010/autonoticias/articles/20260712_001009_article.png" type="image/png"/>
     <pubDate>Sun, 12 Jul 2026 00:13:41 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260712001341</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gonzalo Castillo cuestiona cambios al Código Penal y pide aplazar su entrada en vigencia]]></title>
-    <link>https://robertocavada.com/gonzalo-castillo-cuestiona-cambios-al-codigo-penal-y-pide-aplazar-su-entrada-en-vigencia/</link>
-    <description><![CDATA[Gonzalo Castillo ha expresado su descontento con el manejo del Gobierno en la discusión del Código Penal, afirmando que no hay un consenso real sobre la iniciativa.
-
-Castillo señaló que el proyecto mantiene sanciones de cárcel por difamación contra funcionarios públicos y que se han introducido modificaciones de último momento.
-
-El exfuncionario calificó la situación como "inaceptable" y pidió aplazar la entrada en vigencia del Código Penal, proponiendo un debate nacional de al menos un año.
-
-Reiteró su rechazo a cualquier medida que pueda afectar la libertad de expresión.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783815026/autonoticias/articles/20260712_001026_article.webp" type="image/jpeg"/>
-    <pubDate>Sun, 12 Jul 2026 00:13:25 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260712001325</guid>
   </item>
 </channel>
 </rss>
