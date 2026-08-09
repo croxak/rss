@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 08 Aug 2026 19:44:33 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 09 Aug 2026 15:04:21 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Contratos de alimentos en el Inaipi son suspendidos preventivamente por presuntas irregularidades]]></title>
+    <link>https://www.diariolibre.com/politica/gobierno/2026/08/09/contratos-del-inaipi-suspendidos-por-practicas-colusorias/3623920</link>
+    <description><![CDATA[El Inaipi ha suspendido preventivamente varios contratos de alimentos debido a presuntas irregularidades detectadas en el proceso de licitación. Esta medida afecta adjudicaciones a empresas como Panaco, S.R.L. y García Tejera & Asociados, S.R.L., por un monto total de 401,541,565 pesos.
+
+La suspensión es temporal y busca garantizar la transparencia y legalidad del proceso mientras se investigan posibles prácticas colusorias. Ninguno de los contratos había iniciado su ejecución al momento de la suspensión.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786287829/noticias/articles/20260809_150349_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 09 Aug 2026 15:04:21 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260809150421</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presunta disputa familiar por unos tenis termina en muerte: tío es señalado por matar a sobrino]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/08/08/hombre-es-senalado-de-matar-a-sobrino-tras-discutir-por-tenis/3623498</link>
     <description><![CDATA[Una discusión familiar en el barrio La Española, de Moca, terminó en tragedia cuando Javier Camacho Lizardo, de 26 años, murió tras recibir una estocada con un arma blanca. El presunto agresor es su tío, Francisco Lizardo, de 39 años.
@@ -1235,19 +1246,6 @@ La entrevista será transmitida este lunes 18 de mayo a las 9:00 de la noche por
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778809447/noticias/articles/20260515_014406_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 15 May 2026 01:44:35 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260515014435</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[¡Vendidos! Inmuebles de José David Figueroa Agosto en RD son subastados entre RD$20 y RD$29 millones]]></title>
-    <link>https://rnn.com.do/vendidos-inmuebles-de-jose-david-figueroa-agosto-en-rd-son-subastados-entre-rd20-y-rd29-millones/</link>
-    <description><![CDATA[Los inmuebles del narcotraficante José David Figueroa Agosto fueron subastados en Santo Domingo por el Incabide. Las propiedades se vendieron entre RD$20 millones y RD$29 millones.
-
-Entre las propiedades, un apartamento en La Esperilla fue adjudicado por RD$29 millones, y otro en la misma torre por RD$27.8 millones. Un apartamento en Piantini, con una puja inicial de RD$7.9 millones, se vendió por más de RD$9 millones. Además, un inmueble en la avenida Anacaona se vendió por RD$20 millones.
-
-José David Figueroa Agosto, nacido en Bayamón, Puerto Rico, fue un destacado narcotraficante conocido por varios alias. Fue capturado en 2010 y se declaró culpable en 2012, cumpliendo condena en Estados Unidos hasta su liberación en 2020.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778704369/noticias/articles/20260513_203249_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 13 May 2026 20:33:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260513203340</guid>
   </item>
 </channel>
 </rss>
