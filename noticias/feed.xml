@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 10 Aug 2026 03:14:57 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 11 Aug 2026 15:53:06 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Gobierno dominicano habilita centro de acopio en apoyo a Colombia]]></title>
+    <link>https://www.presidencia.gob.do/noticias/gobierno-dominicano-habilita-centro-de-acopio-en-apoyo-colombia</link>
+    <description><![CDATA[El Gobierno dominicano ha dispuesto un centro de acopio en la Armada de República Dominicana para apoyar a las comunidades afectadas por el sismo en Colombia.
+
+Ubicado en la Base Naval “27 de Febrero” en Santo Domingo Este, el centro recibirá donaciones de medicamentos, insumos médicos, alimentos y otros artículos de primera necesidad.
+
+Las donaciones serán organizadas y preparadas para su entrega. Para más información, los interesados pueden comunicarse al 829-762-2054.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786463555/noticias/articles/20260811_155234_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 11 Aug 2026 15:53:06 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260811155306</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Movimientos en el PRM dejan ver estructuras que comienzan a tomar forma rumbo a 2028]]></title>
     <link>https://eltestigo.com</link>
     <description><![CDATA[El Partido Revolucionario Moderno (PRM) no solo escogió este domingo a sus nuevas autoridades, sino que también dejó ver las principales estructuras políticas que comienzan a posicionarse dentro de la organización con miras a la disputa por la candidatura presidencial de 2028.
@@ -1233,19 +1246,6 @@ Pereyra, expresidente ejecutivo de Banco de Reservas y actual presidente de Refi
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779036292/noticias/articles/20260517_164452_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 17 May 2026 16:45:21 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260517164521</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Confirman extradición de Álex Saab a Estados Unidos tras llegada de avión N563BB a Caracas]]></title>
-    <link>https://eltestigo.com</link>
-    <description><![CDATA[El empresario colombiano Álex Saab fue extraditado este sábado hacia Estados Unidos, luego de la llegada a Caracas del avión Gulfstream V con matrícula N563BB, aeronave que había sido vinculada anteriormente a otros operativos federales de traslado y extradición.  
-
-El vuelo fue verificado por este medio mediante plataformas de rastreo aéreo en tiempo real, donde se observó la ruta del avión desde Miami hacia territorio venezolano.
-
-Saab, considerado uno de los principales operadores financieros del gobierno de Nicolás Maduro, ya había sido extraditado previamente desde Cabo Verde hacia Estados Unidos en 2021 por cargos de lavado de dinero, antes de ser liberado en 2023 mediante un intercambio de prisioneros.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1778975868/noticias/articles/20260516_235748_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 16 May 2026 23:58:13 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260516235813</guid>
   </item>
 </channel>
 </rss>
