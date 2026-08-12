@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 11 Aug 2026 15:53:06 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 01:07:36 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[PRM ratifica a Ricardo de los Santos y a Alfredo Pacheco al frente del Congreso Nacional]]></title>
+    <link>https://elnuevodiario.com.do/prm-ratifica-a-ricardo-de-los-santos-y-a-alfredo-pacheco-al-frente-del-congreso-nacional/</link>
+    <description><![CDATA[La Dirección Ejecutiva del PRM ha ratificado a Ricardo de los Santos y Alfredo Pacheco como presidentes del Senado y la Cámara de Diputados, respectivamente, para la próxima legislatura.
+
+La nueva legislatura del Congreso Nacional comenzará el 16 de agosto. En el Senado, Julito Fulcar será vicepresidente, y Guillermo Lama y Aracelys Villanueva serán secretarios. En la Cámara de Diputados, Dharuelly D’Aza será vicepresidenta, con Eduviges Bautista y Emil Durán como secretarios.
+
+El PRM destacó la confianza en la experiencia y liderazgo de De los Santos y Pacheco. Además, se aprobó que Alexis Victoria Yeb presida el Senado en 2027, mostrando madurez política y unidad.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786496817/noticias/articles/20260812_010656_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 12 Aug 2026 01:07:36 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260812010736</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno dominicano habilita centro de acopio en apoyo a Colombia]]></title>
     <link>https://www.presidencia.gob.do/noticias/gobierno-dominicano-habilita-centro-de-acopio-en-apoyo-colombia</link>
     <description><![CDATA[El Gobierno dominicano ha dispuesto un centro de acopio en la Armada de República Dominicana para apoyar a las comunidades afectadas por el sismo en Colombia.
@@ -1235,17 +1248,6 @@ La Policía bloqueó el acceso a La Cuaba, impidiendo el avance de la movilizaci
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779037692/noticias/articles/20260517_170811_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 17 May 2026 17:09:08 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260517170908</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Samuel Pereyra inicia acciones legales contra Carlos Rubio por presunta extorsión y difamación]]></title>
-    <link>https://elnuevodiario.com.do/samuel-pereyra-inicia-acciones-legales-contra-carlos-rubio-por-presunta-extorsion-y-difamacion/</link>
-    <description><![CDATA[Samuel Pereyra ha tomado medidas legales en Florida contra Carlos Rubio, a quien acusa de extorsión y difamación. Según Pereyra, Rubio inició ataques en redes sociales tras negarse a entregar una "ayuda económica".
-
-Pereyra, expresidente ejecutivo de Banco de Reservas y actual presidente de Refidomsa, subraya la necesidad de proteger a su familia y rechazar prácticas de chantaje. Hace un llamado a la sociedad para no permitir que las redes sociales sean usadas para destruir reputaciones.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779036292/noticias/articles/20260517_164452_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 17 May 2026 16:45:21 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260517164521</guid>
   </item>
 </channel>
 </rss>
