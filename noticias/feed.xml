@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 12 Aug 2026 01:07:36 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 01:13:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Pimentel se ausentó de audiencia Intrant por compromisos en Conferencia Interamericana de Compras Gubernamentales]]></title>
+    <link>https://m.n.com.do/2026/08/11/pimentel-se-ausento-de-audiencia-intrant-por-compromisos-en-conferencia-interamericana-de-compras-gubernamentales/</link>
+    <description><![CDATA[Carlos Pimentel, director de la Dirección General de Contrataciones Públicas, no asistió a la audiencia del caso Intrant por compromisos en la Conferencia Interamericana de Compras Gubernamentales en Monterrey, México.
+
+Pimentel informó al tribunal sobre su ausencia con una comunicación formal y la agenda de la conferencia. Afirmó que la DGCP seguirá colaborando en el caso Intrant y que participará en futuras instancias judiciales.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786497008/noticias/articles/20260812_011008_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 12 Aug 2026 01:13:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260812011332</guid>
+  </item>
+
+  <item>
     <title><![CDATA[PRM ratifica a Ricardo de los Santos y a Alfredo Pacheco al frente del Congreso Nacional]]></title>
     <link>https://elnuevodiario.com.do/prm-ratifica-a-ricardo-de-los-santos-y-a-alfredo-pacheco-al-frente-del-congreso-nacional/</link>
     <description><![CDATA[La Dirección Ejecutiva del PRM ha ratificado a Ricardo de los Santos y Alfredo Pacheco como presidentes del Senado y la Cámara de Diputados, respectivamente, para la próxima legislatura.
@@ -1237,17 +1248,6 @@ Uno de los préstamos, por USD$200 millones, se realizaría con la Corporación 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779313134/noticias/articles/20260520_213854_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 20 May 2026 21:39:26 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260520213926</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía dispersa con bombas lacrimógenas marcha en apoyo a recicladora en Pedro Brand]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/05/17/policia-dispersa-marcha-por-recicladora-en-pedro-brand-1998186/</link>
-    <description><![CDATA[En Santo Domingo, la Policía Nacional dispersó con bombas lacrimógenas una marcha en apoyo a una planta recicladora en El Aguacate, Pedro Brand. Los manifestantes, que contaban con permisos oficiales, denunciaron que la protesta era pacífica y buscaban expresar su respaldo al proyecto.
-
-La Policía bloqueó el acceso a La Cuaba, impidiendo el avance de la movilización. Los participantes criticaron que se les impidiera manifestarse mientras otros sectores opositores lo han hecho libremente.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779037692/noticias/articles/20260517_170811_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 17 May 2026 17:09:08 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260517170908</guid>
   </item>
 </channel>
 </rss>
