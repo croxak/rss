@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 12 Aug 2026 01:13:32 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 12 Aug 2026 01:26:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Alexis Victoria Yeb presidirá el Senado en 2027, según el PRM]]></title>
+    <link>https://elnuevodiario.com.do/alexis-victoria-yeb-presidira-el-senado-en-2027-segun-el-prm/</link>
+    <description><![CDATA[La Dirección Ejecutiva del Partido Revolucionario Moderno (PRM) ha aprobado que Alexis Victoria Yeb asuma la presidencia del Senado de la República en 2027. Esta decisión forma parte de los acuerdos para la conducción del Congreso Nacional.
+
+Daniel Rivera ocupará la vicepresidencia de la Cámara Alta durante el mismo período. Ricardo de los Santos ha sido ratificado para continuar al frente del Senado en la próxima legislatura.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786497960/noticias/articles/20260812_012600_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 12 Aug 2026 01:26:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260812012632</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Pimentel se ausentó de audiencia Intrant por compromisos en Conferencia Interamericana de Compras Gubernamentales]]></title>
     <link>https://m.n.com.do/2026/08/11/pimentel-se-ausento-de-audiencia-intrant-por-compromisos-en-conferencia-interamericana-de-compras-gubernamentales/</link>
     <description><![CDATA[Carlos Pimentel, director de la Dirección General de Contrataciones Públicas, no asistió a la audiencia del caso Intrant por compromisos en la Conferencia Interamericana de Compras Gubernamentales en Monterrey, México.
@@ -1237,17 +1248,6 @@ El proyecto fue aprobado por 144 diputados y deberá ser discutido nuevamente.]]
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779313547/noticias/articles/20260520_214547_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 20 May 2026 21:46:16 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260520214616</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Diputados del PRM y aliados aprueban préstamos de USD$600 millones en menos de una hora y media]]></title>
-    <link>https://listindiario.com/la-republica/congreso/20260520/diputados-prm-aliados-aprueban-prestamos-usd-600-millones-hora-media_906526.html</link>
-    <description><![CDATA[Diputados del PRM y aliados aprobaron en menos de una hora y media préstamos por USD$600 millones, superando el rechazo de las bancadas opositoras. El Senado decidirá sobre la aceptación final de esta deuda.
-
-Uno de los préstamos, por USD$200 millones, se realizaría con la Corporación Andina de Fomento (CAF) para acciones climáticas. El otro, por USD$400 millones, fue acordado con el Banco Interamericano de Desarrollo (BID) para el Programa Integral de Agua Potable en Punta Cana-Bávaro.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779313134/noticias/articles/20260520_213854_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 20 May 2026 21:39:26 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260520213926</guid>
   </item>
 </channel>
 </rss>
