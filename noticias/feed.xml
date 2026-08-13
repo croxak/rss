@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 12 Aug 2026 01:26:32 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 14:55:53 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Jean Alain Rodríguez solicitó llegar a un acuerdo con el Ministerio Público, dice Yeni Berenice]]></title>
+    <link>https://listindiario.com/la-republica/20260813/jean-alain-rodriguez-solicito-llegar-acuerdo-ministerio-publico-dice-yeni-berenice_917880.html</link>
+    <description><![CDATA[Jean Alain Rodríguez intentó llegar a un acuerdo con el Ministerio Público, según Yeni Berenice Reynoso. La solicitud fue hecha por escrito, pero fue rechazada.
+
+Reynoso afirmó que Rodríguez ha intentado evitar enfrentar la justicia y que el expediente contiene suficientes evidencias para condenarlo.
+
+Wilson Camacho explicó que no hay razón legal para extinguir el caso, que tiene 34 líneas de investigación. El tribunal decidirá el 17 de agosto si extingue el caso.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786632923/noticias/articles/20260813_145522_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 13 Aug 2026 14:55:53 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260813145553</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Alexis Victoria Yeb presidirá el Senado en 2027, según el PRM]]></title>
     <link>https://elnuevodiario.com.do/alexis-victoria-yeb-presidira-el-senado-en-2027-segun-el-prm/</link>
     <description><![CDATA[La Dirección Ejecutiva del Partido Revolucionario Moderno (PRM) ha aprobado que Alexis Victoria Yeb asuma la presidencia del Senado de la República en 2027. Esta decisión forma parte de los acuerdos para la conducción del Congreso Nacional.
@@ -1233,21 +1246,6 @@ Un juez del Tribunal de Tierras señaló que trabajan sin instalaciones adecuada
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779377259/noticias/articles/20260521_152739_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 15:28:07 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260521152807</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Aprueban que empleados sin disponibilidad de teletrabajo no reciban sueldo en un estado de excepción]]></title>
-    <link>https://listindiario.com/la-republica/congreso/20260520/diputados-aprueban-empleados-teletrabajo-reciban-sueldo-excepcion_906512.html</link>
-    <description><![CDATA[La Cámara de Diputados aprobó en primera discusión un proyecto de reforma al Código de Trabajo. Este proyecto permite que empleados sin disponibilidad de teletrabajo no reciban sueldo en un estado de excepción.
-
-Además, se aumentaron las vacaciones de 14 a 15 días y se redujo la licencia por paternidad de siete a cuatro días. También se excluyó a los hermanos de la licencia por duelo.
-
-Se estableció un límite de 24 meses para procesos judiciales laborales y se incluyó la figura del teletrabajo. Ciertos trabajadores deberán someterse a pruebas de estupefacientes.
-
-El proyecto fue aprobado por 144 diputados y deberá ser discutido nuevamente.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779313547/noticias/articles/20260520_214547_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 20 May 2026 21:46:16 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260520214616</guid>
   </item>
 </channel>
 </rss>
