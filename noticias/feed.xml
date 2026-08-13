@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 13 Aug 2026 14:56:54 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 23:41:12 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Cuba dice expulsión de sus diplomáticos es un acto de subordinación de RD ante EE.UU]]></title>
+    <link>https://m.n.com.do/2026/08/13/cuba-dice-expulsion-de-sus-diplomaticos-es-un-acto-de-subordinacion-de-rd-ante-ee-uu/</link>
+    <description><![CDATA[El Ministerio de Relaciones Exteriores de Cuba ha expresado su rechazo a la decisión del gobierno de República Dominicana de expulsar a diez diplomáticos cubanos y sus familiares. Según el comunicado cubano, no existe justificación para esta medida, ya que los diplomáticos han actuado conforme a la Convención de Viena.
+
+Cuba acusa a República Dominicana de someterse a las presiones de Estados Unidos, mencionando que no es la primera vez que el país caribeño se alinea con la política estadounidense. A pesar de la situación, Cuba resalta los lazos históricos y culturales que unen a ambos pueblos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786664426/noticias/articles/20260813_234026_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 13 Aug 2026 23:41:12 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260813234112</guid>
+  </item>
+
+  <item>
     <title><![CDATA[EEUU deporta pandilleros; entre ellos el dominicano Miguel Andrés Veras de la banda Los Trinitarios]]></title>
     <link>https://listindiario.com/la-republica/20260813/eeuu-deporta-dominicano-miguel-andres-veras-marte-banda-trinitarios_917882.html</link>
     <description><![CDATA[El Departamento de Seguridad Nacional de los Estados Unidos (DHS) ha deportado a varios pandilleros, incluyendo al dominicano Miguel Andrés Veras Martes, miembro de Los Trinitarios. Veras Martes fue deportado el 4 de agosto de 2026.
@@ -1235,17 +1246,6 @@ Medina afirmó que el PLD está decidido a regresar al poder y llamó a la milit
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779401402/noticias/articles/20260521_221001_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 22:10:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260521221039</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Autoridades detienen narcolancha con 978 paquetes de cocaína; capturan a tres venezolanos]]></title>
-    <link>https://panorama.com.do/autoridades-detienen-narcolancha-con-978-paquetes-de-cocaina-capturan-a-tres-venezolanos/</link>
-    <description><![CDATA[Las autoridades dominicanas, en colaboración con agencias internacionales, incautaron 978 paquetes de presunta cocaína en una lancha rápida interceptada al sur de las costas de Santo Domingo. Tres venezolanos fueron arrestados durante la operación.
-
-La embarcación, de 27 pies de eslora, estaba equipada con motores potentes y dispositivos de navegación. La DNCD y el Ministerio Público investigan para identificar a otros posibles involucrados en esta operación de narcotráfico.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779378631/noticias/articles/20260521_155031_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 21 May 2026 15:51:08 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260521155108</guid>
   </item>
 </channel>
 </rss>
