@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 13 Aug 2026 14:55:53 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 13 Aug 2026 14:56:54 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[EEUU deporta pandilleros; entre ellos el dominicano Miguel Andrés Veras de la banda Los Trinitarios]]></title>
+    <link>https://listindiario.com/la-republica/20260813/eeuu-deporta-dominicano-miguel-andres-veras-marte-banda-trinitarios_917882.html</link>
+    <description><![CDATA[El Departamento de Seguridad Nacional de los Estados Unidos (DHS) ha deportado a varios pandilleros, incluyendo al dominicano Miguel Andrés Veras Martes, miembro de Los Trinitarios. Veras Martes fue deportado el 4 de agosto de 2026.
+
+Su historial penal incluye condenas por fabricación, entrega y posesión de sustancias controladas, portar armas y sustancias peligrosas, conducción temeraria y recepción de bienes robados.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786632991/noticias/articles/20260813_145631_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 13 Aug 2026 14:56:54 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260813145654</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Jean Alain Rodríguez solicitó llegar a un acuerdo con el Ministerio Público, dice Yeni Berenice]]></title>
     <link>https://listindiario.com/la-republica/20260813/jean-alain-rodriguez-solicito-llegar-acuerdo-ministerio-publico-dice-yeni-berenice_917880.html</link>
     <description><![CDATA[Jean Alain Rodríguez intentó llegar a un acuerdo con el Ministerio Público, según Yeni Berenice Reynoso. La solicitud fue hecha por escrito, pero fue rechazada.
@@ -1235,17 +1246,6 @@ La embarcación, de 27 pies de eslora, estaba equipada con motores potentes y di
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779378631/noticias/articles/20260521_155031_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 21 May 2026 15:51:08 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260521155108</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Jueces de Monseñor Nouel apoyan paro nacional con lectura de manifiesto]]></title>
-    <link>https://noticiassin.com/pais/provincias/2026/05/21/jueces-de-monsenor-nouel-apoyan-paro-nacional-judicial-2003414/</link>
-    <description><![CDATA[En Monseñor Nouel, jueces, personal administrativo y abogados se reunieron en el Palacio de Justicia para leer un manifiesto durante un paro nacional. La actividad, que duró unos 15 minutos, permitió expresar preocupaciones sobre las condiciones laborales en el sistema de justicia.
-
-Un juez del Tribunal de Tierras señaló que trabajan sin instalaciones adecuadas, lo que afecta el desempeño de sus funciones. Este tipo de manifestaciones se realizaron simultáneamente en diferentes puntos del país.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779377259/noticias/articles/20260521_152739_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 21 May 2026 15:28:07 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260521152807</guid>
   </item>
 </channel>
 </rss>
