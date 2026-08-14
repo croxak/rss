@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 11 Aug 2026 15:50:05 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 14 Aug 2026 20:11:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[MOPC cerrará por dos horas el puente flotante este sábado]]></title>
+    <link>https://www.presidencia.gob.do/noticias/mopc-cerrara-por-dos-horas-el-puente-flotante-este-sabado</link>
+    <description><![CDATA[El Ministerio de Obras Públicas y Comunicaciones (MOPC) ha anunciado el cierre del puente flotante sobre el río Ozama este sábado 15 de agosto. El cierre será de 10:00 a.m. a 12:00 p.m. para permitir el paso de las embarcaciones M/V WATER SPIRIT 2 y R/M MIDGARD HUGO.
+
+Se recomienda a los conductores buscar rutas alternas como los puentes Matías Ramón Mella, Juan Pablo Duarte y Juan Bosch. El MOPC ofrece disculpas por los inconvenientes que esto pueda causar.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786738248/autonoticias/articles/20260814_201048_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 14 Aug 2026 20:11:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260814201115</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Condenan mujer que estafó a maestros que participaron en concurso para nombramiento en Barahona]]></title>
     <link>https://pgr.gob.do/condenan-mujer-que-estafo-a-maestros-que-participaron-en-concurso-para-nombramiento-en-barahona/</link>
     <description><![CDATA[Ana Minerva Terrero Sánchez ha sido condenada a tres años de prisión por estafar a maestros que participaron en un concurso de oposición en Barahona en 2023. La jueza Santa Kenia Pérez Féliz dictó la sentencia tras validar las pruebas del Ministerio Público.
@@ -1309,20 +1321,6 @@ La Policía Nacional y la Fiscalía investigan el asesinato para identificar a l
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783911199/autonoticias/articles/20260713_025318_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 13 Jul 2026 02:53:47 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260713025347</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Informe preliminar atribuye muerte del senador Lindsey Graham a una disección aórtica]]></title>
-    <link>https://n.com.do/2026/07/12/informe-preliminar-atribuye-muerte-del-senador-lindsey-graham-a-una-diseccion-aortica/</link>
-    <description><![CDATA[El senador republicano Lindsey Graham falleció a causa de una disección aórtica provocada por una enfermedad cardiovascular arteriosclerótica, según un informe preliminar de la Oficina del Médico Forense del Distrito de Columbia.
-
-Graham, de 71 años, murió tras sufrir una enfermedad repentina, días después de regresar de un viaje a Ucrania. Una llamada de emergencia desde Baltimore reportó que Graham tenía un fuerte dolor en el pecho. Los equipos de emergencia enfrentaron dificultades para ingresar a la residencia.
-
-No se ha aclarado si el senador falleció en la residencia o durante su traslado a un centro de salud.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783911151/autonoticias/articles/20260713_025231_article.webp" type="image/jpeg"/>
-    <pubDate>Mon, 13 Jul 2026 02:53:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260713025301</guid>
   </item>
 </channel>
 </rss>
