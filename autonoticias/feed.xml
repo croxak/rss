@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 14 Aug 2026 20:11:15 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 15 Aug 2026 20:47:44 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Policía busca dos hombres por muerte dirigente comunitario en Los Alcarrizos]]></title>
+    <link>https://eldia.com.do/policia-busca-dos-hombres-por-muerte-dirigente-comunitario-en-los-alcarrizos/</link>
+    <description><![CDATA[La Policía Nacional busca a dos personas captadas en cámaras de seguridad, presuntamente responsables de la muerte de José Frank Valerio, un dirigente comunitario en Los Alcarrizos.
+
+El ataque ocurrió el 14 de agosto en una parada de motoconchos en la carretera de Hato Nuevo. Valerio murió por heridas de proyectil de arma de fuego. Se encontraron cinco casquillos calibre 9 milímetros en la escena.
+
+Las investigaciones están en una etapa inicial y aún no se ha determinado el móvil del crimen.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786826834/autonoticias/articles/20260815_204713_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 15 Aug 2026 20:47:44 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260815204744</guid>
+  </item>
+
+  <item>
     <title><![CDATA[MOPC cerrará por dos horas el puente flotante este sábado]]></title>
     <link>https://www.presidencia.gob.do/noticias/mopc-cerrara-por-dos-horas-el-puente-flotante-este-sabado</link>
     <description><![CDATA[El Ministerio de Obras Públicas y Comunicaciones (MOPC) ha anunciado el cierre del puente flotante sobre el río Ozama este sábado 15 de agosto. El cierre será de 10:00 a.m. a 12:00 p.m. para permitir el paso de las embarcaciones M/V WATER SPIRIT 2 y R/M MIDGARD HUGO.
@@ -1309,18 +1323,6 @@ El mandatario explicó que el comportamiento de los combustibles no depende solo
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783911686/autonoticias/articles/20260713_030125_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 13 Jul 2026 03:01:50 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260713030150</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Asesinan a tiros a un hermano del narcotraficante Fito en la costa de Ecuador]]></title>
-    <link>https://noticiassin.com/mundo/2026/07/13/asesinan-en-ecuador-a-hermano-de-fito-lider-de-los-choneros-2057131/</link>
-    <description><![CDATA[David Macías Villamar, hermano de Fito, líder de Los Choneros, fue asesinado en Santa Elena, Ecuador. El ataque ocurrió a las 00:30, hora local, por individuos disfrazados de policías. La víctima tenía antecedentes y era miembro de la banda criminal.
-
-La Policía Nacional y la Fiscalía investigan el asesinato para identificar a los responsables. Este suceso se produce tras la captura de otro hermano de Fito en Colombia, quien fue extraditado a Ecuador.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783911199/autonoticias/articles/20260713_025318_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 13 Jul 2026 02:53:47 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260713025347</guid>
   </item>
 </channel>
 </rss>
