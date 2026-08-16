@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 16 Aug 2026 18:47:32 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 19:18:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Abinader designa a Juan Manuel Méndez en el Intrant y realiza cambios en organismos de emergencia]]></title>
+    <link>https://elnacional.com.do/nacionales/abinader-designa-juan-manuel-mendez-intrant-realiza-cambios-organismos-emergencia_578498_amp.html</link>
+    <description><![CDATA[El presidente Luis Abinader ha designado a Juan Manuel Méndez García como el nuevo director ejecutivo del Instituto Nacional de Tránsito y Transporte Terrestre (Intrant). Este cambio se produce tras la renuncia de Milton Morrison y se formalizó mediante el decreto 551-26.
+
+Méndez García, quien lideró el Centro de Operaciones de Emergencias (COE) durante años, ahora estará al frente del organismo encargado de regular el tránsito en el país. En el COE, Erdwin Robert Olivares Luciano ha sido nombrado como nuevo director.
+
+Además, Carlos Manuel Paulino Cárdenas ha asumido la dirección de la Defensa Civil, tras la dimisión de Juan Cesario Salas Rosario, quien fue designado asesor honorífico del Poder Ejecutivo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786907868/noticias/articles/20260816_191748_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 16 Aug 2026 19:18:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260816191815</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Muere joven uruguayo tras caer desde décimo piso de torre en Piantini]]></title>
     <link>https://noticiassin.com/pais/sucesos/2026/08/16/muere-uruguayo-al-caer-de-torre-en-piantini-2090452/?amp=1</link>
     <description><![CDATA[Joaquín Martínez, un joven uruguayo de 26 años, falleció este domingo al caer desde el décimo piso de la Torre Regatta Living en Piantini, Distrito Nacional.
@@ -1231,17 +1244,6 @@ Esta renuncia se suma a otras recientes en el Gabinete de Trump, incluyendo las 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779472196/noticias/articles/20260522_174955_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 17:50:22 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260522175022</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente de Panamá resalta contrato APP por US$1,200 MM para carretera en 20 años]]></title>
-    <link>https://www.elcaribe.com.do/panorama/pais/presidente-de-panama-resalta-contrato-app-por-us1200-mm-para-carretera-en-20-anos/</link>
-    <description><![CDATA[El presidente de Panamá, José Raúl Mulino, entregó la orden de proceder para el proyecto de "Rehabilitación, mejora y mantenimiento de la carretera Panamericana del Oeste". Este proyecto, bajo la modalidad de Asociación Público-Privada (APP), tendrá un costo de 1,200 millones de dólares en 20 años y será ejecutado por el Consorcio Vías del Istmo, S.A.
-
-Mulino destacó la confianza internacional en Panamá, mencionando al empresario dominicano Manuel Estrella como símbolo de esta confianza. El ministro de Obras Públicas, José Luis Andrade, señaló que el proyecto busca transformar la movilidad en uno de los corredores viales más utilizados del país, beneficiando a más de 282 mil personas directamente y generando más de 2,000 empleos directos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779459273/noticias/articles/20260522_141433_article.webp" type="image/webp"/>
-    <pubDate>Fri, 22 May 2026 14:15:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260522141533</guid>
   </item>
 </channel>
 </rss>
