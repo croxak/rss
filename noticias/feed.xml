@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 16 Aug 2026 21:29:39 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 21:35:30 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Jean Luis Rodríguez es designado ministro de Vivienda, Hábitat y Edificaciones]]></title>
+    <link>https://elnuevodiario.com.do/jean-luis-rodriguez-es-designado-ministro-de-vivienda-habitat-y-edificaciones/</link>
+    <description><![CDATA[El presidente Luis Abinader ha designado a Jean Luis Rodríguez como nuevo ministro de Vivienda, Hábitat y Edificaciones, en sustitución de Víctor -Ito- Bisonó Haza, quien fue trasladado al Ministerio de Relaciones Exteriores. Esta decisión se formalizó mediante el Decreto núm. 554-26.
+
+Jean Luis Rodríguez es licenciado en Administración de Empresas por UNIBE y tiene formación en Ciencias Políticas y Economía. También realizó una maestría en Negocios y Relaciones Económicas Internacionales en la UASD. Su trayectoria incluye experiencia en gestión pública, planificación estratégica, infraestructura y desarrollo territorial.
+
+Entre 2020 y 2026, Rodríguez fue director ejecutivo de la Autoridad Portuaria Dominicana y anteriormente se desempeñó como diputado por la provincia El Seibo. Ahora, como ministro de Vivienda, liderará el MIVHED en la implementación de políticas y proyectos relacionados con vivienda y desarrollo de edificaciones.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786916081/noticias/articles/20260816_213439_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 16 Aug 2026 21:35:30 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260816213530</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader designa a Víctor -Ito- Bisonó como Canciller en el Ministerio de Relaciones Exteriores]]></title>
     <link>https://elpregonerord.com/abinader-designa-a-victor-ito-bisono-como-canciller-en-el-ministerio-de-relaciones-exteriores/</link>
     <description><![CDATA[El presidente Luis Abinader ha nombrado a Víctor -Ito- Bisonó Haza como el nuevo ministro de Relaciones Exteriores de la República Dominicana, mediante el decreto núm. 554-26.
@@ -1241,17 +1254,6 @@ Las autoridades de Medio Ambiente están en el lugar para investigar las causas 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780004235/noticias/articles/20260528_213714_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 28 May 2026 21:37:41 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260528213741</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Bernardo Alemán pide perdón tras decir que para ganar elecciones “hasta secuestra”]]></title>
-    <link>https://elnuevodiario.com.do/bernardo-aleman-pide-perdon-tras-decir-que-para-ganar-elecciones-hasta-secuestra/</link>
-    <description><![CDATA[El senador del PRM, Bernardo Alemán, se disculpó por sus declaraciones en una entrevista donde mencionó que para ganar elecciones "hay que hacer de todo", incluyendo secuestrar dirigentes. Aclaró que fue una broma mal interpretada.
-
-Alemán afirmó que en Montecristi y a nivel nacional existen sectores que adversan su figura política y sacan de contexto sus declaraciones. Negó tener un militar asignado y explicó que sus comentarios fueron un "aguaje" en el contexto de una contienda política.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779925389/noticias/articles/20260527_234309_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 27 May 2026 23:43:43 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260527234343</guid>
   </item>
 </channel>
 </rss>
