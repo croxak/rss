@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 16 Aug 2026 21:46:54 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 22:36:57 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Abinader designa a José Andújar en Desarrollo Provincial y Nidio Encarnación en UTEPDA]]></title>
+    <link>https://acento.com.do/amp/actualidad/abinader-designa-nuevos-titulares-en-desarrollo-provincial-y-utepda-9738094.html</link>
+    <description><![CDATA[El presidente Luis Abinader ha realizado cambios en el tren gubernamental mediante el Decreto 555-26. José Dolores Andújar Ramírez es el nuevo director de la Dirección de Desarrollo Provincial, mientras que Nidio Encarnación Santiago ha sido nombrado director ejecutivo de la UTEPDA.
+
+En Santiago, César Andrés Pichardo Fermín ha sido designado presidente del Consejo de Directores de Coraasan, y Bernardo Antonio Inoa Pichardo como miembro del mismo consejo.
+
+En el servicio exterior, Elías de Jesús Brache Rivas ha sido nombrado cónsul general en Los Ángeles, California.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786919786/noticias/articles/20260816_223626_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 16 Aug 2026 22:36:57 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260816223657</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Luis Abinader nombra a Alejandro Campos como nuevo director ejecutivo de APORDOM]]></title>
     <link>https://hoy.com.do/el-pais/luis-abinader-nombra-alejandro-campos-nuevo-director-ejecutivo-apordom_1098985_amp.html</link>
     <description><![CDATA[Luis Abinader ha designado a Francisco Alejandro Campos Álvarez como nuevo director ejecutivo de la Autoridad Portuaria Dominicana (APORDOM) a través del Decreto núm. 554-26.
@@ -1237,21 +1250,6 @@ La decisión se tomó después de la audiencia preliminar en la que el Ministeri
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780108272/noticias/articles/20260530_023112_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 30 May 2026 02:31:36 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260530023136</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[José Ramón Peralta y su hijo obtienen no ha lugar en caso Calamar]]></title>
-    <link>https://eltestigo.com</link>
-    <description><![CDATA[La jueza dictó auto de no ha lugar a favor del exministro Administrativo de la Presidencia José Ramón Peralta y de su hijo, dentro del proceso judicial conocido como caso Calamar.
-
-La decisión implica que el tribunal consideró que no existen elementos suficientes para enviarlos a juicio de fondo por las acusaciones presentadas por el Ministerio Público.
-
-José Ramón Peralta figuraba entre los principales imputados del expediente, en el que la Procuraduría sostuvo la existencia de una presunta red de corrupción administrativa vinculada al manejo irregular de fondos públicos durante el pasado gobierno.
-
-Con este fallo, tanto Peralta como su hijo quedan favorecidos con un no ha lugar en esta etapa del proceso, aunque la decisión puede ser recurrida por el Ministerio Público conforme a la legislación procesal penal dominicana.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780108121/noticias/articles/20260530_022841_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 30 May 2026 02:29:10 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260530022910</guid>
   </item>
 </channel>
 </rss>
