@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 16 Aug 2026 16:03:58 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 18:47:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Muere joven uruguayo tras caer desde décimo piso de torre en Piantini]]></title>
+    <link>https://noticiassin.com/pais/sucesos/2026/08/16/muere-uruguayo-al-caer-de-torre-en-piantini-2090452/?amp=1</link>
+    <description><![CDATA[Joaquín Martínez, un joven uruguayo de 26 años, falleció este domingo al caer desde el décimo piso de la Torre Regatta Living en Piantini, Distrito Nacional.
+
+Las autoridades están investigando las circunstancias en que ocurrió el incidente.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786906026/noticias/articles/20260816_184706_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 16 Aug 2026 18:47:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260816184732</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Senado juramenta su nuevo Bufete Directivo para el período 2026-2027]]></title>
     <link>https://eldia.com.do/senado-juramenta-su-nuevo-bufete-directivo-para-el-periodo-2026-2027/</link>
     <description><![CDATA[El Senado de la República Dominicana ha juramentado a su nuevo Bufete Directivo para el período 2026-2027. Ricardo de los Santos continuará como presidente por cuarto año consecutivo, acompañado por Julito Fulcar Encarnación como vicepresidente, y Aracelis Villanueva y Andrés Guillermo Lama Pérez como secretarios.
@@ -1231,19 +1242,6 @@ Mulino destacó la confianza internacional en Panamá, mencionando al empresario
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779459273/noticias/articles/20260522_141433_article.webp" type="image/webp"/>
     <pubDate>Fri, 22 May 2026 14:15:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260522141533</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[ICE arresta a cubana hermana de ejecutiva de empresa militar Gaesa y le revoca residencia]]></title>
-    <link>https://noticiassin.com/mundo/mundo-general/2026/05/22/ice-arresta-a-cubana-vinculada-a-gaesa-y-revoca-residencia-2004405/</link>
-    <description><![CDATA[La Administración de Inmigración y Control de Aduanas (ICE) de Estados Unidos arrestó a Adys Lastres Morera, ciudadana cubana, y revocó su residencia permanente. Se le acusa de colaborar con el régimen de La Habana y representar una amenaza para la seguridad nacional.
-
-Adys Lastres Morera, hermana de una alta ejecutiva del conglomerado militar cubano Gaesa, estaba administrando activos inmobiliarios en Florida. El secretario de Estado, Marco Rubio, afirmó que no habrá lugar para ciudadanos extranjeros que amenacen la seguridad nacional.
-
-Ania Guillermina Lastres Morera, hermana de Adys, es señalada como presidenta ejecutiva de GAESA.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779420798/noticias/articles/20260522_033318_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 03:34:08 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260522033408</guid>
   </item>
 </channel>
 </rss>
