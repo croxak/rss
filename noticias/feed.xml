@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 16 Aug 2026 21:44:24 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 21:46:54 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Luis Abinader nombra a Alejandro Campos como nuevo director ejecutivo de APORDOM]]></title>
+    <link>https://hoy.com.do/el-pais/luis-abinader-nombra-alejandro-campos-nuevo-director-ejecutivo-apordom_1098985_amp.html</link>
+    <description><![CDATA[Luis Abinader ha designado a Francisco Alejandro Campos Álvarez como nuevo director ejecutivo de la Autoridad Portuaria Dominicana (APORDOM) a través del Decreto núm. 554-26.
+
+Campos Álvarez, quien era presidente del Consejo de Administración de APORDOM y de la Comisión Presidencial para la Modernización y Seguridad Portuaria, ahora liderará la gestión operativa y estratégica del sistema portuario nacional.
+
+Entre sus principales retos están la modernización de terminales marinas, fortalecer la conectividad marítima, promover la llegada de cruceros y consolidar el comercio de carga en los puertos del país.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786916773/noticias/articles/20260816_214612_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 16 Aug 2026 21:46:54 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260816214654</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Julia Muñiz Suberví es designada presidenta del Consejo de Administración de Autoridad Portuaria]]></title>
     <link>https://elnuevodiario.com.do/julia-muniz-subervi-es-designada-presidenta-del-consejo-de-administracion-de-autoridad-portuaria/</link>
     <description><![CDATA[El presidente Luis Abinader ha designado a Julia Muñiz Suberví como presidenta del Consejo de Administración de la Autoridad Portuaria Dominicana, según el Decreto núm. 554-26.
@@ -1239,21 +1252,6 @@ Con este fallo, tanto Peralta como su hijo quedan favorecidos con un no ha lugar
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780108121/noticias/articles/20260530_022841_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 30 May 2026 02:29:10 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260530022910</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Jueza declara no ha lugar a favor de Gonzalo Castillo en caso Calamar]]></title>
-    <link>https://eltestigo.com</link>
-    <description><![CDATA[La jueza de Instrucción del Distrito Nacional, declaró no ha lugar a favor del exministro de Obras Públicas y excandidato presidencial Gonzalo Castillo, dentro del proceso judicial conocido como caso Calamar.
-
-La decisión se produce en la etapa preliminar del expediente, en la que el tribunal debía determinar si existían elementos suficientes para enviar a juicio de fondo a los imputados.
-
-Castillo figuraba entre los principales acusados del Ministerio Público junto a los exministros Donald Guerrero y José Ramón Peralta. La acusación sostenía la presunta existencia de una estructura de corrupción administrativa vinculada al manejo irregular de fondos públicos durante pasadas gestiones gubernamentales.
-
-Con el no ha lugar, el tribunal entiende que, respecto a Gonzalo Castillo, la acusación no presentó pruebas suficientes para justificar la apertura de un juicio de fondo en su contra.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780107563/noticias/articles/20260530_021922_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 30 May 2026 02:19:50 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260530021950</guid>
   </item>
 </channel>
 </rss>
