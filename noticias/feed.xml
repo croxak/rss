@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 16 Aug 2026 19:18:15 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 19:36:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Designan a Erdwín Robert Olivares Luciano como director del COE en sustitución de Méndez García]]></title>
+    <link>https://elnuevodiario.com.do/abinader-designa-a-erdwin-robert-olivares-luciano-como-director-del-coe/</link>
+    <description><![CDATA[El presidente Luis Abinader ha nombrado a Erdwín Robert Olivares Luciano como nuevo director del Centro de Operaciones de Emergencias (COE), según el Decreto núm. 551-26. Este cambio se produce en sustitución de Juan Manuel Méndez García.
+
+Juan Manuel Méndez García, quien estuvo al frente del COE durante años, ha sido designado como director del Instituto Nacional de Tránsito y Transporte Terrestre (Intrant). Este nombramiento se da tras la renuncia de Milton Morrison.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786908942/noticias/articles/20260816_193542_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 16 Aug 2026 19:36:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260816193614</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader designa a Juan Manuel Méndez en el Intrant y realiza cambios en organismos de emergencia]]></title>
     <link>https://elnacional.com.do/nacionales/abinader-designa-juan-manuel-mendez-intrant-realiza-cambios-organismos-emergencia_578498_amp.html</link>
     <description><![CDATA[El presidente Luis Abinader ha designado a Juan Manuel Méndez García como el nuevo director ejecutivo del Instituto Nacional de Tránsito y Transporte Terrestre (Intrant). Este cambio se produce tras la renuncia de Milton Morrison y se formalizó mediante el decreto 551-26.
@@ -1233,17 +1244,6 @@ Capell enfrenta la justicia por presuntamente haber agredido a un pariente de un
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779486020/noticias/articles/20260522_214020_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 21:40:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260522214058</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Tulsi Gabbard renuncia como directora de Inteligencia del Gobierno de Trump tras el diagnóstico de cáncer de su esposo]]></title>
-    <link>https://www.telemundo.com/noticias/noticias-telemundo/politica/tulsi-gabbard-renuncia-como-directora-de-inteligencia-rcna346548</link>
-    <description><![CDATA[Tulsi Gabbard ha renunciado como directora de Inteligencia Nacional del Gobierno de Donald Trump. La decisión se debe a que desea pasar más tiempo con su esposo, quien padece cáncer óseo. La gravedad del diagnóstico fue confirmada por una fuente cercana.
-
-Esta renuncia se suma a otras recientes en el Gabinete de Trump, incluyendo las de Kristi Noem, Pam Bondi y Lori Chavez DeRemer. Además, Todd Lyons dejará su puesto en ICE, y el doctor Marty Makary también anunció su renuncia este mes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779472196/noticias/articles/20260522_174955_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 17:50:22 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260522175022</guid>
   </item>
 </channel>
 </rss>
