@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 16 Aug 2026 19:36:14 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 16 Aug 2026 20:15:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Abinader designa a Julio Peña Guzmán en la Junta de Aviación Civil]]></title>
+    <link>https://elpregonerord.com/abinader-designa-a-julio-pena-guzman-en-la-junta-de-aviacion-civil/</link>
+    <description><![CDATA[El presidente Luis Abinader ha designado a Julio Peña Guzmán como nuevo presidente de la Junta de Aviación Civil (JAC) mediante el Decreto 552-26.
+
+Peña Guzmán es abogado, diplomático y gestor público con más de 20 años de experiencia. Es licenciado en Derecho por la PUCMM y tiene maestrías en Gobierno, Ciencias Políticas, Defensa y Seguridad Nacional.
+
+Ha representado a la República Dominicana ante la OACI y ha participado en asambleas y reuniones de alto nivel relacionadas con el transporte aéreo. Su experiencia incluye la actualización del marco jurídico e institucional aeronáutico.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786911276/noticias/articles/20260816_201436_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 16 Aug 2026 20:15:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260816201505</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Designan a Erdwín Robert Olivares Luciano como director del COE en sustitución de Méndez García]]></title>
     <link>https://elnuevodiario.com.do/abinader-designa-a-erdwin-robert-olivares-luciano-como-director-del-coe/</link>
     <description><![CDATA[El presidente Luis Abinader ha nombrado a Erdwín Robert Olivares Luciano como nuevo director del Centro de Operaciones de Emergencias (COE), según el Decreto núm. 551-26. Este cambio se produce en sustitución de Juan Manuel Méndez García.
@@ -1233,17 +1246,6 @@ Capell enfrenta la justicia por haber agredido a un pariente de una de las víct
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779486233/noticias/articles/20260522_214353_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 22 May 2026 21:44:44 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260522214444</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Dr. Cruz Jiminian y Nelson Gutiérrez entregan al comunicador Jossan Capell ante el MP]]></title>
-    <link>https://www.elcaribe.com.do/panorama/pais/dr-cruz-jiminian-y-nelson-gutierrez-entregan-al-comunicador-jossan-capell-ante-el-mp/</link>
-    <description><![CDATA[El Dr. Cruz Jiminian y Nelson Gutiérrez llevaron al comunicador Jossan Capell ante el Ministerio Público en el Palacio de Justicia de Ciudad Nueva.
-
-Capell enfrenta la justicia por presuntamente haber agredido a un pariente de una de las víctimas del caso Jet Set.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1779486020/noticias/articles/20260522_214020_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 22 May 2026 21:40:58 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260522214058</guid>
   </item>
 </channel>
 </rss>
