@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 16 Aug 2026 22:36:57 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 18 Aug 2026 00:37:39 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Tribunal cancela la concesión minera a Falcondo por incumplimientos]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/08/17/tsa-pone-fin-a-casi-70-anos-de-concesion-de-falcondo/3631618</link>
+    <description><![CDATA[El Tribunal Superior Administrativo (TSA) ha cancelado la concesión minera de Falconbridge Dominicana (Falcondo) debido a incumplimientos. La Segunda Sala del TSA acogió la acción presentada por el Fondo Patrimonial de las Empresas Reformadas (Fonper) y ordenó la terminación de los contratos de concesión de 1956 y 1969 para Quisqueya I.
+
+La sentencia núm. 0030-03-2026-SSEN-00332, emitida el 12 de agosto de 2026, determinó que Falcondo incumplió en la explotación de recursos, obligaciones económicas y laborales, y en la entrega de información técnica. Las operaciones de Quisqueya estaban paralizadas desde noviembre de 2023, y no se entregaron informes semestrales y anuales de 2023 a 2025.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787013432/noticias/articles/20260818_003711_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 18 Aug 2026 00:37:39 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260818003739</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader designa a José Andújar en Desarrollo Provincial y Nidio Encarnación en UTEPDA]]></title>
     <link>https://acento.com.do/amp/actualidad/abinader-designa-nuevos-titulares-en-desarrollo-provincial-y-utepda-9738094.html</link>
     <description><![CDATA[El presidente Luis Abinader ha realizado cambios en el tren gubernamental mediante el Decreto 555-26. José Dolores Andújar Ramírez es el nuevo director de la Dirección de Desarrollo Provincial, mientras que Nidio Encarnación Santiago ha sido nombrado director ejecutivo de la UTEPDA.
@@ -1239,17 +1250,6 @@ Con este fallo, Peralta y Daniel Guerrero quedan favorecidos con un no ha lugar 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780109286/noticias/articles/20260530_024805_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 30 May 2026 02:48:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260530024834</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Caso Calamar: Donald Guerrero y Ángel Lockward son enviados a juicio de fondo]]></title>
-    <link>https://robertocavada.com/caso-calamar-donald-guerrero-y-angel-lockward-son-enviados-a-juicio-de-fondo-2/</link>
-    <description><![CDATA[El Cuarto Juzgado de la Instrucción del Distrito Nacional ha ordenado la apertura de un juicio de fondo contra los exfuncionarios Donald Guerrero y Ángel Lockward, así como otros implicados en el Caso Calamar.
-
-La decisión se tomó después de la audiencia preliminar en la que el Ministerio Público presentó acusaciones por presuntos actos de corrupción administrativa.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780108272/noticias/articles/20260530_023112_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 30 May 2026 02:31:36 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260530023136</guid>
   </item>
 </channel>
 </rss>
