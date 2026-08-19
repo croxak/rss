@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 15 Aug 2026 20:47:44 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 19 Aug 2026 13:55:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Ministro de Defensa encabeza traspasos de mando en el Ejército y la Fuerza Aérea]]></title>
+    <link>https://www.presidencia.gob.do/noticias/ministro-de-defensa-encabeza-traspasos-de-mando-en-el-ejercito-y-la-fuerza-aerea</link>
+    <description><![CDATA[El ministro de Defensa, teniente general Carlos Antonio Fernández Onofre, lideró las ceremonias de traspaso de mando en el Ejército y la Fuerza Aérea de República Dominicana. 
+
+El mayor general Jimmy Arias Grullón asumió como comandante general del Ejército, reemplazando al mayor general Jorge Iván Camino Pérez, quien fue designado inspector general de las Fuerzas Armadas.
+
+En la Fuerza Aérea, el mayor general Enmanuel Marcelino Souffront Tamayo tomó el mando, sucediendo al mayor general Floreal T. Suárez Martínez. Estos cambios fueron dispuestos por el Decreto núm. 557-26 del presidente de la República.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787147657/autonoticias/articles/20260819_135416_article.png" type="image/png"/>
+    <pubDate>Wed, 19 Aug 2026 13:55:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260819135502</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía busca dos hombres por muerte dirigente comunitario en Los Alcarrizos]]></title>
     <link>https://eldia.com.do/policia-busca-dos-hombres-por-muerte-dirigente-comunitario-en-los-alcarrizos/</link>
     <description><![CDATA[La Policía Nacional busca a dos personas captadas en cámaras de seguridad, presuntamente responsables de la muerte de José Frank Valerio, un dirigente comunitario en Los Alcarrizos.
@@ -1309,20 +1323,6 @@ Las declaraciones se producen tras la propuesta del Poder Ejecutivo de modificar
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783911834/autonoticias/articles/20260713_030354_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 13 Jul 2026 03:04:21 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260713030421</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader afirma que ministro Sanz Lovatón explicará la fórmula de los combustibles para aclarar dudas sobre los precios]]></title>
-    <link>https://elnuevodiario.com.do/abinader-afirma-que-ministro-ito-bisono-explicara-la-formula-de-los-combustibles-para-aclarar-dudas-sobre-los-precios/</link>
-    <description><![CDATA[El presidente Luis Abinader informó que el ministro Eduardo Sanz Lovatón explicará la fórmula para fijar los precios de los combustibles, buscando aclarar dudas sobre las recientes variaciones.
-
-Abinader señaló que el Gobierno evitó trasladar el incremento del petróleo a los consumidores, aplicando un aumento menor y destinando subsidios. El presupuesto para subsidios se agotó en mayo, pero el plan anticrisis continuó.
-
-El mandatario explicó que el comportamiento de los combustibles no depende solo del precio del petróleo, ya que el país importa el 70 % de las gasolinas y productos refinados. En las últimas dos semanas, se han registrado rebajas en varios carburantes.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783911686/autonoticias/articles/20260713_030125_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 13 Jul 2026 03:01:50 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260713030150</guid>
   </item>
 </channel>
 </rss>
