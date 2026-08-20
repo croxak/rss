@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 19 Aug 2026 19:42:50 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 20 Aug 2026 17:30:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Indotel, Alcaldía del Distrito Nacional y sector eléctrico inician retiro de 300 kilómetros de cableado en desuso en la capital]]></title>
+    <link>https://www.presidencia.gob.do/noticias/indotel-alcaldia-del-distrito-nacional-y-sector-electrico-inician-retiro-de-300-kilometros</link>
+    <description><![CDATA[El Indotel, la Alcaldía del Distrito Nacional y el sector eléctrico han comenzado a retirar 300 kilómetros de cableado en desuso en Santo Domingo. Este esfuerzo busca reducir la contaminación visual y mejorar la infraestructura urbana.
+
+El proyecto, que abarca sectores como Bella Vista y Ciudad Colonial, cuenta con una inversión de RD 100 millones. Indotel, Edesur y Edeeste son los principales contribuyentes.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787247005/autonoticias/articles/20260820_173005_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 20 Aug 2026 17:30:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260820173035</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader confirma a Héctor Valdez Albizu como gobernador del Banco Central]]></title>
     <link>https://eldia.com.do/abinader-confirma-a-hector-valdez-albizu-como-gobernador-del-banco-central/</link>
     <description><![CDATA[El presidente Luis Abinader ha confirmado a Héctor Valdez Albizu como gobernador del Banco Central de la República Dominicana, mediante el Decreto 575-26. Clarissa de la Rocha también fue confirmada como vicegobernadora.
@@ -1307,18 +1319,6 @@ En infraestructura, mencionó el desarrollo de Manzanillo como zona industrial y
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783912089/autonoticias/articles/20260713_030809_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 13 Jul 2026 03:08:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260713030842</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader: "Yo soy el más interesado en tener la garantía de que cuando salga del Gobierno pueda expresarme libremente"]]></title>
-    <link>https://eldia.com.do/abinader-yo-soy-el-mas-interesado-en-tener-la-garantia-de-que-cuando-salga-del-gobierno-pueda-expresarme-libremente/</link>
-    <description><![CDATA[El presidente Luis Abinader expresó su interés en garantizar su libertad de expresión después de su mandato. Negó que las modificaciones al Código Penal busquen restringir esta libertad, afirmando que buscan un equilibrio entre el derecho a expresarse y la protección del honor y la dignidad.
-
-Abinader resaltó que las críticas y denuncias públicas son fundamentales para fortalecer la democracia y mejorar la gestión gubernamental. Aseguró que las críticas ayudan, especialmente cuando denuncian problemas o posibles actos de corrupción.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783911947/autonoticias/articles/20260713_030547_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 13 Jul 2026 03:07:03 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260713030703</guid>
   </item>
 </channel>
 </rss>
