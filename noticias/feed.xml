@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 19 Aug 2026 20:29:27 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 20:46:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Director de la Policía da 30 días para declarar patrimonio y amenaza con destituir a incumplidores]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/08/22/director-de-la-policia-da-30-dias-para-declarar-patrimonio/3636473</link>
+    <description><![CDATA[El mayor general Ernesto Rafael Rodríguez García, nuevo director general de la Policía Nacional, ha establecido un plazo de 30 días para que los funcionarios de la institución presenten su declaración jurada de patrimonio. 
+
+El memorándum, fechado el 22 de agosto de 2026, advierte que quienes no cumplan serán destituidos de sus funciones y sancionados conforme a los reglamentos vigentes. La medida se dirige a los directores centrales, regionales y de áreas, así como a los comandantes departamentales.
+
+Esta disposición es la primera orden administrativa de Rodríguez García desde que asumió el cargo, enfocándose en fortalecer la disciplina y transformar prácticas internas de la institución.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787431577/noticias/articles/20260822_204617_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 22 Aug 2026 20:46:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260822204641</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidente Abinader designa al general Martín Miguel Tapia Sánchez como nuevo inspector general de la Policía Nacional]]></title>
     <link>https://elpregonerord.com/presidente-abinader-designa-al-general-martin-miguel-tapia-sanchez-como-nuevo-inspector-general-de-la-policia-nacional/</link>
     <description><![CDATA[El presidente Luis Abinader ha designado al general Martín Miguel Tapia Sánchez como nuevo inspector general de la Policía Nacional, según el Decreto núm. 574-26 emitido el 18 de agosto de 2026.
@@ -1237,19 +1250,6 @@ La extradición se lleva a cabo bajo el Decreto 365-26, en cumplimiento de los c
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780451677/noticias/articles/20260603_015436_article.webp" type="image/webp"/>
     <pubDate>Wed, 03 Jun 2026 01:55:16 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260603015516</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Miembros de red que operaba en Santiago simulaban ser del Cártel de Sinaloa para extorsionar a residentes en EE. UU.]]></title>
-    <link>https://www.diariolibre.com/actualidad/nacional/2026/06/02/operacion-xl526-red-se-hacia-pasar-por-miembros-de-carcel-de-sinaloa/3554290</link>
-    <description><![CDATA[Una red criminal que operaba desde Santiago, República Dominicana, fue desmantelada mediante la Operación XL526. Los miembros simulaban ser del Cártel de Sinaloa para extorsionar a residentes en EE. UU., utilizando llamadas y mensajes amenazantes.
-
-La organización captaba a sus víctimas a través de anuncios en plataformas digitales y usaba el miedo como herramienta de presión. Los fondos obtenidos eran movidos mediante criptomonedas y otros mecanismos financieros para ocultar su origen.
-
-Durante la operación, se realizaron 28 allanamientos y se arrestó a una veintena de personas, incluidos los presuntos líderes de la organización.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780450091/noticias/articles/20260603_012810_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 03 Jun 2026 01:29:16 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260603012916</guid>
   </item>
 </channel>
 </rss>
