@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 22 Aug 2026 20:46:41 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 22 Aug 2026 23:29:08 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[El SNS designa nuevos directores en hospitales Padre Billini, Galván, Jaime Mota y Vicente Noble]]></title>
+    <link>https://www.diariolibre.com/actualidad/salud/2026/08/22/sns-pone-nuevos-directores-en-hospitales-padre-billini-y-jaime-mota/3636620</link>
+    <description><![CDATA[El Servicio Nacional de Salud (SNS) ha designado nuevos directores en los hospitales Padre Billini, Jaime Mota, Galván y Vicente Noble. Julio Landrón, director ejecutivo del SNS, realizó la juramentación con el objetivo de fortalecer la gestión y garantizar servicios de salud de calidad.
+
+El doctor Gewil Elías Acosta, especialista en Neurología, es el nuevo director del Hospital Docente Padre Billini. Acosta se compromete a priorizar la atención de calidad al paciente.
+
+La doctora Jenny Olivero ha sido nombrada directora del Hospital Regional Dr. Jaime Mota. Olivero cuenta con una amplia formación en gestión sanitaria y experiencia en el sector salud.
+
+La doctora Persia Bernalisi Mateo Castillo dirigirá el Hospital Municipal de Galván. Mateo Castillo busca reducir los tiempos de espera y mejorar la calidad de atención.
+
+El doctor Aser Báez es el nuevo director del Hospital Municipal de Vicente Noble. Báez se compromete a desarrollar una gestión organizada y transparente, enfocada en mejorar la calidad y humanización de los servicios.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787441323/noticias/articles/20260822_232842_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 22 Aug 2026 23:29:08 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260822232908</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Director de la Policía da 30 días para declarar patrimonio y amenaza con destituir a incumplidores]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/08/22/director-de-la-policia-da-30-dias-para-declarar-patrimonio/3636473</link>
     <description><![CDATA[El mayor general Ernesto Rafael Rodríguez García, nuevo director general de la Policía Nacional, ha establecido un plazo de 30 días para que los funcionarios de la institución presenten su declaración jurada de patrimonio. 
@@ -1239,17 +1256,6 @@ Vander Horst agradeció las muestras de apoyo con un mensaje dirigido a Pereyra.
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780539615/noticias/articles/20260604_022014_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 04 Jun 2026 02:20:50 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260604022050</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Abinader ordena extradición de dominicano a EE.UU. por narcotráfico]]></title>
-    <link>https://eldia.com.do/presidente-abinader-ordena-extradicion-de-dominicano-a-ee-uu-por-narcotrafico/</link>
-    <description><![CDATA[El presidente Luis Abinader ha ordenado la extradición de Carlos Pisandro Peña Tejada, conocido como Bertinio Emilio Peguero, alias "Papa", a Estados Unidos. Peña Tejada enfrenta cargos por asociación delictuosa para importar cocaína y otros delitos relacionados con el narcotráfico.
-
-La extradición se lleva a cabo bajo el Decreto 365-26, en cumplimiento de los compromisos internacionales de la República Dominicana en la lucha contra el crimen organizado y el tráfico ilícito de drogas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780451677/noticias/articles/20260603_015436_article.webp" type="image/webp"/>
-    <pubDate>Wed, 03 Jun 2026 01:55:16 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260603015516</guid>
   </item>
 </channel>
 </rss>
