@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 22 Aug 2026 23:29:08 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 15:39:01 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[EE. UU. advierte sobre riesgos de espionaje vinculados a empresas tecnológicas chinas]]></title>
+    <link>https://listindiario.com/la-republica/20260822/embajada-estados-unidos-rd-advierte-sobre-riesgos-tecnologias-empresas-chinas_919201/amp.html</link>
+    <description><![CDATA[La Embajada de Estados Unidos en República Dominicana ha emitido una advertencia sobre el uso de tecnologías de empresas chinas como Huawei, ZTE, Hikvision, Hytera, Dahua y DJI. Según la embajada, estas tecnologías están sujetas a los intereses del Gobierno de China, lo que podría generar riesgos de espionaje, ataques informáticos e interrupciones de las redes.
+
+La embajada instó a sus socios en las Américas a cambiar rápidamente hacia proveedores confiables para proteger a sus ciudadanos y su soberanía.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787499472/noticias/articles/20260823_153752_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 23 Aug 2026 15:39:01 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260823153901</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El SNS designa nuevos directores en hospitales Padre Billini, Galván, Jaime Mota y Vicente Noble]]></title>
     <link>https://www.diariolibre.com/actualidad/salud/2026/08/22/sns-pone-nuevos-directores-en-hospitales-padre-billini-y-jaime-mota/3636620</link>
     <description><![CDATA[El Servicio Nacional de Salud (SNS) ha designado nuevos directores en los hospitales Padre Billini, Jaime Mota, Galván y Vicente Noble. Julio Landrón, director ejecutivo del SNS, realizó la juramentación con el objetivo de fortalecer la gestión y garantizar servicios de salud de calidad.
@@ -1243,19 +1254,6 @@ Polanco Reynoso fue designado embajador mediante el Decreto 2-25 y antes fue dip
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780677878/noticias/articles/20260605_164438_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 05 Jun 2026 16:48:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260605164840</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Andrés Vander Horst sale de la Fiduciaria Reservas tras casi seis años de servicio]]></title>
-    <link>https://elnuevodiario.com.do/andres-van-der-horst-sale-de-la-fiduciaria-reservas-tras-casi-seis-anos-de-servicio/</link>
-    <description><![CDATA[Andrés Vander Horst ha anunciado el fin de su etapa en Fiduciaria Reservas tras casi seis años de servicio. La noticia fue compartida en la red social X, donde varias personalidades elogiaron su trabajo y contribuciones.
-
-Samuel Pereyra destacó que Vander Horst transformó y aumentó las utilidades de la Fiduciaria Reservas, especialmente en el mercado de viviendas de bajo costo. Bolívar Valera también resaltó su labor y le deseó éxito en sus futuros proyectos.
-
-Vander Horst agradeció las muestras de apoyo con un mensaje dirigido a Pereyra.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780539615/noticias/articles/20260604_022014_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 04 Jun 2026 02:20:50 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260604022050</guid>
   </item>
 </channel>
 </rss>
