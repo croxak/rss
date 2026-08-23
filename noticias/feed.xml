@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 23 Aug 2026 17:16:15 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 19:51:48 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Abinader lanzará este lunes LA Agenda Semanal, un nuevo espacio de trabajo y seguimiento]]></title>
+    <link>https://www.diariolibre.com/politica/gobierno/2026/08/23/presidente-abinader-lanzara-la-agenda-semanal-este-lunes/3637048</link>
+    <description><![CDATA[El presidente Luis Abinader presentará este lunes LA Agenda Semanal, un nuevo espacio de trabajo y comunicación que permitirá a la ciudadanía conocer cómo se supervisan y dan seguimiento a las prioridades del país.
+
+La primera edición se centrará en el inicio del año escolar, con la participación del ministro de Educación, Luis Miguel De Camps, para revisar la preparación del sistema educativo.
+
+LA Agenda Semanal será transmitida en vivo todos los lunes a las 5:00 de la tarde, abordando diferentes temas cada semana.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787514677/noticias/articles/20260823_195116_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 23 Aug 2026 19:51:48 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260823195148</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Nino Dólar habría conducido sin licencia en accidente que dejó dos muertos y un herido]]></title>
     <link>https://elnuevodiario.com.do/nino-dolar-habria-conducido-sin-licencia-en-accidente-que-dejo-dos-muertos-y-un-herido/</link>
     <description><![CDATA[Carlos José Troche Rodríguez, conocido como “Nino Dólar”, conducía sin licencia durante un accidente en la avenida Abraham Lincoln que resultó en la muerte de Wilmer Ernesto Rodríguez Silverio y su hija Wilkaren Massiel Rodríguez Batista. Arianna Michelle Ciprián quedó gravemente herida.
@@ -1243,17 +1256,6 @@ Los Knicks se coronaron campeones tras vencer a los San Antonio Spurs 94-90 en e
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781456477/noticias/articles/20260614_170116_article.webp" type="image/webp"/>
     <pubDate>Sun, 14 Jun 2026 17:03:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260614170303</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Un superlativo Jalen Brunson pone fin a 53 años de sequía: Los New York Knicks, ¡Campeones de la NBA!]]></title>
-    <link>https://www.marca.com/baloncesto/nba/playoffs/2026/06/14/superlativo-jalen-brunson-pone-53-anos-sequia-new-york-knicks-campeones-nba.html</link>
-    <description><![CDATA[Los New York Knicks han ganado el campeonato de la NBA al derrotar a los San Antonio Spurs 90 a 94 en el quinto partido de las Finales. Jalen Brunson fue fundamental con 45 puntos, liderando una remontada después de estar 15 puntos abajo en el tercer cuarto.
-
-Este título marca el fin de una sequía de 53 años para los Knicks. La plantilla de Mike Brown se inscribe en la historia del club tras años de dificultades, incluyendo 24 años sin clasificar a la post temporada.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781408128/noticias/articles/20260614_033528_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 14 Jun 2026 03:35:57 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260614033557</guid>
   </item>
 </channel>
 </rss>
