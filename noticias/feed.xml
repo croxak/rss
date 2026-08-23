@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 23 Aug 2026 15:45:45 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 15:47:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Medio Ambiente controla incendio forestal en Valle Nuevo tras 36 horas de trabajo]]></title>
+    <link>https://cdn.com.do/nacionales/medio-ambiente-controla-incendio-forestal-en-valle-nuevo-tras-36-horas-de-trabajo/</link>
+    <description><![CDATA[El incendio forestal en el sector La Cueva del Parque Nacional Valle Nuevo ha sido controlado después de 36 horas de trabajo continuo por parte del Ministerio de Medio Ambiente y Recursos Naturales. 
+
+Las brigadas se enfocan ahora en las labores de liquidación y seguimiento para asegurar que no queden puntos activos. El parque permanecerá cerrado al público hasta que se garantice la seguridad en el área.
+
+El Ministerio destacó el esfuerzo de los bomberos forestales y todo el personal involucrado en controlar el incendio.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787499982/noticias/articles/20260823_154622_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 23 Aug 2026 15:47:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260823154704</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Embajada de China señala como intimidación tecnológica y difamación acusaciones de EE. UU.]]></title>
     <link>https://listindiario.com/la-republica/ciudad/20260823/embajada-china-pais-senala-intimidacion-tecnologica-difamacion-acusaciones-ee-uu_919218.html</link>
     <description><![CDATA[La Embajada de China en República Dominicana ha rechazado las acusaciones de Estados Unidos sobre riesgos de espionaje vinculados a empresas tecnológicas chinas como Huawei y ZTE. El embajador Chen Luning calificó estas afirmaciones como invenciones y tergiversaciones de la realidad.
@@ -1243,17 +1256,6 @@ El avión intentó regresar al aeropuerto, pero se precipitó a tierra. No habí
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780873444/noticias/articles/20260607_230404_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 07 Jun 2026 23:04:30 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260607230430</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Orlando Jorge Villegas conmemora cuatro años de la partida de su padre “Tus valores siguen multiplicándose”]]></title>
-    <link>https://robertocavada.com/orlando-jorge-villegas-conmemora-cuatro-anos-de-la-partida-de-su-padre-tus-valores-siguen-multiplicandose/</link>
-    <description><![CDATA[Orlando Jorge Villegas recordó a su padre, Orlando Jorge Mera, en el cuarto aniversario de su fallecimiento. A través de Instagram, expresó el vacío dejado por su ausencia y cómo sus valores y enseñanzas siguen presentes en la sociedad dominicana.
-
-Jorge Villegas agradeció la impronta de su padre, resaltando que su ejemplo continúa vivo en la comunidad. "Gracias papi por todo. Tu impronta, tus valores y tus enseñanzas siguen multiplicándose", concluyó.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780763485/noticias/articles/20260606_163125_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 06 Jun 2026 16:37:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260606163731</guid>
   </item>
 </channel>
 </rss>
