@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 23 Aug 2026 15:48:01 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 15:49:26 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Marileidy Paulino sigue imparable y gana Liga Diamante de Silesia]]></title>
+    <link>https://eldia.com.do/marileidy-paulino-sigue-imparable-y-gana-liga-diamante-en-polonia/</link>
+    <description><![CDATA[Marileidy Paulino se alzó con la victoria en la Liga Diamante de Silesia, Polonia, con un tiempo de 48.87 segundos. Este triunfo extiende su racha a cuatro victorias consecutivas en la Liga Diamante de este año.
+
+La jamaiquina Nicking Pryce logró su mejor marca de la temporada con 49.49 segundos, asegurando el segundo lugar, mientras que Salwa Eid Naser obtuvo el tercer puesto con 49.57 segundos.
+
+Paulino ha mantenido tiempos por debajo de los 49 segundos en todas sus competencias de este año, incluyendo victorias en Doha, París y Mónaco. Su objetivo es superar el récord mundial de 47.60 segundos de Marita Koch.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787500140/noticias/articles/20260823_154900_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 23 Aug 2026 15:49:26 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260823154926</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Intrant y Digesett activan medidas para agilizar tránsito en entornos escolares ante regreso a clases]]></title>
     <link>https://cdn.com.do/nacionales/intrant-y-digesett-activan-medidas-para-agilizar-transito-en-entornos-escolares-ante-regreso-a-clases/</link>
     <description><![CDATA[El Intrant y la Digesett han activado medidas para agilizar el tránsito en los entornos escolares con el inicio del año escolar 2026-2027. Las acciones se centran en los centros educativos con mayor congestión, incluyendo la canalización de carriles y la promoción de vehículos compartidos.
@@ -1237,25 +1250,6 @@ El regidor Roberto Ureña respaldó el reclamo del alcalde y pidió al president
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781027365/noticias/articles/20260609_174924_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 09 Jun 2026 17:50:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260609175000</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[A 20 años del asesinato de Vanessa Ramírez Faña, un crimen que marcó a toda una generación]]></title>
-    <link>https://eltestigo.com</link>
-    <description><![CDATA[Este 9 de junio se cumplen 20 años del asesinato de Vanessa Ramírez Faña, una joven estudiante de Medicina de apenas 18 años cuya muerte durante un asalto conmocionó a República Dominicana y se convirtió en uno de los casos criminales más impactantes de la época.
-
-Vanessa era estudiante de la Pontificia Universidad Católica Madre y Maestra (PUCMM), destacada por su excelencia académica, participación comunitaria y vocación de servicio. Quienes la conocieron la recuerdan como una joven brillante, comprometida con su formación y con una profunda sensibilidad humana.
-
-La noche del 9 de junio de 2006, fue atacada a tiros en la urbanización Cerro Hermoso, en Santiago, en un hecho que, según las investigaciones, tuvo como propósito despojarla de un teléfono celular. El crimen provocó indignación nacional y abrió un intenso debate sobre la creciente inseguridad ciudadana que afectaba al país.
-
-Las autoridades identificaron como responsables a Angelo Iván Ventura Herrera, conocido como "Cloret"; Amaury Germán Tavárez Peralta, alias "Medio Polvo"; Ricardo Alejandro Reyes Martínez, conocido como "Negro" o "La Tata"; y Francis de Jesús García.
-
-Tras un proceso judicial que captó la atención de la opinión pública, el Segundo Tribunal Colegiado del Distrito Judicial de Santiago emitió sentencia contra los implicados. Angelo Iván Ventura Herrera, señalado como la persona que disparó contra la joven, fue condenado a 30 años de prisión. Amaury Germán Tavárez Peralta y Ricardo Alejandro Reyes Martínez recibieron condenas de 20 años de cárcel cada uno por su participación en el hecho. Mientras, Francis de Jesús García fue sentenciado a cinco años de prisión por su vinculación con el caso.
-
-Dos décadas después, el nombre de Vanessa Ramírez Faña sigue siendo recordado como símbolo de una vida prometedora truncada por la violencia. Su muerte dejó una profunda huella en Santiago y en todo el país, convirtiéndose en un caso emblemático en la lucha contra la delincuencia y la impunidad.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781022206/noticias/articles/20260609_162325_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 09 Jun 2026 16:23:59 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260609162359</guid>
   </item>
 </channel>
 </rss>
