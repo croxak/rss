@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 23 Aug 2026 15:39:01 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 15:45:45 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Embajada de China señala como intimidación tecnológica y difamación acusaciones de EE. UU.]]></title>
+    <link>https://listindiario.com/la-republica/ciudad/20260823/embajada-china-pais-senala-intimidacion-tecnologica-difamacion-acusaciones-ee-uu_919218.html</link>
+    <description><![CDATA[La Embajada de China en República Dominicana ha rechazado las acusaciones de Estados Unidos sobre riesgos de espionaje vinculados a empresas tecnológicas chinas como Huawei y ZTE. El embajador Chen Luning calificó estas afirmaciones como invenciones y tergiversaciones de la realidad.
+
+Chen Luning expresó su insatisfacción y oposición, destacando que las empresas chinas cumplen con las leyes locales y contribuyen al desarrollo socioeconómico en América Latina y el Caribe. Instó a Estados Unidos a detener la manipulación política y respetar la soberanía de los Estados.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787499918/noticias/articles/20260823_154518_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 23 Aug 2026 15:45:45 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260823154545</guid>
+  </item>
+
+  <item>
     <title><![CDATA[EE. UU. advierte sobre riesgos de espionaje vinculados a empresas tecnológicas chinas]]></title>
     <link>https://listindiario.com/la-republica/20260822/embajada-estados-unidos-rd-advierte-sobre-riesgos-tecnologias-empresas-chinas_919201/amp.html</link>
     <description><![CDATA[La Embajada de Estados Unidos en República Dominicana ha emitido una advertencia sobre el uso de tecnologías de empresas chinas como Huawei, ZTE, Hikvision, Hytera, Dahua y DJI. Según la embajada, estas tecnologías están sujetas a los intereses del Gobierno de China, lo que podría generar riesgos de espionaje, ataques informáticos e interrupciones de las redes.
@@ -1243,17 +1254,6 @@ Jorge Villegas agradeció la impronta de su padre, resaltando que su ejemplo con
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780763485/noticias/articles/20260606_163125_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 06 Jun 2026 16:37:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260606163731</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fallece embajador Ricardo Tomás Polanco Reynoso; Mirex lamenta fallecimiento]]></title>
-    <link>https://elnuevodiario.com.do/muere-embajador-ricardo-tomas-polanco-reinoso-mirex-lamenta-fallecimiento/</link>
-    <description><![CDATA[Ricardo Tomás Polanco Reynoso, embajador dominicano en Guatemala, ha fallecido. El Ministerio de Relaciones Exteriores lamentó su muerte y expresó condolencias a sus seres queridos.
-
-Polanco Reynoso fue designado embajador mediante el Decreto 2-25 y antes fue diputado al Parlacen.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1780677878/noticias/articles/20260605_164438_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 05 Jun 2026 16:48:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260605164840</guid>
   </item>
 </channel>
 </rss>
