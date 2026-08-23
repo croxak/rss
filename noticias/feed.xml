@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 23 Aug 2026 15:49:26 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 23 Aug 2026 15:58:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[«Leñita me pagó»: Caso Los Alcarrizos involucra a un regidor de DxC]]></title>
+    <link>https://www.quepolitica.com/2026/08/lenita-pago-caso-alcarrizos-involucra-regidor-dxc.html?m=1</link>
+    <description><![CDATA[José Enrique Corniel Jerez, conocido como «Iker el Rabioso», se entregó a la Policía Nacional y acusó al regidor Luis Antonio («Leñita») de pagar 50 mil pesos para el asesinato de José Frank Valerio.
+
+Corniel Jerez, señalado como el presunto tirador, afirmó que el contacto fue mediante «Capullo», quien le entregó parte del dinero. Valerio, líder comunitario y dirigente de DxC, fue atacado en Hato Nuevo, Los Alcarrizos.
+
+Corniel Jerez está bajo custodia y será presentado al Ministerio Público mientras continúan las investigaciones.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787500672/noticias/articles/20260823_155752_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 23 Aug 2026 15:58:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260823155834</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Marileidy Paulino sigue imparable y gana Liga Diamante de Silesia]]></title>
     <link>https://eldia.com.do/marileidy-paulino-sigue-imparable-y-gana-liga-diamante-en-polonia/</link>
     <description><![CDATA[Marileidy Paulino se alzó con la victoria en la Liga Diamante de Silesia, Polonia, con un tiempo de 48.87 segundos. Este triunfo extiende su racha a cuatro victorias consecutivas en la Liga Diamante de este año.
@@ -1237,19 +1250,6 @@ Héctor José Rizek, coleccionista, destaca la importancia de compartir historia
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781185840/noticias/articles/20260611_135040_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 11 Jun 2026 13:51:07 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260611135107</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Alcalde pide al presidente Abinader intervención urgente del vertedero de Jarabacoa]]></title>
-    <link>https://elnuevodiario.com.do/alcalde-pide-al-presidente-abinader-intervencion-urgente-del-vertedero-de-jarabacoa/</link>
-    <description><![CDATA[El alcalde de Jarabacoa, Joselito Abreu Pichardo, ha solicitado al presidente Luis Abinader que intervenga de manera urgente en la crisis ambiental del vertedero municipal, afectado por un incendio desde hace un año y siete meses. La situación ha sobrepasado la capacidad del ayuntamiento, afectando la salud de la población y el turismo.
-
-Abreu denunció la falta de respuestas de las instituciones responsables y señaló al Ministerio de Medio Ambiente por no avanzar en la solución. El alcalde advirtió que el gobierno local podría dejar de asumir la responsabilidad si no recibe apoyo del Gobierno central.
-
-El regidor Roberto Ureña respaldó el reclamo del alcalde y pidió al presidente Abinader tomar medidas contra el ministro de Medio Ambiente, Paíno Henríquez, por la falta de intervención en el vertedero. Ureña recordó que el Concejo de Regidores declaró el vertedero en estado de emergencia y que se han realizado múltiples gestiones sin resultados.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781027365/noticias/articles/20260609_174924_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 09 Jun 2026 17:50:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260609175000</guid>
   </item>
 </channel>
 </rss>
