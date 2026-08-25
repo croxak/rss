@@ -7,9 +7,21 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 22 Aug 2026 20:40:34 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 25 Aug 2026 18:20:45 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Derrumbe afecta carretera Jarabacoa–La Vega y genera riesgo para conductores]]></title>
+    <link>https://n.com.do/2026/08/25/derrumbe-afecta-carretera-jarabacoa-la-vega-y-genera-riesgo-para-conductores/</link>
+    <description><![CDATA[Un derrumbe en la carretera Federico Basilis, que une Jarabacoa con La Vega, ha causado la caída de rocas y materiales sobre la vía, afectando a vehículos y generando preocupación entre conductores y residentes.
+
+Ciudadanos han solicitado la intervención del Ministerio de Obras Públicas y Comunicaciones y otras instituciones para retirar los escombros y reforzar la seguridad en la zona.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787682017/autonoticias/articles/20260825_182016_article.png" type="image/png"/>
+    <pubDate>Tue, 25 Aug 2026 18:20:45 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260825182045</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Incautan 84 libras de presunta marihuana ocultas en una camioneta en Azua]]></title>
     <link>https://n.com.do/2026/08/22/incautan-84-libras-de-presunta-marihuana-ocultas-en-una-camioneta-en-azua/</link>
     <description><![CDATA[En un operativo en Azua, el Ejército de la República Dominicana y la Dirección Nacional de Control de Drogas incautaron 84 libras de presunta marihuana. La droga estaba oculta en un compartimento de una camioneta.
@@ -1303,18 +1315,6 @@ Esta es la primera misión internacional de un Equipo Médico de Emergencias Tip
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783976813/autonoticias/articles/20260713_210652_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 13 Jul 2026 21:07:27 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260713210727</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader niega persecución política contra Gonzalo; abogados del Estado trabajan en coordinación con el MP]]></title>
-    <link>https://elnuevodiario.com.do/abinader-niega-persecucion-politica-contra-gonzalo-abogados-del-estado-trabajan-en-coordinacion-con-el-mp/</link>
-    <description><![CDATA[El presidente Luis Abinader aseguró que el Equipo de Recuperación del Patrimonio Público (ERPP) opera de manera independiente en los procesos judiciales y no recibe instrucciones del Poder Ejecutivo. Este equipo trabaja junto al Ministerio Público para recuperar bienes del Estado en casos de presunta corrupción.
-
-Las declaraciones de Abinader surgen luego de que el ERPP apelara una decisión judicial que favoreció a Gonzalo Castillo y José Ramón Peralta. El presidente defendió la independencia del Ministerio Público y rechazó las acusaciones de persecución política.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783913226/autonoticias/articles/20260713_032706_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 13 Jul 2026 03:27:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260713032734</guid>
   </item>
 </channel>
 </rss>
