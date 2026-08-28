@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 28 Aug 2026 17:31:43 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 28 Aug 2026 17:35:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[El director de la Policía anuncia cambios en áreas operativas, investigativas y administrativas]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/08/28/nuevas-designaciones-en-la-policia-nacional/3642305</link>
+    <description><![CDATA[El director general de la Policía Nacional, mayor general Ernesto Rodríguez García, ha dispuesto nuevas designaciones de oficiales superiores y subalternos en diversas áreas de la institución. Los cambios, realizados los días 26 y 27 de agosto, abarcan departamentos operativos, supervisiones territoriales y áreas especializadas como Investigaciones de Asuntos Internos, Policía Cibernética, y más.
+
+Entre las principales designaciones se encuentran el coronel Zauris Belliard Vargas en Villa Mella, el coronel Luis Nazario Ferreras Herasme en Las Terrenas, y el coronel Silvano Ubri Rosario en Samaná. La Policía Nacional busca fortalecer el liderazgo territorial y mejorar la supervisión operativa.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787938480/noticias/articles/20260828_173439_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 28 Aug 2026 17:35:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260828173509</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Comandante de la Armada aclara que no es matrícula dominicana el buque hundido en el mar Negro]]></title>
     <link>https://listindiario.com/la-republica/20260828/comandante-armada-aclara-matricula-buque-hundido-mar-negro_919975.html</link>
     <description><![CDATA[El vicealmirante Juan Bienvenido Crisóstomo Martínez, comandante general de la Armada de República Dominicana, aclaró que el buque hundido en el mar Negro no es de matrícula dominicana. Esta declaración responde a una publicación de la agencia EFE que indicaba lo contrario.
@@ -1243,17 +1254,6 @@ El evento coincidió con el 80 cumpleaños de Donald Trump, quien estuvo present
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781501688/noticias/articles/20260615_053447_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 15 Jun 2026 05:35:29 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260615053529</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Mueren el youtuber Gaspi y el cantante Oliver Tree en un choque de helicóptero en Brasil]]></title>
-    <link>https://amp.elmundo.es/loc/celebrities/2026/06/14/6a2f1b29e4d4d8a5488b4576.html</link>
-    <description><![CDATA[El youtuber Gaspar Prim, conocido como Gaspi, y el cantante Oliver Tree murieron en un accidente de helicóptero en Brasil. La colisión ocurrió al sur de Rio de Janeiro, resultando en seis fallecidos. Los helicópteros cayeron sobre un concesionario de coches eléctricos, provocando un incendio que afectó al menos 20 vehículos.
-
-Gaspi, de 23 años, era conocido por su contenido humorístico en YouTube, mientras que Oliver Tree, de 32 años, era un cantante de pop alternativo con éxitos como "Life Goes On". Ambos viajaban en uno de los helicópteros junto a un productor musical brasileño y un cineasta argentino.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781476769/noticias/articles/20260614_223929_article.webp" type="image/webp"/>
-    <pubDate>Sun, 14 Jun 2026 22:40:46 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260614224046</guid>
   </item>
 </channel>
 </rss>
