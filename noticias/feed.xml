@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 28 Aug 2026 17:35:09 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 29 Aug 2026 01:49:48 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Trump asegura haber alcanzado con Venezuela el "mayor acuerdo de petróleo de la historia"]]></title>
+    <link>https://eldia.com.do/trump-asegura-haber-alcanzado-con-venezuela-el-mayor-acuerdo-de-petroleo-de-la-historia/</link>
+    <description><![CDATA[Donald Trump anunció un acuerdo con Venezuela que otorgaría a Estados Unidos el control mayoritario sobre más de 65.000 millones de barriles de reservas probadas de petróleo venezolano. Trump lo calificó como "el mayor acuerdo petrolero de la historia".
+
+El acuerdo fue negociado por el secretario de Estado, Marco Rubio, y el secretario de Guerra, Pete Hegseth, junto con la presidenta interina venezolana, Delcy Rodríguez, y empresas privadas. Trump afirmó que la operación duplicará las reservas petroleras estadounidenses y reducirá el precio de la gasolina a largo plazo.
+
+No se han precisado detalles del acuerdo ni ha habido confirmación del gobierno venezolano.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787968162/noticias/articles/20260829_014921_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 29 Aug 2026 01:49:48 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260829014948</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El director de la Policía anuncia cambios en áreas operativas, investigativas y administrativas]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/08/28/nuevas-designaciones-en-la-policia-nacional/3642305</link>
     <description><![CDATA[El director general de la Policía Nacional, mayor general Ernesto Rodríguez García, ha dispuesto nuevas designaciones de oficiales superiores y subalternos en diversas áreas de la institución. Los cambios, realizados los días 26 y 27 de agosto, abarcan departamentos operativos, supervisiones territoriales y áreas especializadas como Investigaciones de Asuntos Internos, Policía Cibernética, y más.
@@ -1243,17 +1256,6 @@ El magistrado dispuso que Antonio y Maribel Espaillat respondan en un juicio de 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781536035/noticias/articles/20260615_150715_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 15 Jun 2026 15:07:46 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260615150746</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ilia Topuria pierde el título de la UFC tras caer derrotado ante Justin Gaethje en la Casa Blanca]]></title>
-    <link>https://www.cope.es/programas/tiempo-de-juego/noticias/ilia-topuria-pierde-titulo-ufc-caer-derrotado-justin-gaethje-casa-blanca-20260615_3383709.amp.html</link>
-    <description><![CDATA[Ilia Topuria perdió su título de campeón del peso ligero de la UFC tras ser derrotado por Justin Gaethje en un combate celebrado en la Casa Blanca. Topuria terminó con la cara ensangrentada y perdió su condición de invicto.
-
-El evento coincidió con el 80 cumpleaños de Donald Trump, quien estuvo presente junto a la primera dama, Melania. La pelea fue parte de las conmemoraciones por el 250 aniversario de la independencia de Estados Unidos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781501688/noticias/articles/20260615_053447_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 15 Jun 2026 05:35:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260615053529</guid>
   </item>
 </channel>
 </rss>
