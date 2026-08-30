@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 30 Aug 2026 14:21:25 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 30 Aug 2026 14:24:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Abinader y presidente de Honduras recorren Base Aérea de San Isidro y observan ensamblaje del avión TS-7 Dulus]]></title>
+    <link>https://cdn.com.do/nacionales/abinader-y-presidente-de-honduras-visitan-base-aerea/</link>
+    <description><![CDATA[El presidente Luis Abinader y su homólogo de Honduras, Nasry Asfura Zablah, visitaron la Base Aérea de San Isidro para observar el ensamblaje del avión TS-7 Dulus. Durante el recorrido, recibieron información sobre los vehículos Furia blindados, diseñados por la Industria Militar Dominicana.
+
+Como recuerdo de la visita, Abinader entregó a Asfura Zablah una réplica del primer avión militar ensamblado en República Dominicana. Luego, ambos mandatarios se dirigieron a Dajabón para conocer la infraestructura del muro fronterizo.
+
+El presidente de Honduras llegó al país por el Aeropuerto Internacional de las Américas, acompañado de la canciller Mireya Agüero, y fue recibido por autoridades dominicanas.
+
+El domingo 30 de agosto, Abinader y Asfura Zablah tendrán una agenda en el Palacio Nacional que incluye una audiencia, un almuerzo, la firma de instrumentos y una ofrenda floral en el Altar de la Patria.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788099848/noticias/articles/20260830_142408_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 30 Aug 2026 14:24:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260830142433</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Desmantelan fábrica de bebida alcohólica premium adulterada en Doña Ana, San Cristóbal]]></title>
     <link>https://listindiario.com/la-republica/20260830/desmantelan-estructura-dedicada-fabricacion-distribucion-clandestina-bebidas-alcoholicas_920187.html</link>
     <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes desmanteló una fábrica de bebidas alcohólicas premium adulteradas en Doña Ana, San Cristóbal. Se incautaron 25,496 mercancías ilícitas valoradas en RD$5,977,358.00.
@@ -1247,17 +1262,6 @@ Un recurso de inconstitucionalidad sobre la omisión de la indexación será con
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781574106/noticias/articles/20260616_014145_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 16 Jun 2026 01:42:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260616014219</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Juez descarta el dolo eventual en el caso Jet Set]]></title>
-    <link>https://eltestigo.com</link>
-    <description><![CDATA[El juez Raymundo Mejía descartó la petición de cambio de tipo penal que hicieron abogados de víctimas en el caso Jet Set.
-
-"No hay dolo eventual en un derrumbe donde una de las imputadas estuvo dentro del centro y no se puede equiparar a la conducta de alguien que dispara en un lugar", dijo el magistrado.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781536242/noticias/articles/20260615_151042_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 15 Jun 2026 15:11:10 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260615151110</guid>
   </item>
 </channel>
 </rss>
