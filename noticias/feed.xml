@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 29 Aug 2026 01:49:48 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 30 Aug 2026 14:21:25 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Desmantelan fábrica de bebida alcohólica premium adulterada en Doña Ana, San Cristóbal]]></title>
+    <link>https://listindiario.com/la-republica/20260830/desmantelan-estructura-dedicada-fabricacion-distribucion-clandestina-bebidas-alcoholicas_920187.html</link>
+    <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes desmanteló una fábrica de bebidas alcohólicas premium adulteradas en Doña Ana, San Cristóbal. Se incautaron 25,496 mercancías ilícitas valoradas en RD$5,977,358.00.
+
+La operación se realizó en una edificación de tres niveles tras labores de inteligencia iniciadas en abril. Se decomisaron 4,780 botellas de licor premium, 75 galones de alcohol puro, 27 garrafones de 5 galones, 1,363 botellas de 700 mililitros, tres galones de melaza, 19,536 artículos ilícitos diversos, 1,542 botellas vacías, tapas, etiquetas falsas, precintos fiscales y herramientas de impresión.
+
+Las autoridades destacaron que estas actividades violan la Ley General de Salud y la Ley sobre Comercio Ilícito, Contrabando y Falsificación.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788099660/noticias/articles/20260830_142100_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 30 Aug 2026 14:21:25 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260830142125</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Trump asegura haber alcanzado con Venezuela el "mayor acuerdo de petróleo de la historia"]]></title>
     <link>https://eldia.com.do/trump-asegura-haber-alcanzado-con-venezuela-el-mayor-acuerdo-de-petroleo-de-la-historia/</link>
     <description><![CDATA[Donald Trump anunció un acuerdo con Venezuela que otorgaría a Estados Unidos el control mayoritario sobre más de 65.000 millones de barriles de reservas probadas de petróleo venezolano. Trump lo calificó como "el mayor acuerdo petrolero de la historia".
@@ -1245,17 +1258,6 @@ Un recurso de inconstitucionalidad sobre la omisión de la indexación será con
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781536242/noticias/articles/20260615_151042_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 15 Jun 2026 15:11:10 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260615151110</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Caso Jet Set: Antonio y Maribel Espaillat irán a juicio de fondo por homicidio involuntario]]></title>
-    <link>https://eltestigo.com</link>
-    <description><![CDATA[El juez Raymundo Mejía, del Primer Juzgado de la Instrucción del Distrito Nacional, dictó hoy auto de apertura a juicio en contra de los hermanos Espaillat, acusados del colapso del techo de la discoteca Jet Set. 
-
-El magistrado dispuso que Antonio y Maribel Espaillat respondan en un juicio de fondo por los hechos que se le imputan de homicidio involuntario de 236 personas y de más de 80 heridos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781536035/noticias/articles/20260615_150715_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 15 Jun 2026 15:07:46 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260615150746</guid>
   </item>
 </channel>
 </rss>
