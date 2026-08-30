@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 30 Aug 2026 14:24:33 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 30 Aug 2026 14:25:43 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[República Dominicana denegó el ingreso a 116 extranjeros en julio]]></title>
+    <link>https://www.elcaribe.com.do/panorama/pais/republica-dominicana-denego-el-ingreso-a-116-extranjeros-en-julio/</link>
+    <description><![CDATA[En julio, la Dirección General de Migración de República Dominicana denegó la entrada a 116 extranjeros. Los principales motivos incluyeron perfiles de riesgo para la seguridad nacional y pasaportes deteriorados.
+
+Además, 817 dominicanos retornaron al país, con 303 deportados y 300 retornos voluntarios. La mayoría de los deportados procedían de Estados Unidos y Puerto Rico.
+
+La DGM ha reforzado los controles migratorios en las terminales con mayor volumen de pasajeros.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788099919/noticias/articles/20260830_142519_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 30 Aug 2026 14:25:43 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260830142543</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader y presidente de Honduras recorren Base Aérea de San Isidro y observan ensamblaje del avión TS-7 Dulus]]></title>
     <link>https://cdn.com.do/nacionales/abinader-y-presidente-de-honduras-visitan-base-aerea/</link>
     <description><![CDATA[El presidente Luis Abinader y su homólogo de Honduras, Nasry Asfura Zablah, visitaron la Base Aérea de San Isidro para observar el ensamblaje del avión TS-7 Dulus. Durante el recorrido, recibieron información sobre los vehículos Furia blindados, diseñados por la Industria Militar Dominicana.
@@ -1249,19 +1262,6 @@ El senador también pidió a sus compañeros que no atribuyan las renuncias a la
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781656213/noticias/articles/20260617_003012_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 17 Jun 2026 00:30:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260617003040</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Omar Fernández sobre indexación salarial: "La ley habla de RD$52 mil, no menos"]]></title>
-    <link>https://elatlantico.do/index.php/2026/06/15/omar-fernandez-sobre-indexacion-salarial-la-ley-habla-de-rd52-mil-no-menos/#google_vignette</link>
-    <description><![CDATA[El senador Omar Fernández defiende que la indexación del impuesto a los salarios se ajuste a RD$52,000, conforme al código tributario. Señala que una modificación menor sería violar la ley.
-
-Fernández ejemplifica que un asalariado con RD$50,000 mensuales seguiría pagando RD$18,000 en impuestos, y uno con RD$75,000 dejaría RD$32,000 al año al Estado.
-
-Un recurso de inconstitucionalidad sobre la omisión de la indexación será conocido por el Tribunal Constitucional el 17 de junio.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781574106/noticias/articles/20260616_014145_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 16 Jun 2026 01:42:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260616014219</guid>
   </item>
 </channel>
 </rss>
