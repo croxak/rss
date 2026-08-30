@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 30 Aug 2026 14:25:43 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 30 Aug 2026 14:32:12 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Nicolás Maduro envía desde la prisión “un regalo de amor” con símbolo de paz]]></title>
+    <link>https://m.n.com.do/2026/08/30/nicolas-maduro-publica-mensaje-de-esperanza/</link>
+    <description><![CDATA[Nicolás Maduro Guerra publicó un mensaje de su padre, el expresidente de Venezuela Nicolás Maduro, titulado “Pequeño regalo de amor y esperanza”. El mensaje, acompañado de fotos, está dirigido a sus nietos, niños y seguidores, agradeciendo su apoyo y expresando esperanza.
+
+El mensaje incluye una cita bíblica y palabras de aliento sobre el futuro de Venezuela, destacando la fe en Dios y la esperanza de un renacer del país.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788100306/noticias/articles/20260830_143145_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 30 Aug 2026 14:32:12 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260830143212</guid>
+  </item>
+
+  <item>
     <title><![CDATA[República Dominicana denegó el ingreso a 116 extranjeros en julio]]></title>
     <link>https://www.elcaribe.com.do/panorama/pais/republica-dominicana-denego-el-ingreso-a-116-extranjeros-en-julio/</link>
     <description><![CDATA[En julio, la Dirección General de Migración de República Dominicana denegó la entrada a 116 extranjeros. Los principales motivos incluyeron perfiles de riesgo para la seguridad nacional y pasaportes deteriorados.
@@ -1249,19 +1260,6 @@ Al ser cuestionado sobre sus aspiraciones presidenciales para 2028, Fernández c
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781704899/noticias/articles/20260617_140133_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 17 Jun 2026 14:02:27 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260617140227</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Omar Fernández: renuncias en la FP no son normales y exige revisión interna]]></title>
-    <link>https://elnacional.com.do/politica/omar-fernandez-renuncias-fp-son-normales-exigen-revision-interna_573529.html</link>
-    <description><![CDATA[Omar Fernández, senador del Distrito Nacional y dirigente de la Fuerza del Pueblo, ha llamado a la dirigencia del partido a realizar un ejercicio de introspección tras las recientes renuncias de algunos de sus miembros.
-
-Fernández considera que estas renuncias no son normales y que es necesario que el partido analice internamente la situación. Destacó que la FP tiene una alta vocación de poder y serias posibilidades de ganar en la próxima contienda.
-
-El senador también pidió a sus compañeros que no atribuyan las renuncias a la compra de voluntades, señalando que muchas personas se van por dignidad.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781656213/noticias/articles/20260617_003012_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 17 Jun 2026 00:30:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260617003040</guid>
   </item>
 </channel>
 </rss>
