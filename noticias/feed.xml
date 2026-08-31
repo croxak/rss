@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 31 Aug 2026 16:06:13 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 31 Aug 2026 23:27:59 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Panam adquiere planta de Cementos Fortaleza en El Salvador]]></title>
+    <link>https://elnuevodiario.com.do/panam-adquiere-planta-de-cementos-fortaleza-en-el-salvador/</link>
+    <description><![CDATA[Cemento Panam, parte del Grupo Estrella, ha adquirido la planta de Cementos Fortaleza en Acajutla, El Salvador, con una capacidad de producción de 350,000 toneladas de cemento al año. Esta operación amplía la presencia de la empresa a tres países, junto a República Dominicana y Panamá.
+
+La adquisición cuenta con el respaldo financiero de Bladex, BAC y Global Bank. Giuseppe Maniscalco, presidente de la División Industrial de Estrella, destacó que esta operación permitirá continuar la expansión regional desde República Dominicana.
+
+El Grupo Estrella tiene presencia en 16 países de Centroamérica y el Caribe, desarrollando actividades en construcción, desarrollo inmobiliario, prefabricados de hormigón, acero y materiales de construcción.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788218850/noticias/articles/20260831_232730_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 31 Aug 2026 23:27:59 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260831232759</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Lionel Messi se retira de la selección argentina: "Me vacié, ya no tengo más para dar"]]></title>
     <link>https://es-us.noticias.yahoo.com/deportes/lionel-messi-retira-selección-argentina-153900790.html</link>
     <description><![CDATA[Lionel Messi anunció su retiro de la selección argentina a los 39 años. En un mensaje en Instagram, explicó que se siente "vaciado" y que es momento de dar paso a nuevos talentos. Messi, máximo goleador de la selección, expresó su orgullo por los logros alcanzados, incluyendo el Mundial de Catar 2022 y dos Copas América.
@@ -1247,17 +1260,6 @@ Castillo enfatizó que la República Dominicana necesita liderazgo y dirección,
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782064612/noticias/articles/20260621_175652_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 21 Jun 2026 17:57:26 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260621175726</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Orlando Jorge Villegas agradece a diputados designar con el nombre de Salvador Jorge Blanco Circunvalación Norte de Santiago]]></title>
-    <link>https://elavancemedia.com/orlando-jorge-villegas-agradece-a-diputados-designar-con-el-nombre-de-salvador-jorge-blanco-circunvalacion-norte-de-santiago/</link>
-    <description><![CDATA[Orlando Jorge Villegas expresó su agradecimiento a la Cámara de Diputados por aprobar el proyecto de ley que nombra la avenida Circunvalación Norte de Santiago en honor a su abuelo, Salvador Jorge Blanco. Destacó la iniciativa del diputado Luis Castillo Ogando y el apoyo del presidente de la Cámara Baja, Alfredo Pacheco.
-
-Salvador Jorge Blanco tuvo una destacada trayectoria como abogado, escritor, político, procurador general de la República, senador y presidente de la República durante el período 1982-1986. Nació en Santiago de los Caballeros el 5 de julio de 1926 y falleció en Santo Domingo el 26 de diciembre de 2010.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781877575/noticias/articles/20260619_135935_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 19 Jun 2026 13:59:53 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260619135953</guid>
   </item>
 </channel>
 </rss>
