@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 31 Aug 2026 23:27:59 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 31 Aug 2026 23:46:30 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[RD Vial desembolsa más de RD$16,000 millones en 2026 para financiar proyectos de Obras Públicas]]></title>
+    <link>https://elnuevodiario.com.do/rd-vial-desembolsa-mas-de-rd16000-millones-en-2026-para-financiar-proyectos-de-obras-publicas/</link>
+    <description><![CDATA[El Fideicomiso RD Vial ha desembolsado más de RD$16,000 millones en 2026 para proyectos del Ministerio de Obras Públicas, financiando nuevas infraestructuras y mantenimiento de la red vial nacional. Desde 2021, se han desembolsado más de RD$70,000 millones.
+
+Más de 3,500 kilómetros de carreteras reciben mantenimiento, con un nuevo modelo de contratos que asigna responsabilidades específicas para cada tramo.
+
+RD Vial trabaja en la iluminación de carreteras, con 10,000 lámparas instaladas y 250 kilómetros iluminados. La meta es alcanzar 500 kilómetros iluminados para 2026.
+
+El sistema de peajes avanza hacia el cobro electrónico, con el primer pórtico instalado en Las Américas. Se planea un modelo híbrido con carriles expresos y pagos tradicionales.
+
+Se han incorporado más de 300 unidades para asistencia vial, operando las 24 horas con el número 511.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788219957/noticias/articles/20260831_234557_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 31 Aug 2026 23:46:30 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260831234630</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Panam adquiere planta de Cementos Fortaleza en El Salvador]]></title>
     <link>https://elnuevodiario.com.do/panam-adquiere-planta-de-cementos-fortaleza-en-el-salvador/</link>
     <description><![CDATA[Cemento Panam, parte del Grupo Estrella, ha adquirido la planta de Cementos Fortaleza en Acajutla, El Salvador, con una capacidad de producción de 350,000 toneladas de cemento al año. Esta operación amplía la presencia de la empresa a tres países, junto a República Dominicana y Panamá.
@@ -1247,19 +1264,6 @@ Durante la actividad, los asistentes corearon la consigna “Gonzalo, vamos con 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782064768/noticias/articles/20260621_175927_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 21 Jun 2026 17:59:53 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260621175953</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gonzalo Castillo afirma estar listo para buscar la presidencia en 2028]]></title>
-    <link>https://robertocavada.com/gonzalo-castillo-afirma-estar-listo-para-buscar-la-presidencia-en-2028/</link>
-    <description><![CDATA[Gonzalo Castillo, dirigente del Partido de la Liberación Dominicana, anunció su intención de aspirar a la presidencia en 2028. Durante un acto con miembros del PLD, Castillo afirmó estar listo para servir y trabajar por el país.
-
-En su discurso, Castillo destacó la necesidad de resultados concretos en seguridad ciudadana, economía y oportunidades para la población. También abordó temas como el narcotráfico, la migración haitiana y la relación con Estados Unidos.
-
-Castillo enfatizó que la República Dominicana necesita liderazgo y dirección, asegurando que el país cuenta con los recursos para avanzar.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782064612/noticias/articles/20260621_175652_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 21 Jun 2026 17:57:26 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260621175726</guid>
   </item>
 </channel>
 </rss>
