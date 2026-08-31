@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 30 Aug 2026 14:33:58 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 31 Aug 2026 16:06:13 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Lionel Messi se retira de la selección argentina: "Me vacié, ya no tengo más para dar"]]></title>
+    <link>https://es-us.noticias.yahoo.com/deportes/lionel-messi-retira-selección-argentina-153900790.html</link>
+    <description><![CDATA[Lionel Messi anunció su retiro de la selección argentina a los 39 años. En un mensaje en Instagram, explicó que se siente "vaciado" y que es momento de dar paso a nuevos talentos. Messi, máximo goleador de la selección, expresó su orgullo por los logros alcanzados, incluyendo el Mundial de Catar 2022 y dos Copas América.
+
+El astro agradeció a los argentinos por el apoyo durante sus 20 años con la selección y destacó que siempre dio todo por la camiseta. La decisión fue influenciada por la reciente muerte de su padre. Messi deja la selección con 125 goles y 68 asistencias en más de 200 partidos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788192338/noticias/articles/20260831_160538_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 31 Aug 2026 16:06:13 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260831160613</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Juan Manuel Méndez, mi hijo oró: “Dios mío, que a mi papá no se le dañe su imagen al aceptar el Intrant”]]></title>
     <link>https://m.n.com.do/2026/08/30/juan-manuel-mendez-mi-hijo-oro-a-dios-diciendole-dios-mio-que-a-mi-papa-no-se-le-dane-su-imagen-al-aceptar-el-puesto-en-el-intrant/</link>
     <description><![CDATA[Juan Manuel Méndez García, al asumir como director del Intrant, reveló que su hijo de ocho años oró para que su imagen no se viera afectada en su nuevo cargo. Méndez aseguró que trabajará para enfrentar los retos del tránsito.
@@ -1247,19 +1258,6 @@ Salvador Jorge Blanco tuvo una destacada trayectoria como abogado, escritor, pol
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781877575/noticias/articles/20260619_135935_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 19 Jun 2026 13:59:53 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260619135953</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Camacho sobre Senasa: Este caso es tan grande que no estamos convencidos que un 2.0 sea suficiente]]></title>
-    <link>https://listindiario.com/la-republica/20260617/camacho-sobre-senasa-caso-grande-convencidos-2-0-sea-suficiente_910149.html</link>
-    <description><![CDATA[Wilson Camacho, director de persecución del Ministerio Público, afirmó que el caso de corrupción en el Seguro Nacional de Salud (Senasa) es tan grande que un 2.0 podría no ser suficiente para abarcar a todos los involucrados. El caso afecta a tres estructuras lideradas por Santiago Hazim, Ángel Luis Guzmán Vásquez y el Oncológico de Santiago.
-
-En diciembre, se dispuso prisión preventiva contra Santiago Hazim y otros implicados. Ángel Luis Guzmán Vásquez también recibió 18 meses de prisión preventiva por su vinculación con la red de corrupción que sustrajo miles de millones de pesos del Estado dominicano.
-
-Este mes, el Ministerio Público solicitó prisión preventiva contra Héctor Antonio Lora Cruceta, Luisa Yasiris Guzmán y Dilcia Isabel Vargas Sánchez por supuestamente sustraer fondos millonarios del Seguro Nacional de Salud.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1781705574/noticias/articles/20260617_141254_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 17 Jun 2026 14:13:26 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260617141326</guid>
   </item>
 </channel>
 </rss>
