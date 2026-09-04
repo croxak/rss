@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 02 Sep 2026 00:38:30 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 04 Sep 2026 02:25:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Corte confirma embargo por RD$500 millones contra hermanos Espaillat por caso Jet Set]]></title>
+    <link>https://listindiario.com/jetset/20260903/corte-confirma-embargo-rd-500-millones-hermanos-espaillat-caso-jet-set_920873.html</link>
+    <description><![CDATA[La Corte de Apelación del Distrito Nacional ha confirmado un embargo por RD$500 millones contra Antonio y Maribel Espaillat, vinculados al colapso del techo de la discoteca Jet Set, que dejó 236 muertos y más de 80 heridos.
+
+El tribunal rechazó el recurso de apelación de los hermanos Espaillat, señalando que las medidas de coerción real son cautelares y no constituyen una condena anticipada. También desestimó el argumento sobre la multiplicación de embargos debido a la pluralidad de víctimas.
+
+Fuente: Listín Diario - Ramón Cruz Benzan]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788488666/noticias/articles/20260904_022425_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 04 Sep 2026 02:25:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260904022534</guid>
+  </item>
+
+  <item>
     <title><![CDATA[MP pide prisión por caso de menores maltratados en fundación de Haina; audiencia será el miércoles]]></title>
     <link>https://elnuevodiario.com.do/mp-pide-prision-por-caso-de-menores-maltratados-en-fundacion-de-haina-audiencia-sera-el-miercoles/</link>
     <description><![CDATA[El Ministerio Público ha solicitado prisión preventiva para dos hombres acusados de maltratar a menores en la Fundación Restaurando Vida en Bajos de Haina. La audiencia está programada para el jueves 3 de septiembre.
@@ -1259,17 +1272,6 @@ Rosa Yanina Torres Tamares, quien había sido designada previamente para el carg
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782430256/noticias/articles/20260625_233056_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 25 Jun 2026 23:31:24 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260625233124</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Lanzan Salo, nueva aplicación de finanzas personales para administrar tu dinero]]></title>
-    <link>https://eltestigo.com/lanzan-salo-nueva-aplicacion-de-finanzas-personales-para-administrar-tu-dinero</link>
-    <description><![CDATA[R.D.Portes & Co. ha presentado Salo, una nueva aplicación de finanzas personales diseñada para ayudar a los usuarios a gestionar su dinero de manera simple y privada. Disponible para iPhone, Salo permite registrar gastos e ingresos, organizar el dinero en billeteras y establecer metas de ahorro.
-
-La aplicación ofrece una versión gratuita con funciones esenciales y una versión Premium que desbloquea características avanzadas. Salo está disponible en la App Store y más información se puede encontrar en salo.do.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782406856/noticias/articles/20260625_170056_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 25 Jun 2026 17:01:27 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260625170127</guid>
   </item>
 </channel>
 </rss>
