@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 05 Sep 2026 00:55:40 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 19:01:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Siete detenidos durante operativo contra extracción ilegal de oro en Monte Plata]]></title>
+    <link>https://ntelemicro.com/siete-detenidos-durante-operativo-contra-extraccion-ilegal-de-oro-en-monte-plata/</link>
+    <description><![CDATA[Siete personas fueron detenidas en un operativo contra la extracción ilegal de oro en el Área Protegida Loma 7 Picos, Yamasá, Monte Plata. La acción fue llevada a cabo por el SENPA y el Ministerio de Medio Ambiente.
+
+Durante el operativo se ocuparon herramientas utilizadas para la extracción de oro y un arma de fabricación casera. Los detenidos fueron trasladados al destacamento de la Policía Nacional para los fines legales correspondientes.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788721247/noticias/articles/20260906_190046_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 06 Sep 2026 19:01:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260906190115</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Edwin Encarnación también se habría querellado contra Gabriel Martínez por supuesto intento de homicidio; acusación es mutua]]></title>
     <link>https://elnuevodiario.com.do/edwin-encarnacion-se-querella-contra-kelvin-martinez-por-supuesto-intento-de-homicidio-acusacion-es-mutua/</link>
     <description><![CDATA[Edwin Encarnación, exjugador de Grandes Ligas, se querelló contra Gabriel Martínez por supuesto intento de homicidio tras un incidente en Casa de Campo, La Romana. Martínez también presentó una denuncia similar contra Encarnación.
@@ -1263,17 +1274,6 @@ Con estos arrestos, ya son siete las personas detenidas en relación con este ca
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783186428/noticias/articles/20260704_173347_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 04 Jul 2026 17:34:24 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260704173424</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno autoriza proyecto de Google que conectará a RD con red global mediante cables submarinos]]></title>
-    <link>https://www.diariolibre.com/actualidad/nacional/2026/06/27/indotel-autoriza-sistema-de-cables-submarinos-de-google-en-rd/3581844</link>
-    <description><![CDATA[El Instituto Dominicano de las Telecomunicaciones (Indotel) ha autorizado a Swordfish Infrastructure, S.R.L. para operar servicios portadores privados de telecomunicaciones en el país. Este proyecto, impulsado por Google, contempla la instalación de cables submarinos en Cabeza de Toro, Verón–Punta Cana.
-
-La iniciativa busca convertir a República Dominicana en un hub regional de conectividad, con una inversión inicial que supera los US$500 millones. El sistema Swordfish conectará al país con Estados Unidos, mejorando la capacidad de transmisión de datos y la integración con redes globales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1782594465/noticias/articles/20260627_210745_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 27 Jun 2026 21:08:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260627210828</guid>
   </item>
 </channel>
 </rss>
