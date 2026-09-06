@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 06 Sep 2026 19:01:15 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 06 Sep 2026 19:20:47 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Avión de carga de Amazon Air se sale de la pista en aeropuerto de Miami y termina envuelto en llamas: no hay reporte de heridos o fallecidos]]></title>
+    <link>https://www.eltiempo.com/amp/mundo/eeuu-y-canada/avion-de-carga-de-amazon-air-se-sale-de-la-pista-en-aeropuerto-de-miami-y-termina-envuelto-en-llamas-no-hay-reporte-de-heridos-o-fallecidos-3584004</link>
+    <description><![CDATA[Un avión de carga de Amazon Air se salió de la pista en el aeropuerto de Miami y terminó envuelto en llamas. No se han reportado heridos o fallecidos.
+
+Las operaciones aéreas en el aeropuerto están suspendidas mientras bomberos y policía atienden la emergencia.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788722426/noticias/articles/20260906_192025_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 06 Sep 2026 19:20:47 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260906192047</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Siete detenidos durante operativo contra extracción ilegal de oro en Monte Plata]]></title>
     <link>https://ntelemicro.com/siete-detenidos-durante-operativo-contra-extraccion-ilegal-de-oro-en-monte-plata/</link>
     <description><![CDATA[Siete personas fueron detenidas en un operativo contra la extracción ilegal de oro en el Área Protegida Loma 7 Picos, Yamasá, Monte Plata. La acción fue llevada a cabo por el SENPA y el Ministerio de Medio Ambiente.
@@ -1261,19 +1272,6 @@ Con esta victoria, Argentina avanza a cuartos de final donde enfrentará al gana
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783451918/noticias/articles/20260707_191838_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 07 Jul 2026 19:26:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260707192619</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Arrestan a dos empleados del AILA por decomiso de 90 paquetes de cocaína]]></title>
-    <link>https://m.n.com.do/2026/07/04/arrestan-a-dos-empleados-del-aila-por-decomiso-de-90-paquetes-de-cocaina/</link>
-    <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD) arrestó a dos empleados del Aeropuerto Internacional de Las Américas, Wilson Darío Castillo y Luis Miguel Peña, por su presunta participación en el decomiso de 90 paquetes de cocaína.
-
-Los detenidos habrían facilitado el ingreso de cinco bultos con la droga al aeropuerto. Ambos están a disposición del Ministerio Público y se les conocerá medida de coerción por violación a la Ley 50-88 sobre Drogas y Sustancias Controladas.
-
-Con estos arrestos, ya son siete las personas detenidas en relación con este caso.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783186428/noticias/articles/20260704_173347_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 04 Jul 2026 17:34:24 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260704173424</guid>
   </item>
 </channel>
 </rss>
