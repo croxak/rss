@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 13 Sep 2026 16:17:41 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 13 Sep 2026 17:08:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Madre de joven apuñalado en Serrallés pide oraciones por su recuperación]]></title>
+    <link>https://elnuevodiario.com.do/madre-de-joven-apunalado-en-serralles-pide-oraciones-por-su-recuperacion/</link>
+    <description><![CDATA[La madre de Gustavo, joven apuñalado en Serrallés, pide oraciones por su recuperación. Agradece el apoyo recibido desde el primer momento a través de llamadas, mensajes y gestos de solidaridad.
+
+En un mensaje emotivo, asegura a su hijo que está a su lado, expresando amor, fe y confianza en su recuperación. La publicación incluye el Salmo 121, resaltando la protección de Dios.
+
+Reitera que Gustavo no está solo y que muchas personas esperan verlo recuperado. "Te amo con toda mi alma. Sigue luchando, mi campeón. Dios está contigo y nosotros también", concluyó.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789319277/noticias/articles/20260913_170756_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 13 Sep 2026 17:08:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260913170814</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Intervienen narcolancha con cargamento de 595 paquetes de presunta cocaína]]></title>
     <link>https://elnuevodiario.com.do/intervienen-narcolancha-con-cargamento-de-595-paquetes-de-presunta-cocaina/#google_vignette</link>
     <description><![CDATA[Una narcolancha con 595 paquetes de presunta cocaína fue intervenida en las costas de Baní, provincia Peravia. Tres extranjeros fueron detenidos: dos colombianos y un venezolano.
@@ -1263,19 +1276,6 @@ Vecinos, estudiantes y organizaciones sociales participan para denunciar problem
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783730192/noticias/articles/20260711_003632_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 11 Jul 2026 00:37:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260711003702</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Alofoke revela que comisión de comunicadores se reunió con Abinader para impulsar cambios al Código Penal]]></title>
-    <link>https://deultimominuto.net/nacionales/alofoke-revela-que-comision/</link>
-    <description><![CDATA[Santiago Matías, conocido como Alofoke, reveló que una comisión de comunicadores se reunió con el presidente Luis Abinader para abordar preocupaciones sobre el nuevo Código Penal. La reunión se llevó a cabo en el Palacio Nacional hace tres semanas.
-
-Participaron comunicadores como José Peguero, Ariel Lara, Ramón Tolentino, Ricardo Ripoll, El Piro y equipos legales. El ministro de Justicia también estuvo presente, tomando nota de las observaciones.
-
-Se elaboró un borrador con cambios que será sometido al Congreso Nacional. Matías agradeció al presidente Abinader por el diálogo y destacó la importancia del consenso.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783657600/noticias/articles/20260710_042639_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 10 Jul 2026 04:27:09 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260710042709</guid>
   </item>
 </channel>
 </rss>
