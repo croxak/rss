@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 11 Sep 2026 20:48:54 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 13 Sep 2026 16:17:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Intervienen narcolancha con cargamento de 595 paquetes de presunta cocaína]]></title>
+    <link>https://elnuevodiario.com.do/intervienen-narcolancha-con-cargamento-de-595-paquetes-de-presunta-cocaina/#google_vignette</link>
+    <description><![CDATA[Una narcolancha con 595 paquetes de presunta cocaína fue intervenida en las costas de Baní, provincia Peravia. Tres extranjeros fueron detenidos: dos colombianos y un venezolano.
+
+La operación fue realizada por la DNCD, la Armada y la Fuerza Aérea de República Dominicana, con apoyo del Ministerio Público y agencias internacionales. La embarcación, tipo Go Fast, fue interceptada tras seguimiento aéreo, marítimo y terrestre.
+
+Se ocuparon 24 pacas con los paquetes, combustible, un GPS, celulares y otras evidencias. Las investigaciones continúan para identificar a otros involucrados.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789316232/noticias/articles/20260913_161709_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 13 Sep 2026 16:17:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260913161741</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Arrestan en el AILA a hombre investigado por muerte de joven en Los Praditos]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/09/11/arrestan-en-el-aila-a-investigado-por-muerte-en-los-praditos-2115441/</link>
     <description><![CDATA[Lenin Jhericop Núñez de León fue arrestado en el Aeropuerto Internacional de Las Américas por su presunta implicación en la muerte de Enmanuel Contrera Medina. El arresto fue realizado por la Unidad de Captura de Prófugos, Rebeldes y Condenados, bajo la dirección de la fiscal Andry de los Santos.
@@ -1263,17 +1276,6 @@ Se elaboró un borrador con cambios que será sometido al Congreso Nacional. Mat
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783657600/noticias/articles/20260710_042639_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 10 Jul 2026 04:27:09 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260710042709</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Decreto: Abinader designa tres nuevos representantes del Consejo Nacional de Cultura]]></title>
-    <link>https://www.diariolibre.com/politica/general/2026/07/08/abinader-nombra-3-nuevos-miembros-del-consejo-nacional-de-cultura/3594009</link>
-    <description><![CDATA[El presidente Luis Abinader ha designado a tres nuevos representantes honoríficos del Consejo Nacional de Cultura. Mediante el decreto 461-26, Jorge Hugo Cavoli Balbuena, Alfredo Francés Ortíz y Héctor José Rizek Sued asumirán roles en este órgano.
-
-El Consejo Nacional de Cultura reúne a representantes de diversos sectores para promover la participación en la formulación y seguimiento de las políticas culturales del Estado.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783560559/noticias/articles/20260709_012919_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 09 Jul 2026 01:31:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260709013105</guid>
   </item>
 </channel>
 </rss>
