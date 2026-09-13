@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 13 Sep 2026 17:08:14 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 13 Sep 2026 18:29:57 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Apresan a cinco haitianos y ocupan arma artesanal en el Parque Nacional Valle Nuevo]]></title>
+    <link>https://noticiassin.com/pais/provincias/2026/09/13/apresan-a-cinco-haitianos-y-ocupan-arma-artesanal-en-el-parque-nacional-valle-nuevo-2116192/?amp=1</link>
+    <description><![CDATA[Cinco haitianos fueron apresados en el Parque Nacional Valle Nuevo, Constanza, por el Ejército de República Dominicana. Durante el operativo, se les incautó un arma artesanal.
+
+Los detenidos fueron llevados a la Fortaleza Patria y entregados a la Dirección General de Migración para los procedimientos correspondientes.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789324172/noticias/articles/20260913_182932_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 13 Sep 2026 18:29:57 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260913182957</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Madre de joven apuñalado en Serrallés pide oraciones por su recuperación]]></title>
     <link>https://elnuevodiario.com.do/madre-de-joven-apunalado-en-serralles-pide-oraciones-por-su-recuperacion/</link>
     <description><![CDATA[La madre de Gustavo, joven apuñalado en Serrallés, pide oraciones por su recuperación. Agradece el apoyo recibido desde el primer momento a través de llamadas, mensajes y gestos de solidaridad.
@@ -1265,17 +1276,6 @@ La familia de Graham agradece las oraciones y solicita privacidad en este moment
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783843426/noticias/articles/20260712_080345_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 12 Jul 2026 08:04:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260712080417</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Cacerolazos continúan por quinto día consecutivo]]></title>
-    <link>https://hoy.com.do/el-pais/cacerolazos-continuan-quinto-dia-consecutivo_1094441_amp.html</link>
-    <description><![CDATA[Las protestas con cacerolas se mantienen por quinto día consecutivo en Santo Domingo. La noche del viernes, sectores como Bella Vista, Naco y Gazcue fueron escenario de estas manifestaciones.
-
-Vecinos, estudiantes y organizaciones sociales participan para denunciar problemas económicos, sociales y políticos. Los participantes aseguran que seguirán en las calles hasta que sus reclamos sean atendidos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783730192/noticias/articles/20260711_003632_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 11 Jul 2026 00:37:02 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260711003702</guid>
   </item>
 </channel>
 </rss>
