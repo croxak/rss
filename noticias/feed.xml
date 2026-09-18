@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 17 Sep 2026 02:48:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 00:54:37 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Fallece don Andrés Avelino Abreu Vargas, visionario y referente del sector automotriz dominicano]]></title>
+    <link>https://elpregonerord.com/fallece-don-andres-avelino-abreu-vargas-visionario-y-referente-del-sector-automotriz-dominicano/</link>
+    <description><![CDATA[Don Andrés Avelino Abreu Vargas, fundador de Avelino Abreu, SAS, falleció el 17 de septiembre de 2026. Su legado en el sector automotriz dominicano comenzó en 1968 con la comercialización de camiones MAN y se expandió a 19 marcas internacionales.
+
+Fue expresidente de ACOFAVE y miembro del Consejo de Administración del Banco Popular Dominicano. Las honras fúnebres se llevarán a cabo el 19 de septiembre en la sede principal de Avelino Abreu, SAS, y sus restos serán sepultados en el cementerio Puerta del Cielo.
+
+La familia solicita que las muestras de afecto se realicen mediante donativos a la Fundación Proyecto Hombre.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789692853/noticias/articles/20260918_005413_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 18 Sep 2026 00:54:37 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260918005437</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Indotel dice colabora con organismos de investigación para dar con responsables de exposición de datos de Claro]]></title>
     <link>https://hoy.com.do/el-pais/indotel-dice-investiga-dar-responsables-exposicion-datos-claro-da-recomendaciones_1102658_amp.html</link>
     <description><![CDATA[El Instituto Dominicano de las Telecomunicaciones (Indotel) colabora con organismos de investigación para identificar a los responsables de la exposición de datos de Claro Dominicana. Los datos comprometidos incluyen números de teléfonos móviles, números de cédula y el tipo de servicio contratado.
@@ -1263,17 +1276,6 @@ Carolina es parte de un grupo de dirigentes del PRM que buscan suceder a Abinade
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1784162936/noticias/articles/20260716_004856_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 16 Jul 2026 00:49:29 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260716004929</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Sanz Lovatón visita a ejecutivos de Grupo SID para escuchar inquietudes de la industria nacional]]></title>
-    <link>https://eldia.com.do/sanz-lovaton-visita-a-ejecutivos-de-grupo-sid-para-escuchar-inquietudes-de-la-industria-nacional/</link>
-    <description><![CDATA[El ministro de Industria, Comercio y Mipymes, Yayo Sanz Lovatón, visitó a los ejecutivos del Grupo SID en Santo Domingo. Esta reunión es parte de su agenda para fortalecer la industria nacional.
-
-Sanz Lovatón destacó la importancia de la colaboración público-privada y el desarrollo productivo del país. Ligia Bonetti, presidente ejecutiva de Grupo SID, valoró positivamente el diálogo con las autoridades.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783986980/noticias/articles/20260713_235619_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 13 Jul 2026 23:56:48 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260713235648</guid>
   </item>
 </channel>
 </rss>
