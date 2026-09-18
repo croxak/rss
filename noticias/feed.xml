@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 18 Sep 2026 18:52:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 18:54:54 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Caso Senasa 2.0: Ministerio Público confirma 28 detenidos y se enfoca en prestadores de servicios]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/09/18/medicos-y-fraude-senasa-arrestos-en-la-operacion-cobra-20-a/3663413</link>
+    <description><![CDATA[El Ministerio Público ha detenido a 28 personas en la Operación Cobra 2.0-A, enfocada en un presunto fraude contra Senasa. La investigación apunta a médicos y prestadores de servicios de salud que habrían sustraído recursos públicos.
+
+Se realizaron 37 allanamientos en el Distrito Nacional, Santo Domingo, Santiago, Cotuí y La Vega. La estructura investigada habría utilizado sobornos, doble facturación y documentos falsos.
+
+La Operación Onco14 también está vinculada, con prácticas de fraude clínico y farmacéutico. Se menciona el uso de fundaciones para desviar fondos y otros mecanismos fraudulentos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789757666/noticias/articles/20260918_185426_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 18 Sep 2026 18:54:54 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260918185454</guid>
+  </item>
+
+  <item>
     <title><![CDATA["El que cometa corrupción va a la cárcel": Abinader habla sobre Senasa 2.0]]></title>
     <link>https://www.diariolibre.com/actualidad/justicia/2026/09/18/luis-abinader-hablo-sobre-el-caso-senasa-20/3663326</link>
     <description><![CDATA[El presidente Luis Abinader ha solicitado que se profundicen las investigaciones del caso SenaSa 2.0 y que cualquier persona con méritos para ser sometida a la justicia lo sea.
@@ -1261,19 +1274,6 @@ Argentina, por su parte, se mantuvo a la defensiva durante la mayor parte del en
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1784500490/noticias/articles/20260719_223449_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 19 Jul 2026 22:36:18 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260719223618</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Banco de Reservas rechaza embargo a cuentas de JCE por caso Latin Events]]></title>
-    <link>https://eldia.com.do/banco-de-reservas-rechaza-embargo-a-cuentas-de-jce-por-caso-latin-events/</link>
-    <description><![CDATA[El Banco de Reservas ha rechazado la solicitud de embargo a los fondos de la Junta Central Electoral (JCE) en el caso Latin Events, basándose en la Ley 86-11 y la sentencia 0048-2015 del Tribunal Constitucional, que impiden inmovilizar fondos públicos sin una sentencia definitiva.
-
-La JCE ha interpuesto un recurso de apelación ante la Cámara de lo Civil y Comercial de la Corte de Apelación del Distrito Nacional contra la homologación de una sentencia extranjera solicitada por Latin Events, LLC.
-
-La JCE sostiene que no existe evidencia de aprobación para los servicios que Latin Events alega haber proporcionado, reafirmando su compromiso con la transparencia y el correcto uso de los fondos públicos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1784483701/noticias/articles/20260719_175500_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 19 Jul 2026 17:55:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260719175533</guid>
   </item>
 </channel>
 </rss>
