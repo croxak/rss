@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 18 Sep 2026 23:49:40 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 23:51:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Trump anuncia acuerdo con Dinamarca para controlar "para siempre" seguridad de Groenlandia]]></title>
+    <link>https://www.diariolibre.com/mundo/estados-unidos/2026/09/18/trump-anuncia-acuerdo-de-seguridad-con-groenlandia-y-dinamarca/3663715</link>
+    <description><![CDATA[Donald Trump, presidente de Estados Unidos, anunció un acuerdo con Dinamarca y Groenlandia que otorga a Washington el control permanente de la seguridad de Groenlandia. Según Trump, esto permitirá a EE. UU. garantizar la seguridad de la isla y del país de manera indefinida.
+
+El acuerdo aún no ha sido firmado y deberá pasar por procedimientos parlamentarios para entrar en vigor. Los tres Gobiernos esperan firmarlo la próxima semana durante la Asamblea General de Naciones Unidas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789775466/noticias/articles/20260918_235105_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 18 Sep 2026 23:51:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260918235133</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Senasa detectó consultas de ginecología cargadas a hombres dentro de esquema investigado por fraude]]></title>
     <link>https://www.diariolibre.com/actualidad/justicia/2026/09/18/senasa-detecto-consultas-de-ginecologia-cargadas-a-hombres/3663602</link>
     <description><![CDATA[Senasa detectó consultas de ginecología cargadas a hombres, quienes negaron haber recibido esos servicios. Este hallazgo es parte de una investigación sobre un esquema de fraude.
@@ -1265,17 +1276,6 @@ La aclaración surge luego de que un usuario identificado como “sc4r_0x00” p
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1784754564/noticias/articles/20260722_210924_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 22 Jul 2026 21:09:53 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260722210953</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ismael ‘El Mayo’ Zambada, condenado a cadena perpetua por un tribunal de Nueva York]]></title>
-    <link>https://elpais.com/us/2026-07-20/ismael-el-mayo-zambada-condenado-a-cadena-perpetua-por-un-tribunal-de-nueva-york.html?outputType=amp</link>
-    <description><![CDATA[Ismael El Mayo Zambada ha sido condenado a cadena perpetua por un tribunal de Brooklyn. El antiguo líder del Cartel de Sinaloa se había declarado culpable de traficar con drogas como cocaína, heroína y fentanilo.
-
-Los fiscales han solicitado una multa de 15.000 millones de dólares. Zambada fue detenido en julio de 2024 junto a Joaquín Guzmán López, hijo de El Chapo. La sentencia podría aumentar las tensiones entre Estados Unidos y México.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1784564477/noticias/articles/20260720_162117_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 20 Jul 2026 16:21:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260720162141</guid>
   </item>
 </channel>
 </rss>
