@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 18 Sep 2026 00:54:37 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 18 Sep 2026 12:14:50 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Pepca realiza allanamientos relacionados con Senasa 2.0]]></title>
+    <link>https://listindiario.com/la-republica/20260918/pepca-realiza-allanamientos-relacionados-senasa-2-0_922717/amp.html</link>
+    <description><![CDATA[La Procuraduría Especializada de Persecución de la Corrupción Administrativa (Pepca) realiza allanamientos en relación con el caso del Seguro Nacional de Salud (SeNaSa).
+
+Los operativos se llevan a cabo en diversos centros de salud y han resultado en la detención de varios médicos. Estos allanamientos están relacionados con el Senasa 2.0.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789733665/noticias/articles/20260918_121425_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 18 Sep 2026 12:14:50 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260918121450</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece don Andrés Avelino Abreu Vargas, visionario y referente del sector automotriz dominicano]]></title>
     <link>https://elpregonerord.com/fallece-don-andres-avelino-abreu-vargas-visionario-y-referente-del-sector-automotriz-dominicano/</link>
     <description><![CDATA[Don Andrés Avelino Abreu Vargas, fundador de Avelino Abreu, SAS, falleció el 17 de septiembre de 2026. Su legado en el sector automotriz dominicano comenzó en 1968 con la comercialización de camiones MAN y se expandió a 19 marcas internacionales.
@@ -1263,19 +1274,6 @@ El Ministerio Público, representado por la fiscal Rosa Alba García, había sol
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1784220033/noticias/articles/20260716_164030_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 16 Jul 2026 16:41:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260716164103</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Carolina niega Abinader apoye un candidato: “Aquí no hay candidatos del presidente ni de la Presidencia”]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/07/15/carolina-mejia-niega-apoyo-de-abinader-en-el-prm-2060617/?amp=1</link>
-    <description><![CDATA[Carolina Mejía descartó que el presidente Luis Abinader apoye a algún candidato dentro del Partido Revolucionario Moderno antes de la elección del candidato presidencial para 2028.
-
-Mejía afirmó que no hay candidatos del presidente ni de la Presidencia, destacando el compromiso de Abinader con la democracia. Ante preguntas sobre un posible respaldo desde el Palacio a otra candidatura, Mejía lo calificó como "imposible".
-
-Carolina es parte de un grupo de dirigentes del PRM que buscan suceder a Abinader en 2028.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1784162936/noticias/articles/20260716_004856_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 16 Jul 2026 00:49:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260716004929</guid>
   </item>
 </channel>
 </rss>
