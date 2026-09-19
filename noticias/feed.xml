@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 19 Sep 2026 23:21:17 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 19 Sep 2026 23:22:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Abinader viajará este domingo a Nueva York para participar en la ONU]]></title>
+    <link>https://m.n.com.do/2026/09/19/abinader-viajara-este-domingo-a-nueva-york-para-participar-en-la-onu/</link>
+    <description><![CDATA[El presidente Luis Abinader viajará este domingo a Nueva York para representar a República Dominicana en la Asamblea General de la ONU. Su agenda incluye encuentros diplomáticos, reuniones bilaterales y actividades sobre cooperación, comercio, inversión e inteligencia artificial.
+
+Abinader pronunciará un discurso el miércoles ante la Asamblea General y participará en la apertura del Debate General el martes. También asistirá a la Iniciativa Escudo de las Américas y la Cumbre Anual de Concordia 2026.
+
+Durante su estadía, recibirá la Gold Insigne de Americas Society y participará en actividades con la comunidad dominicana, además de recibir un reconocimiento de William Paterson University y participar en un homenaje a José Francisco Peña Gómez.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789860101/noticias/articles/20260919_232140_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 19 Sep 2026 23:22:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260919232215</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Liberan a ginecólogo Steven Rabassa tras ser detenido por Senasa 2.0]]></title>
     <link>https://listindiario.com/la-republica/20260919/ministerio-publico-deja-libertad-ginecologo-detenido-investigacion-senasa-2-0_922876.html</link>
     <description><![CDATA[El ginecólogo Steven Alexander Rabassa Fernández fue liberado después de ser arrestado en San Pedro de Macorís en el marco de la "Operación Senasa 2.0". El Ministerio Público y la Procuraduría Especializada de Persecución de la Corrupción Administrativa revisaron su caso y decidieron su liberación.
@@ -1273,17 +1286,6 @@ Los organismos de emergencia continúan en el área para asistir a los pasajeros
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785198373/noticias/articles/20260728_002613_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 28 Jul 2026 00:26:38 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260728002638</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Wilfrido de la Cruz capturó el tercer oro dominicano en taekwondo en los Juegos Centrocaribeños]]></title>
-    <link>https://www.diariolibre.com/deportes/olimpismo/2026/07/26/wilfrido-de-la-cruz-capturo-el-tercer-oro-dominicano-en-los-jcc/3611271</link>
-    <description><![CDATA[Wilfrido de la Cruz logró la tercera medalla de oro para la República Dominicana en los XXV Juegos Centroamericanos y del Caribe. De la Cruz venció al hondureño Derek Midence en la final de taekwondo en la categoría de -54 kilos, tras superar a Diego Reyes y Sebastián Echavarría en rondas previas.
-
-La República Dominicana alcanzó las mil medallas en la historia de los Juegos Centroamericanos y del Caribe. Francesca Pigozzi sumó dos medallas de bronce en esquí náutico, contribuyendo a esta cifra histórica. Pigozzi destacó en las modalidades de figuras femenino y salto femenino.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785102722/noticias/articles/20260726_215201_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 26 Jul 2026 21:52:25 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260726215225</guid>
   </item>
 </channel>
 </rss>
