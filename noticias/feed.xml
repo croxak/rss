@@ -7,14 +7,33 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 19 Sep 2026 01:54:43 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 19 Sep 2026 05:16:22 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Vuelo de deportación de ICE Air aterrizó el 17 de septiembre en la Base Aérea de San Isidro]]></title>
+    <link>https://eltestigo.com</link>
+    <description><![CDATA[Un vuelo vinculado a las operaciones de deportación del Servicio de Inmigración y Control de Aduanas de Estados Unidos (ICE) aterrizó el pasado 17 de septiembre en la Base Aérea de San Isidro, en Santo Domingo Este, según registros de seguimiento aeronáutico.
+
+El vuelo operó bajo el indicativo TYSON49 y fue registrado por FlightAware como un Boeing 737-300. La aeronave partió del Opa-locka Executive Airport (OPF), en el área de Miami, a las 2:02 de la tarde y aterrizó en San Isidro (MDSI) a las 4:04 de la tarde, hora dominicana.
+
+De acuerdo con ICE Flight Monitor, el recorrido de la aeronave se había originado previamente en El Paso, Texas, antes de realizar una escala en Florida y continuar hacia República Dominicana.
+
+Los registros muestran que el avión permaneció aproximadamente una hora y 33 minutos en la Base Aérea de San Isidro. Posteriormente despegó a las 5:37 de la tarde con destino nuevamente a Opa-locka, donde aterrizó alrededor de las 7:41 de la noche.
+
+ICE Air Operations utiliza aeronaves contratadas a compañías privadas para efectuar traslados y vuelos de deportación. Human Rights First ha documentado que estas operaciones son coordinadas mediante el contratista CSI Aviation y compañías como Eastern Air Express, GlobalX y otras aerolíneas chárter. 
+
+Hasta el momento, no se ha establecido públicamente cuántas personas viajaban a bordo del vuelo que llegó a San Isidro ni sus nacionalidades. Los datos disponibles permiten confirmar el movimiento de la aeronave y su ruta, pero no la identidad de los pasajeros.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789794940/noticias/articles/20260919_051539_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 19 Sep 2026 05:16:22 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260919051622</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Un informe erróneo generado con IA puso a un buque chino en la mira del Gobierno de EE.UU.]]></title>
     <link>https://www.clarin.com/estados-unidos/un-informe-erroneo-generado-con-ia-puso-a-un-buque-chino-en-la-mira-del-gobierno-de-ee-uu_0_qJ1hj4jbkS.html</link>
     <description><![CDATA[Estados Unidos estuvo a punto de interceptar un buque chino en Oriente Medio debido a un informe erróneo generado por inteligencia artificial. El informe señalaba incorrectamente que el cargamento del buque estaba vinculado a un programa de armas nucleares.
@@ -1265,19 +1284,6 @@ El valor estimado de la cocaína en el mercado europeo es de 136,6 millones de d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785088416/noticias/articles/20260726_175336_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 26 Jul 2026 17:54:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260726175403</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Superintendencia de Bancos lanza plataforma con la historia del sistema financiero dominicano]]></title>
-    <link>https://panorama.com.do/superintendencia-de-bancos-lanza-plataforma-con-la-historia-del-sistema-financiero-dominicano/</link>
-    <description><![CDATA[La Superintendencia de Bancos de la República Dominicana ha lanzado Cronología SB, un microportal digital que reúne estadísticas, documentos históricos y publicaciones de prensa sobre el sistema financiero del país.
-
-La plataforma ofrece un módulo de estadísticas desde 1947, herramientas de visualización interactiva, una sección de publicaciones de prensa, una línea de tiempo interactiva y un archivo digital para consultar y descargar documentos.
-
-Además, se presentó la Galería de Superintendentes, que destaca la trayectoria de quienes han dirigido la entidad. Alejandro Fernández W., superintendente de Bancos, reafirmó el compromiso con la transparencia y la preservación de la memoria institucional.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785086362/noticias/articles/20260726_171922_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 26 Jul 2026 17:19:53 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260726171953</guid>
   </item>
 </channel>
 </rss>
