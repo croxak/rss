@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 19 Sep 2026 00:50:08 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 19 Sep 2026 01:54:43 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Un informe erróneo generado con IA puso a un buque chino en la mira del Gobierno de EE.UU.]]></title>
+    <link>https://www.clarin.com/estados-unidos/un-informe-erroneo-generado-con-ia-puso-a-un-buque-chino-en-la-mira-del-gobierno-de-ee-uu_0_qJ1hj4jbkS.html</link>
+    <description><![CDATA[Estados Unidos estuvo a punto de interceptar un buque chino en Oriente Medio debido a un informe erróneo generado por inteligencia artificial. El informe señalaba incorrectamente que el cargamento del buque estaba vinculado a un programa de armas nucleares.
+
+La operación fue suspendida cuando se revisó la información y se determinó que el chatbot había identificado incorrectamente el material transportado. Este incidente ocurrió en el contexto de la guerra con Irán.
+
+El caso se conoce en un momento de creciente uso de herramientas de IA por parte del Ejército y los servicios de inteligencia estadounidenses, lo que ha generado críticas hacia esta tecnología.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789782855/noticias/articles/20260919_015415_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 19 Sep 2026 01:54:43 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260919015443</guid>
+  </item>
+
+  <item>
     <title><![CDATA[MSP cierra centro de masajes que operaba sin licencia de habilitación luego de denuncia en redes sociales]]></title>
     <link>https://m.n.com.do/2026/09/18/msp-cierra-centro-de-masajes-que-operaba-sin-licencia-de-habilitacion-luego-de-denuncia-en-redes-sociales/</link>
     <description><![CDATA[El Ministerio de Salud Pública cerró el centro de masajes “Toque Angelical” por operar sin licencia y con personal no capacitado. La acción se tomó tras una denuncia en redes sociales de una paciente que reportó un contacto inapropiado.
@@ -1265,19 +1278,6 @@ Además, se presentó la Galería de Superintendentes, que destaca la trayectori
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785086362/noticias/articles/20260726_171922_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 26 Jul 2026 17:19:53 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260726171953</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ana Rosa García terminará de construir la casa de su madre luego de ganar oro en JCC]]></title>
-    <link>https://listindiario.com/el-deporte/olimpismo/20260725/ana-rosa-garcia-terminara-construir-casa-madre-luego-ganar-oro-jcc_915395.html</link>
-    <description><![CDATA[Ana Rosa García se coronó campeona en la categoría de 57 kilogramos de judo femenino en los Juegos Centroamericanos y del Caribe 2026. Con el premio de RD$300,000, planea terminar la casa de su madre en San Francisco de Macorís.
-
-La judoca expresó su felicidad por alcanzar la medalla de oro, un sueño que había perseguido tras obtener bronce y plata en ediciones anteriores. Agradeció a Dios por guiarla en momentos difíciles y afirmó que nunca dudó de su victoria.
-
-El 25 de julio también trajo otras medallas para República Dominicana en judo: Estefanía Soriano ganó plata, mientras que Diego García y Josefa Samantha obtuvieron bronce.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785086222/noticias/articles/20260726_171702_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 26 Jul 2026 17:17:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260726171730</guid>
   </item>
 </channel>
 </rss>
