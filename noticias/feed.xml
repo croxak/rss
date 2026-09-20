@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 20 Sep 2026 16:51:07 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 17:28:37 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Adolfo Pérez ordena y apodera organismos de control para investigar irregularidades denunciadas]]></title>
+    <link>https://elnuevodiario.com.do/adolfo-perez-ordena-y-apodera-organismos-de-control-para-investigar-irregularidades-denunciadas/</link>
+    <description><![CDATA[Adolfo Pérez, director del Inabie, ha dispuesto investigar denuncias de irregularidades en contratos del Programa de Alimentación Escolar. Las adjudicaciones cuestionadas, que suman RD$110 millones, están vinculadas a empresas de reciente creación.
+
+Pérez aseguró que se investigarán los señalamientos y se actuará conforme a la ley si se comprueban irregularidades. Hasta ahora, 42 adjudicatarios han sido suspendidos, y se han detectado irregularidades técnicas en 14 suplidores.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789925261/noticias/articles/20260920_172740_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 20 Sep 2026 17:28:37 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260920172837</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ocupan 11 paquetes de presunta marihuana ocultos en mueble en el AILA]]></title>
     <link>https://www.diariolibre.com/amp/actualidad/nacional/2026/09/20/dncd-decomisa-marihuana-en-aila-procedente-de-miami/3664757</link>
     <description><![CDATA[Agentes de la DNCD y el Ministerio Público, con apoyo del CESAC, decomisaron once paquetes de presunta marihuana en el Aeropuerto Internacional de Las Américas. Los paquetes estaban ocultos en un mueble procedente de Miami.
@@ -1269,19 +1280,6 @@ La iniciativa se fundamenta en el Decreto 551-21 y opera bajo la Ley 189-11, con
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785264252/noticias/articles/20260728_184412_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 28 Jul 2026 18:45:16 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260728184516</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Embargan por US$5 millones representantes de empresas vinculada a Karpowership]]></title>
-    <link>https://listindiario.com/la-republica/justicia/20260728/embargan-us-5-millones-representantes-empresas-vinculada-karpowership_915680.html</link>
-    <description><![CDATA[La Segunda Sala de la Cámara Penal del Distrito Nacional ha impuesto una medida de coerción real de 5 millones de dólares contra Dynex Energy Group, Dynex Energy RD, S.R.L. y su representante Carlos Matamoros Bregni. Estas entidades están vinculadas a la operación de la central eléctrica flotante Karpowership en Azua.
-
-La jueza Clara Luz Almonte autorizó embargos sobre los bienes de los imputados, pero rechazó la solicitud de impedimento de salida del país para Matamoros Bregni. La decisión se basa en la existencia de un crédito justificado y la necesidad de evitar la insolvencia del imputado.
-
-La disputa se origina de un acuerdo de 2018 entre Dynex y TEPC, donde se estableció una distribución de fondos que no se ha cumplido según la parte querellante. Las barcazas están operando y generando ingresos, pero TEPC no ha recibido el porcentaje pactado.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785263921/noticias/articles/20260728_183841_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 28 Jul 2026 18:39:20 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260728183920</guid>
   </item>
 </channel>
 </rss>
