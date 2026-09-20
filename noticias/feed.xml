@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 20 Sep 2026 16:39:59 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 16:44:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[La Pepca atribuye fraude de RD$41 millones contra Senasa a red de empleados y médicos]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/09/20/pepca-atribuye-fraude-de-rd41-millones-contra-senasa-a-red-de-emplead/3664790#google_vignette</link>
+    <description><![CDATA[La Procuraduría Especializada de Persecución de la Corrupción Administrativa (Pepca) ha desmantelado una red de fraude que operaba en el Seguro Nacional de Salud (Senasa), involucrando a empleados, médicos y particulares. La estructura es acusada de realizar 4,363 autorizaciones fraudulentas por un monto de 41,125,551.02 pesos.
+
+Ángel Luís Guzmán Vásquez, ex auxiliar del Departamento de Autorizaciones Médicas de Senasa, es señalado como el principal articulador del fraude. Actualmente cumple prisión preventiva. El Ministerio Público ha solicitado medidas de coerción para 25 imputados.
+
+El fraude consistía en acceder a datos de afiliados y solicitar autorizaciones con nombres ficticios, utilizando códigos auténticos de médicos. Las auditorías revelaron irregularidades como consultas ginecológicas facturadas a hombres y formularios falsificados.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789922633/noticias/articles/20260920_164352_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 20 Sep 2026 16:44:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260920164419</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ricardo de los Santos asume coordinación de campaña de Carolina Mejía]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/09/20/ricardo-de-los-santos-coordina-campana-de-carolina-mejia-2123355/?amp=1</link>
     <description><![CDATA[Ricardo de los Santos, presidente del Senado, ha asumido la coordinación de la campaña de Carolina Mejía, aspirante presidencial del PRM.
@@ -1271,19 +1284,6 @@ La ceremonia de investidura contó con la presencia de diez jefes de Estado y de
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785249670/noticias/articles/20260728_144109_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 28 Jul 2026 14:41:35 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260728144135</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[PCR eleva las calificaciones del Grupo Estrella y destaca su fortaleza financiera]]></title>
-    <link>https://www.cibaonoticias.com/economia/pcr-eleva-calificaciones-grupo-estrella/</link>
-    <description><![CDATA[Pacific Credit Rating (PCR) ha mejorado las calificaciones de riesgo de varias empresas del Grupo Estrella, destacando su fortalecimiento financiero y expansión regional.
-
-Ingeniería Estrella y Consorcio Minero Dominicano recibieron mejoras en sus calificaciones, mientras que Acero Estrella mantiene su calificación con una perspectiva mejorada.
-
-El Grupo Estrella opera en más de 15 países y cuenta con más de 6,000 colaboradores, reforzando su capacidad de ejecución en el sector construcción.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785199225/noticias/articles/20260728_004025_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 28 Jul 2026 00:40:51 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260728004051</guid>
   </item>
 </channel>
 </rss>
