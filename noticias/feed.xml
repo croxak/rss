@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 20 Sep 2026 18:26:43 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 19:56:08 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Pareja encuentra y entrega documentos de ambientalistas checos reportados como sustraídos en el Malecón]]></title>
+    <link>https://elnuevodiario.com.do/pareja-encuentra-y-entrega-documentos-de-ambientalistas-checos-reportados-como-sustraidos-en-el-malecon/</link>
+    <description><![CDATA[Una pareja de esposos encontró y devolvió documentos personales de dos ambientalistas checos que habían sido reportados como sustraídos en el Malecón de Santo Domingo. Los documentos pertenecían a Michaela Brandnerová y Jirí Dolansky, quienes estaban en el país para labores de protección y limpieza de costas.
+
+Vladimir González Abreu y Tanya Malena Amador encontraron los documentos en una construcción en Santo Domingo Este y los entregaron en las instalaciones de Telemicro. Michaela Brandnerová agradeció a la Policía Nacional y a la ciudadanía por su colaboración.
+
+La Policía destacó la colaboración de la pareja y señaló que el caso concluyó con la devolución de los documentos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789934142/noticias/articles/20260920_195542_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 20 Sep 2026 19:56:08 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260920195608</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Joseph Félix Badio también sería extraditado a EE. UU. por asesinato de Jovenel Moïse]]></title>
     <link>https://eltestigo.com</link>
     <description><![CDATA[Joseph Félix Badio, considerado uno de los principales sospechosos en la investigación por el asesinato del expresidente haitiano Jovenel Moïse, también estaría entre las 18 personas trasladadas este domingo desde Haití hacia Estados Unidos para enfrentar a la justicia federal en Florida.
@@ -1275,19 +1288,6 @@ Jorge Asjana fue juramentado como nuevo miembro del Consejo Nacional de Educaci�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785463205/noticias/articles/20260731_020004_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 31 Jul 2026 02:00:38 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260731020038</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[República Dominicana da inicio a su primera Dominicana Tech Week con más de 70 eventos que impulsarán la innovación del país]]></title>
-    <link>https://robertocavada.com/video-republica-dominicana-da-inicio-a-su-primera-dominicana-tech-week-con-mas-de-70-eventos-que-impulsaran-la-innovacion-del-pais/</link>
-    <description><![CDATA[República Dominicana ha dado inicio a su primera Dominicana Tech Week, un evento que se extenderá del 27 al 31 de julio con más de 70 actividades. La agenda incluye conferencias, paneles, talleres y encuentros de networking, entre otros.
-
-La iniciativa, impulsada por Venture.do y Turisteo, busca fortalecer el ecosistema tecnológico del país mediante la colaboración entre startups, empresas y organizaciones. Se espera la participación de más de 5,000 personas en eventos en Santo Domingo, Santiago y Punta Cana.
-
-El evento cuenta con el apoyo de varias organizaciones, incluyendo el Ministerio de Industria, Comercio y MIPYMES, CREE Banreservas, Oracle y más. La agenda oficial está disponible en las redes sociales de Dominicana Tech Week.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785287342/noticias/articles/20260729_010901_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 29 Jul 2026 01:09:32 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260729010932</guid>
   </item>
 </channel>
 </rss>
