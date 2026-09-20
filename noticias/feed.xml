@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 20 Sep 2026 23:49:40 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 23:50:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Buscan a “Hansel Boca Negra” tras herir a dos policías en Sabana Perdida]]></title>
+    <link>https://m.n.com.do/2026/09/20/policia-busca-hansel-boca-negra-herir-dos-agentes-sabana-perdida/</link>
+    <description><![CDATA[La Policía Nacional está en la búsqueda de un hombre identificado como “Hansel Boca Negra”, señalado como el presunto responsable de herir de bala a dos agentes en Sabana Perdida.
+
+El cabo Jesús Heredia William Antonio, de 26 años, fue atacado en el sector Los Palmares. El mayor Andrés Pascual, de 54 años, resultó herido en la cabeza durante una persecución.
+
+Ambos agentes están recibiendo atención médica y podrían ser trasladados al Hospital General Docente de la Policía Nacional.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789948204/noticias/articles/20260920_235003_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 20 Sep 2026 23:50:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260920235035</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader inicia entrega del pasaporte electrónico a dominicanos en EE. UU.]]></title>
     <link>https://m.n.com.do/2026/09/20/pasaporte-electronico-dominicano-nueva-york-nueva-jersey-boston/</link>
     <description><![CDATA[El presidente Luis Abinader encabezó la entrega del Pasaporte Electrónico dominicano en Nueva York, Nueva Jersey y Boston. La primera libreta fue entregada a la familia Valdéz García. Este documento incluye más de 130 medidas de seguridad y un servicio de repatriación de restos mortales con cobertura de hasta US$9,000.
@@ -1275,17 +1288,6 @@ Durante el evento, el senador destacó la importancia de la educación como inve
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785888726/noticias/articles/20260805_001206_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 05 Aug 2026 00:12:38 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260805001238</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[PN apresa a 17 personas por presunto saqueo durante incendio en L&R Comercial]]></title>
-    <link>https://m.n.com.do/2026/08/01/apresan-17-personas-saqueo-incendio-lr-comercial/</link>
-    <description><![CDATA[La Policía Nacional arrestó a 17 personas por presunto saqueo durante un incendio en L&R Comercial, ubicado en la autopista Las Américas, Santo Domingo Este. Los detenidos fueron sorprendidos en flagrante delito cargando electrodomésticos.
-
-El operativo de seguridad fue supervisado por el director regional Santo Domingo Oriental, general Claudio González Moquete. No se reportaron víctimas mortales, pero se mantiene un perímetro de seguridad debido al riesgo de colapso parcial de la estructura.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785620269/noticias/articles/20260801_213748_article.png" type="image/png"/>
-    <pubDate>Sat, 01 Aug 2026 21:38:18 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260801213818</guid>
   </item>
 </channel>
 </rss>
