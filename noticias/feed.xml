@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 20 Sep 2026 16:47:11 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 16:51:07 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Ocupan 11 paquetes de presunta marihuana ocultos en mueble en el AILA]]></title>
+    <link>https://www.diariolibre.com/amp/actualidad/nacional/2026/09/20/dncd-decomisa-marihuana-en-aila-procedente-de-miami/3664757</link>
+    <description><![CDATA[Agentes de la DNCD y el Ministerio Público, con apoyo del CESAC, decomisaron once paquetes de presunta marihuana en el Aeropuerto Internacional de Las Américas. Los paquetes estaban ocultos en un mueble procedente de Miami.
+
+La detección se realizó mediante una máquina de rayos X y un ejemplar canino confirmó la presencia de sustancias controladas. El Ministerio Público y la DNCD han iniciado una investigación sobre esta operación de narcotráfico internacional.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789923041/noticias/articles/20260920_165040_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 20 Sep 2026 16:51:07 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260920165107</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Carolina Mejía afirma que más dirigentes del PRM respaldarán su proyecto presidencial]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/09/20/carolina-mejia-suma-apoyos-a-su-proyecto-presidencial-2123425/?amp=1</link>
     <description><![CDATA[Carolina Mejía, quien busca la candidatura presidencial del PRM, asegura que más dirigentes del partido apoyarán su proyecto en los próximos días.
@@ -1271,17 +1282,6 @@ La disputa se origina de un acuerdo de 2018 entre Dynex y TEPC, donde se estable
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785263921/noticias/articles/20260728_183841_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 28 Jul 2026 18:39:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260728183920</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Cuatro personas mueren en balneario La Neverita al caer vehículo en uno de los charcos]]></title>
-    <link>https://listindiario.com/la-republica/20260728/cuatro-personas-mueren-balneario-neverita-caer-vehiculo-charco_915683.html</link>
-    <description><![CDATA[Cuatro personas fallecieron en el balneario La Neverita, en el río Nizao, al caer su vehículo en uno de los charcos. Las víctimas, residentes en Santo Domingo, fueron Karlos Jamil Lorenzo Gilarranz, Gabriel Rafael Joa Rondón, Aldy Chamir Royer Frías y Ginneudy Alcántara Suero. El accidente ocurrió cuando el grupo se retiraba del lugar en una jeepeta Chevrolet Tahoe y perdió el control, quedando atrapados.
-
-En otro incidente en Peravia, Alexander Mojica y Jhoan Ángel Germán murieron al chocar de frente sus motocicletas en la carretera hacia Villa Güera.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785258190/noticias/articles/20260728_170310_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 28 Jul 2026 17:03:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260728170340</guid>
   </item>
 </channel>
 </rss>
