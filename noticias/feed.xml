@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 19 Sep 2026 23:22:15 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 20 Sep 2026 00:10:49 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Detienen a hombre de 61 años por orden judicial relacionada con violaciones a menores]]></title>
+    <link>https://www.diariolibre.com/amp/actualidad/sucesos/2026/09/19/detencion-de-hombre-por-violaciones-sexuales-a-menores/3664414</link>
+    <description><![CDATA[Eleodoro Andrés Coss, alias Elio, de 61 años, fue detenido por miembros de la Dirección Especializada de Atención a la Mujer y Violencia Intrafamiliar (DEAMVI) en La Altagracia.
+
+El arresto se llevó a cabo en el sector Samaritano Segundo, tras una orden judicial emitida por el Tribunal de Atención Permanente de Higüey, debido a su presunta vinculación con violaciones sexuales a menores.
+
+El detenido fue puesto bajo control de las autoridades competentes para los fines legales correspondientes.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789862995/noticias/articles/20260920_000955_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 20 Sep 2026 00:10:49 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260920001049</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader viajará este domingo a Nueva York para participar en la ONU]]></title>
     <link>https://m.n.com.do/2026/09/19/abinader-viajara-este-domingo-a-nueva-york-para-participar-en-la-onu/</link>
     <description><![CDATA[El presidente Luis Abinader viajará este domingo a Nueva York para representar a República Dominicana en la Asamblea General de la ONU. Su agenda incluye encuentros diplomáticos, reuniones bilaterales y actividades sobre cooperación, comercio, inversión e inteligencia artificial.
@@ -1273,19 +1286,6 @@ Además, se respaldó la extensión de la iniciativa sanitaria MAHA a la Repúbl
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785198667/noticias/articles/20260728_003107_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 28 Jul 2026 00:31:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260728003132</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Incendio de embarcación frente a isla Saona deja al menos 12 heridos]]></title>
-    <link>https://acento.com.do/amp/actualidad/incendio-de-embarcacion-frente-a-isla-saona-deja-al-menos-12-heridos-9726817.html</link>
-    <description><![CDATA[Un incendio en una lancha turística frente a la isla Saona ha dejado al menos 12 personas con quemaduras. De los heridos, 11 están hospitalizados y uno recibe atención especializada en una clínica privada.
-
-La embarcación, que navegaba por la zona de Bayahíbe, transportaba a más de 30 personas, incluyendo turistas y tripulación. Las autoridades aún no han determinado cómo se originó el fuego.
-
-Los organismos de emergencia continúan en el área para asistir a los pasajeros y coordinar las investigaciones. El caso sigue en desarrollo y los detalles podrían variar.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785198373/noticias/articles/20260728_002613_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 28 Jul 2026 00:26:38 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260728002638</guid>
   </item>
 </channel>
 </rss>
