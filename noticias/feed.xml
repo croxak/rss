@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 20 Sep 2026 23:50:35 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 12:09:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Asesinan a la esposa de Julián Oro Duro durante atraco en su propia casa; el artista está herido]]></title>
+    <link>https://eldia.com.do/asesinan-en-atraco-esposa-de-julian-oro-duro-y-el-artista-fue-herido/</link>
+    <description><![CDATA[La esposa del merenguero Julián Oro Duro fue asesinada en un atraco en su propia casa. El artista resultó herido y está recibiendo atención médica.
+
+La Policía está investigando el caso. Informaciones en redes sociales indican que el ataque ocurrió dentro de su vivienda.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789992562/noticias/articles/20260921_120922_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 21 Sep 2026 12:09:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260921120941</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Buscan a “Hansel Boca Negra” tras herir a dos policías en Sabana Perdida]]></title>
     <link>https://m.n.com.do/2026/09/20/policia-busca-hansel-boca-negra-herir-dos-agentes-sabana-perdida/</link>
     <description><![CDATA[La Policía Nacional está en la búsqueda de un hombre identificado como “Hansel Boca Negra”, señalado como el presunto responsable de herir de bala a dos agentes en Sabana Perdida.
@@ -1277,17 +1288,6 @@ La atleta, nacionalizada dominicana, ha mantenido su hegemonía desde Cartagena 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785977767/noticias/articles/20260806_005606_article.webp" type="image/webp"/>
     <pubDate>Thu, 06 Aug 2026 00:56:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260806005633</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Senador Alexis Victoria reconoce a 75 estudiantes meritorios de María Trinidad Sánchez]]></title>
-    <link>https://elnuevodiario.com.do/senador-alexis-victoria-reconoce-a-75-estudiantes-meritorios-de-maria-trinidad-sanchez/</link>
-    <description><![CDATA[El senador Alexis Victoria Yeb celebró la ceremonia Mérito Estudiantil 2026 en la provincia María Trinidad Sánchez, donde reconoció a 75 estudiantes meritorios por su dedicación y excelencia académica. Cada estudiante recibió una computadora portátil o una tableta para apoyar su formación.
-
-Durante el evento, el senador destacó la importancia de la educación como inversión para el futuro y felicitó a los jóvenes por su compromiso. La ceremonia, realizada en Lumare Eventos, reunió a estudiantes, padres, docentes y autoridades.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785888726/noticias/articles/20260805_001206_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 05 Aug 2026 00:12:38 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260805001238</guid>
   </item>
 </channel>
 </rss>
