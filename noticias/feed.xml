@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 21 Sep 2026 16:54:53 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 17:10:27 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Policía informa muerte de “Caco de Leche”, buscado por muerte de niña alcanzada por bala en Verón]]></title>
+    <link>https://elnuevodiario.com.do/policia-informa-muerte-de-caco-de-leche-buscado-por-muerte-de-nina-alcanzada-por-bala-en-veron/</link>
+    <description><![CDATA[Luis David Fortuna Polanco, alias “Caco de Leche”, murió tras un enfrentamiento con la Policía en Verón, Punta Cana. Fortuna Polanco, de 27 años, era buscado por su presunta implicación en la muerte de una niña de dos años.
+
+Durante el enfrentamiento, la Policía ocupó una pistola calibre .380 que estaba en poder de Fortuna Polanco. La institución sigue investigando este y otros casos recientes.
+
+Fuente: El Nuevo Diario - Endy Nuñez]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790010536/noticias/articles/20260921_170855_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 21 Sep 2026 17:10:27 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260921171027</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abogado de Julián pide a la Policía no matar a sus atacantes; descarta que sea un simple robo]]></title>
     <link>https://listindiario.com/la-republica/20260921/abogado-julian-pide-policia-matar-atacantes-cree-improvisado_923053.html</link>
     <description><![CDATA[El abogado Cándido Simón, defensor de Julián Oro Duro, pidió a la Policía Nacional que no mate a los atacantes de su cliente, permitiendo que el sistema de justicia haga su trabajo. El ataque en la residencia de Julián en Santo Domingo Este resultó en la muerte de su esposa, Zeneida Socorro Castillo, y dejó a Julián gravemente herido.
@@ -1267,17 +1280,6 @@ Fuente: Diario Libre - José Zapata]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786218176/noticias/articles/20260808_194256_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 08 Aug 2026 19:44:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260808194433</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Muere adolescente de 15 años tras recibir varios disparos en Los Alcarrizos]]></title>
-    <link>https://panorama.com.do/muere-adolescente-de-15-anos-tras-recibir-varios-disparos-en-los-alcarrizos/</link>
-    <description><![CDATA[Erick Anderson Díaz Severino, un adolescente de 15 años, falleció después de recibir varios disparos en las inmediaciones del cementerio municipal de Los Alcarrizos.
-
-Las autoridades aún no han esclarecido las circunstancias del incidente. Erick residía en el sector Alto Chavón, Los Alcarrizos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786217889/noticias/articles/20260808_193809_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 08 Aug 2026 19:38:42 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260808193842</guid>
   </item>
 </channel>
 </rss>
