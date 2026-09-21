@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 21 Sep 2026 13:41:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 13:44:25 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Médicos devolvían hasta un 60% del dinero defraudado a Senasa mediante «pagos de san»]]></title>
+    <link>https://elnacional.com.do/nacionales/judicial/medicos-devolvian-60-dinero-defraudado-senasa-mediante-pagos-san_581379.html</link>
+    <description><![CDATA[El Ministerio Público ha descubierto una red criminal que defraudó al Seguro Nacional de Salud (SeNaSa) mediante falsas reclamaciones. Los médicos involucrados devolvían entre el 40 % y el 60 % del dinero obtenido, disfrazándolo como «pagos de san» o préstamos personales.
+
+Esta operación buscaba blanquear los recursos y ocultar el rastro del dinero. Los médicos facilitaban sus códigos PSS, sellos y firmas para validar expedientes falsos. Tras cobrar las reclamaciones fraudulentas, devolvían el dinero a los cabecillas de la red.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789998228/noticias/articles/20260921_134348_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 21 Sep 2026 13:44:25 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260921134425</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Anadegas reafirma desconectará verifones este viernes 25 de septiembre]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/09/21/anadegas-desconectara-verifon-en-780-estaciones-este-viernes-2123838/</link>
     <description><![CDATA[La Asociación Nacional de Detallistas de Gasolinas (Anadegas) ha decidido desconectar el servicio de verifones en 780 estaciones este viernes 25 de septiembre a las 6:00 de la mañana. La medida se toma tras no alcanzar un acuerdo sobre los costos de pago electrónico.
@@ -1273,21 +1284,6 @@ Las Reinas del Caribe celebraron así un nuevo título ante su público y reafir
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786150206/noticias/articles/20260808_005005_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 08 Aug 2026 00:50:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260808005034</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El nuevo presidente promete hacer de Colombia un país seguro para invertir]]></title>
-    <link>https://elnuevodiario.com.do/el-nuevo-presidente-promete-hacer-de-colombia-un-pais-seguro-para-invertir/</link>
-    <description><![CDATA[El presidente de Colombia, Abelardo de la Espriella, presentó un plan económico basado en la austeridad y la atracción de inversión. Su objetivo es recuperar la confianza en el país y hacerlo un destino seguro para inversores.
-
-De la Espriella aseguró que la austeridad no afectará a los sectores más vulnerables y que se preservarán sus programas sociales. Anunció una reforma tributaria para simplificar el sistema y eliminar el impuesto al patrimonio.
-
-La recuperación de Ecopetrol es una prioridad para el nuevo gobierno. De la Espriella autorizará el fracking para aumentar las reservas de petróleo y gas, criticando la gestión anterior de la petrolera.
-
-El presidente prometió respetar la independencia del Banco de la República y trabajar para recuperar el prestigio de Colombia ante la comunidad internacional.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786149931/noticias/articles/20260808_004531_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 08 Aug 2026 00:46:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260808004601</guid>
   </item>
 </channel>
 </rss>
