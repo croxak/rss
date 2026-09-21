@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 21 Sep 2026 12:09:41 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 13:12:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Envían a juicio a la esposa de Pedro Sánchez acusada de dos delitos]]></title>
+    <link>https://elnuevodiario.com.do/envian-a-juicio-a-la-esposa-de-pedro-sanchez-acusada-de-dos-delitos-2/</link>
+    <description><![CDATA[Begoña Gómez, esposa del presidente del Gobierno español, Pedro Sánchez, enfrentará un juicio por presuntos delitos de tráfico de influencias y malversación. El juez Juan Carlos Peinado, quien dirigió la investigación durante casi dos años y medio, tomó la decisión antes de jubilarse.
+
+La investigación comenzó tras una denuncia del sindicato Manos Limpias. Gómez deberá estar disponible para el juzgado y la Audiencia Provincial de Madrid, y comunicar cualquier cambio de domicilio.
+
+El Gobierno español ha rechazado la decisión judicial, calificándola de arbitraria e injusta, y defiende la inocencia de Gómez.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789996283/noticias/articles/20260921_131122_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 21 Sep 2026 13:12:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260921131205</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Asesinan a la esposa de Julián Oro Duro durante atraco en su propia casa; el artista está herido]]></title>
     <link>https://eldia.com.do/asesinan-en-atraco-esposa-de-julian-oro-duro-y-el-artista-fue-herido/</link>
     <description><![CDATA[La esposa del merenguero Julián Oro Duro fue asesinada en un atraco en su propia casa. El artista resultó herido y está recibiendo atención médica.
@@ -1277,17 +1290,6 @@ Esta victoria representa la segunda medalla de oro de Paulino en estos juegos y 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785977881/noticias/articles/20260806_005800_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 06 Aug 2026 00:58:25 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260806005825</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[María Dimitrova hace historia con su sexto oro consecutivo en los Juegos Centroamericanos y del Caribe]]></title>
-    <link>https://deultimominuto.net/deportes/maria-dimitrova-hace-historia-con-su-sexto-oro-consecutivo-en-los-juegos-centroamericanos-y-del-caribe/</link>
-    <description><![CDATA[María Dimitrova reafirmó su dominio en el kata al obtener su sexto oro consecutivo en los Juegos Centroamericanos y del Caribe Santo Domingo 2026. En un abarrotado Pabellón de Karate del Centro Olímpico Juan Pablo Duarte, Dimitrova venció a la venezolana Daniela García por 3-2.
-
-La atleta, nacionalizada dominicana, ha mantenido su hegemonía desde Cartagena de Indias 2006. Dimitrova expresó su emoción por ganar en casa, con su familia presente, consolidándose como una de las deportistas más exitosas de la región.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1785977767/noticias/articles/20260806_005606_article.webp" type="image/webp"/>
-    <pubDate>Thu, 06 Aug 2026 00:56:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260806005633</guid>
   </item>
 </channel>
 </rss>
