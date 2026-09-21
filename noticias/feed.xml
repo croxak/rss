@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 21 Sep 2026 16:01:28 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 16:42:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Grandes cadenas de TV de EE. UU. suspenden cobertura conjunta de Trump en apoyo a CNN]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/09/21/suspension-de-cobertura-de-trump-por-cadenas-estadounidenses/3665634</link>
+    <description><![CDATA[Las principales cadenas de televisión de EE. UU., como CBS, ABC, NBC y Fox, han decidido dejar de cubrir de forma conjunta los actos públicos del presidente Donald Trump. Esta medida es en apoyo a CNN, que junto a MS NOW y Politico, fue vetada por la Casa Blanca.
+
+CNN, MS NOW y Politico han interpuesto una demanda judicial contra el gobierno de Trump, acusándolo de intentar coartar la libertad de prensa. Trump prohibió el acceso de estos medios a la Casa Blanca por considerar que difunden "noticias falsas".
+
+Trump ha reiterado sus acusaciones contra los medios en su red Truth Social, afirmando que su gobierno enfrenta una cobertura negativa cercana al 100%. La libertad de prensa está garantizada en EE. UU. por la Primera Enmienda de la Constitución.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790008915/noticias/articles/20260921_164154_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 21 Sep 2026 16:42:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260921164214</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Julián Oro Duro fue atacado cuando llegó a su casa esta madrugada; ya habían agredido a su esposa]]></title>
     <link>https://listindiario.com/la-republica/20260921/julian-oro-duro-dijo-atacado-llego-casa-madrugada-habia-agredido-esposa_923040.html</link>
     <description><![CDATA[Julián Oro Duro fue sorprendido por unos individuos al llegar a su casa en la madrugada. Antes de su llegada, su esposa, Zeneida Socorro Castillo, había sido agredida y falleció en el acto. A Julián le robaron dinero, joyas y un celular.
@@ -1267,21 +1280,6 @@ Los 303 paquetes fueron enviados al Instituto Nacional de Ciencias Forenses (INA
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786217737/noticias/articles/20260808_193536_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 08 Aug 2026 19:36:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260808193606</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Saúl Mena hace historia y conquista el oro para RD en el debut de los e-sports]]></title>
-    <link>https://acento.com.do/amp/deportes/saul-mena-hace-historia-y-conquista-el-oro-para-rd-en-el-debut-de-los-e-sports-9733531.html</link>
-    <description><![CDATA[Saúl Mena, conocido como MenaRD, conquistó la medalla de oro en Street Fighter 6 en los XXV Juegos Centroamericanos y del Caribe Santo Domingo 2026. Esta es la primera medalla de oro para República Dominicana en e-sports en este evento.
-
-MenaRD mostró un dominio total desde la fase de grupos, avanzando a las semifinales sin perder una sola ronda y venciendo al jamaiquino Okair McLaren antes de asegurar el oro.
-
-En League of Legends, República Dominicana logró la medalla de plata tras caer 2-0 ante Colombia en la final. El equipo estuvo integrado por Engel Martínez, Juan Dimitry Hernández, Li Yuan Tony Ng Feng,  Ronald de León y Sebastián Mercado.
-
-Fuente: Acento - Abraham Marmolejos]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786159086/noticias/articles/20260808_031806_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 08 Aug 2026 03:19:24 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260808031924</guid>
   </item>
 </channel>
 </rss>
