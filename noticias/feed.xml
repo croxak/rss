@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 21 Sep 2026 13:44:25 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 14:29:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Julián Oro Duro presenta hemorragia intracraneal; MP y la Policía asumen investigación]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/09/21/ataque-a-julian-oro-duro-y-su-esposa-en-santo-domingo-este/3665542</link>
+    <description><![CDATA[Julián Oro Duro sufrió una hemorragia intracraneal tras ser atacado en su hogar en Santo Domingo Este. Su esposa, Zeneida Socorro Castillo, murió por un trauma craneofacial y una herida en el cuello.
+
+La Policía Nacional y el Ministerio Público investigan el incidente. Los atacantes robaron dinero, joyas y un teléfono celular. Equipos de investigación trabajan para identificar y localizar a los responsables.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790000909/noticias/articles/20260921_142828_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 21 Sep 2026 14:29:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260921142920</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Médicos devolvían hasta un 60% del dinero defraudado a Senasa mediante «pagos de san»]]></title>
     <link>https://elnacional.com.do/nacionales/judicial/medicos-devolvian-60-dinero-defraudado-senasa-mediante-pagos-san_581379.html</link>
     <description><![CDATA[El Ministerio Público ha descubierto una red criminal que defraudó al Seguro Nacional de Salud (SeNaSa) mediante falsas reclamaciones. Los médicos involucrados devolvían entre el 40 % y el 60 % del dinero obtenido, disfrazándolo como «pagos de san» o préstamos personales.
@@ -1269,21 +1280,6 @@ Este logro fortalece la posición de la delegación anfitriona en el medallero g
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786156424/noticias/articles/20260808_023343_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 08 Aug 2026 02:34:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260808023414</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[¡Históricas! Reinas del Caribe conquistan su séptimo oro consecutivo tras vencer a Colombia]]></title>
-    <link>https://eltestigo.com</link>
-    <description><![CDATA[Las Reinas del Caribe volvieron a escribir su nombre en la historia al conquistar la medalla de oro del voleibol femenino de los Juegos Centroamericanos y del Caribe Santo Domingo 2026, tras vencer a Colombia en la gran final.
-
-Con la victoria, República Dominicana alcanzó su séptima medalla de oro consecutiva en la competición regional, extendiendo una racha que comenzó en San Salvador 2002 y que se ha mantenido durante más de dos décadas.
-
-El conjunto dominicano llegó al partido por el campeonato luego de superar a Puerto Rico en las semifinales y volvió a responder en el momento decisivo, esta vez frente a la selección colombiana.
-
-Las Reinas del Caribe celebraron así un nuevo título ante su público y reafirmaron el dominio que han mantenido en el voleibol femenino de los Juegos Centroamericanos y del Caribe.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786150206/noticias/articles/20260808_005005_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 08 Aug 2026 00:50:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260808005034</guid>
   </item>
 </channel>
 </rss>
