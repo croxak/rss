@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 21 Sep 2026 16:44:31 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 21 Sep 2026 16:54:53 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Abogado de Julián pide a la Policía no matar a sus atacantes; descarta que sea un simple robo]]></title>
+    <link>https://listindiario.com/la-republica/20260921/abogado-julian-pide-policia-matar-atacantes-cree-improvisado_923053.html</link>
+    <description><![CDATA[El abogado Cándido Simón, defensor de Julián Oro Duro, pidió a la Policía Nacional que no mate a los atacantes de su cliente, permitiendo que el sistema de justicia haga su trabajo. El ataque en la residencia de Julián en Santo Domingo Este resultó en la muerte de su esposa, Zeneida Socorro Castillo, y dejó a Julián gravemente herido.
+
+Simón descarta que el incidente haya sido un simple robo, sugiriendo que fue planificado. Los atacantes esperaron a Julián desde las 5:00 de la tarde hasta la 1:00 de la madrugada, lo que refuerza la hipótesis de que el ataque fue premeditado.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790009611/noticias/articles/20260921_165331_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 21 Sep 2026 16:54:53 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260921165453</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader advierte a los atacantes de Julián Oro Duro a que se entreguen o les va a ir peor]]></title>
     <link>https://listindiario.com/la-republica/20260921/abinader-advierte-atacantes-julian-entreguen-les-peor_923062.html</link>
     <description><![CDATA[El presidente Luis Abinader lanzó una advertencia a los responsables del ataque en el que murió Zeneida Socorro Castillo, esposa del merenguero Julián Oro Duro, y el artista resultó herido. Les exhortó a entregarse a las autoridades o les va a ir peor.
@@ -1267,17 +1278,6 @@ Las autoridades aún no han esclarecido las circunstancias del incidente. Erick 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786217889/noticias/articles/20260808_193809_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 08 Aug 2026 19:38:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260808193842</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Incendio en vertedero de Cancino Adentro cubre de humo sectores de Santo Domingo Este]]></title>
-    <link>https://eldia.com.do/incendio-en-vertedero-de-cancino-adentro-cubre-de-humo-sectores-de-santo-domingo-este/</link>
-    <description><![CDATA[Un incendio en el vertedero de Cancino Adentro, Santo Domingo Este, ha generado una densa humareda desde las 2:00 de la madrugada, afectando a varios sectores del municipio. Las llamas han alcanzado gomas y basura, reduciendo la visibilidad en la zona.
-
-El Cuerpo de Bomberos de Santo Domingo Este está en el lugar intentando controlar el fuego. Se sospecha que el incendio pudo haber sido provocado intencionalmente. Hasta ahora, no se han reportado personas afectadas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786217779/noticias/articles/20260808_193618_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 08 Aug 2026 19:36:51 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260808193651</guid>
   </item>
 </channel>
 </rss>
