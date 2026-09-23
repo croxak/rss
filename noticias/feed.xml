@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 23 Sep 2026 18:39:07 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 18:42:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Claude Joseph y Jocelerme Privert figuran en lista preliminar de aspirantes presidenciales en Haití]]></title>
+    <link>https://eltestigo.com</link>
+    <description><![CDATA[El ex primer ministro Claude Joseph y el expresidente provisional Jocelerme Privert figuran entre los nombres inscritos en la plataforma del Consejo Electoral Provisional (CEP) de Haití, según una lista actualizada obtenida por Le Nouvelliste. Joseph aparece por Les Engagés pour le Développement y Privert por Ayiti Transfome. 
+
+La imagen de la lista muestra también a Ricardo Jean-Pierre, Gary Bodeau, Wilson Jeudy, Wilner Joseph, Maxo Joseph, Munir Joseph Mourra y Gandhy Dorfeuille. Bodeau figura bajo la plataforma Rekonsilye.
+
+La inscripción en la plataforma no significa que esas candidaturas hayan sido aprobadas definitivamente. Le Nouvelliste advierte que la relación puede cambiar cuando el CEP examine los expedientes conforme a la legislación electoral vigente en ese momento.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790188900/noticias/articles/20260923_184140_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 23 Sep 2026 18:42:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260923184209</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Esposa de Julián Oro Duro conocía a su agresor y le habría hecho una limonada antes de ser atacada]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/09/23/los-ultimos-minutos-de-la-esposa-de-julian-oro-duro-segun-testigo/3667992</link>
     <description><![CDATA[Zeneida Socorro Castillo, esposa del merenguero Julián Oro Duro, presuntamente conocía a su agresor y le habría prepararado una limonada antes de ser atacada el 20 de septiembre.
@@ -1265,19 +1278,6 @@ El PRM destacó la confianza en la experiencia y liderazgo de De los Santos y Pa
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786496817/noticias/articles/20260812_010656_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 12 Aug 2026 01:07:36 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260812010736</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno dominicano habilita centro de acopio en apoyo a Colombia]]></title>
-    <link>https://www.presidencia.gob.do/noticias/gobierno-dominicano-habilita-centro-de-acopio-en-apoyo-colombia</link>
-    <description><![CDATA[El Gobierno dominicano ha dispuesto un centro de acopio en la Armada de República Dominicana para apoyar a las comunidades afectadas por el sismo en Colombia.
-
-Ubicado en la Base Naval “27 de Febrero” en Santo Domingo Este, el centro recibirá donaciones de medicamentos, insumos médicos, alimentos y otros artículos de primera necesidad.
-
-Las donaciones serán organizadas y preparadas para su entrega. Para más información, los interesados pueden comunicarse al 829-762-2054.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786463555/noticias/articles/20260811_155234_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 11 Aug 2026 15:53:06 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260811155306</guid>
   </item>
 </channel>
 </rss>
