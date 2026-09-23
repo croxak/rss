@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 23 Sep 2026 02:36:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 04:28:18 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Donald Trump y Delcy Rodríguez se reúnen por primera vez en Nueva York]]></title>
+    <link>https://www.prensa.com/mundo/donald-trump-y-delcy-rodriguez-se-reunen-por-primera-vez-en-nueva-york/</link>
+    <description><![CDATA[Donald Trump y Delcy Rodríguez se reunieron por primera vez en Nueva York. El encuentro se realizó en el hotel Lotte New York Palace durante una recepción en la Semana de Alto Nivel de la ONU.
+
+Participaron también el secretario de Estado, Marco Rubio, y otros funcionarios estadounidenses. La reunión fue a puerta cerrada y sin acceso de la prensa.
+
+Este es el primer encuentro entre un presidente estadounidense y un gobernante venezolano en más de once años. La Administración de Trump ha respaldado al Gobierno de Rodríguez y restablecido relaciones diplomáticas con Venezuela.
+
+Recientemente, se anunció un acuerdo petrolero que permite a Estados Unidos controlar una quinta parte de las reservas de crudo venezolanas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790137673/noticias/articles/20260923_042752_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 23 Sep 2026 04:28:18 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260923042818</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía identifica a presunto autor en ataque a Julián Oro Duro]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/09/22/policia-identifica-a-presunto-autor-del-ataque-a-casa-julian-oro-duro/3667355</link>
     <description><![CDATA[La Policía Nacional ha identificado a Kevin Dariel Germán Troncoso, conocido como "Kevin" o "Yandel", como uno de los presuntos responsables del ataque en la residencia del merenguero Julián Oro Duro. En el incidente, la esposa del artista, Zeneida Socorro, fue asesinada y Julián resultó herido.
@@ -1267,17 +1282,6 @@ Finjus destaca que la Ley 20-23 prohíbe la publicación de encuestas ocho días
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786287996/noticias/articles/20260809_150636_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 09 Aug 2026 15:07:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260809150703</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Contratos de alimentos en el Inaipi son suspendidos preventivamente por presuntas irregularidades]]></title>
-    <link>https://www.diariolibre.com/politica/gobierno/2026/08/09/contratos-del-inaipi-suspendidos-por-practicas-colusorias/3623920</link>
-    <description><![CDATA[El Inaipi ha suspendido preventivamente varios contratos de alimentos debido a presuntas irregularidades detectadas en el proceso de licitación. Esta medida afecta adjudicaciones a empresas como Panaco, S.R.L. y García Tejera & Asociados, S.R.L., por un monto total de 401,541,565 pesos.
-
-La suspensión es temporal y busca garantizar la transparencia y legalidad del proceso mientras se investigan posibles prácticas colusorias. Ninguno de los contratos había iniciado su ejecución al momento de la suspensión.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786287829/noticias/articles/20260809_150349_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 09 Aug 2026 15:04:21 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260809150421</guid>
   </item>
 </channel>
 </rss>
