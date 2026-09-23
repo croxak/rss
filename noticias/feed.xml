@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 21 Sep 2026 17:10:27 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 02:36:22 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Policía identifica a presunto autor en ataque a Julián Oro Duro]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/09/22/policia-identifica-a-presunto-autor-del-ataque-a-casa-julian-oro-duro/3667355</link>
+    <description><![CDATA[La Policía Nacional ha identificado a Kevin Dariel Germán Troncoso, conocido como "Kevin" o "Yandel", como uno de los presuntos responsables del ataque en la residencia del merenguero Julián Oro Duro. En el incidente, la esposa del artista, Zeneida Socorro, fue asesinada y Julián resultó herido.
+
+Diego Pesqueira, vocero de la Policía, informó que se ha emitido una orden de arresto contra Troncoso y que las autoridades están en su búsqueda activa. Se le ha exhortado a entregarse para responder por los hechos.
+
+La investigación continúa en desarrollo, y aunque aún no se ha establecido una conexión con otros elementos del caso, se asegura que la información será presentada ante la justicia cuando corresponda.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790130945/noticias/articles/20260923_023545_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 23 Sep 2026 02:36:22 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260923023622</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía informa muerte de “Caco de Leche”, buscado por muerte de niña alcanzada por bala en Verón]]></title>
     <link>https://elnuevodiario.com.do/policia-informa-muerte-de-caco-de-leche-buscado-por-muerte-de-nina-alcanzada-por-bala-en-veron/</link>
     <description><![CDATA[Luis David Fortuna Polanco, alias “Caco de Leche”, murió tras un enfrentamiento con la Policía en Verón, Punta Cana. Fortuna Polanco, de 27 años, era buscado por su presunta implicación en la muerte de una niña de dos años.
@@ -1265,21 +1278,6 @@ La suspensión es temporal y busca garantizar la transparencia y legalidad del p
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786287829/noticias/articles/20260809_150349_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 09 Aug 2026 15:04:21 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260809150421</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presunta disputa familiar por unos tenis termina en muerte: tío es señalado por matar a sobrino]]></title>
-    <link>https://www.diariolibre.com/actualidad/nacional/2026/08/08/hombre-es-senalado-de-matar-a-sobrino-tras-discutir-por-tenis/3623498</link>
-    <description><![CDATA[Una discusión familiar en el barrio La Española, de Moca, terminó en tragedia cuando Javier Camacho Lizardo, de 26 años, murió tras recibir una estocada con un arma blanca. El presunto agresor es su tío, Francisco Lizardo, de 39 años.
-
-El incidente ocurrió alrededor de las 2:00 de la madrugada del sábado. Las versiones sobre el motivo del conflicto varían entre una disputa por unos tenis y una petición de comida a su abuela.
-
-Francisco Lizardo está bajo custodia de la Policía Nacional mientras se investigan las circunstancias del hecho. El cuerpo de Javier fue trasladado a Santiago de los Caballeros para una autopsia en el Inacif.
-
-Fuente: Diario Libre - José Zapata]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786218176/noticias/articles/20260808_194256_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 08 Aug 2026 19:44:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260808194433</guid>
   </item>
 </channel>
 </rss>
