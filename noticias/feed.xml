@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 23 Sep 2026 04:28:18 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 18:15:46 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Abinader ante la ONU: “No existe una solución dominicana a la crisis haitiana”]]></title>
+    <link>https://n.com.do/2026/09/23/abinader-ante-la-onu-no-existe-una-solucion-dominicana-a-la-crisis-haitiana/</link>
+    <description><![CDATA[El presidente Luis Abinader declaró ante la Asamblea General de la ONU que República Dominicana no puede asumir la solución de la crisis haitiana. Afirmó que corresponde a la comunidad internacional actuar en Haití para recuperar la seguridad y estabilidad.
+
+Abinader destacó que República Dominicana seguirá protegiendo sus fronteras y aplicando sus leyes migratorias. Recordó las acciones del país en apoyo a los esfuerzos internacionales y subrayó que la solución debe producirse dentro del territorio haitiano.
+
+El mandatario pidió a la comunidad internacional cumplir con las decisiones adoptadas y aportar los recursos necesarios para enfrentar la crisis en Haití.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790187275/noticias/articles/20260923_181435_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 23 Sep 2026 18:15:46 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260923181546</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Donald Trump y Delcy Rodríguez se reúnen por primera vez en Nueva York]]></title>
     <link>https://www.prensa.com/mundo/donald-trump-y-delcy-rodriguez-se-reunen-por-primera-vez-en-nueva-york/</link>
     <description><![CDATA[Donald Trump y Delcy Rodríguez se reunieron por primera vez en Nueva York. El encuentro se realizó en el hotel Lotte New York Palace durante una recepción en la Semana de Alto Nivel de la ONU.
@@ -1269,19 +1282,6 @@ La duración del mandato de las autoridades se reducirá de cuatro a dos años. 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786288204/noticias/articles/20260809_151004_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 09 Aug 2026 15:10:35 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260809151035</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Finjus cuestiona facultad de la JCE para sancionar por publicación de encuestas]]></title>
-    <link>https://www.diariolibre.com/politica/jce/2026/08/09/finjus-cuestiona-facultad-de-jce-para-sancionar-por-publicar-encuestas/3623901</link>
-    <description><![CDATA[La Fundación Institucionalidad y Justicia (Finjus) ha cuestionado la capacidad de la Junta Central Electoral (JCE) para sancionar la publicación de encuestas a través de un reglamento, señalando que debe actuar dentro de los límites de la Constitución y las leyes.
-
-La JCE ha iniciado un procedimiento sancionador contra la firma encuestadora ACD Media, S.R.L. por la presunta publicación de encuestas fuera del período legalmente permitido.
-
-Finjus destaca que la Ley 20-23 prohíbe la publicación de encuestas ocho días antes de las votaciones, pero el reglamento de la JCE añade prohibiciones y sanciones adicionales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786287996/noticias/articles/20260809_150636_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 09 Aug 2026 15:07:03 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260809150703</guid>
   </item>
 </channel>
 </rss>
