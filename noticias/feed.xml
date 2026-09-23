@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 23 Sep 2026 18:15:46 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 23 Sep 2026 18:26:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Juez dicta un año de prisión a "El Viajero" imputado ser cabecilla de red de narcotráfico]]></title>
+    <link>https://eldia.com.do/juez-dicta-un-ano-de-prision-a-el-viajero-imputado-ser-cabecilla-de-red-de-narcotrafico/#google_vignette</link>
+    <description><![CDATA[José Miguel Ceballos Rosario, alias "El Viajero", fue enviado a prisión preventiva por un año, acusado de liderar una red de narcotráfico. La medida fue dictada por un juez de La Vega tras su arresto en la Operación LM2, donde se incautaron 168 paquetes de cocaína.
+
+La droga estaba oculta en tubos de metal en Villa Vásquez. La organización enviaba cocaína a Estados Unidos y Europa usando cajas de cartón de doble fondo y estructuras metálicas. La operación se desprende de una investigación previa que desmanteló otra estructura criminal.
+
+En intervenciones anteriores, se incautaron 392 láminas de cocaína y se arrestaron a tres personas, quienes fueron condenadas a 15 años de prisión. Las autoridades continúan persiguiendo a otros miembros de la red.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790187982/noticias/articles/20260923_182622_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 23 Sep 2026 18:26:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260923182655</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader ante la ONU: “No existe una solución dominicana a la crisis haitiana”]]></title>
     <link>https://n.com.do/2026/09/23/abinader-ante-la-onu-no-existe-una-solucion-dominicana-a-la-crisis-haitiana/</link>
     <description><![CDATA[El presidente Luis Abinader declaró ante la Asamblea General de la ONU que República Dominicana no puede asumir la solución de la crisis haitiana. Afirmó que corresponde a la comunidad internacional actuar en Haití para recuperar la seguridad y estabilidad.
@@ -1269,19 +1282,6 @@ Las designaciones forman parte de la nueva estructura nacional del PRM, encabeza
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786331639/noticias/articles/20260810_031358_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 10 Aug 2026 03:14:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260810031457</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[PRM celebra hoy domingo Asamblea de Delegados para renovar su dirección nacional]]></title>
-    <link>https://elnuevodiario.com.do/prm-celebra-hoy-domingo-asamblea-de-delegados-para-renovar-su-direccion-nacional/</link>
-    <description><![CDATA[El Partido Revolucionario Moderno (PRM) realiza hoy su Asamblea de Delegados en el Hotel Sheraton, Santo Domingo, para elegir nuevas autoridades.
-
-Luis Abinader será elegido presidente del PRM, reemplazando a José Ignacio Paliza. Deligne Ascención asumirá como primer vicepresidente ejecutivo.
-
-La duración del mandato de las autoridades se reducirá de cuatro a dos años. Juan Garrigó Mejía es mencionado para la Secretaría General, y Gloria Reyes para la Secretaría de Organización.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786288204/noticias/articles/20260809_151004_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 09 Aug 2026 15:10:35 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260809151035</guid>
   </item>
 </channel>
 </rss>
