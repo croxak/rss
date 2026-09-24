@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 24 Sep 2026 22:14:57 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 22:18:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Sepultan los restos de Zeneida Socorro Castillo, esposa de Julián Oro Duro]]></title>
+    <link>https://listindiario.com/entretenimiento/20260924/sepultan-restos-zeneida-socorro-castillo-esposa-julian-oro-duro_923536.html</link>
+    <description><![CDATA[Zeneida Socorro Castillo, esposa del merenguero Julián Oro Duro, fue sepultada en el Cementerio Cristo Salvador tras su trágica muerte durante un asalto en su residencia. Familiares y amigos, incluyendo al artista Yiyo Sarante, se reunieron para despedirla.
+
+La Policía Nacional ha recuperado parte del dinero y pertenencias robadas durante el asalto. El abogado de Julián, Cándido Simó, expresó que la recuperación de los bienes no es lo más importante para el cantante frente a la pérdida de su esposa.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790288256/noticias/articles/20260924_221735_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 24 Sep 2026 22:18:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260924221841</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El PLD aplaza para el lunes 28 de septiembre asamblea sobre la consulta presidencial]]></title>
     <link>https://www.diariolibre.com/politica/general/2026/09/24/pld-aplaza-para-el-lunes-28-de-septiembre-asamblea-sobre-la-consulta-p/3669468</link>
     <description><![CDATA[El Partido de la Liberación Dominicana (PLD) ha decidido aplazar para el lunes 28 de septiembre una asamblea con dirigentes nacionales. Esta reunión, que estaba prevista para el viernes 25 de septiembre, busca ofrecer orientaciones finales para la Consulta sobre Aspirantes Presidenciales, programada para el 18 de octubre.
@@ -1289,19 +1300,6 @@ Esta disposición es la primera orden administrativa de Rodríguez García desde
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787431577/noticias/articles/20260822_204617_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 22 Aug 2026 20:46:41 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260822204641</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Abinader designa al general Martín Miguel Tapia Sánchez como nuevo inspector general de la Policía Nacional]]></title>
-    <link>https://elpregonerord.com/presidente-abinader-designa-al-general-martin-miguel-tapia-sanchez-como-nuevo-inspector-general-de-la-policia-nacional/</link>
-    <description><![CDATA[El presidente Luis Abinader ha designado al general Martín Miguel Tapia Sánchez como nuevo inspector general de la Policía Nacional, según el Decreto núm. 574-26 emitido el 18 de agosto de 2026.
-
-La medida fue enviada al Ministerio de Interior y Policía y a la Dirección General de la Policía Nacional para su ejecución inmediata. Esta acción forma parte del proceso de reorganización y fortalecimiento de la estructura policial.
-
-La Inspectoría General es responsable de supervisar el cumplimiento de los procedimientos internos y garantizar el correcto desempeño de los miembros de la entidad.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787171330/noticias/articles/20260819_202850_article.webp" type="image/webp"/>
-    <pubDate>Wed, 19 Aug 2026 20:29:27 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260819202927</guid>
   </item>
 </channel>
 </rss>
