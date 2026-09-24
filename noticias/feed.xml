@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 24 Sep 2026 01:39:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 11:29:07 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Al menos tres heridos en espectáculo de Ramón Orlando en Estadio Olímpico]]></title>
+    <link>https://listindiario.com/entretenimiento/conciertos/20260923/tres-heridos-espectaculo-ramon-orlando-estadio-olimpico_923471.html</link>
+    <description><![CDATA[Durante un espectáculo de Ramón Orlando en el Estadio Olímpico, al menos tres personas resultaron heridas por la explosión de un cañón de serpentinas. Uno de los lesionados llevaba un t-shirt del portal Reconocidos, y otro fue el fotógrafo Víctor Ramírez de Listín Diario, quien salió por sus propios medios. Un tercer herido no ha sido identificado.
+
+Jesús Jiménez, CEO de Reconocidos, confirmó que el fotógrafo de su portal fue ingresado en una clínica privada. Las barandas del lugar salieron volando por la presión, según la periodista Yari Araujo.
+
+Tras el incidente, se restringió el acceso de la prensa al área cercana al escenario. El suceso ocurrió cuando Juan Luis Guerra subió a la tarima y se activó el lanzador de serpentinas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790249316/noticias/articles/20260924_112836_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 24 Sep 2026 11:29:07 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260924112907</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Phillips era un “todologo” de confianza de Julián Oro Duro, según testimonio del artista]]></title>
     <link>https://eltestigo.com</link>
     <description><![CDATA[El vocero de la Policía Nacional, coronel Diego Pesqueira, informó que Phillips Michael Tejeda Vásquez, uno de los detenidos por el caso de la esposa de Julián Oro Duro, era una persona de confianza del artista, a quien acompañaba como chofer en sus compromisos y realizaba diversos trabajos en sus propiedades.
@@ -1265,17 +1278,6 @@ Daniel Rivera ocupará la vicepresidencia de la Cámara Alta durante el mismo pe
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786497960/noticias/articles/20260812_012600_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 12 Aug 2026 01:26:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260812012632</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Pimentel se ausentó de audiencia Intrant por compromisos en Conferencia Interamericana de Compras Gubernamentales]]></title>
-    <link>https://m.n.com.do/2026/08/11/pimentel-se-ausento-de-audiencia-intrant-por-compromisos-en-conferencia-interamericana-de-compras-gubernamentales/</link>
-    <description><![CDATA[Carlos Pimentel, director de la Dirección General de Contrataciones Públicas, no asistió a la audiencia del caso Intrant por compromisos en la Conferencia Interamericana de Compras Gubernamentales en Monterrey, México.
-
-Pimentel informó al tribunal sobre su ausencia con una comunicación formal y la agenda de la conferencia. Afirmó que la DGCP seguirá colaborando en el caso Intrant y que participará en futuras instancias judiciales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786497008/noticias/articles/20260812_011008_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 12 Aug 2026 01:13:32 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260812011332</guid>
   </item>
 </channel>
 </rss>
