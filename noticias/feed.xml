@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 24 Sep 2026 13:43:22 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 13:47:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Indomet prevé un jueves feriado mayormente soleado y con aguaceros en la tarde]]></title>
+    <link>https://noticiassin.com/pais/clima/2026/09/24/indomet-preve-jueves-feriado-soleado-con-aguaceros-tarde-2126847/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) pronostica un jueves feriado mayormente soleado en República Dominicana, con aguaceros y tronadas aisladas en la tarde en varias localidades. Las provincias afectadas podrían incluir La Vega, Santiago, Elías Piña, entre otras. En el Distrito Nacional y el Gran Santo Domingo se esperan condiciones mayormente soleadas con chubascos aislados.
+
+Indomet también informa que la tormenta tropical Fay se encuentra a más de 1,600 kilómetros al oeste de las Azores y no representa peligro para el país. Además, se vigila una zona de baja presión al sureste de Cabo Verde con un 60 % de probabilidad de formación ciclónica.
+
+Las temperaturas mínimas estarán entre 24 °C y 26 °C, y las máximas, entre 33 °C y 35 °C.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790257593/noticias/articles/20260924_134632_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 24 Sep 2026 13:47:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260924134734</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Trump recibe líder de China con alfombra roja en EE.UU.]]></title>
     <link>https://hoy.com.do/el-mundo/estados-unidos/trump-recibe-lider-china-alfombra-roja-ee-uu_1103409.html</link>
     <description><![CDATA[Donald Trump recibió al presidente de China, Xi Jinping, con una ceremonia de bienvenida en la base militar de Andrews, marcando la primera visita de Estado de Xi a Washington en más de una década.
@@ -1285,17 +1298,6 @@ Ha representado a la República Dominicana ante la OACI y ha participado en asam
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786911276/noticias/articles/20260816_201436_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 16 Aug 2026 20:15:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260816201505</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Designan a Erdwín Robert Olivares Luciano como director del COE en sustitución de Méndez García]]></title>
-    <link>https://elnuevodiario.com.do/abinader-designa-a-erdwin-robert-olivares-luciano-como-director-del-coe/</link>
-    <description><![CDATA[El presidente Luis Abinader ha nombrado a Erdwín Robert Olivares Luciano como nuevo director del Centro de Operaciones de Emergencias (COE), según el Decreto núm. 551-26. Este cambio se produce en sustitución de Juan Manuel Méndez García.
-
-Juan Manuel Méndez García, quien estuvo al frente del COE durante años, ha sido designado como director del Instituto Nacional de Tránsito y Transporte Terrestre (Intrant). Este nombramiento se da tras la renuncia de Milton Morrison.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786908942/noticias/articles/20260816_193542_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 16 Aug 2026 19:36:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260816193614</guid>
   </item>
 </channel>
 </rss>
