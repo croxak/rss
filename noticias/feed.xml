@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 24 Sep 2026 20:20:49 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 20:24:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Recuperan US$33,690, RD$196,500, relojes y cadenas tras asalto en casa de Julián Oro Duro]]></title>
+    <link>https://listindiario.com/la-republica/justicia/20260924/recuperan-miles-dolares-efectivo-relojes-cadenas-trsa-asalto-casa-julian-oro-duro_923521.html</link>
+    <description><![CDATA[La Policía Nacional informó sobre la recuperación de US$33,690, RD$196,500, relojes y cadenas tras un asalto en la residencia del merenguero Julián Oro Duro, ubicada en Santo Domingo Este. Durante el incidente, su esposa fue ultimada y el artista resultó herido.
+
+En el proceso investigativo, se recuperó una motocicleta en Los Guaricanos, Santo Domingo Norte, presuntamente utilizada por los perpetradores. Cuatro personas fueron arrestadas y se incautaron diversas pertenencias.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790281416/noticias/articles/20260924_202336_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 24 Sep 2026 20:24:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260924202419</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Julián Oro Duro es sometido a segunda operación; podría recibir el alta este viernes]]></title>
     <link>https://listindiario.com/entretenimiento/20260924/julian-oro-duro-sometido-segunda-operacion-recibir-alta-viernes_923534.html</link>
     <description><![CDATA[Julián Oro Duro, reconocido merenguero, ha sido sometido a una segunda operación tras un incidente en el que su esposa fue asesinada. El jurista Cándido Simó informó que el artista está estable y que la lesión ocular no afectará significativamente su visión.
@@ -1291,17 +1302,6 @@ La licitación busca mejorar la calidad y competencia en los servicios de teleco
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787161198/noticias/articles/20260819_173958_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 19 Aug 2026 17:40:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260819174032</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Tribunal cancela la concesión minera a Falcondo por incumplimientos]]></title>
-    <link>https://www.diariolibre.com/actualidad/justicia/2026/08/17/tsa-pone-fin-a-casi-70-anos-de-concesion-de-falcondo/3631618</link>
-    <description><![CDATA[El Tribunal Superior Administrativo (TSA) ha cancelado la concesión minera de Falconbridge Dominicana (Falcondo) debido a incumplimientos. La Segunda Sala del TSA acogió la acción presentada por el Fondo Patrimonial de las Empresas Reformadas (Fonper) y ordenó la terminación de los contratos de concesión de 1956 y 1969 para Quisqueya I.
-
-La sentencia núm. 0030-03-2026-SSEN-00332, emitida el 12 de agosto de 2026, determinó que Falcondo incumplió en la explotación de recursos, obligaciones económicas y laborales, y en la entrega de información técnica. Las operaciones de Quisqueya estaban paralizadas desde noviembre de 2023, y no se entregaron informes semestrales y anuales de 2023 a 2025.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787013432/noticias/articles/20260818_003711_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 18 Aug 2026 00:37:39 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260818003739</guid>
   </item>
 </channel>
 </rss>
