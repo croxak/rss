@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 24 Sep 2026 17:04:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 17:06:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[RD extradita a PR a "El Negro Amante", requerido por asesinato y otros delitos]]></title>
+    <link>https://m.n.com.do/2026/09/24/rd-extradita-a-pr-a-el-negro-amante-requerido-por-asesinato-y-otros-delitos/</link>
+    <description><![CDATA[La Procuraduría General de la República y la Dirección Nacional de Control de Drogas, con el apoyo de la Oficina de Alguaciles de Estados Unidos, completaron la extradición de Ramón Martínez, alias "El Negro Amante", a Puerto Rico.
+
+Martínez, de 44 años, es requerido por la justicia puertorriqueña por cargos de asesinato en primer grado, tentativa de homicidio y otros delitos relacionados con armas de fuego.
+
+Su captura se realizó en agosto en Santo Domingo Oeste, donde se le incautó un vehículo, una pistola y municiones.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790269531/noticias/articles/20260924_170531_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 24 Sep 2026 17:06:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260924170600</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Prisión preventiva contra dos hombres acusados de tala ilegal en el Parque Nacional Valle Nuevo]]></title>
     <link>https://www.diariolibre.com/actualidad/justicia/2026/09/24/dos-hombres-a-prision-por-devastar-30-tareas-de-tierra-en-valle-nuevo/3668805</link>
     <description><![CDATA[La Oficina Judicial de Servicios de Atención Permanente de San José de Ocoa ha impuesto tres meses de prisión preventiva a Juan Encarnación y Nery Encarnación. Ambos están acusados de tala ilegal en el Parque Nacional Valle Nuevo.
@@ -1281,19 +1294,6 @@ Entre 2020 y 2026, Rodríguez fue director ejecutivo de la Autoridad Portuaria D
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786916081/noticias/articles/20260816_213439_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 16 Aug 2026 21:35:30 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260816213530</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader designa a Víctor -Ito- Bisonó como Canciller en el Ministerio de Relaciones Exteriores]]></title>
-    <link>https://elpregonerord.com/abinader-designa-a-victor-ito-bisono-como-canciller-en-el-ministerio-de-relaciones-exteriores/</link>
-    <description><![CDATA[El presidente Luis Abinader ha nombrado a Víctor -Ito- Bisonó Haza como el nuevo ministro de Relaciones Exteriores de la República Dominicana, mediante el decreto núm. 554-26.
-
-Bisonó tiene una extensa trayectoria en la vida institucional del país, habiendo sido diputado del Distrito Nacional durante cuatro períodos consecutivos y ocupando cargos como ministro de Industria, Comercio y Mipymes y ministro de Vivienda.
-
-Además, es fundador y presidente del Centro de Análisis para Políticas Públicas (CAPP) y autor de cinco obras sobre política y economía.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786915746/noticias/articles/20260816_212906_article.webp" type="image/webp"/>
-    <pubDate>Sun, 16 Aug 2026 21:29:39 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260816212939</guid>
   </item>
 </channel>
 </rss>
