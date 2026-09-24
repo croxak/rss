@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 24 Sep 2026 17:07:07 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 17:12:24 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Estados Unidos aumenta la cuota dominicana de exportación de azúcar de caña cruda un 6.3 %]]></title>
+    <link>https://m.n.com.do/2026/09/24/estados-unidos-aumenta-la-cuota-dominicana-de-exportacion-de-azucar-de-cana-cruda-un-6-3/</link>
+    <description><![CDATA[Estados Unidos ha aumentado la cuota de exportación de azúcar de caña cruda de la República Dominicana en un 6.3 %, alcanzando las 201,274 toneladas métricas para el año fiscal 2027. Este incremento permite que el azúcar dominicano ingrese al mercado estadounidense con un arancel preferente.
+
+La República Dominicana ahora concentra el 18 % del total de la cuota azucarera que Estados Unidos asigna a proveedores extranjeros, manteniéndose como el principal beneficiario individual. Esta decisión es resultado de la redistribución de 55,993 toneladas retiradas de la asignación de Brasil.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790269917/noticias/articles/20260924_171157_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 24 Sep 2026 17:12:24 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260924171224</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Nueve dominicanos y colombianos detenidos en Roma por narcotráfico y secuestro]]></title>
     <link>https://m.n.com.do/2026/09/24/dominicanos-colombianos-detenidos-roma-narcotrafico-secuestro/</link>
     <description><![CDATA[Nueve personas de nacionalidades dominicana y colombiana fueron detenidas en Roma, acusadas de integrar una organización dedicada al tráfico internacional de drogas y vinculadas al secuestro y extorsión de un ciudadano colombiano. La operación fue ejecutada por la Squadra Mobile de Roma y los Carabineros de Civitavecchia.
@@ -1283,17 +1294,6 @@ Entre sus principales retos están la modernización de terminales marinas, fort
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786916773/noticias/articles/20260816_214612_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 16 Aug 2026 21:46:54 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260816214654</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Julia Muñiz Suberví es designada presidenta del Consejo de Administración de Autoridad Portuaria]]></title>
-    <link>https://elnuevodiario.com.do/julia-muniz-subervi-es-designada-presidenta-del-consejo-de-administracion-de-autoridad-portuaria/</link>
-    <description><![CDATA[El presidente Luis Abinader ha designado a Julia Muñiz Suberví como presidenta del Consejo de Administración de la Autoridad Portuaria Dominicana, según el Decreto núm. 554-26.
-
-Muñiz Suberví es abogada con experiencia en consultoría legal, educación, gestión institucional y asuntos públicos. Es licenciada en Derecho por la PUCMM y realizó estudios de posgrado en España. Fundadora de Muñiz Suberví Consultores Legales y Candiotti Group, ha trabajado en la Dirección General de Aduanas, el Inaipi y la Superintendencia de Electricidad. También ha sido vicerrectora académica, directora ejecutiva de AINEP y docente universitaria. Además, ha trabajado como comunicadora y columnista.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786916610/noticias/articles/20260816_214316_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 16 Aug 2026 21:44:24 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260816214424</guid>
   </item>
 </channel>
 </rss>
