@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 24 Sep 2026 13:59:30 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 17:04:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Prisión preventiva contra dos hombres acusados de tala ilegal en el Parque Nacional Valle Nuevo]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/09/24/dos-hombres-a-prision-por-devastar-30-tareas-de-tierra-en-valle-nuevo/3668805</link>
+    <description><![CDATA[La Oficina Judicial de Servicios de Atención Permanente de San José de Ocoa ha impuesto tres meses de prisión preventiva a Juan Encarnación y Nery Encarnación. Ambos están acusados de tala ilegal en el Parque Nacional Valle Nuevo.
+
+El Ministerio Público señala que devastaron 30 tareas de tierra en Yuna, Loma La Placeta, afectando especies nativas y endémicas. Se les acusa de violar artículos de la Constitución y leyes ambientales.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790269432/noticias/articles/20260924_170351_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 24 Sep 2026 17:04:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260924170419</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Juez bloquea veto de Trump y ordena restablecer el acceso a la Casa Blanca a CNN, MS NOW y Politico]]></title>
     <link>https://m.n.com.do/2026/09/24/juez-bloquea-veto-de-trump-y-ordena-restablecer-el-acceso-a-la-casa-blanca-a-cnn-ms-now-y-politico/</link>
     <description><![CDATA[Un juez federal ha bloqueado temporalmente la prohibición de acceso a la Casa Blanca impuesta por el presidente Donald Trump a CNN, MS NOW y Politico. El juez Timothy Kelly ordenó restablecer las credenciales de los medios, señalando que probablemente fueron revocadas sin las debidas garantías procesales.
@@ -1283,19 +1294,6 @@ Además, es fundador y presidente del Centro de Análisis para Políticas Públi
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786915746/noticias/articles/20260816_212906_article.webp" type="image/webp"/>
     <pubDate>Sun, 16 Aug 2026 21:29:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260816212939</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader designa a Kenia Guante Valdez directora del INAIPI; Josefa Castillo será cónsul general en Miami]]></title>
-    <link>https://elpregonerord.com/abinader-designa-a-kenia-guante-valdez-directora-del-inaipi-josefa-castillo-sera-consul-general-en-miami/</link>
-    <description><![CDATA[El presidente Luis Abinader ha realizado nuevas designaciones en el gobierno. Kenia Xiomara Guante Valdez es la nueva directora del INAIPI, encargada de la atención integral a la primera infancia.
-
-Josefa Aquilina Castillo Rodríguez ha sido nombrada cónsul general en Miami, una posición clave debido a la gran comunidad dominicana en la zona.
-
-José Benedicto Hernández Tejada dirigirá el Instituto Nacional de Migración, enfocado en políticas migratorias del país.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786913970/noticias/articles/20260816_205930_article.webp" type="image/webp"/>
-    <pubDate>Sun, 16 Aug 2026 21:00:04 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260816210004</guid>
   </item>
 </channel>
 </rss>
