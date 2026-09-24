@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 24 Sep 2026 11:42:48 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 11:43:54 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Luis Abinader afirma que su mayor legado es haber blindado la Constitución para limitar la reelección presidencial]]></title>
+    <link>https://eldia.com.do/luis-abinader-afirma-que-su-mayor-legado-es-haber-blindado-la-constitucion-para-limitar-la-reeleccion-presidencial/</link>
+    <description><![CDATA[El presidente Luis Abinader afirmó que su mayor legado es haber blindado la Constitución para limitar la reelección presidencial. Durante una ceremonia en Nueva York, donde recibió la Insignia de Oro de Americas Society, destacó que su gobierno no utilizó la mayoría legislativa para facilitar su permanencia en el poder, sino para fortalecer la democracia.
+
+Abinader presentó indicadores económicos y sociales de República Dominicana, proyectando un crecimiento económico del 4.5% y destacando logros en turismo y exportaciones. La ceremonia se llevó a cabo en la histórica sede de Americas Society.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790250199/noticias/articles/20260924_114319_article.webp" type="image/webp"/>
+    <pubDate>Thu, 24 Sep 2026 11:43:54 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260924114354</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Implicados se reunieron en la entrada del municipio La Victoria antes de trasladarse a casa de Julián Oro Duro]]></title>
     <link>https://n.com.do/2026/09/23/implicados-se-reunieron-en-la-entrada-del-municipio-la-victoria-antes-de-trasladarse-a-casa-de-julian-oro-duro/</link>
     <description><![CDATA[La Policía Nacional ha revelado detalles preliminares sobre la muerte de Zeneida Socorro Castillo, esposa del merenguero Julián Sarante, “Julián Oro Duro”. Cuatro detenidos fueron captados reunidos en La Victoria antes de que dos de ellos se trasladaran a la residencia de la pareja en Santo Domingo Este.
@@ -1287,17 +1298,6 @@ Además, Carlos Manuel Paulino Cárdenas ha asumido la dirección de la Defensa 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786907868/noticias/articles/20260816_191748_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 16 Aug 2026 19:18:15 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260816191815</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Muere joven uruguayo tras caer desde décimo piso de torre en Piantini]]></title>
-    <link>https://noticiassin.com/pais/sucesos/2026/08/16/muere-uruguayo-al-caer-de-torre-en-piantini-2090452/?amp=1</link>
-    <description><![CDATA[Joaquín Martínez, un joven uruguayo de 26 años, falleció este domingo al caer desde el décimo piso de la Torre Regatta Living en Piantini, Distrito Nacional.
-
-Las autoridades están investigando las circunstancias en que ocurrió el incidente.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786906026/noticias/articles/20260816_184706_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 16 Aug 2026 18:47:32 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260816184732</guid>
   </item>
 </channel>
 </rss>
