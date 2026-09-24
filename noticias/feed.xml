@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 24 Sep 2026 17:32:10 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 20:20:49 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Julián Oro Duro es sometido a segunda operación; podría recibir el alta este viernes]]></title>
+    <link>https://listindiario.com/entretenimiento/20260924/julian-oro-duro-sometido-segunda-operacion-recibir-alta-viernes_923534.html</link>
+    <description><![CDATA[Julián Oro Duro, reconocido merenguero, ha sido sometido a una segunda operación tras un incidente en el que su esposa fue asesinada. El jurista Cándido Simó informó que el artista está estable y que la lesión ocular no afectará significativamente su visión.
+
+Oro Duro podría ser dado de alta entre este viernes y el sábado. Aunque emocionalmente afectado, se mantiene mentalmente lúcido y al tanto de la investigación del caso.
+
+Simó señaló que la participación de Oro Duro en el proceso judicial dependerá de la autorización médica, y que el artista ha recibido información sobre los detenidos relacionados con el caso.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790281200/noticias/articles/20260924_202000_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 24 Sep 2026 20:20:49 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260924202049</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Robert de la Cruz asume responsabilidad por fallida comunicación entre Francisco Javier y Danilo Medina]]></title>
     <link>https://eltestigo.com</link>
     <description><![CDATA[Robert de la Cruz aclaró este miércoles que una dificultad de coordinación de su parte impidió que el aspirante presidencial del Partido de la Liberación Dominicana (PLD), Francisco Javier García, pudiera establecer comunicación con el expresidente y presidente de esa organización, Danilo Medina.
@@ -1289,19 +1302,6 @@ La sentencia núm. 0030-03-2026-SSEN-00332, emitida el 12 de agosto de 2026, det
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787013432/noticias/articles/20260818_003711_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 18 Aug 2026 00:37:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260818003739</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader designa a José Andújar en Desarrollo Provincial y Nidio Encarnación en UTEPDA]]></title>
-    <link>https://acento.com.do/amp/actualidad/abinader-designa-nuevos-titulares-en-desarrollo-provincial-y-utepda-9738094.html</link>
-    <description><![CDATA[El presidente Luis Abinader ha realizado cambios en el tren gubernamental mediante el Decreto 555-26. José Dolores Andújar Ramírez es el nuevo director de la Dirección de Desarrollo Provincial, mientras que Nidio Encarnación Santiago ha sido nombrado director ejecutivo de la UTEPDA.
-
-En Santiago, César Andrés Pichardo Fermín ha sido designado presidente del Consejo de Directores de Coraasan, y Bernardo Antonio Inoa Pichardo como miembro del mismo consejo.
-
-En el servicio exterior, Elías de Jesús Brache Rivas ha sido nombrado cónsul general en Los Ángeles, California.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786919786/noticias/articles/20260816_223626_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 16 Aug 2026 22:36:57 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260816223657</guid>
   </item>
 </channel>
 </rss>
