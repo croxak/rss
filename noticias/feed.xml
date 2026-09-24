@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 24 Sep 2026 13:47:34 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 13:54:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[RD y Azerbaiyán acuerdan exención de visado para titulares de pasaportes ordinarios]]></title>
+    <link>https://m.n.com.do/2026/09/24/rd-y-azerbaiyan-acuerdan-exencion-de-visado-para-titulares-de-pasaportes-ordinarios/</link>
+    <description><![CDATA[La República Dominicana y Azerbaiyán han firmado un acuerdo para la exención de visado para titulares de pasaportes ordinarios. Este acuerdo fue firmado por los ministros de Relaciones Exteriores de ambos países en Nueva York, durante la Asamblea General de las Naciones Unidas.
+
+El acuerdo permite a los ciudadanos de ambos países entrar, salir o transitar sin visado por un período de hasta 90 días dentro de cada 180 días.
+
+Además, se firmó un Memorando de Entendimiento sobre Consultas Políticas para fortalecer el diálogo bilateral. Los ministros también discutieron oportunidades de cooperación en áreas políticas, económicas y comerciales.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790258007/noticias/articles/20260924_135327_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 24 Sep 2026 13:54:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260924135440</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Indomet prevé un jueves feriado mayormente soleado y con aguaceros en la tarde]]></title>
     <link>https://noticiassin.com/pais/clima/2026/09/24/indomet-preve-jueves-feriado-soleado-con-aguaceros-tarde-2126847/</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) pronostica un jueves feriado mayormente soleado en República Dominicana, con aguaceros y tronadas aisladas en la tarde en varias localidades. Las provincias afectadas podrían incluir La Vega, Santiago, Elías Piña, entre otras. En el Distrito Nacional y el Gran Santo Domingo se esperan condiciones mayormente soleadas con chubascos aislados.
@@ -1285,19 +1298,6 @@ Mariana Tavarez de Santos asumirá como directora general de Mercados Dominicano
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786911851/noticias/articles/20260816_202411_article.webp" type="image/webp"/>
     <pubDate>Sun, 16 Aug 2026 20:24:38 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260816202438</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader designa a Julio Peña Guzmán en la Junta de Aviación Civil]]></title>
-    <link>https://elpregonerord.com/abinader-designa-a-julio-pena-guzman-en-la-junta-de-aviacion-civil/</link>
-    <description><![CDATA[El presidente Luis Abinader ha designado a Julio Peña Guzmán como nuevo presidente de la Junta de Aviación Civil (JAC) mediante el Decreto 552-26.
-
-Peña Guzmán es abogado, diplomático y gestor público con más de 20 años de experiencia. Es licenciado en Derecho por la PUCMM y tiene maestrías en Gobierno, Ciencias Políticas, Defensa y Seguridad Nacional.
-
-Ha representado a la República Dominicana ante la OACI y ha participado en asambleas y reuniones de alto nivel relacionadas con el transporte aéreo. Su experiencia incluye la actualización del marco jurídico e institucional aeronáutico.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786911276/noticias/articles/20260816_201436_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 16 Aug 2026 20:15:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260816201505</guid>
   </item>
 </channel>
 </rss>
