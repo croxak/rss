@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 24 Sep 2026 11:43:54 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 13:43:22 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Trump recibe líder de China con alfombra roja en EE.UU.]]></title>
+    <link>https://hoy.com.do/el-mundo/estados-unidos/trump-recibe-lider-china-alfombra-roja-ee-uu_1103409.html</link>
+    <description><![CDATA[Donald Trump recibió al presidente de China, Xi Jinping, con una ceremonia de bienvenida en la base militar de Andrews, marcando la primera visita de Estado de Xi a Washington en más de una década.
+
+La recepción incluyó honores militares y el sobrevuelo de dos bombarderos B-1. Trump y Xi escucharon los himnos nacionales y pasaron revista a una formación militar.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790257376/noticias/articles/20260924_134256_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 24 Sep 2026 13:43:22 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260924134322</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Luis Abinader afirma que su mayor legado es haber blindado la Constitución para limitar la reelección presidencial]]></title>
     <link>https://eldia.com.do/luis-abinader-afirma-que-su-mayor-legado-es-haber-blindado-la-constitucion-para-limitar-la-reeleccion-presidencial/</link>
     <description><![CDATA[El presidente Luis Abinader afirmó que su mayor legado es haber blindado la Constitución para limitar la reelección presidencial. Durante una ceremonia en Nueva York, donde recibió la Insignia de Oro de Americas Society, destacó que su gobierno no utilizó la mayoría legislativa para facilitar su permanencia en el poder, sino para fortalecer la democracia.
@@ -1285,19 +1296,6 @@ Juan Manuel Méndez García, quien estuvo al frente del COE durante años, ha si
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786908942/noticias/articles/20260816_193542_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 16 Aug 2026 19:36:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260816193614</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader designa a Juan Manuel Méndez en el Intrant y realiza cambios en organismos de emergencia]]></title>
-    <link>https://elnacional.com.do/nacionales/abinader-designa-juan-manuel-mendez-intrant-realiza-cambios-organismos-emergencia_578498_amp.html</link>
-    <description><![CDATA[El presidente Luis Abinader ha designado a Juan Manuel Méndez García como el nuevo director ejecutivo del Instituto Nacional de Tránsito y Transporte Terrestre (Intrant). Este cambio se produce tras la renuncia de Milton Morrison y se formalizó mediante el decreto 551-26.
-
-Méndez García, quien lideró el Centro de Operaciones de Emergencias (COE) durante años, ahora estará al frente del organismo encargado de regular el tránsito en el país. En el COE, Erdwin Robert Olivares Luciano ha sido nombrado como nuevo director.
-
-Además, Carlos Manuel Paulino Cárdenas ha asumido la dirección de la Defensa Civil, tras la dimisión de Juan Cesario Salas Rosario, quien fue designado asesor honorífico del Poder Ejecutivo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786907868/noticias/articles/20260816_191748_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 16 Aug 2026 19:18:15 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260816191815</guid>
   </item>
 </channel>
 </rss>
