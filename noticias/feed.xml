@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 24 Sep 2026 13:54:40 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 13:59:30 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Juez bloquea veto de Trump y ordena restablecer el acceso a la Casa Blanca a CNN, MS NOW y Politico]]></title>
+    <link>https://m.n.com.do/2026/09/24/juez-bloquea-veto-de-trump-y-ordena-restablecer-el-acceso-a-la-casa-blanca-a-cnn-ms-now-y-politico/</link>
+    <description><![CDATA[Un juez federal ha bloqueado temporalmente la prohibición de acceso a la Casa Blanca impuesta por el presidente Donald Trump a CNN, MS NOW y Politico. El juez Timothy Kelly ordenó restablecer las credenciales de los medios, señalando que probablemente fueron revocadas sin las debidas garantías procesales.
+
+La Casa Blanca había argumentado que la prohibición era necesaria por motivos de seguridad nacional, pero el tribunal encontró insuficientes los elementos presentados para respaldar esa afirmación.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790258280/noticias/articles/20260924_135800_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 24 Sep 2026 13:59:30 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260924135930</guid>
+  </item>
+
+  <item>
     <title><![CDATA[RD y Azerbaiyán acuerdan exención de visado para titulares de pasaportes ordinarios]]></title>
     <link>https://m.n.com.do/2026/09/24/rd-y-azerbaiyan-acuerdan-exencion-de-visado-para-titulares-de-pasaportes-ordinarios/</link>
     <description><![CDATA[La República Dominicana y Azerbaiyán han firmado un acuerdo para la exención de visado para titulares de pasaportes ordinarios. Este acuerdo fue firmado por los ministros de Relaciones Exteriores de ambos países en Nueva York, durante la Asamblea General de las Naciones Unidas.
@@ -1285,19 +1296,6 @@ José Benedicto Hernández Tejada dirigirá el Instituto Nacional de Migración,
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786913970/noticias/articles/20260816_205930_article.webp" type="image/webp"/>
     <pubDate>Sun, 16 Aug 2026 21:00:04 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260816210004</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader designa a Mérido de Jesús Torres Espinal en el Departamento Aeroportuario; Víctor Pichardo será cónsul en Mayagüez, Puerto Rico]]></title>
-    <link>https://elpregonerord.com/abinader-designa-a-merido-de-jesus-torres-espinal-en-el-departamento-aeroportuario-victor-pichardo-sera-consul-en-mayaguez-puerto-rico/</link>
-    <description><![CDATA[El presidente Luis Abinader ha realizado nuevas designaciones en el gobierno. Julio Peña Guzmán es el nuevo presidente de la Junta de Aviación Civil, mientras que Héctor Elie Porcella Dumas ha sido nombrado asesor del Poder Ejecutivo en aviación civil y miembro de la Junta de Aviación Civil.
-
-Mérido de Jesús Torres Espinal ha sido designado como director ejecutivo del Departamento Aeroportuario. En el ámbito del servicio exterior, Víctor Pichardo Custodio será el cónsul en Mayagüez, Puerto Rico, e Israel Terrero Vólquez ha sido nombrado ministro consejero en el servicio interno.
-
-Mariana Tavarez de Santos asumirá como directora general de Mercados Dominicanos de Abasto Agropecuario (MERCADOM). Estas designaciones forman parte de un proceso de reorganización del tren gubernamental.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786911851/noticias/articles/20260816_202411_article.webp" type="image/webp"/>
-    <pubDate>Sun, 16 Aug 2026 20:24:38 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260816202438</guid>
   </item>
 </channel>
 </rss>
