@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 24 Sep 2026 17:06:00 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 24 Sep 2026 17:07:07 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Nueve dominicanos y colombianos detenidos en Roma por narcotráfico y secuestro]]></title>
+    <link>https://m.n.com.do/2026/09/24/dominicanos-colombianos-detenidos-roma-narcotrafico-secuestro/</link>
+    <description><![CDATA[Nueve personas de nacionalidades dominicana y colombiana fueron detenidas en Roma, acusadas de integrar una organización dedicada al tráfico internacional de drogas y vinculadas al secuestro y extorsión de un ciudadano colombiano. La operación fue ejecutada por la Squadra Mobile de Roma y los Carabineros de Civitavecchia.
+
+La organización presuntamente importaba cocaína desde Sudamérica para distribuirla en Roma y localidades de la costa del Lacio. Las investigaciones comenzaron tras el secuestro de un colombiano el 7 de junio de 2026, quien fue retenido y extorsionado.
+
+Se descubrió el uso de vehículos modificados, teléfonos encriptados y criptomonedas. También se localizó una refinería clandestina de drogas en Calabria y se incautaron 24 kilogramos de drogas en Roma. Los detenidos son investigados por tráfico ilícito de drogas, secuestro, robo y lesiones personales.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790269594/noticias/articles/20260924_170634_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 24 Sep 2026 17:07:07 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260924170707</guid>
+  </item>
+
+  <item>
     <title><![CDATA[RD extradita a PR a "El Negro Amante", requerido por asesinato y otros delitos]]></title>
     <link>https://m.n.com.do/2026/09/24/rd-extradita-a-pr-a-el-negro-amante-requerido-por-asesinato-y-otros-delitos/</link>
     <description><![CDATA[La Procuraduría General de la República y la Dirección Nacional de Control de Drogas, con el apoyo de la Oficina de Alguaciles de Estados Unidos, completaron la extradición de Ramón Martínez, alias "El Negro Amante", a Puerto Rico.
@@ -1281,19 +1294,6 @@ Muñiz Suberví es abogada con experiencia en consultoría legal, educación, ge
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786916610/noticias/articles/20260816_214316_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 16 Aug 2026 21:44:24 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260816214424</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Jean Luis Rodríguez es designado ministro de Vivienda, Hábitat y Edificaciones]]></title>
-    <link>https://elnuevodiario.com.do/jean-luis-rodriguez-es-designado-ministro-de-vivienda-habitat-y-edificaciones/</link>
-    <description><![CDATA[El presidente Luis Abinader ha designado a Jean Luis Rodríguez como nuevo ministro de Vivienda, Hábitat y Edificaciones, en sustitución de Víctor -Ito- Bisonó Haza, quien fue trasladado al Ministerio de Relaciones Exteriores. Esta decisión se formalizó mediante el Decreto núm. 554-26.
-
-Jean Luis Rodríguez es licenciado en Administración de Empresas por UNIBE y tiene formación en Ciencias Políticas y Economía. También realizó una maestría en Negocios y Relaciones Económicas Internacionales en la UASD. Su trayectoria incluye experiencia en gestión pública, planificación estratégica, infraestructura y desarrollo territorial.
-
-Entre 2020 y 2026, Rodríguez fue director ejecutivo de la Autoridad Portuaria Dominicana y anteriormente se desempeñó como diputado por la provincia El Seibo. Ahora, como ministro de Vivienda, liderará el MIVHED en la implementación de políticas y proyectos relacionados con vivienda y desarrollo de edificaciones.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1786916081/noticias/articles/20260816_213439_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 16 Aug 2026 21:35:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260816213530</guid>
   </item>
 </channel>
 </rss>
