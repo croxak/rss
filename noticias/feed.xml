@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 25 Sep 2026 21:38:23 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 21:46:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Agentes del Dicrim abaten a alias "Amarillo" en alegado enfrentamiento a tiros en Puerto Plata]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/09/25/matan-a-hombre-en-enfrentamiento-a-tiros-con-agentes-del-dicrim/3670139</link>
+    <description><![CDATA[Agentes del Dicrim mataron a Jean Luis Almonte Núñez, alias "Amarillo", en un alegado enfrentamiento a tiros en Puerto Plata. El incidente ocurrió en la calle 30 de Marzo.
+
+Almonte Núñez, de 31 años, era buscado por su presunta vinculación con atracos y robos. Su cadáver fue trasladado al Inacif.
+
+Este hecho se produce en medio de una serie de fallecimientos en alegados intercambios de disparos con la policía en el país.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790372717/noticias/articles/20260925_214517_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 25 Sep 2026 21:46:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260925214640</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía Nacional reporta siete muertos durante intercambios de disparos en distintos puntos del país]]></title>
     <link>https://eldia.com.do/policia-nacional-reporta-siete-muertos-durante-intercambios-de-disparos-en-distintos-puntos-del-pais/</link>
     <description><![CDATA[La Policía Nacional informó sobre la muerte de siete presuntos delincuentes en intercambios de disparos con agentes en diferentes puntos del país en menos de 24 horas. Los fallecidos tenían órdenes de arresto y múltiples denuncias en su contra.
@@ -1287,17 +1300,6 @@ El Ministerio destacó el esfuerzo de los bomberos forestales y todo el personal
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787499982/noticias/articles/20260823_154622_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 23 Aug 2026 15:47:04 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260823154704</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Embajada de China señala como intimidación tecnológica y difamación acusaciones de EE. UU.]]></title>
-    <link>https://listindiario.com/la-republica/ciudad/20260823/embajada-china-pais-senala-intimidacion-tecnologica-difamacion-acusaciones-ee-uu_919218.html</link>
-    <description><![CDATA[La Embajada de China en República Dominicana ha rechazado las acusaciones de Estados Unidos sobre riesgos de espionaje vinculados a empresas tecnológicas chinas como Huawei y ZTE. El embajador Chen Luning calificó estas afirmaciones como invenciones y tergiversaciones de la realidad.
-
-Chen Luning expresó su insatisfacción y oposición, destacando que las empresas chinas cumplen con las leyes locales y contribuyen al desarrollo socioeconómico en América Latina y el Caribe. Instó a Estados Unidos a detener la manipulación política y respetar la soberanía de los Estados.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787499918/noticias/articles/20260823_154518_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 23 Aug 2026 15:45:45 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260823154545</guid>
   </item>
 </channel>
 </rss>
