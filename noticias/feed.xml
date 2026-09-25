@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 25 Sep 2026 20:57:50 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 21:38:23 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Policía Nacional reporta siete muertos durante intercambios de disparos en distintos puntos del país]]></title>
+    <link>https://eldia.com.do/policia-nacional-reporta-siete-muertos-durante-intercambios-de-disparos-en-distintos-puntos-del-pais/</link>
+    <description><![CDATA[La Policía Nacional informó sobre la muerte de siete presuntos delincuentes en intercambios de disparos con agentes en diferentes puntos del país en menos de 24 horas. Los fallecidos tenían órdenes de arresto y múltiples denuncias en su contra.
+
+Los incidentes ocurrieron en Los Alcarrizos, Cabral, Gaspar Hernández, Santo Domingo Este y Oeste. Entre los fallecidos se encuentran Gabriel Luis Montero, Domingo Santiago Valdez, José Daniel De La Cruz Valdez, Carlos Julio Feliz Sena, Ricardo Polanco García, Genny Santos Franco Jimenez y José Manuel San Luis.
+
+El vocero de la Policía, Diego Pesqueira, aseguró que la institución sigue los protocolos para el uso proporcional de la fuerza y que los detalles de cada caso están bajo verificación.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790372253/noticias/articles/20260925_213733_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 25 Sep 2026 21:38:23 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260925213823</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno sube 3 y 4 pesos a la gasolina y el gasoil]]></title>
     <link>https://robertocavada.com/gobierno-sube-3-y-4-pesos-a-la-gasolina-y-el-gasoil/</link>
     <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes (MICM) ha informado sobre un aumento en los precios de los combustibles para esta semana.
@@ -1285,17 +1298,6 @@ Chen Luning expresó su insatisfacción y oposición, destacando que las empresa
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787499918/noticias/articles/20260823_154518_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 23 Aug 2026 15:45:45 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260823154545</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[EE. UU. advierte sobre riesgos de espionaje vinculados a empresas tecnológicas chinas]]></title>
-    <link>https://listindiario.com/la-republica/20260822/embajada-estados-unidos-rd-advierte-sobre-riesgos-tecnologias-empresas-chinas_919201/amp.html</link>
-    <description><![CDATA[La Embajada de Estados Unidos en República Dominicana ha emitido una advertencia sobre el uso de tecnologías de empresas chinas como Huawei, ZTE, Hikvision, Hytera, Dahua y DJI. Según la embajada, estas tecnologías están sujetas a los intereses del Gobierno de China, lo que podría generar riesgos de espionaje, ataques informáticos e interrupciones de las redes.
-
-La embajada instó a sus socios en las Américas a cambiar rápidamente hacia proveedores confiables para proteger a sus ciudadanos y su soberanía.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787499472/noticias/articles/20260823_153752_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 23 Aug 2026 15:39:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260823153901</guid>
   </item>
 </channel>
 </rss>
