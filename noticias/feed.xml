@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 25 Sep 2026 21:46:40 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 22:01:23 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Sentencian a dominicano a 23 meses por reingresar a Estados Unidos después de ser deportado]]></title>
+    <link>https://eltestigo.com</link>
+    <description><![CDATA[Un tribunal federal de Massachusetts condenó al dominicano Yodenny Michael Báez-Cabrera a 23 meses de prisión por regresar ilegalmente a Estados Unidos después de haber sido deportado.
+
+La sentencia fue dictada el 22 de septiembre por el juez federal Myong J. Joun, quien también impuso un año de libertad supervisada. Báez-Cabrera, de 42 años, se había declarado culpable en julio de 2026.
+
+Según la Fiscalía, el hombre fue deportado el 18 de julio de 2017 y posteriormente regresó a territorio estadounidense sin obtener autorización. Las autoridades lo localizaron residiendo en Lynn, Massachusetts.
+
+El comunicado oficial señala que Báez-Cabrera fue condenado en 2015 por agresión grave con un arma peligrosa e intimidación de un testigo.
+
+El dominicano quedará sujeto a un nuevo proceso de deportación cuando termine de cumplir la condena federal.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790373646/noticias/articles/20260925_220045_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 25 Sep 2026 22:01:23 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260925220123</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Agentes del Dicrim abaten a alias "Amarillo" en alegado enfrentamiento a tiros en Puerto Plata]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/09/25/matan-a-hombre-en-enfrentamiento-a-tiros-con-agentes-del-dicrim/3670139</link>
     <description><![CDATA[Agentes del Dicrim mataron a Jean Luis Almonte Núñez, alias "Amarillo", en un alegado enfrentamiento a tiros en Puerto Plata. El incidente ocurrió en la calle 30 de Marzo.
@@ -1287,19 +1304,6 @@ Agentes de la Digesett estarán presentes para regular el tránsito y se recuerd
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787500051/noticias/articles/20260823_154730_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 23 Aug 2026 15:48:01 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260823154801</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Medio Ambiente controla incendio forestal en Valle Nuevo tras 36 horas de trabajo]]></title>
-    <link>https://cdn.com.do/nacionales/medio-ambiente-controla-incendio-forestal-en-valle-nuevo-tras-36-horas-de-trabajo/</link>
-    <description><![CDATA[El incendio forestal en el sector La Cueva del Parque Nacional Valle Nuevo ha sido controlado después de 36 horas de trabajo continuo por parte del Ministerio de Medio Ambiente y Recursos Naturales. 
-
-Las brigadas se enfocan ahora en las labores de liquidación y seguimiento para asegurar que no queden puntos activos. El parque permanecerá cerrado al público hasta que se garantice la seguridad en el área.
-
-El Ministerio destacó el esfuerzo de los bomberos forestales y todo el personal involucrado en controlar el incendio.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787499982/noticias/articles/20260823_154622_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 23 Aug 2026 15:47:04 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260823154704</guid>
   </item>
 </channel>
 </rss>
