@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 25 Sep 2026 20:55:56 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 25 Sep 2026 20:57:50 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Gobierno sube 3 y 4 pesos a la gasolina y el gasoil]]></title>
+    <link>https://robertocavada.com/gobierno-sube-3-y-4-pesos-a-la-gasolina-y-el-gasoil/</link>
+    <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes (MICM) ha informado sobre un aumento en los precios de los combustibles para esta semana.
+
+La gasolina premium subirá RD$3 por galón, mientras que la gasolina regular aumentará RD$2. El gasoil óptimo tendrá un incremento de RD$4 por galón, y el gasoil regular aumentará RD$3.
+
+Estos nuevos precios estarán vigentes a partir de este viernes.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790369792/noticias/articles/20260925_205631_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 25 Sep 2026 20:57:50 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260925205750</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader afirma ha resuelto “más problemas” que la oposición en 20 años; llama al PRM a mostrar datos]]></title>
     <link>https://n.com.do/2026/09/25/abinader-afirma-ha-resuelto-mas-problemas-que-la-oposicion-en-20-anos-llamo-al-prm-a-mostrar-estadisticias/</link>
     <description><![CDATA[El presidente Luis Abinader aseguró que su gobierno ha resuelto más problemas en seis años que la oposición en 20 años. En un encuentro con más de 400 militantes del PRM en Nueva Jersey, instó a defender su gestión con datos y estadísticas.
@@ -1283,23 +1296,6 @@ La embajada instó a sus socios en las Américas a cambiar rápidamente hacia pr
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787499472/noticias/articles/20260823_153752_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 23 Aug 2026 15:39:01 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260823153901</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El SNS designa nuevos directores en hospitales Padre Billini, Galván, Jaime Mota y Vicente Noble]]></title>
-    <link>https://www.diariolibre.com/actualidad/salud/2026/08/22/sns-pone-nuevos-directores-en-hospitales-padre-billini-y-jaime-mota/3636620</link>
-    <description><![CDATA[El Servicio Nacional de Salud (SNS) ha designado nuevos directores en los hospitales Padre Billini, Jaime Mota, Galván y Vicente Noble. Julio Landrón, director ejecutivo del SNS, realizó la juramentación con el objetivo de fortalecer la gestión y garantizar servicios de salud de calidad.
-
-El doctor Gewil Elías Acosta, especialista en Neurología, es el nuevo director del Hospital Docente Padre Billini. Acosta se compromete a priorizar la atención de calidad al paciente.
-
-La doctora Jenny Olivero ha sido nombrada directora del Hospital Regional Dr. Jaime Mota. Olivero cuenta con una amplia formación en gestión sanitaria y experiencia en el sector salud.
-
-La doctora Persia Bernalisi Mateo Castillo dirigirá el Hospital Municipal de Galván. Mateo Castillo busca reducir los tiempos de espera y mejorar la calidad de atención.
-
-El doctor Aser Báez es el nuevo director del Hospital Municipal de Vicente Noble. Báez se compromete a desarrollar una gestión organizada y transparente, enfocada en mejorar la calidad y humanización de los servicios.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787441323/noticias/articles/20260822_232842_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 22 Aug 2026 23:29:08 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260822232908</guid>
   </item>
 </channel>
 </rss>
