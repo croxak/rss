@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 26 Sep 2026 17:28:47 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 18:13:29 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Extraditan a dos dominicanos a Estados Unidos acusados de conspirar para traficar cocaína]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/09/26/extraditan-a-dos-dominicanos-a-estados-unidos-por-cocaina/3671060</link>
+    <description><![CDATA[La República Dominicana extraditó a dos ciudadanos a Estados Unidos, acusados de conspirar para traficar cocaína. Rafael Hidalgo García y Domingo Rivera Trinidad fueron entregados a oficiales del U.S. Marshals Service en el Aeropuerto Internacional de Las Américas Dr. José Francisco Peña Gómez.
+
+Ambos son requeridos por un tribunal del Distrito Sur de la Florida por asociación delictuosa para distribuir cocaína. La operación fue realizada por la Procuraduría General de la República y la Dirección Nacional de Control de Drogas, en cooperación con el U.S. Marshals Service.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790446380/noticias/articles/20260926_181300_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 26 Sep 2026 18:13:29 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260926181329</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Tiroteo deja al menos cuatro heridos en establecimiento de Punta Cana]]></title>
     <link>https://elnacional.com.do/nacionales/tiroteo-deja-cuatro-heridos-establecimiento-punta-cana_581875_amp.html</link>
     <description><![CDATA[Un tiroteo en un establecimiento de Punta Cana ha dejado al menos cuatro personas heridas. El incidente se originó tras una discusión entre varias mujeres, y un hombre intervino disparando.
@@ -1287,21 +1298,6 @@ La DGM ha reforzado los controles migratorios en las terminales con mayor volume
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788099919/noticias/articles/20260830_142519_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 30 Aug 2026 14:25:43 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260830142543</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader y presidente de Honduras recorren Base Aérea de San Isidro y observan ensamblaje del avión TS-7 Dulus]]></title>
-    <link>https://cdn.com.do/nacionales/abinader-y-presidente-de-honduras-visitan-base-aerea/</link>
-    <description><![CDATA[El presidente Luis Abinader y su homólogo de Honduras, Nasry Asfura Zablah, visitaron la Base Aérea de San Isidro para observar el ensamblaje del avión TS-7 Dulus. Durante el recorrido, recibieron información sobre los vehículos Furia blindados, diseñados por la Industria Militar Dominicana.
-
-Como recuerdo de la visita, Abinader entregó a Asfura Zablah una réplica del primer avión militar ensamblado en República Dominicana. Luego, ambos mandatarios se dirigieron a Dajabón para conocer la infraestructura del muro fronterizo.
-
-El presidente de Honduras llegó al país por el Aeropuerto Internacional de las Américas, acompañado de la canciller Mireya Agüero, y fue recibido por autoridades dominicanas.
-
-El domingo 30 de agosto, Abinader y Asfura Zablah tendrán una agenda en el Palacio Nacional que incluye una audiencia, un almuerzo, la firma de instrumentos y una ofrenda floral en el Altar de la Patria.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788099848/noticias/articles/20260830_142408_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 30 Aug 2026 14:24:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260830142433</guid>
   </item>
 </channel>
 </rss>
