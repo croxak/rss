@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 26 Sep 2026 00:32:23 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 13:53:28 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Crimen de esposa de “Julián Oro Duro” fue planificado un mes antes, según el Ministerio Público]]></title>
+    <link>https://eldia.com.do/crimen-de-esposa-de-julian-oro-duro-fue-planificado-un-mes-antes-segun-el-ministerio-publico/</link>
+    <description><![CDATA[El Ministerio Público ha revelado que el asesinato de Zeneida Socorro Castillo, esposa de “Julián Oro Duro”, fue planificado un mes antes. Cuatro hombres están acusados de participar en el crimen, que incluyó el robo de dinero y joyas.
+
+La entrada a la vivienda fue facilitada por Lawrence Mark Liranzo Marcos, alias “Chiquito”, quien tenía una relación de confianza con las víctimas. Zeneida fue atacada y asesinada en su residencia, mientras que su madre fue retenida en otra habitación.
+
+Los agresores esperaron la llegada de Gilberto Julián Sarante Perdomo, a quien también atacaron y robaron. La investigación se apoyó en imágenes de videovigilancia y confesiones de los implicados. Parte del dinero y objetos robados han sido recuperados.
+
+La Fiscalía ha solicitado prisión preventiva para los acusados y que el caso sea declarado complejo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790430773/noticias/articles/20260926_135253_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 26 Sep 2026 13:53:28 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260926135328</guid>
+  </item>
+
+  <item>
     <title><![CDATA[MP sostiene que plan contra Julián Oro Duro no era solo para robarle, sino también para matarlo]]></title>
     <link>https://eltestigo.com</link>
     <description><![CDATA[El Ministerio Público sostiene que el ataque contra el merenguero Gilberto Julián Sarante Perdomo, conocido como Julián Oro Duro y el asesinato de su esposa Zeneida Socorro Castillo, no fueron consecuencia de un robo que se salió de control sino parte de un plan previamente concebido que contemplaba matar a ambos y apoderarse de sus bienes.
@@ -1289,19 +1304,6 @@ El buque mercante Progress IV habría sido atacado con drones mientras navegaba 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787938275/noticias/articles/20260828_173115_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 28 Aug 2026 17:31:43 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260828173143</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader lanzará este lunes LA Agenda Semanal, un nuevo espacio de trabajo y seguimiento]]></title>
-    <link>https://www.diariolibre.com/politica/gobierno/2026/08/23/presidente-abinader-lanzara-la-agenda-semanal-este-lunes/3637048</link>
-    <description><![CDATA[El presidente Luis Abinader presentará este lunes LA Agenda Semanal, un nuevo espacio de trabajo y comunicación que permitirá a la ciudadanía conocer cómo se supervisan y dan seguimiento a las prioridades del país.
-
-La primera edición se centrará en el inicio del año escolar, con la participación del ministro de Educación, Luis Miguel De Camps, para revisar la preparación del sistema educativo.
-
-LA Agenda Semanal será transmitida en vivo todos los lunes a las 5:00 de la tarde, abordando diferentes temas cada semana.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787514677/noticias/articles/20260823_195116_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 23 Aug 2026 19:51:48 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260823195148</guid>
   </item>
 </channel>
 </rss>
