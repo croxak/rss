@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 26 Sep 2026 19:45:03 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 20:46:22 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Cuba dice en la ONU que "está abierta a relaciones comerciales y de negocios con compañías" de EEUU]]></title>
+    <link>https://eldia.com.do/cuba-dice-en-la-onu-que-esta-abierta-a-relaciones-comerciales-y-de-negocios-con-companias-de-eeuu/</link>
+    <description><![CDATA[El canciller de Cuba, Bruno Rodríguez, declaró en la Asamblea General de la ONU que Cuba está abierta a relaciones comerciales con compañías estadounidenses. La Habana está dispuesta al diálogo con Washington, siempre que se respete la soberanía y no haya injerencia en asuntos internos.
+
+Rodríguez criticó la "hostilidad permanente" de EE.UU. bajo la administración de Donald Trump, mencionando un bloqueo energético que ha intensificado la crisis en Cuba. También denunció presiones de EE.UU. a otros países para que renuncien a la cooperación médica cubana.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790455551/noticias/articles/20260926_204550_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 26 Sep 2026 20:46:22 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260926204622</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Herida contusa en lado izquierdo de la cabeza fue la causa de muerte de la Esposa de Julián Oro Duro]]></title>
     <link>https://m.n.com.do/2026/09/26/herida-contusa-en-lado-izquierdo-de-la-cabeza-fue-la-causa-de-muerte-de-la-esposa-de-julian-oro-duro/</link>
     <description><![CDATA[Zeneida Socorro Castillo, esposa de Julián Oro Duro, murió por una herida contusa en la cabeza, según el INACIF. La autopsia determinó que la muerte fue violenta y homicida.
@@ -1285,17 +1296,6 @@ El nuevo director del Intrant también mencionó la necesidad de fortalecer la D
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788100399/noticias/articles/20260830_143318_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 30 Aug 2026 14:33:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260830143358</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Nicolás Maduro envía desde la prisión “un regalo de amor” con símbolo de paz]]></title>
-    <link>https://m.n.com.do/2026/08/30/nicolas-maduro-publica-mensaje-de-esperanza/</link>
-    <description><![CDATA[Nicolás Maduro Guerra publicó un mensaje de su padre, el expresidente de Venezuela Nicolás Maduro, titulado “Pequeño regalo de amor y esperanza”. El mensaje, acompañado de fotos, está dirigido a sus nietos, niños y seguidores, agradeciendo su apoyo y expresando esperanza.
-
-El mensaje incluye una cita bíblica y palabras de aliento sobre el futuro de Venezuela, destacando la fe en Dios y la esperanza de un renacer del país.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788100306/noticias/articles/20260830_143145_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 30 Aug 2026 14:32:12 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260830143212</guid>
   </item>
 </channel>
 </rss>
