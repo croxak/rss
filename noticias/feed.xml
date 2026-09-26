@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 26 Sep 2026 16:15:28 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 16:19:16 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Trump rechaza el plan para reabrir el estrecho de Ormuz: "EE.UU tiene el control total de Ormuz"]]></title>
+    <link>https://listindiario.com/las-mundiales/20260926/trump-rechaza-plan-reabrir-estrecho-ormuz-ee-uu-control-total-ormuz_923763.html</link>
+    <description><![CDATA[El presidente Donald Trump rechazó un plan de Irán para reabrir el estrecho de Ormuz, afirmando que Estados Unidos tiene "el control total" de la vía marítima. Según Trump, 29 barcos transitaron por Ormuz la noche pasada.
+
+El plan iraní, presentado a través de Catar, incluía un alto al fuego de siete días, el levantamiento del bloqueo naval estadounidense, el fin de las sanciones al petróleo iraní y la liberación de activos iraníes congelados. Irán propuso retomar negociaciones con Washington para un acuerdo definitivo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790439503/noticias/articles/20260926_161823_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 26 Sep 2026 16:19:16 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260926161916</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Pronostican altas temperaturas y aumento en la incursión del polvo del Sahara para este sábado]]></title>
     <link>https://www.diariolibre.com/planeta/clima/2026/09/26/altas-temperaturas-y-aumento-en-el-polvo-del-sahara-este-sabado/3670873</link>
     <description><![CDATA[Este sábado, el Instituto Dominicano de Meteorología (Indomet) pronostica altas temperaturas y un aumento en la incursión del polvo del Sahara en el país. Un sistema de alta presión limitará las formaciones de nubes y precipitaciones, aunque se esperan aguaceros dispersos y tormentas eléctricas en algunas provincias durante la tarde y noche. Las temperaturas oscilarán entre 24 °C y 35 °C. Se recomienda tomar precauciones ante el calor.
@@ -1293,19 +1304,6 @@ Las autoridades destacaron que estas actividades violan la Ley General de Salud 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788099660/noticias/articles/20260830_142100_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 30 Aug 2026 14:21:25 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260830142125</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Trump asegura haber alcanzado con Venezuela el "mayor acuerdo de petróleo de la historia"]]></title>
-    <link>https://eldia.com.do/trump-asegura-haber-alcanzado-con-venezuela-el-mayor-acuerdo-de-petroleo-de-la-historia/</link>
-    <description><![CDATA[Donald Trump anunció un acuerdo con Venezuela que otorgaría a Estados Unidos el control mayoritario sobre más de 65.000 millones de barriles de reservas probadas de petróleo venezolano. Trump lo calificó como "el mayor acuerdo petrolero de la historia".
-
-El acuerdo fue negociado por el secretario de Estado, Marco Rubio, y el secretario de Guerra, Pete Hegseth, junto con la presidenta interina venezolana, Delcy Rodríguez, y empresas privadas. Trump afirmó que la operación duplicará las reservas petroleras estadounidenses y reducirá el precio de la gasolina a largo plazo.
-
-No se han precisado detalles del acuerdo ni ha habido confirmación del gobierno venezolano.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787968162/noticias/articles/20260829_014921_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 29 Aug 2026 01:49:48 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260829014948</guid>
   </item>
 </channel>
 </rss>
