@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 26 Sep 2026 15:32:19 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 16:15:28 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Pronostican altas temperaturas y aumento en la incursión del polvo del Sahara para este sábado]]></title>
+    <link>https://www.diariolibre.com/planeta/clima/2026/09/26/altas-temperaturas-y-aumento-en-el-polvo-del-sahara-este-sabado/3670873</link>
+    <description><![CDATA[Este sábado, el Instituto Dominicano de Meteorología (Indomet) pronostica altas temperaturas y un aumento en la incursión del polvo del Sahara en el país. Un sistema de alta presión limitará las formaciones de nubes y precipitaciones, aunque se esperan aguaceros dispersos y tormentas eléctricas en algunas provincias durante la tarde y noche. Las temperaturas oscilarán entre 24 °C y 35 °C. Se recomienda tomar precauciones ante el calor.
+
+La tormenta tropical Fay se encuentra a 1,790 kilómetros al oeste/suroeste de las Azores, sin representar peligro para el país. La tormenta tropical Gonzalo está a 100 kilómetros al norte de Sal, Cabo Verde, y tampoco representa amenaza para la República Dominicana.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790439299/noticias/articles/20260926_161458_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 26 Sep 2026 16:15:28 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260926161528</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Muere niña tras accidente de juego mecánico en Hato Mayor]]></title>
     <link>https://eltestigo.com</link>
     <description><![CDATA[Murió este sábado una niña de 11 años que permanecía ingresada en la Unidad de Cuidados Intensivos del Hospital Pediátrico Dr. Hugo Mendoza, en Santo Domingo, luego de sufrir graves heridas durante un accidente registrado en los juegos mecánicos instalados por motivo de las fiestas patronales de Hato Mayor del Rey.
@@ -1295,17 +1306,6 @@ No se han precisado detalles del acuerdo ni ha habido confirmación del gobierno
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787968162/noticias/articles/20260829_014921_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 29 Aug 2026 01:49:48 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260829014948</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El director de la Policía anuncia cambios en áreas operativas, investigativas y administrativas]]></title>
-    <link>https://www.diariolibre.com/actualidad/nacional/2026/08/28/nuevas-designaciones-en-la-policia-nacional/3642305</link>
-    <description><![CDATA[El director general de la Policía Nacional, mayor general Ernesto Rodríguez García, ha dispuesto nuevas designaciones de oficiales superiores y subalternos en diversas áreas de la institución. Los cambios, realizados los días 26 y 27 de agosto, abarcan departamentos operativos, supervisiones territoriales y áreas especializadas como Investigaciones de Asuntos Internos, Policía Cibernética, y más.
-
-Entre las principales designaciones se encuentran el coronel Zauris Belliard Vargas en Villa Mella, el coronel Luis Nazario Ferreras Herasme en Las Terrenas, y el coronel Silvano Ubri Rosario en Samaná. La Policía Nacional busca fortalecer el liderazgo territorial y mejorar la supervisión operativa.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787938480/noticias/articles/20260828_173439_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 28 Aug 2026 17:35:09 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260828173509</guid>
   </item>
 </channel>
 </rss>
