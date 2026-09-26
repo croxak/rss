@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 25 Sep 2026 22:01:23 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 00:18:21 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[“Hansel Boca Negra” cae abatido durante operativo de la PN en Samaná]]></title>
+    <link>https://acento.com.do/amp/actualidad/hansel-boca-negra-cae-abatido-durante-operativo-de-la-pn-en-samana-9759647.html</link>
+    <description><![CDATA[La Policía Nacional informó que Hansel, conocido como “Boca Negra”, fue abatido en un operativo en Samaná. Los agentes intentaban arrestarlo por varias órdenes pendientes.
+
+El enfrentamiento ocurrió en el sector Honduras, donde “Boca Negra” se encontraba escondido. Durante el operativo, se le ocupó una pistola Glock.
+
+Era buscado por su presunta participación en hechos violentos y por herir de bala a dos agentes de la DICRIM. La Policía ofrecerá más detalles sobre el enfrentamiento y las investigaciones.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790381876/noticias/articles/20260926_001755_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 26 Sep 2026 00:18:21 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260926001821</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Sentencian a dominicano a 23 meses por reingresar a Estados Unidos después de ser deportado]]></title>
     <link>https://eltestigo.com</link>
     <description><![CDATA[Un tribunal federal de Massachusetts condenó al dominicano Yodenny Michael Báez-Cabrera a 23 meses de prisión por regresar ilegalmente a Estados Unidos después de haber sido deportado.
@@ -1293,17 +1306,6 @@ Paulino ha mantenido tiempos por debajo de los 49 segundos en todas sus competen
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787500140/noticias/articles/20260823_154900_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 23 Aug 2026 15:49:26 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260823154926</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Intrant y Digesett activan medidas para agilizar tránsito en entornos escolares ante regreso a clases]]></title>
-    <link>https://cdn.com.do/nacionales/intrant-y-digesett-activan-medidas-para-agilizar-transito-en-entornos-escolares-ante-regreso-a-clases/</link>
-    <description><![CDATA[El Intrant y la Digesett han activado medidas para agilizar el tránsito en los entornos escolares con el inicio del año escolar 2026-2027. Las acciones se centran en los centros educativos con mayor congestión, incluyendo la canalización de carriles y la promoción de vehículos compartidos.
-
-Agentes de la Digesett estarán presentes para regular el tránsito y se recuerda que el límite de velocidad en zonas escolares es de 20 km/h. Se hace un llamado a padres, tutores y conductores a respetar las disposiciones para una mejor convivencia vial.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787500051/noticias/articles/20260823_154730_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 23 Aug 2026 15:48:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260823154801</guid>
   </item>
 </channel>
 </rss>
