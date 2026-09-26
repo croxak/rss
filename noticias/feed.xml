@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 26 Sep 2026 16:19:16 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 17:28:47 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Tiroteo deja al menos cuatro heridos en establecimiento de Punta Cana]]></title>
+    <link>https://elnacional.com.do/nacionales/tiroteo-deja-cuatro-heridos-establecimiento-punta-cana_581875_amp.html</link>
+    <description><![CDATA[Un tiroteo en un establecimiento de Punta Cana ha dejado al menos cuatro personas heridas. El incidente se originó tras una discusión entre varias mujeres, y un hombre intervino disparando.
+
+Entre los heridos se encuentra la propietaria del establecimiento. Los afectados están recibiendo atención médica, mientras las autoridades investigan lo ocurrido.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790443691/noticias/articles/20260926_172810_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 26 Sep 2026 17:28:47 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260926172847</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Trump rechaza el plan para reabrir el estrecho de Ormuz: "EE.UU tiene el control total de Ormuz"]]></title>
     <link>https://listindiario.com/las-mundiales/20260926/trump-rechaza-plan-reabrir-estrecho-ormuz-ee-uu-control-total-ormuz_923763.html</link>
     <description><![CDATA[El presidente Donald Trump rechazó un plan de Irán para reabrir el estrecho de Ormuz, afirmando que Estados Unidos tiene "el control total" de la vía marítima. Según Trump, 29 barcos transitaron por Ormuz la noche pasada.
@@ -1291,19 +1302,6 @@ El domingo 30 de agosto, Abinader y Asfura Zablah tendrán una agenda en el Pala
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788099848/noticias/articles/20260830_142408_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 30 Aug 2026 14:24:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260830142433</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Desmantelan fábrica de bebida alcohólica premium adulterada en Doña Ana, San Cristóbal]]></title>
-    <link>https://listindiario.com/la-republica/20260830/desmantelan-estructura-dedicada-fabricacion-distribucion-clandestina-bebidas-alcoholicas_920187.html</link>
-    <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes desmanteló una fábrica de bebidas alcohólicas premium adulteradas en Doña Ana, San Cristóbal. Se incautaron 25,496 mercancías ilícitas valoradas en RD$5,977,358.00.
-
-La operación se realizó en una edificación de tres niveles tras labores de inteligencia iniciadas en abril. Se decomisaron 4,780 botellas de licor premium, 75 galones de alcohol puro, 27 garrafones de 5 galones, 1,363 botellas de 700 mililitros, tres galones de melaza, 19,536 artículos ilícitos diversos, 1,542 botellas vacías, tapas, etiquetas falsas, precintos fiscales y herramientas de impresión.
-
-Las autoridades destacaron que estas actividades violan la Ley General de Salud y la Ley sobre Comercio Ilícito, Contrabando y Falsificación.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788099660/noticias/articles/20260830_142100_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 30 Aug 2026 14:21:25 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260830142125</guid>
   </item>
 </channel>
 </rss>
