@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 26 Sep 2026 13:53:28 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 26 Sep 2026 15:32:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Muere niña tras accidente de juego mecánico en Hato Mayor]]></title>
+    <link>https://eltestigo.com</link>
+    <description><![CDATA[Murió este sábado una niña de 11 años que permanecía ingresada en la Unidad de Cuidados Intensivos del Hospital Pediátrico Dr. Hugo Mendoza, en Santo Domingo, luego de sufrir graves heridas durante un accidente registrado en los juegos mecánicos instalados por motivo de las fiestas patronales de Hato Mayor del Rey.
+
+La menor se encontraba en la atracción denominada “La Estrellita”, acompañada por su hermana, de 13 años, y otra adolescente. De acuerdo con las informaciones disponibles, uno de los soportes del vagón se desprendió mientras la atracción estaba en funcionamiento, provocando la caída de dos de las tres menores desde varios metros de altura.
+
+El impacto contra el pavimento ocasionó múltiples lesiones a las dos hermanas, entre ellas golpes y fracturas. La niña de 11 años fue quien presentó el estado de salud más crítico, debido a un severo trauma craneal que requirió varias intervenciones quirúrgicas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790436707/noticias/articles/20260926_153146_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 26 Sep 2026 15:32:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260926153219</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Crimen de esposa de “Julián Oro Duro” fue planificado un mes antes, según el Ministerio Público]]></title>
     <link>https://eldia.com.do/crimen-de-esposa-de-julian-oro-duro-fue-planificado-un-mes-antes-segun-el-ministerio-publico/</link>
     <description><![CDATA[El Ministerio Público ha revelado que el asesinato de Zeneida Socorro Castillo, esposa de “Julián Oro Duro”, fue planificado un mes antes. Cuatro hombres están acusados de participar en el crimen, que incluyó el robo de dinero y joyas.
@@ -1293,17 +1306,6 @@ Entre las principales designaciones se encuentran el coronel Zauris Belliard Var
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787938480/noticias/articles/20260828_173439_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 28 Aug 2026 17:35:09 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260828173509</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Comandante de la Armada aclara que no es matrícula dominicana el buque hundido en el mar Negro]]></title>
-    <link>https://listindiario.com/la-republica/20260828/comandante-armada-aclara-matricula-buque-hundido-mar-negro_919975.html</link>
-    <description><![CDATA[El vicealmirante Juan Bienvenido Crisóstomo Martínez, comandante general de la Armada de República Dominicana, aclaró que el buque hundido en el mar Negro no es de matrícula dominicana. Esta declaración responde a una publicación de la agencia EFE que indicaba lo contrario.
-
-El buque mercante Progress IV habría sido atacado con drones mientras navegaba hacia el puerto turco de Tekirdag, según el cable de la agencia fechado en Bucarest, Rumanía.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1787938275/noticias/articles/20260828_173115_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 28 Aug 2026 17:31:43 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260828173143</guid>
   </item>
 </channel>
 </rss>
