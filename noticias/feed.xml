@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 27 Sep 2026 19:39:20 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 22:53:08 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Fuerte temblor de 4.8 sacude República Dominicana la tarde de este domingo; es el segundo del día]]></title>
+    <link>https://elnacional.com.do/nacionales/fuerte-temblor-de-48-sacude-republica-dominicana-la-tarde-de-este-domingo-es-el-segundo-del-dia_581957_amp.html</link>
+    <description><![CDATA[Un fuerte temblor de magnitud 4.8 sacudió República Dominicana la tarde de este domingo. El epicentro se localizó en Bejucal, a 11 kilómetros de Guaymate, provincia El Seibo, a las 5:49 de la tarde, con una profundidad de 107 kilómetros.
+
+Este fue el segundo sismo del día. En la mañana, un temblor de magnitud 4.3 se registró en San Antonio de Guerra, provincia Santo Domingo, a las 6:07 de la mañana, con una profundidad de 95.7 kilómetros.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790549564/noticias/articles/20260927_225243_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 27 Sep 2026 22:53:08 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260927225308</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Director de la Policía a delincuentes: “Tienen dos caminos: entregarse o dejar de delinquir”]]></title>
     <link>https://ntelemicro.com/director-de-la-policia-a-delincuentes-tienen-dos-caminos-entregarse-o-dejar-de-delinquir/</link>
     <description><![CDATA[El director general de la Policía Nacional, mayor general Ernesto Rodríguez García, ha lanzado una advertencia a los delincuentes: la institución seguirá buscándolos, apresándolos y sometiéndolos a la justicia.
@@ -1275,19 +1286,6 @@ Las instituciones reiteran su compromiso de fortalecer el control sobre la comer
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788309265/noticias/articles/20260902_003425_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 02 Sep 2026 00:34:54 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260902003454</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Detienen mujer en AILA con 16 láminas de presunta cocaína ocultas en pantalones jeans]]></title>
-    <link>https://elnuevodiario.com.do/detienen-mujer-en-el-aila-con-16-laminas-de-presunta-cocaina-ocultas-en-pantalones-jeans/</link>
-    <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD) arrestó a una mujer en el Aeropuerto Internacional de Las Américas cuando intentaba viajar a Madrid con 16 láminas de presunta cocaína ocultas en pantalones jeans.
-
-Las láminas estaban adheridas a la parte interior de los pantalones, dentro de fundas negras y recubiertas con cinta adhesiva. Además, se encontró un envase plástico con una sustancia líquida que podría ser cocaína o heroína.
-
-El peso total de las sustancias podría alcanzar cinco kilogramos. La detenida fue puesta a disposición de la Jurisdicción de Atención Permanente de Santo Domingo Este. La sustancia fue enviada al Inacif para análisis.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788277139/noticias/articles/20260901_153856_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 01 Sep 2026 15:39:50 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260901153950</guid>
   </item>
 </channel>
 </rss>
