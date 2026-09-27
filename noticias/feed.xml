@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 27 Sep 2026 17:59:22 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 19:36:50 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Eligio Jáquez anuncia su respaldo a la candidatura presidencial de Carolina Mejía]]></title>
+    <link>https://www.diariolibre.com/politica/general/2026/09/27/eligio-jaquez-apoya-el-proyecto-presidencial-de-carolina-mejia/3671658</link>
+    <description><![CDATA[Eligio Jáquez, reconocido dirigente político y agrónomo, ha anunciado su respaldo a la candidatura presidencial de Carolina Mejía. El anuncio se realizó en un acto en el Club San Carlos, Distrito Nacional, con la presencia de dirigentes del PRM y representantes del sector agropecuario.
+
+Jáquez destacó la experiencia de Mejía como alcaldesa del Distrito Nacional y su conocimiento de las necesidades ciudadanas. Carolina Mejía agradeció el apoyo y subrayó la importancia del sector agropecuario en su propuesta de gobierno.
+
+Mejía también invitó a otros miembros del PRM a unirse a su proyecto, asegurando que hay espacio para todos los perremeístas que deseen participar.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790537778/noticias/articles/20260927_193618_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 27 Sep 2026 19:36:50 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260927193650</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ejército intercepta yola con 16 haitianos indocumentados en Montecristi]]></title>
     <link>https://noticiassin.com/pais/provincias/2026/09/27/ejercito-intercepta-yola-con-16-haitianos-en-montecristi-2129148/</link>
     <description><![CDATA[El Ejército de República Dominicana detuvo a 16 haitianos indocumentados en Montecristi tras interceptar su llegada por mar en Playa Costa Verde. El grupo, compuesto por ocho hombres y ocho mujeres, fue interceptado alrededor de las 2:00 de la madrugada.
@@ -1279,19 +1292,6 @@ La actividad de la DGDC ocurrió siete meses después de esa advertencia y cuatr
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788274438/noticias/articles/20260901_145358_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 01 Sep 2026 14:54:38 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260901145438</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader designa a Víctor Livio Cedeño como superintendente de Bancos]]></title>
-    <link>https://elnuevodiario.com.do/abinader-designa-a-victor-livio-cedeno-como-superintendente-de-bancos/</link>
-    <description><![CDATA[El presidente Luis Abinader ha nombrado a Víctor Livio Cedeño Brea como el nuevo superintendente de Bancos de la República Dominicana, tras la renuncia de Alejandro Fernández W.
-
-Cedeño Brea es abogado con especialización en economía y regulación financiera. Posee un doctorado en Derecho y Economía y ha trabajado en la Superintendencia de Bancos como subgerente de Regulación e Innovación.
-
-Además, ha sido asesor legal y económico de entidades financieras y ha ofrecido consultorías internacionales en prevención del lavado de activos y financiamiento del terrorismo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788221615/noticias/articles/20260901_001335_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 01 Sep 2026 00:14:09 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260901001409</guid>
   </item>
 </channel>
 </rss>
