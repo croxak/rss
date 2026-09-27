@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 27 Sep 2026 17:56:27 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 17:59:22 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Ejército intercepta yola con 16 haitianos indocumentados en Montecristi]]></title>
+    <link>https://noticiassin.com/pais/provincias/2026/09/27/ejercito-intercepta-yola-con-16-haitianos-en-montecristi-2129148/</link>
+    <description><![CDATA[El Ejército de República Dominicana detuvo a 16 haitianos indocumentados en Montecristi tras interceptar su llegada por mar en Playa Costa Verde. El grupo, compuesto por ocho hombres y ocho mujeres, fue interceptado alrededor de las 2:00 de la madrugada.
+
+Las tropas de la Dirección de Inteligencia Militar (J-2) y la 15ta. Compañía localizaron a los extranjeros recién desembarcados. La yola utilizada huyó mar adentro después de dejar a los pasajeros en la costa.
+
+Los detenidos fueron trasladados a una instalación militar para su depuración y luego entregados a la Dirección General de Migración. El Ejército mantiene patrullajes en la zona fronteriza y el litoral de Montecristi.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790531874/noticias/articles/20260927_175754_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 27 Sep 2026 17:59:22 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260927175922</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Apresan a hombre acusado de matar a dos durante riña en Sabana Perdida]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/09/27/muerte-a-tiros-en-santo-domingo-durante-rina/3671595</link>
     <description><![CDATA[La Policía Nacional ha detenido a Melvin Ramón Vázquez Álvaro, de 36 años, acusado de ser el responsable de la muerte a tiros de dos personas en Sabana Perdida, Santo Domingo Norte. Las víctimas, Milton Figueroa Jiménez y Jean Carlos de León Beltrán, fallecieron tras una riña.
@@ -1279,23 +1292,6 @@ Además, ha sido asesor legal y económico de entidades financieras y ha ofrecid
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788221615/noticias/articles/20260901_001335_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 01 Sep 2026 00:14:09 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260901001409</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[RD Vial desembolsa más de RD$16,000 millones en 2026 para financiar proyectos de Obras Públicas]]></title>
-    <link>https://elnuevodiario.com.do/rd-vial-desembolsa-mas-de-rd16000-millones-en-2026-para-financiar-proyectos-de-obras-publicas/</link>
-    <description><![CDATA[El Fideicomiso RD Vial ha desembolsado más de RD$16,000 millones en 2026 para proyectos del Ministerio de Obras Públicas, financiando nuevas infraestructuras y mantenimiento de la red vial nacional. Desde 2021, se han desembolsado más de RD$70,000 millones.
-
-Más de 3,500 kilómetros de carreteras reciben mantenimiento, con un nuevo modelo de contratos que asigna responsabilidades específicas para cada tramo.
-
-RD Vial trabaja en la iluminación de carreteras, con 10,000 lámparas instaladas y 250 kilómetros iluminados. La meta es alcanzar 500 kilómetros iluminados para 2026.
-
-El sistema de peajes avanza hacia el cobro electrónico, con el primer pórtico instalado en Las Américas. Se planea un modelo híbrido con carriles expresos y pagos tradicionales.
-
-Se han incorporado más de 300 unidades para asistencia vial, operando las 24 horas con el número 511.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788219957/noticias/articles/20260831_234557_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 31 Aug 2026 23:46:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260831234630</guid>
   </item>
 </channel>
 </rss>
