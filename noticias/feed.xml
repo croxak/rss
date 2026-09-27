@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 27 Sep 2026 02:02:53 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 27 Sep 2026 17:56:27 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Apresan a hombre acusado de matar a dos durante riña en Sabana Perdida]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/09/27/muerte-a-tiros-en-santo-domingo-durante-rina/3671595</link>
+    <description><![CDATA[La Policía Nacional ha detenido a Melvin Ramón Vázquez Álvaro, de 36 años, acusado de ser el responsable de la muerte a tiros de dos personas en Sabana Perdida, Santo Domingo Norte. Las víctimas, Milton Figueroa Jiménez y Jean Carlos de León Beltrán, fallecieron tras una riña.
+
+Amdrison de León resultó herido en el incidente y está recibiendo atención médica. Tanto Vázquez Álvaro como el herido eran buscados por su presunta vinculación con delitos en San Francisco de Macorís.
+
+El detenido será puesto a disposición del Ministerio Público.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790531748/noticias/articles/20260927_175548_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 27 Sep 2026 17:56:27 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260927175627</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Conocerán este lunes medida de coerción a propietario de juegos mecánico por muerte niña en Hato Mayor]]></title>
     <link>https://m.n.com.do/2026/09/26/conoceran-este-lunes-medida-de-coercion-a-propietario-de-juegos-mecanico-por-muerte-nina-en-hato-mayor/</link>
     <description><![CDATA[El lunes 28 de septiembre se conocerá la medida de coerción contra el propietario de los juegos mecánicos involucrados en un accidente en Hato Mayor. La audiencia será a las 9:00 de la mañana en el Tribunal de Atención Permanente.
@@ -1283,19 +1296,6 @@ Se han incorporado más de 300 unidades para asistencia vial, operando las 24 ho
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788219957/noticias/articles/20260831_234557_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 31 Aug 2026 23:46:30 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260831234630</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Panam adquiere planta de Cementos Fortaleza en El Salvador]]></title>
-    <link>https://elnuevodiario.com.do/panam-adquiere-planta-de-cementos-fortaleza-en-el-salvador/</link>
-    <description><![CDATA[Cemento Panam, parte del Grupo Estrella, ha adquirido la planta de Cementos Fortaleza en Acajutla, El Salvador, con una capacidad de producción de 350,000 toneladas de cemento al año. Esta operación amplía la presencia de la empresa a tres países, junto a República Dominicana y Panamá.
-
-La adquisición cuenta con el respaldo financiero de Bladex, BAC y Global Bank. Giuseppe Maniscalco, presidente de la División Industrial de Estrella, destacó que esta operación permitirá continuar la expansión regional desde República Dominicana.
-
-El Grupo Estrella tiene presencia en 16 países de Centroamérica y el Caribe, desarrollando actividades en construcción, desarrollo inmobiliario, prefabricados de hormigón, acero y materiales de construcción.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788218850/noticias/articles/20260831_232730_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 31 Aug 2026 23:27:59 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260831232759</guid>
   </item>
 </channel>
 </rss>
