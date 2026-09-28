@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 27 Sep 2026 23:50:41 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 28 Sep 2026 02:53:23 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Caso SeNaSa 2.0: siete a prisión preventiva, nueve a arresto domiciliario y seis con medidas menos gravosas]]></title>
+    <link>https://n.com.do/2026/09/27/prision-preventiva-siete-imputados-senasa-2/</link>
+    <description><![CDATA[El juez Rigoberto Sena ha dictado prisión preventiva para siete imputados en el caso SeNaSa 2.0. De estos, cuatro son hombres y tres son mujeres.
+
+Nueve personas deberán cumplir arresto domiciliario. Además, seis imputados tendrán que cumplir con garantía económica, presentación periódica e impedimento de salida del país. Dos procesados quedaron sin medida de coerción.
+
+Estas decisiones fueron tomadas tras las solicitudes del Ministerio Público y los argumentos de las defensas durante la audiencia.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790563682/noticias/articles/20260928_024802_article.png" type="image/png"/>
+    <pubDate>Mon, 28 Sep 2026 02:53:23 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260928025323</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Alejandro Campos supervisa el Puerto de La Romana y anuncia inicio de su remodelación para reforzar la seguridad nacional]]></title>
     <link>https://elnuevodiario.com.do/alejandro-campos-supervisa-el-puerto-de-la-romana-y-anuncia-inicio-de-su-remodelacion-para-reforzar-la-seguridad-nacional/#google_vignette</link>
     <description><![CDATA[Alejandro Campos, director de la Autoridad Portuaria Dominicana, visitó el Puerto de La Romana para supervisar y anunciar el inicio de su remodelación en octubre. Las obras, adjudicadas en agosto, buscan reforzar la seguridad nacional y serán supervisadas por Marlon Ramírez.
@@ -1273,19 +1286,6 @@ Fuente: Listín Diario - Ramón Cruz Benzan]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788488666/noticias/articles/20260904_022425_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 04 Sep 2026 02:25:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260904022534</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[MP pide prisión por caso de menores maltratados en fundación de Haina; audiencia será el miércoles]]></title>
-    <link>https://elnuevodiario.com.do/mp-pide-prision-por-caso-de-menores-maltratados-en-fundacion-de-haina-audiencia-sera-el-miercoles/</link>
-    <description><![CDATA[El Ministerio Público ha solicitado prisión preventiva para dos hombres acusados de maltratar a menores en la Fundación Restaurando Vida en Bajos de Haina. La audiencia está programada para el jueves 3 de septiembre.
-
-Los imputados, Ángel Gabriel Capellán e Isaías Ramón Muñoz Rodríguez, enfrentan cargos por maltrato físico y psicológico, así como por someter a los menores a trabajos forzados. La investigación se inició tras la denuncia de un menor que escapó del lugar.
-
-Durante una operación, 13 menores fueron rescatados, presentando signos de maltrato. La fundación operaba sin autorización y al margen de la regulación legal.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788309475/noticias/articles/20260902_003746_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 02 Sep 2026 00:38:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260902003830</guid>
   </item>
 </channel>
 </rss>
