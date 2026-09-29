@@ -7,9 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias automáticas de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 29 Sep 2026 13:16:06 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 29 Sep 2026 20:57:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/autonoticias/feed.xml" type="application/rss+xml"/>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Poder Ejecutivo elimina restricción de edad para licencias de conducir]]></title>
+    <link>https://www.presidencia.gob.do/noticias/poder-ejecutivo-elimina-restriccion-de-edad-para-licencias-de-conducir</link>
+    <description><![CDATA[El presidente Luis Abinader Corona ha emitido el Decreto núm. 675-26, eliminando la restricción de edad para las licencias de conducir en República Dominicana. Esta medida asegura la aplicación de la sentencia TC/0904/26 del Tribunal Constitucional.
+
+La vigencia de las licencias será uniforme de cuatro años, venciendo el día del cumpleaños del titular. La evaluación de aptitud para conducir se realizará mediante exámenes físicos, teóricos y prácticos, sin discriminación por edad.
+
+La suspensión o cancelación de licencias solo procederá por las causales establecidas en la ley. El Gobierno reafirma su compromiso con la seguridad jurídica y los derechos fundamentales de los ciudadanos.]]></description>
+    <category></category>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790715324/autonoticias/articles/20260929_205523_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 29 Sep 2026 20:57:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-auto-20260929205705</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Mirex avanza en el restablecimiento del consulado dominicano en Caracas]]></title>
     <link>https://n.com.do/2026/09/29/mirex-avanza-en-el-restablecimiento-del-consulado-dominicano-en-caracas/</link>
     <description><![CDATA[El Ministerio de Relaciones Exteriores (Mirex) avanza en los preparativos para restablecer el Consulado General de la República Dominicana en Caracas, Venezuela. La fecha de apertura se anunciará por los canales oficiales del Mirex.
@@ -1305,20 +1319,6 @@ La proyección internacional incluyó la participación en foros globales y la c
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783981355/autonoticias/articles/20260713_222235_article.webp" type="image/jpeg"/>
     <pubDate>Mon, 13 Jul 2026 22:24:37 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-auto-20260713222437</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Grupo creado por el secretario de Guerra perseguirá filtraciones a medios estadounidenses]]></title>
-    <link>https://n.com.do/2026/07/13/grupo-creado-por-el-secretario-de-guerra-perseguira-filtraciones-a-medios-estadounidenses/</link>
-    <description><![CDATA[El secretario de Guerra de EE.UU., Pete Hegseth, ha anunciado la creación de un grupo de trabajo conjunto entre el Pentágono y el Departamento de Justicia. Este grupo buscará identificar y procesar a quienes filtren información sensible de defensa a los medios.
-
-Hegseth ha delegado en la Oficina del Asesor General del Departamento de Guerra la autoridad para solicitar y recabar información necesaria dentro del Pentágono, con un plazo de respuesta de 48 horas.
-
-La iniciativa sigue a la revelación del New York Times sobre citaciones judiciales contra periodistas tras un reportaje sobre el avión del presidente Trump.]]></description>
-    <category></category>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1783981374/autonoticias/articles/20260713_222254_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 13 Jul 2026 22:24:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-auto-20260713222419</guid>
   </item>
 </channel>
 </rss>
