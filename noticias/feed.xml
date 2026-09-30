@@ -7,14 +7,33 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 30 Sep 2026 05:04:51 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 05:07:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[EE. UU. demanda al dominicano Huáscar López y a Cash FX por presunto esquema Ponzi de más de US$950 millones]]></title>
+    <link>https://eltestigo.com</link>
+    <description><![CDATA[La Comisión de Comercio de Futuros de Productos Básicos de Estados Unidos (CFTC) demandó a Cash FX Group y a su director ejecutivo, el dominicano Huáscar José López Castillo, por presuntamente operar un esquema Ponzi que captó más de US$950 millones y ocasionó pérdidas de al menos US$406 millones a sus participantes.
+
+La acción fue presentada el 24 de septiembre ante el Tribunal Federal del Distrito Medio de Florida. También figuran como demandados The Conversion Pros, su director ejecutivo Ronald Pope y Justin Halladay. El expediente identifica a López Castillo como ciudadano dominicano residente en Brasil y señala que vivía en República Dominicana durante el período investigado, comprendido entre junio de 2019 y diciembre de 2023.
+
+Según la CFTC, la empresa atraía participantes con promesas de rendimientos de hasta un 15 % semanal mediante operaciones de divisas supuestamente ejecutadas por expertos, algoritmos e inteligencia artificial. Sin embargo, el regulador sostiene que la actividad real de inversión era mínima y que utilizaban nuevos aportes para pagar ganancias ficticias a otros participantes. También habrían emitido estados de cuenta falsos.
+
+La demanda describe más de 400,000 cuentas financiadas en todo el mundo y estima que aproximadamente el 81 % de los participantes perdió dinero. Más de 6,000 cuentas pertenecían a residentes en Estados Unidos, quienes aportaron al menos US$27 millones.
+
+El documento también atribuye transferencias de al menos US$121 millones a billeteras digitales controladas por López Castillo, de los cuales habría retenido y utilizado al menos US$96 millones para su beneficio personal. Asimismo, señala transferencias de al menos US$15.4 millones a billeteras controladas por Pope o su empresa y US$16 millones a Halladay.
+
+La CFTC solicita restitución a los afectados, devolución de ganancias obtenidas ilícitamente, sanciones económicas y prohibiciones para operar y registrarse ante el organismo. Las alegaciones están sujetas a la decisión del tribunal.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790744794/noticias/articles/20260930_050633_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 30 Sep 2026 05:07:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260930050704</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Comienza en Miami el juicio de Christian Sanon por el asesinato de Jovenel Moïse]]></title>
     <link>https://eltestigo.com</link>
     <description><![CDATA[El juicio contra Christian Emmanuel Sanon, médico y pastor haitiano-estadounidense acusado de participar en la planificación del asesinato del presidente de Haití, Jovenel Moïse, comenzó ante el Tribunal Federal del Distrito Sur de Florida, en Miami.
@@ -1283,17 +1302,6 @@ Las operaciones aéreas en el aeropuerto están suspendidas mientras bomberos y 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788722426/noticias/articles/20260906_192025_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 06 Sep 2026 19:20:47 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260906192047</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Siete detenidos durante operativo contra extracción ilegal de oro en Monte Plata]]></title>
-    <link>https://ntelemicro.com/siete-detenidos-durante-operativo-contra-extraccion-ilegal-de-oro-en-monte-plata/</link>
-    <description><![CDATA[Siete personas fueron detenidas en un operativo contra la extracción ilegal de oro en el Área Protegida Loma 7 Picos, Yamasá, Monte Plata. La acción fue llevada a cabo por el SENPA y el Ministerio de Medio Ambiente.
-
-Durante el operativo se ocuparon herramientas utilizadas para la extracción de oro y un arma de fabricación casera. Los detenidos fueron trasladados al destacamento de la Policía Nacional para los fines legales correspondientes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788721247/noticias/articles/20260906_190046_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 06 Sep 2026 19:01:15 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260906190115</guid>
   </item>
 </channel>
 </rss>
