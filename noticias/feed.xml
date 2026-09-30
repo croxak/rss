@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 28 Sep 2026 02:53:23 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 30 Sep 2026 04:36:27 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[El Salvador enviará helicópteros y tropas a Haití para misión antipandillas]]></title>
+    <link>https://www.infobae.com/el-salvador/2026/09/29/el-salvador-enviara-helicopteros-y-tropas-a-haiti-para-mision-antipandillas/</link>
+    <description><![CDATA[El Salvador ha aprobado una ley que permite a su Fuerza Armada participar en la Fuerza de Supresión de Pandillas en Haití. La misión, que reemplazará a la Misión Multinacional de Apoyo a la Seguridad, contará con helicópteros y tropas salvadoreñas.
+
+El contingente podrá operar desde Haití o República Dominicana, y la normativa asegura la jurisdicción salvadoreña sobre su personal. Además, deberán respetar las leyes locales y los Convenios de Ginebra.
+
+La ley entrará en vigencia el 2 de octubre de 2026 y tendrá una duración inicial de 12 meses, con posibilidad de prórroga.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790742960/noticias/articles/20260930_043600_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 30 Sep 2026 04:36:27 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20260930043627</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Caso SeNaSa 2.0: siete a prisión preventiva, nueve a arresto domiciliario y seis con medidas menos gravosas]]></title>
     <link>https://n.com.do/2026/09/27/prision-preventiva-siete-imputados-senasa-2/</link>
     <description><![CDATA[El juez Rigoberto Sena ha dictado prisión preventiva para siete imputados en el caso SeNaSa 2.0. De estos, cuatro son hombres y tres son mujeres.
@@ -1273,19 +1286,6 @@ Ambos comparecieron ante el Ministerio Público, pero aún no se ha establecido 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788569574/noticias/articles/20260905_005254_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 05 Sep 2026 00:55:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260905005540</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Corte confirma embargo por RD$500 millones contra hermanos Espaillat por caso Jet Set]]></title>
-    <link>https://listindiario.com/jetset/20260903/corte-confirma-embargo-rd-500-millones-hermanos-espaillat-caso-jet-set_920873.html</link>
-    <description><![CDATA[La Corte de Apelación del Distrito Nacional ha confirmado un embargo por RD$500 millones contra Antonio y Maribel Espaillat, vinculados al colapso del techo de la discoteca Jet Set, que dejó 236 muertos y más de 80 heridos.
-
-El tribunal rechazó el recurso de apelación de los hermanos Espaillat, señalando que las medidas de coerción real son cautelares y no constituyen una condena anticipada. También desestimó el argumento sobre la multiplicación de embargos debido a la pluralidad de víctimas.
-
-Fuente: Listín Diario - Ramón Cruz Benzan]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788488666/noticias/articles/20260904_022425_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 04 Sep 2026 02:25:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260904022534</guid>
   </item>
 </channel>
 </rss>
