@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 01 Oct 2026 03:22:48 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 03:37:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Ministerio Público pide prisión para la expareja de Loyca Alvarado por feminicidio agravado]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/09/30/prision-preventiva-por-feminicidio-en-republica-dominicana/3675214</link>
+    <description><![CDATA[El Ministerio Público ha solicitado prisión preventiva para José Luis Rodríguez Fabián, acusado de feminicidio agravado contra Loyca Alvarado Adames. Alvarado fue reportada desaparecida el domingo y encontrada muerta el lunes en Haina.
+
+El feminicidio ocurrió el 27 de septiembre en una cabaña en la avenida George Washington. Rodríguez Fabián fue arrestado el 29 de septiembre en el Ensanche La Paz, donde se le incautó un revólver calibre 38.
+
+La audiencia para la medida de coerción está fijada para el 1 de octubre.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790825772/noticias/articles/20261001_033612_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 01 Oct 2026 03:37:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261001033702</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno crea organismo para administrar los hogares de paso de menores]]></title>
     <link>https://www.diariolibre.com/politica/congreso-nacional/2026/09/30/gobierno-crea-organismo-para-administrar-los-hogares-de-paso/3675138</link>
     <description><![CDATA[El Gobierno dominicano ha establecido el Servicio Nacional de Atención Residencial (Señar) para mejorar el sistema de atención a menores bajo protección del Estado. Este organismo comenzará a operar el 1 de enero de 2027 y busca aumentar en un 30 % la capacidad de los hogares de paso y centros residenciales.
@@ -1293,19 +1306,6 @@ Se ocuparon 24 pacas con los paquetes, combustible, un GPS, celulares y otras ev
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789316232/noticias/articles/20260913_161709_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 13 Sep 2026 16:17:41 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260913161741</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Arrestan en el AILA a hombre investigado por muerte de joven en Los Praditos]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/09/11/arrestan-en-el-aila-a-investigado-por-muerte-en-los-praditos-2115441/</link>
-    <description><![CDATA[Lenin Jhericop Núñez de León fue arrestado en el Aeropuerto Internacional de Las Américas por su presunta implicación en la muerte de Enmanuel Contrera Medina. El arresto fue realizado por la Unidad de Captura de Prófugos, Rebeldes y Condenados, bajo la dirección de la fiscal Andry de los Santos.
-
-El incidente ocurrió tras un altercado relacionado con la venta de un iPhone 15 Pro Max en Los Praditos. Contrera Medina fue agredido y sufrió lesiones graves que resultaron en su fallecimiento el 8 de septiembre.
-
-La investigación sigue abierta y las autoridades buscan que Núñez de León responda ante el Ministerio Público por los hechos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789159703/noticias/articles/20260911_204822_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 11 Sep 2026 20:48:54 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260911204854</guid>
   </item>
 </channel>
 </rss>
