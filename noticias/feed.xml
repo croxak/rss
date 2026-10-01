@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 30 Sep 2026 05:07:04 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 03:22:48 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Gobierno crea organismo para administrar los hogares de paso de menores]]></title>
+    <link>https://www.diariolibre.com/politica/congreso-nacional/2026/09/30/gobierno-crea-organismo-para-administrar-los-hogares-de-paso/3675138</link>
+    <description><![CDATA[El Gobierno dominicano ha establecido el Servicio Nacional de Atención Residencial (Señar) para mejorar el sistema de atención a menores bajo protección del Estado. Este organismo comenzará a operar el 1 de enero de 2027 y busca aumentar en un 30 % la capacidad de los hogares de paso y centros residenciales.
+
+El Señar estará adscrito al Ministerio de la Presidencia y gestionará los servicios de atención residencial para menores. El Consejo Nacional para la Niñez y la Adolescencia (Conani) mantendrá su función de supervisión técnica.
+
+La medida se toma tras incidentes en hogares de paso, incluyendo la muerte de una menor en mayo de 2024. El nuevo modelo atenderá a los menores según sus características y necesidades, coordinando con el Ministerio de Salud Pública y el Servicio Nacional de Salud.
+
+Se ha creado una Comisión de Transición e Implementación para coordinar el proceso hacia la nueva estructura.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790824941/noticias/articles/20261001_032221_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 01 Oct 2026 03:22:48 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261001032248</guid>
+  </item>
+
+  <item>
     <title><![CDATA[EE. UU. demanda al dominicano Huáscar López y a Cash FX por presunto esquema Ponzi de más de US$950 millones]]></title>
     <link>https://eltestigo.com</link>
     <description><![CDATA[La Comisión de Comercio de Futuros de Productos Básicos de Estados Unidos (CFTC) demandó a Cash FX Group y a su director ejecutivo, el dominicano Huáscar José López Castillo, por presuntamente operar un esquema Ponzi que captó más de US$950 millones y ocasionó pérdidas de al menos US$406 millones a sus participantes.
@@ -1291,17 +1306,6 @@ La investigación sigue abierta y las autoridades buscan que Núñez de León re
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789159703/noticias/articles/20260911_204822_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 11 Sep 2026 20:48:54 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260911204854</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Avión de carga de Amazon Air se sale de la pista en aeropuerto de Miami y termina envuelto en llamas: no hay reporte de heridos o fallecidos]]></title>
-    <link>https://www.eltiempo.com/amp/mundo/eeuu-y-canada/avion-de-carga-de-amazon-air-se-sale-de-la-pista-en-aeropuerto-de-miami-y-termina-envuelto-en-llamas-no-hay-reporte-de-heridos-o-fallecidos-3584004</link>
-    <description><![CDATA[Un avión de carga de Amazon Air se salió de la pista en el aeropuerto de Miami y terminó envuelto en llamas. No se han reportado heridos o fallecidos.
-
-Las operaciones aéreas en el aeropuerto están suspendidas mientras bomberos y policía atienden la emergencia.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1788722426/noticias/articles/20260906_192025_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 06 Sep 2026 19:20:47 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260906192047</guid>
   </item>
 </channel>
 </rss>
