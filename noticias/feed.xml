@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 01 Oct 2026 03:37:02 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 03:51:48 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Muere “Boloyon” tras enfrentamiento con agentes del DICRIM en Baní]]></title>
+    <link>https://ntelemicro.com/muere-boloyon-tras-enfrentamiento-con-agentes-del-dicrim-en-bani/</link>
+    <description><![CDATA[Rafelin Cruz Tejeda, conocido como “Boloyon”, falleció la noche del miércoles tras un enfrentamiento con agentes del DICRIM en Villa Fundación, Baní. 
+
+Era buscado por su presunta vinculación con varios hechos delictivos en Villa Fundación, Matanzas, Baní y Santo Domingo. 
+
+Después de resultar herido, fue llevado al Hospital Municipal de Villa Fundación, donde fue declarado muerto. Su cuerpo fue trasladado a la morgue del Hospital Nuestra Señora de Regla en Baní.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790826685/noticias/articles/20261001_035124_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 01 Oct 2026 03:51:48 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261001035148</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministerio Público pide prisión para la expareja de Loyca Alvarado por feminicidio agravado]]></title>
     <link>https://www.diariolibre.com/actualidad/justicia/2026/09/30/prision-preventiva-por-feminicidio-en-republica-dominicana/3675214</link>
     <description><![CDATA[El Ministerio Público ha solicitado prisión preventiva para José Luis Rodríguez Fabián, acusado de feminicidio agravado contra Loyca Alvarado Adames. Alvarado fue reportada desaparecida el domingo y encontrada muerta el lunes en Haina.
@@ -1293,19 +1306,6 @@ Reitera que Gustavo no está solo y que muchas personas esperan verlo recuperado
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789319277/noticias/articles/20260913_170756_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 13 Sep 2026 17:08:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260913170814</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Intervienen narcolancha con cargamento de 595 paquetes de presunta cocaína]]></title>
-    <link>https://elnuevodiario.com.do/intervienen-narcolancha-con-cargamento-de-595-paquetes-de-presunta-cocaina/#google_vignette</link>
-    <description><![CDATA[Una narcolancha con 595 paquetes de presunta cocaína fue intervenida en las costas de Baní, provincia Peravia. Tres extranjeros fueron detenidos: dos colombianos y un venezolano.
-
-La operación fue realizada por la DNCD, la Armada y la Fuerza Aérea de República Dominicana, con apoyo del Ministerio Público y agencias internacionales. La embarcación, tipo Go Fast, fue interceptada tras seguimiento aéreo, marítimo y terrestre.
-
-Se ocuparon 24 pacas con los paquetes, combustible, un GPS, celulares y otras evidencias. Las investigaciones continúan para identificar a otros involucrados.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789316232/noticias/articles/20260913_161709_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 13 Sep 2026 16:17:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260913161741</guid>
   </item>
 </channel>
 </rss>
