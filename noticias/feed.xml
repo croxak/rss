@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 01 Oct 2026 15:21:32 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 20:29:38 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Abinader a las personas que tienen muchas fichas con órdenes de arresto: “Lo mejor es que se entreguen, porque los están buscando”]]></title>
+    <link>https://n.com.do/2026/10/01/abinader-a-las-personas-que-tienen-muchas-fichas-lo-mejor-es-que-se-entreguen-porque-los-estan-buscando/</link>
+    <description><![CDATA[El presidente Luis Abinader reiteró su llamado a las personas con órdenes de arresto a entregarse, asegurando que las autoridades están trabajando en su localización. Durante la inauguración de la Escuela Primaria Ana Josefa Puello, Abinader subrayó el compromiso del Gobierno con la seguridad.
+
+El mandatario destacó el respaldo ciudadano a las acciones de la Policía Nacional y anunció la incorporación de tecnología y más agentes para fortalecer la seguridad. Este viernes, Abinader se trasladará a La Altagracia para expandir el modelo de patrullaje por cuadrantes.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790886508/noticias/articles/20261001_202828_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 01 Oct 2026 20:29:38 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261001202938</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Francisco Javier se queda en el PLD y denuncia conspiración contra consulta presidencial]]></title>
     <link>https://eltestigo.com</link>
     <description><![CDATA[Francisco Javier García ratificó este jueves que continuará su proyecto presidencial dentro del Partido de la Liberación Dominicana (PLD), pese a rechazar la suspensión de la consulta de aspirantes prevista para el 18 de octubre.
@@ -1319,17 +1330,6 @@ Las declaraciones se realizaron en Puerto Plata, donde el mandatario desarrolla 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789757535/noticias/articles/20260918_185215_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 18 Sep 2026 18:52:49 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260918185249</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Pepca realiza allanamientos relacionados con Senasa 2.0]]></title>
-    <link>https://listindiario.com/la-republica/20260918/pepca-realiza-allanamientos-relacionados-senasa-2-0_922717/amp.html</link>
-    <description><![CDATA[La Procuraduría Especializada de Persecución de la Corrupción Administrativa (Pepca) realiza allanamientos en relación con el caso del Seguro Nacional de Salud (SeNaSa).
-
-Los operativos se llevan a cabo en diversos centros de salud y han resultado en la detención de varios médicos. Estos allanamientos están relacionados con el Senasa 2.0.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789733665/noticias/articles/20260918_121425_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 18 Sep 2026 12:14:50 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260918121450</guid>
   </item>
 </channel>
 </rss>
