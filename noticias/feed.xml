@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 01 Oct 2026 03:51:48 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 13:31:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Condenan a dominicano a 15 meses por reingresar a Estados Unidos tras ser deportado; había sido condenado por robo a mano armada]]></title>
+    <link>https://eltestigo.com</link>
+    <description><![CDATA[El dominicano Cesar Sandino Tejada-Acosta fue sentenciado en Pensilvania a 15 meses de prisión por reingresar ilegalmente a Estados Unidos después de haber sido deportado.
+
+Tejada-Acosta, de 55 años y conocido también como Ceasar Almonte y Miguel Fernandez, recibió además tres años de libertad supervisada. Será expulsado nuevamente del país cuando termine de cumplir la condena.
+
+La Fiscalía Federal informó que el dominicano había sido deportado en septiembre de 2009, después de cumplir una sentencia de 135 meses de prisión por su participación en un robo a mano armada.
+
+Las autoridades lo localizaron nuevamente en Estados Unidos en febrero de 2025, cuando fue acusado separadamente de operar un establecimiento dedicado presuntamente al desarme y comercio de vehículos robados en Filadelfia. El comunicado no indica que haya sido condenado por esa imputación.
+
+ICE lo arrestó en marzo de 2026. Fue acusado formalmente de reingreso ilegal en abril y se declaró culpable en junio. El juez federal Paul S. Diamond impuso la sentencia.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790861428/noticias/articles/20261001_133027_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 01 Oct 2026 13:31:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261001133109</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Muere “Boloyon” tras enfrentamiento con agentes del DICRIM en Baní]]></title>
     <link>https://ntelemicro.com/muere-boloyon-tras-enfrentamiento-con-agentes-del-dicrim-en-bani/</link>
     <description><![CDATA[Rafelin Cruz Tejeda, conocido como “Boloyon”, falleció la noche del miércoles tras un enfrentamiento con agentes del DICRIM en Villa Fundación, Baní. 
@@ -1293,19 +1310,6 @@ Los detenidos fueron llevados a la Fortaleza Patria y entregados a la Dirección
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789324172/noticias/articles/20260913_182932_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 13 Sep 2026 18:29:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260913182957</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Madre de joven apuñalado en Serrallés pide oraciones por su recuperación]]></title>
-    <link>https://elnuevodiario.com.do/madre-de-joven-apunalado-en-serralles-pide-oraciones-por-su-recuperacion/</link>
-    <description><![CDATA[La madre de Gustavo, joven apuñalado en Serrallés, pide oraciones por su recuperación. Agradece el apoyo recibido desde el primer momento a través de llamadas, mensajes y gestos de solidaridad.
-
-En un mensaje emotivo, asegura a su hijo que está a su lado, expresando amor, fe y confianza en su recuperación. La publicación incluye el Salmo 121, resaltando la protección de Dios.
-
-Reitera que Gustavo no está solo y que muchas personas esperan verlo recuperado. "Te amo con toda mi alma. Sigue luchando, mi campeón. Dios está contigo y nosotros también", concluyó.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789319277/noticias/articles/20260913_170756_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 13 Sep 2026 17:08:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260913170814</guid>
   </item>
 </channel>
 </rss>
