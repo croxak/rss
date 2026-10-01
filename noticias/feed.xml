@@ -7,14 +7,33 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 01 Oct 2026 14:06:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 15:02:03 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Martine Moïse señala a “Don Kato” durante juicio por magnicidio; exsenador rechaza sus declaraciones]]></title>
+    <link>https://eltestigo.com</link>
+    <description><![CDATA[La ex primera dama haitiana Martine Moïse afirmó el miércoles 30 de septiembre ante un tribunal federal de Miami que numerosas personas querían sustituir a su esposo, el asesinado presidente Jovenel Moïse, según informó Miami Herald. Sus declaraciones se produjeron durante el juicio contra el pastor haitianoestadounidense Christian Emmanuel Sanon.
+
+Durante el contrainterrogatorio, Moïse señaló al exsenador y cantante Antonio “Don Kato” Chéramy, a quien responsabilizó por acciones que, según ella, impidieron celebrar elecciones y contribuyeron a la parálisis política del país. También aseguró haber visto en redes sociales varias fotografías de Chéramy con Sanon.
+
+En respuesta al diario, Chéramy negó haber bloqueado elecciones y sostuvo que el presidente nunca presentó al Parlamento una ley electoral para su aprobación. Afirmó que sus diferencias con el mandatario eran políticas y explicó que, por su trayectoria artística, ha sido fotografiado con numerosas personas.
+
+La defensa interrogó a la viuda sobre los enemigos políticos del mandatario. Ella sostuvo que el ataque fue obra de varias personas y relató que su esposo llamó a responsables de seguridad en busca de ayuda, pero nadie llegó a rescatarlos.
+
+Sanon, de 67 años, enfrenta cargos federales de conspiración para secuestrar o matar a Moïse y otros relacionados con el envío ilegal de chalecos antibalas a Haití. La Fiscalía sostiene que buscaba llegar a la presidencia mediante un derrocamiento violento. El acusado se ha declarado no culpable y su defensa niega que participara en el asesinato.
+
+Jovenel Moïse fue asesinado el 7 de julio de 2021 en su residencia. Su esposa sobrevivió al ataque con heridas graves.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790866888/noticias/articles/20261001_150128_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 01 Oct 2026 15:02:03 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261001150203</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía detiene a ciudadano alemán y ocupa fusil, pistola y más de 34 mil dólares en Juan Dolio]]></title>
     <link>https://elnacional.com.do/nacionales/policiales/policia-detiene-ciudadano-aleman-ocupa-fusil-pistola-34-mil-dolares-juan-dolio_582292.html</link>
     <description><![CDATA[La Policía realizó un allanamiento en un complejo residencial en Juan Dolio, donde detuvo al ciudadano alemán Nicola David Kahle. Durante el operativo, se ocuparon un fusil de asalto, una pistola Glock, 141 municiones y 34,200 dólares en efectivo.
@@ -1299,17 +1318,6 @@ La familia solicita que las muestras de afecto se realicen mediante donativos a 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789692853/noticias/articles/20260918_005413_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 18 Sep 2026 00:54:37 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260918005437</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Indotel dice colabora con organismos de investigación para dar con responsables de exposición de datos de Claro]]></title>
-    <link>https://hoy.com.do/el-pais/indotel-dice-investiga-dar-responsables-exposicion-datos-claro-da-recomendaciones_1102658_amp.html</link>
-    <description><![CDATA[El Instituto Dominicano de las Telecomunicaciones (Indotel) colabora con organismos de investigación para identificar a los responsables de la exposición de datos de Claro Dominicana. Los datos comprometidos incluyen números de teléfonos móviles, números de cédula y el tipo de servicio contratado.
-
-Indotel trabaja junto al Centro Nacional de Ciberseguridad y otras autoridades para esclarecer el incidente y determinar su alcance. Se aconseja a los usuarios estar atentos a posibles intentos de engaño o suplantación de identidad.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789613232/noticias/articles/20260917_024712_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 17 Sep 2026 02:48:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260917024800</guid>
   </item>
 </channel>
 </rss>
