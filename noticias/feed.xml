@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 01 Oct 2026 13:31:09 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 01 Oct 2026 14:06:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Policía detiene a ciudadano alemán y ocupa fusil, pistola y más de 34 mil dólares en Juan Dolio]]></title>
+    <link>https://elnacional.com.do/nacionales/policiales/policia-detiene-ciudadano-aleman-ocupa-fusil-pistola-34-mil-dolares-juan-dolio_582292.html</link>
+    <description><![CDATA[La Policía realizó un allanamiento en un complejo residencial en Juan Dolio, donde detuvo al ciudadano alemán Nicola David Kahle. Durante el operativo, se ocuparon un fusil de asalto, una pistola Glock, 141 municiones y 34,200 dólares en efectivo.
+
+Las autoridades han puesto al detenido y las evidencias a disposición del Ministerio Público, mientras continúan las investigaciones para determinar la procedencia del armamento, las municiones y el dinero.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790863539/noticias/articles/20261001_140538_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 01 Oct 2026 14:06:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261001140619</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Condenan a dominicano a 15 meses por reingresar a Estados Unidos tras ser deportado; había sido condenado por robo a mano armada]]></title>
     <link>https://eltestigo.com</link>
     <description><![CDATA[El dominicano Cesar Sandino Tejada-Acosta fue sentenciado en Pensilvania a 15 meses de prisión por reingresar ilegalmente a Estados Unidos después de haber sido deportado.
@@ -1299,17 +1310,6 @@ Indotel trabaja junto al Centro Nacional de Ciberseguridad y otras autoridades p
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789613232/noticias/articles/20260917_024712_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 17 Sep 2026 02:48:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260917024800</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Apresan a cinco haitianos y ocupan arma artesanal en el Parque Nacional Valle Nuevo]]></title>
-    <link>https://noticiassin.com/pais/provincias/2026/09/13/apresan-a-cinco-haitianos-y-ocupan-arma-artesanal-en-el-parque-nacional-valle-nuevo-2116192/?amp=1</link>
-    <description><![CDATA[Cinco haitianos fueron apresados en el Parque Nacional Valle Nuevo, Constanza, por el Ejército de República Dominicana. Durante el operativo, se les incautó un arma artesanal.
-
-Los detenidos fueron llevados a la Fortaleza Patria y entregados a la Dirección General de Migración para los procedimientos correspondientes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789324172/noticias/articles/20260913_182932_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 13 Sep 2026 18:29:57 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260913182957</guid>
   </item>
 </channel>
 </rss>
