@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 02 Oct 2026 04:07:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 04:29:59 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Condenan en Canadá a traficante que se proclamó “rey de los dominicanos” tras mostrar a la Policía que gastó 13 mil dólares en una discoteca]]></title>
+    <link>https://eltestigo.com</link>
+    <description><![CDATA[Adriel Demorizi, de 25 años, fue condenado este jueves 1 de octubre a cuatro años de prisión en Montreal, Canadá, tras declararse culpable de posesión de drogas con fines de tráfico, informó el diario La Presse.
+
+Demorizi fue arrestado en abril de 2025 durante una investigación dirigida inicialmente contra Steve Ribeiro, cuyo proceso continúa pendiente. Tenía 16 kilos de cocaína y la llave de un apartamento donde las autoridades encontraron otros seis kilos y miles de pastillas de metanfetamina.
+
+La pena fue propuesta conjuntamente por la defensa y la Fiscalía.
+
+Según un informe policial citado por el periódico, Demorizi se presentó ante agentes en septiembre de 2022 como el “rey de los dominicanos”, exhibió billetes de 100 dólares y mostró una factura de 13,000 dólares por una noche en una discoteca.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790915364/noticias/articles/20261002_042923_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 02 Oct 2026 04:29:59 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261002042959</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Tribunal condena a 30 años de cárcel a militar que mató a un médico en Santiago]]></title>
     <link>https://eldia.com.do/tribunal-condena-a-30-anos-de-carcel-a-militar-que-mato-a-un-medico-en-santiago/</link>
     <description><![CDATA[El Cuarto Tribunal Colegiado de Santiago condenó a 30 años de prisión a Víctor Manuel Saldaña Hernández, cabo de la Armada Dominicana, por el asesinato del médico Enrique Antonio Espinal Castillo en 2024.
@@ -1321,19 +1336,6 @@ El acuerdo aún no ha sido firmado y deberá pasar por procedimientos parlamenta
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789775466/noticias/articles/20260918_235105_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 18 Sep 2026 23:51:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260918235133</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Senasa detectó consultas de ginecología cargadas a hombres dentro de esquema investigado por fraude]]></title>
-    <link>https://www.diariolibre.com/actualidad/justicia/2026/09/18/senasa-detecto-consultas-de-ginecologia-cargadas-a-hombres/3663602</link>
-    <description><![CDATA[Senasa detectó consultas de ginecología cargadas a hombres, quienes negaron haber recibido esos servicios. Este hallazgo es parte de una investigación sobre un esquema de fraude.
-
-La auditoría se centró en el gineco-obstetra Steven Alexander Rabssa Fernández, revelando un aumento en autorizaciones de su parte. Se identificaron 4,363 autorizaciones bajo investigación, con un valor de 41.1 millones de pesos.
-
-La investigación descubrió firmas falsificadas y pagos a médicos que devolvían parte del dinero a los involucrados. Las autoridades han autorizado allanamientos en 37 ubicaciones del país.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789775355/noticias/articles/20260918_234915_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 18 Sep 2026 23:49:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260918234940</guid>
   </item>
 </channel>
 </rss>
