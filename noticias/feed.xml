@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 02 Oct 2026 19:36:53 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 19:38:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Argentina ofrecerá ciudadanía a extranjeros a cambio de que aporten 350,000 dólares]]></title>
+    <link>https://elnuevodiario.com.do/argentina-ofrecera-ciudadania-a-extranjeros-a-cambio-de-que-aporten-350000-dolares/</link>
+    <description><![CDATA[El Gobierno argentino ha lanzado un Programa de Ciudadanía por Inversión que permitirá a extranjeros obtener la ciudadanía mediante un aporte de 350,000 dólares al Tesoro o la suscripción de un título público de 800,000 dólares. Las solicitudes comenzarán a recibirse en el cuarto trimestre de 2026.
+
+El programa fue anunciado por el ministro de Economía, Luis Caputo, y el jefe de Gabinete, Diego Santilli, durante la Argentina Week en París. También se contemplan aportes para cónyuges e hijos del solicitante principal.
+
+Las solicitudes estarán sujetas a un proceso de evaluación riguroso para garantizar la seguridad nacional y la integridad del sistema financiero. La evaluación será realizada por la Agencia de Programas de Ciudadanía por Inversión, con la participación de varias entidades gubernamentales.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790969833/noticias/articles/20261002_193713_article.webp" type="image/webp"/>
+    <pubDate>Fri, 02 Oct 2026 19:38:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261002193800</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Garantía de RD$1 millón a empresario tras muerte de niña en juego mecánico en Hato Mayoy]]></title>
     <link>https://elnuevodiario.com.do/garantia-de-rd1-millon-a-empresario-tras-muerte-de-nina-en-juego-mecanico-en-hato-mayoy/</link>
     <description><![CDATA[La Oficina de Servicios de Atención Permanente de Hato Mayor ha impuesto una garantía económica de RD$1 millón al empresario Simón María Estévez Ramos, tras el accidente en un juego mecánico que resultó en la muerte de una niña de 11 años durante las fiestas patronales de Hato Mayor.
@@ -1341,19 +1354,6 @@ Mejía promete garantizar la continuidad del PRM en el poder más allá de 2028,
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789922794/noticias/articles/20260920_164633_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 20 Sep 2026 16:47:11 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260920164711</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[La Pepca atribuye fraude de RD$41 millones contra Senasa a red de empleados y médicos]]></title>
-    <link>https://www.diariolibre.com/actualidad/justicia/2026/09/20/pepca-atribuye-fraude-de-rd41-millones-contra-senasa-a-red-de-emplead/3664790#google_vignette</link>
-    <description><![CDATA[La Procuraduría Especializada de Persecución de la Corrupción Administrativa (Pepca) ha desmantelado una red de fraude que operaba en el Seguro Nacional de Salud (Senasa), involucrando a empleados, médicos y particulares. La estructura es acusada de realizar 4,363 autorizaciones fraudulentas por un monto de 41,125,551.02 pesos.
-
-Ángel Luís Guzmán Vásquez, ex auxiliar del Departamento de Autorizaciones Médicas de Senasa, es señalado como el principal articulador del fraude. Actualmente cumple prisión preventiva. El Ministerio Público ha solicitado medidas de coerción para 25 imputados.
-
-El fraude consistía en acceder a datos de afiliados y solicitar autorizaciones con nombres ficticios, utilizando códigos auténticos de médicos. Las auditorías revelaron irregularidades como consultas ginecológicas facturadas a hombres y formularios falsificados.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789922633/noticias/articles/20260920_164352_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 20 Sep 2026 16:44:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260920164419</guid>
   </item>
 </channel>
 </rss>
