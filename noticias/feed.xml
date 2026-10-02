@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 02 Oct 2026 13:33:36 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 13:35:57 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Ministerio Público arresta a tres personas por estafa financiera millonaria en La Romana]]></title>
+    <link>https://eldia.com.do/ministerio-publico-arresta-a-tres-personas-por-estafa-financiera-millonaria-en-la-romana/</link>
+    <description><![CDATA[El Ministerio Público arrestó a tres personas en La Romana por una estafa financiera millonaria. Alejandro Rodríguez Reyes, Alex Ernesto Rodríguez Rondón y Ámbar Melissa Rodríguez Ellis están implicados en operaciones irregulares con las sociedades Agente de Cambio Rodríguez Reyes, S.A. y AERR Group, S.R.L.
+
+Las investigaciones revelan que entre diciembre de 2020 y abril de 2026, los imputados canalizaron recursos de terceros en pesos, dólares y euros, causando un perjuicio económico significativo a las víctimas.
+
+Durante el allanamiento, se ocuparon documentos, vehículos, equipos informáticos y dinero en efectivo. Se ha solicitado prisión preventiva para los imputados y el caso se declara de tramitación compleja.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790948131/noticias/articles/20261002_133531_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 02 Oct 2026 13:35:57 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261002133557</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Conocerán coerción a dueño juego mecánico por muerte de niña]]></title>
     <link>https://ntelemicro.com/conoceran-coercion-a-dueno-juego-mecanico-por-muerte-de-nina/</link>
     <description><![CDATA[La Oficina Judicial de Servicios de Atención Permanente de Hato Mayor conocerá este viernes la medida de coerción contra Simón María Estévez Ramos, relacionado con la muerte de una niña de 11 años tras caer de un juego mecánico.
@@ -1331,19 +1344,6 @@ Hasta el momento, no se ha establecido públicamente cuántas personas viajaban 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789794940/noticias/articles/20260919_051539_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 19 Sep 2026 05:16:22 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260919051622</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Un informe erróneo generado con IA puso a un buque chino en la mira del Gobierno de EE.UU.]]></title>
-    <link>https://www.clarin.com/estados-unidos/un-informe-erroneo-generado-con-ia-puso-a-un-buque-chino-en-la-mira-del-gobierno-de-ee-uu_0_qJ1hj4jbkS.html</link>
-    <description><![CDATA[Estados Unidos estuvo a punto de interceptar un buque chino en Oriente Medio debido a un informe erróneo generado por inteligencia artificial. El informe señalaba incorrectamente que el cargamento del buque estaba vinculado a un programa de armas nucleares.
-
-La operación fue suspendida cuando se revisó la información y se determinó que el chatbot había identificado incorrectamente el material transportado. Este incidente ocurrió en el contexto de la guerra con Irán.
-
-El caso se conoce en un momento de creciente uso de herramientas de IA por parte del Ejército y los servicios de inteligencia estadounidenses, lo que ha generado críticas hacia esta tecnología.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789782855/noticias/articles/20260919_015415_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 19 Sep 2026 01:54:43 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260919015443</guid>
   </item>
 </channel>
 </rss>
