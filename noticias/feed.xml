@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 01 Oct 2026 22:33:58 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 04:07:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Tribunal condena a 30 años de cárcel a militar que mató a un médico en Santiago]]></title>
+    <link>https://eldia.com.do/tribunal-condena-a-30-anos-de-carcel-a-militar-que-mato-a-un-medico-en-santiago/</link>
+    <description><![CDATA[El Cuarto Tribunal Colegiado de Santiago condenó a 30 años de prisión a Víctor Manuel Saldaña Hernández, cabo de la Armada Dominicana, por el asesinato del médico Enrique Antonio Espinal Castillo en 2024.
+
+El tribunal, compuesto por los magistrados Rubén Darío Cruz Uceta, Rubén Rodríguez y Jasmín de los Santos, también ordenó el pago de cuatro millones de pesos por parte del acusado.
+
+La fiscal Jenniffer Rodríguez presentó pruebas que incluyeron imágenes del Sistema 9-1-1, demostrando la responsabilidad de Saldaña Hernández. El cuerpo de Espinal Castillo fue encontrado en Sabana Grande de Palenque.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790913978/noticias/articles/20261002_040617_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 02 Oct 2026 04:07:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261002040700</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Expareja de Loyca Alvarado tenía una orden de alejamiento, pero un día después habría cometido el feminicidio]]></title>
     <link>https://eldia.com.do/expareja-de-loyca-alvarado-tenia-una-orden-de-alejamiento-pero-un-dia-despues-cometio-el-feminicidio/</link>
     <description><![CDATA[José Luis Fabián Rodríguez fue enviado a prisión por el feminicidio de Loyca Alvarado, su expareja. A pesar de tener una orden de alejamiento, un día después habría disparado a Alvarado en la cabeza. El cuerpo fue hallado el 28 de septiembre en Bajos de Haina, San Cristóbal.
@@ -1321,19 +1334,6 @@ La investigación descubrió firmas falsificadas y pagos a médicos que devolví
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789775355/noticias/articles/20260918_234915_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 18 Sep 2026 23:49:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260918234940</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Caso Senasa 2.0: Ministerio Público confirma 28 detenidos y se enfoca en prestadores de servicios]]></title>
-    <link>https://www.diariolibre.com/actualidad/justicia/2026/09/18/medicos-y-fraude-senasa-arrestos-en-la-operacion-cobra-20-a/3663413</link>
-    <description><![CDATA[El Ministerio Público ha detenido a 28 personas en la Operación Cobra 2.0-A, enfocada en un presunto fraude contra Senasa. La investigación apunta a médicos y prestadores de servicios de salud que habrían sustraído recursos públicos.
-
-Se realizaron 37 allanamientos en el Distrito Nacional, Santo Domingo, Santiago, Cotuí y La Vega. La estructura investigada habría utilizado sobornos, doble facturación y documentos falsos.
-
-La Operación Onco14 también está vinculada, con prácticas de fraude clínico y farmacéutico. Se menciona el uso de fundaciones para desviar fondos y otros mecanismos fraudulentos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789757666/noticias/articles/20260918_185426_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 18 Sep 2026 18:54:54 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260918185454</guid>
   </item>
 </channel>
 </rss>
