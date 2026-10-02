@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 02 Oct 2026 19:32:27 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 19:36:53 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Garantía de RD$1 millón a empresario tras muerte de niña en juego mecánico en Hato Mayoy]]></title>
+    <link>https://elnuevodiario.com.do/garantia-de-rd1-millon-a-empresario-tras-muerte-de-nina-en-juego-mecanico-en-hato-mayoy/</link>
+    <description><![CDATA[La Oficina de Servicios de Atención Permanente de Hato Mayor ha impuesto una garantía económica de RD$1 millón al empresario Simón María Estévez Ramos, tras el accidente en un juego mecánico que resultó en la muerte de una niña de 11 años durante las fiestas patronales de Hato Mayor.
+
+El accidente ocurrió el 18 de septiembre en el juego "La Estrellita", donde varias menores resultaron afectadas. Liangie Ramírez Reyes falleció tras sufrir un trauma craneal severo. El Ministerio Público investiga el caso y ha clausurado las instalaciones.
+
+El senador Cristóbal Castillo ha presentado un proyecto de ley para establecer inspecciones técnicas obligatorias en juegos mecánicos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790969739/noticias/articles/20261002_193538_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 02 Oct 2026 19:36:53 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261002193653</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Lanzan “iQ AI Ready” para impulsar soluciones de IA de clase mundial en la región]]></title>
     <link>https://n.com.do/2026/10/02/lanzan-iq-ai-ready-para-impulsar-soluciones-de-ia-de-clase-mundial-en-la-region/</link>
     <description><![CDATA[iQtek y la empresa canadiense Maverin han firmado un acuerdo para desarrollar soluciones tecnológicas basadas en inteligencia artificial. Esta alianza busca acelerar la transformación digital de las organizaciones.
@@ -1341,17 +1354,6 @@ El fraude consistía en acceder a datos de afiliados y solicitar autorizaciones 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789922633/noticias/articles/20260920_164352_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 20 Sep 2026 16:44:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260920164419</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ricardo de los Santos asume coordinación de campaña de Carolina Mejía]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/09/20/ricardo-de-los-santos-coordina-campana-de-carolina-mejia-2123355/?amp=1</link>
-    <description><![CDATA[Ricardo de los Santos, presidente del Senado, ha asumido la coordinación de la campaña de Carolina Mejía, aspirante presidencial del PRM.
-
-De los Santos destacó la cercanía de Mejía con la militancia del partido y señaló que la competencia es "entre hermanos", llamando a defender el proyecto sin ofensas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789922370/noticias/articles/20260920_163930_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 20 Sep 2026 16:39:59 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260920163959</guid>
   </item>
 </channel>
 </rss>
