@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 02 Oct 2026 13:22:48 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 13:31:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Continúa este viernes el juicio de fondo contra los hermanos Espaillat por colapso del Jet Set]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/10/02/juicio-por-colapso-del-jet-set-continua-este-viernes-2133474/</link>
+    <description><![CDATA[Este viernes sigue el juicio de fondo contra los hermanos Espaillat en el Palacio de Justicia de Ciudad Nueva. El caso está relacionado con el colapso de la discoteca Jet Set, que ocurrió el 8 de abril de 2025 durante una presentación del merenguero Rubby Pérez.
+
+El desplome resultó en 236 personas fallecidas y 180 heridas. Hoy se espera la presentación de testigos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790947836/noticias/articles/20261002_133036_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 02 Oct 2026 13:31:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261002133102</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Arrestan en RD cabecilla de red que lavaba dinero a través de villas de lujo en España]]></title>
     <link>https://listindiario.com/las-mundiales/20261002/arrestan-rd-cabecilla-red-lavaba-ganancias-narcotrafico-villas-lujo-espana_924598.html</link>
     <description><![CDATA[La Policía española y la Guardia Civil han desarticulado una organización de narcotráfico que introducía cocaína en Europa desde Colombia y Panamá. En la operación, se detuvieron a 27 personas en España y una en República Dominicana, identificada como uno de los principales responsables.
@@ -1333,19 +1344,6 @@ Fuente: N Digital]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789778939/noticias/articles/20260919_004858_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 19 Sep 2026 00:50:08 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260919005008</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Congresistas demócratas exigen respuestas a Marco Rubio y Todd Blanche por vínculo de la administración Trump con Alejandro Betancourt]]></title>
-    <link>https://albertonews.com/internacionales/congresistas-democratas-exigen-respuestas-a-marco-rubio-y-todd-blanche-por-vinculo-de-la-administracion-trump-con-alejandro-betancourt/</link>
-    <description><![CDATA[Congresistas demócratas de la Cámara de Representantes de EE.UU. han solicitado respuestas a Marco Rubio y Todd Blanche sobre la relación de la administración Trump con el empresario venezolano Alejandro Betancourt.
-
-Los legisladores cuestionan la asociación con Betancourt, señalado como presunto lavador de dinero, y piden explicaciones sobre un acuerdo que involucra una participación accionaria estadounidense en una empresa petrolera venezolana.
-
-La controversia se desarrolla en medio de un escrutinio sobre los acuerdos de Washington con empresas del sector energético venezolano.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789776669/noticias/articles/20260919_001108_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 19 Sep 2026 00:11:35 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260919001135</guid>
   </item>
 </channel>
 </rss>
