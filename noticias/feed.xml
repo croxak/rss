@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 02 Oct 2026 13:35:57 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 02 Oct 2026 13:42:21 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Alianza PRM-PLD encabezada por Tito Hernández gana elecciones en la ANPA a FP]]></title>
+    <link>https://elnuevodiario.com.do/alianza-prm-pld-encabezada-por-tito-hernandez-gana-elecciones-en-la-anpa-a-fp/</link>
+    <description><![CDATA[La plancha Consenso y Unidad Gremial Agropecuaria, encabezada por Tito Hernández y apoyada por una alianza del PRM y el PLD, lidera las elecciones de la ANPA con el 63.7 % de los votos, según el primer boletín de la Comisión Nacional Electoral.
+
+La plancha Fuerza Agropecuaria, liderada por José Vásquez y vinculada a la Fuerza del Pueblo, obtuvo el 34.7 % de los votos. El cómputo final se anunciará el 1 de octubre.
+
+Tito Hernández propone una agenda centrada en pensiones, aumento salarial, reposición de profesionales cancelados y fortalecimiento de servicios gremiales para el período 2026-2029.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790948500/noticias/articles/20261002_134139_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 02 Oct 2026 13:42:21 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261002134221</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministerio Público arresta a tres personas por estafa financiera millonaria en La Romana]]></title>
     <link>https://eldia.com.do/ministerio-publico-arresta-a-tres-personas-por-estafa-financiera-millonaria-en-la-romana/</link>
     <description><![CDATA[El Ministerio Público arrestó a tres personas en La Romana por una estafa financiera millonaria. Alejandro Rodríguez Reyes, Alex Ernesto Rodríguez Rondón y Ámbar Melissa Rodríguez Ellis están implicados en operaciones irregulares con las sociedades Agente de Cambio Rodríguez Reyes, S.A. y AERR Group, S.R.L.
@@ -1325,25 +1338,6 @@ Rabassa aseguró no tener relación con los hechos investigados y explicó que s
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789860054/noticias/articles/20260919_232053_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 19 Sep 2026 23:21:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260919232117</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Vuelo de deportación de ICE Air aterrizó el 17 de septiembre en la Base Aérea de San Isidro]]></title>
-    <link>https://eltestigo.com</link>
-    <description><![CDATA[Un vuelo vinculado a las operaciones de deportación del Servicio de Inmigración y Control de Aduanas de Estados Unidos (ICE) aterrizó el pasado 17 de septiembre en la Base Aérea de San Isidro, en Santo Domingo Este, según registros de seguimiento aeronáutico.
-
-El vuelo operó bajo el indicativo TYSON49 y fue registrado por FlightAware como un Boeing 737-300. La aeronave partió del Opa-locka Executive Airport (OPF), en el área de Miami, a las 2:02 de la tarde y aterrizó en San Isidro (MDSI) a las 4:04 de la tarde, hora dominicana.
-
-De acuerdo con ICE Flight Monitor, el recorrido de la aeronave se había originado previamente en El Paso, Texas, antes de realizar una escala en Florida y continuar hacia República Dominicana.
-
-Los registros muestran que el avión permaneció aproximadamente una hora y 33 minutos en la Base Aérea de San Isidro. Posteriormente despegó a las 5:37 de la tarde con destino nuevamente a Opa-locka, donde aterrizó alrededor de las 7:41 de la noche.
-
-ICE Air Operations utiliza aeronaves contratadas a compañías privadas para efectuar traslados y vuelos de deportación. Human Rights First ha documentado que estas operaciones son coordinadas mediante el contratista CSI Aviation y compañías como Eastern Air Express, GlobalX y otras aerolíneas chárter. 
-
-Hasta el momento, no se ha establecido públicamente cuántas personas viajaban a bordo del vuelo que llegó a San Isidro ni sus nacionalidades. Los datos disponibles permiten confirmar el movimiento de la aeronave y su ruta, pero no la identidad de los pasajeros.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789794940/noticias/articles/20260919_051539_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 19 Sep 2026 05:16:22 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260919051622</guid>
   </item>
 </channel>
 </rss>
