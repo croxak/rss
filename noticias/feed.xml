@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 02 Oct 2026 19:46:09 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 03 Oct 2026 02:52:43 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Embajada haitiana se desmarca de declaraciones de futbolistas y reafirma respeto a soberanía de RD]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/10/02/embajada-haiti-reafirma-respeto-a-soberania-de-rd/3677418</link>
+    <description><![CDATA[La Embajada de Haití en República Dominicana se desmarcó de las declaraciones de futbolistas haitianos tras un partido contra República Dominicana, reafirmando el respeto a la soberanía dominicana. Las expresiones de los jugadores no reflejan la posición oficial del Gobierno haitiano.
+
+El partido, parte de la Copa de Naciones de la Concacaf, terminó 4-1. La embajada subrayó que la rivalidad deportiva no debe afectar las relaciones entre ambos países y reiteró el compromiso de Haití de respetar a República Dominicana.
+
+La embajada agradeció la colaboración del Gobierno y del pueblo dominicanos para la realización del partido.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790995923/noticias/articles/20261003_025202_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 03 Oct 2026 02:52:43 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261003025243</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Guardia Costera de Estados Unidos intercepta un buque que transportaba combustible a Cuba]]></title>
     <link>https://n.com.do/2026/10/02/guardia-costera-de-estados-unidos-intercepta-un-buque-que-transportaba-combustible-a-cuba/</link>
     <description><![CDATA[La Guardia Costera de Estados Unidos interceptó a principios de septiembre el buque Grace en el Caribe, que supuestamente transportaba combustible a Cuba. Esta acción se enmarca en el embargo petrolero de Washington a la isla.
@@ -1343,17 +1356,6 @@ Pérez aseguró que se investigarán los señalamientos y se actuará conforme a
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789925261/noticias/articles/20260920_172740_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 20 Sep 2026 17:28:37 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260920172837</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ocupan 11 paquetes de presunta marihuana ocultos en mueble en el AILA]]></title>
-    <link>https://www.diariolibre.com/amp/actualidad/nacional/2026/09/20/dncd-decomisa-marihuana-en-aila-procedente-de-miami/3664757</link>
-    <description><![CDATA[Agentes de la DNCD y el Ministerio Público, con apoyo del CESAC, decomisaron once paquetes de presunta marihuana en el Aeropuerto Internacional de Las Américas. Los paquetes estaban ocultos en un mueble procedente de Miami.
-
-La detección se realizó mediante una máquina de rayos X y un ejemplar canino confirmó la presencia de sustancias controladas. El Ministerio Público y la DNCD han iniciado una investigación sobre esta operación de narcotráfico internacional.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789923041/noticias/articles/20260920_165040_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 20 Sep 2026 16:51:07 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260920165107</guid>
   </item>
 </channel>
 </rss>
