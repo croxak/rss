@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 05 Oct 2026 00:12:12 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 05 Oct 2026 23:41:18 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Presidente ya derogó decreto que ponía aranceles a arroz de EE. UU., como había solicitado la Oficina Comercial de ese país]]></title>
+    <link>https://elnacional.com.do/economia/presidente-derogo-decreto-ponia-aranceles-arroz-eeuu-habia-pedido-oficina-comercial_582640.html</link>
+    <description><![CDATA[El presidente Luis Abinader derogó el Decreto 693-24 que imponía aranceles al arroz importado de Estados Unidos, mediante el Decreto 635-26 promulgado el 9 de septiembre de 2026.
+
+La Oficina del Representante Comercial de Estados Unidos había solicitado la anulación de los aranceles, argumentando que restringían el acceso al mercado dominicano y violaban el DR-CAFTA.
+
+El Decreto 693-24, emitido en diciembre de 2024, establecía un arancel del 20 % ad valorem dentro del contingente y del 99 % fuera de este, con una cuota preferencial para el arroz estadounidense.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791243521/noticias/articles/20261005_233840_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 05 Oct 2026 23:41:18 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261005234118</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Brasil irá a segunda vuelta con Flávio Bolsonaro y Lula separados por menos de tres puntos]]></title>
     <link>https://suquia.ar/brasil-ira-a-segunda-vuelta-con-flavio-bolsonaro-y-lula-separados-por-menos-de-tres-puntos/</link>
     <description><![CDATA[Brasil se encamina hacia una segunda vuelta electoral entre Flávio Bolsonaro y Luiz Inácio Lula da Silva, que se llevará a cabo el domingo 25 de octubre. Con el 96,78% de las secciones totalizadas, Bolsonaro lidera con el 47,48% de los votos, mientras que Lula tiene el 44,63%.
@@ -1341,17 +1354,6 @@ El Gobierno español ha rechazado la decisión judicial, calificándola de arbit
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789996283/noticias/articles/20260921_131122_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 21 Sep 2026 13:12:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260921131205</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Asesinan a la esposa de Julián Oro Duro durante atraco en su propia casa; el artista está herido]]></title>
-    <link>https://eldia.com.do/asesinan-en-atraco-esposa-de-julian-oro-duro-y-el-artista-fue-herido/</link>
-    <description><![CDATA[La esposa del merenguero Julián Oro Duro fue asesinada en un atraco en su propia casa. El artista resultó herido y está recibiendo atención médica.
-
-La Policía está investigando el caso. Informaciones en redes sociales indican que el ataque ocurrió dentro de su vivienda.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789992562/noticias/articles/20260921_120922_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 21 Sep 2026 12:09:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260921120941</guid>
   </item>
 </channel>
 </rss>
