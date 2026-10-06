@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 06 Oct 2026 13:44:14 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 13:48:36 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[EEUU anuncia nuevo ataque contra presunta narcolancha en el Caribe que deja 4 muertos]]></title>
+    <link>https://ensegundos.do/2026/10/05/eeuu-anuncia-nuevo-ataque-contra-presunta-narcolancha-en-el-caribe-que-deja-4-muertos/</link>
+    <description><![CDATA[El Pentágono ha comunicado que fuerzas estadounidenses llevaron a cabo un ataque contra una narcolancha en el Caribe, resultando en la muerte de cuatro personas. Este incidente ocurrió en una ruta conocida por el narcotráfico, según el Comando Sur.
+
+Desde septiembre de 2025, Washington ha lanzado una campaña contra embarcaciones relacionadas con el narcotráfico hacia Estados Unidos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791294430/noticias/articles/20261006_134708_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 06 Oct 2026 13:48:36 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261006134836</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Tres meses de prisión preventiva inspector de migración dejó viajar 2 con impedimentos de salida]]></title>
     <link>https://elnacional.com.do/nacionales/judicial/tres-meses-prision-preventiva-inspector-migracion-dejo-viajar-dos-impedimentos-salida_582618.html</link>
     <description><![CDATA[La Oficina de Atención Permanente de Santo Domingo Este impuso tres meses de prisión preventiva a Esteban Nohassis Mogena González, inspector de migración en el Aeropuerto Internacional de las Américas. Fue arrestado en flagrante delito permitiendo la salida de dos dominicanos con impedimentos de salida.
@@ -1339,21 +1350,6 @@ La Policía Nacional y el Ministerio Público investigan el caso. Julián presen
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790006456/noticias/articles/20260921_160056_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 21 Sep 2026 16:01:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260921160128</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Guido Gómez Mazara califica de “maldita vagabundería” caso Senasa]]></title>
-    <link>https://noticiassin.com/videos/el-despertador/2026/09/21/guido-gomez-mazara-pide-carcel-para-funcionarios-corruptos-2123839/</link>
-    <description><![CDATA[Guido Gómez Mazara, presidente del Consejo Directivo del Indotel, expresó su rechazo a las presuntas irregularidades en SeNaSa, calificándolas de "maldita vagabundería". Afirmó que los funcionarios que se enriquezcan ilícitamente deben ser procesados.
-
-Destacó logros del gobierno, como la reducción de la informalidad y el aumento de reservas internacionales. También defendió la entrada de Viettel al mercado dominicano y abordó temas de seguridad tecnológica.
-
-Sobre la filtración de datos, Gómez Mazara reconoció su impacto en la confianza ciudadana y aseguró que el Indotel ofrecerá detalles cuando sea posible.
-
-Fuente: Noticias SIN]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790001603/noticias/articles/20260921_144003_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 21 Sep 2026 14:41:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260921144101</guid>
   </item>
 </channel>
 </rss>
