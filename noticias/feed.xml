@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 06 Oct 2026 19:42:28 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 19:45:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Fernando Langa rechaza que el Poder Judicial sea "la Cenicienta de los poderes públicos"]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/10/06/fernando-langa-el-poder-judicial-no-es-la-cenicienta-de-los-poderes/3680598</link>
+    <description><![CDATA[Fernando Langa, abogado, rechazó que el Poder Judicial sea "la Cenicienta de los poderes públicos". Durante las vistas públicas del Consejo Nacional de la Magistratura, reconoció áreas de mejora, pero destacó avances en la justicia.
+
+Langa, respaldado por figuras como Milton Ray Guevara, aspira a la Suprema Corte como un compromiso social. Enfatizó que la justicia debe estar orientada hacia los ciudadanos.
+
+Fuente: Diario Libre - Jesús Vásquez]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791315790/noticias/articles/20261006_194310_article.png" type="image/png"/>
+    <pubDate>Tue, 06 Oct 2026 19:45:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261006194532</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Bienes de Alexis Medina, Calamar y Búfalo NK irán a subasta en noviembre]]></title>
     <link>https://www.diariolibre.com/actualidad/justicia/2026/10/06/bienes-de-alexis-medina-y-caso-calamar-iran-a-subasta-/3680491</link>
     <description><![CDATA[El Instituto Nacional de Custodia y Administración de Bienes Incautados, Decomisados y en Extinción de Dominio (Incabide) subastará bienes decomisados el 25 de noviembre. Los bienes están relacionados con Alexis Medina, el caso Calamar y Búfalo NK, entre otros.
@@ -1349,19 +1362,6 @@ El agresor presuntamente golpeó a Zeneida con un florero, la ahorcó y la apuñ
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790188113/noticias/articles/20260923_182833_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 23 Sep 2026 18:39:07 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260923183907</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Juez dicta un año de prisión a "El Viajero" imputado ser cabecilla de red de narcotráfico]]></title>
-    <link>https://eldia.com.do/juez-dicta-un-ano-de-prision-a-el-viajero-imputado-ser-cabecilla-de-red-de-narcotrafico/#google_vignette</link>
-    <description><![CDATA[José Miguel Ceballos Rosario, alias "El Viajero", fue enviado a prisión preventiva por un año, acusado de liderar una red de narcotráfico. La medida fue dictada por un juez de La Vega tras su arresto en la Operación LM2, donde se incautaron 168 paquetes de cocaína.
-
-La droga estaba oculta en tubos de metal en Villa Vásquez. La organización enviaba cocaína a Estados Unidos y Europa usando cajas de cartón de doble fondo y estructuras metálicas. La operación se desprende de una investigación previa que desmanteló otra estructura criminal.
-
-En intervenciones anteriores, se incautaron 392 láminas de cocaína y se arrestaron a tres personas, quienes fueron condenadas a 15 años de prisión. Las autoridades continúan persiguiendo a otros miembros de la red.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790187982/noticias/articles/20260923_182622_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 23 Sep 2026 18:26:55 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260923182655</guid>
   </item>
 </channel>
 </rss>
