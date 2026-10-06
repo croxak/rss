@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 06 Oct 2026 14:04:23 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 15:22:39 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Condenan a una dominicana a 25 años de prisión por el asesinato de su compatriota Runy Leidy Medina en Orlando]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/10/06/condena-a-victoria-gonzalez-por-muerte-runy-leidy-medina-pacheco/3680341</link>
+    <description><![CDATA[Gisselle Victoria González ha sido condenada a 25 años de prisión por el asesinato de su amiga Runy Leidy Medina Pacheco. Medina Pacheco desapareció en diciembre de 2022 en Orlando, y su cuerpo aún no ha sido encontrado.
+
+González admitió haber matado a Medina Pacheco tras una discusión por dinero. Durante la audiencia, la madre de la víctima expresó su dolor y dejó el caso en manos de Dios.
+
+La sentencia incluye un crédito de 665 días por el tiempo que González ya había estado detenida.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791300127/noticias/articles/20261006_152207_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 06 Oct 2026 15:22:39 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261006152239</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gustavo Sánchez dice que prefiere a Carolina Mejía o David Collado antes que a Leonel Fernández]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261006140423</link>
     <description><![CDATA[El diputado y dirigente del Partido de la Liberación Dominicana (PLD), Gustavo Sánchez, afirmó que, colocado ante un eventual escenario electoral en el que tuviera que escoger, preferiría a Carolina Mejía o David Collado antes que al expresidente Leonel Fernández.
@@ -1343,19 +1356,6 @@ Abinader expresó sus condolencias a la familia de la víctima y manifestó su d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790009042/noticias/articles/20260921_164402_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 21 Sep 2026 16:44:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260921164431</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Grandes cadenas de TV de EE. UU. suspenden cobertura conjunta de Trump en apoyo a CNN]]></title>
-    <link>https://www.diariolibre.com/usa/actualidad/2026/09/21/suspension-de-cobertura-de-trump-por-cadenas-estadounidenses/3665634</link>
-    <description><![CDATA[Las principales cadenas de televisión de EE. UU., como CBS, ABC, NBC y Fox, han decidido dejar de cubrir de forma conjunta los actos públicos del presidente Donald Trump. Esta medida es en apoyo a CNN, que junto a MS NOW y Politico, fue vetada por la Casa Blanca.
-
-CNN, MS NOW y Politico han interpuesto una demanda judicial contra el gobierno de Trump, acusándolo de intentar coartar la libertad de prensa. Trump prohibió el acceso de estos medios a la Casa Blanca por considerar que difunden "noticias falsas".
-
-Trump ha reiterado sus acusaciones contra los medios en su red Truth Social, afirmando que su gobierno enfrenta una cobertura negativa cercana al 100%. La libertad de prensa está garantizada en EE. UU. por la Primera Enmienda de la Constitución.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790008915/noticias/articles/20260921_164154_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 21 Sep 2026 16:42:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260921164214</guid>
   </item>
 </channel>
 </rss>
