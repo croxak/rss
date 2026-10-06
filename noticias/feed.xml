@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 06 Oct 2026 12:50:55 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 13:19:47 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Ministerio Público acusa a 13 personas y cinco empresas de la red de estafa electrónica y lavado que desmanteló con Operación Discovery 3.0]]></title>
+    <link>https://robertocavada.com/ministerio-publico-acusa-a-13-personas-y-cinco-empresas-de-la-red-de-estafa-electronica-y-lavado-que-desmantelo-con-operacion-discovery-3-0/</link>
+    <description><![CDATA[El Ministerio Público presentó acusación formal contra 13 personas y cinco empresas por estafas electrónicas y lavado de activos, desmanteladas en la Operación Discovery 3.0. Los acusados operaban desde la zona norte de República Dominicana y mantenían conexiones con Estados Unidos.
+
+La estructura criminal utilizaba tecnología y empresas para ocultar los beneficios obtenidos de las víctimas. La investigación contó con la cooperación del FBI y la Policía Nacional.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791292751/noticias/articles/20261006_131910_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 06 Oct 2026 13:19:47 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261006131947</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía espera autopsia para precisar muerte del militar de la FARD en Boca Chica]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/05/esperan-autopsia-para-precisar-muerte-del-militar-en-boca-chica/3679791</link>
     <description><![CDATA[La Policía Nacional espera los resultados de la autopsia de Nélsido Polanco Plascencia, miembro de la Fuerza Aérea de la República Dominicana, para determinar la causa de su muerte en La Caleta, Boca Chica.
@@ -1343,17 +1354,6 @@ La Policía Nacional y el Ministerio Público investigan el incidente. Los ataca
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790000909/noticias/articles/20260921_142828_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 21 Sep 2026 14:29:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260921142920</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Médicos devolvían hasta un 60% del dinero defraudado a Senasa mediante «pagos de san»]]></title>
-    <link>https://elnacional.com.do/nacionales/judicial/medicos-devolvian-60-dinero-defraudado-senasa-mediante-pagos-san_581379.html</link>
-    <description><![CDATA[El Ministerio Público ha descubierto una red criminal que defraudó al Seguro Nacional de Salud (SeNaSa) mediante falsas reclamaciones. Los médicos involucrados devolvían entre el 40 % y el 60 % del dinero obtenido, disfrazándolo como «pagos de san» o préstamos personales.
-
-Esta operación buscaba blanquear los recursos y ocultar el rastro del dinero. Los médicos facilitaban sus códigos PSS, sellos y firmas para validar expedientes falsos. Tras cobrar las reclamaciones fraudulentas, devolvían el dinero a los cabecillas de la red.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789998228/noticias/articles/20260921_134348_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 21 Sep 2026 13:44:25 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260921134425</guid>
   </item>
 </channel>
 </rss>
