@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 06 Oct 2026 04:00:18 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 04:05:36 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[El retraso en la campaña electoral en Haití aumenta la incertidumbre sobre los comicios]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261006040536</link>
+    <description><![CDATA[La campaña para las elecciones presidenciales y legislativas del próximo 13 de diciembre en Haití no arrancó este lunes, como estaba previsto, lo que supone un nuevo traspié para la celebración de los comicios que el país no realiza desde hace una década.
+
+Según la prensa local, el Consejo Electoral Provisional (CEP) estudia la posibilidad de publicar en las próximas horas una modificación al calendario de las elecciones que incluya la ampliación del plazo de inscripción de los candidatos.
+
+La campaña debía haber comenzado hoy, pero el CEP aparentemente está a la espera de que el Consejo de Ministros publique un nuevo decreto sobre las elecciones para hacer ajustes.
+
+Mientras tanto, la inscripción de partidos políticos sigue abierta hasta el 9 de octubre y los votantes se registran a cuentagotas, de cara a una posible confirmación de la cita en las urnas.
+
+El calendario oficial prevé para el 13 de diciembre la celebración de la primera vuelta de las elecciones presidenciales y legislativas, así como la ratificación popular de varios cambios propuestos a la Constitución.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791259496/noticias/articles/20261006_040456_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 06 Oct 2026 04:05:36 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261006040536</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Quico Tabar asume de forma transitoria la Dirección General de Juegos de Azar]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/10/05/quico-tabar-asume-direccion-general-de-juegos-de-azar-2135865/</link>
     <description><![CDATA[Quico Tabar ha sido juramentado como director general transitorio de la Dirección General de Juegos de Azar por el ministro de Hacienda y Economía, Magín Díaz. Esta designación se realiza bajo el Decreto 684-26 emitido por el presidente Luis Abinader.
@@ -1337,19 +1354,6 @@ Aunque el Ministerio de Industria, Comercio y Mipymes convocó a una última reu
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789998030/noticias/articles/20260921_134030_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 21 Sep 2026 13:41:11 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260921134111</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Nuevo jefe de la Policía advierte: “Quien salga a la calle a hacer daño tendrá de frente a la autoridad”]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/09/20/nuevo-jefe-de-la-policia-advierte-quien-salga-a-la-calle-a-hacer-dano-tendra-de-frente-a-la-autoridad-2123443/</link>
-    <description><![CDATA[Ernesto Rafael Rodríguez García, nuevo director general de la Policía Nacional, advierte que quienes infrinjan la ley se enfrentarán a la autoridad. La institución tiene la responsabilidad de proteger la vida y las propiedades de los ciudadanos.
-
-Rodríguez García aseguró que los agentes deben cumplir con la ley y que cualquier exceso de autoridad será sancionado. Destacó la importancia del uso proporcional de la fuerza y el respeto a los derechos humanos.
-
-El jefe policial también llamó a los ciudadanos a respetar a la autoridad, subrayando que la relación debe ser de doble vía para garantizar la protección mutua.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789996653/noticias/articles/20260921_131733_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 21 Sep 2026 13:18:07 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260921131807</guid>
   </item>
 </channel>
 </rss>
