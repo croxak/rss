@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 06 Oct 2026 21:35:03 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 21:39:50 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[DHS identifica como dominicanos a los dos sospechosos de apuñalar a detective del NYPD y asegura que permanecían ilegalmente en EE. UU.]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261006213950</link>
+    <description><![CDATA[El Departamento de Seguridad Nacional de Estados Unidos (DHS) identificó como ciudadanos dominicanos a Dangelo Rafael Jean Caraballo, de 25 años, y Sneider Mejia Bautista, de 24, señalados como sospechosos del ataque contra el detective del NYPD José Mercedes, quien fue apuñalado durante un intento de robo en El Bronx el pasado 2 de octubre.
+
+El secretario de Seguridad Nacional, Markwayne Mullin, afirmó este martes que ambos hombres ingresaron de manera irregular a Estados Unidos por la frontera de Arizona en momentos distintos, fueron detenidos por las autoridades migratorias y posteriormente liberados durante la administración de Joe Biden. Los dos permanecen prófugos.
+
+Según las autoridades, Mercedes se encontraba fuera de servicio y sacaba objetos del baúl de su vehículo cuando los sospechosos se acercaron e intentaron arrebatarle una cadena de oro. El detective se resistió y recibió múltiples heridas de arma blanca. Pese a las lesiones, logró perseguir a sus atacantes durante aproximadamente dos cuadras antes de desplomarse. Fue trasladado al Jacobi Medical Center y posteriormente dado de alta. 
+
+DHS aseguró además que ambos sospechosos habían sido arrestados anteriormente en Nueva York por distintos delitos. En el caso de Caraballo, los registros citados por la agencia incluyen acusaciones relacionadas con posesión de armas, sustancias controladas, herramientas para robo y amenazas con un arma. Tras un arresto en diciembre de 2024, habría sido liberado antes de que ICE pudiera presentar una orden de retención migratoria.
+
+En cuanto a Mejia Bautista, DHS indicó que registra arrestos por posesión de propiedad robada, hurto mayor, herramientas para robo y posesión de armas. Tras una acusación por armas en octubre de 2025, ICE habría presentado una orden para que permaneciera detenido, pero, según la versión federal, las autoridades locales no la atendieron debido a las políticas de “ciudad santuario” de Nueva York.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791322758/noticias/articles/20261006_213918_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 06 Oct 2026 21:39:50 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261006213950</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Argentina expulsa a dominicana imputada por tenencia y comercialización de drogas]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261006213503</link>
     <description><![CDATA[La Policía Federal Argentina expulsó del país a una ciudadana dominicana de 62 años que se encontraba imputada por un caso de tenencia y comercialización de estupefacientes en la ciudad de Venado Tuerto, provincia de Santa Fe.
@@ -1365,17 +1382,6 @@ Tras el incidente, se restringió el acceso de la prensa al área cercana al esc
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790249316/noticias/articles/20260924_112836_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 24 Sep 2026 11:29:07 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260924112907</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Phillips era un “todologo” de confianza de Julián Oro Duro, según testimonio del artista]]></title>
-    <link>https://eltestigo.com</link>
-    <description><![CDATA[El vocero de la Policía Nacional, coronel Diego Pesqueira, informó que Phillips Michael Tejeda Vásquez, uno de los detenidos por el caso de la esposa de Julián Oro Duro, era una persona de confianza del artista, a quien acompañaba como chofer en sus compromisos y realizaba diversos trabajos en sus propiedades.
-
-Según Pesqueira, el propio Julián Oro Duro lo describió ante los investigadores como una especie de “todólogo” y habría confirmado que conocía detalles de su residencia, incluyendo el funcionamiento del portón eléctrico y otros espacios de la vivienda. La Policía lo señala preliminarmente como uno de los involucrados en la planificación del robo, aunque precisó que las acusaciones deberán ser individualizadas y corroboradas por el Ministerio Público.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790213909/noticias/articles/20260924_013828_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 24 Sep 2026 01:39:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260924013900</guid>
   </item>
 </channel>
 </rss>
