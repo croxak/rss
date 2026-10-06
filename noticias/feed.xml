@@ -7,14 +7,33 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 06 Oct 2026 21:39:50 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 21:51:47 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Detienen en México a “El Tanque”, operador del CJNG; autoridades mexicanas lo vinculan con cargamento de 6.8 toneladas de marihuana decomisado en Veracruz con destino a RD]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261006215147</link>
+    <description><![CDATA[Autoridades mexicanas detuvieron en Zapopan, Jalisco, a Iván Cazarín Molina, alias “El Tanque”, identificado como presunto operador regional del Cártel Jalisco Nueva Generación (CJNG) y señalado por organismos de seguridad por mantener actividades criminales en Veracruz, Oaxaca, Tabasco y Puebla.
+
+La captura se produjo el 5 de octubre durante una operación conjunta de fuerzas especiales del Ejército mexicano, la Secretaría de Seguridad y Protección Ciudadana y la Guardia Nacional, con información del Centro Nacional de Inteligencia y participación de agentes de investigación de la Fiscalía General de la República. Durante el operativo fueron ocupados un vehículo, un arma de fuego y diversas drogas.
+
+Entre los antecedentes atribuidos a Cazarín Molina figura su presunta vinculación con el decomiso, realizado en julio de 2024 en el Puerto de Veracruz, de unas 6.8 toneladas de marihuana que tenían como destino República Dominicana. Reportes de seguridad difundidos tras su arresto incluyen ese cargamento entre los hechos asociados a la estructura de “El Tanque”.
+
+El cargamento, equivalente a 6,877 kilogramos de marihuana, había sido localizado en un contenedor de exportación en el que la droga estaba oculta dentro de puertas de madera de pino destinadas al mercado dominicano.
+
+“El Tanque” había sido sancionado en septiembre de 2024 por la Oficina de Control de Activos Extranjeros del Departamento del Tesoro de Estados Unidos. La institución estadounidense lo describió como un miembro de alto rango del CJNG que reportaba directamente a Nemesio Oseguera Cervantes, alias “El Mencho”, y formaba parte de su círculo cercano de colaboradores.
+
+Las autoridades también lo relacionan con actividades de narcotráfico, homicidio, extorsión, robo de hidrocarburos y lavado de dinero. Cazarín Molina quedó a disposición de la Fiscalía Especializada en Materia de Delincuencia Organizada, que deberá determinar su situación jurídica.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791323484/noticias/articles/20261006_215123_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 06 Oct 2026 21:51:47 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261006215147</guid>
+  </item>
+
+  <item>
     <title><![CDATA[DHS identifica como dominicanos a los dos sospechosos de apuñalar a detective del NYPD y asegura que permanecían ilegalmente en EE. UU.]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261006213950</link>
     <description><![CDATA[El Departamento de Seguridad Nacional de Estados Unidos (DHS) identificó como ciudadanos dominicanos a Dangelo Rafael Jean Caraballo, de 25 años, y Sneider Mejia Bautista, de 24, señalados como sospechosos del ataque contra el detective del NYPD José Mercedes, quien fue apuñalado durante un intento de robo en El Bronx el pasado 2 de octubre.
@@ -1369,19 +1388,6 @@ La solicitud de expulsarlo de España fue retirada porque cuenta con residencia 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790249410/noticias/articles/20260924_113010_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 24 Sep 2026 11:30:54 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260924113054</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Al menos tres heridos en espectáculo de Ramón Orlando en Estadio Olímpico]]></title>
-    <link>https://listindiario.com/entretenimiento/conciertos/20260923/tres-heridos-espectaculo-ramon-orlando-estadio-olimpico_923471.html</link>
-    <description><![CDATA[Durante un espectáculo de Ramón Orlando en el Estadio Olímpico, al menos tres personas resultaron heridas por la explosión de un cañón de serpentinas. Uno de los lesionados llevaba un t-shirt del portal Reconocidos, y otro fue el fotógrafo Víctor Ramírez de Listín Diario, quien salió por sus propios medios. Un tercer herido no ha sido identificado.
-
-Jesús Jiménez, CEO de Reconocidos, confirmó que el fotógrafo de su portal fue ingresado en una clínica privada. Las barandas del lugar salieron volando por la presión, según la periodista Yari Araujo.
-
-Tras el incidente, se restringió el acceso de la prensa al área cercana al escenario. El suceso ocurrió cuando Juan Luis Guerra subió a la tarima y se activó el lanzador de serpentinas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790249316/noticias/articles/20260924_112836_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 24 Sep 2026 11:29:07 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260924112907</guid>
   </item>
 </channel>
 </rss>
