@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 06 Oct 2026 15:22:39 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 15:24:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Caso Kenny Grullón: dictan tres meses de prisión al acusado de robo en su casa]]></title>
+    <link>https://hoy.com.do/el-pais/caso-kenny-grullon-dictan-tres-meses-prision-acusado-robo-casa_1104662.html</link>
+    <description><![CDATA[Yefry Manuel Jiménez, alias Babo o Jefry, ha sido enviado a prisión por tres meses tras ser acusado de robar con violencia en la residencia del actor Kenny Grullón. El hecho ocurrió el pasado viernes en la Zona Universitaria.
+
+El Juzgado de Atención Permanente, presidido por Rigoberto Sena, dictó la medida de coerción y ordenó su traslado a la cárcel de Baní. Jiménez fue capturado en Haina y tiene antecedentes por robo y violencia doméstica.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791300195/noticias/articles/20261006_152315_article.png" type="image/png"/>
+    <pubDate>Tue, 06 Oct 2026 15:24:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261006152409</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Condenan a una dominicana a 25 años de prisión por el asesinato de su compatriota Runy Leidy Medina en Orlando]]></title>
     <link>https://www.diariolibre.com/usa/actualidad/2026/10/06/condena-a-victoria-gonzalez-por-muerte-runy-leidy-medina-pacheco/3680341</link>
     <description><![CDATA[Gisselle Victoria González ha sido condenada a 25 años de prisión por el asesinato de su amiga Runy Leidy Medina Pacheco. Medina Pacheco desapareció en diciembre de 2022 en Orlando, y su cuerpo aún no ha sido encontrado.
@@ -1345,17 +1356,6 @@ Simón descarta que el incidente haya sido un simple robo, sugiriendo que fue pl
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790009611/noticias/articles/20260921_165331_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 21 Sep 2026 16:54:53 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260921165453</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader advierte a los atacantes de Julián Oro Duro a que se entreguen o les va a ir peor]]></title>
-    <link>https://listindiario.com/la-republica/20260921/abinader-advierte-atacantes-julian-entreguen-les-peor_923062.html</link>
-    <description><![CDATA[El presidente Luis Abinader lanzó una advertencia a los responsables del ataque en el que murió Zeneida Socorro Castillo, esposa del merenguero Julián Oro Duro, y el artista resultó herido. Les exhortó a entregarse a las autoridades o les va a ir peor.
-
-Abinader expresó sus condolencias a la familia de la víctima y manifestó su deseo de que el merenguero pueda recuperarse de las heridas sufridas. Aseguró que el Gobierno continuará realizando las acciones necesarias para mantener la paz y la seguridad en la República Dominicana.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790009042/noticias/articles/20260921_164402_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 21 Sep 2026 16:44:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260921164431</guid>
   </item>
 </channel>
 </rss>
