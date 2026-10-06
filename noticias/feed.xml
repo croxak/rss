@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 06 Oct 2026 04:05:36 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 12:50:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Policía espera autopsia para precisar muerte del militar de la FARD en Boca Chica]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/05/esperan-autopsia-para-precisar-muerte-del-militar-en-boca-chica/3679791</link>
+    <description><![CDATA[La Policía Nacional espera los resultados de la autopsia de Nélsido Polanco Plascencia, miembro de la Fuerza Aérea de la República Dominicana, para determinar la causa de su muerte en La Caleta, Boca Chica.
+
+La familia del oficial, junto con el defensor de los derechos humanos Diógenes Ozuna, ha solicitado al Ministerio Público y a la Policía Nacional esclarecer las circunstancias de su fallecimiento. Según una versión preliminar, Polanco Plascencia murió tras un incidente vehicular, pero sus familiares sugieren que podría estar relacionado con un acto de venganza.
+
+Los parientes afirman que Polanco Plascencia fue perseguido por motoristas y que uno de ellos le disparó, impactándolo en un ojo. El vocero de la Policía Nacional, Diego Pesqueira, indicó que el reporte inicial del médico legista señala un trauma torácico abdominal debido a una colisión con una pared.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791291030/noticias/articles/20261006_125029_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 06 Oct 2026 12:50:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261006125055</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El retraso en la campaña electoral en Haití aumenta la incertidumbre sobre los comicios]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261006040536</link>
     <description><![CDATA[La campaña para las elecciones presidenciales y legislativas del próximo 13 de diciembre en Haití no arrancó este lunes, como estaba previsto, lo que supone un nuevo traspié para la celebración de los comicios que el país no realiza desde hace una década.
@@ -1341,19 +1354,6 @@ Esta operación buscaba blanquear los recursos y ocultar el rastro del dinero. L
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789998228/noticias/articles/20260921_134348_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 21 Sep 2026 13:44:25 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260921134425</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Anadegas reafirma desconectará verifones este viernes 25 de septiembre]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/09/21/anadegas-desconectara-verifon-en-780-estaciones-este-viernes-2123838/</link>
-    <description><![CDATA[La Asociación Nacional de Detallistas de Gasolinas (Anadegas) ha decidido desconectar el servicio de verifones en 780 estaciones este viernes 25 de septiembre a las 6:00 de la mañana. La medida se toma tras no alcanzar un acuerdo sobre los costos de pago electrónico.
-
-El presidente de Anadegas, Juan Elías Pérez, señaló que las reuniones para resolver el conflicto no han dado resultados concretos. Anadegas afirma que República Dominicana es el país que más paga por el uso de tarjetas y Verifón en la región.
-
-Aunque el Ministerio de Industria, Comercio y Mipymes convocó a una última reunión, Anadegas no suspenderá la desconexión si no se logra un acuerdo satisfactorio.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1789998030/noticias/articles/20260921_134030_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 21 Sep 2026 13:41:11 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260921134111</guid>
   </item>
 </channel>
 </rss>
