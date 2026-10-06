@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 06 Oct 2026 15:33:30 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 06 Oct 2026 15:40:11 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Niño de 12 años llega con una pistola a una escuela de Azua; apresan a su padre]]></title>
+    <link>https://elnacional.com.do/nacionales/estudiante-llega-armado-escuela-azua-apresan-padre_582693.html</link>
+    <description><![CDATA[Un niño de 12 años llegó armado con una pistola a una escuela en Sabana Yegua, Azua, lo que provocó la detención de su padre, Dannery Luna Rosso, por parte de la Policía Nacional. El arma fue ocupada durante un allanamiento en su residencia.
+
+Las autoridades investigan cómo el menor obtuvo el arma y la llevó al centro educativo. Se sospecha que la pistola era poseída de forma ilegal. El niño habría tenido la intención de agredir a un compañero que supuestamente lo molestaba.
+
+Fuente: El Nacional - Pilar Moreno]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791301165/noticias/articles/20261006_153925_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 06 Oct 2026 15:40:11 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261006154011</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Detenido August Hanning, antiguo jefe de la Inteligencia Alemana, por su presunta implicación en "delitos de espionaje y alta traición"]]></title>
     <link>https://cadenaser.com/nacional/2026/10/06/detenido-august-hanning-antiguo-jefe-de-la-inteligencia-alemana-por-su-presunta-implicacion-en-delitos-de-espionaje-y-alta-traicion-cadena-ser/</link>
     <description><![CDATA[August Hanning, antiguo jefe de los servicios de inteligencia alemanes, ha sido detenido por su presunta implicación en delitos de espionaje y tentativa de alta traición. La Fiscalía Federal sostiene que Hanning habría recibido información secreta a cambio de dinero durante varios años a través de su exjefe de gabinete, Manfred D., quien también ha sido detenido.
@@ -1345,19 +1358,6 @@ La investigación continúa en desarrollo, y aunque aún no se ha establecido un
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790130945/noticias/articles/20260923_023545_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 23 Sep 2026 02:36:22 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260923023622</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía informa muerte de “Caco de Leche”, buscado por muerte de niña alcanzada por bala en Verón]]></title>
-    <link>https://elnuevodiario.com.do/policia-informa-muerte-de-caco-de-leche-buscado-por-muerte-de-nina-alcanzada-por-bala-en-veron/</link>
-    <description><![CDATA[Luis David Fortuna Polanco, alias “Caco de Leche”, murió tras un enfrentamiento con la Policía en Verón, Punta Cana. Fortuna Polanco, de 27 años, era buscado por su presunta implicación en la muerte de una niña de dos años.
-
-Durante el enfrentamiento, la Policía ocupó una pistola calibre .380 que estaba en poder de Fortuna Polanco. La institución sigue investigando este y otros casos recientes.
-
-Fuente: El Nuevo Diario - Endy Nuñez]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790010536/noticias/articles/20260921_170855_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 21 Sep 2026 17:10:27 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260921171027</guid>
   </item>
 </channel>
 </rss>
