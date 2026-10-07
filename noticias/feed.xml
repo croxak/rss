@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 07 Oct 2026 14:39:41 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 14:43:17 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Robert de la Cruz desmiente que informaran a la CONAP o solicitaran suspender la consulta del PLD]]></title>
+    <link>https://eldia.com.do/robert-de-la-cruz-desmiente-a-danilo-diaz-sobre-suspension/</link>
+    <description><![CDATA[Robert de la Cruz, representante de Francisco Javier García ante la CONAP, desmintió las afirmaciones de Danilo Díaz sobre la suspensión de la consulta del PLD. De la Cruz aseguró que no fueron informados previamente y que nunca solicitaron la suspensión.
+
+De la Cruz destacó que estaban preparados para participar en la consulta del 18 de octubre y que la noticia de la suspensión los tomó por sorpresa. Cuestionó la imparcialidad de Danilo Díaz y el manejo de las comunicaciones sobre los equipos necesarios para el proceso.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791384143/noticias/articles/20261007_144222_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 07 Oct 2026 14:43:17 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261007144317</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader irá a Roma para participar el lunes en Foro de la Alimentación]]></title>
     <link>https://listindiario.com/la-republica/20261007/abinader-participara-lunes-foro-alimentacion-roma_925181.html</link>
     <description><![CDATA[El presidente dominicano, Luis Rodolfo Abinader Corona, se dirigirá al Foro Mundial de la Alimentación en Roma, organizado por la FAO. Este evento internacional comenzará el 12 de octubre con un discurso del director general de la FAO, Qu Dongyu.
@@ -1399,19 +1410,6 @@ La República Dominicana ahora concentra el 18 % del total de la cuota azucarera
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790269917/noticias/articles/20260924_171157_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 24 Sep 2026 17:12:24 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260924171224</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Nueve dominicanos y colombianos detenidos en Roma por narcotráfico y secuestro]]></title>
-    <link>https://m.n.com.do/2026/09/24/dominicanos-colombianos-detenidos-roma-narcotrafico-secuestro/</link>
-    <description><![CDATA[Nueve personas de nacionalidades dominicana y colombiana fueron detenidas en Roma, acusadas de integrar una organización dedicada al tráfico internacional de drogas y vinculadas al secuestro y extorsión de un ciudadano colombiano. La operación fue ejecutada por la Squadra Mobile de Roma y los Carabineros de Civitavecchia.
-
-La organización presuntamente importaba cocaína desde Sudamérica para distribuirla en Roma y localidades de la costa del Lacio. Las investigaciones comenzaron tras el secuestro de un colombiano el 7 de junio de 2026, quien fue retenido y extorsionado.
-
-Se descubrió el uso de vehículos modificados, teléfonos encriptados y criptomonedas. También se localizó una refinería clandestina de drogas en Calabria y se incautaron 24 kilogramos de drogas en Roma. Los detenidos son investigados por tráfico ilícito de drogas, secuestro, robo y lesiones personales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790269594/noticias/articles/20260924_170634_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 24 Sep 2026 17:07:07 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260924170707</guid>
   </item>
 </channel>
 </rss>
