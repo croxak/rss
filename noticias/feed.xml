@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 07 Oct 2026 04:54:49 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 13:55:29 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Arrestan en Massachusetts a dos dominicanos acusados de apuñalar siete veces a detective del NYPD en El Bronx]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261007135529</link>
+    <description><![CDATA[Las autoridades estadounidenses arrestaron en Massachusetts a los dominicanos D’Angelo Rafael Jean Caraballo, de 25 años, y Sneider Mejía Bautista, de 24, señalados como sospechosos del apuñalamiento y robo del detective del Departamento de Policía de Nueva York (NYPD) José Mercedes, ocurrido el pasado 2 de octubre en El Bronx.
+
+Ambos fueron localizados durante la madrugada escondidos en el sótano de una vivienda en Lynn, Massachusetts, durante un operativo realizado por detectives del NYPD asignados al U.S. Marshals Regional Fugitive Task Force, con apoyo de la unidad regional de fugitivos de Boston.
+
+Caraballo y Mejía eran buscados por cargos que incluyen intento de asesinato, robo y posesión criminal de un arma. Según las autoridades, los dos se acercaron a Mercedes mientras se encontraba junto a su vehículo en la zona de Norwood, en El Bronx, lo atacaron con un arma blanca y le sustrajeron una cadena de oro antes de escapar en una bicicleta motorizada. El detective fue apuñalado y cortado varias veces, pero logró perseguir a sus atacantes antes de desplomarse. Posteriormente fue hospitalizado y dado de alta.
+
+El Departamento de Seguridad Nacional de Estados Unidos había confirmado previamente que Caraballo y Mejía son ciudadanos de República Dominicana y que se encontraban en territorio estadounidense de manera irregular.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791381270/noticias/articles/20261007_135429_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 07 Oct 2026 13:55:29 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261007135529</guid>
+  </item>
+
+  <item>
     <title><![CDATA[RD firma junto a EE. UU. y otros ocho países declaración para reforzar cooperación contra actividades terroristas atribuidas a Irán]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261007045449</link>
     <description><![CDATA[República Dominicana se sumó a Estados Unidos y otros ocho países del hemisferio occidental en una declaración conjunta que condena las acciones terroristas y operaciones de influencia que los gobiernos firmantes atribuyen a Irán y a grupos vinculados a ese país en la región.
@@ -1389,19 +1404,6 @@ Además, se firmó un Memorando de Entendimiento sobre Consultas Políticas para
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790258007/noticias/articles/20260924_135327_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 24 Sep 2026 13:54:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260924135440</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Indomet prevé un jueves feriado mayormente soleado y con aguaceros en la tarde]]></title>
-    <link>https://noticiassin.com/pais/clima/2026/09/24/indomet-preve-jueves-feriado-soleado-con-aguaceros-tarde-2126847/</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) pronostica un jueves feriado mayormente soleado en República Dominicana, con aguaceros y tronadas aisladas en la tarde en varias localidades. Las provincias afectadas podrían incluir La Vega, Santiago, Elías Piña, entre otras. En el Distrito Nacional y el Gran Santo Domingo se esperan condiciones mayormente soleadas con chubascos aislados.
-
-Indomet también informa que la tormenta tropical Fay se encuentra a más de 1,600 kilómetros al oeste de las Azores y no representa peligro para el país. Además, se vigila una zona de baja presión al sureste de Cabo Verde con un 60 % de probabilidad de formación ciclónica.
-
-Las temperaturas mínimas estarán entre 24 °C y 26 °C, y las máximas, entre 33 °C y 35 °C.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790257593/noticias/articles/20260924_134632_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 24 Sep 2026 13:47:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260924134734</guid>
   </item>
 </channel>
 </rss>
