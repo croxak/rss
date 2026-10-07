@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 07 Oct 2026 14:24:51 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 14:39:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Abinader irá a Roma para participar el lunes en Foro de la Alimentación]]></title>
+    <link>https://listindiario.com/la-republica/20261007/abinader-participara-lunes-foro-alimentacion-roma_925181.html</link>
+    <description><![CDATA[El presidente dominicano, Luis Rodolfo Abinader Corona, se dirigirá al Foro Mundial de la Alimentación en Roma, organizado por la FAO. Este evento internacional comenzará el 12 de octubre con un discurso del director general de la FAO, Qu Dongyu.
+
+Otros líderes, como Delcy Rodríguez de Venezuela y Rodrigo Paz de Bolivia, también participarán. El foro concluirá el 16 de octubre con la celebración del Día Mundial de la Alimentación.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791383951/noticias/articles/20261007_143911_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 07 Oct 2026 14:39:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261007143941</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Haití posterga las elecciones indefinidamente por crisis política e inseguridad]]></title>
     <link>https://www.dw.com/es/haití-posterga-indefinidamente-las-elecciones-por-crisis-política-e-inseguridad/a-79570616</link>
     <description><![CDATA[Haití ha decidido aplazar indefinidamente las elecciones presidenciales y legislativas previstas para diciembre de 2026. La crisis política y de seguridad, agravada por la violencia de las pandillas, ha llevado al Consejo Electoral provisional a no establecer una nueva fecha para los comicios.
@@ -1401,19 +1412,6 @@ Se descubrió el uso de vehículos modificados, teléfonos encriptados y criptom
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790269594/noticias/articles/20260924_170634_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 24 Sep 2026 17:07:07 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260924170707</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[RD extradita a PR a "El Negro Amante", requerido por asesinato y otros delitos]]></title>
-    <link>https://m.n.com.do/2026/09/24/rd-extradita-a-pr-a-el-negro-amante-requerido-por-asesinato-y-otros-delitos/</link>
-    <description><![CDATA[La Procuraduría General de la República y la Dirección Nacional de Control de Drogas, con el apoyo de la Oficina de Alguaciles de Estados Unidos, completaron la extradición de Ramón Martínez, alias "El Negro Amante", a Puerto Rico.
-
-Martínez, de 44 años, es requerido por la justicia puertorriqueña por cargos de asesinato en primer grado, tentativa de homicidio y otros delitos relacionados con armas de fuego.
-
-Su captura se realizó en agosto en Santo Domingo Oeste, donde se le incautó un vehículo, una pistola y municiones.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790269531/noticias/articles/20260924_170531_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 24 Sep 2026 17:06:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260924170600</guid>
   </item>
 </channel>
 </rss>
