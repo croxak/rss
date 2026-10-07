@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 07 Oct 2026 14:43:17 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 15:03:10 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Incidente daña tanque de combustible en el principal terminal petrolero de Haití; instalación ya había sido alcanzada por disparos durante enfrentamientos entre bandas]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261007150310</link>
+    <description><![CDATA[Un tanque de almacenamiento de productos petroleros resultó dañado este martes en las instalaciones de West Indies Energy Company (WINECO), ubicadas en el Terminal de Varreux, en Cité Soleil, una de las infraestructuras más estratégicas para el abastecimiento de combustible de Haití.
+
+WINECO informó que el incidente provocó daños materiales, pero no dejó personas heridas ni fallecidas y tampoco ocasionó pérdida de productos. La empresa aseguró que los inventarios disponibles no fueron afectados y anunció que trabaja para reanudar las entregas este miércoles. La compañía no informó oficialmente qué provocó los daños, aunque IciHaiti señaló que pudieron estar relacionados con disparos intencionales o balas perdidas.
+
+El incidente ocurre menos de dos meses después de que el complejo quedara expuesto directamente a la violencia de los grupos armados que operan en Cité Soleil. El 10 de agosto, enfrentamientos entre las bandas de Wharf Jérémie y Belekou provocaron que proyectiles alcanzaran varios depósitos del Terminal de Varreux, ocasionando fugas y daños materiales, según medios haitianos. En ese mismo contexto también se reportó la muerte de un agente de seguridad y el secuestro de otros dos trabajadores vinculados al terminal.
+
+La vulnerabilidad de Varreux tiene implicaciones nacionales. Naciones Unidas ha descrito la instalación como el mayor depósito de combustible de Haití y estima que alrededor del 70 % del combustible a granel del país es almacenado allí. El complejo también funciona como puerto para otras mercancías, por lo que las interrupciones de sus operaciones pueden afectar rápidamente el transporte y el funcionamiento de servicios esenciales.
+
+La importancia estratégica del terminal ha convertido sus accesos y operaciones en un punto recurrente de presión durante la crisis de seguridad haitiana. Bloqueos y ataques armados anteriores han llegado a paralizar la distribución de combustible, con consecuencias para estaciones de servicio, hospitales, sistemas de agua, telecomunicaciones y otras actividades esenciales del país.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791385337/noticias/articles/20261007_150216_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 07 Oct 2026 15:03:10 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261007150310</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Robert de la Cruz desmiente que informaran a la CONAP o solicitaran suspender la consulta del PLD]]></title>
     <link>https://eldia.com.do/robert-de-la-cruz-desmiente-a-danilo-diaz-sobre-suspension/</link>
     <description><![CDATA[Robert de la Cruz, representante de Francisco Javier García ante la CONAP, desmintió las afirmaciones de Danilo Díaz sobre la suspensión de la consulta del PLD. De la Cruz aseguró que no fueron informados previamente y que nunca solicitaron la suspensión.
@@ -1399,17 +1416,6 @@ Finalmente, aseguró que no deben buscarse culpables ni generarse diferencias a 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790271100/noticias/articles/20260924_173139_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 24 Sep 2026 17:32:10 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260924173210</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Estados Unidos aumenta la cuota dominicana de exportación de azúcar de caña cruda un 6.3 %]]></title>
-    <link>https://m.n.com.do/2026/09/24/estados-unidos-aumenta-la-cuota-dominicana-de-exportacion-de-azucar-de-cana-cruda-un-6-3/</link>
-    <description><![CDATA[Estados Unidos ha aumentado la cuota de exportación de azúcar de caña cruda de la República Dominicana en un 6.3 %, alcanzando las 201,274 toneladas métricas para el año fiscal 2027. Este incremento permite que el azúcar dominicano ingrese al mercado estadounidense con un arancel preferente.
-
-La República Dominicana ahora concentra el 18 % del total de la cuota azucarera que Estados Unidos asigna a proveedores extranjeros, manteniéndose como el principal beneficiario individual. Esta decisión es resultado de la redistribución de 55,993 toneladas retiradas de la asignación de Brasil.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790269917/noticias/articles/20260924_171157_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 24 Sep 2026 17:12:24 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260924171224</guid>
   </item>
 </channel>
 </rss>
