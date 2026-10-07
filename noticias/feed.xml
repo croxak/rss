@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 07 Oct 2026 02:12:44 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 03:13:07 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Madre dominicana muere tras caer de un piso 15 en El Bronx; su bebé está en estado crítico]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/10/06/madre-dominicana-muere-tras-caer-de-un-piso-15-en-el-bronx/3680949</link>
+    <description><![CDATA[Nathaly Ramírez, una madre dominicana de 23 años, murió tras caer desde el piso 15 de un edificio en El Bronx. Su bebé de ocho meses se encuentra en estado crítico.
+
+La policía de Nueva York investiga las circunstancias de la caída. Se busca hablar con el exnovio de Ramírez y se examinan evidencias del lugar.
+
+Una testigo escuchó gritos antes de la caída. Las autoridades investigan un posible historial de violencia doméstica.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791342756/noticias/articles/20261007_031236_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 07 Oct 2026 03:13:07 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261007031307</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Exoficial de la CIA se declara culpable de desviar 194 millones de dólares]]></title>
     <link>https://noticiassin.com/estados-unidos/2026/10/06/exfuncionario-de-la-cia-se-declara-culpable-de-desviar-194-millones-de-dolares-2136998/</link>
     <description><![CDATA[David Rush, exoficial de la CIA, admitió haber desviado 194 millones de dólares mediante programas clasificados falsos. Utilizó los fondos para comprar oro y mansiones en Florida.
@@ -1367,17 +1380,6 @@ Además, se firmó un acuerdo de exención de visado con Indonesia, permitiendo 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790249978/noticias/articles/20260924_113937_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 24 Sep 2026 11:40:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260924114000</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía afirma que implicados intentaron deshacerse de evidencias tras crimen de esposa de Julián Oro Duro]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/09/24/policia-afirma-que-implicados-intentaron-deshacerse-de-evidencias-tras-crimen-de-esposa-de-julian-oro-duro-2126776/</link>
-    <description><![CDATA[La Policía Nacional informó que los implicados en el asalto al merenguero Julián Oro Duro y su esposa intentaron deshacerse de evidencias arrojando pertenencias cerca de Santo Domingo Este. Los investigadores lograron recuperar parte de los objetos presuntamente utilizados o sustraídos durante el asalto.
-
-El vocero policial Diego Pesqueira señaló a “Chiquito” y “Yandel” como los responsables de ingresar a la residencia, aprovechando la confianza que tenía principalmente Chiquito. Además, se realizó un allanamiento en la residencia de Filis, una persona cercana al merenguero. Las investigaciones continúan para determinar la participación de los involucrados.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790249861/noticias/articles/20260924_113741_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 24 Sep 2026 11:38:26 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260924113826</guid>
   </item>
 </channel>
 </rss>
