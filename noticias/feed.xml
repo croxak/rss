@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 07 Oct 2026 03:13:07 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 03:16:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Autoridades trasladan al Zoológico al mono incautado en operativo antinarcóticos en las costas de Baní]]></title>
+    <link>https://www.diariolibre.com/planeta/medioambiente/2026/10/06/autoridades-recuperan-mono-introducido-ilegalmente-al-pais/3680752</link>
+    <description><![CDATA[El Ministerio de Medio Ambiente y Recursos Naturales recibió un mono capuchino de cara blanca incautado en un operativo contra el narcotráfico en Baní. El animal fue trasladado al Parque Zoológico Nacional para recibir atención veterinaria.
+
+Según informaciones preliminares, el mono procede de Colombia. Las autoridades reiteraron que estas prácticas amenazan la biodiversidad y violan disposiciones sobre protección de fauna.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791342872/noticias/articles/20261007_031431_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 07 Oct 2026 03:16:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261007031619</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Madre dominicana muere tras caer de un piso 15 en El Bronx; su bebé está en estado crítico]]></title>
     <link>https://www.diariolibre.com/usa/actualidad/2026/10/06/madre-dominicana-muere-tras-caer-de-un-piso-15-en-el-bronx/3680949</link>
     <description><![CDATA[Nathaly Ramírez, una madre dominicana de 23 años, murió tras caer desde el piso 15 de un edificio en El Bronx. Su bebé de ocho meses se encuentra en estado crítico.
@@ -1367,19 +1378,6 @@ La búsqueda de la motocicleta utilizada y el análisis de cámaras de seguridad
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790250132/noticias/articles/20260924_114211_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 24 Sep 2026 11:42:48 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260924114248</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[República Dominicana establece relaciones diplomáticas con Somalia durante Asamblea de la ONU]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/09/23/republica-dominicana-establece-relaciones-diplomaticas-con-somalia-durante-asamblea-de-la-onu-2126688/</link>
-    <description><![CDATA[República Dominicana y Somalia han establecido relaciones diplomáticas en el marco de la Asamblea General de la ONU. El canciller Víctor “Ito” Bisonó y su homólogo somalí, Abdisalam Abdi Ali, firmaron un comunicado conjunto.
-
-Somalia se convierte en el país número 188 con el que República Dominicana mantiene vínculos diplomáticos.
-
-Además, se firmó un acuerdo de exención de visado con Indonesia, permitiendo a titulares de pasaportes diplomáticos, oficiales y de servicio ingresar sin visado por hasta 30 días.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790249978/noticias/articles/20260924_113937_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 24 Sep 2026 11:40:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260924114000</guid>
   </item>
 </channel>
 </rss>
