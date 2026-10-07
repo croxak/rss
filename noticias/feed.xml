@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 07 Oct 2026 16:14:53 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 17:22:07 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Uno de los primeros extraditados por presidente De la Espriella llega a RD acusado de violación]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/10/07/policia-nacional-recibe-profugo-dominicano-extraditado-desde-colombia/3681596</link>
+    <description><![CDATA[Jorge Luis Mojica Ortiz, con doble nacionalidad dominicana y colombiana, fue extraditado a República Dominicana desde Colombia. Está acusado de violación sexual de una menor en Samaná.
+
+La extradición fue autorizada por el presidente colombiano Abelardo de la Espriella, siendo una de las primeras de su mandato. Mojica Ortiz llegó al país por el Aeropuerto Internacional de Las Américas y fue recibido por agentes de Interpol Santo Domingo.
+
+La orden de captura fue emitida en 2024 por el Juzgado de la Instrucción del Distrito Judicial de Samaná. Tras su llegada, fue puesto bajo custodia de la División de Investigación de la Policía Nacional en Samaná.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791393700/noticias/articles/20261007_172139_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 07 Oct 2026 17:22:07 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261007172207</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Premios La Vara van tras las ideas más creativas del Caribe y Centroamérica en su sexta entrega]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261007161453</link>
     <description><![CDATA[La Asociación Dominicana de Empresas de Comunicación Comercial (ADECC) anunció el inicio oficial de las inscripciones para la sexta edición de los Premios La Vara, el certamen de mayor relevancia para la industria publicitaria de Centroamérica y el Caribe. La gran novedad de esta entrega es la llegada de Gustavo Lauria, cofundador y Chief Creative Officer de la aclamada agencia neoyorquina We Believers, quien asumirá la presidencia del jurado internacional.
@@ -1409,17 +1422,6 @@ La asamblea se realizará a las 10:00 de la mañana en el salón Bienvenido Sand
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790288010/noticias/articles/20260924_221330_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 24 Sep 2026 22:14:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260924221457</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Recuperan US$33,690, RD$196,500, relojes y cadenas tras asalto en casa de Julián Oro Duro]]></title>
-    <link>https://listindiario.com/la-republica/justicia/20260924/recuperan-miles-dolares-efectivo-relojes-cadenas-trsa-asalto-casa-julian-oro-duro_923521.html</link>
-    <description><![CDATA[La Policía Nacional informó sobre la recuperación de US$33,690, RD$196,500, relojes y cadenas tras un asalto en la residencia del merenguero Julián Oro Duro, ubicada en Santo Domingo Este. Durante el incidente, su esposa fue ultimada y el artista resultó herido.
-
-En el proceso investigativo, se recuperó una motocicleta en Los Guaricanos, Santo Domingo Norte, presuntamente utilizada por los perpetradores. Cuatro personas fueron arrestadas y se incautaron diversas pertenencias.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790281416/noticias/articles/20260924_202336_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 24 Sep 2026 20:24:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260924202419</guid>
   </item>
 </channel>
 </rss>
