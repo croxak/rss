@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 07 Oct 2026 14:01:41 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 14:24:51 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Haití posterga las elecciones indefinidamente por crisis política e inseguridad]]></title>
+    <link>https://www.dw.com/es/haití-posterga-indefinidamente-las-elecciones-por-crisis-política-e-inseguridad/a-79570616</link>
+    <description><![CDATA[Haití ha decidido aplazar indefinidamente las elecciones presidenciales y legislativas previstas para diciembre de 2026. La crisis política y de seguridad, agravada por la violencia de las pandillas, ha llevado al Consejo Electoral provisional a no establecer una nueva fecha para los comicios.
+
+Desde principios de año, al menos 5.700 personas han muerto o resultado heridas en Haití. Además, casi 1,5 millones de personas han sido desplazadas debido a la violencia. La ONU ha extendido por seis meses la labor de una fuerza antipandillas, aunque no ha alcanzado su objetivo de efectivos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791383051/noticias/articles/20261007_142411_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 07 Oct 2026 14:24:51 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261007142451</guid>
+  </item>
+
+  <item>
     <title><![CDATA[República Dominicana participa en operación de Interpol que dejó 233 detenidos por delitos ambientales]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261007140141</link>
     <description><![CDATA[República Dominicana participó en una operación internacional contra redes dedicadas presuntamente a la deforestación, la minería ilegal y el tráfico de especies silvestres que dejó 233 personas detenidas en América Latina y el Caribe.
@@ -1403,17 +1414,6 @@ Su captura se realizó en agosto en Santo Domingo Oeste, donde se le incautó un
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790269531/noticias/articles/20260924_170531_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 24 Sep 2026 17:06:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260924170600</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Prisión preventiva contra dos hombres acusados de tala ilegal en el Parque Nacional Valle Nuevo]]></title>
-    <link>https://www.diariolibre.com/actualidad/justicia/2026/09/24/dos-hombres-a-prision-por-devastar-30-tareas-de-tierra-en-valle-nuevo/3668805</link>
-    <description><![CDATA[La Oficina Judicial de Servicios de Atención Permanente de San José de Ocoa ha impuesto tres meses de prisión preventiva a Juan Encarnación y Nery Encarnación. Ambos están acusados de tala ilegal en el Parque Nacional Valle Nuevo.
-
-El Ministerio Público señala que devastaron 30 tareas de tierra en Yuna, Loma La Placeta, afectando especies nativas y endémicas. Se les acusa de violar artículos de la Constitución y leyes ambientales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790269432/noticias/articles/20260924_170351_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 24 Sep 2026 17:04:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260924170419</guid>
   </item>
 </channel>
 </rss>
