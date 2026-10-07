@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 07 Oct 2026 13:59:09 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 14:01:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[República Dominicana participa en operación de Interpol que dejó 233 detenidos por delitos ambientales]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261007140141</link>
+    <description><![CDATA[República Dominicana participó en una operación internacional contra redes dedicadas presuntamente a la deforestación, la minería ilegal y el tráfico de especies silvestres que dejó 233 personas detenidas en América Latina y el Caribe.
+
+La Operación Madre Tierra VIII fue desarrollada entre el 1 de junio y el 31 de julio bajo la coordinación de Interpol, con la participación de autoridades de Colombia, Costa Rica, El Salvador, Guatemala, Honduras, México, Nicaragua, Panamá y República Dominicana.
+
+Según el balance publicado por Interpol este 7 de octubre, las autoridades reportaron más de 330 casos, identificaron a 312 sospechosos y realizaron 313 incautaciones. También rescataron más de mil animales vivos y detectaron unas 60,000 hectáreas de bosque presuntamente deforestadas de manera ilegal.
+
+Entre los materiales decomisados figuran aproximadamente 4.6 toneladas de cianuro, recipientes con mercurio, municiones y unos 165 kilogramos de aletas de tiburón secas, valoradas en alrededor de US$280,000.
+
+La operación también permitió detectar rutas utilizadas para trasladar madera y especies protegidas desde América Latina hacia mercados de Europa y Asia, así como vínculos financieros y empresariales relacionados con las actividades investigadas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791381671/noticias/articles/20261007_140111_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 07 Oct 2026 14:01:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261007140141</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Tres hombres reciben cadena perpetua por asesinar en Londres al dominicano Gregory Castillo Volquez]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261007135909</link>
     <description><![CDATA[res hombres fueron condenados a cadena perpetua por el asesinato del dominicano Gregory Castillo Volquez, de 36 años, quien murió tras recibir 22 heridas de arma blanca y varios golpes durante un ataque ocurrido en el norte de Londres.
@@ -1397,17 +1414,6 @@ El Ministerio Público señala que devastaron 30 tareas de tierra en Yuna, Loma 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790269432/noticias/articles/20260924_170351_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 24 Sep 2026 17:04:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260924170419</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Juez bloquea veto de Trump y ordena restablecer el acceso a la Casa Blanca a CNN, MS NOW y Politico]]></title>
-    <link>https://m.n.com.do/2026/09/24/juez-bloquea-veto-de-trump-y-ordena-restablecer-el-acceso-a-la-casa-blanca-a-cnn-ms-now-y-politico/</link>
-    <description><![CDATA[Un juez federal ha bloqueado temporalmente la prohibición de acceso a la Casa Blanca impuesta por el presidente Donald Trump a CNN, MS NOW y Politico. El juez Timothy Kelly ordenó restablecer las credenciales de los medios, señalando que probablemente fueron revocadas sin las debidas garantías procesales.
-
-La Casa Blanca había argumentado que la prohibición era necesaria por motivos de seguridad nacional, pero el tribunal encontró insuficientes los elementos presentados para respaldar esa afirmación.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790258280/noticias/articles/20260924_135800_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 24 Sep 2026 13:59:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260924135930</guid>
   </item>
 </channel>
 </rss>
