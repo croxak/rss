@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 07 Oct 2026 18:12:13 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 07 Oct 2026 18:14:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Acusan a hombre de agredir a su madre, hermana y un sobrino con condición especial en Herrera]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/10/06/santiago-angeles-willmore-enfrenta-prision-preventiva-por-agresion-fam/3681061</link>
+    <description><![CDATA[Santiago Ángeles Willmore ha sido acusado de agredir a su madre, hermana y sobrino en el sector Libertador de Herrera, Santo Domingo Oeste. El Ministerio Público solicitará prisión preventiva.
+
+El menor, de siete años y con trastorno del espectro autista, sufrió un trauma craneal leve y fue trasladado al Hospital Pediátrico Dr. Robert Reid Cabral. La madre del imputado, de 86 años, y su hermana con discapacidad visual también resultaron agredidas.
+
+El Ministerio Público considera los hechos de especial gravedad y atribuye al imputado violaciones a varias leyes, incluyendo el Código Penal y leyes de protección a menores, envejecientes y personas con discapacidad.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791396813/noticias/articles/20261007_181333_article.png" type="image/png"/>
+    <pubDate>Wed, 07 Oct 2026 18:14:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261007181419</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Imponen garantía económica a exfiscal Aurelio Valdez acusado de recibir soborno en el caso SeNaSa]]></title>
     <link>https://eldia.com.do/imponen-garantia-economica-a-exfiscal-aurelio-valdez-acusado-de-recibir-soborno-en-el-caso-senasa/</link>
     <description><![CDATA[El exfiscal Aurelio Valdez Alcántara enfrentará juicio de fondo tras ser acusado de recibir un soborno de US$10,000 en el caso SeNaSa. El juez Raymundo Mejía decidió cambiar la prisión preventiva por una garantía económica de RD$1 millón, al considerar que no hay peligro de fuga.
@@ -1409,17 +1422,6 @@ En seguridad ciudadana, el mandatario afirmó que su gobierno ha reducido la tas
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790369733/noticias/articles/20260925_205532_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 25 Sep 2026 20:55:56 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260925205556</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Sepultan los restos de Zeneida Socorro Castillo, esposa de Julián Oro Duro]]></title>
-    <link>https://listindiario.com/entretenimiento/20260924/sepultan-restos-zeneida-socorro-castillo-esposa-julian-oro-duro_923536.html</link>
-    <description><![CDATA[Zeneida Socorro Castillo, esposa del merenguero Julián Oro Duro, fue sepultada en el Cementerio Cristo Salvador tras su trágica muerte durante un asalto en su residencia. Familiares y amigos, incluyendo al artista Yiyo Sarante, se reunieron para despedirla.
-
-La Policía Nacional ha recuperado parte del dinero y pertenencias robadas durante el asalto. El abogado de Julián, Cándido Simó, expresó que la recuperación de los bienes no es lo más importante para el cantante frente a la pérdida de su esposa.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790288256/noticias/articles/20260924_221735_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 24 Sep 2026 22:18:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260924221841</guid>
   </item>
 </channel>
 </rss>
