@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 08 Oct 2026 22:05:04 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 22:29:01 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Médico dominicano es arrestado y acusado de asesinato tras muerte de paciente en El Bronx]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/10/07/luis-rojas-cabrera-arrestado-por-asesinato-tras-tratamiento-anti-aging/3681657</link>
+    <description><![CDATA[Luis Rojas Cabrera, médico dominicano, fue arrestado y acusado de asesinato tras la muerte de Elizabeth Baron en su clínica de El Bronx. Baron falleció por una embolia gaseosa cardíaca tras un procedimiento de "anti-aging".
+
+Rojas Cabrera, de 55 años, permanece detenido en Rikers Island con una fianza de dos millones de dólares. Su abogado rechaza la acusación, argumentando que el médico intentó salvar a la paciente.
+
+Rojas Cabrera no tenía licencia para practicar medicina en EE.UU. y había sido arrestado anteriormente por cargos relacionados con la práctica médica ilegal.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791498483/noticias/articles/20261008_222802_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 08 Oct 2026 22:29:01 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261008222901</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader asegura dará primer picazo para iniciar el nuevo Estadio Quisqueya antes de finalizar su Gobierno]]></title>
     <link>https://n.com.do/2026/10/08/abinader-asegura-dara-primer-picazo-para-iniciar-el-nuevo-estadio-quisqueya-antes-de-finalizar-su-gobierno/</link>
     <description><![CDATA[El presidente Luis Abinader aseguró que dará el primer picazo para iniciar la construcción del nuevo Estadio Quisqueya antes de finalizar su mandato. Este proyecto busca crear un parque de béisbol con condiciones para albergar partidos de Grandes Ligas.
@@ -1451,19 +1464,6 @@ Este fue el segundo sismo del día. En la mañana, un temblor de magnitud 4.3 se
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790549564/noticias/articles/20260927_225243_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 27 Sep 2026 22:53:08 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260927225308</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Director de la Policía a delincuentes: “Tienen dos caminos: entregarse o dejar de delinquir”]]></title>
-    <link>https://ntelemicro.com/director-de-la-policia-a-delincuentes-tienen-dos-caminos-entregarse-o-dejar-de-delinquir/</link>
-    <description><![CDATA[El director general de la Policía Nacional, mayor general Ernesto Rodríguez García, ha lanzado una advertencia a los delincuentes: la institución seguirá buscándolos, apresándolos y sometiéndolos a la justicia.
-
-Rodríguez García enfatizó que quienes hayan cometido delitos tienen dos caminos: entregarse a las autoridades o dejar de delinquir. Los agentes actuarán dentro de las facultades legales y aplicando los protocolos para el uso proporcional de la fuerza.
-
-La misión de la Policía Nacional es proteger a los ciudadanos y mantener la seguridad en las comunidades, mientras los señalados de cometer delitos deberán responder ante el Ministerio Público y los tribunales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790537928/noticias/articles/20260927_193848_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 27 Sep 2026 19:39:20 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260927193920</guid>
   </item>
 </channel>
 </rss>
