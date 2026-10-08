@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 08 Oct 2026 13:01:05 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 13:23:52 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Presidente Abinader hablará al país la tarde de este jueves]]></title>
+    <link>https://n.com.do/2026/10/08/presidente-abinader-hablara-al-pais-la-tarde-de-este-jueves/</link>
+    <description><![CDATA[El presidente Luis Abinader encabezará una rueda de prensa este jueves a las 2:00 de la tarde en el salón verde del Palacio Nacional. Aún no se han revelado los temas que abordará.
+
+Más tarde, a las 6:00 de la tarde, el mandatario asistirá a la entrega de Premios a la Excelencia Importadora ADOEXPO 2026 en la sala Carlos Piantini del Teatro Nacional.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791465793/noticias/articles/20261008_132313_article.webp" type="image/webp"/>
+    <pubDate>Thu, 08 Oct 2026 13:23:52 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261008132352</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader analiza con secretario de OEA situación de Haití y democracia regional; con Bachelet aborda políticas sociales]]></title>
     <link>https://elnuevodiario.com.do/abinader-analiza-con-secretario-de-oea-situacion-de-haiti-y-democracia-regional-con-bachelet-aborda-politicas-sociales/</link>
     <description><![CDATA[El presidente Luis Abinader sostuvo una reunión con Albert Ramdin, secretario general de la OEA, para discutir temas como la situación de Haití y la democracia en la región. Ramdin presentó un plan de acción para enfrentar la situación en Haití y destacó el papel de República Dominicana en los esfuerzos relacionados con Nicaragua.
@@ -1421,17 +1432,6 @@ Entre los heridos se encuentra la propietaria del establecimiento. Los afectados
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790443691/noticias/articles/20260926_172810_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 26 Sep 2026 17:28:47 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260926172847</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Trump rechaza el plan para reabrir el estrecho de Ormuz: "EE.UU tiene el control total de Ormuz"]]></title>
-    <link>https://listindiario.com/las-mundiales/20260926/trump-rechaza-plan-reabrir-estrecho-ormuz-ee-uu-control-total-ormuz_923763.html</link>
-    <description><![CDATA[El presidente Donald Trump rechazó un plan de Irán para reabrir el estrecho de Ormuz, afirmando que Estados Unidos tiene "el control total" de la vía marítima. Según Trump, 29 barcos transitaron por Ormuz la noche pasada.
-
-El plan iraní, presentado a través de Catar, incluía un alto al fuego de siete días, el levantamiento del bloqueo naval estadounidense, el fin de las sanciones al petróleo iraní y la liberación de activos iraníes congelados. Irán propuso retomar negociaciones con Washington para un acuerdo definitivo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790439503/noticias/articles/20260926_161823_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 26 Sep 2026 16:19:16 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260926161916</guid>
   </item>
 </channel>
 </rss>
