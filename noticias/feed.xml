@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 08 Oct 2026 12:53:53 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 12:56:08 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[El COE pone en alerta amarilla al Gran Santo Domingo y San Cristóbal ante posibles inundaciones]]></title>
+    <link>https://www.diariolibre.com/planeta/medioambiente/2026/10/08/pronostico-de-lluvias-en-republica-dominicana-y-alerta-amarilla/3682073</link>
+    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha elevado a alerta amarilla al Gran Santo Domingo, San Cristóbal y el Distrito Nacional por riesgo de inundaciones urbanas y crecidas repentinas debido a una activa onda tropical.
+
+Monte Plata, San José de Ocoa, Peravia, Azua y Barahona siguen en alerta verde. Las lluvias podrían extenderse durante el jueves, afectando principalmente el suroeste, la zona fronteriza, el litoral costero caribeño y la llanura oriental.
+
+El COE exhorta a la población a mantenerse informada y preparada, evitando cruzar ríos y zonas vulnerables.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791464115/noticias/articles/20261008_125515_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 08 Oct 2026 12:56:08 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261008125608</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El arroz estadounidense compite con subsidios y protección]]></title>
     <link>https://www.diariolibre.com/economia/agro/2026/10/08/arroz-estadounidense-compite-con-respaldo-del-presupuesto/3681981</link>
     <description><![CDATA[El arroz estadounidense compite en el mercado internacional con el respaldo de ayudas federales. En 2026, el programa Farmer Bridge Assistance otorgó una ayuda de 132.89 dólares por acre de arroz, la mayor entre los cultivos incluidos. Este apoyo cubre el 30.4 % de la pérdida estimada por acre.
@@ -1419,21 +1432,6 @@ El impacto contra el pavimento ocasionó múltiples lesiones a las dos hermanas,
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790436707/noticias/articles/20260926_153146_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 26 Sep 2026 15:32:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260926153219</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Crimen de esposa de “Julián Oro Duro” fue planificado un mes antes, según el Ministerio Público]]></title>
-    <link>https://eldia.com.do/crimen-de-esposa-de-julian-oro-duro-fue-planificado-un-mes-antes-segun-el-ministerio-publico/</link>
-    <description><![CDATA[El Ministerio Público ha revelado que el asesinato de Zeneida Socorro Castillo, esposa de “Julián Oro Duro”, fue planificado un mes antes. Cuatro hombres están acusados de participar en el crimen, que incluyó el robo de dinero y joyas.
-
-La entrada a la vivienda fue facilitada por Lawrence Mark Liranzo Marcos, alias “Chiquito”, quien tenía una relación de confianza con las víctimas. Zeneida fue atacada y asesinada en su residencia, mientras que su madre fue retenida en otra habitación.
-
-Los agresores esperaron la llegada de Gilberto Julián Sarante Perdomo, a quien también atacaron y robaron. La investigación se apoyó en imágenes de videovigilancia y confesiones de los implicados. Parte del dinero y objetos robados han sido recuperados.
-
-La Fiscalía ha solicitado prisión preventiva para los acusados y que el caso sea declarado complejo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790430773/noticias/articles/20260926_135253_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 26 Sep 2026 13:53:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260926135328</guid>
   </item>
 </channel>
 </rss>
