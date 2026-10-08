@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 08 Oct 2026 22:43:51 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 22:49:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Salud Pública refuerza vigilancia preventiva en aeropuertos, puertos y pasos fronterizos ante investigación en Rusia por peste neumónica]]></title>
+    <link>https://listindiario.com/la-republica/sector-salud/20261007/salud-publica-mantiene-vigilancia-preventiva-investigacion-rusia-peste-neumonica_925233.html</link>
+    <description><![CDATA[Salud Pública en República Dominicana ha reforzado la vigilancia preventiva ante una investigación en Rusia sobre la peste neumónica. Se han intensificado las medidas en aeropuertos, puertos y pasos fronterizos para identificar y seguir a viajeros de zonas de riesgo.
+
+Hasta el 7 de octubre, no se ha confirmado que el fallecimiento de una trabajadora en Rusia sea por peste neumónica. La OMS sigue el evento y ha solicitado más información a las autoridades rusas.
+
+La peste neumónica, causada por la bacteria Yersinia pestis, afecta los pulmones y se transmite por gotículas respiratorias. Es tratable con antibióticos si se atiende a tiempo. En República Dominicana, la peste no es endémica.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791499710/noticias/articles/20261008_224829_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 08 Oct 2026 22:49:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261008224902</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Unapec alerta por exposición de credenciales de estudiantes]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261008224351</link>
     <description><![CDATA[La Universidad APEC (Unapec) alertó a sus estudiantes sobre la exposición de nombres de usuario y contraseñas correspondientes a servicios institucionales y recomendó cambiar las claves de acceso como medida preventiva.
@@ -1463,19 +1476,6 @@ La ley entrará en vigencia el 2 de octubre de 2026 y tendrá una duración inic
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790742960/noticias/articles/20260930_043600_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 30 Sep 2026 04:36:27 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260930043627</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Caso SeNaSa 2.0: siete a prisión preventiva, nueve a arresto domiciliario y seis con medidas menos gravosas]]></title>
-    <link>https://n.com.do/2026/09/27/prision-preventiva-siete-imputados-senasa-2/</link>
-    <description><![CDATA[El juez Rigoberto Sena ha dictado prisión preventiva para siete imputados en el caso SeNaSa 2.0. De estos, cuatro son hombres y tres son mujeres.
-
-Nueve personas deberán cumplir arresto domiciliario. Además, seis imputados tendrán que cumplir con garantía económica, presentación periódica e impedimento de salida del país. Dos procesados quedaron sin medida de coerción.
-
-Estas decisiones fueron tomadas tras las solicitudes del Ministerio Público y los argumentos de las defensas durante la audiencia.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790563682/noticias/articles/20260928_024802_article.png" type="image/png"/>
-    <pubDate>Mon, 28 Sep 2026 02:53:23 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260928025323</guid>
   </item>
 </channel>
 </rss>
