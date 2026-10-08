@@ -7,14 +7,37 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 08 Oct 2026 14:58:54 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 15:28:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[ONU identifica municiones fabricadas en República Dominicana en los años 50 en poder de la pandilla haitiana 400 Mawozo]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261008152840</link>
+    <description><![CDATA[Un informe del Grupo de Expertos de las Naciones Unidas sobre Haití reveló que la organización criminal 400 Mawozo, una de las principales pandillas armadas de ese país, posee municiones de calibre .50 fabricadas en República Dominicana durante la década de 1950.
+
+El hallazgo figura en el informe S/2026/714, publicado el 8 de septiembre de 2026, específicamente en el anexo 18, dedicado a las municiones dominicanas encontradas en poder de organizaciones criminales haitianas.
+
+Según los investigadores, el análisis de 32 cartuchos calibre .50 recuperados de la pandilla permitió establecer que al menos 15 fueron fabricados en territorio dominicano. Entre las evidencias documentadas se encuentra una munición producida en 1958, cuya fotografía aparece en el informe.
+
+El documento también señala que Wilson Joseph, alias «Lanmò San Jou», cabecilla de 400 Mawozo, difundió videos en redes sociales exhibiendo municiones de calibre .50 con una distintiva punta amarilla, cuyas características coinciden con las fabricadas en República Dominicana durante los años cincuenta.
+
+Como parte de la investigación, el Grupo de Expertos remitió dos solicitudes de rastreo a las autoridades dominicanas, que proporcionaron fotografías de municiones producidas por la antigua Armería de las Fuerzas Armadas de San Cristóbal entre la década de 1950 y 1960.
+
+Las autoridades dominicanas explicaron que las municiones excedentes de esa época estaban en proceso de destrucción y aseguraron que no habían detectado desvíos de ese material.
+
+No obstante, los investigadores advirtieron que todavía se desconoce la cadena de custodia que permitió que estas municiones terminaran en poder de 400 Mawozo. El informe precisa que parte de ese antiguo material militar fue exportado en el pasado al mercado civil estadounidense y que todavía existen cartuchos similares disponibles en sitios especializados de coleccionistas.
+
+El hallazgo forma parte de una investigación más amplia de Naciones Unidas sobre el tráfico de armas y municiones hacia Haití, que también documentó material procedente de arsenales de la Policía Nacional y del Ejército dominicanos en poder de distintas organizaciones criminales haitianas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791473302/noticias/articles/20261008_152821_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 08 Oct 2026 15:28:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261008152840</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Solicitan 18 meses de prisión contra hombre que se entregó a la PN por el crimen de la niña Yosnely]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/10/08/mp-solicita-prision-preventiva-por-crimen-de-yosnely-alvarez/3682136</link>
     <description><![CDATA[El Ministerio Público ha solicitado 18 meses de prisión preventiva para Edwin Reinaldo Rodríguez Cruz, acusado de la muerte de Yosnely Álvarez, de 13 años. El cuerpo de la menor fue hallado en el río Yaque del Norte tras un ataque en Navarrete, Santiago.
@@ -1435,17 +1458,6 @@ Rodríguez criticó la "hostilidad permanente" de EE.UU. bajo la administración
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790455551/noticias/articles/20260926_204550_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 26 Sep 2026 20:46:22 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260926204622</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Herida contusa en lado izquierdo de la cabeza fue la causa de muerte de la Esposa de Julián Oro Duro]]></title>
-    <link>https://m.n.com.do/2026/09/26/herida-contusa-en-lado-izquierdo-de-la-cabeza-fue-la-causa-de-muerte-de-la-esposa-de-julian-oro-duro/</link>
-    <description><![CDATA[Zeneida Socorro Castillo, esposa de Julián Oro Duro, murió por una herida contusa en la cabeza, según el INACIF. La autopsia determinó que la muerte fue violenta y homicida.
-
-El ataque ocurrió en su residencia en Santo Domingo Este. Julián Oro Duro también resultó herido. Cuatro personas han sido detenidas y se han solicitado medidas de coerción.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790451878/noticias/articles/20260926_194437_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 26 Sep 2026 19:45:03 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260926194503</guid>
   </item>
 </channel>
 </rss>
