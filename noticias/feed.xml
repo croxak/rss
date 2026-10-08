@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 08 Oct 2026 17:27:51 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 17:31:44 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Arrestan a dominicano acusado de lanzar a su exnovia y su bebé desde un balcón del piso 15 en El Bronx]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/10/08/arrestan-dominicano-acusado-de-empujar-a-nathaly-ramirez/3682140</link>
+    <description><![CDATA[El dominicano Ángel Carrasco fue arrestado por presuntamente empujar a su exnovia Nathaly Ramírez y a su hija desde un balcón del piso 15 en El Bronx. Nathaly falleció, pero la bebé sobrevivió y se espera que se recupere.
+
+Carrasco enfrenta múltiples cargos, incluyendo asesinato e intento de asesinato. La pareja tenía un historial de violencia doméstica con varias denuncias previas.
+
+Amigos y conocidos de Nathaly la recordaron con un altar conmemorativo frente al edificio donde ocurrió el incidente.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791480620/noticias/articles/20261008_173020_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 08 Oct 2026 17:31:44 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261008173144</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Acusan a tres dominicanos por presunto tráfico de personas tras naufragio cerca de Isla Mona]]></title>
     <link>https://www.diariolibre.com/usa/actualidad/2026/10/08/trafico-de-personas-en-puerto-rico-tras-naufragio-en-isla-de-mona/3682251</link>
     <description><![CDATA[La Fiscalía Federal de Puerto Rico ha presentado cargos contra tres dominicanos por presunto tráfico de personas tras un naufragio cerca de la isla de Mona, que resultó en la muerte de 12 personas. La embarcación llevaba 64 personas, de las cuales 49 fueron rescatadas.
@@ -1449,19 +1462,6 @@ El detenido será puesto a disposición del Ministerio Público.]]></description
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790531748/noticias/articles/20260927_175548_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 27 Sep 2026 17:56:27 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260927175627</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Conocerán este lunes medida de coerción a propietario de juegos mecánico por muerte niña en Hato Mayor]]></title>
-    <link>https://m.n.com.do/2026/09/26/conoceran-este-lunes-medida-de-coercion-a-propietario-de-juegos-mecanico-por-muerte-nina-en-hato-mayor/</link>
-    <description><![CDATA[El lunes 28 de septiembre se conocerá la medida de coerción contra el propietario de los juegos mecánicos involucrados en un accidente en Hato Mayor. La audiencia será a las 9:00 de la mañana en el Tribunal de Atención Permanente.
-
-El accidente ocurrió el 18 de septiembre cuando un asiento de la atracción "La Estrellita" se abrió, provocando la caída de varias menores. Una niña de 11 años falleció tras sufrir un trauma craneoencefálico.
-
-Las instalaciones fueron clausuradas y el Ministerio Público investiga las circunstancias del hecho y la documentación de los permisos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790474544/noticias/articles/20260927_020224_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 27 Sep 2026 02:02:53 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260927020253</guid>
   </item>
 </channel>
 </rss>
