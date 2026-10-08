@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 08 Oct 2026 16:52:43 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 17:27:51 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Acusan a tres dominicanos por presunto tráfico de personas tras naufragio cerca de Isla Mona]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/10/08/trafico-de-personas-en-puerto-rico-tras-naufragio-en-isla-de-mona/3682251</link>
+    <description><![CDATA[La Fiscalía Federal de Puerto Rico ha presentado cargos contra tres dominicanos por presunto tráfico de personas tras un naufragio cerca de la isla de Mona, que resultó en la muerte de 12 personas. La embarcación llevaba 64 personas, de las cuales 49 fueron rescatadas.
+
+El jefe interino de la Fiscalía, Héctor Ramírez Carbó, destacó la colaboración con las autoridades dominicanas para combatir estos viajes clandestinos. Recordó tragedias previas, incluyendo la muerte de un menor en 2023, y advirtió sobre los riesgos de estas travesías.
+
+Ramírez Carbó señaló que los traficantes cobran hasta 5,000 dólares por estos peligrosos viajes y reiteró el llamado a utilizar vías legales para evitar nuevas muertes.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791480439/noticias/articles/20261008_172719_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 08 Oct 2026 17:27:51 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261008172751</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Nicolás Maduro y Cilia Flores, acusados en EE UU de nuevos cargos de tortura y represión]]></title>
     <link>https://elpais.com/us/2026-10-08/nicolas-maduro-y-cilia-flores-son-acusados-en-ee-uu-de-nuevos-cargos-de-tortura-y-represion.html</link>
     <description><![CDATA[Nicolás Maduro y su esposa, Cilia Flores, han sido acusados de nuevos cargos de tortura y represión en Estados Unidos. Estas acusaciones se suman a las de narcoterrorismo que ya enfrentaban en Nueva York.
@@ -1449,17 +1462,6 @@ Las instalaciones fueron clausuradas y el Ministerio Público investiga las circ
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790474544/noticias/articles/20260927_020224_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 27 Sep 2026 02:02:53 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260927020253</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Margarita Cedeño ante las alzas de combustibles: "¿Dónde están ahora los que ayer criticaban cada aumento?"]]></title>
-    <link>https://elnacional.com.do/nacionales/margarita-cedeno-alzas-combustibles-estan-ayer-criticaban-aumento_581861.html</link>
-    <description><![CDATA[Margarita Cedeño, ex vicepresidenta de la República, ha manifestado su preocupación por el reciente aumento en los precios de los combustibles, destacando el impacto económico en las familias dominicanas. A través de su cuenta de X, Cedeño cuestionó la falta de reacción de sectores que en el pasado protestaban por estos incrementos.
-
-Cedeño enfatizó que la preocupación por el costo de los combustibles no debería depender de quién esté en el Gobierno, y llamó a mantener una postura crítica frente a decisiones que afectan el costo de vida.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790458701/noticias/articles/20260926_213821_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 26 Sep 2026 21:39:35 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260926213935</guid>
   </item>
 </channel>
 </rss>
