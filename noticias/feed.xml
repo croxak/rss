@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 08 Oct 2026 02:30:28 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 12:53:53 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[El arroz estadounidense compite con subsidios y protección]]></title>
+    <link>https://www.diariolibre.com/economia/agro/2026/10/08/arroz-estadounidense-compite-con-respaldo-del-presupuesto/3681981</link>
+    <description><![CDATA[El arroz estadounidense compite en el mercado internacional con el respaldo de ayudas federales. En 2026, el programa Farmer Bridge Assistance otorgó una ayuda de 132.89 dólares por acre de arroz, la mayor entre los cultivos incluidos. Este apoyo cubre el 30.4 % de la pérdida estimada por acre.
+
+Estados Unidos también cuenta con mecanismos de protección como el Price Loss Coverage y el Agriculture Risk Coverage. En 2023, se habilitaron hasta 250 millones de dólares para productores de arroz.
+
+En República Dominicana, el ministro de Agricultura, Francisco Oliverio Espaillat, aseguró que la derogación del Decreto 635-26 no significa abandonar a los productores de arroz. El presidente Luis Abinader mantiene su compromiso con la producción nacional mediante medidas para fortalecer la productividad y competitividad.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791463845/noticias/articles/20261008_125045_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 08 Oct 2026 12:53:53 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261008125353</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Puerto Plata recibe el primer crucero de Disney que llega a República Dominicana]]></title>
     <link>https://www.diariolibre.com/economia/turismo/2026/10/06/republica-dominicana-recibe-a-disney-cruise-line-en-puerto-plata/3680971</link>
     <description><![CDATA[República Dominicana ha recibido por primera vez un crucero de Disney Cruise Line. El Disney Dream llegó a la terminal Taino Bay en Puerto Plata con 3,194 pasajeros y 1,467 tripulantes, marcando la primera escala de un barco de Disney en el país.
@@ -1421,17 +1434,6 @@ La Fiscalía ha solicitado prisión preventiva para los acusados y que el caso s
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790430773/noticias/articles/20260926_135253_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 26 Sep 2026 13:53:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260926135328</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[MP sostiene que plan contra Julián Oro Duro no era solo para robarle, sino también para matarlo]]></title>
-    <link>https://eltestigo.com</link>
-    <description><![CDATA[El Ministerio Público sostiene que el ataque contra el merenguero Gilberto Julián Sarante Perdomo, conocido como Julián Oro Duro y el asesinato de su esposa Zeneida Socorro Castillo, no fueron consecuencia de un robo que se salió de control sino parte de un plan previamente concebido que contemplaba matar a ambos y apoderarse de sus bienes.
-
-La tesis está contenida en la solicitud de medida de coerción presentada contra los cuatro hombres imputados por el caso, en la que el órgano acusador describe una actuación coordinada y planificada con aproximadamente un mes de antelación.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790382712/noticias/articles/20260926_003152_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 26 Sep 2026 00:32:23 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260926003223</guid>
   </item>
 </channel>
 </rss>
