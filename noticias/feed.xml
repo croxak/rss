@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 07 Oct 2026 19:07:03 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 01:24:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[NYPD: exnovio de Nathaly Ramírez fue a reconciliarse con ella, pero la tiró del piso 15 en El Bronx]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/10/07/expareja-de-nathaly-ramirez-intento-reconciliarse-antes-de-empujarla/3681841</link>
+    <description><![CDATA[La Policía de Nueva York está en la búsqueda de Ángel Carrasco, un hombre dominicano de 31 años, acusado de empujar a su expareja Nathaly Ramírez desde un balcón en El Bronx. Ramírez, de 23 años, falleció y su bebé de ocho meses resultó gravemente herida.
+
+Carrasco habría intentado reconciliarse con Ramírez llevando un ramo de flores, pero una discusión terminó en tragedia. El sospechoso tiene antecedentes de violencia doméstica y otros arrestos. Vecinos escucharon gritos antes del incidente.
+
+La Policía continúa la búsqueda de Carrasco, mientras la bebé permanece hospitalizada en condición estable.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791422619/noticias/articles/20261008_012339_article.png" type="image/png"/>
+    <pubDate>Thu, 08 Oct 2026 01:24:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261008012414</guid>
+  </item>
+
+  <item>
     <title><![CDATA[EE.UU. decomisa 2,2 millones de litros de biodiésel que iban a Cuba]]></title>
     <link>https://noticiassin.com/estados-unidos/2026/10/07/ee-uu-decomisa-22-millones-de-litros-de-biodiesel-a-cuba-2137708/</link>
     <description><![CDATA[Las autoridades estadounidenses decomisaron 2,2 millones de litros de biodiésel destinados a Cuba, valorados en 2,8 millones de dólares, por violar sanciones. La operación involucró a la empresa sancionada Enetec.
@@ -1409,19 +1422,6 @@ El vocero de la Policía, Diego Pesqueira, aseguró que la institución sigue lo
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790372253/noticias/articles/20260925_213733_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 25 Sep 2026 21:38:23 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260925213823</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno sube 3 y 4 pesos a la gasolina y el gasoil]]></title>
-    <link>https://robertocavada.com/gobierno-sube-3-y-4-pesos-a-la-gasolina-y-el-gasoil/</link>
-    <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes (MICM) ha informado sobre un aumento en los precios de los combustibles para esta semana.
-
-La gasolina premium subirá RD$3 por galón, mientras que la gasolina regular aumentará RD$2. El gasoil óptimo tendrá un incremento de RD$4 por galón, y el gasoil regular aumentará RD$3.
-
-Estos nuevos precios estarán vigentes a partir de este viernes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790369792/noticias/articles/20260925_205631_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 25 Sep 2026 20:57:50 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260925205750</guid>
   </item>
 </channel>
 </rss>
