@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 08 Oct 2026 22:31:28 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 22:43:51 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Unapec alerta por exposición de credenciales de estudiantes]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261008224351</link>
+    <description><![CDATA[La Universidad APEC (Unapec) alertó a sus estudiantes sobre la exposición de nombres de usuario y contraseñas correspondientes a servicios institucionales y recomendó cambiar las claves de acceso como medida preventiva.
+
+La institución informó que conoció la situación a través de publicaciones en redes sociales en las que dieron a conocer direcciones de servicios institucionales junto con credenciales de estudiantes. Ante el hecho, activó sus protocolos de respuesta a incidentes y conformó un Comité de Crisis.
+
+De acuerdo con una investigación preliminar, según informaron, las credenciales expuestas las habrían obtenido mediante un programa malicioso conocido como “infostealer”. Este es capaz de recopilar contraseñas almacenadas en dispositivos personales.
+
+Unapec precisó que, hasta el momento, no ha identificado evidencia de una intrusión en sus plataformas institucionales ni en su infraestructura tecnológica interna. La investigación continúa para determinar el alcance de la exposición y el origen de las credenciales.
+
+El equipo de Tecnología y Seguridad de la Información trabaja junto con especialistas externos en ciberseguridad y el Centro Nacional de Ciberseguridad (CNCS) para analizar las evidencias disponibles.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791499401/noticias/articles/20261008_224320_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 08 Oct 2026 22:43:51 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261008224351</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Investigan asesinato a puñaladas de joven dominicano de 18 años en El Bronx]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261008223128</link>
     <description><![CDATA[El Departamento de Policía de Nueva York investiga el asesinato de Emanuel Durán Tolentino, un joven dominicano de 18 años que murió después de ser apuñalado en la espalda en una concurrida intersección de El Bronx.
@@ -1459,19 +1476,6 @@ Estas decisiones fueron tomadas tras las solicitudes del Ministerio Público y l
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790563682/noticias/articles/20260928_024802_article.png" type="image/png"/>
     <pubDate>Mon, 28 Sep 2026 02:53:23 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260928025323</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Alejandro Campos supervisa el Puerto de La Romana y anuncia inicio de su remodelación para reforzar la seguridad nacional]]></title>
-    <link>https://elnuevodiario.com.do/alejandro-campos-supervisa-el-puerto-de-la-romana-y-anuncia-inicio-de-su-remodelacion-para-reforzar-la-seguridad-nacional/#google_vignette</link>
-    <description><![CDATA[Alejandro Campos, director de la Autoridad Portuaria Dominicana, visitó el Puerto de La Romana para supervisar y anunciar el inicio de su remodelación en octubre. Las obras, adjudicadas en agosto, buscan reforzar la seguridad nacional y serán supervisadas por Marlon Ramírez.
-
-Campos destacó la importancia de esta intervención para la seguridad y el trabajo conjunto con los cuerpos castrenses en la región Este. El vicealmirante Juan Bienvenido Crisóstomo Martínez y el contraalmirante Segundo Ventura García reafirmaron el compromiso de las Fuerzas Armadas y el CESEP en la protección portuaria.
-
-El alcalde de La Romana, Eduardo Kery, agradeció al presidente Luis Abinader y a las autoridades portuarias por atender un reclamo histórico que impactará en el sustento de las familias y el comercio local.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790553007/noticias/articles/20260927_235006_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 27 Sep 2026 23:50:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260927235041</guid>
   </item>
 </channel>
 </rss>
