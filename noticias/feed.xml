@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 08 Oct 2026 01:53:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 02:18:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Trasladan a dominicana a centro de detención migratoria en Panamá por presunta vinculación con delitos de drogas]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261008021805</link>
+    <description><![CDATA[El Servicio Nacional de Migración de Panamá informó sobre el traslado de una ciudadana dominicana desde su sede regional de Los Santos hacia el Centro de Detención Administrativo Migratorio Femenino, luego de que una verificación en el sistema reflejara su presunta vinculación con delitos relacionados con drogas.
+
+La institución explicó que la mujer fue remitida al centro para realizar los trámites migratorios correspondientes.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791425774/noticias/articles/20261008_021614_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 08 Oct 2026 02:18:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261008021805</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Autoridades confirman 42 prófugos se han entregado en los primeros 6 días de octubre]]></title>
     <link>https://n.com.do/2026/10/07/autoridades-confirman-42-profugos-se-han-entregado-en-los-primeros-6-dias-de-octubre/</link>
     <description><![CDATA[Entre el 1 y el 6 de octubre de 2026, 42 prófugos se entregaron voluntariamente a las autoridades. Estas acciones son parte de los esfuerzos de la Policía Nacional para localizar a personas requeridas por la justicia.
@@ -1421,19 +1432,6 @@ Estas medidas están alineadas con las políticas de la administración del pres
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790382365/noticias/articles/20260926_002604_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 26 Sep 2026 00:26:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260926002631</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Haití lleva a la ONU su petición para reforzar las tropas antibandas y frenar el tráfico de armas]]></title>
-    <link>https://m.n.com.do/2026/09/25/haiti-lleva-a-la-onu-su-peticion-para-reforzar-las-tropas-antibandas-y-frenar-el-trafico-de-armas/</link>
-    <description><![CDATA[El primer ministro de Haití, Alix Didier Fils-Aimé, llevó a la Asamblea General de la ONU su petición para reforzar las tropas internacionales en su país y combatir el tráfico de armas. Solicitó la renovación del mandato de la Fuerza de Supresión de Pandillas (GSF).
-
-Agradeció a los países que han contribuido a la GSF, incluyendo a República Dominicana, y destacó la importancia de acabar con el tráfico ilícito de armas que alimenta la inseguridad en la región.
-
-Fils-Aimé también hizo un llamado a respetar los derechos de los migrantes, afirmando que la protección de fronteras y la dignidad humana deben ir de la mano.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790382151/noticias/articles/20260926_002230_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 26 Sep 2026 00:23:06 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260926002306</guid>
   </item>
 </channel>
 </rss>
