@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 08 Oct 2026 02:18:05 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 02:30:28 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Puerto Plata recibe el primer crucero de Disney que llega a República Dominicana]]></title>
+    <link>https://www.diariolibre.com/economia/turismo/2026/10/06/republica-dominicana-recibe-a-disney-cruise-line-en-puerto-plata/3680971</link>
+    <description><![CDATA[República Dominicana ha recibido por primera vez un crucero de Disney Cruise Line. El Disney Dream llegó a la terminal Taino Bay en Puerto Plata con 3,194 pasajeros y 1,467 tripulantes, marcando la primera escala de un barco de Disney en el país.
+
+La llegada fue celebrada por autoridades del Ministerio de Turismo y Portuaria, junto a representantes de ITM Group, con un intercambio de placas y llaves. Este evento coincidió con la presencia de los cruceros Norwegian Prima y Carnival Mardi Gras, movilizando en total 17,491 personas.
+
+La presencia de Disney Cruise Line continuará este mes con la llegada del Disney Destiny el 22 de octubre.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791426586/noticias/articles/20261008_022946_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 08 Oct 2026 02:30:28 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261008023028</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Trasladan a dominicana a centro de detención migratoria en Panamá por presunta vinculación con delitos de drogas]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261008021805</link>
     <description><![CDATA[El Servicio Nacional de Migración de Panamá informó sobre el traslado de una ciudadana dominicana desde su sede regional de Los Santos hacia el Centro de Detención Administrativo Migratorio Femenino, luego de que una verificación en el sistema reflejara su presunta vinculación con delitos relacionados con drogas.
@@ -1419,19 +1432,6 @@ La tesis está contenida en la solicitud de medida de coerción presentada contr
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790382712/noticias/articles/20260926_003152_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 26 Sep 2026 00:32:23 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260926003223</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Embajadora de EE.UU. en RD advierte sobre consecuencias a quienes promuevan turismo de nacimiento]]></title>
-    <link>https://hoy.com.do/el-pais/embajadora-ee-uu-rd-advierte-sobre-consecuencias-quienes-promuevan-turismo-nacimiento_1103601_amp.html</link>
-    <description><![CDATA[La embajadora de Estados Unidos en República Dominicana, Leah Francis Campos, ha emitido una advertencia sobre el "turismo de nacimiento". Estados Unidos tomará medidas contra quienes utilicen mecanismos fraudulentos para obtener la ciudadanía estadounidense para niños nacidos en su territorio.
-
-Campos destacó que la ciudadanía estadounidense es un privilegio y no debe convertirse en un negocio. Las acciones también se dirigirán contra intermediarios y proveedores médicos involucrados en estas prácticas.
-
-Estas medidas están alineadas con las políticas de la administración del presidente Donald J. Trump y el secretario de Estado Marco Rubio.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790382365/noticias/articles/20260926_002604_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 26 Sep 2026 00:26:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260926002631</guid>
   </item>
 </channel>
 </rss>
