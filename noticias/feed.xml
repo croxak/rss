@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 08 Oct 2026 01:24:14 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 01:26:30 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[MIREX lleva a Rusia casos de 20 dominicanos vinculados a la guerra]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/10/07/mirex-lleva-a-rusia-casos-de-20-dominicanos-por-guerra-2137984/</link>
+    <description><![CDATA[El Ministerio de Relaciones Exteriores de República Dominicana ha trasladado a las autoridades rusas los casos de 20 dominicanos que, según denuncias de sus familiares, viajaron a Rusia tras recibir ofertas laborales engañosas y fueron vinculados al conflicto con Ucrania.
+
+La entrega de los expedientes se realizó en una reunión entre funcionarios dominicanos y el embajador de Rusia en el país. El MIREX había advertido sobre estas ofertas laborales y mantiene canales de asistencia para los dominicanos en riesgo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791422764/noticias/articles/20261008_012603_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 08 Oct 2026 01:26:30 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261008012630</guid>
+  </item>
+
+  <item>
     <title><![CDATA[NYPD: exnovio de Nathaly Ramírez fue a reconciliarse con ella, pero la tiró del piso 15 en El Bronx]]></title>
     <link>https://www.diariolibre.com/usa/actualidad/2026/10/07/expareja-de-nathaly-ramirez-intento-reconciliarse-antes-de-empujarla/3681841</link>
     <description><![CDATA[La Policía de Nueva York está en la búsqueda de Ángel Carrasco, un hombre dominicano de 31 años, acusado de empujar a su expareja Nathaly Ramírez desde un balcón en El Bronx. Ramírez, de 23 años, falleció y su bebé de ocho meses resultó gravemente herida.
@@ -1409,19 +1420,6 @@ Este hecho se produce en medio de una serie de fallecimientos en alegados interc
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790372717/noticias/articles/20260925_214517_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 25 Sep 2026 21:46:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260925214640</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía Nacional reporta siete muertos durante intercambios de disparos en distintos puntos del país]]></title>
-    <link>https://eldia.com.do/policia-nacional-reporta-siete-muertos-durante-intercambios-de-disparos-en-distintos-puntos-del-pais/</link>
-    <description><![CDATA[La Policía Nacional informó sobre la muerte de siete presuntos delincuentes en intercambios de disparos con agentes en diferentes puntos del país en menos de 24 horas. Los fallecidos tenían órdenes de arresto y múltiples denuncias en su contra.
-
-Los incidentes ocurrieron en Los Alcarrizos, Cabral, Gaspar Hernández, Santo Domingo Este y Oeste. Entre los fallecidos se encuentran Gabriel Luis Montero, Domingo Santiago Valdez, José Daniel De La Cruz Valdez, Carlos Julio Feliz Sena, Ricardo Polanco García, Genny Santos Franco Jimenez y José Manuel San Luis.
-
-El vocero de la Policía, Diego Pesqueira, aseguró que la institución sigue los protocolos para el uso proporcional de la fuerza y que los detalles de cada caso están bajo verificación.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790372253/noticias/articles/20260925_213733_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 25 Sep 2026 21:38:23 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260925213823</guid>
   </item>
 </channel>
 </rss>
