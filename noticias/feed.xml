@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 08 Oct 2026 15:28:40 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 08 Oct 2026 16:52:43 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Nicolás Maduro y Cilia Flores, acusados en EE UU de nuevos cargos de tortura y represión]]></title>
+    <link>https://elpais.com/us/2026-10-08/nicolas-maduro-y-cilia-flores-son-acusados-en-ee-uu-de-nuevos-cargos-de-tortura-y-represion.html</link>
+    <description><![CDATA[Nicolás Maduro y su esposa, Cilia Flores, han sido acusados de nuevos cargos de tortura y represión en Estados Unidos. Estas acusaciones se suman a las de narcoterrorismo que ya enfrentaban en Nueva York.
+
+La Fiscalía de EE. UU. sostiene que Maduro y Flores crearon un sistema de represión en Venezuela entre 1999 y 2025, afectando a miles de venezolanos y ciudadanos estadounidenses. Flores solicitó arresto domiciliario por razones de salud, pero fue denegado.
+
+Testimonios de ex oficiales del régimen de Maduro, identificados como “CC-1”, “CC-2” y “CC-3”, respaldan las acusaciones. Estos ex oficiales confesaron haber participado en torturas y amenazas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791478331/noticias/articles/20261008_165210_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 08 Oct 2026 16:52:43 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261008165243</guid>
+  </item>
+
+  <item>
     <title><![CDATA[ONU identifica municiones fabricadas en República Dominicana en los años 50 en poder de la pandilla haitiana 400 Mawozo]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261008152840</link>
     <description><![CDATA[Un informe del Grupo de Expertos de las Naciones Unidas sobre Haití reveló que la organización criminal 400 Mawozo, una de las principales pandillas armadas de ese país, posee municiones de calibre .50 fabricadas en República Dominicana durante la década de 1950.
@@ -1447,17 +1460,6 @@ Cedeño enfatizó que la preocupación por el costo de los combustibles no deber
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790458701/noticias/articles/20260926_213821_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 26 Sep 2026 21:39:35 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20260926213935</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Cuba dice en la ONU que "está abierta a relaciones comerciales y de negocios con compañías" de EEUU]]></title>
-    <link>https://eldia.com.do/cuba-dice-en-la-onu-que-esta-abierta-a-relaciones-comerciales-y-de-negocios-con-companias-de-eeuu/</link>
-    <description><![CDATA[El canciller de Cuba, Bruno Rodríguez, declaró en la Asamblea General de la ONU que Cuba está abierta a relaciones comerciales con compañías estadounidenses. La Habana está dispuesta al diálogo con Washington, siempre que se respete la soberanía y no haya injerencia en asuntos internos.
-
-Rodríguez criticó la "hostilidad permanente" de EE.UU. bajo la administración de Donald Trump, mencionando un bloqueo energético que ha intensificado la crisis en Cuba. También denunció presiones de EE.UU. a otros países para que renuncien a la cooperación médica cubana.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790455551/noticias/articles/20260926_204550_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 26 Sep 2026 20:46:22 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20260926204622</guid>
   </item>
 </channel>
 </rss>
