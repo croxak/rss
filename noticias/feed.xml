@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 09 Oct 2026 15:49:09 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 15:53:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Trump impone sanciones a la Corte Penal Internacional como parte de su ofensiva para desmantelar el tribunal]]></title>
+    <link>https://www.eldiario.es/internacional/trump-impone-sanciones-corte-penal-internacional-parte-ofensiva-desmantelar-tribunal_1_13576041.html</link>
+    <description><![CDATA[La Administración Trump ha impuesto sanciones a la Corte Penal Internacional (CPI) como parte de su campaña para desmantelar el tribunal. Según Estados Unidos, la CPI se ha politizado y ha intentado juzgar injustamente a estadounidenses e israelíes por delitos de guerra.
+
+El secretario de Estado, Marco Rubio, anunció las sanciones, que bloquean activos de la CPI en jurisdicciones estadounidenses y prohíben transacciones con el tribunal. Rubio afirmó que tanto republicanos como demócratas tienen reservas sobre la CPI, pero solo Trump ha tomado medidas.
+
+Israel, a través de su primer ministro Benjamín Netanyahu, aplaudió la decisión. La Unión Europea lamentó las sanciones y expresó su apoyo a la CPI. La CPI respondió que las sanciones son un intento de obstruir la justicia y afirmó que continuará su labor.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791561154/noticias/articles/20261009_155234_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 09 Oct 2026 15:53:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261009155315</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Dictan un año de prisión preventiva contra acusado de matar a adolescente en Navarrete]]></title>
     <link>https://www.diariolibre.com/actualidad/justicia/2026/10/09/prision-preventiva-para-imputado-de-matar-adolescente-en-navarrete/3682779</link>
     <description><![CDATA[La Oficina Judicial de Atención Permanente de Santiago impuso un año de prisión preventiva a Edwin Reynaldo Rodríguez Cruz, acusado de violar y matar a una adolescente de 13 años en Navarrete. También enfrenta cargos por agredir a otra adolescente de 14 años.
@@ -1443,21 +1456,6 @@ Los cargos incluyen obtención ilegal de beneficios SNAP, uso falso de un númer
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790917299/noticias/articles/20261002_050138_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 02 Oct 2026 05:02:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261002050206</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Condenan en Canadá a traficante que se proclamó “rey de los dominicanos” tras mostrar a la Policía que gastó 13 mil dólares en una discoteca]]></title>
-    <link>https://eltestigo.com</link>
-    <description><![CDATA[Adriel Demorizi, de 25 años, fue condenado este jueves 1 de octubre a cuatro años de prisión en Montreal, Canadá, tras declararse culpable de posesión de drogas con fines de tráfico, informó el diario La Presse.
-
-Demorizi fue arrestado en abril de 2025 durante una investigación dirigida inicialmente contra Steve Ribeiro, cuyo proceso continúa pendiente. Tenía 16 kilos de cocaína y la llave de un apartamento donde las autoridades encontraron otros seis kilos y miles de pastillas de metanfetamina.
-
-La pena fue propuesta conjuntamente por la defensa y la Fiscalía.
-
-Según un informe policial citado por el periódico, Demorizi se presentó ante agentes en septiembre de 2022 como el “rey de los dominicanos”, exhibió billetes de 100 dólares y mostró una factura de 13,000 dólares por una noche en una discoteca.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790915497/noticias/articles/20261002_043137_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 02 Oct 2026 04:32:08 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261002043208</guid>
   </item>
 </channel>
 </rss>
