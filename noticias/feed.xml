@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 09 Oct 2026 04:19:29 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 13:51:51 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[RD asciende al Nivel 2 en informe de Estados Unidos sobre acciones contra la trata de personas]]></title>
+    <link>https://n.com.do/2026/10/08/rd-asciende-al-nivel-2-en-informe-de-estados-unidos-sobre-acciones-contra-la-trata-de-personas/</link>
+    <description><![CDATA[La República Dominicana ha avanzado al Nivel 2 en el informe de Estados Unidos sobre la trata de personas. Se modificó la Ley 137-03 para proteger a menores y se aprobó el Plan Nacional de Acción contra la Trata de Personas 2025-2028.
+
+El país inició 229 investigaciones y procesó a 50 sospechosos. Se investigaron ocho funcionarios y se abrieron procesos contra tres. El Ministerio de Trabajo realizó 1,050 inspecciones y suspendió 11 empresas.
+
+Se formalizaron más de 7,400 trabajadores y se identificaron 136 víctimas, de las cuales 134 recibieron atención integral.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791553877/noticias/articles/20261009_135116_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 09 Oct 2026 13:51:51 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261009135151</guid>
+  </item>
+
+  <item>
     <title><![CDATA[SpaceX adquiere espectro de banda baja para convertir a Starlink en operador móvil en Estados Unidos]]></title>
     <link>https://www.bloomberglinea.com/negocios/spacex-adquiere-espectro-de-banda-baja-para-convertir-a-starlink-en-operador-movil/</link>
     <description><![CDATA[SpaceX, liderada por Elon Musk, ha dado un paso significativo al adquirir espectro de banda baja, lo que permitirá a sus satélites Starlink convertirse en un operador de telefonía móvil en Estados Unidos. Esta noticia ha impactado en el mercado, provocando una caída en las acciones de AT&T, T-Mobile y Verizon.
@@ -1461,17 +1474,6 @@ Jovenel Moïse fue asesinado el 7 de julio de 2021 en su residencia. Su esposa s
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790866888/noticias/articles/20261001_150128_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 01 Oct 2026 15:02:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261001150203</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía detiene a ciudadano alemán y ocupa fusil, pistola y más de 34 mil dólares en Juan Dolio]]></title>
-    <link>https://elnacional.com.do/nacionales/policiales/policia-detiene-ciudadano-aleman-ocupa-fusil-pistola-34-mil-dolares-juan-dolio_582292.html</link>
-    <description><![CDATA[La Policía realizó un allanamiento en un complejo residencial en Juan Dolio, donde detuvo al ciudadano alemán Nicola David Kahle. Durante el operativo, se ocuparon un fusil de asalto, una pistola Glock, 141 municiones y 34,200 dólares en efectivo.
-
-Las autoridades han puesto al detenido y las evidencias a disposición del Ministerio Público, mientras continúan las investigaciones para determinar la procedencia del armamento, las municiones y el dinero.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790863539/noticias/articles/20261001_140538_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 01 Oct 2026 14:06:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261001140619</guid>
   </item>
 </channel>
 </rss>
