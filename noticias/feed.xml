@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 09 Oct 2026 21:48:58 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 21:58:13 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Gobierno sube RD$5 a la gasolina premium y RD$12 al gasoil óptimo]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261009215813</link>
+    <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes (MICM) informó este viernes que el aumento de RD$5.00 por galón a la gasolina premium y RD$12.00 al gasoil óptimo para la semana del 10 al 16 de octubre de 2026, debido a las alzas registradas en los precios internacionales de los combustibles refinados.
+
+Con el reajuste, la gasolina premium se venderá a RD$358.10 por galón, mientras que el gasoil óptimo costará RD$318.10.
+
+En tanto, el Gobierno mantendrá sin variación los precios de la gasolina regular, el gasoil regular, el gas licuado de petróleo (GLP) y el gas natural, como parte de las medidas para evitar que las alzas internacionales se trasladen por completo a los consumidores.
+
+Para contener estas variaciones, el Gobierno destinará RD$1,525.4 millones en subsidios durante la semana. Según el MICM, la medida busca proteger la economía de los hogares y los sectores que dependen de estos combustibles.
+
+El ministerio explicó que los precios internacionales de los productos refinados se mantienen elevados debido a una reducción en la producción de las principales refinerías que abastecen a la República Dominicana. Esta situación ha provocado que los costos de algunos derivados, especialmente el gasoil óptimo, se mantengan en niveles que no guardan proporción con el precio del barril de petróleo crudo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791583059/noticias/articles/20261009_215739_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 09 Oct 2026 21:58:13 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261009215813</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía de Haití dice que misionero de EEUU fue detenido tras acusaciones de abuso en orfanato]]></title>
     <link>https://es-us.noticias.yahoo.com/policía-haití-misionero-eeuu-detenido-193127701.html</link>
     <description><![CDATA[La policía de Haití detuvo a Thomas Osbeck, un misionero estadounidense, por denuncias de abuso infantil y por dirigir un orfanato ilegal en Cabo Haitiano. Las autoridades encontraron al menos a 12 menores en el lugar.
@@ -1419,19 +1436,6 @@ El senador Cristóbal Castillo ha presentado un proyecto de ley para establecer 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790969739/noticias/articles/20261002_193538_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 02 Oct 2026 19:36:53 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261002193653</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Lanzan “iQ AI Ready” para impulsar soluciones de IA de clase mundial en la región]]></title>
-    <link>https://n.com.do/2026/10/02/lanzan-iq-ai-ready-para-impulsar-soluciones-de-ia-de-clase-mundial-en-la-region/</link>
-    <description><![CDATA[iQtek y la empresa canadiense Maverin han firmado un acuerdo para desarrollar soluciones tecnológicas basadas en inteligencia artificial. Esta alianza busca acelerar la transformación digital de las organizaciones.
-
-Como parte de este acuerdo, iQtek lanza iQ AI Ready, una nueva línea de negocio enfocada en soluciones de IA. La propuesta incluye consultoría, desarrollo de software e infraestructura para inteligencia artificial.
-
-Los servicios estarán disponibles en República Dominicana, Centroamérica, el Caribe, México, Estados Unidos y Canadá, fortaleciendo la presencia de ambas compañías en la región.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790969345/noticias/articles/20261002_192905_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 02 Oct 2026 19:32:27 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261002193227</guid>
   </item>
 </channel>
 </rss>
