@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 09 Oct 2026 16:59:26 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 17:42:39 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Starlink obtiene la autorización legal para operar en Venezuela]]></title>
+    <link>https://www.swissinfo.ch/spa/starlink-obtiene-la-autorización-legal-para-operar-en-venezuela/92194109</link>
+    <description><![CDATA[La Comisión Nacional de Telecomunicaciones de Venezuela (Conatel) ha otorgado siete concesiones a SpaceX VZ S.C.A, filial de SpaceX, para operar el servicio Starlink en Venezuela. Esta autorización permite la prestación del servicio de internet satelital en todo el país.
+
+La medida sigue a la cooperación tras el terremoto del 24 de junio, que afectó las infraestructuras de telecomunicaciones en La Guaira. Starlink había recibido permisos temporales para pruebas de tecnología y distribuyó más de 1.600 kits de conectividad en las zonas afectadas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791567731/noticias/articles/20261009_174211_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 09 Oct 2026 17:42:39 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261009174239</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Dominicano fue baleado por agentes de ICE mientras iba en el asiento trasero de un vehículo junto a un niño de 5 años, afirma alcalde de NY]]></title>
     <link>https://eldia.com.do/dominicano-recibio-disparo-mientras-iba-en-el-asiento-trasero-de-un-vehiculo-junto-a-un-nino-afirma-alcalde-de-ny/</link>
     <description><![CDATA[Un ciudadano dominicano fue herido por un disparo de un agente del ICE en Nueva York. El incidente ocurrió mientras el hombre estaba en un vehículo con un niño de cinco años. Fue trasladado al hospital, donde permanece consciente.
@@ -1439,19 +1450,6 @@ Durante el allanamiento, se ocuparon documentos, vehículos, equipos informátic
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790948131/noticias/articles/20261002_133531_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 02 Oct 2026 13:35:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261002133557</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Conocerán coerción a dueño juego mecánico por muerte de niña]]></title>
-    <link>https://ntelemicro.com/conoceran-coercion-a-dueno-juego-mecanico-por-muerte-de-nina/</link>
-    <description><![CDATA[La Oficina Judicial de Servicios de Atención Permanente de Hato Mayor conocerá este viernes la medida de coerción contra Simón María Estévez Ramos, relacionado con la muerte de una niña de 11 años tras caer de un juego mecánico.
-
-La audiencia está programada para las 9:00 de la mañana. El proceso está registrado bajo el expediente número 2026-0342271 y el artículo 112 del Código Penal Dominicano, Ley 74-2025.
-
-El abogado José Luis Rivera Santana explicó que el aplazamiento fue solicitado para que el imputado prepare su presupuesto, un pedimento de ley acogido por el juez.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790947987/noticias/articles/20261002_133306_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 02 Oct 2026 13:33:36 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261002133336</guid>
   </item>
 </channel>
 </rss>
