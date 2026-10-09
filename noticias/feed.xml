@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 09 Oct 2026 14:23:10 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 14:28:25 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[La jueza sudafricana Navi Pillay gana el Premio Nobel de la Paz; bromea con compartirlo con Trump]]></title>
+    <link>https://listindiario.com/las-mundiales/20261009/jueza-sudafricana-navi-pillay-gana-premio-nobel-paz_925472.html</link>
+    <description><![CDATA[La jueza sudafricana Navi Pillay ha sido galardonada con el Premio Nobel de la Paz por su labor en defensa del derecho internacional. Pillay, conocida por su trabajo en casos de derechos humanos desde el apartheid en Sudáfrica hasta el Tribunal Penal Internacional para Ruanda, bromeó con compartir el premio con Donald Trump.
+
+El Comité Nobel Noruego destacó su papel en la promoción de la paz y el derecho internacional, subrayando la importancia de perseguir crímenes de guerra y genocidio. El premio será entregado en Oslo el 10 de diciembre.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791556080/noticias/articles/20261009_142759_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 09 Oct 2026 14:28:25 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261009142825</guid>
+  </item>
+
+  <item>
     <title><![CDATA[CNM celebra última vista pública para elegir nuevos jueces de la Suprema Corte de Justicia]]></title>
     <link>https://hoy.com.do/el-pais/cnm-celebra-ultima-vista-publica-elegir-nuevos-jueces-suprema-corte-justicia_1105015.html</link>
     <description><![CDATA[El Consejo Nacional de la Magistratura celebra la última vista pública para elegir nuevos jueces de la Suprema Corte de Justicia. Este evento es parte del proceso de evaluación de los aspirantes a ocupar una de las seis vacantes disponibles.
@@ -1451,17 +1462,6 @@ Fuente: El Dia - Teresa Casado]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790893990/noticias/articles/20261001_223310_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 01 Oct 2026 22:33:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261001223358</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader a las personas que tienen muchas fichas con órdenes de arresto: “Lo mejor es que se entreguen, porque los están buscando”]]></title>
-    <link>https://n.com.do/2026/10/01/abinader-a-las-personas-que-tienen-muchas-fichas-lo-mejor-es-que-se-entreguen-porque-los-estan-buscando/</link>
-    <description><![CDATA[El presidente Luis Abinader reiteró su llamado a las personas con órdenes de arresto a entregarse, asegurando que las autoridades están trabajando en su localización. Durante la inauguración de la Escuela Primaria Ana Josefa Puello, Abinader subrayó el compromiso del Gobierno con la seguridad.
-
-El mandatario destacó el respaldo ciudadano a las acciones de la Policía Nacional y anunció la incorporación de tecnología y más agentes para fortalecer la seguridad. Este viernes, Abinader se trasladará a La Altagracia para expandir el modelo de patrullaje por cuadrantes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790886508/noticias/articles/20261001_202828_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 01 Oct 2026 20:29:38 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261001202938</guid>
   </item>
 </channel>
 </rss>
