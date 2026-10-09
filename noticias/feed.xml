@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 09 Oct 2026 21:58:13 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 22:21:16 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Trump anuncia que Rusia suministrará más de 300.000 toneladas de diésel al mercado global y de EEUU]]></title>
+    <link>https://www.europapress.es/internacional/noticia-trump-anuncia-rusia-suministrara-inmediatamente-mas-300000-toneladas-diesel-mercado-global-eeuu-20261009210623.html</link>
+    <description><![CDATA[Donald Trump ha anunciado un acuerdo con Vladimir Putin para que Rusia suministre más de 300,000 toneladas de diésel al mercado estadounidense y global. El acuerdo prevé el suministro de 500,000 toneladas adicionales en noviembre y un millón de toneladas más inmediatamente después.
+
+Trump espera que Rusia entregue tres millones de toneladas de diésel en un corto período de tiempo, lo que ayudaría a reducir los precios del diésel para los estadounidenses. Putin ha confirmado el acuerdo y su disposición a suministrar petróleo y productos petrolíferos a los mercados estadounidense y mundial.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791584396/noticias/articles/20261009_221956_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 09 Oct 2026 22:21:16 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261009222116</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno sube RD$5 a la gasolina premium y RD$12 al gasoil óptimo]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261009215813</link>
     <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes (MICM) informó este viernes que el aumento de RD$5.00 por galón a la gasolina premium y RD$12.00 al gasoil óptimo para la semana del 10 al 16 de octubre de 2026, debido a las alzas registradas en los precios internacionales de los combustibles refinados.
@@ -1423,19 +1434,6 @@ Las solicitudes estarán sujetas a un proceso de evaluación riguroso para garan
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790969833/noticias/articles/20261002_193713_article.webp" type="image/webp"/>
     <pubDate>Fri, 02 Oct 2026 19:38:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261002193800</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Garantía de RD$1 millón a empresario tras muerte de niña en juego mecánico en Hato Mayoy]]></title>
-    <link>https://elnuevodiario.com.do/garantia-de-rd1-millon-a-empresario-tras-muerte-de-nina-en-juego-mecanico-en-hato-mayoy/</link>
-    <description><![CDATA[La Oficina de Servicios de Atención Permanente de Hato Mayor ha impuesto una garantía económica de RD$1 millón al empresario Simón María Estévez Ramos, tras el accidente en un juego mecánico que resultó en la muerte de una niña de 11 años durante las fiestas patronales de Hato Mayor.
-
-El accidente ocurrió el 18 de septiembre en el juego "La Estrellita", donde varias menores resultaron afectadas. Liangie Ramírez Reyes falleció tras sufrir un trauma craneal severo. El Ministerio Público investiga el caso y ha clausurado las instalaciones.
-
-El senador Cristóbal Castillo ha presentado un proyecto de ley para establecer inspecciones técnicas obligatorias en juegos mecánicos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790969739/noticias/articles/20261002_193538_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 02 Oct 2026 19:36:53 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261002193653</guid>
   </item>
 </channel>
 </rss>
