@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 09 Oct 2026 16:55:21 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 16:59:26 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Dominicano fue baleado por agentes de ICE mientras iba en el asiento trasero de un vehículo junto a un niño de 5 años, afirma alcalde de NY]]></title>
+    <link>https://eldia.com.do/dominicano-recibio-disparo-mientras-iba-en-el-asiento-trasero-de-un-vehiculo-junto-a-un-nino-afirma-alcalde-de-ny/</link>
+    <description><![CDATA[Un ciudadano dominicano fue herido por un disparo de un agente del ICE en Nueva York. El incidente ocurrió mientras el hombre estaba en un vehículo con un niño de cinco años. Fue trasladado al hospital, donde permanece consciente.
+
+El alcalde de Nueva York, Zohran Mamdani, y la gobernadora Kathy Hochul han exigido explicaciones a las autoridades federales. La comunidad se ha manifestado en protesta por el tiroteo, bloqueando una intersección cerca del hospital.
+
+El FBI y la Oficina de Investigaciones de Seguridad Nacional están investigando el incidente.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791565112/noticias/articles/20261009_165832_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 09 Oct 2026 16:59:26 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261009165926</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Se viraliza publicación del PRSC con polémica frase atribuida a Joaquín Balaguer sobre el vudú y la migración haitiana]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261009165521</link>
     <description><![CDATA[Una publicación realizada este jueves 8 de octubre por la cuenta del Partido Reformista Social Cristiano (PRSC) en la red social X comenzó a circular ampliamente tras compartir una frase atribuida al expresidente Joaquín Balaguer, relacionada con la presencia haitiana en República Dominicana.
@@ -1439,17 +1452,6 @@ El abogado José Luis Rivera Santana explicó que el aplazamiento fue solicitado
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790947987/noticias/articles/20261002_133306_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 02 Oct 2026 13:33:36 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261002133336</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Continúa este viernes el juicio de fondo contra los hermanos Espaillat por colapso del Jet Set]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/10/02/juicio-por-colapso-del-jet-set-continua-este-viernes-2133474/</link>
-    <description><![CDATA[Este viernes sigue el juicio de fondo contra los hermanos Espaillat en el Palacio de Justicia de Ciudad Nueva. El caso está relacionado con el colapso de la discoteca Jet Set, que ocurrió el 8 de abril de 2025 durante una presentación del merenguero Rubby Pérez.
-
-El desplome resultó en 236 personas fallecidas y 180 heridas. Hoy se espera la presentación de testigos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790947836/noticias/articles/20261002_133036_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 02 Oct 2026 13:31:02 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261002133102</guid>
   </item>
 </channel>
 </rss>
