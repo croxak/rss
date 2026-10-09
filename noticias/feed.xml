@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 09 Oct 2026 17:46:45 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 19:39:03 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Un terremoto de magnitud 7,7 sacude Panamá y activa la alerta por tsunami en varios puntos del Pacífico]]></title>
+    <link>https://www.elmundo.es/internacional/2026/10/09/6ac9343cfc6c83cf3e8b45be.html</link>
+    <description><![CDATA[Un terremoto de magnitud 7,7 sacudió el sureste de Panamá, con epicentro a 12 kilómetros de Tonosí y a 239 kilómetros de la capital. El movimiento ocurrió a las 12:56 horas (hora local) y fue actualizado por el USGS. Se emitió una alerta de tsunami en Chile y en varios puntos del Pacífico.
+
+En la capital panameña, el temblor se sintió con fuerza, provocando el desalojo preventivo de varios edificios en la antigua área bancaria.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791574688/noticias/articles/20261009_193808_article.webp" type="image/webp"/>
+    <pubDate>Fri, 09 Oct 2026 19:39:03 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261009193903</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Juez decidirá el próximo viernes decisión si cambia la calificación jurídica a homicidio voluntario contra los hermanos Espaillat por el caso Jet Set]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261009174645</link>
     <description><![CDATA[El juez Franny González, de la Cuarta Sala Penal del Distrito Nacional, manifestó que decidirá el próximo viernes 16 de octubre si acoge o rechaza la solicitud de variación y ampliación de la calificación jurídica contra Antonio y Maribel Espaillat, imputados por el desplome del techo de la discoteca Jet Set.
@@ -1437,19 +1448,6 @@ En el caso de Isidor, la vía inicial corresponde a Concacaf, organizadora de la
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790952944/noticias/articles/20261002_145544_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 02 Oct 2026 14:56:22 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261002145622</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Alianza PRM-PLD encabezada por Tito Hernández gana elecciones en la ANPA a FP]]></title>
-    <link>https://elnuevodiario.com.do/alianza-prm-pld-encabezada-por-tito-hernandez-gana-elecciones-en-la-anpa-a-fp/</link>
-    <description><![CDATA[La plancha Consenso y Unidad Gremial Agropecuaria, encabezada por Tito Hernández y apoyada por una alianza del PRM y el PLD, lidera las elecciones de la ANPA con el 63.7 % de los votos, según el primer boletín de la Comisión Nacional Electoral.
-
-La plancha Fuerza Agropecuaria, liderada por José Vásquez y vinculada a la Fuerza del Pueblo, obtuvo el 34.7 % de los votos. El cómputo final se anunciará el 1 de octubre.
-
-Tito Hernández propone una agenda centrada en pensiones, aumento salarial, reposición de profesionales cancelados y fortalecimiento de servicios gremiales para el período 2026-2029.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790948500/noticias/articles/20261002_134139_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 02 Oct 2026 13:42:21 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261002134221</guid>
   </item>
 </channel>
 </rss>
