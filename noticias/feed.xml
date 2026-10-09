@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 08 Oct 2026 23:44:06 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 03:28:27 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[El ICE identifica como dominicano a hombre herido de bala por un agente en Nueva York]]></title>
+    <link>https://eldia.com.do/el-ice-identifica-como-dominicano-a-hombre-herido-de-bala-por-un-agente-en-nueva-york/</link>
+    <description><![CDATA[El ICE identificó a un hombre herido de bala por un agente en Nueva York como dominicano. El incidente ocurrió durante una operación migratoria en un barrio entre el Bronx y Manhattan.
+
+El ICE justificó la acción debido a los antecedentes penales del individuo y sus vínculos con la banda Trinitarios. El hombre fue trasladado a un hospital y permanece con vida.
+
+La organización Make the Road New York exigió una investigación exhaustiva, señalando que el hombre estaba en su coche con un niño de cinco años cuando fue herido. El FBI y la Oficina de Investigaciones de Seguridad Nacional están investigando el caso.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791516463/noticias/articles/20261009_032743_article.webp" type="image/webp"/>
+    <pubDate>Fri, 09 Oct 2026 03:28:27 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261009032827</guid>
+  </item>
+
+  <item>
     <title><![CDATA[AIRD respalda la coordinación público-privada para fortalecer la lucha contra el comercio ilícito]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261008234406</link>
     <description><![CDATA[La Asociación de Industrias de la República Dominicana (AIRD) expresó su apoyo a los esfuerzos de las autoridades para prevenir y combatir el comercio ilícito, el contrabando y la falsificación de productos regulados, y destacó el aporte de la colaboración con el sector privado para fortalecer estas acciones.
@@ -1465,21 +1478,6 @@ La audiencia para la medida de coerción está fijada para el 1 de octubre.]]></
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790825772/noticias/articles/20261001_033612_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 01 Oct 2026 03:37:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261001033702</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno crea organismo para administrar los hogares de paso de menores]]></title>
-    <link>https://www.diariolibre.com/politica/congreso-nacional/2026/09/30/gobierno-crea-organismo-para-administrar-los-hogares-de-paso/3675138</link>
-    <description><![CDATA[El Gobierno dominicano ha establecido el Servicio Nacional de Atención Residencial (Señar) para mejorar el sistema de atención a menores bajo protección del Estado. Este organismo comenzará a operar el 1 de enero de 2027 y busca aumentar en un 30 % la capacidad de los hogares de paso y centros residenciales.
-
-El Señar estará adscrito al Ministerio de la Presidencia y gestionará los servicios de atención residencial para menores. El Consejo Nacional para la Niñez y la Adolescencia (Conani) mantendrá su función de supervisión técnica.
-
-La medida se toma tras incidentes en hogares de paso, incluyendo la muerte de una menor en mayo de 2024. El nuevo modelo atenderá a los menores según sus características y necesidades, coordinando con el Ministerio de Salud Pública y el Servicio Nacional de Salud.
-
-Se ha creado una Comisión de Transición e Implementación para coordinar el proceso hacia la nueva estructura.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790824941/noticias/articles/20261001_032221_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 01 Oct 2026 03:22:48 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261001032248</guid>
   </item>
 </channel>
 </rss>
