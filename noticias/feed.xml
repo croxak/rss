@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 09 Oct 2026 15:53:15 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 16:21:38 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[PN detiene a tres implicados en intento de asalto a joyería en Villa Juana]]></title>
+    <link>https://n.com.do/2026/10/09/pn-detiene-a-tres-implicados-en-intento-de-asalto-a-joyeria-en-villa-juana/</link>
+    <description><![CDATA[La Policía Nacional ha detenido a tres hombres implicados en un intento de asalto a una joyería en Villa Juana, Distrito Nacional. El hecho ocurrió el 7 de octubre y resultó en la herida de un segundo teniente retirado que frustró el asalto.
+
+Los detenidos son Shandde Moisés Amancio Arias, Ángel David de Jesús, alias «Escudero», y César Edwar Tejeda Carela, alias «Pelo Fino». Un cuarto sospechoso, Alinson Juander Cuello Pujols, alias «Piri», sigue prófugo.
+
+Las autoridades continúan investigando y han recibido una pistola Glock como parte de la evidencia.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791562853/noticias/articles/20261009_162053_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 09 Oct 2026 16:21:38 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261009162138</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Trump impone sanciones a la Corte Penal Internacional como parte de su ofensiva para desmantelar el tribunal]]></title>
     <link>https://www.eldiario.es/internacional/trump-impone-sanciones-corte-penal-internacional-parte-ofensiva-desmantelar-tribunal_1_13576041.html</link>
     <description><![CDATA[La Administración Trump ha impuesto sanciones a la Corte Penal Internacional (CPI) como parte de su campaña para desmantelar el tribunal. Según Estados Unidos, la CPI se ha politizado y ha intentado juzgar injustamente a estadounidenses e israelíes por delitos de guerra.
@@ -1437,25 +1450,6 @@ La investigación comenzó en septiembre de 2023 y sigue abierta, con cinco órd
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790947337/noticias/articles/20261002_132216_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 02 Oct 2026 13:22:48 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261002132248</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Acusan en EE. UU. a hombre señalado como dominicano de cobrar ayudas con la identidad de un fallecido]]></title>
-    <link>https://eltestigo.com</link>
-    <description><![CDATA[Un hombre residente en Worcester, Massachusetts, fue acusado formalmente por un gran jurado federal de utilizar la identidad de un estadounidense fallecido para obtener ayudas alimentarias, beneficios médicos y una identificación estatal, informó la Fiscalía federal el 1 de octubre.
-
-El imputado aparece como “John Doe”, una denominación utilizada cuando se desconoce la identidad real de una persona. En abril, las autoridades lo describieron como un presunto ciudadano dominicano de 57 años. Fue arrestado el 2 de abril y permanece bajo custodia federal.
-
-Según la acusación, desde al menos 2001 vivía en Massachusetts con la identidad de un ciudadano estadounidense de Puerto Rico que murió en 2006. Bajo ese nombre también registró condenas por agresión con un arma de fuego y tráfico de cocaína en septiembre de 2012.
-
-Tras salir de prisión en enero de 2022, habría utilizado la identidad ajena para solicitar beneficios del Programa de Asistencia Nutricional Suplementaria, conocido como SNAP. Entre abril de 2022 y febrero de 2026 presuntamente recibió unos US$12,623.
-
-La Fiscalía sostiene que un empleado dejó una anotación que aparentemente advertía que el número de Seguro Social correspondía a una persona fallecida. Pese a ello, la solicitud fue aprobada. También se le atribuye haber obtenido beneficios del programa de salud MassHealth.
-
-Los cargos incluyen obtención ilegal de beneficios SNAP, uso falso de un número de Seguro Social, declaraciones falsas relacionadas con atención médica y robo agravado de identidad.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790917299/noticias/articles/20261002_050138_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 02 Oct 2026 05:02:06 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261002050206</guid>
   </item>
 </channel>
 </rss>
