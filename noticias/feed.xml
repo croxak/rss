@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 09 Oct 2026 14:31:28 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 14:34:28 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Alias «Chuky», buscado por tentativa de homicidio, muere en presunto enfrentamiento con la Policía en Bonao]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/09/muere-hombre-buscado-por-tentativa-de-homicidio-en-bonao/3682722</link>
+    <description><![CDATA[Carlos Alfredo Sánchez Robles, conocido como Chucky y/o Jeison Mano Negra, murió en un presunto enfrentamiento con la Policía Nacional en Bonao. Era buscado por tentativa de homicidio y otros delitos.
+
+El hecho ocurrió en el sector Fumanchú, y Sánchez Robles tenía una orden de arresto vigente desde el 7 de octubre de 2026. Su cuerpo fue llevado al Inacif en Santiago para los procedimientos legales.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791556388/noticias/articles/20261009_143308_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 09 Oct 2026 14:34:28 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261009143428</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Hallan osamenta humana cerca de la Circunvalación Norte de Santiago]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/09/hallan-osamenta-humana-en-la-cienaga-al-norte-de-santiago/3682735</link>
     <description><![CDATA[Una osamenta humana fue hallada la tarde del jueves en las proximidades de la comunidad La Playita, en La Ciénega, al norte de Santiago. Los restos se encontraron cerca del puente de la avenida Circunvalación Norte.
@@ -1447,19 +1458,6 @@ Según un informe policial citado por el periódico, Demorizi se presentó ante 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790915364/noticias/articles/20261002_042923_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 02 Oct 2026 04:29:59 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261002042959</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Tribunal condena a 30 años de cárcel a militar que mató a un médico en Santiago]]></title>
-    <link>https://eldia.com.do/tribunal-condena-a-30-anos-de-carcel-a-militar-que-mato-a-un-medico-en-santiago/</link>
-    <description><![CDATA[El Cuarto Tribunal Colegiado de Santiago condenó a 30 años de prisión a Víctor Manuel Saldaña Hernández, cabo de la Armada Dominicana, por el asesinato del médico Enrique Antonio Espinal Castillo en 2024.
-
-El tribunal, compuesto por los magistrados Rubén Darío Cruz Uceta, Rubén Rodríguez y Jasmín de los Santos, también ordenó el pago de cuatro millones de pesos por parte del acusado.
-
-La fiscal Jenniffer Rodríguez presentó pruebas que incluyeron imágenes del Sistema 9-1-1, demostrando la responsabilidad de Saldaña Hernández. El cuerpo de Espinal Castillo fue encontrado en Sabana Grande de Palenque.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790913978/noticias/articles/20261002_040617_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 02 Oct 2026 04:07:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261002040700</guid>
   </item>
 </channel>
 </rss>
