@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 09 Oct 2026 21:40:49 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 09 Oct 2026 21:48:58 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Policía de Haití dice que misionero de EEUU fue detenido tras acusaciones de abuso en orfanato]]></title>
+    <link>https://es-us.noticias.yahoo.com/policía-haití-misionero-eeuu-detenido-193127701.html</link>
+    <description><![CDATA[La policía de Haití detuvo a Thomas Osbeck, un misionero estadounidense, por denuncias de abuso infantil y por dirigir un orfanato ilegal en Cabo Haitiano. Las autoridades encontraron al menos a 12 menores en el lugar.
+
+Se espera que Osbeck sea extraditado a Estados Unidos. No se ha confirmado si cuenta con representación legal.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791582516/noticias/articles/20261009_214836_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 09 Oct 2026 21:48:58 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261009214858</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Extraditan a dos dominicanos a EEUU con cargos por acoso cibernético y sextorsión]]></title>
     <link>https://noticiassin.com/estados-unidos/2026/10/09/extraditan-a-dos-dominicanos-a-eeuu-con-cargos-por-acoso-cibernetico-y-sextorsion-2140043/</link>
     <description><![CDATA[Patricia Joanna Almonte y Rineldys Feliciano Díaz, dos ciudadanos dominicanos, han sido extraditados a Estados Unidos para enfrentar cargos de acoso cibernético y sextorsión. Las autoridades los acusan de liderar una trama internacional de sextorsión económica.
@@ -1421,25 +1432,6 @@ Los servicios estarán disponibles en República Dominicana, Centroamérica, el 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790969345/noticias/articles/20261002_192905_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 02 Oct 2026 19:32:27 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261002193227</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Jonathan Yera Pozo, el español señalado como jefe de una red de narcotráfico y lavado capturado en Punta Cana]]></title>
-    <link>https://eltestigo.com</link>
-    <description><![CDATA[Jonathan Yera Pozo, español de 41 años, fue capturado en Punta Cana para fines de extradición a España, donde las autoridades lo acusan de encabezar una organización de narcotráfico y lavado de activos. Su arresto fue anunciado el 2 de octubre.
-
-La información española lo sitúa entre los principales responsables de una estructura que traficaba cocaína y habría lavado dinero para otros grupos criminales. Fue localizado en una villa de lujo, cuya titularidad no se ha divulgado.
-
-En registros mercantiles españoles aparecen nombramientos como administrador único bajo su mismo nombre completo en MYJ Cars Loranca, en 2010; Swinger Basics, en 2013; Sacatay Real Estate, en 2022; y Finca Montealina, en 2025. Tres de estas sociedades registran actividades inmobiliarias. No se ha comprobado documentalmente que los asientos correspondan al detenido ni que esas empresas estén vinculadas al caso.
-
-Según los investigadores, la red enviaba cocaína desde Colombia y Panamá hacia Europa, introduciéndola en contenedores con mercancía legítima mediante el “gancho ciego”. Después canalizaba fondos hacia promociones inmobiliarias y villas en Ibiza, Marbella y Madrid, ocultando a los beneficiarios reales. También cobraba comisiones por lavar dinero ajeno.
-
-Tras labores de seguimiento e inteligencia, el Ministerio Público y la DNCD lo arrestaron durante un allanamiento, con cooperación de la DEA y autoridades europeas, en la operación Fast Lap. Actuaron con una orden de la Suprema Corte para fines de extradición.
-
-En Punta Cana ocuparon tres billeteras frías para criptomonedas, siete relojes, joyas, un Mercedes-Benz, contratos de préstamos e inmuebles y US$11,500. No se publicaron los saldos de las billeteras ni las contrapartes contractuales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790961793/noticias/articles/20261002_172313_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 02 Oct 2026 17:23:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261002172340</guid>
   </item>
 </channel>
 </rss>
