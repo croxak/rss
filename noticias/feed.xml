@@ -7,14 +7,36 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 10 Oct 2026 16:34:42 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 16:53:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Condenan a expresidente de banco de Puerto Rico a más de cinco años de prisión por fraude de US$23.6 millones]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261010165319</link>
+    <description><![CDATA[Un tribunal federal del Distrito Sur de Florida condenó a 62 meses de prisión a Juan Francisco Ramírez, de 60 años, expresidente del consejo de administración y copropietario de Nodus International Bank, una entidad bancaria de Puerto Rico, por participar en una conspiración de fraude electrónico que provocó pérdidas superiores a US$23.6 millones y contribuyó al colapso de la institución.
+
+Según informó el Departamento de Justicia de Estados Unidos el 7 de octubre, Ramírez también deberá entregar más de US$13.6 millones, correspondientes a los beneficios obtenidos mediante el esquema fraudulento. El exdirectivo se había declarado culpable en septiembre de 2025.
+
+De acuerdo con los documentos judiciales, entre 2017 y 2023, Ramírez y otros conspiradores desviaron más de US$11 millones del banco hacia una entidad financiera de Miami, que posteriormente les prestaba esos mismos recursos para su beneficio personal.
+
+Asimismo, entre enero de 2018 y septiembre de 2021, los implicados consiguieron que Nodus Bank adquiriera al menos 47 pagarés por aproximadamente US$25.3 millones, emitidos por una compañía financiera que controlaban conjuntamente.
+
+Aunque las operaciones aparentaban financiar préstamos legítimos, los fondos fueron utilizados para inversiones particulares, pagos hipotecarios y gastos de tarjetas de crédito personales.
+
+En marzo de 2023, las autoridades reguladoras de Puerto Rico notificaron su intención de liquidar el banco. Sin embargo, semanas después, Ramírez y un cómplice hicieron que la institución adquiriera una cartera de préstamos valorada en aproximadamente US$26 millones, compuesta principalmente por créditos morosos, improductivos o sin garantías suficientes.
+
+La operación permitió liberar a la compañía financiera de obligaciones pendientes con el banco, agravando las pérdidas de la institución.
+La investigación, desarrollada por la división criminal del Servicio de Impuestos Internos (IRS-CI), con colaboración de las autoridades financieras puertorriqueñas, determinó que las maniobras ocasionaron pérdidas de al menos US$23,613,371.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791651085/noticias/articles/20261010_165124_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 10 Oct 2026 16:53:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261010165319</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Se entrega cuarto implicado en intento de asalto a joyería en Villa Juana]]></title>
     <link>https://noticiassin.com/pais/provincias/2026/10/10/se-entrega-cuarto-implicado-en-intento-de-asalto-a-joyeria-en-villa-juana-2140506/</link>
     <description><![CDATA[Alinson Juander Cuello Pujols, conocido como "Piri", se entregó a las autoridades en Baní por su presunta implicación en un intento de asalto a una joyería en Villa Juana. Durante el incidente, un segundo teniente retirado resultó herido al intentar frustrar el robo.
@@ -1440,19 +1462,6 @@ Un alto oficial del S-2 calificó la acción como un atentado contra la soberan�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791256764/noticias/articles/20261006_031923_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 06 Oct 2026 03:21:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261006032128</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente ya derogó decreto que ponía aranceles a arroz de EE. UU., como había solicitado la Oficina Comercial de ese país]]></title>
-    <link>https://elnacional.com.do/economia/presidente-derogo-decreto-ponia-aranceles-arroz-eeuu-habia-pedido-oficina-comercial_582640.html</link>
-    <description><![CDATA[El presidente Luis Abinader derogó el Decreto 693-24 que imponía aranceles al arroz importado de Estados Unidos, mediante el Decreto 635-26 promulgado el 9 de septiembre de 2026.
-
-La Oficina del Representante Comercial de Estados Unidos había solicitado la anulación de los aranceles, argumentando que restringían el acceso al mercado dominicano y violaban el DR-CAFTA.
-
-El Decreto 693-24, emitido en diciembre de 2024, establecía un arancel del 20 % ad valorem dentro del contingente y del 99 % fuera de este, con una cuota preferencial para el arroz estadounidense.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791243521/noticias/articles/20261005_233840_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 05 Oct 2026 23:41:18 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261005234118</guid>
   </item>
 </channel>
 </rss>
