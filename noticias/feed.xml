@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 10 Oct 2026 18:05:03 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 19:45:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Trump, sobre Zelenski: "Ha llegado el momento de que Ucrania tenga un nuevo presidente"]]></title>
+    <link>https://www.elconfidencial.com/mundo/2026-10-10/trump-pide-nuevo-presidente-ucrania-1tna-1tps_4442745/</link>
+    <description><![CDATA[Donald Trump arremetió contra Volodímir Zelenski por los bombardeos de Kiev a refinerías rusas, afirmando que Ucrania necesita un nuevo presidente. Según Trump, Zelenski ha evitado pactar para terminar la guerra, la cual comenzó por "incompetencia".
+
+Trump sugirió que Ucrania busque un líder capaz de llegar a acuerdos, mientras que Zelenski calificó de "injusto" el acuerdo entre Trump y Putin que permite a Rusia exportar diésel pese a las sanciones.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791661480/noticias/articles/20261010_194439_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 10 Oct 2026 19:45:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261010194504</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Omar Fernández sobre su estado de salud: "Fue gastroenteritis por una bacteria, no agotamiento"]]></title>
     <link>https://eldia.com.do/omar-fernandez-sobre-su-estado-de-salud-fue-gastroenteritis-por-una-bacteria-no-agotamiento/</link>
     <description><![CDATA[Omar Fernández, senador de la Fuerza del Pueblo, explicó que su hospitalización fue por gastroenteritis bacteriana, no por agotamiento. Agradeció el apoyo recibido y aseguró estar listo para retomar sus labores.
@@ -1443,23 +1454,6 @@ Los parientes afirman que Polanco Plascencia fue perseguido por motoristas y que
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791291030/noticias/articles/20261006_125029_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 06 Oct 2026 12:50:55 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261006125055</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El retraso en la campaña electoral en Haití aumenta la incertidumbre sobre los comicios]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261006040536</link>
-    <description><![CDATA[La campaña para las elecciones presidenciales y legislativas del próximo 13 de diciembre en Haití no arrancó este lunes, como estaba previsto, lo que supone un nuevo traspié para la celebración de los comicios que el país no realiza desde hace una década.
-
-Según la prensa local, el Consejo Electoral Provisional (CEP) estudia la posibilidad de publicar en las próximas horas una modificación al calendario de las elecciones que incluya la ampliación del plazo de inscripción de los candidatos.
-
-La campaña debía haber comenzado hoy, pero el CEP aparentemente está a la espera de que el Consejo de Ministros publique un nuevo decreto sobre las elecciones para hacer ajustes.
-
-Mientras tanto, la inscripción de partidos políticos sigue abierta hasta el 9 de octubre y los votantes se registran a cuentagotas, de cara a una posible confirmación de la cita en las urnas.
-
-El calendario oficial prevé para el 13 de diciembre la celebración de la primera vuelta de las elecciones presidenciales y legislativas, así como la ratificación popular de varios cambios propuestos a la Constitución.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791259496/noticias/articles/20261006_040456_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 06 Oct 2026 04:05:36 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261006040536</guid>
   </item>
 </channel>
 </rss>
