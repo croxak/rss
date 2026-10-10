@@ -7,14 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 10 Oct 2026 16:53:19 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 17:34:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Apresan a “El Chino o El Japonés”, acusado de liderar potencial red del crimen organizado en Santiago]]></title>
+    <link>https://elpregonerord.com/apresan-a-el-chino-y-o-el-japones-acusado-de-liderar-potencial-red-del-crimen-organizado-en-santiago/</link>
+    <description><![CDATA[Wandy Pimentel, alias “El Chino o El Japonés”, ha sido detenido por la DICRIM en Santiago. Se le acusa de ser el líder de una red criminal que opera en la ciudad, involucrada en secuestros, sicariato y microtráfico.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791653506/noticias/articles/20261010_173145_article.webp" type="image/webp"/>
+    <pubDate>Sat, 10 Oct 2026 17:34:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261010173440</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Condenan a expresidente de banco de Puerto Rico a más de cinco años de prisión por fraude de US$23.6 millones]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261010165319</link>
     <description><![CDATA[Un tribunal federal del Distrito Sur de Florida condenó a 62 meses de prisión a Juan Francisco Ramírez, de 60 años, expresidente del consejo de administración y copropietario de Nodus International Bank, una entidad bancaria de Puerto Rico, por participar en una conspiración de fraude electrónico que provocó pérdidas superiores a US$23.6 millones y contribuyó al colapso de la institución.
@@ -1451,17 +1460,6 @@ La Ley 86-26 redefine la regulación del sector de juegos de azar, estableciendo
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791259186/noticias/articles/20261006_035946_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 06 Oct 2026 04:00:18 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261006040018</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Detienen en Guayubín a funcionarios haitianos por expedir documentos sin aval de autoridades dominicanas]]></title>
-    <link>https://hoy.com.do/el-pais/detienen-guayubin-diplomaticos-haitianos-expedir-documentos-aval-cancilleria_1104622.html</link>
-    <description><![CDATA[En El Pocito, Guayubín, el Servicio de Inteligencia del Ejército de República Dominicana detuvo a funcionarios haitianos por emitir documentos sin autorización. Los funcionarios realizaban operativos ilegales de emisión de cédulas y actas de nacimiento a ciudadanos haitianos.
-
-Un alto oficial del S-2 calificó la acción como un atentado contra la soberanía nacional, ya que no contaban con el aval del Ministerio de Relaciones Exteriores. Los trabajos de filiación estuvieron a cargo de Lorrain Jackson y Jean Baptiste Davidson, del Consulado Haitiano.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791256764/noticias/articles/20261006_031923_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 06 Oct 2026 03:21:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261006032128</guid>
   </item>
 </channel>
 </rss>
