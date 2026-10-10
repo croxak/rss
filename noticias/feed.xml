@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 10 Oct 2026 16:12:56 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 16:14:48 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Muere “Piro Caco de Muñeca” en supuesto intercambio de disparos con la Policía en San Juan]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261010161448</link>
+    <description><![CDATA[El presunto delincuente Ángel Luis González, alias “Piro Caco de Muñeca”, de 44 años, murió mientras recibía atenciones médicas tras resultar herido de bala en un supuesto intercambio de disparos con agentes de la Policía Nacional, ocurrido la noche este jueves, en la provincia San Juan.
+
+Según el informe preliminar, González era buscado mediante la orden de arresto núm. 1613/2026 por su presunta participación en un asalto a mano armada.
+
+La Policía indicó que una patrulla lo interceptó y que, cuando los agentes le ordenaron detenerse, presuntamente sacó un arma de fuego y disparó contra ellos, quienes respondieron a la agresión.
+
+Tras el incidente, fue trasladado al Hospital  Alejandro Cabral, donde posteriormente falleció.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791648854/noticias/articles/20261010_161414_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 10 Oct 2026 16:14:48 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261010161448</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Se entregan dos hombres buscados por la Policía]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/09/se-entregan-dos-buscados-por-la-policia/3683061</link>
     <description><![CDATA[Dos hombres que eran buscados por la Policía Nacional se entregaron voluntariamente. Elvin Castro Santos, de 40 años, era requerido por la muerte de José Luis García, alias “el Pelotero”, ocurrida el 29 de mayo de 2024 en Pimentel, provincia Duarte.
@@ -1446,17 +1461,6 @@ El operativo fue liderado por la Dirección de Supervisión y Control de Sancion
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791154111/noticias/articles/20261004_224831_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 04 Oct 2026 22:48:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261004224857</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Geanilda Vásquez oficializa respaldo a Carolina Mejía: "Vamos a trabajar y vamos a ganar"]]></title>
-    <link>https://www.diariolibre.com/amp/politica/partidos/2026/10/03/geanilda-vasquez-apoya-a-carolina-mejia-para-la-presidencia/3677974</link>
-    <description><![CDATA[Geanilda Vásquez, dirigente del PRM, ha oficializado su respaldo a Carolina Mejía en su proyecto político para las elecciones de 2028. En un acto celebrado en Santo Domingo, Vásquez anunció la integración de su equipo político al proyecto de Mejía.
-
-Carolina Mejía, alcaldesa del Distrito Nacional, destacó que la participación política de las mujeres es un derecho y un asunto de justicia para la democracia dominicana. Vásquez explicó que su apoyo a Mejía se basa en una visión compartida sobre la política y el servicio público.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791075463/noticias/articles/20261004_005743_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 04 Oct 2026 00:58:11 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261004005811</guid>
   </item>
 </channel>
 </rss>
