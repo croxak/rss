@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 10 Oct 2026 16:14:48 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 16:24:03 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Matan a “Guccito” en enfrentamiento con agentes policiales durante allanamiento en Santiago]]></title>
+    <link>https://elnacional.com.do/nacionales/policiales/muere-alias-guccito-enfrentamiento-agentes-policiales-allanamiento-santiago_583079.html</link>
+    <description><![CDATA[Isaac de Jesús Fernández Reyes, conocido como “Guccito”, falleció en un enfrentamiento con la Policía Nacional durante un allanamiento en el ensanche Espaillat, Santiago. El hecho ocurrió cuando agentes de la DICRIM y la unidad SWAT ejecutaban una orden de arresto.
+
+Durante el tiroteo, el cabo Rafael Gómez de la Cruz, de la unidad SWAT, resultó herido en la mano. En la escena se encontraron una pistola Glock, un cargador, un teléfono celular y casquillos. El cuerpo de “Guccito” fue trasladado al INACIF.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791649368/noticias/articles/20261010_162248_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 10 Oct 2026 16:24:03 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261010162403</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Muere “Piro Caco de Muñeca” en supuesto intercambio de disparos con la Policía en San Juan]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261010161448</link>
     <description><![CDATA[El presunto delincuente Ángel Luis González, alias “Piro Caco de Muñeca”, de 44 años, murió mientras recibía atenciones médicas tras resultar herido de bala en un supuesto intercambio de disparos con agentes de la Policía Nacional, ocurrido la noche este jueves, en la provincia San Juan.
@@ -1448,19 +1459,6 @@ Igualmente, con ocasión del conocimiento del fondo de lo principal, sobre el re
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791158743/noticias/articles/20261005_000543_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 05 Oct 2026 00:09:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261005000942</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Haitianos indocumentados operaban autobuses en Friusa, Bávaro, dice Intrant]]></title>
-    <link>https://listindiario.com/la-republica/provincias/20261004/intrant-retiene-autobuses-operados-haitianos-ilegales-friusa_924799.html</link>
-    <description><![CDATA[El Intrant retuvo cinco autobuses operados por haitianos en condición migratoria irregular en Friusa, Bávaro. Estos vehículos transportaban a compatriotas indocumentados.
-
-Durante un operativo en Bávaro y el Aeropuerto de Punta Cana, se fiscalizaron 19 vehículos por violaciones a la Ley 63-17. Las unidades retenidas fueron llevadas al Centro de Retención La Conejita.
-
-El operativo fue liderado por la Dirección de Supervisión y Control de Sanciones del Intrant, junto a la Digesett y Comipol.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791154111/noticias/articles/20261004_224831_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 04 Oct 2026 22:48:57 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261004224857</guid>
   </item>
 </channel>
 </rss>
