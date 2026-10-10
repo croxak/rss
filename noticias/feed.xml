@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 09 Oct 2026 22:35:12 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 10 Oct 2026 15:40:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Condenan a un dominicano y tres colombianos a diez años de prisión por tráfico de 400 kilos de cocaína en Madrid]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261010154015</link>
+    <description><![CDATA[La Audiencia Provincial de Madrid condenó a diez años de prisión a cuatro hombres por su participación en una operación de tráfico de 400 kilos de cocaína procedentes de Colombia. La resolución también impone una multa de 40 millones de euros, según informó EFE, que tuvo acceso a la sentencia.
+
+Los condenados son un ciudadano dominicano y tres colombianos, conocidos como Conde, Kalimán, Hermano y Mayor. Las publicaciones consultadas no precisan cuál de ellos es el dominicano. Esta información corrige la composición de dos dominicanos y dos colombianos difundida durante el juicio.
+
+La investigación incluyó una entrega controlada por vía aérea y la intervención de agentes encubiertos. Las autoridades supervisaron el traslado de la cocaína desde Colombia y mantuvieron la sustancia bajo custodia policial en Madrid mientras se desarrollaban las negociaciones con el grupo.
+
+Los cuatro fueron detenidos en junio de 2023 y enviados nuevamente a prisión provisional al concluir el juicio, el 17 de septiembre de 2026. Otros dos procesados permanecen prófugos.
+
+Las defensas cuestionaron la legalidad de la actuación policial, pero el tribunal rechazó esos argumentos y sostuvo que las diligencias contaron con control judicial y respetaron los derechos fundamentales.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791646781/noticias/articles/20261010_153941_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 10 Oct 2026 15:40:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261010154015</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Juez federal suspende deportación de dominicano baleado por agentes de ICE durante operativo en Nueva York]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261009223512</link>
     <description><![CDATA[Un juez federal de Estados Unidos ordenó este viernes suspender temporalmente la deportación de Oscar Belgal, un dominicano de 28 años que resultó herido de bala durante un operativo del Servicio de Inmigración y Control de Aduanas (ICE), realizado el jueves 8 de octubre en el sector Marble Hill, en Nueva York.
@@ -1436,17 +1453,6 @@ La embajada agradeció la colaboración del Gobierno y del pueblo dominicanos pa
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790995923/noticias/articles/20261003_025202_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 03 Oct 2026 02:52:43 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261003025243</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Guardia Costera de Estados Unidos intercepta un buque que transportaba combustible a Cuba]]></title>
-    <link>https://n.com.do/2026/10/02/guardia-costera-de-estados-unidos-intercepta-un-buque-que-transportaba-combustible-a-cuba/</link>
-    <description><![CDATA[La Guardia Costera de Estados Unidos interceptó a principios de septiembre el buque Grace en el Caribe, que supuestamente transportaba combustible a Cuba. Esta acción se enmarca en el embargo petrolero de Washington a la isla.
-
-El Grace fue escoltado hasta el puerto de Progreso, en Yucatán, donde la Marina mexicana confirmó que transportaba combustible. En el operativo participaron dos navíos, un avión de vigilancia marítima HC-144 y un equipo táctico de la Guardia Costera.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1790970346/noticias/articles/20261002_194546_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 02 Oct 2026 19:46:09 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261002194609</guid>
   </item>
 </channel>
 </rss>
