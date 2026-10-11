@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 11 Oct 2026 17:12:59 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 17:17:12 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Zelenski responde a Trump y asegura que convocará elecciones en Ucrania si Putin acepta una tregua de 60 días]]></title>
+    <link>https://www.rtve.es/noticias/20261011/zelenski-rusas-ataques-infraestructura-energetica/17262635.shtml</link>
+    <description><![CDATA[Volodímir Zelenski ha afirmado que convocará elecciones en Ucrania si Vladímir Putin acepta un alto el fuego de 60 días. Esta declaración responde a Donald Trump, quien sugirió que Ucrania necesita un nuevo presidente.
+
+Trump ha anunciado una tregua energética "inminente" entre Rusia y Ucrania, lo que ha sorprendido a Zelenski. El presidente ucraniano ha expresado su disposición a cumplirla si Rusia también lo hace.
+
+El ministro de Exteriores de Ucrania, Andri Sibiga, ha defendido a Zelenski, afirmando que las críticas de Trump confirman que Zelenski está haciendo bien su trabajo y merece apoyo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791738955/noticias/articles/20261011_171554_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 11 Oct 2026 17:17:12 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261011171712</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Se entregan dos hombres buscados por homicidio ocurrido en 2014 en Santiago]]></title>
     <link>https://elnacional.com.do/nacionales/policiales/entregan-dos-hombres-buscados-homicidio-ocurrido-2014-santiago_583147.html</link>
     <description><![CDATA[Aníbal Taveras Luzón y Argenis Alejandro Taveras Genao se entregaron a la Policía Nacional en Santiago. Eran buscados por su presunta implicación en el homicidio de Alejandro Jean Peña Guzmán, ocurrido en enero de 2014 en el sector La Herradura.
@@ -1439,25 +1452,6 @@ En Santiago, una adolescente de 16 años fue localizada por la Dirección Centra
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791306991/noticias/articles/20261006_171631_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 06 Oct 2026 17:17:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261006171732</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente de Colombia ordena asistencia legal y apoyo económico a exmilitares acusados por asesinato del presidente haitiano Jovenel Moïse]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261006161518</link>
-    <description><![CDATA[El presidente de Colombia, Abelardo De La Espriella, ordenó este martes a los ministerios de Defensa y de Justicia brindar asistencia jurídica a los 17 exmilitares colombianos que se encuentran bajo custodia en Estados Unidos por su presunta participación en el asesinato del presidente haitiano Jovenel Moïse. 
-
-De La Espriella anunció además que el Gobierno colombiano ofrecerá apoyo económico a las familias de los detenidos, al señalar que busca que se determine de manera individual la responsabilidad de cada uno de los procesados.
-
-“No pueden pagar justos por pecadores. Quiero saber exactamente qué ocurrió y que se esclarezca la responsabilidad individual de cada uno”, expresó el mandatario.
-
-El presidente colombiano fue más lejos al referirse a los exmilitares como “héroes” y aseguró que su administración no los abandonará durante el proceso judicial. “No soy la clase de presidente que abandona a sus héroes cuando enfrentan dificultades”, manifestó.
-
-Los 17 colombianos fueron trasladados el pasado 20 de septiembre desde Haití hacia Estados Unidos, junto al exfuncionario haitiano Joseph Félix Badio. Los 18 forman parte de un grupo de 30 personas acusadas federalmente en el Distrito Sur de Florida por distintos papeles en el complot que culminó con el asesinato de Moïse, ocurrido el 7 de julio de 2021 en Puerto Príncipe.
-
-Entre los cargos presentados por las autoridades estadounidenses figuran conspiración para cometer asesinato o secuestro fuera de Estados Unidos y proporcionar apoyo material con resultado de muerte. Algunos de los delitos contemplan penas de hasta cadena perpetua.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791303285/noticias/articles/20261006_161444_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 06 Oct 2026 16:15:18 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261006161518</guid>
   </item>
 </channel>
 </rss>
