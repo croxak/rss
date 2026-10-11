@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 11 Oct 2026 00:05:19 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 16:33:28 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Detienen a tres sospechosos por la muerte a tiros de un joven dominicano en L’Hospitalet]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261011163328</link>
+    <description><![CDATA[Los Mossos d’Esquadra detuvieron el 6 de octubre a tres jóvenes de 18, 19 y 29 años por su presunta participación en el homicidio de Eduardo, un dominicano de 28 años que murió en un tiroteo ocurrido en el Parc de les Planes, en L’Hospitalet de Llobregat.
+
+El hecho se registró la noche del 28 de marzo de 2026. Según la información publicada por Metrópoli, Eduardo se encontraba con amigos cuando comenzó una discusión con otro grupo, que posteriormente abrió fuego. Un joven de 18 años también resultó gravemente herido.
+
+Las fuentes policiales citadas por el medio vinculan a los detenidos con los Trinitarios, pero descartan que la víctima perteneciera a una organización pandillera o que el ataque respondiera a un enfrentamiento entre bandas rivales.
+
+Tras más de seis meses de investigación, los agentes realizaron tres registros domiciliarios y localizaron un arma de fuego. La policía científica deberá determinar si fue utilizada en el tiroteo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791736326/noticias/articles/20261011_163205_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 11 Oct 2026 16:33:28 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261011163328</guid>
+  </item>
+
+  <item>
     <title><![CDATA[COE coloca al Gran Santo Domingo y San Cristóbal en alerta verde por lluvias]]></title>
     <link>https://eldia.com.do/coe-coloca-al-gran-santo-domingo-y-san-cristobal-en-alerta-verde-por-lluvias/</link>
     <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha emitido una alerta verde para el Distrito Nacional, el Gran Santo Domingo y la provincia San Cristóbal debido a las condiciones meteorológicas actuales.
@@ -1443,17 +1458,6 @@ El inspector habría recibido miles de dólares para alterar los controles migra
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791294194/noticias/articles/20261006_134314_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 06 Oct 2026 13:44:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261006134414</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio Público acusa a 13 personas y cinco empresas de la red de estafa electrónica y lavado que desmanteló con Operación Discovery 3.0]]></title>
-    <link>https://robertocavada.com/ministerio-publico-acusa-a-13-personas-y-cinco-empresas-de-la-red-de-estafa-electronica-y-lavado-que-desmantelo-con-operacion-discovery-3-0/</link>
-    <description><![CDATA[El Ministerio Público presentó acusación formal contra 13 personas y cinco empresas por estafas electrónicas y lavado de activos, desmanteladas en la Operación Discovery 3.0. Los acusados operaban desde la zona norte de República Dominicana y mantenían conexiones con Estados Unidos.
-
-La estructura criminal utilizaba tecnología y empresas para ocultar los beneficios obtenidos de las víctimas. La investigación contó con la cooperación del FBI y la Policía Nacional.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791292751/noticias/articles/20261006_131910_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 06 Oct 2026 13:19:47 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261006131947</guid>
   </item>
 </channel>
 </rss>
