@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 11 Oct 2026 17:21:28 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 17:25:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[BCRD: Flujos de remesas alcanzaron los US$9,489.8 millones en el período enero-septiembre de 2026]]></title>
+    <link>https://elnuevodiario.com.do/bcrd-flujos-de-remesas-alcanzaron-los-us9489-8-millones-en-el-periodo-enero-septiembre-de-2026/</link>
+    <description><![CDATA[El Banco Central de la República Dominicana reportó que las remesas entre enero y septiembre de 2026 sumaron US$9,489.8 millones, un incremento del 6.5 % respecto al año anterior.
+
+En septiembre, las remesas alcanzaron US$1,057.1 millones, con un 80.9 % proveniente de Estados Unidos. España, Italia, Haití y Suiza también contribuyeron.
+
+El Distrito Nacional recibió el 51.2 % de las remesas en septiembre. La moneda nacional se apreció un 5.4 % frente al dólar al 30 de septiembre de 2026.
+
+Las reservas internacionales se situaron en US$15,239.9 millones. Se espera que las remesas alcancen US$12,600 millones en 2026.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791739504/noticias/articles/20261011_172503_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 11 Oct 2026 17:25:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261011172541</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Migración anuncia inspecciones para someter a la justicia a quienes contraten indocumentados]]></title>
     <link>https://elnuevodiario.com.do/migracion-anuncia-inspecciones-para-someter-a-la-justicia-a-quienes-contraten-indocumentados/</link>
     <description><![CDATA[El director general de Migración, vicealmirante Luis Rafael Lee Ballester, anunció la deportación de más de 800 mil extranjeros en situación irregular en los últimos dos años.
@@ -1439,21 +1454,6 @@ Fuente: Diario Libre - Jesús Vásquez]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791315790/noticias/articles/20261006_194310_article.png" type="image/png"/>
     <pubDate>Tue, 06 Oct 2026 19:45:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261006194532</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Bienes de Alexis Medina, Calamar y Búfalo NK irán a subasta en noviembre]]></title>
-    <link>https://www.diariolibre.com/actualidad/justicia/2026/10/06/bienes-de-alexis-medina-y-caso-calamar-iran-a-subasta-/3680491</link>
-    <description><![CDATA[El Instituto Nacional de Custodia y Administración de Bienes Incautados, Decomisados y en Extinción de Dominio (Incabide) subastará bienes decomisados el 25 de noviembre. Los bienes están relacionados con Alexis Medina, el caso Calamar y Búfalo NK, entre otros.
-
-Se ofertarán 200 bienes valorados en 1,000 millones de pesos, incluyendo casas, apartamentos, solares, fincas, vehículos, aeronaves, joyas y relojes. La subasta se realizará en el Instituto Policial de Educación Superior (IPES).
-
-La primera subasta del Incabide en mayo adjudicó bienes por 562.8 millones de pesos, pero solo se cobraron 502 millones. Para la próxima subasta, se aplicará una garantía del 10 % para bienes muebles cuyo valor supere los 100,000 pesos.
-
-Fuente: Diario Libre - Balbiery Rosario]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791315666/noticias/articles/20261006_194106_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 06 Oct 2026 19:42:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261006194228</guid>
   </item>
 </channel>
 </rss>
