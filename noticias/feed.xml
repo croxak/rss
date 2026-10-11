@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 11 Oct 2026 17:08:39 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 17:09:59 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Abinader invitará al papa León XIV a visitar República Dominicana en 2027]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/10/11/abinader-propone-visita-del-papa-leon-xiv-a-republica-dominicana/3685612</link>
+    <description><![CDATA[El presidente Luis Abinader planea invitar al papa León XIV a visitar la República Dominicana en 2027. La invitación se hará durante una audiencia en el Vaticano, con el objetivo de que el papa regrese al país, que ya visitó como sacerdote.
+
+Durante su visita a Italia, Abinader participará en el Foro Mundial de la Alimentación de la FAO, destacando la importancia de mantener la meta de Hambre Cero y mejorar la calidad de la nutrición en el país.
+
+El martes, Abinader viajará a Praga, República Checa, para participar en el Foro 2000, donde hablará sobre la reforma constitucional dominicana y explorará oportunidades de inversión con empresas checas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791738566/noticias/articles/20261011_170926_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 11 Oct 2026 17:09:59 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261011170959</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece Yamilé Scheker, veterana actriz del teatro dominicano]]></title>
     <link>https://listindiario.com/entretenimiento/teatro/20261011/fallece-yamile-scheker-veterana-actriz-teatro-dominicano_925682.html</link>
     <description><![CDATA[Yamilé Scheker, reconocida actriz del teatro dominicano, ha fallecido tras luchar contra el cáncer. Con una trayectoria de más de 40 años, participó en más de 50 producciones teatrales y en películas como "Veneno" y "Del color de la noche".
@@ -1449,17 +1462,6 @@ El caso se remonta a un registro en su domicilio relacionado con el presunto sec
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791300698/noticias/articles/20261006_153138_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 06 Oct 2026 15:33:30 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261006153330</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Caso Kenny Grullón: dictan tres meses de prisión al acusado de robo en su casa]]></title>
-    <link>https://hoy.com.do/el-pais/caso-kenny-grullon-dictan-tres-meses-prision-acusado-robo-casa_1104662.html</link>
-    <description><![CDATA[Yefry Manuel Jiménez, alias Babo o Jefry, ha sido enviado a prisión por tres meses tras ser acusado de robar con violencia en la residencia del actor Kenny Grullón. El hecho ocurrió el pasado viernes en la Zona Universitaria.
-
-El Juzgado de Atención Permanente, presidido por Rigoberto Sena, dictó la medida de coerción y ordenó su traslado a la cárcel de Baní. Jiménez fue capturado en Haina y tiene antecedentes por robo y violencia doméstica.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791300195/noticias/articles/20261006_152315_article.png" type="image/png"/>
-    <pubDate>Tue, 06 Oct 2026 15:24:09 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261006152409</guid>
   </item>
 </channel>
 </rss>
