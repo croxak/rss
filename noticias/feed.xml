@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 10 Oct 2026 19:45:04 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 00:05:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[COE coloca al Gran Santo Domingo y San Cristóbal en alerta verde por lluvias]]></title>
+    <link>https://eldia.com.do/coe-coloca-al-gran-santo-domingo-y-san-cristobal-en-alerta-verde-por-lluvias/</link>
+    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha emitido una alerta verde para el Distrito Nacional, el Gran Santo Domingo y la provincia San Cristóbal debido a las condiciones meteorológicas actuales.
+
+Una vaguada está provocando aguaceros, tronadas aisladas y ráfagas de viento. Se espera que las precipitaciones se extiendan hacia otras localidades de las regiones nordeste, norte y sureste, así como de la Cordillera Central.
+
+El COE exhorta a la población a tomar precauciones, como evitar cruzar ríos y el uso de balnearios en las provincias bajo alerta.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791677093/noticias/articles/20261011_000453_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 11 Oct 2026 00:05:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261011000519</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Trump, sobre Zelenski: "Ha llegado el momento de que Ucrania tenga un nuevo presidente"]]></title>
     <link>https://www.elconfidencial.com/mundo/2026-10-10/trump-pide-nuevo-presidente-ucrania-1tna-1tps_4442745/</link>
     <description><![CDATA[Donald Trump arremetió contra Volodímir Zelenski por los bombardeos de Kiev a refinerías rusas, afirmando que Ucrania necesita un nuevo presidente. Según Trump, Zelenski ha evitado pactar para terminar la guerra, la cual comenzó por "incompetencia".
@@ -1441,19 +1454,6 @@ La estructura criminal utilizaba tecnología y empresas para ocultar los benefic
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791292751/noticias/articles/20261006_131910_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 06 Oct 2026 13:19:47 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261006131947</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía espera autopsia para precisar muerte del militar de la FARD en Boca Chica]]></title>
-    <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/05/esperan-autopsia-para-precisar-muerte-del-militar-en-boca-chica/3679791</link>
-    <description><![CDATA[La Policía Nacional espera los resultados de la autopsia de Nélsido Polanco Plascencia, miembro de la Fuerza Aérea de la República Dominicana, para determinar la causa de su muerte en La Caleta, Boca Chica.
-
-La familia del oficial, junto con el defensor de los derechos humanos Diógenes Ozuna, ha solicitado al Ministerio Público y a la Policía Nacional esclarecer las circunstancias de su fallecimiento. Según una versión preliminar, Polanco Plascencia murió tras un incidente vehicular, pero sus familiares sugieren que podría estar relacionado con un acto de venganza.
-
-Los parientes afirman que Polanco Plascencia fue perseguido por motoristas y que uno de ellos le disparó, impactándolo en un ojo. El vocero de la Policía Nacional, Diego Pesqueira, indicó que el reporte inicial del médico legista señala un trauma torácico abdominal debido a una colisión con una pared.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791291030/noticias/articles/20261006_125029_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 06 Oct 2026 12:50:55 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261006125055</guid>
   </item>
 </channel>
 </rss>
