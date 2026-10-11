@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 11 Oct 2026 17:09:59 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 17:11:18 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[La Policía mata a alias “Boboli” durante un intercambio de disparos en Manoguayabo]]></title>
+    <link>https://elnacional.com.do/nacionales/policiales/muere-boboli-enfrentamiento-dicrim-manoguayabo_583138.html</link>
+    <description><![CDATA[José Agustín Piña, conocido como “Boboli”, falleció tras un enfrentamiento con la Policía Nacional en Las Caobas, Manoguayabo. Piña era buscado por dos órdenes de arresto debido a su presunta vinculación con asaltos a mano armada.
+
+El incidente ocurrió en la calle La Doble Vía cuando Piña, al notar la presencia policial, habría disparado contra los agentes, quienes repelieron la agresión. Herido, fue trasladado al Hospital Vinicio Calventi, donde murió mientras recibía atención médica.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791738646/noticias/articles/20261011_171046_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 11 Oct 2026 17:11:18 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261011171118</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader invitará al papa León XIV a visitar República Dominicana en 2027]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/10/11/abinader-propone-visita-del-papa-leon-xiv-a-republica-dominicana/3685612</link>
     <description><![CDATA[El presidente Luis Abinader planea invitar al papa León XIV a visitar la República Dominicana en 2027. La invitación se hará durante una audiencia en el Vaticano, con el objetivo de que el papa regrese al país, que ya visitó como sacerdote.
@@ -1449,19 +1460,6 @@ Fuente: El Nacional - Pilar Moreno]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791301165/noticias/articles/20261006_153925_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 06 Oct 2026 15:40:11 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261006154011</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Detenido August Hanning, antiguo jefe de la Inteligencia Alemana, por su presunta implicación en "delitos de espionaje y alta traición"]]></title>
-    <link>https://cadenaser.com/nacional/2026/10/06/detenido-august-hanning-antiguo-jefe-de-la-inteligencia-alemana-por-su-presunta-implicacion-en-delitos-de-espionaje-y-alta-traicion-cadena-ser/</link>
-    <description><![CDATA[August Hanning, antiguo jefe de los servicios de inteligencia alemanes, ha sido detenido por su presunta implicación en delitos de espionaje y tentativa de alta traición. La Fiscalía Federal sostiene que Hanning habría recibido información secreta a cambio de dinero durante varios años a través de su exjefe de gabinete, Manfred D., quien también ha sido detenido.
-
-Hanning presidió el Servicio Federal de Inteligencia (BND) entre 1998 y 2005. Se investiga si filtró información a potencias extranjeras en al menos dos ocasiones. En su domicilio se encontraron documentos secretos que no debería poseer.
-
-El caso se remonta a un registro en su domicilio relacionado con el presunto secuestro de los hijos de Christina Block. La investigación está a cargo del Fiscal General Federal de Karlsruhe desde mayo de 2026.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791300698/noticias/articles/20261006_153138_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 06 Oct 2026 15:33:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261006153330</guid>
   </item>
 </channel>
 </rss>
