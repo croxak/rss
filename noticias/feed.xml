@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 11 Oct 2026 17:11:18 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 17:12:59 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Se entregan dos hombres buscados por homicidio ocurrido en 2014 en Santiago]]></title>
+    <link>https://elnacional.com.do/nacionales/policiales/entregan-dos-hombres-buscados-homicidio-ocurrido-2014-santiago_583147.html</link>
+    <description><![CDATA[Aníbal Taveras Luzón y Argenis Alejandro Taveras Genao se entregaron a la Policía Nacional en Santiago. Eran buscados por su presunta implicación en el homicidio de Alejandro Jean Peña Guzmán, ocurrido en enero de 2014 en el sector La Herradura.
+
+La entrega se realizó en la División de Homicidios, acompañados de su representante legal y en presencia de periodistas. Ambos están bajo custodia policial y serán puestos a disposición del Ministerio Público.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791738748/noticias/articles/20261011_171228_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 11 Oct 2026 17:12:59 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261011171259</guid>
+  </item>
+
+  <item>
     <title><![CDATA[La Policía mata a alias “Boboli” durante un intercambio de disparos en Manoguayabo]]></title>
     <link>https://elnacional.com.do/nacionales/policiales/muere-boboli-enfrentamiento-dicrim-manoguayabo_583138.html</link>
     <description><![CDATA[José Agustín Piña, conocido como “Boboli”, falleció tras un enfrentamiento con la Policía Nacional en Las Caobas, Manoguayabo. Piña era buscado por dos órdenes de arresto debido a su presunta vinculación con asaltos a mano armada.
@@ -1447,19 +1458,6 @@ Entre los cargos presentados por las autoridades estadounidenses figuran conspir
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791303285/noticias/articles/20261006_161444_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 06 Oct 2026 16:15:18 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261006161518</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Niño de 12 años llega con una pistola a una escuela de Azua; apresan a su padre]]></title>
-    <link>https://elnacional.com.do/nacionales/estudiante-llega-armado-escuela-azua-apresan-padre_582693.html</link>
-    <description><![CDATA[Un niño de 12 años llegó armado con una pistola a una escuela en Sabana Yegua, Azua, lo que provocó la detención de su padre, Dannery Luna Rosso, por parte de la Policía Nacional. El arma fue ocupada durante un allanamiento en su residencia.
-
-Las autoridades investigan cómo el menor obtuvo el arma y la llevó al centro educativo. Se sospecha que la pistola era poseída de forma ilegal. El niño habría tenido la intención de agredir a un compañero que supuestamente lo molestaba.
-
-Fuente: El Nacional - Pilar Moreno]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791301165/noticias/articles/20261006_153925_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 06 Oct 2026 15:40:11 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261006154011</guid>
   </item>
 </channel>
 </rss>
