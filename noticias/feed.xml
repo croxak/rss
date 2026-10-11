@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 11 Oct 2026 17:01:45 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 11 Oct 2026 17:06:07 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Ocupan 228 paquetes de cocaína en puerto Santo Domingo y en el aeropuerto de Punta Cana]]></title>
+    <link>https://listindiario.com/la-republica/20261011/incautan-228-paquetes-cocaina-puerto-santo-domingo-aerepuerto-punta-cana_925694.html</link>
+    <description><![CDATA[Las autoridades dominicanas, junto a la DEA y la INL, incautaron 228 paquetes de cocaína en el Puerto de Don Diego y el Aeropuerto Internacional de Punta Cana. En el puerto, 203 paquetes estaban ocultos en un contenedor con destino a Puerto Rico. Un hombre fue arrestado y se investiga la red de narcotráfico.
+
+En el aeropuerto, 25 paquetes fueron encontrados en la maleta de un ciudadano neerlandés que pretendía viajar a París. El extranjero fue detenido y será sometido a la justicia. Las investigaciones continúan para identificar a otros involucrados.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791738336/noticias/articles/20261011_170536_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 11 Oct 2026 17:06:07 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261011170607</guid>
+  </item>
+
+  <item>
     <title><![CDATA[¡No va el relleno sanitario en La Cuaba! Empresa buscará otra ubicación para instalación de planta]]></title>
     <link>https://listindiario.com/la-republica/20261011/vertedero-cuaba-empresa-buscara-ubicacion-instalacion-planta_925693.html</link>
     <description><![CDATA[El presidente Luis Abinader ha decidido que no se instalará un relleno sanitario en La Cuaba. La empresa Oak House buscará otra ubicación para su planta de valorización de desechos.
@@ -1451,23 +1462,6 @@ La sentencia incluye un crédito de 665 días por el tiempo que González ya hab
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791300127/noticias/articles/20261006_152207_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 06 Oct 2026 15:22:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261006152239</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gustavo Sánchez dice que prefiere a Carolina Mejía o David Collado antes que a Leonel Fernández]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261006140423</link>
-    <description><![CDATA[El diputado y dirigente del Partido de la Liberación Dominicana (PLD), Gustavo Sánchez, afirmó que, colocado ante un eventual escenario electoral en el que tuviera que escoger, preferiría a Carolina Mejía o David Collado antes que al expresidente Leonel Fernández.
-
-Las declaraciones reflejan nuevamente las marcadas diferencias políticas que Sánchez mantiene con el presidente de la Fuerza del Pueblo, organización surgida tras la división del PLD en 2019.
-
-El legislador ha expresado anteriormente valoraciones favorables hacia figuras del Partido Revolucionario Moderno. En julio aseguró que, si tuviera que participar en el proceso interno del PRM, Carolina Mejía sería su candidata, aunque aclaró entonces que su compromiso político permanece con el PLD.
-
-Al mismo tiempo, Sánchez ha mantenido una postura particularmente crítica frente a una nueva candidatura presidencial de Fernández, llegando en agosto a asegurar que el PLD terminaría por encima de la Fuerza del Pueblo en las elecciones de 2028.
-
-Sus nuevas declaraciones se producen mientras los principales partidos comienzan a definir sus proyectos presidenciales de cara a los comicios de 2028 y reavivan el debate sobre las posibles alianzas que podrían producirse entre las fuerzas políticas de oposición y el oficialismo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791295425/noticias/articles/20261006_140344_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 06 Oct 2026 14:04:23 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261006140423</guid>
   </item>
 </channel>
 </rss>
