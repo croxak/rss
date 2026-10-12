@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 12 Oct 2026 12:45:52 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 12:48:03 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Vaticano suspende audiencia de Abinader con el papa León XIV por preparativos de intervención quirúrgica]]></title>
+    <link>https://eldia.com.do/vaticano-suspende-audiencia-con-abinader-por-operacion-papa/</link>
+    <description><![CDATA[La audiencia entre el presidente Luis Abinader y el papa León XIV en el Vaticano fue suspendida. El pontífice ha tenido que acelerar su proceso preoperatorio para una intervención quirúrgica.
+
+El jefe de Protocolo del Vaticano informó personalmente al mandatario dominicano en la sede de la FAO en Roma. La audiencia era parte de los compromisos de Abinader en Italia y buscaba fortalecer las relaciones entre la República Dominicana y la Santa Sede.
+
+El papa León XIV anunció que le fue detectado un nódulo de 3 milímetros en sus pulmones y se someterá a una operación para su extracción.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791809257/noticias/articles/20261012_124737_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 12 Oct 2026 12:48:03 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261012124803</guid>
+  </item>
+
+  <item>
     <title><![CDATA[León XIV acepta renuncia de Ozoria y entrega a Morel Diplán el Arzobispado de Santo Domingo y el Obispado Castrense]]></title>
     <link>https://eldia.com.do/papa-acepta-renuncia-ozoria-como-arzobispo-y-castrense/</link>
     <description><![CDATA[El papa León XIV ha aceptado la renuncia de monseñor Francisco Ozoria Acosta como arzobispo de Santo Domingo y ordinario militar de la República Dominicana. Monseñor Carlos Tomás Morel Diplán asume ambas responsabilidades.
@@ -1411,17 +1424,6 @@ Otros líderes, como Delcy Rodríguez de Venezuela y Rodrigo Paz de Bolivia, tam
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791383951/noticias/articles/20261007_143911_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 07 Oct 2026 14:39:41 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261007143941</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Haití posterga las elecciones indefinidamente por crisis política e inseguridad]]></title>
-    <link>https://www.dw.com/es/haití-posterga-indefinidamente-las-elecciones-por-crisis-política-e-inseguridad/a-79570616</link>
-    <description><![CDATA[Haití ha decidido aplazar indefinidamente las elecciones presidenciales y legislativas previstas para diciembre de 2026. La crisis política y de seguridad, agravada por la violencia de las pandillas, ha llevado al Consejo Electoral provisional a no establecer una nueva fecha para los comicios.
-
-Desde principios de año, al menos 5.700 personas han muerto o resultado heridas en Haití. Además, casi 1,5 millones de personas han sido desplazadas debido a la violencia. La ONU ha extendido por seis meses la labor de una fuerza antipandillas, aunque no ha alcanzado su objetivo de efectivos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791383051/noticias/articles/20261007_142411_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 07 Oct 2026 14:24:51 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261007142451</guid>
   </item>
 </channel>
 </rss>
