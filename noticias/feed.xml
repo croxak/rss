@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 12 Oct 2026 21:15:15 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 21:23:49 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Autoridades incautan más de 46 millones de fármacos e insumos médicos ilegales valorados en más de RD$531 millones]]></title>
+    <link>https://eldia.com.do/autoridades-incautan-mas-de-46-millones-de-farmacos-e-insumos-medicos-ilegales-valorados-en-mas-de-rd531-millones/</link>
+    <description><![CDATA[Las autoridades desmantelaron una red de almacenamiento y comercialización ilegal de fármacos e insumos de salud en Santo Domingo Este. Se incautaron 46,957,123 unidades de productos ilegales, valorados en más de RD$531 millones.
+
+La operación fue coordinada por la Mesa de Ilícitos, encabezada por el Ministerio de Industria, Comercio y Mipymes, con el apoyo de la Procuraduría General de la República, la Dirección Central de Inteligencia Delictiva de la Policía Nacional, la Dirección General de Medicamentos, Alimentos y Productos Sanitarios y el Cuerpo Especializado de Control de Combustibles y Comercio de Mercancías.
+
+Los productos incluían fármacos vencidos, falsificados y sin registro sanitario, además de insumos médicos como guantes, mascarillas, batas, jeringas y fajas. Las acciones violan la Ley No. 42-01 y la Ley No. 17-19.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791839992/noticias/articles/20261012_211952_article.webp" type="image/webp"/>
+    <pubDate>Mon, 12 Oct 2026 21:23:49 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261012212349</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Muere "Bebo" en supuesto enfrentamiento policial en Los Ríos, Bahoruco]]></title>
     <link>https://listindiario.com/la-republica/provincias/20261012/muere-hombre-senalado-homicidio-supuesto-enfrentamiento-policias-bahoruco_925718.html</link>
     <description><![CDATA[Malvin Ferreras Matos, conocido como "Bebo", falleció tras un enfrentamiento con la Policía Nacional en Los Ríos, Bahoruco. Era buscado por su presunta participación en varios delitos, incluido un homicidio en Neyba.
@@ -1395,19 +1408,6 @@ En República Dominicana, el ministro de Agricultura, Francisco Oliverio Espaill
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791463845/noticias/articles/20261008_125045_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 08 Oct 2026 12:53:53 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261008125353</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Puerto Plata recibe el primer crucero de Disney que llega a República Dominicana]]></title>
-    <link>https://www.diariolibre.com/economia/turismo/2026/10/06/republica-dominicana-recibe-a-disney-cruise-line-en-puerto-plata/3680971</link>
-    <description><![CDATA[República Dominicana ha recibido por primera vez un crucero de Disney Cruise Line. El Disney Dream llegó a la terminal Taino Bay en Puerto Plata con 3,194 pasajeros y 1,467 tripulantes, marcando la primera escala de un barco de Disney en el país.
-
-La llegada fue celebrada por autoridades del Ministerio de Turismo y Portuaria, junto a representantes de ITM Group, con un intercambio de placas y llaves. Este evento coincidió con la presencia de los cruceros Norwegian Prima y Carnival Mardi Gras, movilizando en total 17,491 personas.
-
-La presencia de Disney Cruise Line continuará este mes con la llegada del Disney Destiny el 22 de octubre.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791426586/noticias/articles/20261008_022946_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 08 Oct 2026 02:30:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261008023028</guid>
   </item>
 </channel>
 </rss>
