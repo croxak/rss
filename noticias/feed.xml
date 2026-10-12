@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 12 Oct 2026 15:51:05 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 15:52:48 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Abinader atribuye salida de RD del mapa del hambre al aumento de la producción y las ayudas sociales]]></title>
+    <link>https://www.diariolibre.com/politica/gobierno/2026/10/12/abinader-destaca-las-claves-para-sacar-a-rd-del-mapa-del-hambre/3686465</link>
+    <description><![CDATA[El presidente Luis Abinader explicó que la salida de la República Dominicana del mapa del hambre de la FAO se debe al aumento de la producción de alimentos, mejora de ingresos y ampliación de programas sociales. En el Foro Mundial de la Alimentación 2026 en Roma, destacó que la subalimentación en el país pasó del 21.3 % a menos del 2.5 %.
+
+Entre 2004 y 2024, el índice de producción de alimentos por habitante creció un 122.3 %. Además, el ingreso real por habitante aumentó un 43.7 % entre 2015 y 2025, y la pobreza monetaria disminuyó significativamente.
+
+En protección social, la cobertura de la alimentación escolar aumentó, y se duplicaron los subsidios Aliméntate y Bono Gas. Abinader también destacó medidas para proteger a pequeños productores, como el subsidio a la urea.
+
+Fuente: Diario Libre - Luis Silva]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791820336/noticias/articles/20261012_155216_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 12 Oct 2026 15:52:48 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261012155248</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Delcy Rodríguez y Luis Abinader se reúnen por primera vez en Roma tras anuncio de restablecimiento gradual de relaciones]]></title>
     <link>https://albertonews.com/nacionales/delcy-rodriguez-y-luis-abinader-conversan-en-roma-en-el-marco-de-la-reunion-de-la-fao/</link>
     <description><![CDATA[Delcy Rodríguez y Luis Abinader sostuvieron su primer encuentro en Roma en el marco del Foro Mundial de la Alimentación de la FAO. La reunión se produce luego de que ambos países acordaran avanzar hacia la normalización gradual de sus relaciones bilaterales.
@@ -1411,21 +1426,6 @@ La ceremonia de premiación se celebrará en Santo Domingo en marzo de 2027. Las
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791389658/noticias/articles/20261007_161417_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 07 Oct 2026 16:14:53 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261007161453</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Paliza asegura que Gobierno protegerá a productores de arroz tras eliminación de arancel]]></title>
-    <link>https://n.com.do/2026/10/07/paliza-asegura-que-gobierno-protegera-a-productores-de-arroz-tras-eliminacion-de-arancel/</link>
-    <description><![CDATA[El ministro de la Presidencia, José Ignacio Paliza, aseguró que el Gobierno protegerá a los productores de arroz tras la eliminación del arancel a la importación del cereal. Paliza afirmó que tanto productores como consumidores pueden estar tranquilos, ya que el Gobierno respaldará al sector.
-
-Paliza negó que la eliminación del arancel provoque un aumento en el precio del arroz, destacando que el país es autosuficiente en su producción.
-
-El Gobierno buscará renegociar con Estados Unidos las condiciones arancelarias del Tratado de Libre Comercio DR-Cafta. Paliza enfatizó que las discusiones comerciales no han concluido.
-
-La derogación del Decreto 693-24, que establecía un arancel del 20 % para ciertas categorías de arroz, fue efectuada por el Decreto 635-26. La Confederación Nacional de Productores Agropecuarios expresó preocupación por las consecuencias de esta medida.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791387913/noticias/articles/20261007_154513_article.webp" type="image/webp"/>
-    <pubDate>Wed, 07 Oct 2026 15:46:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261007154619</guid>
   </item>
 </channel>
 </rss>
