@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 12 Oct 2026 00:37:49 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 00:41:03 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Detienen en Brasil a dominicano que presuntamente presentó pasaporte falso para viajar a París]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261012004103</link>
+    <description><![CDATA[La Policía Federal brasileña informó sobre la detención de un ciudadano dominicano que presuntamente presentó un pasaporte falso cuando intentaba embarcar hacia París desde el Aeropuerto Internacional de São Paulo, en Guarulhos.
+
+La actuación fue incluida en un comunicado publicado el 8 de octubre de 2026, que recoge varias detenciones realizadas durante los días 6 y 7 de ese mes. La autoridad no precisó en cuál de esas dos fechas fue arrestado el dominicano.
+
+El comunicado confirma su ciudadanía, pero no publica su nombre, edad ni el país al que supuestamente correspondía el pasaporte presentado. Tampoco detalla su situación judicial posterior.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791765617/noticias/articles/20261012_004016_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 12 Oct 2026 00:41:03 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261012004103</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Investigan a hombre de origen dominicano por agredir a conductor de autobús en Italia; sindicatos convocaron huelga para exigir mayor seguridad]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261012003749</link>
     <description><![CDATA[La policía italiana investiga a un hombre de 38 años, identificado por RAI como ciudadano italiano de origen dominicano, por presuntamente agredir a un conductor de autobús en Santa Giustina, Rimini. El incidente motivó una convocatoria sindical de huelga para reclamar mayor seguridad en el transporte público.
@@ -1429,17 +1442,6 @@ Durante el allanamiento, las autoridades dominicanas ocuparon tres dispositivos 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791344083/noticias/articles/20261007_033443_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 07 Oct 2026 03:35:43 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261007033543</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Autoridades trasladan al Zoológico al mono incautado en operativo antinarcóticos en las costas de Baní]]></title>
-    <link>https://www.diariolibre.com/planeta/medioambiente/2026/10/06/autoridades-recuperan-mono-introducido-ilegalmente-al-pais/3680752</link>
-    <description><![CDATA[El Ministerio de Medio Ambiente y Recursos Naturales recibió un mono capuchino de cara blanca incautado en un operativo contra el narcotráfico en Baní. El animal fue trasladado al Parque Zoológico Nacional para recibir atención veterinaria.
-
-Según informaciones preliminares, el mono procede de Colombia. Las autoridades reiteraron que estas prácticas amenazan la biodiversidad y violan disposiciones sobre protección de fauna.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791342872/noticias/articles/20261007_031431_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 07 Oct 2026 03:16:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261007031619</guid>
   </item>
 </channel>
 </rss>
