@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 12 Oct 2026 12:33:48 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 12:39:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Alfredo Pacheco condena actuación policial contra la diputada Millys Martínez en Elías Piña]]></title>
+    <link>https://www.diariolibre.com/politica/general/2026/10/11/alfredo-pacheco-condena-que-diputada-de-elias-pina-fuera-esposada/3686104</link>
+    <description><![CDATA[Alfredo Pacheco, presidente de la Cámara de Diputados, condenó la actuación policial contra la diputada Millys Johanna Martínez Morillo en Elías Piña. Según Pacheco, la diputada fue esposada durante un intento de arresto, lo que calificó como una agresión.
+
+El artículo 86 de la Constitución dominicana establece que ningún legislador puede ser privado de su libertad sin autorización de la cámara, salvo en caso de flagrante delito. Pacheco insistió en que las autoridades deben respetar el orden constitucional.
+
+La Policía Nacional negó que la diputada fuera arrestada y anunció una investigación sobre el incidente, que ocurrió en una estación de combustible.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791808718/noticias/articles/20261012_123837_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 12 Oct 2026 12:39:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261012123904</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Identifican a joven dominicano entre tres fallecidos en tiroteo que dejó ocho heridos en Puerto Rico]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261012123348</link>
     <description><![CDATA[Elisaul Santana, de 29 años y oriundo de República Dominicana, fue identificado entre los tres hombres que murieron durante un tiroteo registrado la madrugada del domingo 11 de octubre en el negocio Zoila Café, en Río Piedras.
@@ -1421,21 +1434,6 @@ Ramírez Kones fue arrestado cinco días después del homicidio en Swansea, Gale
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791381496/noticias/articles/20261007_135815_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 07 Oct 2026 13:59:09 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261007135909</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Arrestan en Massachusetts a dos dominicanos acusados de apuñalar siete veces a detective del NYPD en El Bronx]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261007135529</link>
-    <description><![CDATA[Las autoridades estadounidenses arrestaron en Massachusetts a los dominicanos D’Angelo Rafael Jean Caraballo, de 25 años, y Sneider Mejía Bautista, de 24, señalados como sospechosos del apuñalamiento y robo del detective del Departamento de Policía de Nueva York (NYPD) José Mercedes, ocurrido el pasado 2 de octubre en El Bronx.
-
-Ambos fueron localizados durante la madrugada escondidos en el sótano de una vivienda en Lynn, Massachusetts, durante un operativo realizado por detectives del NYPD asignados al U.S. Marshals Regional Fugitive Task Force, con apoyo de la unidad regional de fugitivos de Boston.
-
-Caraballo y Mejía eran buscados por cargos que incluyen intento de asesinato, robo y posesión criminal de un arma. Según las autoridades, los dos se acercaron a Mercedes mientras se encontraba junto a su vehículo en la zona de Norwood, en El Bronx, lo atacaron con un arma blanca y le sustrajeron una cadena de oro antes de escapar en una bicicleta motorizada. El detective fue apuñalado y cortado varias veces, pero logró perseguir a sus atacantes antes de desplomarse. Posteriormente fue hospitalizado y dado de alta.
-
-El Departamento de Seguridad Nacional de Estados Unidos había confirmado previamente que Caraballo y Mejía son ciudadanos de República Dominicana y que se encontraban en territorio estadounidense de manera irregular.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791381270/noticias/articles/20261007_135429_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 07 Oct 2026 13:55:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261007135529</guid>
   </item>
 </channel>
 </rss>
