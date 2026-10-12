@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 12 Oct 2026 18:22:26 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 18:25:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Se entrega “Gatillo Alegre”, buscado por tentativa de homicidio en Santiago]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261012182520</link>
+    <description><![CDATA[Tras varios meses prófugo, se entregó a las autoridades Jean Carlos Estrella Balbuena, alias “Gatillo Alegre”, de 34 años, quien era buscado por su presunta implicación en tentativa de homicidio contra un abogado, ocurrido en noviembre de 2025 en esta ciudad.
+
+La Policía Nacional informó que el hombre fue entregado por su representante legal a miembros de la División de Homicidios, donde quedó bajo arresto en cumplimiento de una orden judicial emitida en su contra.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791829475/noticias/articles/20261012_182435_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 12 Oct 2026 18:25:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261012182520</guid>
+  </item>
+
+  <item>
     <title><![CDATA[RD y Venezuela tratarán compra de AC30 y gas licuado de petróleo (GLP)]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261012182226</link>
     <description><![CDATA[La República Dominicana negocia la posibilidad de comprar directamente a Venezuela combustibles como AC30 y gas licuado de petróleo (GLP), un tema que será tratado por la Refinería Dominicana de Petróleo (Refidomsa) y Petróleos de Venezuela (PDVSA), según informó este lunes el presidente Luis Abinader tras reunirse con la presidenta interina venezolana, Delcy Rodríguez, en Roma.
@@ -1407,19 +1418,6 @@ La Policía continúa la búsqueda de Carrasco, mientras la bebé permanece hosp
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791422619/noticias/articles/20261008_012339_article.png" type="image/png"/>
     <pubDate>Thu, 08 Oct 2026 01:24:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261008012414</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[EE.UU. decomisa 2,2 millones de litros de biodiésel que iban a Cuba]]></title>
-    <link>https://noticiassin.com/estados-unidos/2026/10/07/ee-uu-decomisa-22-millones-de-litros-de-biodiesel-a-cuba-2137708/</link>
-    <description><![CDATA[Las autoridades estadounidenses decomisaron 2,2 millones de litros de biodiésel destinados a Cuba, valorados en 2,8 millones de dólares, por violar sanciones. La operación involucró a la empresa sancionada Enetec.
-
-El decomiso se realizó en Florida y Texas, con 90 cargamentos confiscados. José R. Figueroa, agente especial de la Oficina de Investigaciones de Seguridad Nacional, señaló que el caso está bajo investigación.
-
-Enetec, sancionada por la OFAC, está vinculada al Gobierno cubano y se dedica al comercio mayorista de combustible y lubricantes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791399996/noticias/articles/20261007_190636_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 07 Oct 2026 19:07:03 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261007190703</guid>
   </item>
 </channel>
 </rss>
