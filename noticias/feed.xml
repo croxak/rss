@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 12 Oct 2026 21:23:49 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 21:25:58 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Muere RJ Mitte, el actor que era el hijo de Walter White en ‘Breaking Bad’, a los 34 años]]></title>
+    <link>https://elpais.com/us/entretenimiento/2026-10-12/muere-rj-mitte-el-actor-que-era-el-hijo-de-walter-white-en-breaking-bad-a-los-34-anos.html</link>
+    <description><![CDATA[RJ Mitte, el actor que interpretó a Walter White Jr. en "Breaking Bad", ha fallecido a los 34 años en Texas. Mitte, quien tenía parálisis cerebral, fue un defensor de los derechos de las personas con discapacidad y embajador de United Cerebral Palsy y Shriners Children’s.
+
+Además de su papel en "Breaking Bad", Mitte participó en cortometrajes, documentales, series y desfiles de moda. Fue nominado a los Premios de los Actores en tres ocasiones, ganando en 2014. También presidió The Mitte Foundation, apoyando iniciativas filantrópicas.
+
+Su representante ha comunicado la noticia y ha pedido privacidad para la familia en estos momentos difíciles.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791840320/noticias/articles/20261012_212520_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 12 Oct 2026 21:25:58 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261012212558</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Autoridades incautan más de 46 millones de fármacos e insumos médicos ilegales valorados en más de RD$531 millones]]></title>
     <link>https://eldia.com.do/autoridades-incautan-mas-de-46-millones-de-farmacos-e-insumos-medicos-ilegales-valorados-en-mas-de-rd531-millones/</link>
     <description><![CDATA[Las autoridades desmantelaron una red de almacenamiento y comercialización ilegal de fármacos e insumos de salud en Santo Domingo Este. Se incautaron 46,957,123 unidades de productos ilegales, valorados en más de RD$531 millones.
@@ -1395,19 +1408,6 @@ El COE exhorta a la población a mantenerse informada y preparada, evitando cruz
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791464115/noticias/articles/20261008_125515_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 08 Oct 2026 12:56:08 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261008125608</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El arroz estadounidense compite con subsidios y protección]]></title>
-    <link>https://www.diariolibre.com/economia/agro/2026/10/08/arroz-estadounidense-compite-con-respaldo-del-presupuesto/3681981</link>
-    <description><![CDATA[El arroz estadounidense compite en el mercado internacional con el respaldo de ayudas federales. En 2026, el programa Farmer Bridge Assistance otorgó una ayuda de 132.89 dólares por acre de arroz, la mayor entre los cultivos incluidos. Este apoyo cubre el 30.4 % de la pérdida estimada por acre.
-
-Estados Unidos también cuenta con mecanismos de protección como el Price Loss Coverage y el Agriculture Risk Coverage. En 2023, se habilitaron hasta 250 millones de dólares para productores de arroz.
-
-En República Dominicana, el ministro de Agricultura, Francisco Oliverio Espaillat, aseguró que la derogación del Decreto 635-26 no significa abandonar a los productores de arroz. El presidente Luis Abinader mantiene su compromiso con la producción nacional mediante medidas para fortalecer la productividad y competitividad.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791463845/noticias/articles/20261008_125045_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 08 Oct 2026 12:53:53 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261008125353</guid>
   </item>
 </channel>
 </rss>
