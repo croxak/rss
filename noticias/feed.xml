@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 12 Oct 2026 14:42:32 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 15:12:36 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[ONU alerta sobre intercambio de drogas por armas entre bandas de Jamaica y Haití]]></title>
+    <link>https://n.com.do/2026/10/12/onu-alerta-sobre-intercambio-de-drogas-por-armas-entre-bandas-de-jamaica-y-haiti/</link>
+    <description><![CDATA[Un informe de la ONU revela que bandas criminales en Jamaica y Haití intercambian drogas por armas de fuego. Las autoridades jamaicanas han decomisado 51 armas de la Policía Nacional de Haití.
+
+El tráfico de drogas y armas está interconectado en la región, utilizando rutas marítimas y contactos transnacionales. El informe documenta 28 incautaciones de armas y municiones entre 2022 y 2026, con operaciones en Miami, Haití y República Dominicana.
+
+Parte del armamento proviene de compras en Estados Unidos. La cooperación regional es esencial para abordar el problema.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791817928/noticias/articles/20261012_151208_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 12 Oct 2026 15:12:36 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261012151236</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Apresan a cuatro hombres por presunta falsificación de cheques y documentos en Moca]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/12/falsificacion-de-cheques-y-documentos-en-moca-deja-cuatro-detenidos/3686440</link>
     <description><![CDATA[Cuatro hombres fueron apresados en Moca, provincia Espaillat, durante un allanamiento en el que las autoridades desmantelaron una presunta estructura delictiva dedicada a la impresión y falsificación de documentos, así como al cobro ilícito de cheques fraudulentos.
@@ -1419,17 +1432,6 @@ La importancia estratégica del terminal ha convertido sus accesos y operaciones
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791385337/noticias/articles/20261007_150216_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 07 Oct 2026 15:03:10 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261007150310</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Robert de la Cruz desmiente que informaran a la CONAP o solicitaran suspender la consulta del PLD]]></title>
-    <link>https://eldia.com.do/robert-de-la-cruz-desmiente-a-danilo-diaz-sobre-suspension/</link>
-    <description><![CDATA[Robert de la Cruz, representante de Francisco Javier García ante la CONAP, desmintió las afirmaciones de Danilo Díaz sobre la suspensión de la consulta del PLD. De la Cruz aseguró que no fueron informados previamente y que nunca solicitaron la suspensión.
-
-De la Cruz destacó que estaban preparados para participar en la consulta del 18 de octubre y que la noticia de la suspensión los tomó por sorpresa. Cuestionó la imparcialidad de Danilo Díaz y el manejo de las comunicaciones sobre los equipos necesarios para el proceso.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791384143/noticias/articles/20261007_144222_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 07 Oct 2026 14:43:17 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261007144317</guid>
   </item>
 </channel>
 </rss>
