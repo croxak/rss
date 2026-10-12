@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 12 Oct 2026 21:14:15 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 21:15:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Muere "Bebo" en supuesto enfrentamiento policial en Los Ríos, Bahoruco]]></title>
+    <link>https://listindiario.com/la-republica/provincias/20261012/muere-hombre-senalado-homicidio-supuesto-enfrentamiento-policias-bahoruco_925718.html</link>
+    <description><![CDATA[Malvin Ferreras Matos, conocido como "Bebo", falleció tras un enfrentamiento con la Policía Nacional en Los Ríos, Bahoruco. Era buscado por su presunta participación en varios delitos, incluido un homicidio en Neyba.
+
+Según la Policía, Ferreras Matos habría enfrentado a los agentes con una escopeta calibre 12. Durante el operativo, se ocuparon prendas falsificadas con insignias del Dicrim.
+
+Las investigaciones continúan para localizar a otros presuntos implicados en los hechos delictivos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791839679/noticias/articles/20261012_211439_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 12 Oct 2026 21:15:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261012211515</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Tiroteos entre bandas en Haití dañan red de fibra óptica y provocan nueva crisis de comunicaciones]]></title>
     <link>https://www.diariolibre.com/mundo/haiti/2026/10/12/tiroteos-entre-bandas-en-haiti-danan-red-de-fibra-optica/3686757</link>
     <description><![CDATA[La empresa Digicel ha informado que dos de sus enlaces de fibra óptica en Haití fueron dañados por tiroteos entre bandas en la carretera nacional número 1, causando interrupciones en telefonía e internet.
@@ -1395,17 +1408,6 @@ La presencia de Disney Cruise Line continuará este mes con la llegada del Disne
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791426586/noticias/articles/20261008_022946_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 08 Oct 2026 02:30:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261008023028</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Trasladan a dominicana a centro de detención migratoria en Panamá por presunta vinculación con delitos de drogas]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261008021805</link>
-    <description><![CDATA[El Servicio Nacional de Migración de Panamá informó sobre el traslado de una ciudadana dominicana desde su sede regional de Los Santos hacia el Centro de Detención Administrativo Migratorio Femenino, luego de que una verificación en el sistema reflejara su presunta vinculación con delitos relacionados con drogas.
-
-La institución explicó que la mujer fue remitida al centro para realizar los trámites migratorios correspondientes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791425774/noticias/articles/20261008_021614_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 08 Oct 2026 02:18:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261008021805</guid>
   </item>
 </channel>
 </rss>
