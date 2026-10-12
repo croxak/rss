@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 12 Oct 2026 21:11:13 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 21:14:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Tiroteos entre bandas en Haití dañan red de fibra óptica y provocan nueva crisis de comunicaciones]]></title>
+    <link>https://www.diariolibre.com/mundo/haiti/2026/10/12/tiroteos-entre-bandas-en-haiti-danan-red-de-fibra-optica/3686757</link>
+    <description><![CDATA[La empresa Digicel ha informado que dos de sus enlaces de fibra óptica en Haití fueron dañados por tiroteos entre bandas en la carretera nacional número 1, causando interrupciones en telefonía e internet.
+
+Los técnicos de Digicel enfrentan dificultades para acceder al área debido a la inseguridad. La situación coincide con enfrentamientos entre la banda Chen Mechan y otro grupo armado en Terre-Noire.
+
+Las interrupciones afectan llamadas telefónicas, internet y transferencias de dinero móvil. Algunos usuarios comenzaron a recuperar la conexión, pero el alcance total de la avería aún no se ha determinado.
+
+Este incidente ocurre poco después de otra interrupción similar el 4 de octubre. Digicel prometió mantener informados a sus clientes y prioriza la seguridad de su personal técnico.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791839550/noticias/articles/20261012_211230_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 12 Oct 2026 21:14:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261012211415</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fondo Humanitario asigna 75 millones para responder a necesidades más urgentes de Haití]]></title>
     <link>https://www.diariolibre.com/mundo/haiti/2026/10/12/fondo-humanitario-da-75-millones-para-responder-necesidades-haiti/3686792</link>
     <description><![CDATA[El Fondo Humanitario para Haití asignará 75 millones de dólares a diez proyectos para responder a necesidades urgentes en el país, según la Oficina de Naciones Unidas para la Coordinación de Asuntos Humanitarios (OCHA). Estos proyectos asistirán a 507,000 personas en 28 comunas de los departamentos del Oeste, Centro y Artibonito.
@@ -1391,19 +1406,6 @@ La institución explicó que la mujer fue remitida al centro para realizar los t
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791425774/noticias/articles/20261008_021614_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 08 Oct 2026 02:18:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261008021805</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Autoridades confirman 42 prófugos se han entregado en los primeros 6 días de octubre]]></title>
-    <link>https://n.com.do/2026/10/07/autoridades-confirman-42-profugos-se-han-entregado-en-los-primeros-6-dias-de-octubre/</link>
-    <description><![CDATA[Entre el 1 y el 6 de octubre de 2026, 42 prófugos se entregaron voluntariamente a las autoridades. Estas acciones son parte de los esfuerzos de la Policía Nacional para localizar a personas requeridas por la justicia.
-
-De las entregas en octubre, 15 fueron por delitos contra la propiedad, 12 por agresión física y cinco por homicidios. También hubo entregas por otros delitos como heridas con arma blanca y violencia intrafamiliar.
-
-Desde el 17 de agosto, 195 prófugos se han entregado, destacando los delitos contra la propiedad y homicidios como los más comunes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791424373/noticias/articles/20261008_015253_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 08 Oct 2026 01:53:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261008015319</guid>
   </item>
 </channel>
 </rss>
