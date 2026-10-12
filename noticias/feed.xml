@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 12 Oct 2026 12:43:41 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 12:45:52 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[León XIV acepta renuncia de Ozoria y entrega a Morel Diplán el Arzobispado de Santo Domingo y el Obispado Castrense]]></title>
+    <link>https://eldia.com.do/papa-acepta-renuncia-ozoria-como-arzobispo-y-castrense/</link>
+    <description><![CDATA[El papa León XIV ha aceptado la renuncia de monseñor Francisco Ozoria Acosta como arzobispo de Santo Domingo y ordinario militar de la República Dominicana. Monseñor Carlos Tomás Morel Diplán asume ambas responsabilidades.
+
+La renuncia de Ozoria se formalizó tras cumplir 75 años, conforme al Código de Derecho Canónico. Morel Diplán, oriundo de Moca, llega a la conducción de la Arquidiócesis de Santo Domingo con experiencia como obispo auxiliar de Santiago.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791809095/noticias/articles/20261012_124455_article.webp" type="image/webp"/>
+    <pubDate>Mon, 12 Oct 2026 12:45:52 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261012124552</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece Freddy Sandoval, destacado periodista de la televisión dominicana]]></title>
     <link>https://eldia.com.do/fallece-freddy-sandoval-destacado-periodista-de-la-television-dominicana/</link>
     <description><![CDATA[Freddy Sandoval, reconocido periodista dominicano, falleció este domingo. La noticia fue confirmada por su compañero Luisín Mejía en Instagram. Sandoval, quien formaba parte del programa Hoy Mismo, murió tras una cirugía cardíaca electiva en Estados Unidos.
@@ -1411,23 +1422,6 @@ Desde principios de año, al menos 5.700 personas han muerto o resultado heridas
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791383051/noticias/articles/20261007_142411_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 07 Oct 2026 14:24:51 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261007142451</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[República Dominicana participa en operación de Interpol que dejó 233 detenidos por delitos ambientales]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261007140141</link>
-    <description><![CDATA[República Dominicana participó en una operación internacional contra redes dedicadas presuntamente a la deforestación, la minería ilegal y el tráfico de especies silvestres que dejó 233 personas detenidas en América Latina y el Caribe.
-
-La Operación Madre Tierra VIII fue desarrollada entre el 1 de junio y el 31 de julio bajo la coordinación de Interpol, con la participación de autoridades de Colombia, Costa Rica, El Salvador, Guatemala, Honduras, México, Nicaragua, Panamá y República Dominicana.
-
-Según el balance publicado por Interpol este 7 de octubre, las autoridades reportaron más de 330 casos, identificaron a 312 sospechosos y realizaron 313 incautaciones. También rescataron más de mil animales vivos y detectaron unas 60,000 hectáreas de bosque presuntamente deforestadas de manera ilegal.
-
-Entre los materiales decomisados figuran aproximadamente 4.6 toneladas de cianuro, recipientes con mercurio, municiones y unos 165 kilogramos de aletas de tiburón secas, valoradas en alrededor de US$280,000.
-
-La operación también permitió detectar rutas utilizadas para trasladar madera y especies protegidas desde América Latina hacia mercados de Europa y Asia, así como vínculos financieros y empresariales relacionados con las actividades investigadas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791381671/noticias/articles/20261007_140111_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 07 Oct 2026 14:01:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261007140141</guid>
   </item>
 </channel>
 </rss>
