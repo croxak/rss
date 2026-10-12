@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 12 Oct 2026 18:45:09 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 12 Oct 2026 21:10:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Hombre armado irrumpe en escuela y amenaza con matar al director en Barahona]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/12/hombre-armado-irrumpe-escuela-en-barahona/3686849</link>
+    <description><![CDATA[Un hombre armado irrumpió en la Escuela Primaria Mencía en Paraíso, Barahona, amenazando con matar al director Joselin Lebrón. El incidente ocurrió mientras el director almorzaba en la biblioteca. Estudiantes y maestras confirmaron la presencia del individuo, quien intentó agredir a un estudiante.
+
+La escuela, que alberga a más de 800 estudiantes, carece de seguridad escolar desde hace meses. Además, una obra paralizada desde hace cuatro años agrava la situación. Lebrón planea presentar una denuncia y solicita intervención del Ministerio de Educación.
+
+Fuente: Diario Libre - Omar Medina]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791839377/noticias/articles/20261012_210936_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 12 Oct 2026 21:10:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261012211015</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece madre de Daniel Toribio, exadministrador del Banco de Reservas]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261012184509</link>
     <description><![CDATA[Falleció este domingo 11 de octubre, a los 102 años de edad, Juana Altagracia Marmolejos viuda Toribio, conocida cariñosamente como «Doña Tatá», madre del economista y dirigente político Daniel Toribio, exadministrador general del Banco de Reservas y exministro de Hacienda de la República Dominicana.
@@ -1399,29 +1412,6 @@ El cargo por votar sin ciudadanía contempla una pena máxima de un año de pris
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791424031/noticias/articles/20261008_014710_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 08 Oct 2026 01:47:53 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261008014753</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Imputan a dominicano arrestado en Bahamas por presunta conspiración para distribuir fentanilo y posesión de cinco armas]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261008014246</link>
-    <description><![CDATA[Un gran jurado federal imputó al dominicano Jose Molina-Ovalle, de 27 años, por su presunta participación en una conspiración para distribuir fentanilo en el condado de Worcester, Massachusetts.
-
-Molina-Ovalle, quien fue arrestado en Bahamas el 24 de septiembre de 2026, enfrenta cargos por conspiración para distribuir 400 gramos o más de fentanilo, posesión de armas de fuego por parte de una persona extranjera y reingreso ilegal a Estados Unidos, entre otras imputaciones.
-
-También fue acusado Richard Molina-Ovalle, de 36 años y residente en Worcester. La Fiscalía no especificó la relación familiar entre ambos, por lo que no debe afirmarse que son hermanos.
-
-Según los documentos judiciales, Jose Molina-Ovalle presuntamente abastecía de drogas a Richard. Durante un registro efectuado en la residencia atribuida al dominicano en Worcester, las autoridades aseguran haber encontrado aproximadamente 4.5 kilogramos de fentanilo, un kilogramo de cocaína, dinero en efectivo, sustancias de corte, balanzas, licuadoras y materiales utilizados para empacar drogas.
-
-Los agentes también ocuparon tres pistolas —una Glock calibre .45, una Glock calibre .40 y una Smith & Wesson calibre .380—, una escopeta calibre 12 y un rifle AR-15.
-
-La investigación sostiene que Richard Molina-Ovalle fue observado el 10 de septiembre en las inmediaciones de la residencia de otro supuesto integrante de la conspiración en Leominster. En su vehículo habrían sido encontrados más de 400 gramos de fentanilo. Una búsqueda posterior en su apartamento produjo el decomiso de otros 31 gramos, según la Fiscalía.
-
-Richard fue detenido en septiembre y posteriormente liberado bajo condiciones. Su comparecencia para la lectura de cargos fue fijada para el 13 de octubre de 2026.
-
-El cargo principal de conspiración contempla una pena mínima de diez años y una máxima de cadena perpetua.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791423739/noticias/articles/20261008_014218_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 08 Oct 2026 01:42:46 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261008014246</guid>
   </item>
 </channel>
 </rss>
