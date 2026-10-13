@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 13 Oct 2026 13:01:20 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 13:11:57 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Gobierno establece evaluación previa para compras tecnológicas estratégicas del sector público]]></title>
+    <link>https://7dias.com.do/2026/10/12/gobierno-establece-evaluacion-previa-para-compras-tecnologicas-estrategicas-del-sector-publico/</link>
+    <description><![CDATA[El Gobierno dominicano ha emitido el Decreto 714-26, que aprueba un nuevo reglamento para la infraestructura digital del Estado. Este busca optimizar el uso de recursos públicos en tecnología y fortalecer la seguridad de los sistemas digitales.
+
+Las contrataciones tecnológicas estratégicas deberán seguir criterios de coordinación, eficiencia, interoperabilidad y sostenibilidad, alineados con las políticas nacionales de transformación digital.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791897065/noticias/articles/20261013_131105_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 13 Oct 2026 13:11:57 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261013131157</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader llega a Praga para participar en la 30.ª Conferencia Anual del Forum 2000]]></title>
     <link>https://z101digital.com/abinader-llega-a-praga-para-participar-en-la-30-a-conferencia-anual-del-forum-2000/</link>
     <description><![CDATA[El presidente Luis Abinader arribó a Praga para asistir a la 30.ª Conferencia Anual del Forum 2000 en el Prague Congress Center. Durante su visita, se reunirá con Jakub Klepal, director ejecutivo del Forum 2000.
@@ -1411,17 +1422,6 @@ El OIJ ha indicado que los artistas internacionales que participaron en los espe
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791467506/noticias/articles/20261008_135145_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 08 Oct 2026 13:54:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261008135402</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Presidente Abinader hablará al país la tarde de este jueves]]></title>
-    <link>https://n.com.do/2026/10/08/presidente-abinader-hablara-al-pais-la-tarde-de-este-jueves/</link>
-    <description><![CDATA[El presidente Luis Abinader encabezará una rueda de prensa este jueves a las 2:00 de la tarde en el salón verde del Palacio Nacional. Aún no se han revelado los temas que abordará.
-
-Más tarde, a las 6:00 de la tarde, el mandatario asistirá a la entrega de Premios a la Excelencia Importadora ADOEXPO 2026 en la sala Carlos Piantini del Teatro Nacional.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791465793/noticias/articles/20261008_132313_article.webp" type="image/webp"/>
-    <pubDate>Thu, 08 Oct 2026 13:23:52 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261008132352</guid>
   </item>
 </channel>
 </rss>
