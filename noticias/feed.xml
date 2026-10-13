@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 13 Oct 2026 20:08:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 20:34:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[OpenAI descubrió un dispositivo espía en sus oficinas, usó su IA para identificar al responsable y el FBI lo detuvo]]></title>
+    <link>https://www.lanacion.com.ar/economia/IA/openai-descubrio-un-dispositivo-espia-en-sus-oficinas-uso-su-ia-para-identificar-al-responsable-y-el-nid13102026/</link>
+    <description><![CDATA[OpenAI, creadora de ChatGPT, encontró un dispositivo de grabación oculto en sus oficinas. Utilizando su inteligencia artificial, identificaron al empleado responsable y presentaron el caso al FBI, que procedió a su detención.
+
+La empresa aseguró que no hay indicios de acceso indebido a información confidencial y que la protección de su tecnología y datos es una prioridad. La investigación continúa abierta.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791923652/noticias/articles/20261013_203411_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 13 Oct 2026 20:34:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261013203434</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Reportan cierre de oficina de atención y reservas de American Airlines en Santo Domingo y despido de empleados]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261013200832</link>
     <description><![CDATA[American Airlines habría dispuesto el cierre de su oficina de atención y reservas en Santo Domingo y la desvinculación del personal asignado a esa dependencia, según información recibida por El Testigo este martes 13 de octubre.
@@ -1393,23 +1404,6 @@ La peste neumónica, causada por la bacteria Yersinia pestis, afecta los pulmone
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791499710/noticias/articles/20261008_224829_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 08 Oct 2026 22:49:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261008224902</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Unapec alerta por exposición de credenciales de estudiantes]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261008224351</link>
-    <description><![CDATA[La Universidad APEC (Unapec) alertó a sus estudiantes sobre la exposición de nombres de usuario y contraseñas correspondientes a servicios institucionales y recomendó cambiar las claves de acceso como medida preventiva.
-
-La institución informó que conoció la situación a través de publicaciones en redes sociales en las que dieron a conocer direcciones de servicios institucionales junto con credenciales de estudiantes. Ante el hecho, activó sus protocolos de respuesta a incidentes y conformó un Comité de Crisis.
-
-De acuerdo con una investigación preliminar, según informaron, las credenciales expuestas las habrían obtenido mediante un programa malicioso conocido como “infostealer”. Este es capaz de recopilar contraseñas almacenadas en dispositivos personales.
-
-Unapec precisó que, hasta el momento, no ha identificado evidencia de una intrusión en sus plataformas institucionales ni en su infraestructura tecnológica interna. La investigación continúa para determinar el alcance de la exposición y el origen de las credenciales.
-
-El equipo de Tecnología y Seguridad de la Información trabaja junto con especialistas externos en ciberseguridad y el Centro Nacional de Ciberseguridad (CNCS) para analizar las evidencias disponibles.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791499401/noticias/articles/20261008_224320_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 08 Oct 2026 22:43:51 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261008224351</guid>
   </item>
 </channel>
 </rss>
