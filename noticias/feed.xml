@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 13 Oct 2026 13:15:39 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 14:25:59 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[“Prefiero un delincuente muerto a un policía herido", Sigfrido Pared Pérez, exministro de Defensa]]></title>
+    <link>https://elnacional.com.do/nacionales/policiales/prefiero-delincuente-muerto-policia-herido-sigfrido-pared-perez-exministro-defensa_583291.html</link>
+    <description><![CDATA[Sigfrido Pared Pérez, exministro de Defensa, afirmó que prefiere un delincuente muerto a un policía herido, ya que un ataque a un agente es una afrenta contra el Estado dominicano.
+
+Sobre Haití, Pared Pérez calificó como un disparate la propuesta de intervención militar por parte de República Dominicana. Sugirió que la ONU debería asumir el control para ayudar a Haití a salir adelante, destacando los desafíos que enfrenta el país vecino.
+
+Fuente: El Nacional - Ronny Mateo]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791901498/noticias/articles/20261013_142457_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 13 Oct 2026 14:25:59 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261013142559</guid>
+  </item>
+
+  <item>
     <title><![CDATA[República Dominicana registra 371 casos de dengue hasta septiembre; La Altagracia concentra el mayor aumento de contagios]]></title>
     <link>https://7dias.com.do/2026/10/12/republica-dominicana-registra-371-casos-de-dengue-hasta-septiembre-la-altagracia-concentra-el-mayor-aumento-de-contagios/</link>
     <description><![CDATA[La República Dominicana acumula 371 casos confirmados de dengue hasta finales de septiembre, un incremento de 137 casos respecto al mismo período del año 2025.
@@ -1387,29 +1400,6 @@ Testimonios de ex oficiales del régimen de Maduro, identificados como “CC-1�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791478331/noticias/articles/20261008_165210_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 08 Oct 2026 16:52:43 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261008165243</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[ONU identifica municiones fabricadas en República Dominicana en los años 50 en poder de la pandilla haitiana 400 Mawozo]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261008152840</link>
-    <description><![CDATA[Un informe del Grupo de Expertos de las Naciones Unidas sobre Haití reveló que la organización criminal 400 Mawozo, una de las principales pandillas armadas de ese país, posee municiones de calibre .50 fabricadas en República Dominicana durante la década de 1950.
-
-El hallazgo figura en el informe S/2026/714, publicado el 8 de septiembre de 2026, específicamente en el anexo 18, dedicado a las municiones dominicanas encontradas en poder de organizaciones criminales haitianas.
-
-Según los investigadores, el análisis de 32 cartuchos calibre .50 recuperados de la pandilla permitió establecer que al menos 15 fueron fabricados en territorio dominicano. Entre las evidencias documentadas se encuentra una munición producida en 1958, cuya fotografía aparece en el informe.
-
-El documento también señala que Wilson Joseph, alias «Lanmò San Jou», cabecilla de 400 Mawozo, difundió videos en redes sociales exhibiendo municiones de calibre .50 con una distintiva punta amarilla, cuyas características coinciden con las fabricadas en República Dominicana durante los años cincuenta.
-
-Como parte de la investigación, el Grupo de Expertos remitió dos solicitudes de rastreo a las autoridades dominicanas, que proporcionaron fotografías de municiones producidas por la antigua Armería de las Fuerzas Armadas de San Cristóbal entre la década de 1950 y 1960.
-
-Las autoridades dominicanas explicaron que las municiones excedentes de esa época estaban en proceso de destrucción y aseguraron que no habían detectado desvíos de ese material.
-
-No obstante, los investigadores advirtieron que todavía se desconoce la cadena de custodia que permitió que estas municiones terminaran en poder de 400 Mawozo. El informe precisa que parte de ese antiguo material militar fue exportado en el pasado al mercado civil estadounidense y que todavía existen cartuchos similares disponibles en sitios especializados de coleccionistas.
-
-El hallazgo forma parte de una investigación más amplia de Naciones Unidas sobre el tráfico de armas y municiones hacia Haití, que también documentó material procedente de arsenales de la Policía Nacional y del Ejército dominicanos en poder de distintas organizaciones criminales haitianas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791473302/noticias/articles/20261008_152821_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 08 Oct 2026 15:28:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261008152840</guid>
   </item>
 </channel>
 </rss>
