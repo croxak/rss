@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 13 Oct 2026 13:14:34 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 13:15:39 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[República Dominicana registra 371 casos de dengue hasta septiembre; La Altagracia concentra el mayor aumento de contagios]]></title>
+    <link>https://7dias.com.do/2026/10/12/republica-dominicana-registra-371-casos-de-dengue-hasta-septiembre-la-altagracia-concentra-el-mayor-aumento-de-contagios/</link>
+    <description><![CDATA[La República Dominicana acumula 371 casos confirmados de dengue hasta finales de septiembre, un incremento de 137 casos respecto al mismo período del año 2025.
+
+Durante la última semana notificada, se reportaron nueve casos confirmados: ocho del serotipo DENV-2 y uno sin tipificar. La provincia de La Altagracia concentró siete de estos casos, mientras que Duarte y Hato Mayor registraron un caso cada una.
+
+Las autoridades sanitarias hacen un llamado a mantener las medidas de prevención para evitar la proliferación del mosquito transmisor.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791897295/noticias/articles/20261013_131454_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 13 Oct 2026 13:15:39 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261013131539</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Autoridades apresan 23 haitianos en operativo en 15 viviendas en la Sierra de Bahoruco]]></title>
     <link>https://7dias.com.do/2026/10/13/autoridades-apresan-23-haitianos-en-operativo-en-15-viviendas-en-la-sierra-de-bahoruco/</link>
     <description><![CDATA[En la Sierra de Bahoruco, 23 haitianos fueron detenidos durante un operativo que desmanteló 15 viviendas. Las autoridades los acusaron de ocupación no autorizada de terrenos.
@@ -1397,19 +1410,6 @@ El hallazgo forma parte de una investigación más amplia de Naciones Unidas sob
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791473302/noticias/articles/20261008_152821_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 08 Oct 2026 15:28:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261008152840</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Solicitan 18 meses de prisión contra hombre que se entregó a la PN por el crimen de la niña Yosnely]]></title>
-    <link>https://www.diariolibre.com/actualidad/nacional/2026/10/08/mp-solicita-prision-preventiva-por-crimen-de-yosnely-alvarez/3682136</link>
-    <description><![CDATA[El Ministerio Público ha solicitado 18 meses de prisión preventiva para Edwin Reinaldo Rodríguez Cruz, acusado de la muerte de Yosnely Álvarez, de 13 años. El cuerpo de la menor fue hallado en el río Yaque del Norte tras un ataque en Navarrete, Santiago.
-
-Rodríguez Cruz enfrenta cargos de feminicidio, violación sexual agravada, amenaza de muerte, uso de arma blanca, tortura y barbarie. Una adolescente de 14 años sobrevivió al ataque y habría sido víctima de violación y amenazas.
-
-En un video, el imputado admite haber atacado a las adolescentes con un cuchillo y afirma que Yosnely se lanzó al río para escapar. La audiencia para la solicitud de prisión preventiva está pendiente.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791471498/noticias/articles/20261008_145803_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 08 Oct 2026 14:58:54 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261008145854</guid>
   </item>
 </channel>
 </rss>
