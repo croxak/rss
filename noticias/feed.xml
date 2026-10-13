@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 13 Oct 2026 20:34:34 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 20:38:23 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Ministerio Público ocupa con el Ceccom más de 86 mil productos de contrabando durante operativo en Higüey]]></title>
+    <link>https://n.com.do/2026/10/13/mp-ocupa-mas-de-86-mil-productos-de-contrabando-durante-operativo-en-higuey/</link>
+    <description><![CDATA[La Unidad de Investigación de Comercio Ilícito del Ministerio Público, en colaboración con el Cuerpo Especializado de Control de Combustibles y Mercancías, llevó a cabo un operativo en Higüey, incautando más de 86 mil productos de contrabando.
+
+Durante el operativo, se realizaron allanamientos en varios establecimientos comerciales, confiscando principalmente productos derivados del tabaco y alcohol. La operación fue liderada por la procuradora Bony Esther Suriel García y la fiscal Lauridelissa Jiménez, con el apoyo del Ejército y otros organismos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791923832/noticias/articles/20261013_203711_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 13 Oct 2026 20:38:23 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261013203823</guid>
+  </item>
+
+  <item>
     <title><![CDATA[OpenAI descubrió un dispositivo espía en sus oficinas, usó su IA para identificar al responsable y el FBI lo detuvo]]></title>
     <link>https://www.lanacion.com.ar/economia/IA/openai-descubrio-un-dispositivo-espia-en-sus-oficinas-uso-su-ia-para-identificar-al-responsable-y-el-nid13102026/</link>
     <description><![CDATA[OpenAI, creadora de ChatGPT, encontró un dispositivo de grabación oculto en sus oficinas. Utilizando su inteligencia artificial, identificaron al empleado responsable y presentaron el caso al FBI, que procedió a su detención.
@@ -1391,19 +1402,6 @@ El presidente dominicano, Luis Abinader, había mencionado previamente la posibi
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791500143/noticias/articles/20261008_225542_article.png" type="image/png"/>
     <pubDate>Thu, 08 Oct 2026 22:57:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261008225734</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Salud Pública refuerza vigilancia preventiva en aeropuertos, puertos y pasos fronterizos ante investigación en Rusia por peste neumónica]]></title>
-    <link>https://listindiario.com/la-republica/sector-salud/20261007/salud-publica-mantiene-vigilancia-preventiva-investigacion-rusia-peste-neumonica_925233.html</link>
-    <description><![CDATA[Salud Pública en República Dominicana ha reforzado la vigilancia preventiva ante una investigación en Rusia sobre la peste neumónica. Se han intensificado las medidas en aeropuertos, puertos y pasos fronterizos para identificar y seguir a viajeros de zonas de riesgo.
-
-Hasta el 7 de octubre, no se ha confirmado que el fallecimiento de una trabajadora en Rusia sea por peste neumónica. La OMS sigue el evento y ha solicitado más información a las autoridades rusas.
-
-La peste neumónica, causada por la bacteria Yersinia pestis, afecta los pulmones y se transmite por gotículas respiratorias. Es tratable con antibióticos si se atiende a tiempo. En República Dominicana, la peste no es endémica.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791499710/noticias/articles/20261008_224829_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 08 Oct 2026 22:49:02 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261008224902</guid>
   </item>
 </channel>
 </rss>
