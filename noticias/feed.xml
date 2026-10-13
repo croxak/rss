@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 13 Oct 2026 20:38:23 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 20:52:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[OpenAI descubrió un dispositivo espía en sus oficinas, usó su IA para identificar al responsable y el FBI lo detuvo]]></title>
+    <link>https://www.lanacion.com.ar/economia/IA/openai-descubrio-un-dispositivo-espia-en-sus-oficinas-uso-su-ia-para-identificar-al-responsable-y-el-nid13102026/</link>
+    <description><![CDATA[OpenAI, creadora de ChatGPT, encontró un dispositivo de grabación oculto en sus oficinas. Utilizaron su inteligencia artificial para identificar al empleado responsable.
+
+El caso fue denunciado al FBI, que detuvo al sospechoso. OpenAI aseguró que no hay indicios de acceso indebido a información confidencial.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791924725/noticias/articles/20261013_205204_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 13 Oct 2026 20:52:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261013205232</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministerio Público ocupa con el Ceccom más de 86 mil productos de contrabando durante operativo en Higüey]]></title>
     <link>https://n.com.do/2026/10/13/mp-ocupa-mas-de-86-mil-productos-de-contrabando-durante-operativo-en-higuey/</link>
     <description><![CDATA[La Unidad de Investigación de Comercio Ilícito del Ministerio Público, en colaboración con el Cuerpo Especializado de Control de Combustibles y Mercancías, llevó a cabo un operativo en Higüey, incautando más de 86 mil productos de contrabando.
@@ -1389,19 +1400,6 @@ Finalmente, el Ministerio reiteró que cualquier irregularidad identificada ser�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791501663/noticias/articles/20261008_232102_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 08 Oct 2026 23:23:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261008232331</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Venezuela y República Dominicana acordaron una ruta para el restablecimiento progresivo de sus relaciones diplomáticas]]></title>
-    <link>https://www.elnacional.com/2026/10/venezuela-y-republica-dominicana-acordaron-una-ruta-para-el-restablecimiento-progresivo-de-sus-relaciones-diplomaticas/</link>
-    <description><![CDATA[Venezuela y República Dominicana han acordado restablecer progresivamente sus relaciones diplomáticas. El canciller venezolano, Félix Plasencia, y el ministro dominicano Víctor “Ito” Bisonó pactaron la reactivación de los vínculos bilaterales durante el 41.º período de sesiones de la Cepal en República Dominicana.
-
-Este acercamiento busca superar el distanciamiento diplomático previo mediante el diálogo y la cooperación estratégica. La diplomacia venezolana destacó los lazos históricos entre ambos países y confirmó que las gestiones actuales siguen las instrucciones de la presidenta encargada, Delcy Rodríguez.
-
-El presidente dominicano, Luis Abinader, había mencionado previamente la posibilidad de fortalecer los nexos con Venezuela.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791500143/noticias/articles/20261008_225542_article.png" type="image/png"/>
-    <pubDate>Thu, 08 Oct 2026 22:57:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261008225734</guid>
   </item>
 </channel>
 </rss>
