@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 13 Oct 2026 19:30:39 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 19:48:25 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[EE. UU. retira a su principal diplomático en Managua]]></title>
+    <link>https://crhoy.com/mundo/ee-uu-retira-a-su-principal-diplomatico-en-managua/</link>
+    <description><![CDATA[Estados Unidos ha retirado a su principal diplomático en Managua, Elias Baumann, tras el rechazo del gobierno nicaragüense a la embajadora designada Natasha Franceschi. El Departamento de Estado criticó la decisión de Nicaragua, calificándola de hipocresía y falta de voluntad para el diálogo diplomático.
+
+El secretario de Estado, Marco Rubio, ha ordenado el regreso de Baumann a Washington para consultas cruciales.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791920844/noticias/articles/20261013_194723_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 13 Oct 2026 19:48:25 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261013194825</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Alfredo Pacheco deplora abandono de sesión por caso Millys Martínez y convoca a diputados para este miércoles]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261013193039</link>
     <description><![CDATA[El presidente de la Cámara de Diputados, Alfredo Pacheco, deploró este martes que legisladores abandonaran la sesión ordinaria en solidaridad con la diputada Millys Martínez, quien denunció haber sido víctima de un atropello por parte de agentes de la Policía Nacional en Elías Piña.
@@ -1401,19 +1412,6 @@ Hasta el momento, la Policía de Nueva York no ha anunciado arrestos ni presenta
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791498651/noticias/articles/20261008_223050_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 08 Oct 2026 22:31:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261008223128</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Médico dominicano es arrestado y acusado de asesinato tras muerte de paciente en El Bronx]]></title>
-    <link>https://www.diariolibre.com/usa/actualidad/2026/10/07/luis-rojas-cabrera-arrestado-por-asesinato-tras-tratamiento-anti-aging/3681657</link>
-    <description><![CDATA[Luis Rojas Cabrera, médico dominicano, fue arrestado y acusado de asesinato tras la muerte de Elizabeth Baron en su clínica de El Bronx. Baron falleció por una embolia gaseosa cardíaca tras un procedimiento de "anti-aging".
-
-Rojas Cabrera, de 55 años, permanece detenido en Rikers Island con una fianza de dos millones de dólares. Su abogado rechaza la acusación, argumentando que el médico intentó salvar a la paciente.
-
-Rojas Cabrera no tenía licencia para practicar medicina en EE.UU. y había sido arrestado anteriormente por cargos relacionados con la práctica médica ilegal.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791498483/noticias/articles/20261008_222802_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 08 Oct 2026 22:29:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261008222901</guid>
   </item>
 </channel>
 </rss>
