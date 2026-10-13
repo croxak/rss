@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 13 Oct 2026 20:52:32 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 21:33:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[El Vaticano confirma que el Papa Leon XIV fue diagnosticado con cáncer de pulmón]]></title>
+    <link>https://www.nmas.com.mx/internacional/papa-leon-xiv-tiene-cancer-de-pulmon-el-vaticano-reporta-tumor-maligno/</link>
+    <description><![CDATA[El Papa León XIV fue diagnosticado con adenocarcinoma pulmonar, confirmado durante una cirugía en el Hospital Gemelli. Se le extirpó el lóbulo inferior del pulmón derecho en una operación exitosa de 90 minutos.
+
+El Papa despertó sin problemas y regresó a su habitación en el hospital. El Vaticano canceló sus audiencias hasta el 20 de octubre. León XIV planea viajar a Uruguay, Argentina y Perú en noviembre.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791927109/noticias/articles/20261013_213149_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 13 Oct 2026 21:33:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261013213305</guid>
+  </item>
+
+  <item>
     <title><![CDATA[OpenAI descubrió un dispositivo espía en sus oficinas, usó su IA para identificar al responsable y el FBI lo detuvo]]></title>
     <link>https://www.lanacion.com.ar/economia/IA/openai-descubrio-un-dispositivo-espia-en-sus-oficinas-uso-su-ia-para-identificar-al-responsable-y-el-nid13102026/</link>
     <description><![CDATA[OpenAI, creadora de ChatGPT, encontró un dispositivo de grabación oculto en sus oficinas. Utilizaron su inteligencia artificial para identificar al empleado responsable.
@@ -1379,27 +1390,6 @@ Para seguir leyendo, visita nuestra página web eltestigo.com]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791502963/noticias/articles/20261008_234242_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 08 Oct 2026 23:44:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261008234406</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio de Defensa reafirma cero tolerancia ante actuaciones ilegales de militares, sin distinción de rango o posición]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261008232331</link>
-    <description><![CDATA[El Ministerio de Defensa (MIDE) reafirmó su política de cero tolerancia frente a cualquier actuación individual de miembros de las Fuerzas Armadas que contravenga las leyes, los reglamentos militares y los principios éticos de la institución, advirtiendo que quienes incurran en conductas ilícitas deberán responder ante la justicia, sin distinción de rango o posición.
-
-La posición fue expresada mediante un comunicado emitido a propósito del informe del Grupo de Expertos del Consejo de Seguridad de las Naciones Unidas sobre municiones de origen dominicano identificadas en Haití.
-
-La institución aseguró que mantiene investigaciones para esclarecer posibles irregularidades y determinar responsabilidades, reiterando su compromiso con la transparencia y la cooperación internacional.
-
-Como ejemplo de sus actuaciones, recordó que en diciembre de 2025 miembros del Ejército detuvieron a un segundo teniente y a un ciudadano haitiano cuando transportaban irregularmente 1,516 cartuchos de diferentes calibres en una motocicleta, en la provincia San Juan.
-
-Según Defensa, el oficial fue sometido a la justicia y permanece bajo prisión preventiva, mientras el proceso continúa ante los tribunales competentes.
-
-Asimismo, destacó que ha colaborado, a través del Ministerio de Relaciones Exteriores (MIREX), con los expertos de Naciones Unidas, suministrando información sobre adquisición, distribución y control de municiones.
-
-Finalmente, el Ministerio reiteró que cualquier irregularidad identificada será investigada y sometida a las instancias correspondientes, respetando en todo momento la presunción de inocencia y el debido proceso.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791501663/noticias/articles/20261008_232102_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 08 Oct 2026 23:23:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261008232331</guid>
   </item>
 </channel>
 </rss>
