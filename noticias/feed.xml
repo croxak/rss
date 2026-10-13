@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 13 Oct 2026 19:48:25 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 13 Oct 2026 20:08:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Reportan cierre de oficina de atención y reservas de American Airlines en Santo Domingo y despido de empleados]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261013200832</link>
+    <description><![CDATA[American Airlines habría dispuesto el cierre de su oficina de atención y reservas en Santo Domingo y la desvinculación del personal asignado a esa dependencia, según información recibida por El Testigo este martes 13 de octubre.
+
+De acuerdo con la fuente, la medida responde a una decisión operativa adoptada desde Dallas, Texas, donde se encuentra la sede corporativa de la aerolínea estadounidense.
+
+La información señala que, pese al cierre de la dependencia de reservaciones, el centro de venta de boletos ubicado en el primer nivel continuará ofreciendo servicios al público.
+
+American Airlines mantiene registrada en su página oficial una oficina comercial en el edificio In Tempo, situado en la avenida Winston Churchill esquina Max Henríquez Ureña, en el Distrito Nacional.
+
+Por el momento, se desconoce la cantidad de trabajadores afectados por la decisión, así como si sus funciones serán trasladadas a otras dependencias de la compañía.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791921940/noticias/articles/20261013_200540_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 13 Oct 2026 20:08:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261013200832</guid>
+  </item>
+
+  <item>
     <title><![CDATA[EE. UU. retira a su principal diplomático en Managua]]></title>
     <link>https://crhoy.com/mundo/ee-uu-retira-a-su-principal-diplomatico-en-managua/</link>
     <description><![CDATA[Estados Unidos ha retirado a su principal diplomático en Managua, Elias Baumann, tras el rechazo del gobierno nicaragüense a la embajadora designada Natasha Franceschi. El Departamento de Estado criticó la decisión de Nicaragua, calificándola de hipocresía y falta de voluntad para el diálogo diplomático.
@@ -1393,25 +1410,6 @@ El equipo de Tecnología y Seguridad de la Información trabaja junto con especi
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791499401/noticias/articles/20261008_224320_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 08 Oct 2026 22:43:51 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261008224351</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Investigan asesinato a puñaladas de joven dominicano de 18 años en El Bronx]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261008223128</link>
-    <description><![CDATA[El Departamento de Policía de Nueva York investiga el asesinato de Emanuel Durán Tolentino, un joven dominicano de 18 años que murió después de ser apuñalado en la espalda en una concurrida intersección de El Bronx.
-
-El ataque ocurrió alrededor de las 10:23 de la mañana del lunes 5 de octubre, en las inmediaciones de Walton Avenue y East Fordham Road, dentro de la jurisdicción del Precinto 46.
-
-Los agentes que respondieron a una llamada de emergencia encontraron al joven con una herida de arma blanca en la espalda. Paramédicos lo trasladaron al hospital St. Barnabas, donde fue declarado muerto.
-
-De acuerdo con informaciones preliminares recogidas por medios locales, Durán Tolentino caminaba junto a un amigo cuando ambos se encontraron con otras dos personas y se produjo un altercado. El dominicano presuntamente fue atacado cuando intentaba alejarse de la confrontación. Las autoridades no han confirmado públicamente el motivo de la discusión ni la identidad del agresor.
-
-La madre de la víctima, Rosa Tolentino, explicó que su hijo trabajaba durante las noches en una fábrica y contribuía con los gastos familiares. Parientes del joven iniciaron gestiones para trasladar sus restos a República Dominicana, donde esperan darle sepultura.
-
-Hasta el momento, la Policía de Nueva York no ha anunciado arrestos ni presentado cargos relacionados con el homicidio. Los investigadores solicitaron que cualquier persona con información se comunique confidencialmente con Crime Stoppers mediante el 1-800-577-TIPS o el 1-888-57-PISTA para quienes hablan español.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791498651/noticias/articles/20261008_223050_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 08 Oct 2026 22:31:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261008223128</guid>
   </item>
 </channel>
 </rss>
