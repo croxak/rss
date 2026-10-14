@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 14 Oct 2026 13:25:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 13:38:43 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[El arzobispo militar de EE.UU. instó a los soldados católicos a no participar de un fusilamiento que Trump quiere transmitir en vivo]]></title>
+    <link>https://www.lanacion.com.ar/el-mundo/el-arzobispo-militar-de-eeuu-insto-a-los-soldados-catolicos-a-no-participar-de-un-fusilamiento-que-nid13102026/</link>
+    <description><![CDATA[El arzobispo militar de EE.UU., Timothy Broglio, ha pedido a los soldados católicos que no participen en la ejecución de Nidal Malik Hasan, programada para diciembre. Broglio cuestiona la decisión de transmitir la ejecución en vivo y reafirma la oposición de la Iglesia católica a la pena de muerte.
+
+La Conferencia Episcopal Católica de Texas y el obispo de Austin, Daniel Garcia, apoyan la postura de Broglio. Hasan, condenado por la masacre de Fort Hood en 2009, será ejecutado el 3 de diciembre en la misma base donde ocurrieron los hechos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791985096/noticias/articles/20261014_133816_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 14 Oct 2026 13:38:43 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261014133843</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader llama a empresarios italianos a invertir en República Dominicana]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261014132534</link>
     <description><![CDATA[El presidente de la República, Luis Abinader invitó a los empresarios italianos a invertir en República Dominicana, al destacar las oportunidades de negocios que ofrece el país y la complementariedad entre la industria y la tecnología de Italia y los sectores productivos dominicanos.
@@ -1379,17 +1390,6 @@ Fuente: Diario Libre - Edward Fernández]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791560894/noticias/articles/20261009_154814_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 09 Oct 2026 15:49:09 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261009154909</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Alias «Chuky», buscado por tentativa de homicidio, muere en presunto enfrentamiento con la Policía en Bonao]]></title>
-    <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/09/muere-hombre-buscado-por-tentativa-de-homicidio-en-bonao/3682722</link>
-    <description><![CDATA[Carlos Alfredo Sánchez Robles, conocido como Chucky y/o Jeison Mano Negra, murió en un presunto enfrentamiento con la Policía Nacional en Bonao. Era buscado por tentativa de homicidio y otros delitos.
-
-El hecho ocurrió en el sector Fumanchú, y Sánchez Robles tenía una orden de arresto vigente desde el 7 de octubre de 2026. Su cuerpo fue llevado al Inacif en Santiago para los procedimientos legales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791556388/noticias/articles/20261009_143308_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 09 Oct 2026 14:34:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261009143428</guid>
   </item>
 </channel>
 </rss>
