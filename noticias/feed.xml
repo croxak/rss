@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 14 Oct 2026 13:21:36 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 13:23:51 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Policía mata a alias "Lucifer" en el ensanche La Paz; lo buscaba por dos órdenes de arresto]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/13/policia-mata-a-hombre-en-supuesto-intercambio-en-el-ensanche-la-paz-/3688113</link>
+    <description><![CDATA[La Policía Nacional ultimó a Aneury Santiago Cabrera Estévez, conocido como «Piraña» y/o «Lucifer», en un enfrentamiento en el ensanche La Paz, Distrito Nacional. Cabrera Estévez, de 38 años, era buscado por asaltos a mano armada y robos con violencia.
+
+En la escena, la Policía Científica ocupó una pistola RETAY XR, calibre .380, un cargador y tres cápsulas, presuntamente portados de manera ilegal. El cuerpo fue remitido al Inacif y las evidencias al Ministerio Público.
+
+En los primeros días del mes, 21 personas han fallecido a manos de la Policía Nacional, tras un septiembre con 55 decesos, la cifra mensual más alta del año.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791984204/noticias/articles/20261014_132323_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 14 Oct 2026 13:23:51 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261014132351</guid>
+  </item>
+
+  <item>
     <title><![CDATA[República Dominicana es reelegida como miembro del Consejo de Derechos Humanos de la ONU]]></title>
     <link>https://listindiario.com/la-republica/20261013/republica-dominicana-reelegida-miembro-consejo-derechos-humanos-onu_926075.html</link>
     <description><![CDATA[La República Dominicana ha sido reelegida como miembro del Consejo de Derechos Humanos de la ONU para el período 2027-2029. El canciller Víctor 'Ito' Bisonó afirmó que el país seguirá siendo "una voz por la dignidad humana" y contribuirá a los esfuerzos globales en derechos humanos.
@@ -1377,17 +1390,6 @@ Fuente: Diario Libre - Edward Fernández]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791556238/noticias/articles/20261009_143038_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 09 Oct 2026 14:31:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261009143128</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[La jueza sudafricana Navi Pillay gana el Premio Nobel de la Paz; bromea con compartirlo con Trump]]></title>
-    <link>https://listindiario.com/las-mundiales/20261009/jueza-sudafricana-navi-pillay-gana-premio-nobel-paz_925472.html</link>
-    <description><![CDATA[La jueza sudafricana Navi Pillay ha sido galardonada con el Premio Nobel de la Paz por su labor en defensa del derecho internacional. Pillay, conocida por su trabajo en casos de derechos humanos desde el apartheid en Sudáfrica hasta el Tribunal Penal Internacional para Ruanda, bromeó con compartir el premio con Donald Trump.
-
-El Comité Nobel Noruego destacó su papel en la promoción de la paz y el derecho internacional, subrayando la importancia de perseguir crímenes de guerra y genocidio. El premio será entregado en Oslo el 10 de diciembre.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791556080/noticias/articles/20261009_142759_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 09 Oct 2026 14:28:25 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261009142825</guid>
   </item>
 </channel>
 </rss>
