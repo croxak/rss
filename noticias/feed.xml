@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 14 Oct 2026 13:13:40 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 13:18:45 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Primera Hora identifica a otra víctima del tiroteo de Río Piedras como oriunda de República Dominicana]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261014131845</link>
+    <description><![CDATA[El periódico puertorriqueño Primera Hora identificó a Luis José Viscaino Jiménez, de 31 años, como otra de las víctimas oriundas de República Dominicana del tiroteo que dejó tres muertos y ocho heridos en el negocio Zoila Café, en Río Piedras.
+
+En una publicación del 12 de octubre, el medio señaló que Viscaino residía en la urbanización Villa Prades. También describió como oriundo de República Dominicana a Elisaul Santana, de 29 años, cuyo origen ya había sido informado.
+
+El tercer fallecido fue identificado como Víctor Ramón Erausquin Andino, de 41 años, quien trabajaba como DJ y en la seguridad del establecimiento, según declaraciones del director del Cuerpo de Investigaciones Criminales de San Juan, inspector Edwin Figueroa Maldonado, recogidas por el periódico.
+
+La balacera ocurrió la madrugada del domingo 11 de octubre en el local situado en la calle Robles, en la barriada Capetillo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791983895/noticias/articles/20261014_131815_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 14 Oct 2026 13:18:45 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261014131845</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Detienen en Barcelona a fugitivo reclamado por República Dominicana por presunto asesinato]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261014131340</link>
     <description><![CDATA[La Policía Nacional española detuvo en Barcelona a un hombre reclamado por las autoridades judiciales de República Dominicana por su presunta participación en un ataque armado que dejó una persona muerta y otra gravemente herida.
@@ -1383,19 +1398,6 @@ Ambos acusados permanecen sujetos al proceso judicial federal y conservan su pre
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791555047/noticias/articles/20261009_141046_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 09 Oct 2026 14:12:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261009141206</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[RD asciende al Nivel 2 en informe de Estados Unidos sobre acciones contra la trata de personas]]></title>
-    <link>https://n.com.do/2026/10/08/rd-asciende-al-nivel-2-en-informe-de-estados-unidos-sobre-acciones-contra-la-trata-de-personas/</link>
-    <description><![CDATA[La República Dominicana ha avanzado al Nivel 2 en el informe de Estados Unidos sobre la trata de personas. Se modificó la Ley 137-03 para proteger a menores y se aprobó el Plan Nacional de Acción contra la Trata de Personas 2025-2028.
-
-El país inició 229 investigaciones y procesó a 50 sospechosos. Se investigaron ocho funcionarios y se abrieron procesos contra tres. El Ministerio de Trabajo realizó 1,050 inspecciones y suspendió 11 empresas.
-
-Se formalizaron más de 7,400 trabajadores y se identificaron 136 víctimas, de las cuales 134 recibieron atención integral.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791553877/noticias/articles/20261009_135116_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 09 Oct 2026 13:51:51 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261009135151</guid>
   </item>
 </channel>
 </rss>
