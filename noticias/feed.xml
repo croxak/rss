@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 14 Oct 2026 13:10:27 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 13:13:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Detienen en Barcelona a fugitivo reclamado por República Dominicana por presunto asesinato]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261014131340</link>
+    <description><![CDATA[La Policía Nacional española detuvo en Barcelona a un hombre reclamado por las autoridades judiciales de República Dominicana por su presunta participación en un ataque armado que dejó una persona muerta y otra gravemente herida.
+
+Según información policial recogida por EFE y Europa Press este miércoles 14 de octubre, el sospechoso habría descendido de un vehículo y disparado contra ambas víctimas en territorio dominicano.
+
+Sobre el detenido pesaba una Orden Internacional de Detención emitida por tribunales dominicanos. Las autoridades españolas sostienen que habría huido hacia España después del ataque y que fue localizado por agentes del grupo de fugitivos de Barcelona.
+
+Tras su captura, el hombre fue puesto a disposición judicial, pendiente del procedimiento de extradición a República Dominicana.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791983582/noticias/articles/20261014_131302_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 14 Oct 2026 13:13:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261014131340</guid>
+  </item>
+
+  <item>
     <title><![CDATA[España confirma cuatro detenidos por presunta red que llevaba dominicanos a Europa con pasaportes colombianos fraudulentos]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261014131027</link>
     <description><![CDATA[La Policía Nacional española detuvo en Sabadell, Barcelona, a cuatro personas vinculadas presuntamente a una organización que facilitaba la entrada irregular de migrantes dominicanos en Europa mediante pasaportes colombianos falsos o expedidos fraudulentamente.
@@ -1381,17 +1396,6 @@ Se formalizaron más de 7,400 trabajadores y se identificaron 136 víctimas, de 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791553877/noticias/articles/20261009_135116_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 09 Oct 2026 13:51:51 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261009135151</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[SpaceX adquiere espectro de banda baja para convertir a Starlink en operador móvil en Estados Unidos]]></title>
-    <link>https://www.bloomberglinea.com/negocios/spacex-adquiere-espectro-de-banda-baja-para-convertir-a-starlink-en-operador-movil/</link>
-    <description><![CDATA[SpaceX, liderada por Elon Musk, ha dado un paso significativo al adquirir espectro de banda baja, lo que permitirá a sus satélites Starlink convertirse en un operador de telefonía móvil en Estados Unidos. Esta noticia ha impactado en el mercado, provocando una caída en las acciones de AT&T, T-Mobile y Verizon.
-
-La adquisición del espectro, realizada a través de Grain Management LLC, permitirá a SpaceX ofrecer un servicio de telefonía móvil que puede atravesar paredes y funcionar en interiores. Las licencias cubren prácticamente toda la población de EE.UU.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791519515/noticias/articles/20261009_041835_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 09 Oct 2026 04:19:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261009041929</guid>
   </item>
 </channel>
 </rss>
