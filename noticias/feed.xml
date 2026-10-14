@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 14 Oct 2026 19:05:43 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 23:35:51 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Barahona: Hallan con vida a propietario de restaurante, tras ser raptado por hombres armados]]></title>
+    <link>https://elnacional.com.do/nacionales/barahona-hallan-vida-propietario-restaurante-raptado-hombres-armados_583469.html</link>
+    <description><![CDATA[En Barahona, Samuel Sembel, copropietario del restaurante "A Fuego Lento", fue hallado con vida tras ser raptado por hombres armados. El incidente ocurrió cerca de la UASD en Barahona, cuando varios individuos en una camioneta Toyota Hilux blanca lo obligaron a subir al vehículo.
+
+Sembel fue encontrado en la carretera hacia La Guázara durante un patrullaje de rutina. Actualmente, se encuentra en la Dirección Regional Sur de la Policía Nacional, donde es interrogado para esclarecer los hechos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792020927/noticias/articles/20261014_233526_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 14 Oct 2026 23:35:51 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261014233551</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Arnaud propondrá debate entre los precandidatos presidenciales del PRM]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261014190543</link>
     <description><![CDATA[El aspirante presidencial del Partido Revolucionario Moderno (PRM), Wellington Arnaud, informó este miércoles que propondrá a la dirección de esa organización la celebración de un debate entre los precandidatos presidenciales que participan en el proceso interno.
@@ -1389,17 +1400,6 @@ Los acusados utilizaban redes sociales como Facebook y WhatsApp para extorsionar
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791582021/noticias/articles/20261009_214021_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 09 Oct 2026 21:40:49 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261009214049</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Un terremoto de magnitud 7,7 sacude Panamá y activa la alerta por tsunami en varios puntos del Pacífico]]></title>
-    <link>https://www.elmundo.es/internacional/2026/10/09/6ac9343cfc6c83cf3e8b45be.html</link>
-    <description><![CDATA[Un terremoto de magnitud 7,7 sacudió el sureste de Panamá, con epicentro a 12 kilómetros de Tonosí y a 239 kilómetros de la capital. El movimiento ocurrió a las 12:56 horas (hora local) y fue actualizado por el USGS. Se emitió una alerta de tsunami en Chile y en varios puntos del Pacífico.
-
-En la capital panameña, el temblor se sintió con fuerza, provocando el desalojo preventivo de varios edificios en la antigua área bancaria.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791574688/noticias/articles/20261009_193808_article.webp" type="image/webp"/>
-    <pubDate>Fri, 09 Oct 2026 19:39:03 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261009193903</guid>
   </item>
 </channel>
 </rss>
