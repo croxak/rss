@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 14 Oct 2026 23:42:42 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 23:44:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Mirex restablece notificaciones judiciales dirigidas a Venezuela]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/10/14/mirex-restablece-notificaciones-judiciales-a-venezuela-2144003/</link>
+    <description><![CDATA[El Ministerio de Relaciones Exteriores de la República Dominicana ha reanudado las notificaciones judiciales a Venezuela. Esto sigue a la reapertura del Consulado General en Caracas y la habilitación de servicios necesarios.
+
+La suspensión temporal, anunciada el 24 de marzo de 2025, ha sido anulada exclusivamente para Venezuela. Los abogados y demás usuarios pueden tramitar solicitudes de notificación conforme a la legislación dominicana.
+
+Para más información, los interesados pueden contactar a la División de Notificaciones en el Exterior de la Dirección de Servicios Consulares a través del correo electrónico y los números de contacto disponibles.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792021439/noticias/articles/20261014_234359_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 14 Oct 2026 23:44:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261014234435</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Héctor Acosta cuestiona distribución de RD$2,000 millones recuperados de la corrupción: “No fue equitativa”]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/10/14/hector-acosta-cuestiona-distribucion-de-rd2000-millones-recuperados-de-la-corrupcion-no-fue-equitativa-2144004/</link>
     <description><![CDATA[Héctor Acosta, senador del PRM por Monseñor Nouel, cuestionó la distribución de RD$2,000 millones recuperados de la corrupción. Criticó que RD$1,200 millones fueran destinados a La Vega, dejando a otras provincias sin recursos.
@@ -1385,23 +1398,6 @@ Trump espera que Rusia entregue tres millones de toneladas de diésel en un cort
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791584396/noticias/articles/20261009_221956_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 09 Oct 2026 22:21:16 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261009222116</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno sube RD$5 a la gasolina premium y RD$12 al gasoil óptimo]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261009215813</link>
-    <description><![CDATA[El Ministerio de Industria, Comercio y Mipymes (MICM) informó este viernes que el aumento de RD$5.00 por galón a la gasolina premium y RD$12.00 al gasoil óptimo para la semana del 10 al 16 de octubre de 2026, debido a las alzas registradas en los precios internacionales de los combustibles refinados.
-
-Con el reajuste, la gasolina premium se venderá a RD$358.10 por galón, mientras que el gasoil óptimo costará RD$318.10.
-
-En tanto, el Gobierno mantendrá sin variación los precios de la gasolina regular, el gasoil regular, el gas licuado de petróleo (GLP) y el gas natural, como parte de las medidas para evitar que las alzas internacionales se trasladen por completo a los consumidores.
-
-Para contener estas variaciones, el Gobierno destinará RD$1,525.4 millones en subsidios durante la semana. Según el MICM, la medida busca proteger la economía de los hogares y los sectores que dependen de estos combustibles.
-
-El ministerio explicó que los precios internacionales de los productos refinados se mantienen elevados debido a una reducción en la producción de las principales refinerías que abastecen a la República Dominicana. Esta situación ha provocado que los costos de algunos derivados, especialmente el gasoil óptimo, se mantengan en niveles que no guardan proporción con el precio del barril de petróleo crudo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791583059/noticias/articles/20261009_215739_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 09 Oct 2026 21:58:13 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261009215813</guid>
   </item>
 </channel>
 </rss>
