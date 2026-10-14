@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 14 Oct 2026 13:20:14 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 14 Oct 2026 13:21:36 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[República Dominicana es reelegida como miembro del Consejo de Derechos Humanos de la ONU]]></title>
+    <link>https://listindiario.com/la-republica/20261013/republica-dominicana-reelegida-miembro-consejo-derechos-humanos-onu_926075.html</link>
+    <description><![CDATA[La República Dominicana ha sido reelegida como miembro del Consejo de Derechos Humanos de la ONU para el período 2027-2029. El canciller Víctor 'Ito' Bisonó afirmó que el país seguirá siendo "una voz por la dignidad humana" y contribuirá a los esfuerzos globales en derechos humanos.
+
+El país caribeño, junto a Brasil y Uruguay, fue elegido por el Grupo de América Latina y el Caribe. Durante su primer período en el CDH, República Dominicana promovió iniciativas sobre educación, cultura de paz y derechos de personas con discapacidad.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791984055/noticias/articles/20261014_132055_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 14 Oct 2026 13:21:36 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261014132136</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Dominicanos acusados de atacar a detective de Nueva York piden comida y dicen los quieren matar]]></title>
     <link>https://listindiario.com/las-mundiales/20261014/dominicanos-acusados-intento-homicidio-criollo-ny-piden-comida-dicen-quieren-matar_926120.html</link>
     <description><![CDATA[D'Angelo Caraballo y Sneinder Mejía, acusados de atacar al detective José Mercedes en Nueva York, fueron escoltados a la cárcel. Caraballo pidió comida y Mejía afirmó que los quieren matar.
@@ -1377,17 +1388,6 @@ El Comité Nobel Noruego destacó su papel en la promoción de la paz y el derec
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791556080/noticias/articles/20261009_142759_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 09 Oct 2026 14:28:25 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261009142825</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[CNM celebra última vista pública para elegir nuevos jueces de la Suprema Corte de Justicia]]></title>
-    <link>https://hoy.com.do/el-pais/cnm-celebra-ultima-vista-publica-elegir-nuevos-jueces-suprema-corte-justicia_1105015.html</link>
-    <description><![CDATA[El Consejo Nacional de la Magistratura celebra la última vista pública para elegir nuevos jueces de la Suprema Corte de Justicia. Este evento es parte del proceso de evaluación de los aspirantes a ocupar una de las seis vacantes disponibles.
-
-Las vistas públicas se realizan siguiendo el Reglamento 1-25 para la aplicación de la Ley 138-11, Orgánica del Consejo Nacional de la Magistratura, modificada por la Ley 1-25.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791555755/noticias/articles/20261009_142235_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 09 Oct 2026 14:23:10 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261009142310</guid>
   </item>
 </channel>
 </rss>
