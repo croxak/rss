@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 02:08:25 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 12:37:24 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Inflación en EE. UU. vuelve a subir en septiembre a días de las elecciones de medio término]]></title>
+    <link>https://www.diariolibre.com/amp/usa/actualidad/2026/10/14/inflacion-en-estados-unidos-y-su-impacto-en-el-indice-de-precios/3689123</link>
+    <description><![CDATA[La inflación en Estados Unidos continuó su tendencia al alza en septiembre, alcanzando un 3.7 % interanual, impulsada principalmente por los precios de la energía. El índice de precios al consumo mostró un aumento del 0.6 % en comparación mensual.
+
+Los rendimientos de la deuda pública estadounidense se dispararon, con el bono a diez años alcanzando un 5.32 %. La Reserva Federal no contempla una nueva subida de tipos en su próxima reunión.
+
+El precio de la energía ha aumentado significativamente debido a la guerra entre Israel, Estados Unidos e Irán. Los costos de la gasolina explicaron más de la mitad del aumento, mientras que los alimentos no registraron subidas en septiembre.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792067818/noticias/articles/20261015_123658_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 15 Oct 2026 12:37:24 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015123724</guid>
+  </item>
+
+  <item>
     <title><![CDATA[236 sillas vacías recuerdan a las víctimas del Jet Set en vigilia frente al Palacio de Justicia]]></title>
     <link>https://acento.com.do/amp/actualidad/236-sillas-vacias-recuerdan-a-las-victimas-del-jet-set-en-vigilia-frente-al-palacio-de-justicia-9770262.html</link>
     <description><![CDATA[Doscientas treinta y seis sillas vacías fueron colocadas frente al Palacio de Justicia de Ciudad Nueva como homenaje a las víctimas del colapso del techo de la discoteca Jet Set. La vigilia, llamada “Luz para la justicia”, fue organizada por el Movimiento Justicia Jet Set.
@@ -1386,19 +1399,6 @@ La investigación, desarrollada por la división criminal del Servicio de Impues
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791651085/noticias/articles/20261010_165124_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 10 Oct 2026 16:53:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261010165319</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Se entrega cuarto implicado en intento de asalto a joyería en Villa Juana]]></title>
-    <link>https://noticiassin.com/pais/provincias/2026/10/10/se-entrega-cuarto-implicado-en-intento-de-asalto-a-joyeria-en-villa-juana-2140506/</link>
-    <description><![CDATA[Alinson Juander Cuello Pujols, conocido como "Piri", se entregó a las autoridades en Baní por su presunta implicación en un intento de asalto a una joyería en Villa Juana. Durante el incidente, un segundo teniente retirado resultó herido al intentar frustrar el robo.
-
-Cuello Pujols se presentó voluntariamente en la Subdirección Regional de Investigación (DICRIM), acompañado de un comunicador. Tres personas ya habían sido arrestadas por el caso.
-
-Las autoridades recibieron una pistola Glock, modelo 45, como parte de las investigaciones. Según la policía, Cuello Pujols habría abandonado el vehículo antes de llegar a la joyería.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791650052/noticias/articles/20261010_163412_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 10 Oct 2026 16:34:42 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261010163442</guid>
   </item>
 </channel>
 </rss>
