@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 14:51:35 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 16:45:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Fiscalía presenta transferencia a nombre del acusado que negó vinculación en caso Emmanuel Contreras]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/10/15/presentan-transferencia-en-caso-de-muerte-de-enmanuel-contreras/3689957</link>
+    <description><![CDATA[La Fiscalía presentó un comprobante bancario que identifica a Yohan Manuel Jiménez Medina como destinatario de RD$15,000 transferidos por Emmanuel Contreras Medina. Esta transacción está vinculada a la compra de un teléfono celular que originó un conflicto mortal.
+
+Jiménez Medina niega conocer a las personas involucradas y cuestiona la titularidad de la cuenta bancaria. La Fiscalía también presentó conversaciones de WhatsApp y audios como pruebas.
+
+Se ha solicitado prisión preventiva para Jiménez Medina, quien se entregó voluntariamente a las autoridades.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792082704/noticias/articles/20261015_164504_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 15 Oct 2026 16:45:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015164540</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Trump recula y cancela la retransmisión en directo de la ejecución del autor de la matanza de Fort Hood]]></title>
     <link>https://www.huffingtonpost.es/global/trump-recula-cancela-retransmision-directo-ejecucion-autor-matanza-fort-hood-f202610.html</link>
     <description><![CDATA[Donald Trump ha decidido cancelar la retransmisión en directo de la ejecución de Nidal Hasan, condenado por la matanza de Fort Hood en 2009. La ejecución sigue prevista para el 3 de diciembre, pero no será emitida por internet. La decisión se tomó tras críticas de organizaciones de derechos humanos, líderes religiosos y la oposición.]]></description>
@@ -1397,19 +1410,6 @@ Las reservas internacionales se situaron en US$15,239.9 millones. Se espera que 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791739504/noticias/articles/20261011_172503_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 11 Oct 2026 17:25:41 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261011172541</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Migración anuncia inspecciones para someter a la justicia a quienes contraten indocumentados]]></title>
-    <link>https://elnuevodiario.com.do/migracion-anuncia-inspecciones-para-someter-a-la-justicia-a-quienes-contraten-indocumentados/</link>
-    <description><![CDATA[El director general de Migración, vicealmirante Luis Rafael Lee Ballester, anunció la deportación de más de 800 mil extranjeros en situación irregular en los últimos dos años.
-
-Se realizarán operativos en fincas y negocios agropecuarios para someter a la justicia a quienes contraten indocumentados. Las inspecciones contarán con el apoyo de las Fuerzas Armadas y organismos de seguridad.
-
-La DGM ha formado 1,187 Agentes de Reacción Rápida y se incorporarán 300 jóvenes más para ampliar las operaciones migratorias en el Gran Santo Domingo y la región Este del país.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791739247/noticias/articles/20261011_172047_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 11 Oct 2026 17:21:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261011172128</guid>
   </item>
 </channel>
 </rss>
