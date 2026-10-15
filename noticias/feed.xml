@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 12:55:44 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 12:58:50 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Países Bajos autoriza entregar a Bélgica a neerlandés nacido en República Dominicana por presuntos delitos de organización criminal y robo]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261015125850</link>
+    <description><![CDATA[El Tribunal de Ámsterdam autorizó la entrega a Bélgica de un ciudadano neerlandés nacido en República Dominicana, requerido por su presunta participación en una organización criminal y en delitos de robo organizado o a mano armada.
+
+La decisión fue dictada el 6 de octubre y publicada el 12 de octubre de 2026. Responde a una orden europea de detención emitida el pasado 24 de julio por un juez del Tribunal de Primera Instancia de Amberes, división de Malinas.
+
+La resolución mantiene anonimizada la identidad del requerido, aunque establece que nació en República Dominicana en 1990 y que declaró tener nacionalidad neerlandesa. El documento no acredita que también posea ciudadanía dominicana.
+
+Para autorizar la entrega, los jueces evaluaron las garantías ofrecidas por Bélgica sobre las condiciones en las que sería detenido. También consideraron suficiente el compromiso de permitirle regresar a Países Bajos para cumplir una eventual pena de prisión, si resultara condenado mediante sentencia firme.
+
+El tribunal dispuso además la entrega a las autoridades belgas de un teléfono incautado durante su arresto.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792069093/noticias/articles/20261015_125813_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 15 Oct 2026 12:58:50 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015125850</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Defensa de Óscar Belgal presenta nueva petición de libertad en Brooklyn; juez exige justificar su detención]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261015125544</link>
     <description><![CDATA[La defensa del dominicano Óscar Belgal presentó una nueva petición de habeas corpus ante el Tribunal Federal del Distrito Este de Nueva York para solicitar su libertad, mientras el juez Hector Gonzalez requirió al Gobierno estadounidense explicar los fundamentos de su detención.
@@ -1387,17 +1404,6 @@ El COE exhorta a la población a tomar precauciones, como evitar cruzar ríos y 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791677093/noticias/articles/20261011_000453_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 11 Oct 2026 00:05:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261011000519</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Trump, sobre Zelenski: "Ha llegado el momento de que Ucrania tenga un nuevo presidente"]]></title>
-    <link>https://www.elconfidencial.com/mundo/2026-10-10/trump-pide-nuevo-presidente-ucrania-1tna-1tps_4442745/</link>
-    <description><![CDATA[Donald Trump arremetió contra Volodímir Zelenski por los bombardeos de Kiev a refinerías rusas, afirmando que Ucrania necesita un nuevo presidente. Según Trump, Zelenski ha evitado pactar para terminar la guerra, la cual comenzó por "incompetencia".
-
-Trump sugirió que Ucrania busque un líder capaz de llegar a acuerdos, mientras que Zelenski calificó de "injusto" el acuerdo entre Trump y Putin que permite a Rusia exportar diésel pese a las sanciones.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791661480/noticias/articles/20261010_194439_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 10 Oct 2026 19:45:04 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261010194504</guid>
   </item>
 </channel>
 </rss>
