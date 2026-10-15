@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 13:01:49 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 13:12:16 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Hombres armados atacan buque estadounidense en la Bahía de Puerto Príncipe, Haití]]></title>
+    <link>https://elnuevodiario.com.do/hombres-armados-atacan-buque-estadounidense-en-la-bahia-de-puerto-principe-haiti/</link>
+    <description><![CDATA[Un ataque armado ocurrió en la bahía de Puerto Príncipe, Haití, cuando hombres intentaron abordar el buque estadounidense MV National Glory. La tripulación, compuesta por 20 personas, resultó ilesa.
+
+Los atacantes llegaron en una pequeña embarcación y dispararon contra los agentes que acudieron tras la alerta del capitán. A pesar del incidente, el barco pudo atracar, desembarcar y zarpar nuevamente.
+
+Las autoridades sospechan que la zona está bajo el control de pandillas de Mariani. El buque está registrado a nombre de R&D Investments Inc.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792069718/noticias/articles/20261015_130837_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 15 Oct 2026 13:12:16 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015131216</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Indomet prevé pocas lluvias y temperaturas de hasta 35 °C en gran parte del país]]></title>
     <link>https://noticiassin.com/pais/clima/2026/10/15/indomet-preve-pocas-lluvias-y-calor-de-hasta-35-c-2144178/</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informa que este jueves el clima será mayormente soleado con escasas lluvias en gran parte del país. Se esperan aguaceros aislados en provincias como San Pedro de Macorís, Monte Plata y San Cristóbal.
@@ -1389,21 +1402,6 @@ La Policía Nacional dominicana anunció su extradición en marzo de 2026. La en
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791736606/noticias/articles/20261011_163645_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 11 Oct 2026 16:37:51 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261011163751</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Detienen a tres sospechosos por la muerte a tiros de un joven dominicano en L’Hospitalet]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261011163328</link>
-    <description><![CDATA[Los Mossos d’Esquadra detuvieron el 6 de octubre a tres jóvenes de 18, 19 y 29 años por su presunta participación en el homicidio de Eduardo, un dominicano de 28 años que murió en un tiroteo ocurrido en el Parc de les Planes, en L’Hospitalet de Llobregat.
-
-El hecho se registró la noche del 28 de marzo de 2026. Según la información publicada por Metrópoli, Eduardo se encontraba con amigos cuando comenzó una discusión con otro grupo, que posteriormente abrió fuego. Un joven de 18 años también resultó gravemente herido.
-
-Las fuentes policiales citadas por el medio vinculan a los detenidos con los Trinitarios, pero descartan que la víctima perteneciera a una organización pandillera o que el ataque respondiera a un enfrentamiento entre bandas rivales.
-
-Tras más de seis meses de investigación, los agentes realizaron tres registros domiciliarios y localizaron un arma de fuego. La policía científica deberá determinar si fue utilizada en el tiroteo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791736326/noticias/articles/20261011_163205_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 11 Oct 2026 16:33:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261011163328</guid>
   </item>
 </channel>
 </rss>
