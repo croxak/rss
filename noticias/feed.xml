@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 12:42:52 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 12:48:44 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Ucrania reanudó sus bombardeos contra las refinerías rusas y lanzó una ofensiva a una región cercana a Moscú]]></title>
+    <link>https://www.infobae.com/america/mundo/2026/10/15/ucrania-reanudo-sus-bombardeos-contra-las-refinerias-rusas-y-lanzo-una-ofensiva-a-una-region-cercana-a-moscu/</link>
+    <description><![CDATA[El presidente de Ucrania, Volodimir Zelensky, anunció la reanudación de los ataques contra refinerías rusas tras una pausa de tres días. Este jueves, Ucrania atacó una refinería en Riazán, Rusia, provocando un incendio y daños materiales, según el gobernador regional Pável Malkov.
+
+La Armada de Ucrania afirmó haber alcanzado seis bombarderos rusos Su-34M en el aeródromo de Borisoglebsk. Zelensky criticó a Estados Unidos por retirar información de inteligencia clave y denunció una reducción de los servicios de Starlink en Ucrania.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792068498/noticias/articles/20261015_124817_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 15 Oct 2026 12:48:44 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015124844</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Netflix anuncia despido de alrededor 1,000 empleados en medio de una crisis de crecimiento]]></title>
     <link>https://emisorasunidas.com/farandula/2026/10/14/netflix-alrededor-1000-empleados-medio-crisis-de-crecimiento/</link>
     <description><![CDATA[Netflix ha anunciado el despido de aproximadamente 1,000 empleados, equivalente al 6% de su plantilla global. Esta medida llega en un momento de desaceleración en su crecimiento y mayor competencia en el mercado del streaming.
@@ -1381,15 +1392,6 @@ El legislador destacó la atención médica recibida y reflexionó sobre la impo
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791655475/noticias/articles/20261010_180435_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 10 Oct 2026 18:05:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261010180503</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Apresan a “El Chino o El Japonés”, acusado de liderar potencial red del crimen organizado en Santiago]]></title>
-    <link>https://elpregonerord.com/apresan-a-el-chino-y-o-el-japones-acusado-de-liderar-potencial-red-del-crimen-organizado-en-santiago/</link>
-    <description><![CDATA[Wandy Pimentel, alias “El Chino o El Japonés”, ha sido detenido por la DICRIM en Santiago. Se le acusa de ser el líder de una red criminal que opera en la ciudad, involucrada en secuestros, sicariato y microtráfico.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791653506/noticias/articles/20261010_173145_article.webp" type="image/webp"/>
-    <pubDate>Sat, 10 Oct 2026 17:34:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261010173440</guid>
   </item>
 </channel>
 </rss>
