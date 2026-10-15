@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 20:34:39 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 20:38:46 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Por primera vez Raquel Peña firma decreto de extradición de tres solicitados por Estados Unidos]]></title>
+    <link>https://elnacional.com.do/nacionales/primera-vez-raquel-pena-firma-decreto-extradicion-tres-solicitados-estados-unidos_583559.html</link>
+    <description><![CDATA[La vicepresidenta Raquel Peña firmó por primera vez decretos de extradición de tres ciudadanos dominicanos solicitados por Estados Unidos. Los decretos 716-26, 717-26 y 718-26 autorizan la entrega de Darío Bautista, Ramón Joaquín Romero Bastardo y Luis Arismendy Paca Méndez.
+
+Bautista es acusado de asociación delictuosa para importar cocaína. Romero Bastardo enfrenta cargos de asesinato y otros delitos. Paca Méndez es acusado de fraude electrónico.
+
+Las extradiciones se realizarán bajo la condición de que Estados Unidos cumpla con el Tratado de Extradición entre ambos países.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792096680/noticias/articles/20261015_203759_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 15 Oct 2026 20:38:46 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015203846</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader aborda con el secretario de Estado del vaticano las repercusiones de los conflictos]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/10/15/abinader-y-parolin-abordan-conflictos-regionales-en-el-vaticano/3690104</link>
     <description><![CDATA[El presidente Luis Abinader se reunió con el cardenal Pietro Parolin en el Vaticano para tratar temas como la situación regional y la delincuencia organizada transnacional. El encuentro con el papa León XIV no se concretó debido a su hospitalización.
@@ -1389,17 +1402,6 @@ Fuente: El Día - Dayana Acosta]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791763802/noticias/articles/20261012_001001_article.webp" type="image/webp"/>
     <pubDate>Mon, 12 Oct 2026 00:11:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261012001134</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Danilo Medina llama “irresponsable y demagógico” al Gobierno por decretos sobre importación de arroz]]></title>
-    <link>https://listindiario.com/la-republica/politica/20261011/decreto-irresponsable-demagogico-dice-medina-sobre-eliminacion-aranceles-importacion-arroz_925712.html</link>
-    <description><![CDATA[Danilo Medina, expresidente de la República Dominicana, criticó al gobierno por un decreto emitido en diciembre de 2024 que establece una cuota y un arancel del 99% para la importación de arroz de los Estados Unidos. Medina calificó el decreto como "populista, irresponsable y demagógico".
-
-Medina afirmó que el decreto viola el Tratado de Libre Comercio y recordó que durante su gestión se trabajó para mejorar la productividad del arroz en el país. Propuso a Estados Unidos una dispensa de 10 años para mejorar la competitividad, pero la pandemia y el cambio de gobierno impidieron que la propuesta avanzara.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791755418/noticias/articles/20261011_215017_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 11 Oct 2026 21:50:46 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261011215046</guid>
   </item>
 </channel>
 </rss>
