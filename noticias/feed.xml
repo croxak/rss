@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 21:05:02 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 23:06:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Director de la Policía y la diputada Millys Martínez dan por superado el impasse en Elías Piña]]></title>
+    <link>https://eldia.com.do/director-de-la-policia-y-la-diputada-millys-martinez-dan-por-superado-el-impasse-en-elias-pina/</link>
+    <description><![CDATA[El director general de la Policía Nacional, mayor general Ernesto Rafael Rodríguez García, y la diputada Millys Martínez, se reunieron para tratar un impasse ocurrido en Elías Piña. Ambas partes acordaron dar por superada la situación y reafirmaron su compromiso con el diálogo y la colaboración institucional.
+
+La diputada había denunciado una supuesta "agresión y atropello" por parte de las autoridades policiales durante una actividad en Comendador. En un video en redes sociales, se observaba a la legisladora esposada. Solicitó al presidente Luis Abinader una investigación exhaustiva del incidente.
+
+Fuente: El Día - Johanna García]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792105568/noticias/articles/20261015_230608_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 15 Oct 2026 23:06:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015230655</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Aumentan precios de algunas cervezas en República Dominicana]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261015210502</link>
     <description><![CDATA[Los precios de las cervezas Presidente Light y The One, en sus presentaciones de un litro, registraron incrementos de entre RD$5 y RD$100, según una actualización de precios vigente desde el 12 de octubre de 2026.
@@ -1391,23 +1404,6 @@ Tras el incidente, sindicatos del transporte convocaron una huelga de 24 horas, 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791765437/noticias/articles/20261012_003717_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 12 Oct 2026 00:37:49 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261012003749</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Avión privado de Álvaro Pulido, detenido en EE. UU. por caso vinculado a Álex Saab, frecuentaba Punta Cana en 2018]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261012002806</link>
-    <description><![CDATA[El empresario colombiano Álvaro Pulido Vargas, socio de Álex Saab y actualmente bajo custodia de las autoridades estadounidenses por acusaciones de lavado de dinero y sobornos, utilizaba habitualmente un avión privado que realizó frecuentes escalas en Punta Cana, República Dominicana, durante 2018.
-
-Según una investigación publicada por el medio venezolano Armando.info el 14 de junio de 2020, la aeronave Gulfstream G280, identificada con la matrícula N259FG, registró numerosas paradas en Punta Cana y París durante ese año, además de desplazamientos hacia Rusia, Turquía, España y Grecia.
-
-Una segunda investigación del mismo medio, publicada en agosto de 2020, identificó el avión como parte de una flotilla privada utilizada por Saab y Pulido. La aeronave era operada por la empresa Aerojet Executive y estaba destinada al uso habitual de Álvaro Pulido.
-
-La información adquiere nueva relevancia luego de que el Departamento de Justicia de Estados Unidos confirmara este domingo 11 de octubre de 2026 que Pulido se encuentra bajo custodia federal, tras una investigación desarrollada por la DEA, el FBI y el Servicio de Investigaciones de Seguridad Nacional (HSI).
-
-El empresario enfrenta dos acusaciones federales presentadas en 2019 y 2021, relacionadas con presuntos esquemas de sobornos y lavado de dinero vinculados a contratos del Gobierno venezolano por más de 2,000 millones de dólares. Su primera comparecencia está prevista para el martes 13 de octubre ante un tribunal federal de Miami.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791764844/noticias/articles/20261012_002724_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 12 Oct 2026 00:28:06 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261012002806</guid>
   </item>
 </channel>
 </rss>
