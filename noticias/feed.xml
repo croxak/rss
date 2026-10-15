@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 12:37:24 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 12:42:52 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Netflix anuncia despido de alrededor 1,000 empleados en medio de una crisis de crecimiento]]></title>
+    <link>https://emisorasunidas.com/farandula/2026/10/14/netflix-alrededor-1000-empleados-medio-crisis-de-crecimiento/</link>
+    <description><![CDATA[Netflix ha anunciado el despido de aproximadamente 1,000 empleados, equivalente al 6% de su plantilla global. Esta medida llega en un momento de desaceleración en su crecimiento y mayor competencia en el mercado del streaming.
+
+Los recortes se concentrarán en las áreas de producto, tecnología, legal y recursos humanos. A pesar de los despidos, Netflix afirma que su negocio sigue siendo sólido y que continuará invirtiendo en áreas clave para mejorar sus servicios.
+
+La compañía busca diversificar su oferta con deportes, eventos en directo y podcasts en video, además de fortalecer su negocio publicitario. Netflix enfrenta el desafío de mantener su liderazgo en un mercado cada vez más competitivo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792068123/noticias/articles/20261015_124202_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 15 Oct 2026 12:42:52 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015124252</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Inflación en EE. UU. vuelve a subir en septiembre a días de las elecciones de medio término]]></title>
     <link>https://www.diariolibre.com/amp/usa/actualidad/2026/10/14/inflacion-en-estados-unidos-y-su-impacto-en-el-indice-de-precios/3689123</link>
     <description><![CDATA[La inflación en Estados Unidos continuó su tendencia al alza en septiembre, alcanzando un 3.7 % interanual, impulsada principalmente por los precios de la energía. El índice de precios al consumo mostró un aumento del 0.6 % en comparación mensual.
@@ -1377,28 +1390,6 @@ El legislador destacó la atención médica recibida y reflexionó sobre la impo
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791653506/noticias/articles/20261010_173145_article.webp" type="image/webp"/>
     <pubDate>Sat, 10 Oct 2026 17:34:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261010173440</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Condenan a expresidente de banco de Puerto Rico a más de cinco años de prisión por fraude de US$23.6 millones]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261010165319</link>
-    <description><![CDATA[Un tribunal federal del Distrito Sur de Florida condenó a 62 meses de prisión a Juan Francisco Ramírez, de 60 años, expresidente del consejo de administración y copropietario de Nodus International Bank, una entidad bancaria de Puerto Rico, por participar en una conspiración de fraude electrónico que provocó pérdidas superiores a US$23.6 millones y contribuyó al colapso de la institución.
-
-Según informó el Departamento de Justicia de Estados Unidos el 7 de octubre, Ramírez también deberá entregar más de US$13.6 millones, correspondientes a los beneficios obtenidos mediante el esquema fraudulento. El exdirectivo se había declarado culpable en septiembre de 2025.
-
-De acuerdo con los documentos judiciales, entre 2017 y 2023, Ramírez y otros conspiradores desviaron más de US$11 millones del banco hacia una entidad financiera de Miami, que posteriormente les prestaba esos mismos recursos para su beneficio personal.
-
-Asimismo, entre enero de 2018 y septiembre de 2021, los implicados consiguieron que Nodus Bank adquiriera al menos 47 pagarés por aproximadamente US$25.3 millones, emitidos por una compañía financiera que controlaban conjuntamente.
-
-Aunque las operaciones aparentaban financiar préstamos legítimos, los fondos fueron utilizados para inversiones particulares, pagos hipotecarios y gastos de tarjetas de crédito personales.
-
-En marzo de 2023, las autoridades reguladoras de Puerto Rico notificaron su intención de liquidar el banco. Sin embargo, semanas después, Ramírez y un cómplice hicieron que la institución adquiriera una cartera de préstamos valorada en aproximadamente US$26 millones, compuesta principalmente por créditos morosos, improductivos o sin garantías suficientes.
-
-La operación permitió liberar a la compañía financiera de obligaciones pendientes con el banco, agravando las pérdidas de la institución.
-La investigación, desarrollada por la división criminal del Servicio de Impuestos Internos (IRS-CI), con colaboración de las autoridades financieras puertorriqueñas, determinó que las maniobras ocasionaron pérdidas de al menos US$23,613,371.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791651085/noticias/articles/20261010_165124_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 10 Oct 2026 16:53:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261010165319</guid>
   </item>
 </channel>
 </rss>
