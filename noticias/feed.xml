@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 13:34:21 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 13:41:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Leonel llama a EE. UU. a tener "mayor comprensión" con el país y renegociar el DR-Cafta]]></title>
+    <link>https://www.diariolibre.com/politica/general/2026/10/14/leonel-fernandez-pide-renegociar-dr-cafta-ante-conflicto-del-arroz/3689454</link>
+    <description><![CDATA[Leonel Fernández, expresidente de la República Dominicana, ha pedido a Estados Unidos que muestre mayor comprensión y renegocie el DR-Cafta. Según Fernández, la eliminación de aranceles al arroz estadounidense podría perjudicar a los productores dominicanos y tener consecuencias migratorias para EE. UU.
+
+El presidente Luis Abinader emitió un decreto eliminando estos aranceles, medida que Fernández critica. Durante una conferencia en la UNAM, Fernández destacó la importancia de renegociar el tratado para proteger la economía dominicana.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792071534/noticias/articles/20261015_133853_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 15 Oct 2026 13:41:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015134132</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Energía 2000, S. A., anuncia la entrada en operación de su ciclo combinado de Manzanillo Power Land]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261015133421</link>
     <description><![CDATA[La culminación de los trabajos para la entrada en operación del ciclo combinado completo de Manzanillo Power Land (MPL), con una potencia neta de 414 megavatios (MW), permitirá incorporar nueva capacidad de generación al Sistema Eléctrico Nacional Interconectado (SENI) de la República Dominicana.
@@ -1389,19 +1400,6 @@ El incidente ocurrió en la calle La Doble Vía cuando Piña, al notar la presen
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791738646/noticias/articles/20261011_171046_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 11 Oct 2026 17:11:18 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261011171118</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader invitará al papa León XIV a visitar República Dominicana en 2027]]></title>
-    <link>https://www.diariolibre.com/actualidad/nacional/2026/10/11/abinader-propone-visita-del-papa-leon-xiv-a-republica-dominicana/3685612</link>
-    <description><![CDATA[El presidente Luis Abinader planea invitar al papa León XIV a visitar la República Dominicana en 2027. La invitación se hará durante una audiencia en el Vaticano, con el objetivo de que el papa regrese al país, que ya visitó como sacerdote.
-
-Durante su visita a Italia, Abinader participará en el Foro Mundial de la Alimentación de la FAO, destacando la importancia de mantener la meta de Hambre Cero y mejorar la calidad de la nutrición en el país.
-
-El martes, Abinader viajará a Praga, República Checa, para participar en el Foro 2000, donde hablará sobre la reforma constitucional dominicana y explorará oportunidades de inversión con empresas checas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791738566/noticias/articles/20261011_170926_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 11 Oct 2026 17:09:59 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261011170959</guid>
   </item>
 </channel>
 </rss>
