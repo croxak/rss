@@ -7,14 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 14:44:34 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 14:51:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Trump recula y cancela la retransmisión en directo de la ejecución del autor de la matanza de Fort Hood]]></title>
+    <link>https://www.huffingtonpost.es/global/trump-recula-cancela-retransmision-directo-ejecucion-autor-matanza-fort-hood-f202610.html</link>
+    <description><![CDATA[Donald Trump ha decidido cancelar la retransmisión en directo de la ejecución de Nidal Hasan, condenado por la matanza de Fort Hood en 2009. La ejecución sigue prevista para el 3 de diciembre, pero no será emitida por internet. La decisión se tomó tras críticas de organizaciones de derechos humanos, líderes religiosos y la oposición.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792075568/noticias/articles/20261015_144608_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 15 Oct 2026 14:51:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015145135</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Santiago Riverón pide perdón a Dajabón y asegura que su postura sobre Haití ha privado al municipio de oportunidades del Gobierno]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261015144434</link>
     <description><![CDATA[El alcalde de Dajabón, Santiago Riverón, pidió disculpas públicamente a los habitantes de su municipio y aseguró que sus posiciones frente a Haití, especialmente en materia migratoria, han limitado las oportunidades que su población podría recibir del Gobierno dominicano.
@@ -1401,19 +1410,6 @@ La DGM ha formado 1,187 Agentes de Reacción Rápida y se incorporarán 300 jóv
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791739247/noticias/articles/20261011_172047_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 11 Oct 2026 17:21:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261011172128</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Zelenski responde a Trump y asegura que convocará elecciones en Ucrania si Putin acepta una tregua de 60 días]]></title>
-    <link>https://www.rtve.es/noticias/20261011/zelenski-rusas-ataques-infraestructura-energetica/17262635.shtml</link>
-    <description><![CDATA[Volodímir Zelenski ha afirmado que convocará elecciones en Ucrania si Vladímir Putin acepta un alto el fuego de 60 días. Esta declaración responde a Donald Trump, quien sugirió que Ucrania necesita un nuevo presidente.
-
-Trump ha anunciado una tregua energética "inminente" entre Rusia y Ucrania, lo que ha sorprendido a Zelenski. El presidente ucraniano ha expresado su disposición a cumplirla si Rusia también lo hace.
-
-El ministro de Exteriores de Ucrania, Andri Sibiga, ha defendido a Zelenski, afirmando que las críticas de Trump confirman que Zelenski está haciendo bien su trabajo y merece apoyo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791738955/noticias/articles/20261011_171554_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 11 Oct 2026 17:17:12 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261011171712</guid>
   </item>
 </channel>
 </rss>
