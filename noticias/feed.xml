@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 00:48:55 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 02:06:10 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Estados Unidos levanta sanciones contra Jorge Rodríguez, presidente de la Asamblea Nacional de Venezuela]]></title>
+    <link>https://elpais.com/us/2026-10-14/estados-unidos-levanta-sanciones-contra-jorge-rodriguez-presidente-de-la-asamblea-nacional-de-venezuela.html?outputType=amp</link>
+    <description><![CDATA[Estados Unidos ha levantado las sanciones contra Jorge Rodríguez, presidente de la Asamblea Nacional de Venezuela. El Departamento del Tesoro informó sobre la eliminación de su nombre de la lista de nacionales especialmente designados.
+
+Jorge Rodríguez, quien lidera la Legislatura venezolana desde 2021, había sido incluido en la lista por la Administración de Donald Trump. El Tesoro no dio razones para el cambio.
+
+Delcy Rodríguez, presidenta encargada de Venezuela y hermana de Jorge, también fue retirada de la lista de la OFAC en abril. Ha negociado un acuerdo con el Gobierno de Trump que otorga a Estados Unidos control sobre parte del sector petrolífero venezolano.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792029917/noticias/articles/20261015_020516_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 15 Oct 2026 02:06:10 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015020610</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Salo, la app dominicana de finanzas personales, supera las 4,000 descargas a tres meses de su lanzamiento]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261015004855</link>
     <description><![CDATA[La app dominicana Salo alcanzó 4,000 descargas en apenas tres meses desde su lanzamiento en julio de 2026, según informó su creador este 3 de octubre.
@@ -1384,17 +1397,6 @@ Los detenidos están vinculados a una red de tráfico de cocaína en Italia, con
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791649763/noticias/articles/20261010_162923_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 10 Oct 2026 16:29:50 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261010162950</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Matan a “Guccito” en enfrentamiento con agentes policiales durante allanamiento en Santiago]]></title>
-    <link>https://elnacional.com.do/nacionales/policiales/muere-alias-guccito-enfrentamiento-agentes-policiales-allanamiento-santiago_583079.html</link>
-    <description><![CDATA[Isaac de Jesús Fernández Reyes, conocido como “Guccito”, falleció en un enfrentamiento con la Policía Nacional durante un allanamiento en el ensanche Espaillat, Santiago. El hecho ocurrió cuando agentes de la DICRIM y la unidad SWAT ejecutaban una orden de arresto.
-
-Durante el tiroteo, el cabo Rafael Gómez de la Cruz, de la unidad SWAT, resultó herido en la mano. En la escena se encontraron una pistola Glock, un cargador, un teléfono celular y casquillos. El cuerpo de “Guccito” fue trasladado al INACIF.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791649368/noticias/articles/20261010_162248_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 10 Oct 2026 16:24:03 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261010162403</guid>
   </item>
 </channel>
 </rss>
