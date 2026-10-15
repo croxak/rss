@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 00:18:40 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 00:21:58 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Dominicanos acusados de atacar a detective del NYPD se declaran no culpables en el Bronx]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261015002158</link>
+    <description><![CDATA[Los dominicanos D’Angelo Rafael Jean Caraballo, de 25 años, y Sneider Mejía Bautista, de 24, se declararon no culpables este miércoles 14 de octubre ante un tribunal del Bronx de los cargos relacionados con el ataque al detective José Mercedes, ocurrido cuando estaba fuera de servicio.
+
+Ambos enfrentan acusaciones que incluyen tentativa de asesinato, robo y agresión. Según la cobertura de NY1, el juez ordenó mantenerlos detenidos sin fianza por considerar que representan un riesgo de fuga. Su próxima audiencia quedó fijada para el 3 de diciembre de 2026.
+
+La Fiscalía sostiene que los acusados atacaron a Mercedes el pasado 2 de octubre en el sector de Norwood, donde presuntamente lo apuñalaron repetidamente y le sustrajeron una cadena del cuello.
+
+Los dos hombres fueron capturados en Massachusetts y trasladados a Nueva York para responder por el caso. El Departamento de Seguridad Nacional estadounidense los identificó como nacionales de República Dominicana, según recogió News 12.
+
+Mercedes, detective dominicano de 33 años, sobrevivió al ataque y habló públicamente este martes sobre su recuperación. Relató que durante la agresión se identificó como policía tanto en inglés como en español y expresó su deseo de regresar al trabajo cuando su condición se lo permita.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792023661/noticias/articles/20261015_002100_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 15 Oct 2026 00:21:58 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015002158</guid>
+  </item>
+
+  <item>
     <title><![CDATA[PN mata a “Tojunto” en San Juan; era buscado por varios delitos]]></title>
     <link>https://elnuevodiario.com.do/pn-mata-a-tojunto-en-san-juan-era-buscado-por-varios-delitos/</link>
     <description><![CDATA[La Policía Nacional ha dado muerte a un hombre identificado como “Tojunto” en San Juan de la Maguana. Este individuo era buscado por la comisión de varios delitos.
@@ -1366,17 +1383,6 @@ Tras el incidente, fue trasladado al Hospital  Alejandro Cabral, donde posterio
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791648854/noticias/articles/20261010_161414_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 10 Oct 2026 16:14:48 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261010161448</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Se entregan dos hombres buscados por la Policía]]></title>
-    <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/09/se-entregan-dos-buscados-por-la-policia/3683061</link>
-    <description><![CDATA[Dos hombres que eran buscados por la Policía Nacional se entregaron voluntariamente. Elvin Castro Santos, de 40 años, era requerido por la muerte de José Luis García, alias “el Pelotero”, ocurrida el 29 de mayo de 2024 en Pimentel, provincia Duarte.
-
-José Adrián García, conocido como “Chiripa” o “el Villano”, tenía una orden de arresto por robo y asociación de malhechores. Ambos fueron recibidos por las autoridades en el Palacio de la Policía Nacional y serán puestos a disposición del Ministerio Público.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791648738/noticias/articles/20261010_161217_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 10 Oct 2026 16:12:56 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261010161256</guid>
   </item>
 </channel>
 </rss>
