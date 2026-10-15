@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 16:45:40 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 16:47:57 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Hombre mata a su esposa, hijos y nietos en una masacre familiar en Pensilvania]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/10/15/abuelo-mata-a-nueve-personas-en-masacre-familiar-en-pensilvania/3689989</link>
+    <description><![CDATA[Matthew Stone Sr., de 45 años, mató a tiros a ocho personas, incluyendo a su esposa, tres hijos y dos nietos, en Erie, Pensilvania, antes de quitarse la vida. Una de las víctimas estaba embarazada, lo que elevó a nueve el número de víctimas mortales.
+
+El ataque ocurrió el 9 de octubre de 2026. Entre las víctimas se encontraban Michelle Stone, esposa del atacante, sus hijos Matthew Stone Jr., Jonathan Stone, y Angelina Stone, quien estaba embarazada. También murieron los dos hijos pequeños de Angelina, Lora Roberts, cuñada del atacante, y Twila Tanner, amiga de la familia.
+
+Las dos mujeres intentaron buscar ayuda antes de ser asesinadas. El ataque ocurrió en una residencia de Perry Street, en Erie.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792082844/noticias/articles/20261015_164724_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 15 Oct 2026 16:47:57 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015164757</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fiscalía presenta transferencia a nombre del acusado que negó vinculación en caso Emmanuel Contreras]]></title>
     <link>https://www.diariolibre.com/actualidad/justicia/2026/10/15/presentan-transferencia-en-caso-de-muerte-de-enmanuel-contreras/3689957</link>
     <description><![CDATA[La Fiscalía presentó un comprobante bancario que identifica a Yohan Manuel Jiménez Medina como destinatario de RD$15,000 transferidos por Emmanuel Contreras Medina. Esta transacción está vinculada a la compra de un teléfono celular que originó un conflicto mortal.
@@ -1395,21 +1408,6 @@ La Policía colombiana indicó que continuará fortaleciendo los controles aerop
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791741761/noticias/articles/20261011_180241_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 11 Oct 2026 18:03:15 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261011180315</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[BCRD: Flujos de remesas alcanzaron los US$9,489.8 millones en el período enero-septiembre de 2026]]></title>
-    <link>https://elnuevodiario.com.do/bcrd-flujos-de-remesas-alcanzaron-los-us9489-8-millones-en-el-periodo-enero-septiembre-de-2026/</link>
-    <description><![CDATA[El Banco Central de la República Dominicana reportó que las remesas entre enero y septiembre de 2026 sumaron US$9,489.8 millones, un incremento del 6.5 % respecto al año anterior.
-
-En septiembre, las remesas alcanzaron US$1,057.1 millones, con un 80.9 % proveniente de Estados Unidos. España, Italia, Haití y Suiza también contribuyeron.
-
-El Distrito Nacional recibió el 51.2 % de las remesas en septiembre. La moneda nacional se apreció un 5.4 % frente al dólar al 30 de septiembre de 2026.
-
-Las reservas internacionales se situaron en US$15,239.9 millones. Se espera que las remesas alcancen US$12,600 millones en 2026.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791739504/noticias/articles/20261011_172503_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 11 Oct 2026 17:25:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261011172541</guid>
   </item>
 </channel>
 </rss>
