@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 00:01:45 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 00:04:42 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Antonio Taveras propone que Faride y el director de la Policía expliquen al Senado las muertes en intercambios de disparos]]></title>
+    <link>https://acento.com.do/actualidad/antonio-taveras-propone-que-faride-y-el-director-de-la-policia-expliquen-al-senado-las-muertes-en-intercambios-de-disparos-9770155.html</link>
+    <description><![CDATA[El senador Antonio Taveras Guzmán ha presentado una resolución para que la ministra de Interior y Policía, Faride Virginia Raful, y el director de la Policía Nacional, Ernesto Rafael Rodríguez García, comparezcan ante el Senado. El objetivo es explicar las muertes causadas por agentes policiales y los procedimientos aplicados.
+
+La resolución destaca la preocupación por el aumento de muertes durante intervenciones policiales y cita estadísticas del Ministerio de Interior y Policía. En 2025, se registraron 215 muertes por intervención policial, y en el primer semestre de 2026, 144 muertes.
+
+La propuesta también busca esclarecer el funcionamiento de la Dirección de Asuntos Internos y la coordinación con el Ministerio Público. La comparecencia debe realizarse dentro de 15 días hábiles tras la invitación formal.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792022649/noticias/articles/20261015_000409_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 15 Oct 2026 00:04:42 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015000442</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Intrant establece modalidades de compensación en licencias de conducir para mayores de 65 años]]></title>
     <link>https://presidencia.gob.do/noticias/intrant-establece-modalidades-de-compensacion-en-licencias-de-conducir-para-mayores-de-65</link>
     <description><![CDATA[El Instituto Nacional de Tránsito y Transporte Terrestre (Intrant) ha establecido modalidades de compensación para personas mayores de 65 años en la renovación de sus licencias de conducir. Esta medida responde a una sentencia del Tribunal Constitucional y un decreto presidencial que eliminan la restricción de dos años de vigencia para este grupo.
@@ -1366,23 +1379,6 @@ El martes, el presidente viajará a Praga para asistir a la 30.ª Conferencia An
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791648669/noticias/articles/20261010_161108_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 10 Oct 2026 16:11:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261010161140</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Dominicano baleado por ICE permanece con una bala alojada y fue trasladado a una cárcel de Brooklyn, según sus abogados]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261010155057</link>
-    <description><![CDATA[Oscar Belgal, el dominicano de 28 años herido durante un operativo del Servicio de Inmigración y Control de Aduanas (ICE), permanece detenido en el Metropolitan Detention Center de Brooklyn y todavía tiene una bala alojada en el cuerpo, según informó su defensa durante una audiencia federal celebrada el 9 de octubre.
-
-La abogada Paige Austin, de la organización Make the Road New York, indicó que Belgal continúa con dolor. Sus representantes pudieron comunicarse con él después de pasar varias horas sin conocer su ubicación. El Gobierno confirmó que inicialmente fue trasladado a una instalación en Nueva Jersey y posteriormente llevado a Brooklyn.
-
-Belgal recibió un disparo en el cuello el 8 de octubre mientras conducía por el vecindario de Marble Hill con su hijo de cinco años en el asiento trasero. Fue atendido en un hospital antes de quedar bajo custodia migratoria. 
-
-El juez federal J. Paul Oetken prohibió temporalmente su deportación y ordenó mantenerlo bajo custodia en Nueva York o Nueva Jersey mientras se examina la petición presentada por sus abogados. La medida no dispone su liberación. 
-
-ICE sostiene que Belgal utilizó su vehículo para intentar embestir a los agentes durante la detención. Esa versión es cuestionada por su defensa y no constituye una conclusión judicial sobre la legalidad del disparo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791647410/noticias/articles/20261010_155010_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 10 Oct 2026 15:50:57 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261010155057</guid>
   </item>
 </channel>
 </rss>
