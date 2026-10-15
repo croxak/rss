@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 12:58:50 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 13:01:49 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Indomet prevé pocas lluvias y temperaturas de hasta 35 °C en gran parte del país]]></title>
+    <link>https://noticiassin.com/pais/clima/2026/10/15/indomet-preve-pocas-lluvias-y-calor-de-hasta-35-c-2144178/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informa que este jueves el clima será mayormente soleado con escasas lluvias en gran parte del país. Se esperan aguaceros aislados en provincias como San Pedro de Macorís, Monte Plata y San Cristóbal.
+
+Las temperaturas máximas oscilarán entre 31 °C y 35 °C. Indomet recomienda a la población mantenerse hidratada, usar ropa ligera y evitar la exposición al sol entre las 11:00 a.m. y las 4:00 p.m.
+
+En el Gran Santo Domingo, se pronostica un cielo soleado a medio nublado, con chubascos aislados y posibles tronadas. Las temperaturas mínimas estarán entre 23 °C y 25 °C.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792069232/noticias/articles/20261015_130032_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 15 Oct 2026 13:01:49 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015130149</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Países Bajos autoriza entregar a Bélgica a neerlandés nacido en República Dominicana por presuntos delitos de organización criminal y robo]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261015125850</link>
     <description><![CDATA[El Tribunal de Ámsterdam autorizó la entrega a Bélgica de un ciudadano neerlandés nacido en República Dominicana, requerido por su presunta participación en una organización criminal y en delitos de robo organizado o a mano armada.
@@ -1391,19 +1404,6 @@ Tras más de seis meses de investigación, los agentes realizaron tres registros
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791736326/noticias/articles/20261011_163205_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 11 Oct 2026 16:33:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261011163328</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[COE coloca al Gran Santo Domingo y San Cristóbal en alerta verde por lluvias]]></title>
-    <link>https://eldia.com.do/coe-coloca-al-gran-santo-domingo-y-san-cristobal-en-alerta-verde-por-lluvias/</link>
-    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha emitido una alerta verde para el Distrito Nacional, el Gran Santo Domingo y la provincia San Cristóbal debido a las condiciones meteorológicas actuales.
-
-Una vaguada está provocando aguaceros, tronadas aisladas y ráfagas de viento. Se espera que las precipitaciones se extiendan hacia otras localidades de las regiones nordeste, norte y sureste, así como de la Cordillera Central.
-
-El COE exhorta a la población a tomar precauciones, como evitar cruzar ríos y el uso de balnearios en las provincias bajo alerta.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791677093/noticias/articles/20261011_000453_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 11 Oct 2026 00:05:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261011000519</guid>
   </item>
 </channel>
 </rss>
