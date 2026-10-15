@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 00:00:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 00:01:45 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Intrant establece modalidades de compensación en licencias de conducir para mayores de 65 años]]></title>
+    <link>https://presidencia.gob.do/noticias/intrant-establece-modalidades-de-compensacion-en-licencias-de-conducir-para-mayores-de-65</link>
+    <description><![CDATA[El Instituto Nacional de Tránsito y Transporte Terrestre (Intrant) ha establecido modalidades de compensación para personas mayores de 65 años en la renovación de sus licencias de conducir. Esta medida responde a una sentencia del Tribunal Constitucional y un decreto presidencial que eliminan la restricción de dos años de vigencia para este grupo.
+
+Las personas de 75 años o más que pagaron la tarifa completa para una licencia de cuatro años y solo obtuvieron dos, podrán renovar sin costo por los dos años restantes. Aquellos que pagaron el 50% de la tarifa por dos años recibirán una extensión de dos años adicionales, pagando el 50% restante.
+
+El Intrant reafirma su compromiso con el respeto a los derechos de las personas adultas mayores y la aplicación transparente de la normativa de tránsito.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792022437/noticias/articles/20261015_000037_article.png" type="image/png"/>
+    <pubDate>Thu, 15 Oct 2026 00:01:45 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015000145</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El Torito justifica protesta en Bonao y dice "la gente está cansada de que le hablen mentiras"]]></title>
     <link>https://elnacional.com.do/nacionales/torito-justifica-protesta-bonao-dice-gente-cansada-le-hablen-mentiras_583460.html</link>
     <description><![CDATA[El senador Héctor Acosta, conocido como El Torito, justificó la huelga de 48 horas en Bonao, convocada por sectores de la ciudad en demanda de reivindicaciones. La protesta, organizada por el Frente Amplio Popular (Falpo), comenzó a las 6:00 de la mañana del martes y concluirá a la misma hora del jueves.
@@ -1370,23 +1383,6 @@ ICE sostiene que Belgal utilizó su vehículo para intentar embestir a los agent
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791647410/noticias/articles/20261010_155010_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 10 Oct 2026 15:50:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261010155057</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Condenan a un dominicano y tres colombianos a diez años de prisión por tráfico de 400 kilos de cocaína en Madrid]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261010154015</link>
-    <description><![CDATA[La Audiencia Provincial de Madrid condenó a diez años de prisión a cuatro hombres por su participación en una operación de tráfico de 400 kilos de cocaína procedentes de Colombia. La resolución también impone una multa de 40 millones de euros, según informó EFE, que tuvo acceso a la sentencia.
-
-Los condenados son un ciudadano dominicano y tres colombianos, conocidos como Conde, Kalimán, Hermano y Mayor. Las publicaciones consultadas no precisan cuál de ellos es el dominicano. Esta información corrige la composición de dos dominicanos y dos colombianos difundida durante el juicio.
-
-La investigación incluyó una entrega controlada por vía aérea y la intervención de agentes encubiertos. Las autoridades supervisaron el traslado de la cocaína desde Colombia y mantuvieron la sustancia bajo custodia policial en Madrid mientras se desarrollaban las negociaciones con el grupo.
-
-Los cuatro fueron detenidos en junio de 2023 y enviados nuevamente a prisión provisional al concluir el juicio, el 17 de septiembre de 2026. Otros dos procesados permanecen prófugos.
-
-Las defensas cuestionaron la legalidad de la actuación policial, pero el tribunal rechazó esos argumentos y sostuvo que las diligencias contaron con control judicial y respetaron los derechos fundamentales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791646781/noticias/articles/20261010_153941_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 10 Oct 2026 15:40:15 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261010154015</guid>
   </item>
 </channel>
 </rss>
