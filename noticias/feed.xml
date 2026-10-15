@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 16:47:57 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 20:26:25 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[La Policía recupera RD$1.5 millones en larimar que había sido robado en la Zona Colonial]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/15/recuperan-larimar-en-zona-colonial-tras-robo/3690229</link>
+    <description><![CDATA[La Policía Nacional recuperó piedras de larimar valoradas en RD$1.5 millones en la Zona Colonial, Distrito Nacional. El allanamiento se realizó junto al Ministerio Público tras una denuncia por robo y estafa.
+
+Fausto Omar Tiburcio Ramírez fue conducido para fines de investigación. El robo ocurrió el 1 de octubre de 2026, cuando Jesús Ramos Viñas contactó al comerciante para comprar larimar y, junto a otro individuo, lo despojó de la mercancía.
+
+Las investigaciones continúan por presuntos delitos de robo, estafa y amenazas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792092174/noticias/articles/20261015_192254_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 15 Oct 2026 20:26:25 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015202625</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Hombre mata a su esposa, hijos y nietos en una masacre familiar en Pensilvania]]></title>
     <link>https://www.diariolibre.com/usa/actualidad/2026/10/15/abuelo-mata-a-nueve-personas-en-masacre-familiar-en-pensilvania/3689989</link>
     <description><![CDATA[Matthew Stone Sr., de 45 años, mató a tiros a ocho personas, incluyendo a su esposa, tres hijos y dos nietos, en Erie, Pensilvania, antes de quitarse la vida. Una de las víctimas estaba embarazada, lo que elevó a nueve el número de víctimas mortales.
@@ -1389,25 +1402,6 @@ Pulido y Saab habrían obtenido un contrato para construir viviendas en Venezuel
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791747111/noticias/articles/20261011_193151_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 11 Oct 2026 19:32:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261011193220</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía colombiana incauta 30 kilos de cocaína que serían enviados a Punta Cana desde Bogotá]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261011180315</link>
-    <description><![CDATA[La Policía Nacional de Colombia informó este sábado 10 de octubre sobre la incautación de 30 kilogramos de clorhidrato de cocaína en el Aeropuerto Internacional El Dorado, en Bogotá, que pretendían ser transportados hacia Punta Cana, República Dominicana.
-
-El cargamento fue descubierto por agentes de la Dirección de Antinarcóticos durante una inspección de equipajes destinados a vuelos internacionales. En el interior de una maleta de bodega, los uniformados encontraron 30 paquetes rectangulares que contenían la sustancia ilícita.
-
-El brigadier general William Castaño Ramos, director de Antinarcóticos de la Policía colombiana, explicó que el procedimiento forma parte de los controles desarrollados en las terminales aéreas para impedir el tráfico internacional de estupefacientes.
-
-Según las estimaciones oficiales, la incautación evitó la comercialización de aproximadamente 75,000 dosis de cocaína y representó una afectación económica superior a los 259 millones de pesos colombianos para las estructuras criminales.
-
-Hasta el momento, las autoridades no han informado sobre personas detenidas ni han identificado al propietario de la maleta. Tampoco han revelado la aerolínea involucrada ni establecido públicamente la identidad de los responsables del cargamento.
-
-La Policía colombiana indicó que continuará fortaleciendo los controles aeroportuarios para detectar nuevas modalidades de ocultamiento y prevenir el envío de sustancias ilícitas hacia destinos internacionales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791741761/noticias/articles/20261011_180241_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 11 Oct 2026 18:03:15 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261011180315</guid>
   </item>
 </channel>
 </rss>
