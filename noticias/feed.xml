@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 02:06:10 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 02:08:25 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[236 sillas vacías recuerdan a las víctimas del Jet Set en vigilia frente al Palacio de Justicia]]></title>
+    <link>https://acento.com.do/amp/actualidad/236-sillas-vacias-recuerdan-a-las-victimas-del-jet-set-en-vigilia-frente-al-palacio-de-justicia-9770262.html</link>
+    <description><![CDATA[Doscientas treinta y seis sillas vacías fueron colocadas frente al Palacio de Justicia de Ciudad Nueva como homenaje a las víctimas del colapso del techo de la discoteca Jet Set. La vigilia, llamada “Luz para la justicia”, fue organizada por el Movimiento Justicia Jet Set.
+
+El evento recuerda a las 236 personas que fallecieron el 8 de abril de 2025, durante una presentación del merenguero Rubby Pérez, quien también murió. La tragedia dejó además alrededor de 180 heridos.
+
+El proceso judicial sigue en curso. Los propietarios de la discoteca, Antonio y Maribel Espaillat, enfrentan cargos de homicidio involuntario. La próxima audiencia será el 16 de octubre.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792030042/noticias/articles/20261015_020722_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 15 Oct 2026 02:08:25 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015020825</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Estados Unidos levanta sanciones contra Jorge Rodríguez, presidente de la Asamblea Nacional de Venezuela]]></title>
     <link>https://elpais.com/us/2026-10-14/estados-unidos-levanta-sanciones-contra-jorge-rodriguez-presidente-de-la-asamblea-nacional-de-venezuela.html?outputType=amp</link>
     <description><![CDATA[Estados Unidos ha levantado las sanciones contra Jorge Rodríguez, presidente de la Asamblea Nacional de Venezuela. El Departamento del Tesoro informó sobre la eliminación de su nombre de la lista de nacionales especialmente designados.
@@ -1386,17 +1399,6 @@ Las autoridades recibieron una pistola Glock, modelo 45, como parte de las inves
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791650052/noticias/articles/20261010_163412_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 10 Oct 2026 16:34:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261010163442</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía captura a padre e hijo buscados en Italia por narcotráfico]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/10/10/policia-captura-a-padre-e-hijo-buscados-por-italia-por-narcotrafico-2140419/</link>
-    <description><![CDATA[La Policía Nacional de República Dominicana arrestó en San Pedro de Macorís a Kely Morban Álvarez y su hijo, Kevin Morban Pérez, quienes eran buscados por las autoridades italianas por presunto narcotráfico.
-
-Los detenidos están vinculados a una red de tráfico de cocaína en Italia, con actividades en localidades como Paese, Lugo di Romagna y Treviso. Ambos fueron arrestados por separado y están bajo custodia para fines de extradición.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791649763/noticias/articles/20261010_162923_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 10 Oct 2026 16:29:50 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261010162950</guid>
   </item>
 </channel>
 </rss>
