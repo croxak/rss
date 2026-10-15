@@ -7,14 +7,41 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 00:21:58 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 15 Oct 2026 00:48:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Salo, la app dominicana de finanzas personales, supera las 4,000 descargas a tres meses de su lanzamiento]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261015004855</link>
+    <description><![CDATA[La app dominicana Salo alcanzó 4,000 descargas en apenas tres meses desde su lanzamiento en julio de 2026, según informó su creador este 3 de octubre.
+
+La plataforma apunta a uno de los puntos ciegos más comunes en el manejo del dinero personal: los gastos pequeños y recurrentes que, acumulados, erosionan el presupuesto mensual sin que el usuario los perciba. Al integrarse con Apple Pay mediante la configuración de atajos, Salo registra cada consumo de forma automática, sin que el usuario tenga que anotar nada a mano.
+
+Qué hace y cómo funciona
+
+La aplicación dominicana de finanzas personales organiza la información por producto financiero: el usuario puede llevar registros separados de sus tarjetas de crédito, cuentas de débito, ahorros y préstamos. A eso se suman un módulo de viajes para controlar el presupuesto y los consumos por destino, metas de ahorro, consejos financieros diarios y sincronización entre dispositivos.
+
+«Creamos Salo para facilitar a las personas el manejo de sus operaciones financieras con una interfaz moderna y amigable. Queremos que nadie pierda el rastro de su dinero en esos gastos que pasan desapercibidos, pero que abren un hueco en el presupuesto cada mes», dijo Rubén Martínez, creador de la aplicación.
+
+Te puede interesar leer:
+
+La empresa señala que toda la información registrada es 100% confidencial del usuario y no es compartida con terceros.
+
+Disponibilidad y mercado
+
+Salo está disponible para descarga en App Store y Google Play, y opera en español e inglés, lo que abre la puerta a usuarios fuera de República Dominicana en mercados de habla inglesa. El soporte bilingüe sugiere una estrategia de crecimiento que va más allá del mercado local desde sus primeras semanas de vida.
+
+El desempeño inicial de Salo llega en un momento en que las aplicaciones de finanzas personales ganan terreno en América Latina, impulsadas por la mayor penetración de smartphones y el crecimiento de los pagos digitales. Para los próximos meses, el ritmo de crecimiento de descargas y la incorporación de integraciones con otras billeteras digitales o bancos locales serán los indicadores a seguir para evaluar si la app consolida su posición en el segmento.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792025313/noticias/articles/20261015_004833_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 15 Oct 2026 00:48:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261015004855</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Dominicanos acusados de atacar a detective del NYPD se declaran no culpables en el Bronx]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261015002158</link>
     <description><![CDATA[Los dominicanos D’Angelo Rafael Jean Caraballo, de 25 años, y Sneider Mejía Bautista, de 24, se declararon no culpables este miércoles 14 de octubre ante un tribunal del Bronx de los cargos relacionados con el ataque al detective José Mercedes, ocurrido cuando estaba fuera de servicio.
@@ -1368,21 +1395,6 @@ Durante el tiroteo, el cabo Rafael Gómez de la Cruz, de la unidad SWAT, result�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791649368/noticias/articles/20261010_162248_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 10 Oct 2026 16:24:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261010162403</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Muere “Piro Caco de Muñeca” en supuesto intercambio de disparos con la Policía en San Juan]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261010161448</link>
-    <description><![CDATA[El presunto delincuente Ángel Luis González, alias “Piro Caco de Muñeca”, de 44 años, murió mientras recibía atenciones médicas tras resultar herido de bala en un supuesto intercambio de disparos con agentes de la Policía Nacional, ocurrido la noche este jueves, en la provincia San Juan.
-
-Según el informe preliminar, González era buscado mediante la orden de arresto núm. 1613/2026 por su presunta participación en un asalto a mano armada.
-
-La Policía indicó que una patrulla lo interceptó y que, cuando los agentes le ordenaron detenerse, presuntamente sacó un arma de fuego y disparó contra ellos, quienes respondieron a la agresión.
-
-Tras el incidente, fue trasladado al Hospital  Alejandro Cabral, donde posteriormente falleció.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791648854/noticias/articles/20261010_161414_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 10 Oct 2026 16:14:48 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261010161448</guid>
   </item>
 </channel>
 </rss>
