@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 16 Oct 2026 02:42:11 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 02:47:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Senador Omar Fernández señala debilidades en la fiscalización del Congreso y pide fortalecerla]]></title>
+    <link>https://www.diariolibre.com/politica/partidos/2026/10/15/omar-fernandez-cuestiona-la-fiscalizacion-del-congreso/3690665</link>
+    <description><![CDATA[El senador Omar Fernández ha señalado debilidades en la fiscalización del Congreso Nacional y ha pedido fortalecerla. Durante un encuentro en la Universidad APEC, destacó la importancia de un contrapeso democrático efectivo y los desafíos de la oposición ante la mayoría oficialista.
+
+Fernández también abordó la discusión del Presupuesto General del Estado para 2027, subrayando la necesidad de voces críticas que examinen a fondo la propuesta del Poder Ejecutivo.
+
+El rector de Unapec, Erik Pérez Vega, resaltó la importancia del Congreso como pilar del Estado social y democrático de derecho, destacando la necesidad de transparencia y compromiso con la justicia social.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792118808/noticias/articles/20261016_024648_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 16 Oct 2026 02:47:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261016024731</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Salud Pública llama a reforzar la prevención del dengue ante riesgos climáticos y circulación del serotipo DENV-2]]></title>
     <link>https://noticiassin.com/salud/2026/10/15/salud-publica-refuerza-prevencion-del-dengue-ante-denv-2-2144932/</link>
     <description><![CDATA[El Ministerio de Salud Pública de la República Dominicana ha llamado a reforzar la prevención del dengue ante riesgos climáticos y la circulación del serotipo DENV-2. Hasta la semana 39 de 2026, se han confirmado 396 casos de dengue en el país.
@@ -1377,23 +1390,6 @@ En la escena se recuperaron aproximadamente cincuenta casquillos de distintos ca
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791808383/noticias/articles/20261012_123302_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 12 Oct 2026 12:33:48 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261012123348</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[SENPA detiene a 23 haitianos y desmantela 15 casuchas en Sierra de Bahoruco]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261012005130</link>
-    <description><![CDATA[En un operativo interinstitucional, el Servicio Nacional de Protección Ambiental (SENPA), en coordinación con el Ministerio de Medio Ambiente y Recursos Naturales, técnicos forestales del Parque Nacional Sierra de Bahoruco, miembros del Ejército de República Dominicana (ERD) y la Dirección General de Migración (DGM), intervino esta importante área protegida, logrando la detención de 23 nacionales haitianos en condición migratoria irregular y el desmantelamiento de 15 casuchas construidas de manera ilegal.
-
-El operativo tuvo como objetivo fortalecer la protección de los recursos naturales y prevenir actividades que comprometen la integridad de esta área protegida, tales como las quemas, los desmontes forestales, la ocupación irregular de terrenos y las construcciones no autorizadas.
-
-Durante la intervención también fueron ocupadas seis armas blancas y retenida una motocicleta, como parte de las acciones de vigilancia y control desarrolladas en el parque.
-
-Los detenidos quedaron bajo la responsabilidad de la Dirección General de Migración y demás autoridades competentes, para los procedimientos correspondientes conforme a las disposiciones legales vigentes.
-
-El SENPA continúa las labores de inspección, vigilancia, prevención y control en las áreas protegidas del país, mediante el trabajo coordinado con las instituciones responsables de la protección ambiental y el cumplimiento de las normativas vigentes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791766266/noticias/articles/20261012_005105_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 12 Oct 2026 00:51:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261012005130</guid>
   </item>
 </channel>
 </rss>
