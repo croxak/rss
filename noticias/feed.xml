@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 16 Oct 2026 14:03:14 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 14:07:45 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Los Brewers barrieron a Dodgers y alcanzaron la Serie Mundial por primera vez desde 1982]]></title>
+    <link>https://listindiario.com/el-deporte/beisbol/20261015/brewers-barrieron-dodgers-alcanzaron-serie-mundial-primera-vez-1982_926382.html</link>
+    <description><![CDATA[Los Cerveceros de Milwaukee han logrado un hito al alcanzar la Serie Mundial por primera vez desde 1982, tras barrer a los Dodgers de Los Ángeles.
+
+Garrett Mitchell fue clave al conectar un jonrón en la sexta entrada, mientras que David Hamilton aseguró la victoria con otro cuadrangular en la novena.
+
+Los Brewers remontaron un marcador adverso de 4-0, después de que Shohei Ohtani pusiera a los Dodgers al frente con su primer jonrón en la postemporada.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792159618/noticias/articles/20261016_140658_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 16 Oct 2026 14:07:45 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261016140745</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Juez varía la calificación jurídica en caso Jet Set y expone a los Espaillat a 20 años de cárcel]]></title>
     <link>https://eldia.com.do/caso-jet-set-juez-varia-la-calificacion-juridica-a-homicidio-por-dolo-eventual/</link>
     <description><![CDATA[El juez Franny González ha decidido cambiar la calificación jurídica del caso Jet Set a "homicidio por dolo eventual". Esta nueva calificación podría resultar en una condena de 3 a 20 años para los propietarios de la discoteca, Antonio y Maribel Espaillat.
@@ -1379,19 +1392,6 @@ El pasado 8 de octubre, los cancilleres de Venezuela y República Dominicana rea
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791819741/noticias/articles/20261012_154221_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 12 Oct 2026 15:51:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261012155105</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[ONU alerta sobre intercambio de drogas por armas entre bandas de Jamaica y Haití]]></title>
-    <link>https://n.com.do/2026/10/12/onu-alerta-sobre-intercambio-de-drogas-por-armas-entre-bandas-de-jamaica-y-haiti/</link>
-    <description><![CDATA[Un informe de la ONU revela que bandas criminales en Jamaica y Haití intercambian drogas por armas de fuego. Las autoridades jamaicanas han decomisado 51 armas de la Policía Nacional de Haití.
-
-El tráfico de drogas y armas está interconectado en la región, utilizando rutas marítimas y contactos transnacionales. El informe documenta 28 incautaciones de armas y municiones entre 2022 y 2026, con operaciones en Miami, Haití y República Dominicana.
-
-Parte del armamento proviene de compras en Estados Unidos. La cooperación regional es esencial para abordar el problema.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791817928/noticias/articles/20261012_151208_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 12 Oct 2026 15:12:36 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261012151236</guid>
   </item>
 </channel>
 </rss>
