@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 16 Oct 2026 14:07:45 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 14:09:36 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Caso Jet Set comenzará desde cero tras decisión de enviar proceso a un tribunal colegiado]]></title>
+    <link>https://n.com.do/2026/10/16/caso-jet-set-comenzara-desde-cero-tras-decision-de-enviar-proceso-a-un-tribunal-colegiado/</link>
+    <description><![CDATA[El juicio contra Antonio y Maribel Espaillat, propietarios de la discoteca Jet Set, comenzará desde cero. El juez Franny González Castillo decidió cambiar la calificación jurídica de los hechos relacionados con el desplome del techo del establecimiento.
+
+La tragedia ocurrió el 8 de abril de 2025, dejando 236 personas fallecidas y 183 heridas. La nueva calificación busca juzgar los hechos bajo la figura del dolo eventual, en lugar de homicidio involuntario.
+
+El caso será remitido a un tribunal colegiado para su nuevo inicio, según informó el magistrado a las partes.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792159731/noticias/articles/20261016_140851_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 16 Oct 2026 14:09:36 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261016140936</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Los Brewers barrieron a Dodgers y alcanzaron la Serie Mundial por primera vez desde 1982]]></title>
     <link>https://listindiario.com/el-deporte/beisbol/20261015/brewers-barrieron-dodgers-alcanzaron-serie-mundial-primera-vez-1982_926382.html</link>
     <description><![CDATA[Los Cerveceros de Milwaukee han logrado un hito al alcanzar la Serie Mundial por primera vez desde 1982, tras barrer a los Dodgers de Los Ángeles.
@@ -1381,17 +1394,6 @@ Fuente: Diario Libre - Luis Silva]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791820336/noticias/articles/20261012_155216_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 12 Oct 2026 15:52:48 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261012155248</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Delcy Rodríguez y Luis Abinader se reúnen por primera vez en Roma tras anuncio de restablecimiento gradual de relaciones]]></title>
-    <link>https://albertonews.com/nacionales/delcy-rodriguez-y-luis-abinader-conversan-en-roma-en-el-marco-de-la-reunion-de-la-fao/</link>
-    <description><![CDATA[Delcy Rodríguez y Luis Abinader sostuvieron su primer encuentro en Roma en el marco del Foro Mundial de la Alimentación de la FAO. La reunión se produce luego de que ambos países acordaran avanzar hacia la normalización gradual de sus relaciones bilaterales.
-
-El pasado 8 de octubre, los cancilleres de Venezuela y República Dominicana reafirmaron su voluntad de avanzar en la normalización de relaciones durante un encuentro en Santiago.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791819741/noticias/articles/20261012_154221_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 12 Oct 2026 15:51:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261012155105</guid>
   </item>
 </channel>
 </rss>
