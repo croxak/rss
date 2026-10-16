@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 16 Oct 2026 17:51:06 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 17:52:30 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Avería afecta plataforma de Migración; trabajan en habilitar el e-ticket]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/10/16/averia-afecta-plataforma-de-migracion-trabajan-habilitacion-e-ticket/3691182</link>
+    <description><![CDATA[La Dirección General de Migración (DGM) informó sobre una avería interna que afectó temporalmente su plataforma tecnológica y servicios en línea. Los servicios fueron restablecidos a las 7:00 de la mañana, pero continúan trabajando en la habilitación del e-ticket.
+
+Durante la incidencia, los servicios de control migratorio y el flujo de viajeros se mantuvieron operativos. Los equipos técnicos trabajan para prevenir futuras interrupciones.
+
+Migración lamentó los inconvenientes y aseguró que mantendrá informada a la ciudadanía sobre los avances.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792173112/noticias/articles/20261016_175152_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 16 Oct 2026 17:52:30 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261016175230</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno anuncia más apoyo al arroz y promete defenderlo ante EE. UU.]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/10/16/gobierno-anuncia-mas-apoyo-al-arroz-y-promete-defenderlo-ante-ee-uu-2145585/</link>
     <description><![CDATA[El gobierno dominicano refuerza su apoyo al sector arrocero con subsidios y financiamiento, buscando mejorar la productividad y defender el mercado ante EE. UU. La producción de arroz blanco ha aumentado significativamente en las últimas dos décadas.
@@ -1393,23 +1406,6 @@ Fuente: Diario Libre - Omar Medina]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791839377/noticias/articles/20261012_210936_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 12 Oct 2026 21:10:15 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261012211015</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fallece madre de Daniel Toribio, exadministrador del Banco de Reservas]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261012184509</link>
-    <description><![CDATA[Falleció este domingo 11 de octubre, a los 102 años de edad, Juana Altagracia Marmolejos viuda Toribio, conocida cariñosamente como «Doña Tatá», madre del economista y dirigente político Daniel Toribio, exadministrador general del Banco de Reservas y exministro de Hacienda de la República Dominicana.
-
-La información fue dada a conocer mediante una esquela familiar, en la que sus hijos, nietos, bisnietos, tataranietos y demás familiares expresaron su profundo pesar por su fallecimiento.
-
-Doña Tatá nació el 10 de enero de 1924 y falleció el 11 de octubre de 2026.
-
-De acuerdo con la información suministrada por la familia, sus restos serán velados este martes 13 de octubre, a partir de las 9:00 de la mañana, en la Funeraria Blandino del Cementerio Puerta del Cielo.
-
-El sepelio está programado para las 3:00 de la tarde del mismo día, en el Cementerio Puerta del Cielo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791830667/noticias/articles/20261012_184426_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 12 Oct 2026 18:45:09 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261012184509</guid>
   </item>
 </channel>
 </rss>
