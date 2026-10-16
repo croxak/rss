@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 16 Oct 2026 13:49:12 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 14:03:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Juez varía la calificación jurídica en caso Jet Set y expone a los Espaillat a 20 años de cárcel]]></title>
+    <link>https://eldia.com.do/caso-jet-set-juez-varia-la-calificacion-juridica-a-homicidio-por-dolo-eventual/</link>
+    <description><![CDATA[El juez Franny González ha decidido cambiar la calificación jurídica del caso Jet Set a "homicidio por dolo eventual". Esta nueva calificación podría resultar en una condena de 3 a 20 años para los propietarios de la discoteca, Antonio y Maribel Espaillat.
+
+La decisión se fundamenta en informes técnicos y testimonios que revelaron una sobrecarga del techo, así como en los aportes del jurista Francisco Muñoz Conde. El caso será trasladado a un tribunal colegiado de la Cámara Penal del Distrito Nacional para un nuevo juicio.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792159361/noticias/articles/20261016_140240_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 16 Oct 2026 14:03:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261016140314</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Juez cambia calificación jurídica en caso Jet Set y expone a los Espaillat a 30 años de cárcel]]></title>
     <link>https://elnacional.com.do/nacionales/judicial/juez-cambia-calificacion-juridica-caso-jet-set-expone-espaillat-30-anos-carcel_583618.html</link>
     <description><![CDATA[Los hermanos Antonio y Maribel Espaillat están en riesgo de enfrentar una condena de hasta 30 años de cárcel. Esto se debe al colapso del techo de la discoteca Jet Set.
@@ -1381,23 +1392,6 @@ Parte del armamento proviene de compras en Estados Unidos. La cooperación regio
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791817928/noticias/articles/20261012_151208_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 12 Oct 2026 15:12:36 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261012151236</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Apresan a cuatro hombres por presunta falsificación de cheques y documentos en Moca]]></title>
-    <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/12/falsificacion-de-cheques-y-documentos-en-moca-deja-cuatro-detenidos/3686440</link>
-    <description><![CDATA[Cuatro hombres fueron apresados en Moca, provincia Espaillat, durante un allanamiento en el que las autoridades desmantelaron una presunta estructura delictiva dedicada a la impresión y falsificación de documentos, así como al cobro ilícito de cheques fraudulentos.
-
-Los detenidos fueron identificados como Julio César Tavárez Tavárez, Pablo Roberto Marte Vargas, Luciano Leger Ferreras y Claudio Antonio.
-
-Durante la intervención, se ocuparon 71 cédulas dominicanas presuntamente falsas, 20 cheques en blanco, carnés del Inapa, impresoras, teléfonos celulares y otros equipos.
-
-Las autoridades investigan el alcance de las operaciones y si los detenidos están vinculados con otros casos de falsificación y estafa.
-
-Fuente: Diario Libre - Edward Fernández]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791816081/noticias/articles/20261012_144120_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 12 Oct 2026 14:42:32 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261012144232</guid>
   </item>
 </channel>
 </rss>
