@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 15 Oct 2026 23:06:55 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 02:23:45 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[EE. UU. anuncia más de US$300 millones para reforzar su presencia estratégica en el Caribe]]></title>
+    <link>https://www.diariolibre.com/mundo/estados-unidos/2026/10/15/ee-uu-inversion-us300-mm-para-reforzar-presencia-en-el-caribe/3690315</link>
+    <description><![CDATA[Estados Unidos ha anunciado una inversión de más de 300 millones de dólares en la cuenca del Caribe. Este esfuerzo busca fortalecer la seguridad, proteger infraestructuras estratégicas y mejorar las conexiones digitales en la región.
+
+El vicesecretario de Estado, Christopher Landau, informó que 175 millones de dólares se destinarán al despliegue de cables submarinos para ampliar las conexiones de internet de alta velocidad. Además, se invertirán 61.5 millones en programas sanitarios y cerca de 67 millones en la modernización de las fuerzas de seguridad.
+
+Este anuncio se enmarca en la estrategia de la administración Trump para reforzar la presencia política, económica y militar de Estados Unidos en el hemisferio occidental.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792117401/noticias/articles/20261016_022321_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 16 Oct 2026 02:23:45 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261016022345</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Director de la Policía y la diputada Millys Martínez dan por superado el impasse en Elías Piña]]></title>
     <link>https://eldia.com.do/director-de-la-policia-y-la-diputada-millys-martinez-dan-por-superado-el-impasse-en-elias-pina/</link>
     <description><![CDATA[El director general de la Policía Nacional, mayor general Ernesto Rafael Rodríguez García, y la diputada Millys Martínez, se reunieron para tratar un impasse ocurrido en Elías Piña. Ambas partes acordaron dar por superada la situación y reafirmaron su compromiso con el diálogo y la colaboración institucional.
@@ -1387,23 +1400,6 @@ El comunicado confirma su ciudadanía, pero no publica su nombre, edad ni el pa�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791765617/noticias/articles/20261012_004016_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 12 Oct 2026 00:41:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261012004103</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Investigan a hombre de origen dominicano por agredir a conductor de autobús en Italia; sindicatos convocaron huelga para exigir mayor seguridad]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261012003749</link>
-    <description><![CDATA[La policía italiana investiga a un hombre de 38 años, identificado por RAI como ciudadano italiano de origen dominicano, por presuntamente agredir a un conductor de autobús en Santa Giustina, Rimini. El incidente motivó una convocatoria sindical de huelga para reclamar mayor seguridad en el transporte público.
-
-La agresión ocurrió el 5 de octubre de 2026 en un autobús de la línea 9 de Start Romagna. Según la reconstrucción publicada, el pasajero habría protestado porque el vehículo llevaba demasiado tiempo detenido, mientras el conductor le explicaba que debía respetar los horarios establecidos.
-
-La discusión habría derivado en amenazas y golpes contra el conductor, un italiano de 48 años que recibió atención hospitalaria con un pronóstico de recuperación de veinte días. El sospechoso también habría dañado equipos del puesto de conducción, impidiendo que el autobús continuara el recorrido.
-
-La policía logró identificarlo mediante el análisis de las cámaras de vigilancia del vehículo y sus bases de datos. El hombre fue denunciado ante la Fiscalía de Rimini y permanece investigado en libertad por presuntas lesiones agravadas, amenazas, daños agravados e interrupción de servicio público.
-
-Tras el incidente, sindicatos del transporte convocaron una huelga de 24 horas, realizada el 9 de octubre, para exigir medidas de protección para los conductores. Los representantes de los trabajadores denunciaron agresiones recurrentes y reclamaron mejoras en las barreras que separan el puesto de conducción de los pasajeros.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791765437/noticias/articles/20261012_003717_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 12 Oct 2026 00:37:49 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261012003749</guid>
   </item>
 </channel>
 </rss>
