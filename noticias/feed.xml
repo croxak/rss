@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 16 Oct 2026 14:09:36 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 14:13:51 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Se entrega “Juancito”, acusado de homicidio ocurrido en 2021 en SFM]]></title>
+    <link>https://elnuevodiario.com.do/se-entrega-juancito-acusado-de-homicidio-ocurrido-en-2021-en-sfm/</link>
+    <description><![CDATA[Juan Bautista Mercedes Ortega, alias "Juancito", se entregó a las autoridades. Era buscado por su presunta vinculación con un homicidio en 2021 y una tentativa de homicidio en 2026.
+
+El primer incidente ocurrió durante un bautismo en San Francisco de Macorís, donde dos personas resultaron heridas de bala. La segunda orden de arresto está relacionada con un incidente en agosto de 2026.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792160003/noticias/articles/20261016_141323_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 16 Oct 2026 14:13:51 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261016141351</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Caso Jet Set comenzará desde cero tras decisión de enviar proceso a un tribunal colegiado]]></title>
     <link>https://n.com.do/2026/10/16/caso-jet-set-comenzara-desde-cero-tras-decision-de-enviar-proceso-a-un-tribunal-colegiado/</link>
     <description><![CDATA[El juicio contra Antonio y Maribel Espaillat, propietarios de la discoteca Jet Set, comenzará desde cero. El juez Franny González Castillo decidió cambiar la calificación jurídica de los hechos relacionados con el desplome del techo del establecimiento.
@@ -1379,21 +1390,6 @@ Suberví llamó a la población a reparar fugas, evitar el desbordamiento de cis
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791821911/noticias/articles/20261012_161831_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 12 Oct 2026 16:19:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261012161905</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader atribuye salida de RD del mapa del hambre al aumento de la producción y las ayudas sociales]]></title>
-    <link>https://www.diariolibre.com/politica/gobierno/2026/10/12/abinader-destaca-las-claves-para-sacar-a-rd-del-mapa-del-hambre/3686465</link>
-    <description><![CDATA[El presidente Luis Abinader explicó que la salida de la República Dominicana del mapa del hambre de la FAO se debe al aumento de la producción de alimentos, mejora de ingresos y ampliación de programas sociales. En el Foro Mundial de la Alimentación 2026 en Roma, destacó que la subalimentación en el país pasó del 21.3 % a menos del 2.5 %.
-
-Entre 2004 y 2024, el índice de producción de alimentos por habitante creció un 122.3 %. Además, el ingreso real por habitante aumentó un 43.7 % entre 2015 y 2025, y la pobreza monetaria disminuyó significativamente.
-
-En protección social, la cobertura de la alimentación escolar aumentó, y se duplicaron los subsidios Aliméntate y Bono Gas. Abinader también destacó medidas para proteger a pequeños productores, como el subsidio a la urea.
-
-Fuente: Diario Libre - Luis Silva]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791820336/noticias/articles/20261012_155216_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 12 Oct 2026 15:52:48 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261012155248</guid>
   </item>
 </channel>
 </rss>
