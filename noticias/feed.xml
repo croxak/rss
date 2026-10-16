@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 16 Oct 2026 14:48:12 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 14:57:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[El papa León XIV mejora y recupera su autonomía tras la operación de pulmón]]></title>
+    <link>https://www.diariolibre.com/mundo/europa/2026/10/16/papa-leon-xiv-mejora-y-recupera-su-autonomia-tras-la-operacion/3690983</link>
+    <description><![CDATA[El papa León XIV se recupera favorablemente tras una operación para extirpar un tumor maligno en el pulmón derecho. Según el Vaticano, el pontífice ya realiza sus actividades cotidianas con autonomía.
+
+La cirugía, realizada el 13 de octubre, fue exitosa y sin complicaciones. Los médicos han confirmado una evolución positiva en su estado de salud.
+
+Las audiencias presenciales del papa han sido suspendidas hasta el 20 de octubre. Su viaje a Uruguay, Argentina y Perú, previsto para noviembre, aún no ha sido cancelado.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792162592/noticias/articles/20261016_145631_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 16 Oct 2026 14:57:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261016145704</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ito Bisonó se reunirá esta tarde con Marco Rubio en Washington, según agenda oficial de EE. UU.]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261016144812</link>
     <description><![CDATA[El ministro de Relaciones Exteriores de República Dominicana, Víctor «Ito» Bisonó, sostendrá este viernes 16 de octubre una reunión con el secretario de Estado de Estados Unidos, Marco Rubio, en Washington, D. C., según establece la agenda oficial publicada por el Departamento de Estado estadounidense.
@@ -1395,17 +1408,6 @@ El inspector general, Martín Tapia Sánchez, se trasladó a la provincia para i
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791829719/noticias/articles/20261012_182839_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 12 Oct 2026 18:37:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261012183720</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Se entrega “Gatillo Alegre”, buscado por tentativa de homicidio en Santiago]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261012182520</link>
-    <description><![CDATA[Tras varios meses prófugo, se entregó a las autoridades Jean Carlos Estrella Balbuena, alias “Gatillo Alegre”, de 34 años, quien era buscado por su presunta implicación en tentativa de homicidio contra un abogado, ocurrido en noviembre de 2025 en esta ciudad.
-
-La Policía Nacional informó que el hombre fue entregado por su representante legal a miembros de la División de Homicidios, donde quedó bajo arresto en cumplimiento de una orden judicial emitida en su contra.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791829475/noticias/articles/20261012_182435_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 12 Oct 2026 18:25:20 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261012182520</guid>
   </item>
 </channel>
 </rss>
