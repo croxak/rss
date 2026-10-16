@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 16 Oct 2026 02:23:45 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 02:34:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[María Corina Machado denuncia que Estados Unidos la dejó fuera de las negociaciones en Venezuela]]></title>
+    <link>https://www.elnuevoherald.com/noticias/america-latina/venezuela-es/article317645203.html</link>
+    <description><![CDATA[María Corina Machado, líder opositora venezolana, ha denunciado que Estados Unidos la ha dejado fuera de las negociaciones en Caracas entre el Gobierno de Delcy Rodríguez y un sector de la oposición. En una entrevista con The New York Times, Machado también acusó de "corrupción obscena" al empresario Alejandro Betancourt, nuevo socio petrolero de Washington.
+
+Machado, que lleva meses fuera de Venezuela, aseguró que regresará al país para movilizar a sus seguidores. A pesar de sus críticas, afirmó que respetará los acuerdos petroleros si cumplen con la ley venezolana.
+
+La dirigente también propuso crear una comisión de la verdad para abordar las violaciones de derechos humanos en el país.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792117980/noticias/articles/20261016_023300_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 16 Oct 2026 02:34:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261016023405</guid>
+  </item>
+
+  <item>
     <title><![CDATA[EE. UU. anuncia más de US$300 millones para reforzar su presencia estratégica en el Caribe]]></title>
     <link>https://www.diariolibre.com/mundo/estados-unidos/2026/10/15/ee-uu-inversion-us300-mm-para-reforzar-presencia-en-el-caribe/3690315</link>
     <description><![CDATA[Estados Unidos ha anunciado una inversión de más de 300 millones de dólares en la cuenca del Caribe. Este esfuerzo busca fortalecer la seguridad, proteger infraestructuras estratégicas y mejorar las conexiones digitales en la región.
@@ -1387,19 +1400,6 @@ El dominicano sobrevivió al disparo y permanece bajo custodia federal. Sus abog
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791765893/noticias/articles/20261012_004452_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 12 Oct 2026 00:46:18 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261012004618</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Detienen en Brasil a dominicano que presuntamente presentó pasaporte falso para viajar a París]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261012004103</link>
-    <description><![CDATA[La Policía Federal brasileña informó sobre la detención de un ciudadano dominicano que presuntamente presentó un pasaporte falso cuando intentaba embarcar hacia París desde el Aeropuerto Internacional de São Paulo, en Guarulhos.
-
-La actuación fue incluida en un comunicado publicado el 8 de octubre de 2026, que recoge varias detenciones realizadas durante los días 6 y 7 de ese mes. La autoridad no precisó en cuál de esas dos fechas fue arrestado el dominicano.
-
-El comunicado confirma su ciudadanía, pero no publica su nombre, edad ni el país al que supuestamente correspondía el pasaporte presentado. Tampoco detalla su situación judicial posterior.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791765617/noticias/articles/20261012_004016_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 12 Oct 2026 00:41:03 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261012004103</guid>
   </item>
 </channel>
 </rss>
