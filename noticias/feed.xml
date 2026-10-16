@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 16 Oct 2026 18:25:58 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 18:39:45 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Haití proyecta construir dos estadios de fútbol que cumplan con las normas de la FIFA]]></title>
+    <link>https://www.diariolibre.com/deportes/futbol/2026/10/15/fifa-haiti-proyecta-construir-dos-estadios-de-futbol-que-cumplan/3690507</link>
+    <description><![CDATA[El Gobierno de Haití ha anunciado la construcción de dos estadios de fútbol que cumplirán con las normas de la FIFA, ubicados en el sur y norte del país. El ministro de Deportes, Pythagore Dumas, informó que los recursos están contemplados en el presupuesto 2026-2027.
+
+La selección haitiana ha enfrentado dificultades para jugar en su territorio, recurriendo a instalaciones en otros países. Recientemente, un partido en República Dominicana generó incidentes, lo que llevó al ministro dominicano de Deportes a prohibir futuros encuentros en su país.
+
+Además de los nuevos estadios, Haití planea rehabilitar instalaciones deportivas en Saint-Marc, Les Gonaïves y Cap-Haïtien, como parte de los esfuerzos por mejorar la infraestructura deportiva nacional.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792175951/noticias/articles/20261016_183911_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 16 Oct 2026 18:39:45 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261016183945</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Arrestan hombre con armas y municiones ocultas en compartimento secreto de una camioneta]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/16/detienen-hombre-con-armas-y-municiones-en-la-autopista-duarte/3691099</link>
     <description><![CDATA[Pedro Antonio Ramírez Encarnación fue arrestado en la autopista Duarte, Santo Domingo Oeste, al encontrarse armas y municiones ocultas en un compartimento secreto de su camioneta.
@@ -1385,19 +1398,6 @@ Los productos incluían fármacos vencidos, falsificados y sin registro sanitari
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791839992/noticias/articles/20261012_211952_article.webp" type="image/webp"/>
     <pubDate>Mon, 12 Oct 2026 21:23:49 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261012212349</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Muere "Bebo" en supuesto enfrentamiento policial en Los Ríos, Bahoruco]]></title>
-    <link>https://listindiario.com/la-republica/provincias/20261012/muere-hombre-senalado-homicidio-supuesto-enfrentamiento-policias-bahoruco_925718.html</link>
-    <description><![CDATA[Malvin Ferreras Matos, conocido como "Bebo", falleció tras un enfrentamiento con la Policía Nacional en Los Ríos, Bahoruco. Era buscado por su presunta participación en varios delitos, incluido un homicidio en Neyba.
-
-Según la Policía, Ferreras Matos habría enfrentado a los agentes con una escopeta calibre 12. Durante el operativo, se ocuparon prendas falsificadas con insignias del Dicrim.
-
-Las investigaciones continúan para localizar a otros presuntos implicados en los hechos delictivos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791839679/noticias/articles/20261012_211439_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 12 Oct 2026 21:15:15 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261012211515</guid>
   </item>
 </channel>
 </rss>
