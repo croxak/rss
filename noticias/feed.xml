@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 16 Oct 2026 13:36:40 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 16 Oct 2026 13:49:12 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Juez cambia calificación jurídica en caso Jet Set y expone a los Espaillat a 30 años de cárcel]]></title>
+    <link>https://elnacional.com.do/nacionales/judicial/juez-cambia-calificacion-juridica-caso-jet-set-expone-espaillat-30-anos-carcel_583618.html</link>
+    <description><![CDATA[Los hermanos Antonio y Maribel Espaillat están en riesgo de enfrentar una condena de hasta 30 años de cárcel. Esto se debe al colapso del techo de la discoteca Jet Set.
+
+El juez Franny Santana, de la Cuarta Sala Penal del Distrito Nacional, modificó la calificación jurídica del caso a homicidio voluntario.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792158360/noticias/articles/20261016_134559_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 16 Oct 2026 13:49:12 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261016134912</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Dictan prisión preventiva a dominicano acusado de matar a su pareja en Argentina; víctima recibió 15 heridas de arma blanca]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261016133640</link>
     <description><![CDATA[La Justicia argentina dictó prisión preventiva contra el dominicano Samuel Andrés Capellán Feliz, de 31 años, imputado por la muerte de su pareja, la docente Paula Milagros Espinosa, quien recibió 15 heridas de arma blanca durante un ataque ocurrido el pasado 3 de julio en El Challao, provincia de Mendoza.
@@ -1387,19 +1398,6 @@ Fuente: Diario Libre - Edward Fernández]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791816081/noticias/articles/20261012_144120_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 12 Oct 2026 14:42:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261012144232</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Vaticano suspende audiencia de Abinader con el papa León XIV por preparativos de intervención quirúrgica]]></title>
-    <link>https://eldia.com.do/vaticano-suspende-audiencia-con-abinader-por-operacion-papa/</link>
-    <description><![CDATA[La audiencia entre el presidente Luis Abinader y el papa León XIV en el Vaticano fue suspendida. El pontífice ha tenido que acelerar su proceso preoperatorio para una intervención quirúrgica.
-
-El jefe de Protocolo del Vaticano informó personalmente al mandatario dominicano en la sede de la FAO en Roma. La audiencia era parte de los compromisos de Abinader en Italia y buscaba fortalecer las relaciones entre la República Dominicana y la Santa Sede.
-
-El papa León XIV anunció que le fue detectado un nódulo de 3 milímetros en sus pulmones y se someterá a una operación para su extracción.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791809257/noticias/articles/20261012_124737_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 12 Oct 2026 12:48:03 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261012124803</guid>
   </item>
 </channel>
 </rss>
