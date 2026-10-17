@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 17 Oct 2026 01:15:13 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 13:55:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Trump suspende temporalmente sanciones del Congreso contra Rusia por "interés nacional"]]></title>
+    <link>https://www.diariolibre.com/mundo/estados-unidos/2026/10/16/trump-firma-orden-ejecutiva-sobre-sanciones-contra-rusia/3691699</link>
+    <description><![CDATA[Donald Trump ha firmado una orden ejecutiva que suspende temporalmente las sanciones del Congreso contra Rusia, justificando la medida como de "interés nacional". Esta decisión afecta a una ley que busca endurecer las sanciones contra la economía rusa.
+
+Además, Trump acordó con Vladímir Putin el suministro de diésel ruso para los mercados internacionales, con el objetivo de aliviar los precios de la energía. Este acuerdo ha suscitado críticas de legisladores que cuestionan su impacto en la presión económica contra Moscú.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792245258/noticias/articles/20261017_135418_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 17 Oct 2026 13:55:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261017135505</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Yamil Abreu, exdirigente del PRM, queda en libertad en EE. UU. tras casi seis años detenido por narcotráfico]]></title>
     <link>https://ntelemicro.com/yamil-abreu-exdirigente-del-prm-queda-en-libertad-en-ee-uu-tras-casi-seis-anos-detenido-por-narcotrafico/</link>
     <description><![CDATA[Yamil Abreu Navarro, exdirigente del PRM y exdirector de la Junta Municipal de Las Lagunas, ha sido liberado en Estados Unidos tras casi seis años detenido por narcotráfico. Fue extraditado en octubre de 2020 para enfrentar cargos relacionados con una presunta red internacional de tráfico de drogas.
@@ -1377,17 +1388,6 @@ Las autoridades sanitarias hacen un llamado a mantener las medidas de prevenció
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791897295/noticias/articles/20261013_131454_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 13 Oct 2026 13:15:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261013131539</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Autoridades apresan 23 haitianos en operativo en 15 viviendas en la Sierra de Bahoruco]]></title>
-    <link>https://7dias.com.do/2026/10/13/autoridades-apresan-23-haitianos-en-operativo-en-15-viviendas-en-la-sierra-de-bahoruco/</link>
-    <description><![CDATA[En la Sierra de Bahoruco, 23 haitianos fueron detenidos durante un operativo que desmanteló 15 viviendas. Las autoridades los acusaron de ocupación no autorizada de terrenos.
-
-El operativo, realizado por el Servicio Nacional de Protección Ambiental y el Ministerio de Medio Ambiente, busca controlar la tala de árboles, quemas y producción de carbón en áreas protegidas. Se incautaron seis armas blancas y una motocicleta. Los detenidos fueron entregados a la Dirección General de Migración.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791897232/noticias/articles/20261013_131351_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 13 Oct 2026 13:14:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261013131434</guid>
   </item>
 </channel>
 </rss>
