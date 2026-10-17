@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 17 Oct 2026 13:58:33 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 14:01:22 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Indomet prevé escasas lluvias y temperaturas calurosas en gran parte del país]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/10/17/indomet-preve-escasas-lluvias-y-calor-en-gran-parte-del-pais-2146300/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informa que se esperan escasas lluvias y temperaturas calurosas en gran parte del país debido a una masa de aire con menor humedad. Sin embargo, chubascos aislados podrían ocurrir en algunas provincias durante la tarde.
+
+Las temperaturas máximas estarán entre 31 °C y 35 °C. Indomet recomienda hidratarse, usar ropa ligera y evitar el sol directo entre las 11:00 a.m. y las 4:00 p.m. Se debe prestar especial atención a niños, adultos mayores y mujeres embarazadas.
+
+Para más información, la población puede consultar el portal web y las redes sociales de Indomet.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792245653/noticias/articles/20261017_140052_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 17 Oct 2026 14:01:22 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261017140122</guid>
+  </item>
+
+  <item>
     <title><![CDATA[CONANI: Adolescente que raptó a niño en Los Tres Brazos padece condición de salud mental]]></title>
     <link>https://elnacional.com.do/nacionales/conani-adolescente-rapto-nino-tres-brazos-padece-condicion-salud-mental_583679.html</link>
     <description><![CDATA[El Consejo Nacional para la Niñez y la Adolescencia (CONANI) ha revelado que la adolescente de 13 años que raptó a un niño en Los Tres Brazos padece de una condición de salud mental. La joven se llevó al pequeño Sammy Ciprián Gabriel sin consentimiento, pero fue recuperado al día siguiente.
@@ -1369,23 +1382,6 @@ La defensa de Pumarol ha solicitado un procedimiento especial para inimputables,
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791917968/noticias/articles/20261013_185927_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 13 Oct 2026 19:00:13 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261013190013</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Nominan a asesor político de Abinader a premio internacional por manejo de crisis gubernamental en RD]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261013165723</link>
-    <description><![CDATA[El consultor político Mauricio de Vengoechea figura entre los nominados a los Reed Latino Awards 2026 en la categoría «Mejor Manejo de Crisis Gubernamental (Grandes Audiencias)», por el proyecto «Plan Anticrisis RD».
-
-La nominación aparece en el listado oficial de la XV edición de estos premios internacionales, que reconocen trabajos de consultoría y comunicación política en América Latina. La candidatura está registrada a nombre de De Vengoechea y compite con otras seis propuestas de manejo de crisis gubernamentales. 
-
-Según las bases del certamen, esta categoría evalúa las acciones desarrolladas por consultores para enfrentar situaciones que puedan afectar la imagen y estabilidad de un gobierno. Por tanto, la nominación reconoce una propuesta de comunicación y gestión de crisis, sin constituir una evaluación integral del desempeño gubernamental. 
-
-De Vengoechea también figura entre los nueve nominados a «Estratega Gubernamental del Año (Grandes Audiencias)». Su firma, De Vengoechea & Partners, obtuvo en 2024 un Reed Latino por la campaña de reelección presidencial de Luis Abinader. 
-
-La ceremonia de los Reed Latino Awards 2026 está programada para los días 6 y 7 de noviembre en Panamá, cuando se conocerán los ganadores de las distintas categorías.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791910590/noticias/articles/20261013_165630_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 13 Oct 2026 16:57:23 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261013165723</guid>
   </item>
 </channel>
 </rss>
