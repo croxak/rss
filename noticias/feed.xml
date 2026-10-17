@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 17 Oct 2026 13:55:05 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 13:56:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Puerto Rico solicita formalmente convertirse en estado de EE. UU.]]></title>
+    <link>https://www.diariolibre.com/mundo/caribe/2026/10/16/puerto-rico-pide-su-admision-como-estado-de-estados-unidos/3691643</link>
+    <description><![CDATA[La gobernadora de Puerto Rico, Jenniffer González, firmó una resolución solicitando al presidente Donald Trump y al Congreso de EE. UU. la admisión de la isla como estado. Esta acción busca honrar la voluntad expresada en referendos no vinculantes.
+
+El Partido Nuevo Progresista, liderado por González, defiende la estadidad, mientras que otros partidos abogan por mantener el estatus actual o por la independencia. González destacó que esta petición oficial es un mecanismo distinto a esfuerzos anteriores y subrayó la contribución de los puertorriqueños al desarrollo de EE. UU.
+
+El Congreso debe decidir sobre esta solicitud.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792245354/noticias/articles/20261017_135553_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 17 Oct 2026 13:56:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261017135619</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Trump suspende temporalmente sanciones del Congreso contra Rusia por "interés nacional"]]></title>
     <link>https://www.diariolibre.com/mundo/estados-unidos/2026/10/16/trump-firma-orden-ejecutiva-sobre-sanciones-contra-rusia/3691699</link>
     <description><![CDATA[Donald Trump ha firmado una orden ejecutiva que suspende temporalmente las sanciones del Congreso contra Rusia, justificando la medida como de "interés nacional". Esta decisión afecta a una ley que busca endurecer las sanciones contra la economía rusa.
@@ -1375,19 +1388,6 @@ Fuente: El Nacional - Ronny Mateo]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791901498/noticias/articles/20261013_142457_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 13 Oct 2026 14:25:59 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261013142559</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[República Dominicana registra 371 casos de dengue hasta septiembre; La Altagracia concentra el mayor aumento de contagios]]></title>
-    <link>https://7dias.com.do/2026/10/12/republica-dominicana-registra-371-casos-de-dengue-hasta-septiembre-la-altagracia-concentra-el-mayor-aumento-de-contagios/</link>
-    <description><![CDATA[La República Dominicana acumula 371 casos confirmados de dengue hasta finales de septiembre, un incremento de 137 casos respecto al mismo período del año 2025.
-
-Durante la última semana notificada, se reportaron nueve casos confirmados: ocho del serotipo DENV-2 y uno sin tipificar. La provincia de La Altagracia concentró siete de estos casos, mientras que Duarte y Hato Mayor registraron un caso cada una.
-
-Las autoridades sanitarias hacen un llamado a mantener las medidas de prevención para evitar la proliferación del mosquito transmisor.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791897295/noticias/articles/20261013_131454_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 13 Oct 2026 13:15:39 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261013131539</guid>
   </item>
 </channel>
 </rss>
