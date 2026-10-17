@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 17 Oct 2026 13:56:19 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 13:58:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[CONANI: Adolescente que raptó a niño en Los Tres Brazos padece condición de salud mental]]></title>
+    <link>https://elnacional.com.do/nacionales/conani-adolescente-rapto-nino-tres-brazos-padece-condicion-salud-mental_583679.html</link>
+    <description><![CDATA[El Consejo Nacional para la Niñez y la Adolescencia (CONANI) ha revelado que la adolescente de 13 años que raptó a un niño en Los Tres Brazos padece de una condición de salud mental. La joven se llevó al pequeño Sammy Ciprián Gabriel sin consentimiento, pero fue recuperado al día siguiente.
+
+La adolescente había salido sin autorización de un centro de CONANI, donde estaba ingresada por una vulneración de sus derechos en el entorno familiar. Fue localizada junto al niño en el barrio Capotillo, Santo Domingo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792245483/noticias/articles/20261017_135802_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 17 Oct 2026 13:58:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261017135833</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Puerto Rico solicita formalmente convertirse en estado de EE. UU.]]></title>
     <link>https://www.diariolibre.com/mundo/caribe/2026/10/16/puerto-rico-pide-su-admision-como-estado-de-estados-unidos/3691643</link>
     <description><![CDATA[La gobernadora de Puerto Rico, Jenniffer González, firmó una resolución solicitando al presidente Donald Trump y al Congreso de EE. UU. la admisión de la isla como estado. Esta acción busca honrar la voluntad expresada en referendos no vinculantes.
@@ -1375,19 +1386,6 @@ La ceremonia de los Reed Latino Awards 2026 está programada para los días 6 y 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791910590/noticias/articles/20261013_165630_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 13 Oct 2026 16:57:23 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261013165723</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[“Prefiero un delincuente muerto a un policía herido", Sigfrido Pared Pérez, exministro de Defensa]]></title>
-    <link>https://elnacional.com.do/nacionales/policiales/prefiero-delincuente-muerto-policia-herido-sigfrido-pared-perez-exministro-defensa_583291.html</link>
-    <description><![CDATA[Sigfrido Pared Pérez, exministro de Defensa, afirmó que prefiere un delincuente muerto a un policía herido, ya que un ataque a un agente es una afrenta contra el Estado dominicano.
-
-Sobre Haití, Pared Pérez calificó como un disparate la propuesta de intervención militar por parte de República Dominicana. Sugirió que la ONU debería asumir el control para ayudar a Haití a salir adelante, destacando los desafíos que enfrenta el país vecino.
-
-Fuente: El Nacional - Ronny Mateo]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791901498/noticias/articles/20261013_142457_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 13 Oct 2026 14:25:59 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261013142559</guid>
   </item>
 </channel>
 </rss>
