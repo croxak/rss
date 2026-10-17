@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 17 Oct 2026 14:01:22 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 14:03:54 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Se entrega joven que se había fugado de prisión en Jarabacoa]]></title>
+    <link>https://elnuevodiario.com.do/se-entrega-joven-que-se-habia-fugado-de-prision-en-jarabacoa/</link>
+    <description><![CDATA[Ángel Núñez Cepeda, un joven que se había fugado de un centro penitenciario en Jarabacoa, se entregó al periodista Juan Pablo Cabrera. Núñez Cepeda cumplía condena por un caso relacionado con drogas.
+
+El joven explicó que su fuga fue motivada por la desesperación tras enterarse de que su esposa había sufrido un aborto. Tras su entrega, fue presentado ante las autoridades del Dicrim para los fines legales correspondientes.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792245789/noticias/articles/20261017_140309_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 17 Oct 2026 14:03:54 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261017140354</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Indomet prevé escasas lluvias y temperaturas calurosas en gran parte del país]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/10/17/indomet-preve-escasas-lluvias-y-calor-en-gran-parte-del-pais-2146300/</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informa que se esperan escasas lluvias y temperaturas calurosas en gran parte del país debido a una masa de aire con menor humedad. Sin embargo, chubascos aislados podrían ocurrir en algunas provincias durante la tarde.
@@ -1369,19 +1380,6 @@ El Vaticano informó que la operación concluyó positivamente y el Santo Padre 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791918100/noticias/articles/20261013_190140_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 13 Oct 2026 19:02:15 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261013190215</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Tribunal dicta orden de conducencia contra testigos ausentes en juicio contra Jean Andrés Pumarol]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/10/13/tribunal-ordena-conducencia-de-testigos-en-juicio-a-pumarol-2142412/</link>
-    <description><![CDATA[El Primer Tribunal Colegiado del Distrito Nacional ha ordenado la conducencia de testigos ausentes en el juicio contra Jean Andrés Pumarol, acusado de homicidio y lesiones en Santo Domingo. Las juezas también intimaron a los abogados que no asistieron a la audiencia de fondo.
-
-El juicio estaba previsto para iniciar tras la revocación del auto de no ha lugar que favorecía a Pumarol. Sin embargo, la audiencia fue pospuesta debido a la incomparecencia de dos abogados del imputado.
-
-La defensa de Pumarol ha solicitado un procedimiento especial para inimputables, basado en un informe psiquiátrico del INACIF. La próxima audiencia está fijada para el 4 de noviembre.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791917968/noticias/articles/20261013_185927_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 13 Oct 2026 19:00:13 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261013190013</guid>
   </item>
 </channel>
 </rss>
