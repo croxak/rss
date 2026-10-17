@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 17 Oct 2026 14:03:54 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 17 Oct 2026 14:07:54 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[León XIV recibe el alta hospitalaria y regresará al Vaticano esta tarde]]></title>
+    <link>https://eldia.com.do/leon-xiv-recibe-el-alta-hospitalaria-y-regresara-al-vaticano-esta-tarde/</link>
+    <description><![CDATA[El papa León XIV ha recibido el alta hospitalaria tras ser operado de un adenocarcinoma pulmonar en el Hospital Gemelli de Roma. Regresará al Vaticano esta tarde y mañana rezará el ángelus desde la ventana de los aposentos papales.
+
+La operación, realizada el 13 de octubre, consistió en la extirpación del lóbulo inferior del pulmón derecho mediante cirugía videoasistida. Durante su hospitalización, el papa ha retomado parte de su actividad laboral y ha celebrado misas.
+
+Ayer, León XIV conversó con Vladímir Putin sobre la crisis humanitaria en Oleshki, Jersón, pidiendo una tregua y ayuda humanitaria para la región.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792246035/noticias/articles/20261017_140715_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 17 Oct 2026 14:07:54 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261017140754</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Se entrega joven que se había fugado de prisión en Jarabacoa]]></title>
     <link>https://elnuevodiario.com.do/se-entrega-joven-que-se-habia-fugado-de-prision-en-jarabacoa/</link>
     <description><![CDATA[Ángel Núñez Cepeda, un joven que se había fugado de un centro penitenciario en Jarabacoa, se entregó al periodista Juan Pablo Cabrera. Núñez Cepeda cumplía condena por un caso relacionado con drogas.
@@ -1369,17 +1382,6 @@ Finalmente, agradeció las muestras de solidaridad recibidas de sus compañeros 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791918474/noticias/articles/20261013_190754_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 13 Oct 2026 19:09:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261013190917</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El papa León XIV ha sido operado con éxito de la extirpación del nódulo pulmonar]]></title>
-    <link>https://eldia.com.do/el-papa-leon-xiv-ha-sido-operado-con-exito-de-la-extirpacion-del-nodulo-pulmonar/</link>
-    <description><![CDATA[El papa León XIV ha sido operado con éxito para extirparle un nódulo en el pulmón. La intervención se llevó a cabo en el Hospital Gemelli de Roma y fue realizada por un equipo médico liderado por el cirujano torácico Stefano Margaritora.
-
-El Vaticano informó que la operación concluyó positivamente y el Santo Padre ya ha regresado a su habitación tras la intervención.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791918100/noticias/articles/20261013_190140_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 13 Oct 2026 19:02:15 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261013190215</guid>
   </item>
 </channel>
 </rss>
