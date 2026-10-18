@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 17 Oct 2026 16:57:33 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 00:21:36 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Martelly se inscribe para volver a la Presidencia de Haití pese a sanciones internacionales]]></title>
+    <link>https://www.diariolibre.com/mundo/haiti/2026/10/17/michel-martelly-busca-la-presidencia-en-haiti-pese-a-sanciones-interna/3692197</link>
+    <description><![CDATA[Michel Martelly, expresidente de Haití, se ha inscrito preliminarmente para las próximas elecciones presidenciales, a pesar de enfrentar sanciones de Estados Unidos, Canadá y la Unión Europea. Su candidatura figura entre las 16 publicadas por el Consejo Electoral Provisional.
+
+Las autoridades de transición han modificado el decreto electoral, eliminando un requisito del banco central haitiano, lo que ha generado inquietudes sobre la participación de personas sancionadas. Las elecciones generales, previstas para el 13 de diciembre, podrían ser aplazadas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792282860/noticias/articles/20261018_002100_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 18 Oct 2026 00:21:36 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261018002136</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Detienen español con 20 paquetes de alegada cocaína ocultos en aeropuerto Punta Cana]]></title>
     <link>https://hoy.com.do/el-pais/detienen-espanol-20-paquetes-alegada-cocaina-ocultos-aeropuerto-punta-cana_1105915_amp.html</link>
     <description><![CDATA[Un ciudadano español fue arrestado en el Aeropuerto Internacional de Punta Cana con 20 paquetes de alegada cocaína en su equipaje. La intervención fue realizada por la DNCD, el Ministerio Público y el CESAC.
@@ -1359,25 +1370,6 @@ El secretario de Estado, Marco Rubio, ha ordenado el regreso de Baumann a Washin
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791920844/noticias/articles/20261013_194723_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 13 Oct 2026 19:48:25 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261013194825</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Alfredo Pacheco deplora abandono de sesión por caso Millys Martínez y convoca a diputados para este miércoles]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261013193039</link>
-    <description><![CDATA[El presidente de la Cámara de Diputados, Alfredo Pacheco, deploró este martes que legisladores abandonaran la sesión ordinaria en solidaridad con la diputada Millys Martínez, quien denunció haber sido víctima de un atropello por parte de agentes de la Policía Nacional en Elías Piña.
-
-Mediante un video, Pacheco cuestionó la decisión de los congresistas, al considerar que una actuación incorrecta de las autoridades no justifica la paralización de los trabajos legislativos. «Ante una situación mal hecha, no se puede responder con otra mal hecha», expresó.
-
-El legislador manifestó que, aunque comprende las razones que motivaron la protesta, no comparte que los diputados abandonen el hemiciclo, ya que entiende que las responsabilidades legislativas deben prevalecer ante este tipo de circunstancias.
-
-Pacheco recordó que durante su trayectoria como vocero de bancadas también le correspondió participar en decisiones de retiro de sesiones, pero sostuvo que su posición actual es favorable a mantener la continuidad de los trabajos.
-
-La suspensión se produjo luego de que Martínez solicitara una investigación sobre el incidente ocurrido en Comendador, donde agentes policiales le colocaron esposas durante una intervención. Tras su intervención ante el pleno, varios legisladores se retiraron en solidaridad, provocando la falta de quórum.
-
-Ante esta situación, Pacheco anunció una nueva convocatoria de la Cámara de Diputados para este miércoles 14 de octubre, a las 10:00 de la mañana, con el propósito de retomar los trabajos legislativos pendientes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791919791/noticias/articles/20261013_192950_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 13 Oct 2026 19:30:39 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261013193039</guid>
   </item>
 </channel>
 </rss>
