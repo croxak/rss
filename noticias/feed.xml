@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 18 Oct 2026 03:27:03 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 16:38:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Ministro de Deportes reitera prohibición de juego a equipo de fútbol haitiano en República Dominicana]]></title>
+    <link>https://listindiario.com/el-deporte/futbol/20261018/ministro-deportes-reitera-prohibicion-juego-equipo-futbol-haitiano-republica-dominicana_926587.html</link>
+    <description><![CDATA[El ministro de Deportes, Kelvin Cruz, reafirmó la prohibición de que equipos de fútbol haitianos jueguen en la República Dominicana. Esta decisión se tomó tras incidentes en el Estadio Olímpico Félix Sánchez y fue respaldada por el presidente Luis Abinader.
+
+El partido entre Violette AC de Haití y Portmore United de Jamaica, programado en el estadio Cibao Fútbol Club, ha sido motivo de esta reiteración. Las autoridades dominicanas enviarán una comunicación oficial a la FIFA y la Concacaf para evitar futuros inconvenientes.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792341484/noticias/articles/20261018_163804_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 18 Oct 2026 16:38:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261018163835</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Edesur cobrará cargo por uso de red a clientes con paneles solares a partir de noviembre]]></title>
     <link>https://listindiario.com/economia/energia/20261017/edesur-cobrara-cargo-red-clientes-paneles-solares-partir-noviembre_926483.html</link>
     <description><![CDATA[Edesur Dominicana anunció que a partir del 1 de noviembre de 2026 implementará un nuevo esquema de facturación para clientes con generación distribuida (paneles solares).
@@ -1363,21 +1374,6 @@ Mensajes de texto sugieren que Guilfoyle solicitó dinero a Eric Deters, quien n
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791940418/noticias/articles/20261014_011338_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 14 Oct 2026 01:14:16 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261014011416</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Inflación interanual se sitúa en 5.12 % en septiembre, informa el BCRD]]></title>
-    <link>https://noticiassin.com/economia/2026/10/13/inflacion-interanual-se-situa-en-5-12-en-septiembre-informa-el-bcrd-2142894/</link>
-    <description><![CDATA[La inflación interanual en República Dominicana se situó en 5.12 % en septiembre de 2026, según el Banco Central. El índice de precios al consumidor mostró una variación mensual de 0.33 %, con aumentos en transporte, alimentos y educación como principales factores.
-
-El grupo Transporte presentó una variación de 0.64 %, impulsada por los reajustes en los precios de las gasolinas y el gasoil. En tanto, el grupo Alimentos y Bebidas No Alcohólicas registró una variación de 0.43 %, con aumentos en productos como plátanos verdes y arroz.
-
-El grupo Educación experimentó una variación de 1.85 %, debido al aumento de tarifas en colegios privados y servicios universitarios. En contraste, el grupo Comunicaciones registró una variación negativa de 1.06 %, debido a mejoras en los planes de telefonía celular pospago.
-
-La región Sur presentó la mayor variación mensual de precios, con un 0.41 %. Los bienes transables registraron una variación de 0.44 %, mientras que los bienes y servicios no transables presentaron un incremento de 0.22 %.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791939894/noticias/articles/20261014_010453_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 14 Oct 2026 01:05:25 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261014010525</guid>
   </item>
 </channel>
 </rss>
