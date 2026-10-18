@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 18 Oct 2026 00:28:25 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 00:31:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Detienen a 287 personas en allanamientos y operativos contra el microtráfico y otros delitos]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/10/17/en-una-semana-se-realizan-287-detenciones-en-operativos-policiales/3692236</link>
+    <description><![CDATA[Un total de 287 personas han sido detenidas en 115 allanamientos y 441 operativos realizados en distintas provincias del país entre el 10 y el 16 de octubre. Las acciones, dirigidas a enfrentar el microtráfico y otras actividades ilícitas, fueron coordinadas por la Dirección Central de Inteligencia de la Policía Nacional y el Ministerio Público.
+
+Durante las intervenciones, se requisaron 128 puntos de venta de sustancias narcóticas y se incautaron 2,970 porciones de drogas. También se ocuparon armas de fuego, armas blancas, cigarrillos, bebidas alcohólicas adulteradas, máquinas tragamonedas, estimulantes sexuales, equipos electrónicos, vehículos y dinero en efectivo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792283441/noticias/articles/20261018_003041_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 18 Oct 2026 00:31:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261018003109</guid>
+  </item>
+
+  <item>
     <title><![CDATA[LIDOM inaugura su temporada 73 con tres partidos y homenaje a Héctor José Rizek]]></title>
     <link>https://eldia.com.do/lidom-inaugura-su-temporada-73-con-tres-partidos-y-homenaje-a-hector-jose-rizek/</link>
     <description><![CDATA[La Liga de Béisbol Profesional de la República Dominicana (LIDOM) dio inicio a su temporada 73 con una ceremonia en San Francisco de Macorís. El campeonato está dedicado a Héctor José Rizek Llabaly.
@@ -1355,23 +1366,6 @@ La empresa aseguró que no hay indicios de acceso indebido a información confid
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791923652/noticias/articles/20261013_203411_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 13 Oct 2026 20:34:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261013203434</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Reportan cierre de oficina de atención y reservas de American Airlines en Santo Domingo y despido de empleados]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261013200832</link>
-    <description><![CDATA[American Airlines habría dispuesto el cierre de su oficina de atención y reservas en Santo Domingo y la desvinculación del personal asignado a esa dependencia, según información recibida por El Testigo este martes 13 de octubre.
-
-De acuerdo con la fuente, la medida responde a una decisión operativa adoptada desde Dallas, Texas, donde se encuentra la sede corporativa de la aerolínea estadounidense.
-
-La información señala que, pese al cierre de la dependencia de reservaciones, el centro de venta de boletos ubicado en el primer nivel continuará ofreciendo servicios al público.
-
-American Airlines mantiene registrada en su página oficial una oficina comercial en el edificio In Tempo, situado en la avenida Winston Churchill esquina Max Henríquez Ureña, en el Distrito Nacional.
-
-Por el momento, se desconoce la cantidad de trabajadores afectados por la decisión, así como si sus funciones serán trasladadas a otras dependencias de la compañía.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791921940/noticias/articles/20261013_200540_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 13 Oct 2026 20:08:32 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261013200832</guid>
   </item>
 </channel>
 </rss>
