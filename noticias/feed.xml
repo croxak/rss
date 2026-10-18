@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 18 Oct 2026 00:21:36 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 00:28:25 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[LIDOM inaugura su temporada 73 con tres partidos y homenaje a Héctor José Rizek]]></title>
+    <link>https://eldia.com.do/lidom-inaugura-su-temporada-73-con-tres-partidos-y-homenaje-a-hector-jose-rizek/</link>
+    <description><![CDATA[La Liga de Béisbol Profesional de la República Dominicana (LIDOM) dio inicio a su temporada 73 con una ceremonia en San Francisco de Macorís. El campeonato está dedicado a Héctor José Rizek Llabaly.
+
+Los Leones del Escogido, actuales bicampeones, comenzaron su defensa del título enfrentando a los Tigres del Licey. Las Estrellas Orientales jugaron contra los Toros del Este en La Romana.
+
+La serie regular contará con 150 partidos y finalizará el 22 de diciembre. Los cuatro mejores equipos avanzarán a la semifinal. El campeón de la Copa Banreservas representará al país en la Serie del Caribe de 2027.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792283095/noticias/articles/20261018_002455_article.webp" type="image/webp"/>
+    <pubDate>Sun, 18 Oct 2026 00:28:25 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261018002825</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Martelly se inscribe para volver a la Presidencia de Haití pese a sanciones internacionales]]></title>
     <link>https://www.diariolibre.com/mundo/haiti/2026/10/17/michel-martelly-busca-la-presidencia-en-haiti-pese-a-sanciones-interna/3692197</link>
     <description><![CDATA[Michel Martelly, expresidente de Haití, se ha inscrito preliminarmente para las próximas elecciones presidenciales, a pesar de enfrentar sanciones de Estados Unidos, Canadá y la Unión Europea. Su candidatura figura entre las 16 publicadas por el Consejo Electoral Provisional.
@@ -1359,17 +1372,6 @@ Por el momento, se desconoce la cantidad de trabajadores afectados por la decisi
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791921940/noticias/articles/20261013_200540_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 13 Oct 2026 20:08:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261013200832</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[EE. UU. retira a su principal diplomático en Managua]]></title>
-    <link>https://crhoy.com/mundo/ee-uu-retira-a-su-principal-diplomatico-en-managua/</link>
-    <description><![CDATA[Estados Unidos ha retirado a su principal diplomático en Managua, Elias Baumann, tras el rechazo del gobierno nicaragüense a la embajadora designada Natasha Franceschi. El Departamento de Estado criticó la decisión de Nicaragua, calificándola de hipocresía y falta de voluntad para el diálogo diplomático.
-
-El secretario de Estado, Marco Rubio, ha ordenado el regreso de Baumann a Washington para consultas cruciales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791920844/noticias/articles/20261013_194723_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 13 Oct 2026 19:48:25 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261013194825</guid>
   </item>
 </channel>
 </rss>
