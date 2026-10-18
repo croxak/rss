@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 18 Oct 2026 17:13:31 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 17:14:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Productores de arroz bloquean la autopista del Nordeste en rechazo a las importaciones]]></title>
+    <link>https://ntelemicro.com/productores-de-arroz-bloquean-la-autopista-del-nordeste-en-rechazo-a-las-importaciones/</link>
+    <description><![CDATA[Productores de arroz bloquearon la autopista del Nordeste Juan Pablo II para protestar contra las importaciones de arroz, lo que causó largas filas de vehículos. Los agricultores sostienen que las importaciones amenazan la comercialización de la cosecha nacional.
+
+El Movimiento Popular Dominicano (MPD) expresó su respaldo a los arroceros y criticó la política comercial del Gobierno, especialmente la derogación del Decreto 693-24, que protegía la producción arrocera nacional.
+
+El MPD llamó a sus militantes y a diversas organizaciones a apoyar las demandas del sector arrocero, buscando medidas que protejan la producción nacional.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792343641/noticias/articles/20261018_171400_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 18 Oct 2026 17:14:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261018171431</guid>
+  </item>
+
+  <item>
     <title><![CDATA[París vive nuevo episodio de violencia y saqueos en torno a la plaza de la República]]></title>
     <link>https://noticiassin.com/mundo/2026/10/18/paris-vive-nuevo-episodio-de-violencia-y-saqueos-en-torno-a-la-plaza-de-la-republica-2146918/</link>
     <description><![CDATA[París vive nuevos episodios de violencia y saqueos en la plaza de la República. Manifestantes y fuerzas de seguridad se enfrentaron, resultando en el saqueo de una tienda de ropa en la calle Beaurepaire.
@@ -1361,17 +1374,6 @@ HSI recordó que un matrimonio utilizado únicamente para obtener un beneficio m
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791986229/noticias/articles/20261014_135708_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 14 Oct 2026 13:58:24 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261014135824</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El arzobispo militar de EE.UU. instó a los soldados católicos a no participar de un fusilamiento que Trump quiere transmitir en vivo]]></title>
-    <link>https://www.lanacion.com.ar/el-mundo/el-arzobispo-militar-de-eeuu-insto-a-los-soldados-catolicos-a-no-participar-de-un-fusilamiento-que-nid13102026/</link>
-    <description><![CDATA[El arzobispo militar de EE.UU., Timothy Broglio, ha pedido a los soldados católicos que no participen en la ejecución de Nidal Malik Hasan, programada para diciembre. Broglio cuestiona la decisión de transmitir la ejecución en vivo y reafirma la oposición de la Iglesia católica a la pena de muerte.
-
-La Conferencia Episcopal Católica de Texas y el obispo de Austin, Daniel Garcia, apoyan la postura de Broglio. Hasan, condenado por la masacre de Fort Hood en 2009, será ejecutado el 3 de diciembre en la misma base donde ocurrieron los hechos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791985096/noticias/articles/20261014_133816_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 14 Oct 2026 13:38:43 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261014133843</guid>
   </item>
 </channel>
 </rss>
