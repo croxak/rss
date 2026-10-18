@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 18 Oct 2026 02:17:50 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 02:54:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Asesinan en Guatemala a exfiscal que denunció nexos de políticos con pandillas]]></title>
+    <link>https://www.rfi.fr/es/más-noticias/20261018-asesinan-en-guatemala-a-exfiscal-que-denunció-nexos-de-políticos-con-pandillas</link>
+    <description><![CDATA[El exfiscal guatemalteco Juan Francisco Solórzano Foppa fue asesinado en la capital de Guatemala. Foppa, de 43 años, era conocido por denunciar vínculos entre pandillas y políticos. Fue atacado por al menos cuatro personas en una cancha de fútbol.
+
+El presidente de Guatemala, Bernardo Arévalo, y organismos internacionales condenaron el asesinato y exigieron una investigación exhaustiva. En el ataque también murió otro hombre como "víctima colateral".]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792292030/noticias/articles/20261018_025349_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 18 Oct 2026 02:54:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261018025441</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Leonardo Jáquez confirma que le retiraron la visa estadounidense]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261018021750</link>
     <description><![CDATA[El comunicador y abogado dominicano Leonardo Jáquez afirmó que le fue retirada su visa de Estados Unidos, luego de que circularan en redes sociales publicaciones que daban cuenta de la presunta cancelación del documento migratorio.
@@ -1371,17 +1382,6 @@ La gestión de Rubio se produce en un contexto de estrecha relación entre Bukel
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791939778/noticias/articles/20261014_010257_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 14 Oct 2026 01:04:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261014010417</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El Vaticano confirma que el Papa Leon XIV fue diagnosticado con cáncer de pulmón]]></title>
-    <link>https://www.nmas.com.mx/internacional/papa-leon-xiv-tiene-cancer-de-pulmon-el-vaticano-reporta-tumor-maligno/</link>
-    <description><![CDATA[El Papa León XIV fue diagnosticado con adenocarcinoma pulmonar, confirmado durante una cirugía en el Hospital Gemelli. Se le extirpó el lóbulo inferior del pulmón derecho en una operación exitosa de 90 minutos.
-
-El Papa despertó sin problemas y regresó a su habitación en el hospital. El Vaticano canceló sus audiencias hasta el 20 de octubre. León XIV planea viajar a Uruguay, Argentina y Perú en noviembre.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791927109/noticias/articles/20261013_213149_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 13 Oct 2026 21:33:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261013213305</guid>
   </item>
 </channel>
 </rss>
