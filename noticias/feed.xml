@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 18 Oct 2026 00:38:34 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 01:02:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Dos personas mueren en accidente entre carro y motocicleta en Higüey]]></title>
+    <link>https://elnuevodiario.com.do/dos-personas-mueren-en-accidente-entre-carro-y-motocicleta-en-higuey/</link>
+    <description><![CDATA[Dos personas murieron en un accidente de tránsito en la carretera La Matilla, en Higüey, provincia La Altagracia. El accidente fue una colisión entre un carro y una motocicleta.
+
+El Cuerpo de Bomberos de Higüey estuvo presente en el lugar para ofrecer asistencia. Aún no se han identificado a las víctimas ni se conocen las causas del accidente.
+
+Se reitera el llamado a los conductores a ser prudentes y respetar las señales de tránsito para evitar accidentes.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792285307/noticias/articles/20261018_010146_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 18 Oct 2026 01:02:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261018010215</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Contratos firmados con Rusia dificultan el retorno de dominicanos que combaten en la guerra ruso-ucraniana]]></title>
     <link>https://eldia.com.do/cancilleria-advierte-que-el-escancilleria-atribuye-dificultades-para-repatriar-a-dominicanos-en-conflicto-ruso-ucraniano-a-contratos-firmados-con-rusia/</link>
     <description><![CDATA[El ministro de Relaciones Exteriores, Víctor Bisonó, explicó que los contratos firmados por dominicanos con Rusia complican su retorno del conflicto ruso-ucraniano. Los expedientes de 20 dominicanos han sido presentados a las autoridades rusas.
@@ -1357,17 +1370,6 @@ El caso fue denunciado al FBI, que detuvo al sospechoso. OpenAI aseguró que no 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791924725/noticias/articles/20261013_205204_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 13 Oct 2026 20:52:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261013205232</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio Público ocupa con el Ceccom más de 86 mil productos de contrabando durante operativo en Higüey]]></title>
-    <link>https://n.com.do/2026/10/13/mp-ocupa-mas-de-86-mil-productos-de-contrabando-durante-operativo-en-higuey/</link>
-    <description><![CDATA[La Unidad de Investigación de Comercio Ilícito del Ministerio Público, en colaboración con el Cuerpo Especializado de Control de Combustibles y Mercancías, llevó a cabo un operativo en Higüey, incautando más de 86 mil productos de contrabando.
-
-Durante el operativo, se realizaron allanamientos en varios establecimientos comerciales, confiscando principalmente productos derivados del tabaco y alcohol. La operación fue liderada por la procuradora Bony Esther Suriel García y la fiscal Lauridelissa Jiménez, con el apoyo del Ejército y otros organismos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791923832/noticias/articles/20261013_203711_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 13 Oct 2026 20:38:23 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261013203823</guid>
   </item>
 </channel>
 </rss>
