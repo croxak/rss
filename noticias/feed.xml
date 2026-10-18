@@ -7,14 +7,37 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 18 Oct 2026 01:02:15 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 02:17:50 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Leonardo Jáquez confirma que le retiraron la visa estadounidense]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261018021750</link>
+    <description><![CDATA[El comunicador y abogado dominicano Leonardo Jáquez afirmó que le fue retirada su visa de Estados Unidos, luego de que circularan en redes sociales publicaciones que daban cuenta de la presunta cancelación del documento migratorio.
+
+La información comenzó a difundirse a través de la red social X, donde el usuario José R. Marizán compartió una publicación en la que aseguraba que las autoridades estadounidenses habían retirado el visado al comunicador.
+
+En respuesta, Jáquez escribió desde su cuenta oficial «Confirmado! El Jaque Mate se quedó sin visa 😅», en aparente referencia a su situación migratoria.
+
+La declaración se produce semanas después de un intercambio público entre Jáquez y la embajadora de Estados Unidos en República Dominicana, Leah Francis Campos.
+
+El pasado 30 de septiembre, Jáquez aseguró en X que sectores influyentes locales y altos mandos de la propia embajada estadounidense buscaban la salida de la diplomática, a quien señaló por supuestamente apartarse de los códigos diplomáticos tradicionales.
+
+Sin embargo, el 2 de octubre, Campos respondió directamente a la publicación del comunicador con la expresión «Fake news», desmintiendo públicamente sus afirmaciones.
+
+Hasta el momento, no se han dado a conocer las razones de la presunta revocación del visado de Jáquez, ni existe una confirmación oficial de las autoridades estadounidenses sobre la medida.
+
+La Embajada de Estados Unidos ha reiterado anteriormente que, conforme a su política, no ofrece comentarios sobre casos individuales relacionados con visas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792289830/noticias/articles/20261018_021710_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 18 Oct 2026 02:17:50 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261018021750</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Dos personas mueren en accidente entre carro y motocicleta en Higüey]]></title>
     <link>https://elnuevodiario.com.do/dos-personas-mueren-en-accidente-entre-carro-y-motocicleta-en-higuey/</link>
     <description><![CDATA[Dos personas murieron en un accidente de tránsito en la carretera La Matilla, en Higüey, provincia La Altagracia. El accidente fue una colisión entre un carro y una motocicleta.
@@ -1359,17 +1382,6 @@ El Papa despertó sin problemas y regresó a su habitación en el hospital. El V
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791927109/noticias/articles/20261013_213149_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 13 Oct 2026 21:33:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261013213305</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[OpenAI descubrió un dispositivo espía en sus oficinas, usó su IA para identificar al responsable y el FBI lo detuvo]]></title>
-    <link>https://www.lanacion.com.ar/economia/IA/openai-descubrio-un-dispositivo-espia-en-sus-oficinas-uso-su-ia-para-identificar-al-responsable-y-el-nid13102026/</link>
-    <description><![CDATA[OpenAI, creadora de ChatGPT, encontró un dispositivo de grabación oculto en sus oficinas. Utilizaron su inteligencia artificial para identificar al empleado responsable.
-
-El caso fue denunciado al FBI, que detuvo al sospechoso. OpenAI aseguró que no hay indicios de acceso indebido a información confidencial.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791924725/noticias/articles/20261013_205204_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 13 Oct 2026 20:52:32 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261013205232</guid>
   </item>
 </channel>
 </rss>
