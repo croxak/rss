@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 18 Oct 2026 00:31:09 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 00:38:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Contratos firmados con Rusia dificultan el retorno de dominicanos que combaten en la guerra ruso-ucraniana]]></title>
+    <link>https://eldia.com.do/cancilleria-advierte-que-el-escancilleria-atribuye-dificultades-para-repatriar-a-dominicanos-en-conflicto-ruso-ucraniano-a-contratos-firmados-con-rusia/</link>
+    <description><![CDATA[El ministro de Relaciones Exteriores, Víctor Bisonó, explicó que los contratos firmados por dominicanos con Rusia complican su retorno del conflicto ruso-ucraniano. Los expedientes de 20 dominicanos han sido presentados a las autoridades rusas.
+
+La embajada dominicana en Moscú ha enviado comunicaciones al Ministerio de Relaciones Exteriores ruso. Además, se advirtió sobre ofertas de trabajo engañosas en entornos digitales.
+
+El 6 de octubre, viceministros dominicanos se reunieron con el embajador ruso en República Dominicana para entregar documentación sobre los dominicanos identificados.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792283635/noticias/articles/20261018_003354_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 18 Oct 2026 00:38:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261018003834</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Detienen a 287 personas en allanamientos y operativos contra el microtráfico y otros delitos]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/10/17/en-una-semana-se-realizan-287-detenciones-en-operativos-policiales/3692236</link>
     <description><![CDATA[Un total de 287 personas han sido detenidas en 115 allanamientos y 441 operativos realizados en distintas provincias del país entre el 10 y el 16 de octubre. Las acciones, dirigidas a enfrentar el microtráfico y otras actividades ilícitas, fueron coordinadas por la Dirección Central de Inteligencia de la Policía Nacional y el Ministerio Público.
@@ -1355,17 +1368,6 @@ Durante el operativo, se realizaron allanamientos en varios establecimientos com
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791923832/noticias/articles/20261013_203711_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 13 Oct 2026 20:38:23 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261013203823</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[OpenAI descubrió un dispositivo espía en sus oficinas, usó su IA para identificar al responsable y el FBI lo detuvo]]></title>
-    <link>https://www.lanacion.com.ar/economia/IA/openai-descubrio-un-dispositivo-espia-en-sus-oficinas-uso-su-ia-para-identificar-al-responsable-y-el-nid13102026/</link>
-    <description><![CDATA[OpenAI, creadora de ChatGPT, encontró un dispositivo de grabación oculto en sus oficinas. Utilizando su inteligencia artificial, identificaron al empleado responsable y presentaron el caso al FBI, que procedió a su detención.
-
-La empresa aseguró que no hay indicios de acceso indebido a información confidencial y que la protección de su tecnología y datos es una prioridad. La investigación continúa abierta.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791923652/noticias/articles/20261013_203411_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 13 Oct 2026 20:34:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261013203434</guid>
   </item>
 </channel>
 </rss>
