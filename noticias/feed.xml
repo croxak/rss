@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 18 Oct 2026 17:14:31 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 17:15:51 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[El papa León XIV reaparece en el ángelus tras recibir el alta por una operación de pulmón]]></title>
+    <link>https://hoy.com.do/el-mundo/papa-leon-xiv-reaparece-angelus-recibir-alta-operacion-pulmon_1105942.html</link>
+    <description><![CDATA[El papa León XIV reapareció en el rezo del ángelus desde el Palacio Apostólico vaticano, tras recibir el alta por una operación de pulmón. La cirugía, realizada el 13 de octubre en el hospital Gemelli de Roma, consistió en la extirpación del lóbulo inferior del pulmón derecho debido a un adenocarcinoma.
+
+El cirujano Stefano Margaritora afirmó que el papa se encuentra en condiciones clínicas satisfactorias y puede realizar su visita apostólica a Uruguay, Argentina y Perú programada para noviembre.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792343722/noticias/articles/20261018_171522_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 18 Oct 2026 17:15:51 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261018171551</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Productores de arroz bloquean la autopista del Nordeste en rechazo a las importaciones]]></title>
     <link>https://ntelemicro.com/productores-de-arroz-bloquean-la-autopista-del-nordeste-en-rechazo-a-las-importaciones/</link>
     <description><![CDATA[Productores de arroz bloquearon la autopista del Nordeste Juan Pablo II para protestar contra las importaciones de arroz, lo que causó largas filas de vehículos. Los agricultores sostienen que las importaciones amenazan la comercialización de la cosecha nacional.
@@ -1359,21 +1370,6 @@ Fuente: Edward Fernández - Diario Libre]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791999753/noticias/articles/20261014_174232_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 14 Oct 2026 17:43:01 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261014174301</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[HSI arresta a dominicana y estadounidense por presunto fraude matrimonial]]></title>
-    <link>https://abc.pr/articulo/hsi-arresta-a-dominicana-y-estadounidense-por-presunto-fraude-matrimonial</link>
-    <description><![CDATA[Un supuesto matrimonio terminó en un proceso federal luego de que agentes de Investigaciones de Seguridad Nacional (HSI, por sus siglas en inglés) en San Juan arrestaran a dos personas acusadas de fraude matrimonial y conspiración.
-
-Los arrestados fueron identificados como Modestina Villanueva Javier, ciudadana dominicana, y Erick Martinez Aulet, ciudadano estadounidense. Según informó HSI San Juan, ambos fueron acusados formalmente por cargos relacionados con un presunto esquema de fraude matrimonial.
-
-Las autoridades alegan que el matrimonio habría sido utilizado para evadir las leyes de inmigración de Estados Unidos y obtener beneficios migratorios de manera fraudulenta.
-
-HSI recordó que un matrimonio utilizado únicamente para obtener un beneficio migratorio puede constituir un delito federal.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791986229/noticias/articles/20261014_135708_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 14 Oct 2026 13:58:24 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261014135824</guid>
   </item>
 </channel>
 </rss>
