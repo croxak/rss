@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 18 Oct 2026 16:47:23 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 18 Oct 2026 16:50:26 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Morel Diplán se convierte en el arzobispo número 51 de Santo Domingo y Primado de América]]></title>
+    <link>https://eldia.com.do/morel-diplan-se-convierte-en-el-arzobispo-numero-51-de-santo-domingo-y-primado-de-america/</link>
+    <description><![CDATA[Monseñor Carlos Tomás Morel Diplán ha sido nombrado como el nuevo arzobispo de Santo Domingo, sucediendo a monseñor Francisco Ozoria Acosta tras la aceptación de su renuncia por el papa León XIV. Morel Diplán ya había realizado la toma de posesión canónica como arzobispo coadjutor, por lo que asume automáticamente sus funciones.
+
+El papa León XIV también aceptó la dimisión de Ozoria Acosta como ordinario militar, designando a Morel Diplán para esta función. Se espera el anuncio de la ceremonia que marcará el inicio de su ministerio en el Ordinariato Castrense.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792342164/noticias/articles/20261018_164923_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 18 Oct 2026 16:50:26 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261018165026</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía ocupa 1,400 cigarrillos y 186 unidades de ron en San Juan]]></title>
     <link>https://acento.com.do/actualidad/policia-ocupa-1400-cigarrillos-y-186-unidades-de-ron-en-san-juan-9772625.html</link>
     <description><![CDATA[La Policía Nacional ocupó 1,400 cigarrillos y 186 unidades de ron en un operativo en Punta Caña, San Juan de la Maguana. Los productos eran presuntamente de contrabando.
@@ -1359,21 +1370,6 @@ La balacera ocurrió la madrugada del domingo 11 de octubre en el local situado 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791983895/noticias/articles/20261014_131815_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 14 Oct 2026 13:18:45 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261014131845</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Detienen en Barcelona a fugitivo reclamado por República Dominicana por presunto asesinato]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261014131340</link>
-    <description><![CDATA[La Policía Nacional española detuvo en Barcelona a un hombre reclamado por las autoridades judiciales de República Dominicana por su presunta participación en un ataque armado que dejó una persona muerta y otra gravemente herida.
-
-Según información policial recogida por EFE y Europa Press este miércoles 14 de octubre, el sospechoso habría descendido de un vehículo y disparado contra ambas víctimas en territorio dominicano.
-
-Sobre el detenido pesaba una Orden Internacional de Detención emitida por tribunales dominicanos. Las autoridades españolas sostienen que habría huido hacia España después del ataque y que fue localizado por agentes del grupo de fugitivos de Barcelona.
-
-Tras su captura, el hombre fue puesto a disposición judicial, pendiente del procedimiento de extradición a República Dominicana.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1791983582/noticias/articles/20261014_131302_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 14 Oct 2026 13:13:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261014131340</guid>
   </item>
 </channel>
 </rss>
