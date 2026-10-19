@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 19 Oct 2026 17:24:42 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 17:46:57 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[PN apresa primer teniente de las Fuerzas Armadas acusado de matar a su pareja durante una discusión en Azua]]></title>
+    <link>https://elnuevodiario.com.do/pn-apresa-a-hombre-acusado-de-matar-a-su-pareja-durante-una-discusion-en-azua/</link>
+    <description><![CDATA[La Policía Nacional ha arrestado a un hombre acusado de asesinar a su pareja en Los Jovillos, Azua. La víctima, Maira Alejandra Lara, de 36 años, falleció por una herida de bala.
+
+El detenido es Arcadio Montero de Oleo, primer teniente de las Fuerzas Armadas, de 44 años. Las autoridades investigan el caso y buscan el arma utilizada. Montero de Oleo será puesto a disposición del Ministerio Público.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792431904/noticias/articles/20261019_174504_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 19 Oct 2026 17:46:57 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261019174657</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Colectivo de Organizaciones ratifica llamado a paro para este lunes y martes en SFM]]></title>
     <link>https://noticiassin.com/pais/provincias/2026/10/19/colectivo-ratifica-huelga-en-sfm-para-lunes-y-martes-2147548/</link>
     <description><![CDATA[El Colectivo de Organizaciones Sociales y Populares ha ratificado el llamado a huelga en San Francisco de Macorís para el 19 y 20 de octubre, a pesar del despliegue militar y policial en la ciudad.
@@ -1334,17 +1345,6 @@ La petición de 58 páginas explica que el procedimiento anterior, iniciado en M
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792068884/noticias/articles/20261015_125444_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 15 Oct 2026 12:55:44 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261015125544</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ucrania reanudó sus bombardeos contra las refinerías rusas y lanzó una ofensiva a una región cercana a Moscú]]></title>
-    <link>https://www.infobae.com/america/mundo/2026/10/15/ucrania-reanudo-sus-bombardeos-contra-las-refinerias-rusas-y-lanzo-una-ofensiva-a-una-region-cercana-a-moscu/</link>
-    <description><![CDATA[El presidente de Ucrania, Volodimir Zelensky, anunció la reanudación de los ataques contra refinerías rusas tras una pausa de tres días. Este jueves, Ucrania atacó una refinería en Riazán, Rusia, provocando un incendio y daños materiales, según el gobernador regional Pável Malkov.
-
-La Armada de Ucrania afirmó haber alcanzado seis bombarderos rusos Su-34M en el aeródromo de Borisoglebsk. Zelensky criticó a Estados Unidos por retirar información de inteligencia clave y denunció una reducción de los servicios de Starlink en Ucrania.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792068498/noticias/articles/20261015_124817_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 15 Oct 2026 12:48:44 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261015124844</guid>
   </item>
 </channel>
 </rss>
