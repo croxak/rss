@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 19 Oct 2026 19:19:09 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 19:34:01 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Ylsa Quero Cabrera rompe el silencio: “Compartiré mi versión de los hechos”]]></title>
+    <link>https://elnacional.com.do/nacionales/ylsa-quero-cabrera-rompe-silencio-compartire-mi-version-hechos_583877.html</link>
+    <description><![CDATA[La psiquiatra Ylsa Emperatriz Quero Cabrera ha prometido compartir su versión de los hechos sobre el internamiento involuntario del ingeniero Juan Francisco López Chapor. Un tribunal le impuso medidas de coerción, rechazando la prisión preventiva solicitada por el Ministerio Público.
+
+En un comunicado en Instagram, Quero Cabrera expresó su intención de hablar cuando sea oportuno y reafirmó su compromiso con la ética y el respeto a las leyes en su práctica médica. El juez Leomar Cruz Quezada le impuso una garantía económica de RD$50,000, presentación periódica e impedimento de salida del país.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792438410/noticias/articles/20261019_193330_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 19 Oct 2026 19:34:01 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261019193401</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Asaltantes matan a sargento mayor de la Policía y le roban su arma de reglamento]]></title>
     <link>https://elnacional.com.do/nacionales/policiales/matan-balazos-sargento-pn-atraco-establecimiento-expendio-bebidas-alcoholicas_583867.html</link>
     <description><![CDATA[Un sargento mayor de la Policía, Pedro Luis Guerrero Ibis, fue asesinado anoche en un asalto en el sector Higüero, Santo Domingo Norte. El hecho ocurrió en un establecimiento de bebidas alcohólicas mientras el agente no estaba en servicio.
@@ -1328,19 +1339,6 @@ La orden de arresto, que también incluye a Piter de los Santos, fue emitida por
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792069951/noticias/articles/20261015_131230_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 15 Oct 2026 13:13:13 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261015131313</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Hombres armados atacan buque estadounidense en la Bahía de Puerto Príncipe, Haití]]></title>
-    <link>https://elnuevodiario.com.do/hombres-armados-atacan-buque-estadounidense-en-la-bahia-de-puerto-principe-haiti/</link>
-    <description><![CDATA[Un ataque armado ocurrió en la bahía de Puerto Príncipe, Haití, cuando hombres intentaron abordar el buque estadounidense MV National Glory. La tripulación, compuesta por 20 personas, resultó ilesa.
-
-Los atacantes llegaron en una pequeña embarcación y dispararon contra los agentes que acudieron tras la alerta del capitán. A pesar del incidente, el barco pudo atracar, desembarcar y zarpar nuevamente.
-
-Las autoridades sospechan que la zona está bajo el control de pandillas de Mariani. El buque está registrado a nombre de R&D Investments Inc.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792069718/noticias/articles/20261015_130837_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 15 Oct 2026 13:12:16 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261015131216</guid>
   </item>
 </channel>
 </rss>
