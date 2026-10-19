@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 19 Oct 2026 13:46:01 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 13:48:49 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[El Salvador confirma emboscada en Haití contra militares salvadoreños; cuatro siguen desaparecidos]]></title>
+    <link>https://eldia.com.do/el-salvador-confirma-emboscada-contra-militares-en-haiti/</link>
+    <description><![CDATA[La Fuerza Armada de El Salvador ha confirmado que cuatro de sus militares fueron emboscados en Haití por grupos criminales armados. Los militares, pertenecientes a la Fuerza de Tarea Libertad II, lograron salir de un vehículo blindado incendiado tras ser alcanzado por explosivos. Las operaciones para establecer contacto con ellos continúan.
+
+Helicópteros enviados en apoyo también fueron atacados. La Fuerza de Supresión de Pandillas (GSF) confirmó un ataque en Santo, Croix-des-Bouquets, y pidió a los residentes mantenerse alejados de la zona.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792417649/noticias/articles/20261019_134728_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 19 Oct 2026 13:48:49 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261019134849</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Vaguada provocará aguaceros en varias provincias este lunes]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261019134601</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) pronosticó aguaceros de moderados a fuertes, tormentas eléctricas y ráfagas de viento para la tarde y noche de este lunes en varias provincias de la República Dominicana, debido a la incidencia de una vaguada.
@@ -1352,19 +1363,6 @@ El cuerpo de “Tojunto” está en la morgue del Hospital Regional Doctor Aleja
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792023482/noticias/articles/20261015_001801_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 15 Oct 2026 00:18:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261015001840</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Antonio Taveras propone que Faride y el director de la Policía expliquen al Senado las muertes en intercambios de disparos]]></title>
-    <link>https://acento.com.do/actualidad/antonio-taveras-propone-que-faride-y-el-director-de-la-policia-expliquen-al-senado-las-muertes-en-intercambios-de-disparos-9770155.html</link>
-    <description><![CDATA[El senador Antonio Taveras Guzmán ha presentado una resolución para que la ministra de Interior y Policía, Faride Virginia Raful, y el director de la Policía Nacional, Ernesto Rafael Rodríguez García, comparezcan ante el Senado. El objetivo es explicar las muertes causadas por agentes policiales y los procedimientos aplicados.
-
-La resolución destaca la preocupación por el aumento de muertes durante intervenciones policiales y cita estadísticas del Ministerio de Interior y Policía. En 2025, se registraron 215 muertes por intervención policial, y en el primer semestre de 2026, 144 muertes.
-
-La propuesta también busca esclarecer el funcionamiento de la Dirección de Asuntos Internos y la coordinación con el Ministerio Público. La comparecencia debe realizarse dentro de 15 días hábiles tras la invitación formal.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792022649/noticias/articles/20261015_000409_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 15 Oct 2026 00:04:42 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261015000442</guid>
   </item>
 </channel>
 </rss>
