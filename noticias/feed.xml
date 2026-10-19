@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 19 Oct 2026 03:36:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 03:40:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Muere estudiante de Derecho en Cotuí horas después de su graduación en la UTECO]]></title>
+    <link>https://elnacional.com.do/nacionales/muere-estudiante-derecho-cotui-horas-despues-graduacion-uteco_583804.html</link>
+    <description><![CDATA[Leonel Otañez Mendoza, estudiante de Derecho en la UTECO, falleció en Cotuí tras complicaciones cardíacas, horas después de su graduación. No asistió a la ceremonia por problemas de salud y murió durante su traslado a un centro especializado.
+
+Sus restos son velados en su residencia en Cotuí. Se realizará una misa en la iglesia Inmaculada Concepción, seguida del sepelio en el cementerio municipal.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792381169/noticias/articles/20261019_033929_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 19 Oct 2026 03:40:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261019034000</guid>
+  </item>
+
+  <item>
     <title><![CDATA[ADP califica de irresponsable que Educación presente resultados de la Evaluación Docente incompletos]]></title>
     <link>https://listindiario.com/la-republica/educacion/20261018/adp-acusa-educacion-manipular-resultados-evaluacion-docente_926640.html</link>
     <description><![CDATA[La Asociación Dominicana de Profesores (ADP) ha expresado su rechazo a la difusión de resultados parciales de la Evaluación del Desempeño Docente por parte del Ministerio de Educación. Según Eduardo Hidalgo, presidente de la ADP, esta acción podría inducir a percepciones negativas sobre los docentes dominicanos.
@@ -1341,17 +1352,6 @@ Sembel fue encontrado en la carretera hacia La Guázara durante un patrullaje de
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792020927/noticias/articles/20261014_233526_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 14 Oct 2026 23:35:51 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261014233551</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Arnaud propondrá debate entre los precandidatos presidenciales del PRM]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261014190543</link>
-    <description><![CDATA[El aspirante presidencial del Partido Revolucionario Moderno (PRM), Wellington Arnaud, informó este miércoles que propondrá a la dirección de esa organización la celebración de un debate entre los precandidatos presidenciales que participan en el proceso interno.
-
-Durante una entrevista en el programa A Diario, Arnaud explicó que remitirá una comunicación a las autoridades del partido para plantear que los aspirantes expongan sus propuestas ante la militancia y la ciudadanía.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792004694/noticias/articles/20261014_190454_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 14 Oct 2026 19:05:43 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261014190543</guid>
   </item>
 </channel>
 </rss>
