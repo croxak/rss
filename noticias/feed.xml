@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 19 Oct 2026 03:40:00 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 03:42:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Director de la Policía visita a raso herido de bala durante patrullaje en San Pedro de Macorís]]></title>
+    <link>https://elnuevodiario.com.do/director-de-la-policia-visita-a-raso-herido-de-bala-durante-patrullaje-en-san-pedro-de-macoris/</link>
+    <description><![CDATA[El mayor general Ernesto Rodríguez García, director de la Policía Nacional, visitó al raso Franklyn Lebrón en Batey 14, Consuelo, tras ser herido de bala en un enfrentamiento con presuntos delincuentes en San Pedro de Macorís.
+
+Rodríguez García expresó su solidaridad y reafirmó el respaldo de la institución al agente durante su recuperación. La Policía Nacional informó sobre el apresamiento de dos hombres implicados en la agresión.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792381274/noticias/articles/20261019_034113_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 19 Oct 2026 03:42:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261019034202</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Muere estudiante de Derecho en Cotuí horas después de su graduación en la UTECO]]></title>
     <link>https://elnacional.com.do/nacionales/muere-estudiante-derecho-cotui-horas-despues-graduacion-uteco_583804.html</link>
     <description><![CDATA[Leonel Otañez Mendoza, estudiante de Derecho en la UTECO, falleció en Cotuí tras complicaciones cardíacas, horas después de su graduación. No asistió a la ceremonia por problemas de salud y murió durante su traslado a un centro especializado.
@@ -1341,17 +1352,6 @@ Inicialmente, la Fiscalía había archivado la denuncia por falta de jurisdicci�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792021166/noticias/articles/20261014_233926_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 14 Oct 2026 23:39:59 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261014233959</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Barahona: Hallan con vida a propietario de restaurante, tras ser raptado por hombres armados]]></title>
-    <link>https://elnacional.com.do/nacionales/barahona-hallan-vida-propietario-restaurante-raptado-hombres-armados_583469.html</link>
-    <description><![CDATA[En Barahona, Samuel Sembel, copropietario del restaurante "A Fuego Lento", fue hallado con vida tras ser raptado por hombres armados. El incidente ocurrió cerca de la UASD en Barahona, cuando varios individuos en una camioneta Toyota Hilux blanca lo obligaron a subir al vehículo.
-
-Sembel fue encontrado en la carretera hacia La Guázara durante un patrullaje de rutina. Actualmente, se encuentra en la Dirección Regional Sur de la Policía Nacional, donde es interrogado para esclarecer los hechos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792020927/noticias/articles/20261014_233526_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 14 Oct 2026 23:35:51 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261014233551</guid>
   </item>
 </channel>
 </rss>
