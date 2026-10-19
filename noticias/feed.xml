@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 19 Oct 2026 19:16:36 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 19:19:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Asaltantes matan a sargento mayor de la Policía y le roban su arma de reglamento]]></title>
+    <link>https://elnacional.com.do/nacionales/policiales/matan-balazos-sargento-pn-atraco-establecimiento-expendio-bebidas-alcoholicas_583867.html</link>
+    <description><![CDATA[Un sargento mayor de la Policía, Pedro Luis Guerrero Ibis, fue asesinado anoche en un asalto en el sector Higüero, Santo Domingo Norte. El hecho ocurrió en un establecimiento de bebidas alcohólicas mientras el agente no estaba en servicio.
+
+Los asaltantes le robaron su arma de reglamento y una cadena. La Policía está en proceso de identificar y localizar a los responsables. En la escena se recolectaron tres casquillos calibre 9 milímetros.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792437478/noticias/articles/20261019_191757_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 19 Oct 2026 19:19:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261019191909</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Díaz-Canel tacha de "patético circo miamense" orden de arresto de EE.UU. contra Raúl Castro]]></title>
     <link>https://www.diariolibre.com/mundo/estados-unidos/2026/10/19/diaz-canel-patetico-circo-orden-arresto-de-eeuu-contra-castro/3693777</link>
     <description><![CDATA[El presidente cubano, Miguel Díaz-Canel, ha calificado de "patético circo miamense" la orden de arresto emitida por la Fiscalía de Florida contra Raúl Castro. La acusación se centra en la conspiración para cometer asesinato en primer grado por el derribo de dos avionetas de Hermanos al Rescate en 1996.
@@ -1330,19 +1341,6 @@ Las autoridades sospechan que la zona está bajo el control de pandillas de Mari
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792069718/noticias/articles/20261015_130837_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 15 Oct 2026 13:12:16 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261015131216</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Indomet prevé pocas lluvias y temperaturas de hasta 35 °C en gran parte del país]]></title>
-    <link>https://noticiassin.com/pais/clima/2026/10/15/indomet-preve-pocas-lluvias-y-calor-de-hasta-35-c-2144178/</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informa que este jueves el clima será mayormente soleado con escasas lluvias en gran parte del país. Se esperan aguaceros aislados en provincias como San Pedro de Macorís, Monte Plata y San Cristóbal.
-
-Las temperaturas máximas oscilarán entre 31 °C y 35 °C. Indomet recomienda a la población mantenerse hidratada, usar ropa ligera y evitar la exposición al sol entre las 11:00 a.m. y las 4:00 p.m.
-
-En el Gran Santo Domingo, se pronostica un cielo soleado a medio nublado, con chubascos aislados y posibles tronadas. Las temperaturas mínimas estarán entre 23 °C y 25 °C.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792069232/noticias/articles/20261015_130032_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 15 Oct 2026 13:01:49 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261015130149</guid>
   </item>
 </channel>
 </rss>
