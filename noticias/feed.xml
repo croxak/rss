@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 19 Oct 2026 13:48:49 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 14:54:38 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Rusia lanza un bombardeo masivo contra Kiev en respuesta al ataque en San Petersburgo]]></title>
+    <link>https://www.elmundo.es/internacional/2026/10/19/6ad5d88f21efa0be3f8b457a.html</link>
+    <description><![CDATA[El ejército ruso lanzó un ataque masivo contra Kiev y su región adyacente en respuesta a un ataque ucraniano en San Petersburgo. El bombardeo ruso tuvo como objetivo empresas de la industria militar, almacenes de misiles de crucero y drones, y centros de datos. Se empleó armamento de alta precisión y aparatos no tripulados.
+
+Kiev ha sido objeto de ataques diarios durante casi un mes. El ataque ucraniano en San Petersburgo alcanzó terminales de petróleo, centros de datos, almacenes de comercio electrónico, una subestación eléctrica e infraestructura diversa, resultando en un muerto y una decena de heridos.
+
+Volodímir Zelenski denunció que Ucrania no recibió aviso de sus socios antes de los ataques rusos. Marco Rubio negó interrupciones en el intercambio de inteligencia con Ucrania.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792421651/noticias/articles/20261019_145411_article.webp" type="image/webp"/>
+    <pubDate>Mon, 19 Oct 2026 14:54:38 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261019145438</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El Salvador confirma emboscada en Haití contra militares salvadoreños; cuatro siguen desaparecidos]]></title>
     <link>https://eldia.com.do/el-salvador-confirma-emboscada-contra-militares-en-haiti/</link>
     <description><![CDATA[La Fuerza Armada de El Salvador ha confirmado que cuatro de sus militares fueron emboscados en Haití por grupos criminales armados. Los militares, pertenecientes a la Fuerza de Tarea Libertad II, lograron salir de un vehículo blindado incendiado tras ser alcanzado por explosivos. Las operaciones para establecer contacto con ellos continúan.
@@ -1352,17 +1365,6 @@ Mercedes, detective dominicano de 33 años, sobrevivió al ataque y habló públ
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792023661/noticias/articles/20261015_002100_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 15 Oct 2026 00:21:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261015002158</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[PN mata a “Tojunto” en San Juan; era buscado por varios delitos]]></title>
-    <link>https://elnuevodiario.com.do/pn-mata-a-tojunto-en-san-juan-era-buscado-por-varios-delitos/</link>
-    <description><![CDATA[La Policía Nacional ha dado muerte a un hombre identificado como “Tojunto” en San Juan de la Maguana. Este individuo era buscado por la comisión de varios delitos.
-
-El cuerpo de “Tojunto” está en la morgue del Hospital Regional Doctor Alejandro Cabral. Familiares han llegado al lugar y esperan la información oficial de la Policía Nacional.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792023482/noticias/articles/20261015_001801_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 15 Oct 2026 00:18:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261015001840</guid>
   </item>
 </channel>
 </rss>
