@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 19 Oct 2026 13:39:16 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 13:46:01 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Vaguada provocará aguaceros en varias provincias este lunes]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261019134601</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) pronosticó aguaceros de moderados a fuertes, tormentas eléctricas y ráfagas de viento para la tarde y noche de este lunes en varias provincias de la República Dominicana, debido a la incidencia de una vaguada.
+
+La institución explicó que, durante la mañana, prevalecerá un cielo mayormente soleado y con poca nubosidad en gran parte del territorio nacional. Sin embargo, el viento favorecerá la formación de nubes y la ocurrencia de chubascos aislados en zonas de La Altagracia, La Romana, Samaná, María Trinidad Sánchez, Peravia, Barahona y Pedernales.
+
+Según el informe meteorológico, las lluvias se intensificarán durante la tarde y las primeras horas de la noche en Hato Mayor, El Seibo, Monte Plata, Duarte, el norte de San Pedro de Macorís, Azua, San Juan, Independencia y Elías Piña, además de Pedernales.
+
+Indomet agregó que las precipitaciones también podrían afectar localidades de La Vega, Monseñor Nouel, Santiago, Valverde y Puerto Plata, así como otras comunidades cercanas. Se prevé que las lluvias disminuyan gradualmente durante la madrugada.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792417533/noticias/articles/20261019_134533_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 19 Oct 2026 13:46:01 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261019134601</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Trasladan a Costa Rica y Honduras atención consular de dominicanos en Nicaragua]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261019133916</link>
     <description><![CDATA[La República Dominicana habilitó servicios consulares en Costa Rica y Honduras para garantizar asistencia a sus ciudadanos residentes en Nicaragua, luego del retiro de su embajada en Managua en medio de las tensiones diplomáticas entre ambos países.
@@ -1350,19 +1365,6 @@ La propuesta también busca esclarecer el funcionamiento de la Dirección de Asu
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792022649/noticias/articles/20261015_000409_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 15 Oct 2026 00:04:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261015000442</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Intrant establece modalidades de compensación en licencias de conducir para mayores de 65 años]]></title>
-    <link>https://presidencia.gob.do/noticias/intrant-establece-modalidades-de-compensacion-en-licencias-de-conducir-para-mayores-de-65</link>
-    <description><![CDATA[El Instituto Nacional de Tránsito y Transporte Terrestre (Intrant) ha establecido modalidades de compensación para personas mayores de 65 años en la renovación de sus licencias de conducir. Esta medida responde a una sentencia del Tribunal Constitucional y un decreto presidencial que eliminan la restricción de dos años de vigencia para este grupo.
-
-Las personas de 75 años o más que pagaron la tarifa completa para una licencia de cuatro años y solo obtuvieron dos, podrán renovar sin costo por los dos años restantes. Aquellos que pagaron el 50% de la tarifa por dos años recibirán una extensión de dos años adicionales, pagando el 50% restante.
-
-El Intrant reafirma su compromiso con el respeto a los derechos de las personas adultas mayores y la aplicación transparente de la normativa de tránsito.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792022437/noticias/articles/20261015_000037_article.png" type="image/png"/>
-    <pubDate>Thu, 15 Oct 2026 00:01:45 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261015000145</guid>
   </item>
 </channel>
 </rss>
