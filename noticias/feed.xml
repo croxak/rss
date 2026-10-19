@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 19 Oct 2026 03:46:38 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 03:50:51 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Lula y Flávio Bolsonaro chocan en debate por las sospechas de corrupción de sus entornos]]></title>
+    <link>https://www.diariolibre.com/mundo/america-latina/2026/10/18/lula-y-flavio-bolsonaro-chocan-en-debate/3692968</link>
+    <description><![CDATA[Luiz Inácio Lula da Silva y Flávio Bolsonaro protagonizaron un tenso debate televisado, intercambiando acusaciones de corrupción. Lula cuestionó los pagos de Daniel Vorcaro para financiar una película sobre Jair Bolsonaro.
+
+Flávio Bolsonaro respondió mencionando investigaciones contra el hijo de Lula. Ambos candidatos están empatados técnicamente en las encuestas para la segunda vuelta de las elecciones presidenciales en Brasil.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792381825/noticias/articles/20261019_035025_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 19 Oct 2026 03:50:51 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261019035051</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Cinco soldados salvadoreños de fuerza contra pandillas desaparecidos tras ataque en Haití]]></title>
     <link>https://www.swissinfo.ch/spa/cinco-soldados-salvadoreños-de-fuerza-contra-pandillas-desaparecidos-tras-ataque-en-haití/92236186</link>
     <description><![CDATA[Cinco soldados salvadoreños de la Fuerza de Supresión de Pandillas están desaparecidos después de ser emboscados en las afueras de Puerto Príncipe, Haití. El incidente tuvo lugar en Croix-des-Bouquets, a 12 kilómetros de la capital.
@@ -1339,19 +1350,6 @@ Para más información, los interesados pueden contactar a la División de Notif
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792021439/noticias/articles/20261014_234359_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 14 Oct 2026 23:44:35 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261014234435</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Héctor Acosta cuestiona distribución de RD$2,000 millones recuperados de la corrupción: “No fue equitativa”]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/10/14/hector-acosta-cuestiona-distribucion-de-rd2000-millones-recuperados-de-la-corrupcion-no-fue-equitativa-2144004/</link>
-    <description><![CDATA[Héctor Acosta, senador del PRM por Monseñor Nouel, cuestionó la distribución de RD$2,000 millones recuperados de la corrupción. Criticó que RD$1,200 millones fueran destinados a La Vega, dejando a otras provincias sin recursos.
-
-Acosta expresó su inconformidad al enterarse de la distribución a través de la prensa y destacó la falta de empleos en Monseñor Nouel, afectada por el cierre de empresas.
-
-El senador también se refirió a las huelgas comunitarias y rechazó la creación de nuevas provincias por el aumento del gasto público.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792021325/noticias/articles/20261014_234205_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 14 Oct 2026 23:42:42 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261014234242</guid>
   </item>
 </channel>
 </rss>
