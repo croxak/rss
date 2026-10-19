@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 19 Oct 2026 14:54:38 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 16:04:22 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Juez ordena el arresto de Raúl Castro por el derribo de avionetas de EE. UU., según diario]]></title>
+    <link>https://www.diariolibre.com/mundo/estados-unidos/2026/10/19/orden-de-arresto-contra-raul-castro-por-derribo-de-avionetas/3693495</link>
+    <description><![CDATA[Un juez de Miami ha ordenado el arresto del expresidente cubano Raúl Castro. La acusación se centra en su presunta participación en el derribo de dos avionetas de Hermanos al Rescate en 1996, que resultó en la muerte de cuatro personas.
+
+La investigación señala que espías cubanos en Florida habrían recopilado información que facilitó el ataque. El fiscal general de Florida, James Uthmeier, dará una rueda de prensa para ofrecer más detalles sobre la orden de arresto.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792425835/noticias/articles/20261019_160354_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 19 Oct 2026 16:04:22 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261019160422</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Rusia lanza un bombardeo masivo contra Kiev en respuesta al ataque en San Petersburgo]]></title>
     <link>https://www.elmundo.es/internacional/2026/10/19/6ad5d88f21efa0be3f8b457a.html</link>
     <description><![CDATA[El ejército ruso lanzó un ataque masivo contra Kiev y su región adyacente en respuesta a un ataque ucraniano en San Petersburgo. El bombardeo ruso tuvo como objetivo empresas de la industria militar, almacenes de misiles de crucero y drones, y centros de datos. Se empleó armamento de alta precisión y aparatos no tripulados.
@@ -1348,23 +1359,6 @@ El desempeño inicial de Salo llega en un momento en que las aplicaciones de fin
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792025313/noticias/articles/20261015_004833_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 15 Oct 2026 00:48:55 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261015004855</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Dominicanos acusados de atacar a detective del NYPD se declaran no culpables en el Bronx]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261015002158</link>
-    <description><![CDATA[Los dominicanos D’Angelo Rafael Jean Caraballo, de 25 años, y Sneider Mejía Bautista, de 24, se declararon no culpables este miércoles 14 de octubre ante un tribunal del Bronx de los cargos relacionados con el ataque al detective José Mercedes, ocurrido cuando estaba fuera de servicio.
-
-Ambos enfrentan acusaciones que incluyen tentativa de asesinato, robo y agresión. Según la cobertura de NY1, el juez ordenó mantenerlos detenidos sin fianza por considerar que representan un riesgo de fuga. Su próxima audiencia quedó fijada para el 3 de diciembre de 2026.
-
-La Fiscalía sostiene que los acusados atacaron a Mercedes el pasado 2 de octubre en el sector de Norwood, donde presuntamente lo apuñalaron repetidamente y le sustrajeron una cadena del cuello.
-
-Los dos hombres fueron capturados en Massachusetts y trasladados a Nueva York para responder por el caso. El Departamento de Seguridad Nacional estadounidense los identificó como nacionales de República Dominicana, según recogió News 12.
-
-Mercedes, detective dominicano de 33 años, sobrevivió al ataque y habló públicamente este martes sobre su recuperación. Relató que durante la agresión se identificó como policía tanto en inglés como en español y expresó su deseo de regresar al trabajo cuando su condición se lo permita.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792023661/noticias/articles/20261015_002100_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 15 Oct 2026 00:21:58 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261015002158</guid>
   </item>
 </channel>
 </rss>
