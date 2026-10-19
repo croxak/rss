@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 19 Oct 2026 03:42:02 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 19 Oct 2026 03:46:38 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Cinco soldados salvadoreños de fuerza contra pandillas desaparecidos tras ataque en Haití]]></title>
+    <link>https://www.swissinfo.ch/spa/cinco-soldados-salvadoreños-de-fuerza-contra-pandillas-desaparecidos-tras-ataque-en-haití/92236186</link>
+    <description><![CDATA[Cinco soldados salvadoreños de la Fuerza de Supresión de Pandillas están desaparecidos después de ser emboscados en las afueras de Puerto Príncipe, Haití. El incidente tuvo lugar en Croix-des-Bouquets, a 12 kilómetros de la capital.
+
+Según testigos, se ha iniciado una operación militar y policial, con helicópteros, para rescatar a los soldados. Hasta el momento, ni el Gobierno haitiano ni la GSF han emitido declaraciones sobre el incidente.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792381419/noticias/articles/20261019_034339_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 19 Oct 2026 03:46:38 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261019034638</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Director de la Policía visita a raso herido de bala durante patrullaje en San Pedro de Macorís]]></title>
     <link>https://elnuevodiario.com.do/director-de-la-policia-visita-a-raso-herido-de-bala-durante-patrullaje-en-san-pedro-de-macoris/</link>
     <description><![CDATA[El mayor general Ernesto Rodríguez García, director de la Policía Nacional, visitó al raso Franklyn Lebrón en Batey 14, Consuelo, tras ser herido de bala en un enfrentamiento con presuntos delincuentes en San Pedro de Macorís.
@@ -1341,17 +1352,6 @@ El senador también se refirió a las huelgas comunitarias y rechazó la creaci�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792021325/noticias/articles/20261014_234205_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 14 Oct 2026 23:42:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261014234242</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fiscalía dice tribunal español puede investigar querella contra Julio Iglesias por agresión sexual en RD]]></title>
-    <link>https://elnacional.com.do/fama-y-vida/farandula/fiscalia-dice-tribunal-espanol-investigar-querella-julio-iglesias_583473.html</link>
-    <description><![CDATA[La Fiscalía española ha determinado que la Audiencia Nacional puede investigar una querella contra Julio Iglesias por acoso y agresión sexual en 2021 en República Dominicana y Bahamas. La querella fue presentada por dos exempleadas del cantante.
-
-Inicialmente, la Fiscalía había archivado la denuncia por falta de jurisdicción, pero ha cambiado su criterio. El juez Antonio Piña decidirá si se abre una investigación.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792021166/noticias/articles/20261014_233926_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 14 Oct 2026 23:39:59 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261014233959</guid>
   </item>
 </channel>
 </rss>
