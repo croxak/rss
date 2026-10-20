@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 20 Oct 2026 04:27:13 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 04:31:27 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Ministro de Energía prevé reducción de las facturas eléctricas por llegada de meses más fríos]]></title>
+    <link>https://elnuevodiario.com.do/ministro-de-energia-preve-reduccion-de-las-facturas-electricas-por-llegada-del-frio/</link>
+    <description><![CDATA[El ministro de Energía y Minas, Joel Santos, prevé una reducción en las facturas eléctricas debido a la llegada de meses más fríos, lo que disminuiría el consumo de energía.
+
+Santos explicó que las altas facturas recientes se deben al aumento del consumo por las elevadas temperaturas, ubicando a los usuarios en rangos de consumo más altos con menores subsidios, aunque todas las tarifas son subsidiadas.
+
+Aseguró que las tarifas no han aumentado desde 2022. Las pérdidas eléctricas actuales son del 39 %, con un 97 % de energía disponible entregada. Los precios por consumo varían según el rango de kilovatios-hora.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792470551/noticias/articles/20261020_042911_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 20 Oct 2026 04:31:27 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261020043127</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader proyecta que subsidio eléctrico podría alcanzar RD$100 mil millones en 2026]]></title>
     <link>https://eldia.com.do/abinader-proyecta-que-subsidio-electrico-podria-alcanzar-rd100-mil-millones-en-2026/</link>
     <description><![CDATA[El presidente Luis Abinader anunció que el subsidio al sector eléctrico podría alcanzar RD$100 mil millones en 2026, debido al encarecimiento de los combustibles y el aumento de la demanda de electricidad. Las tensiones internacionales han elevado los costos de generación eléctrica.
@@ -1334,19 +1347,6 @@ Abinader resaltó las buenas relaciones entre el Vaticano y la República Domini
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792096429/noticias/articles/20261015_203349_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 15 Oct 2026 20:34:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261015203439</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[La Policía recupera RD$1.5 millones en larimar que había sido robado en la Zona Colonial]]></title>
-    <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/15/recuperan-larimar-en-zona-colonial-tras-robo/3690229</link>
-    <description><![CDATA[La Policía Nacional recuperó piedras de larimar valoradas en RD$1.5 millones en la Zona Colonial, Distrito Nacional. El allanamiento se realizó junto al Ministerio Público tras una denuncia por robo y estafa.
-
-Fausto Omar Tiburcio Ramírez fue conducido para fines de investigación. El robo ocurrió el 1 de octubre de 2026, cuando Jesús Ramos Viñas contactó al comerciante para comprar larimar y, junto a otro individuo, lo despojó de la mercancía.
-
-Las investigaciones continúan por presuntos delitos de robo, estafa y amenazas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792092174/noticias/articles/20261015_192254_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 15 Oct 2026 20:26:25 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261015202625</guid>
   </item>
 </channel>
 </rss>
