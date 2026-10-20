@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 20 Oct 2026 04:22:28 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 04:24:52 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Embajada de EEUU en Haití pide a sus ciudadanos que eviten zona de emboscada a soldados salvadoreños]]></title>
+    <link>https://listindiario.com/las-mundiales/haiti/20261019/embajada-ee-uu-haiti-pide-ciudadanos-eviten-zona-emboscada-gsf_926809.html</link>
+    <description><![CDATA[La embajada de Estados Unidos en Haití ha emitido una alerta para sus ciudadanos, aconsejando evitar la zona de Santo, en Croix-des-Bouquets, tras una emboscada a un vehículo blindado que transportaba a cuatro militares salvadoreños de la Fuerza de Supresión de Pandillas (GSF). Los soldados están desaparecidos.
+
+El ataque desencadenó un intercambio de disparos con apoyo de helicópteros. El Gobierno de El Salvador confirmó la desaparición de los militares, mientras que otros miembros de la Fuerza de Tarea Libertad II trabajan para localizarlos.
+
+La GSF y el Gobierno haitiano no han comentado sobre el incidente. La GSF fue creada por el Consejo de Seguridad de Naciones Unidas para combatir a las bandas armadas en Haití.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792470262/noticias/articles/20261020_042421_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 20 Oct 2026 04:24:52 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261020042452</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Consejo de Seguridad de la ONU condena crisis en Haití y emboscada a soldados El Salvador]]></title>
     <link>https://listindiario.com/la-republica/migracion/20261020/onu-condena-crisis-haiti-emboscada-soldados-salvador_926784.html</link>
     <description><![CDATA[El Consejo de Seguridad de la ONU condenó la crisis en Haití y la emboscada a soldados salvadoreños en Puerto Príncipe. La sesión contó con la participación de delegaciones de México y República Dominicana.
@@ -1334,19 +1347,6 @@ Las dos mujeres intentaron buscar ayuda antes de ser asesinadas. El ataque ocurr
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792082844/noticias/articles/20261015_164724_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 15 Oct 2026 16:47:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261015164757</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fiscalía presenta transferencia a nombre del acusado que negó vinculación en caso Emmanuel Contreras]]></title>
-    <link>https://www.diariolibre.com/actualidad/justicia/2026/10/15/presentan-transferencia-en-caso-de-muerte-de-enmanuel-contreras/3689957</link>
-    <description><![CDATA[La Fiscalía presentó un comprobante bancario que identifica a Yohan Manuel Jiménez Medina como destinatario de RD$15,000 transferidos por Emmanuel Contreras Medina. Esta transacción está vinculada a la compra de un teléfono celular que originó un conflicto mortal.
-
-Jiménez Medina niega conocer a las personas involucradas y cuestiona la titularidad de la cuenta bancaria. La Fiscalía también presentó conversaciones de WhatsApp y audios como pruebas.
-
-Se ha solicitado prisión preventiva para Jiménez Medina, quien se entregó voluntariamente a las autoridades.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792082704/noticias/articles/20261015_164504_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 15 Oct 2026 16:45:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261015164540</guid>
   </item>
 </channel>
 </rss>
