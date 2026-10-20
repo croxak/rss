@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 20 Oct 2026 18:56:43 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 19:51:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[La brasileña Gol suspenderá sus vuelos a Punta Cana por alza de combustible]]></title>
+    <link>https://www.arecoa.com/aerolineas/2026/10/20/la-brasilena-gol-suspendera-sus-vuelos-a-punta-cana-por-alza-de-combustible/</link>
+    <description><![CDATA[Gol Linhas Aéreas anunció la suspensión de varias rutas internacionales hacia Estados Unidos y el Caribe debido al aumento del precio del combustible. A partir de febrero de 2027, se suspenderán los vuelos desde Brasília, Fortaleza y Belém hacia Miami y Orlando, así como la ruta de São Paulo-Guarulhos a Punta Cana.
+
+La aerolínea ajustará su programa de vuelos, reduciendo frecuencias y suspendiendo operaciones en ciertas rutas. Sin embargo, mantendrá opciones de conectividad para sus clientes a través de vuelos con conexión y alianzas estratégicas.
+
+El combustible ahora representa aproximadamente el 40% de los costos operativos de Gol, lo que ha llevado a estos ajustes en su red de destinos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792525837/noticias/articles/20261020_195037_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 20 Oct 2026 19:51:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261020195104</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El petróleo de Texas sube un 2 %, hasta 105 dólares, su precio más alto en más de un mes]]></title>
     <link>https://eldia.com.do/el-petroleo-de-texas-sube-un-2-hasta-105-dolares-su-precio-mas-alto-en-mas-de-un-mes/</link>
     <description><![CDATA[El petróleo intermedio de Texas (WTI) subió un 2,02 % en la apertura de este martes, alcanzando los 105,75 dólares el barril, su nivel más alto en más de un mes. A las 09:00 hora local, los contratos de futuros del WTI para noviembre sumaban 2,09 dólares.
@@ -1324,17 +1337,6 @@ La decisión se fundamenta en informes técnicos y testimonios que revelaron una
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792159361/noticias/articles/20261016_140240_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 16 Oct 2026 14:03:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261016140314</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Juez cambia calificación jurídica en caso Jet Set y expone a los Espaillat a 30 años de cárcel]]></title>
-    <link>https://elnacional.com.do/nacionales/judicial/juez-cambia-calificacion-juridica-caso-jet-set-expone-espaillat-30-anos-carcel_583618.html</link>
-    <description><![CDATA[Los hermanos Antonio y Maribel Espaillat están en riesgo de enfrentar una condena de hasta 30 años de cárcel. Esto se debe al colapso del techo de la discoteca Jet Set.
-
-El juez Franny Santana, de la Cuarta Sala Penal del Distrito Nacional, modificó la calificación jurídica del caso a homicidio voluntario.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792158360/noticias/articles/20261016_134559_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 16 Oct 2026 13:49:12 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261016134912</guid>
   </item>
 </channel>
 </rss>
