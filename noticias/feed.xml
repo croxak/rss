@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 20 Oct 2026 14:14:29 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 14:43:56 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Repatrian a 63 migrantes a República Dominicana tras ser detenidos en aguas de Puerto Rico]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/10/20/dominicanos-en-pr-son-repatriados-a-republica-dominicana/3694561</link>
+    <description><![CDATA[La Guardia Costera de Puerto Rico repatrió a 63 migrantes a la República Dominicana después de interceptar su embarcación en el Canal de la Mona. La embarcación, de 30 pies de eslora, estaba sobrecargada y transportaba a 55 hombres y cuatro mujeres dominicanos, además de seis hombres y una mujer haitianos.
+
+Tres de los migrantes permanecen bajo custodia federal, enfrentando una investigación adicional y posibles cargos por intento de reingreso ilegal a Estados Unidos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792507409/noticias/articles/20261020_144329_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 20 Oct 2026 14:43:56 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261020144356</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Anuncian “bonche del siglo” para recibir a Yamil Abreu Navarro en Azua]]></title>
     <link>https://listindiario.com/la-republica/20261020/anuncian-bonche-siglo-recibir-yamil-abreu-navarro_926824.html</link>
     <description><![CDATA[Yamil Abreu Navarro, exdirector municipal de Las Lagunas, Azua, por el PRM, ha sido liberado en Estados Unidos tras pagar una fianza de 350,000 dólares. Fue acusado de ser cabecilla de una red de narcotráfico con vínculos al Cartel de Sinaloa.
@@ -1336,19 +1347,6 @@ Este anuncio se enmarca en la estrategia de la administración Trump para reforz
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792117401/noticias/articles/20261016_022321_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 16 Oct 2026 02:23:45 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261016022345</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Director de la Policía y la diputada Millys Martínez dan por superado el impasse en Elías Piña]]></title>
-    <link>https://eldia.com.do/director-de-la-policia-y-la-diputada-millys-martinez-dan-por-superado-el-impasse-en-elias-pina/</link>
-    <description><![CDATA[El director general de la Policía Nacional, mayor general Ernesto Rafael Rodríguez García, y la diputada Millys Martínez, se reunieron para tratar un impasse ocurrido en Elías Piña. Ambas partes acordaron dar por superada la situación y reafirmaron su compromiso con el diálogo y la colaboración institucional.
-
-La diputada había denunciado una supuesta "agresión y atropello" por parte de las autoridades policiales durante una actividad en Comendador. En un video en redes sociales, se observaba a la legisladora esposada. Solicitó al presidente Luis Abinader una investigación exhaustiva del incidente.
-
-Fuente: El Día - Johanna García]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792105568/noticias/articles/20261015_230608_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 15 Oct 2026 23:06:55 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261015230655</guid>
   </item>
 </channel>
 </rss>
