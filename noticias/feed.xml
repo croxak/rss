@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 20 Oct 2026 14:07:56 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 14:14:29 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Anuncian “bonche del siglo” para recibir a Yamil Abreu Navarro en Azua]]></title>
+    <link>https://listindiario.com/la-republica/20261020/anuncian-bonche-siglo-recibir-yamil-abreu-navarro_926824.html</link>
+    <description><![CDATA[Yamil Abreu Navarro, exdirector municipal de Las Lagunas, Azua, por el PRM, ha sido liberado en Estados Unidos tras pagar una fianza de 350,000 dólares. Fue acusado de ser cabecilla de una red de narcotráfico con vínculos al Cartel de Sinaloa.
+
+Sus familiares y amigos planean recibirlo con "el bonche del siglo". Aún no se sabe cuándo regresará a República Dominicana.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792505617/noticias/articles/20261020_141337_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 20 Oct 2026 14:14:29 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261020141429</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Irán afirma que derribó un dron de EE. UU. en Ormuz]]></title>
     <link>https://elnuevodiario.com.do/iran-afirma-que-derribo-un-dron-de-ee-uu-en-ormuz/</link>
     <description><![CDATA[La Guardia Revolucionaria de Irán ha declarado que derribó un dron estadounidense MQ-9 en el estrecho de Ormuz. Este incidente se suma a una serie de tensiones en la región, donde Irán ha informado de ataques a embarcaciones.
@@ -1338,25 +1349,6 @@ Fuente: El Día - Johanna García]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792105568/noticias/articles/20261015_230608_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 15 Oct 2026 23:06:55 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261015230655</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Aumentan precios de algunas cervezas en República Dominicana]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261015210502</link>
-    <description><![CDATA[Los precios de las cervezas Presidente Light y The One, en sus presentaciones de un litro, registraron incrementos de entre RD$5 y RD$100, según una actualización de precios vigente desde el 12 de octubre de 2026.
-
-De acuerdo con el documento, la cerveza Presidente Light de un litro, en la modalidad TTV retornable, pasó de RD$1,989 a RD$2,088, para un aumento de RD$99. Mientras que la modalidad no retornable subió de RD$2,025 a RD$2,125, equivalente a un incremento de RD$100.
-
-En cuanto al precio PTC, Presidente Light pasó de RD$200 a RD$210, lo que representa un aumento de RD$10 por unidad.
-
-Por su parte, la cerveza The One de un litro también experimentó ajustes. La modalidad TTV retornable pasó de RD$1,753 a RD$1,803, con un incremento de RD$50, mientras que la no retornable aumentó de RD$1,789 a RD$1,840, para una diferencia de RD$51.
-
-El precio PTC de The One se elevó de RD$175 a RD$180, registrando un aumento de RD$5 por unidad.
-
-Los nuevos precios representan incrementos de un 5 % en el PTC de Presidente Light y de aproximadamente un 2.9 % en el de The One.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792098249/noticias/articles/20261015_210409_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 15 Oct 2026 21:05:02 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261015210502</guid>
   </item>
 </channel>
 </rss>
