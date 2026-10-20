@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 20 Oct 2026 02:37:51 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 02:39:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Sin subsidios, el gasoil regular costaría RD$390.80 por galón, informa Gobierno]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/10/19/gobierno-subsidia-gasoil-regular-y-evita-alza-a-rd390-80-2148278/</link>
+    <description><![CDATA[El Gobierno dominicano subsidia el gasoil regular con RD$120 por galón, evitando que su precio suba a RD$390.80. Actualmente, el precio es de RD$270.80.
+
+El ministro de Industria, Comercio y Mipymes, Eduardo Sanz Lovatón, informó que el Gobierno destinó más de RD$1,800 millones a los subsidios de los combustibles durante la semana pasada.
+
+El gasoil óptimo también recibe un subsidio de RD$120 por galón, manteniendo su precio en RD$318. La gasolina prémium cuesta RD$358 por galón, pero sin subsidio sería RD$384.
+
+El gas licuado de petróleo (GLP) recibe una subvención de RD$52 por galón. El gasoil utilizado por el transporte federado tiene el subsidio más alto, de RD$200 por galón.
+
+Sanz Lovatón explicó que los subsidios buscan reducir el impacto de los precios de los combustibles sobre los consumidores.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792463927/noticias/articles/20261020_023847_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 20 Oct 2026 02:39:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261020023914</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader emite decreto que regula zafra azucarera y garantiza abastecimiento nacional e internacional]]></title>
     <link>https://listindiario.com/la-republica/gobierno/20261019/abinader-emite-decreto-regula-zafra-azucarera-garantiza-abastecimiento-nacional-e-internacional_926786.html</link>
     <description><![CDATA[El presidente Luis Abinader promulgó el Decreto núm. 719-26 para regular la zafra azucarera del período 2026-2027. Este decreto busca garantizar el abastecimiento de azúcar tanto a nivel nacional como internacional.
@@ -1336,21 +1353,6 @@ El presidente Luis Abinader emitió un decreto eliminando estos aranceles, medid
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792071534/noticias/articles/20261015_133853_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 15 Oct 2026 13:41:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261015134132</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Energía 2000, S. A., anuncia la entrada en operación de su ciclo combinado de Manzanillo Power Land]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261015133421</link>
-    <description><![CDATA[La culminación de los trabajos para la entrada en operación del ciclo combinado completo de Manzanillo Power Land (MPL), con una potencia neta de 414 megavatios (MW), permitirá incorporar nueva capacidad de generación al Sistema Eléctrico Nacional Interconectado (SENI) de la República Dominicana.
-
-La central utilizará gas natural como combustible y tecnología de ciclo combinado, que permite aprovechar el calor generado durante el proceso de producción eléctrica para mejorar la eficiencia energética.
-
-La incorporación de esta capacidad podría contribuir a ampliar la oferta de electricidad, mejorar la eficiencia del parque de generación y proporcionar mayor respaldo operativo al sistema ante el crecimiento de la demanda.
-
-Con la puesta en funcionamiento del ciclo combinado completo, Manzanillo Power Land se sumará a la infraestructura de generación eléctrica de la región norte del país, como parte de los esfuerzos para diversificar y ampliar la capacidad de producción energética nacional.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792071142/noticias/articles/20261015_133221_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 15 Oct 2026 13:34:21 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261015133421</guid>
   </item>
 </channel>
 </rss>
