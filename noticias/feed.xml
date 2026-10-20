@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 20 Oct 2026 17:29:15 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 18:26:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Matan a dominicano en Connecticut días después de regresar del funeral de su hijo]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/10/20/nelson-manuel-batista-victima-de-homicidio-en-bridgeport-connecticut/3694825</link>
+    <description><![CDATA[Nelson Manuel Batista, un dominicano de 48 años, fue asesinado en Bridgeport, Connecticut, tras recibir un disparo. El incidente ocurrió pocos días después de que Batista regresara del funeral de su hijo en California.
+
+La Policía encontró a Batista herido junto a su vehículo y lo trasladó al Hospital St. Vincent, donde falleció. Su familia explicó que tenía una discapacidad y se dirigía a buscar medicamentos cuando ocurrió el incidente, tras una discusión menor con otro hombre.
+
+Jorge Luis Ortiz, de 57 años, fue arrestado como sospechoso del homicidio. Ortiz fue detenido bajo una fianza de 2.5 millones de dólares. La familia de Batista espera que se esclarezcan los hechos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792520637/noticias/articles/20261020_182357_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 20 Oct 2026 18:26:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261020182600</guid>
+  </item>
+
+  <item>
     <title><![CDATA[DNCD arresta tres colombianos e incauta una tonelada de alegada cocaína en Pedernales]]></title>
     <link>https://elnuevodiario.com.do/dncd-arresta-a-tres-colombianos-e-incauta-mas-de-una-tonelada-de-presunta-cocaina-frente-a-pedernales/</link>
     <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD), en colaboración con la Armada y la Fuerza Aérea de República Dominicana, incautó 1,068 paquetes de presunta cocaína frente a las costas de Pedernales. Tres ciudadanos colombianos fueron arrestados durante el operativo.
@@ -1328,25 +1341,6 @@ Los investigadores analizaron cámaras de seguridad, teléfonos celulares, conve
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792157538/noticias/articles/20261016_133217_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 16 Oct 2026 13:36:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261016133640</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[NYPD destaca trayectoria de Aneudy Castillo, hijo de dominicano que dirige patrullaje en el norte de El Bronx]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261016030928</link>
-    <description><![CDATA[El Departamento de Policía de Nueva York (NYPD) destacó la trayectoria de Aneudy Castillo, jefe asistente de la institución e hijo de padre dominicano y madre ecuatoriana, quien actualmente dirige el Comando de Patrullaje de Bronx Norte.
-
-Castillo, nacido y criado en Brooklyn, Nueva York, alcanzó uno de los rangos superiores de la institución policial tras desarrollar una carrera inspirada por su familia, especialmente por su hermano mayor, quien ingresó al NYPD siete años antes que él.
-
-En una publicación, la institución resaltó que Castillo creció con el sueño de convertirse en policía y proteger su ciudad, una aspiración que logró materializar hasta asumir responsabilidades de mando dentro del departamento.
-
-El oficial fue designado en junio de 2026 al frente del Comando de Patrullaje de Bronx Norte, una de las dos divisiones territoriales creadas durante la reorganización policial de ese distrito neoyorquino.
-
-En declaraciones recientes a medios estadounidenses, Castillo destacó la importancia del esfuerzo, el respaldo familiar y la orientación de sus superiores para avanzar profesionalmente. También señaló que sus raíces hispanas le han permitido comprender mejor la diversidad cultural de las comunidades a las que sirve.
-
-Su trayectoria forma parte de la creciente presencia de oficiales de origen latino en los puestos de liderazgo del NYPD, institución en la que actualmente ejerce funciones de dirección y supervisión policial.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792120129/noticias/articles/20261016_030848_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 16 Oct 2026 03:09:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261016030928</guid>
   </item>
 </channel>
 </rss>
