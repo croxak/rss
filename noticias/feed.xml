@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 20 Oct 2026 14:04:05 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 14:07:56 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Irán afirma que derribó un dron de EE. UU. en Ormuz]]></title>
+    <link>https://elnuevodiario.com.do/iran-afirma-que-derribo-un-dron-de-ee-uu-en-ormuz/</link>
+    <description><![CDATA[La Guardia Revolucionaria de Irán ha declarado que derribó un dron estadounidense MQ-9 en el estrecho de Ormuz. Este incidente se suma a una serie de tensiones en la región, donde Irán ha informado de ataques a embarcaciones.
+
+El estrecho de Ormuz es una vía crucial para el transporte de petróleo, y las tensiones han aumentado desde el inicio de la guerra lanzada por Estados Unidos e Israel. Washington mantiene un bloqueo naval y ha intensificado las sanciones económicas contra Irán.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792505219/noticias/articles/20261020_140659_article.webp" type="image/webp"/>
+    <pubDate>Tue, 20 Oct 2026 14:07:56 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261020140756</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Reportan detención en España de ciudadano español de origen dominicano por presuntos asaltos a furgones blindados]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261020140405</link>
     <description><![CDATA[Un ciudadano español de origen dominicano figura entre dos hombres detenidos en España por su presunta participación en un grupo que robaba vehículos de alta gama para asaltar furgones blindados que transportaban recaudaciones de casas de apuestas, según informó Europa Press, citando fuentes policiales.
@@ -1346,19 +1357,6 @@ Los nuevos precios representan incrementos de un 5 % en el PTC de Presidente Lig
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792098249/noticias/articles/20261015_210409_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 15 Oct 2026 21:05:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261015210502</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Envían a la cárcel de Najayo a tres implicados en robo de joyería en Villa Juana]]></title>
-    <link>https://listindiario.com/la-republica/justicia/20261015/tres-meses-prision-preventiva-acusados-robo-joyeria-villa-juana_926286.html</link>
-    <description><![CDATA[Tres personas fueron enviadas a la cárcel de Najayo por su implicación en el intento de asalto a la Joyería Gisac Jewelry en Villa Juana. El juez Rigoberto Sena dictó tres meses de prisión preventiva para Shandde Moisés Amancio Arias, César Edward Tejeda Carela y Ángel Marte de Jesús.
-
-El abogado defensor de las víctimas, Danilo Lapaix, mencionó que hay un cuarto involucrado bajo investigación. El propietario de la joyería, Aderly Fischerarlt de León Polanco, expresó temor por su vida tras el incidente.
-
-El hecho ocurrió el 7 de octubre, cuando el guardia de seguridad repelió el ataque, resultando herido. Los acusados enfrentan cargos de tentativa de robo, tentativa de homicidio, robo agravado y posesión de armas ilegales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792097741/noticias/articles/20261015_205541_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 15 Oct 2026 20:56:13 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261015205613</guid>
   </item>
 </channel>
 </rss>
