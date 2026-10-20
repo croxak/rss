@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 20 Oct 2026 04:16:24 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 04:22:28 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Consejo de Seguridad de la ONU condena crisis en Haití y emboscada a soldados El Salvador]]></title>
+    <link>https://listindiario.com/la-republica/migracion/20261020/onu-condena-crisis-haiti-emboscada-soldados-salvador_926784.html</link>
+    <description><![CDATA[El Consejo de Seguridad de la ONU condenó la crisis en Haití y la emboscada a soldados salvadoreños en Puerto Príncipe. La sesión contó con la participación de delegaciones de México y República Dominicana.
+
+Entre julio y septiembre de 2026, se documentaron aproximadamente 1.000 asesinatos y 100 raptos en Haití. Las pandillas han intensificado sus ataques, afectando tanto a comunidades rurales como urbanas.
+
+En el ámbito político, se destacó el dinamismo de los preparativos electorales, con la inscripción de más de 35 partidos y 3.500 candidatos. Se implementaron nuevas disposiciones para facilitar la postulación de mujeres y la inscripción en línea del electorado.
+
+El despliegue de la fuerza de seguridad enfrenta retos logísticos, y se subrayó la necesidad de fortalecer el apoyo financiero y logístico para estabilizar el país.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792470118/noticias/articles/20261020_042158_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 20 Oct 2026 04:22:28 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261020042228</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía arresta a ex alcalde de Samaná con arma de fuego sin documentación durante presunto desalojo]]></title>
     <link>https://deultimominuto.com/nacionales/policia-arresta-2-hombres-samana/</link>
     <description><![CDATA[La Policía Nacional arrestó a Nadín Miguel Bezi Nicasio, ex alcalde de Samaná, y a Jesús Espinal de Castro en el sector Carenero, Samaná. Ambos portaban armas de fuego sin documentación durante un presunto desalojo.
@@ -1332,15 +1347,6 @@ Se ha solicitado prisión preventiva para Jiménez Medina, quien se entregó vol
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792082704/noticias/articles/20261015_164504_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 15 Oct 2026 16:45:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261015164540</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Trump recula y cancela la retransmisión en directo de la ejecución del autor de la matanza de Fort Hood]]></title>
-    <link>https://www.huffingtonpost.es/global/trump-recula-cancela-retransmision-directo-ejecucion-autor-matanza-fort-hood-f202610.html</link>
-    <description><![CDATA[Donald Trump ha decidido cancelar la retransmisión en directo de la ejecución de Nidal Hasan, condenado por la matanza de Fort Hood en 2009. La ejecución sigue prevista para el 3 de diciembre, pero no será emitida por internet. La decisión se tomó tras críticas de organizaciones de derechos humanos, líderes religiosos y la oposición.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792075568/noticias/articles/20261015_144608_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 15 Oct 2026 14:51:35 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261015145135</guid>
   </item>
 </channel>
 </rss>
