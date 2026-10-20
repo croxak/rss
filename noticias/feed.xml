@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 19 Oct 2026 22:52:45 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 20 Oct 2026 02:37:51 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Abinader emite decreto que regula zafra azucarera y garantiza abastecimiento nacional e internacional]]></title>
+    <link>https://listindiario.com/la-republica/gobierno/20261019/abinader-emite-decreto-regula-zafra-azucarera-garantiza-abastecimiento-nacional-e-internacional_926786.html</link>
+    <description><![CDATA[El presidente Luis Abinader promulgó el Decreto núm. 719-26 para regular la zafra azucarera del período 2026-2027. Este decreto busca garantizar el abastecimiento de azúcar tanto a nivel nacional como internacional.
+
+La producción total y los excedentes del año anterior se destinarán al consumo local y a cumplir compromisos de exportación. El INAZUCAR controlará las exportaciones y emitirá licencias de importación si es necesario.
+
+Los ingenios deberán informar sobre sus ventas internacionales y reportar variaciones en producción. Sanciones se aplicarán por incumplimiento.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792463845/noticias/articles/20261020_023725_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 20 Oct 2026 02:37:51 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261020023751</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Estado subsidia con RD$27.50 cada viaje en el Metro de Santo Domingo]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/10/19/estado-subsidia-con-rd27-50-cada-viaje-en-el-metro-de-santo-domingo-2148161/</link>
     <description><![CDATA[El Estado dominicano subsidia RD$27.50 por cada viaje en el Metro de Santo Domingo, cubriendo parte de los RD$11 millones diarios en costos operativos.
@@ -1338,19 +1351,6 @@ Con la puesta en funcionamiento del ciclo combinado completo, Manzanillo Power L
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792071142/noticias/articles/20261015_133221_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 15 Oct 2026 13:34:21 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261015133421</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader se reunirá hoy con Pietro Parolin tras suspensión de audiencia con el papa León XIV]]></title>
-    <link>https://n.com.do/2026/10/15/abinader-se-reunira-hoy-con-pietro-parolin-tras-suspension-de-audiencia-con-el-papa-leon-xiv/</link>
-    <description><![CDATA[El presidente Luis Abinader se reunirá hoy con el cardenal Pietro Parolin en el Vaticano, tras la suspensión de su audiencia con el papa León XIV, quien se recupera de una cirugía pulmonar.
-
-Durante su visita a Italia, Abinader participa en el Foro Mundial de la Alimentación 2026 y se reúne con autoridades italianas y representantes del sector empresarial. La República Dominicana será reconocida por sus avances en la lucha contra el hambre.
-
-La salida de Abinader hacia la República Dominicana está prevista para el 16 de octubre.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792070164/noticias/articles/20261015_131604_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 15 Oct 2026 13:16:43 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261015131643</guid>
   </item>
 </channel>
 </rss>
