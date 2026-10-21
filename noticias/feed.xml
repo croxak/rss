@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 21 Oct 2026 15:58:52 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 17:41:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Muere la periodista Cosette Bonnelly, esposa de Persio Maldonado]]></title>
+    <link>https://listindiario.com/la-republica/20261021/muere-periodista-cosette-bonnelly-esposa-persio-maldonado_926997.html</link>
+    <description><![CDATA[La periodista Cosette Bonnelly, esposa de Persio Maldonado, ha fallecido. Bonnelly estaba enfrentando problemas de salud y se encontraba recluida en un centro del Distrito Nacional.
+
+Su deceso ocurrió mientras Persio Maldonado participaba en una reunión en el Palacio Nacional. El presidente Luis Abinader ofreció sus condolencias a la familia.
+
+No se han proporcionado detalles sobre las honras fúnebres de Bonnelly, quien también era directora ejecutiva de El Nuevo Diario.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792604469/noticias/articles/20261021_174108_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 21 Oct 2026 17:41:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261021174141</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Capturan hombre buscado desde 2023 por la muerte de una mujer en Villa Altagracia]]></title>
     <link>https://listindiario.com/la-republica/20261021/capturan-hombre-perseguido-2023-muerte-mujer-villa-altagracia_926982.html</link>
     <description><![CDATA[Vicente Oviedo Beltré, conocido como Celin, fue capturado el 13 de este mes por la muerte de Lucía Paulino Puello en Villa Altagracia. La jueza Sudelgi Rosario Mena le impuso tres meses de prisión preventiva en la cárcel de Najayo.
@@ -1326,19 +1339,6 @@ El incidente ocurrió en una empresa constructora en Santo Domingo Este, donde l
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792178998/noticias/articles/20261016_192958_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 16 Oct 2026 19:30:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261016193032</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Delincuentes le quitan la vida a un taxista en Santo Domingo Este]]></title>
-    <link>https://elnuevodiario.com.do/delincuentes-le-quitan-la-vida-a-un-taxista-en-santo-domingo-este/</link>
-    <description><![CDATA[Un conductor de la plataforma InDrive perdió la vida tras ser atacado presuntamente por varios individuos encapuchados en el sector Las Américas, Santo Domingo Este. El incidente ocurrió alrededor de las 5:00 de la mañana de este viernes.
-
-El conductor intentó llegar al Hospital Darío Contreras para recibir asistencia, pero se desplomó en el puente peatonal frente al centro de salud. El vehículo fue hallado abandonado en la calle 9, esquina avenida 25 de Febrero.
-
-Las autoridades están a cargo de las investigaciones para esclarecer los hechos e identificar a los responsables.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792178803/noticias/articles/20261016_192642_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 16 Oct 2026 19:27:13 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261016192713</guid>
   </item>
 </channel>
 </rss>
