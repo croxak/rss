@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 21 Oct 2026 19:13:53 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 21:26:48 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Bukele da un ultimátum a las pandillas de Haití para que liberen a militares salvadoreños]]></title>
+    <link>https://www.excelsior.com.mx/internacional/bukele-da-ultimatum-pandillas-haiti-para-que-liberen-militares-salvadorenos</link>
+    <description><![CDATA[El presidente salvadoreño Nayib Bukele ha lanzado un ultimátum a las pandillas de Haití, exigiendo la liberación de cuatro militares salvadoreños secuestrados. Estos militares, parte de una misión respaldada por la ONU, fueron atacados cerca de Puerto Príncipe.
+
+Bukele ha iniciado una operación militar para rescatarlos y ha advertido que los secuestrados son técnicos de aviación, no combatientes. La Fuerza de Supresión de Pandillas, de la cual forman parte, enfrenta dificultades debido a los intensos combates en la zona.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792617962/noticias/articles/20261021_212601_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 21 Oct 2026 21:26:48 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261021212648</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Deportan de EE. UU. a “Petán”, requerido desde 2021 por homicidio en Villa Consuelo]]></title>
     <link>https://elnuevodiario.com.do/deportan-desde-ee-uu-a-petan-es-requerido-desde-2021-por-un-homicidio-en-villa-consuelo/</link>
     <description><![CDATA[La Policía Nacional de República Dominicana recibió a Bryan Rafael Gómez, alias "Petán", deportado desde Estados Unidos por su presunta vinculación en un homicidio en Villa Consuelo en marzo de 2021.
@@ -1346,17 +1357,6 @@ El Congreso debe decidir sobre esta solicitud.]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792245354/noticias/articles/20261017_135553_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 17 Oct 2026 13:56:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261017135619</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Trump suspende temporalmente sanciones del Congreso contra Rusia por "interés nacional"]]></title>
-    <link>https://www.diariolibre.com/mundo/estados-unidos/2026/10/16/trump-firma-orden-ejecutiva-sobre-sanciones-contra-rusia/3691699</link>
-    <description><![CDATA[Donald Trump ha firmado una orden ejecutiva que suspende temporalmente las sanciones del Congreso contra Rusia, justificando la medida como de "interés nacional". Esta decisión afecta a una ley que busca endurecer las sanciones contra la economía rusa.
-
-Además, Trump acordó con Vladímir Putin el suministro de diésel ruso para los mercados internacionales, con el objetivo de aliviar los precios de la energía. Este acuerdo ha suscitado críticas de legisladores que cuestionan su impacto en la presión económica contra Moscú.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792245258/noticias/articles/20261017_135418_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 17 Oct 2026 13:55:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261017135505</guid>
   </item>
 </channel>
 </rss>
