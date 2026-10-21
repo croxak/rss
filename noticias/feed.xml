@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 21 Oct 2026 21:33:09 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 21:34:53 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Venezuela designa a Wilmer Barrientos como nuevo cónsul general en República Dominicana]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/10/21/wilmer-omar-barrientos-fernandez-es-consul-en-republica-dominicana/3696312</link>
+    <description><![CDATA[Venezuela ha nombrado a Wilmer Omar Barrientos Fernández como nuevo cónsul general en la República Dominicana, según la Gaceta Oficial de Venezuela.
+
+Este nombramiento se produce en el contexto de la normalización de las relaciones diplomáticas y consulares entre ambos países, anunciada en agosto tras un diálogo entre sus autoridades.
+
+Barrientos, militar y político venezolano, fue embajador en Egipto durante ocho años y ha ocupado cargos como ministro del Despacho de la Presidencia y Seguimiento de la Gestión Pública y ministro de Industrias.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792618456/noticias/articles/20261021_213416_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 21 Oct 2026 21:34:53 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261021213453</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Papa León XIV no necesitará más tratamiento tras extirpación de cáncer pulmonar]]></title>
     <link>https://www.diariolibre.com/mundo/europa/2026/10/21/el-papa-leon-xiv-no-necesitara-tratamiento-adicional-contra-el-cancer/3696243</link>
     <description><![CDATA[El papa León XIV no requerirá más tratamiento tras la extirpación de un cáncer de pulmón. Los exámenes confirmaron que era un adenocarcinoma localizado. Operado el 13 de octubre, el pontífice ya ha retomado sus actividades y se prepara para un viaje a Latinoamérica en noviembre.]]></description>
@@ -1342,17 +1355,6 @@ Para más información, la población puede consultar el portal web y las redes 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792245653/noticias/articles/20261017_140052_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 17 Oct 2026 14:01:22 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261017140122</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[CONANI: Adolescente que raptó a niño en Los Tres Brazos padece condición de salud mental]]></title>
-    <link>https://elnacional.com.do/nacionales/conani-adolescente-rapto-nino-tres-brazos-padece-condicion-salud-mental_583679.html</link>
-    <description><![CDATA[El Consejo Nacional para la Niñez y la Adolescencia (CONANI) ha revelado que la adolescente de 13 años que raptó a un niño en Los Tres Brazos padece de una condición de salud mental. La joven se llevó al pequeño Sammy Ciprián Gabriel sin consentimiento, pero fue recuperado al día siguiente.
-
-La adolescente había salido sin autorización de un centro de CONANI, donde estaba ingresada por una vulneración de sus derechos en el entorno familiar. Fue localizada junto al niño en el barrio Capotillo, Santo Domingo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792245483/noticias/articles/20261017_135802_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 17 Oct 2026 13:58:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261017135833</guid>
   </item>
 </channel>
 </rss>
