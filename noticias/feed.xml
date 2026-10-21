@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 21 Oct 2026 00:22:49 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 00:24:07 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Extraditan a RD sospechoso de matar a conductor de camión recolector de basura en Santiago]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/10/20/jhovanny-de-jesus-metz-cruz-llega-al-pais-por-muerte-de-conductor/3694929</link>
+    <description><![CDATA[Jhovanny de Jesús Metz Cruz, conocido como "Macho", llegó a República Dominicana extraditado desde Jamaica. Es sospechoso de la muerte de Deivy Carlos Abreu Quezada, conductor de un camión recolector de basura, quien fue atacado por motoristas en Santiago.
+
+El incidente ocurrió en abril, cuando el conductor fue perseguido y atacado con un arma blanca en el parqueo del Palacio de Justicia de Santiago. Siete personas están en prisión preventiva por este caso.
+
+Metz Cruz también enfrenta cargos por una agresión con armas de fuego contra un policía, por lo cual está en rebeldía.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792542218/noticias/articles/20261021_002338_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 21 Oct 2026 00:24:07 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261021002407</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Migración levanta impedimentos de salida a 56,140 ciudadanos sin sustento legal por orden de la PGR]]></title>
     <link>https://www.diariolibre.com/actualidad/justicia/2026/10/20/migracion-levanta-impedimentos-de-salida-a-56140-ciudadanos/3695275</link>
     <description><![CDATA[La Procuraduría General de la República ha solicitado a la Dirección General de Migración levantar impedimentos de salida y alertas migratorias a ciudadanos sin sustento judicial. Esta acción forma parte de un proceso de depuración de registros acumulados desde 1990, beneficiando a 56,140 ciudadanos.
@@ -1326,19 +1339,6 @@ El caso será remitido a un tribunal colegiado para su nuevo inicio, según info
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792159731/noticias/articles/20261016_140851_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 16 Oct 2026 14:09:36 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261016140936</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Los Brewers barrieron a Dodgers y alcanzaron la Serie Mundial por primera vez desde 1982]]></title>
-    <link>https://listindiario.com/el-deporte/beisbol/20261015/brewers-barrieron-dodgers-alcanzaron-serie-mundial-primera-vez-1982_926382.html</link>
-    <description><![CDATA[Los Cerveceros de Milwaukee han logrado un hito al alcanzar la Serie Mundial por primera vez desde 1982, tras barrer a los Dodgers de Los Ángeles.
-
-Garrett Mitchell fue clave al conectar un jonrón en la sexta entrada, mientras que David Hamilton aseguró la victoria con otro cuadrangular en la novena.
-
-Los Brewers remontaron un marcador adverso de 4-0, después de que Shohei Ohtani pusiera a los Dodgers al frente con su primer jonrón en la postemporada.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792159618/noticias/articles/20261016_140658_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 16 Oct 2026 14:07:45 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261016140745</guid>
   </item>
 </channel>
 </rss>
