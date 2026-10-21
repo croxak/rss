@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 20 Oct 2026 19:51:04 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 00:22:49 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Migración levanta impedimentos de salida a 56,140 ciudadanos sin sustento legal por orden de la PGR]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/10/20/migracion-levanta-impedimentos-de-salida-a-56140-ciudadanos/3695275</link>
+    <description><![CDATA[La Procuraduría General de la República ha solicitado a la Dirección General de Migración levantar impedimentos de salida y alertas migratorias a ciudadanos sin sustento judicial. Esta acción forma parte de un proceso de depuración de registros acumulados desde 1990, beneficiando a 56,140 ciudadanos.
+
+La revisión fue realizada por una mesa técnica del Ministerio Público y Migración, que identificó registros sin respaldo judicial, incluidos casos concluidos y errores administrativos. La procuradora Yeni Berenice Reynoso pidió priorizar el levantamiento de registros sin base legal, históricos sin identificación adecuada y aquellos con restricciones cumplidas.
+
+Un nuevo sistema de interoperabilidad se implementará en diciembre de 2026 para mejorar la gestión de impedimentos de salida.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792542099/noticias/articles/20261021_002139_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 21 Oct 2026 00:22:49 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261021002249</guid>
+  </item>
+
+  <item>
     <title><![CDATA[La brasileña Gol suspenderá sus vuelos a Punta Cana por alza de combustible]]></title>
     <link>https://www.arecoa.com/aerolineas/2026/10/20/la-brasilena-gol-suspendera-sus-vuelos-a-punta-cana-por-alza-de-combustible/</link>
     <description><![CDATA[Gol Linhas Aéreas anunció la suspensión de varias rutas internacionales hacia Estados Unidos y el Caribe debido al aumento del precio del combustible. A partir de febrero de 2027, se suspenderán los vuelos desde Brasília, Fortaleza y Belém hacia Miami y Orlando, así como la ruta de São Paulo-Guarulhos a Punta Cana.
@@ -1326,17 +1339,6 @@ Los Brewers remontaron un marcador adverso de 4-0, después de que Shohei Ohtani
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792159618/noticias/articles/20261016_140658_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 16 Oct 2026 14:07:45 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261016140745</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Juez varía la calificación jurídica en caso Jet Set y expone a los Espaillat a 20 años de cárcel]]></title>
-    <link>https://eldia.com.do/caso-jet-set-juez-varia-la-calificacion-juridica-a-homicidio-por-dolo-eventual/</link>
-    <description><![CDATA[El juez Franny González ha decidido cambiar la calificación jurídica del caso Jet Set a "homicidio por dolo eventual". Esta nueva calificación podría resultar en una condena de 3 a 20 años para los propietarios de la discoteca, Antonio y Maribel Espaillat.
-
-La decisión se fundamenta en informes técnicos y testimonios que revelaron una sobrecarga del techo, así como en los aportes del jurista Francisco Muñoz Conde. El caso será trasladado a un tribunal colegiado de la Cámara Penal del Distrito Nacional para un nuevo juicio.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792159361/noticias/articles/20261016_140240_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 16 Oct 2026 14:03:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261016140314</guid>
   </item>
 </channel>
 </rss>
