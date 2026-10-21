@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 21 Oct 2026 00:46:38 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 04:24:16 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Policía ultima en San Juan a acusado de matar sargento en Villa Mella la noche del domingo]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/20/policia-mata-en-san-juan-a-randy-tejada-valdez/3695349</link>
+    <description><![CDATA[Randy Tejada Valdez, conocido como Randy y/o El Cojo, fue ultimado por agentes de la Dirección Central de Investigación (Dicrim) en Villa Liberación, San Juan. Tejada Valdez estaba acusado de la muerte del sargento mayor Pedro Luis Guerrero Ibis, quien fue asesinado durante un asalto en Santo Domingo Norte.
+
+Además, Tejada Valdez era buscado por su presunta participación en la muerte del oficial retirado Desiderio Pantaleón Ureña. Durante el operativo, las autoridades ocuparon una pistola y un arma de fabricación artesanal.
+
+La Policía Nacional continúa la búsqueda de los demás implicados en la muerte del sargento mayor Guerrero Ibis.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792556595/noticias/articles/20261021_042315_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 21 Oct 2026 04:24:16 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261021042416</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Detienen a dos dominicanos y a un chino con cocaína valorada en US$5.5 millones en Puerto Rico]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261021004638</link>
     <description><![CDATA[Dos ciudadanos dominicanos y uno chino fueron detenidos por la Guardia Costera de Estados Unidos tras la incautación de un cargamento de 489 libras de cocaína, equivalentes a unos 222 kilogramos, valorado en aproximadamente 5.5 millones de dólares, durante una operación marítima al norte de Isabela, Puerto Rico.
@@ -1332,19 +1345,6 @@ Las autoridades también instruyeron mantener los procedimientos de verificació
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792160958/noticias/articles/20261016_142918_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 16 Oct 2026 14:29:53 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261016142953</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Wilson Camacho sobre caso Jet Set: “Estamos más que listos” para el nuevo juicio]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/10/16/wilson-camacho-listo-para-nuevo-juicio-del-caso-jet-set-2145482/</link>
-    <description><![CDATA[Wilson Camacho, director de Persecución de la Procuraduría General de la República, declaró que el Ministerio Público está listo para el nuevo juicio del caso Jet Set. La decisión del tribunal de variar la calificación jurídica ha llevado el proceso a un tribunal colegiado.
-
-Camacho manifestó confianza en las pruebas y acusaciones del Ministerio Público, defendiendo la calidad de la investigación. El juicio comenzará nuevamente, y el expediente será enviado a la coordinación de los tribunales colegiados para determinar cuál conocerá el caso.
-
-El juez Franny González acogió el cambio de calificación a homicidio por dolo eventual y golpes y heridas voluntarios en el proceso contra Antonio y Maribel Espaillat.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792160243/noticias/articles/20261016_141723_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 16 Oct 2026 14:20:50 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261016142050</guid>
   </item>
 </channel>
 </rss>
