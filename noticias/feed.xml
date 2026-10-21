@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 21 Oct 2026 04:24:16 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 04:26:45 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Yipeta con 17 haitianos a bordo choca contra poste eléctrico en Montecristi]]></title>
+    <link>https://elnuevodiario.com.do/yipeta-con-17-haitianos-a-bordo-choca-contra-poste-electrico-en-montecristi/</link>
+    <description><![CDATA[Una yipeta en la que viajaban 17 ciudadanos haitianos sufrió un accidente en la carretera que conecta con Castañuelas, Montecristi. El vehículo se deslizó e impactó contra un poste eléctrico.
+
+Hasta el momento, no se han determinado las circunstancias del accidente ni se ha informado sobre posibles heridos o fallecidos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792556776/noticias/articles/20261021_042615_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 21 Oct 2026 04:26:45 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261021042645</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía ultima en San Juan a acusado de matar sargento en Villa Mella la noche del domingo]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/20/policia-mata-en-san-juan-a-randy-tejada-valdez/3695349</link>
     <description><![CDATA[Randy Tejada Valdez, conocido como Randy y/o El Cojo, fue ultimado por agentes de la Dirección Central de Investigación (Dicrim) en Villa Liberación, San Juan. Tejada Valdez estaba acusado de la muerte del sargento mayor Pedro Luis Guerrero Ibis, quien fue asesinado durante un asalto en Santo Domingo Norte.
@@ -1326,25 +1337,6 @@ Fuente: El Nacional - Ronny Mateo]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792161142/noticias/articles/20261016_143221_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 16 Oct 2026 14:34:21 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261016143421</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Haití flexibiliza restricciones a mercancías en tránsito por RD para zonas francas CODEVI y Caracol y embarques anteriores a la medida]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261016142953</link>
-    <description><![CDATA[La Administración General de Aduanas de Haití (AGD) anunció nuevas disposiciones especiales y transitorias que flexibilizan las restricciones al ingreso de mercancías que transitan por República Dominicana, estableciendo excepciones para las zonas francas CODEVI y Caracol, así como para cargamentos embarcados antes de la publicación de la medida.
-
-Mediante un aviso fechado el 14 de octubre de 2026, las autoridades haitianas informaron que, siguiendo instrucciones del Ministerio de Economía y Finanzas, las oficinas aduaneras fronterizas podrán recibir excepcionalmente contenedores destinados a empresas subcontratistas del Parque Industrial de Caracol y de la zona franca CODEVI, transportados a través de la oficina fronteriza más cercana.
-
-La disposición también autoriza el ingreso de mercancías cuyos conocimientos de embarque demuestren que fueron embarcadas antes de la publicación de la circular n.º 001 del 30 de septiembre de 2026, independientemente de que estén destinadas o no a las mencionadas zonas francas.
-
-Esta segunda excepción permite que cargamentos despachados antes de las restricciones puedan ingresar a territorio haitiano, siempre que se acredite documentalmente su fecha de embarque.
-
-Sin embargo, la Administración General de Aduanas aclaró que estas disposiciones no representan una suspensión general ni una derogación de la circular original, sino excepciones específicas autorizadas por el Ministerio de Economía y Finanzas.
-
-Las autoridades también instruyeron mantener los procedimientos de verificación, vigilancia y controles aduaneros correspondientes para evitar irregularidades o intentos de eludir la normativa vigente.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792160958/noticias/articles/20261016_142918_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 16 Oct 2026 14:29:53 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261016142953</guid>
   </item>
 </channel>
 </rss>
