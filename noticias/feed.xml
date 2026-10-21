@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 21 Oct 2026 14:41:31 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 14:43:48 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Cae abatido “Frederick el Haitiano” tras presunto enfrentamiento con la PN en Puerto Plata]]></title>
+    <link>https://elnuevodiario.com.do/cae-abatido-frederick-el-haitiano-tras-presunto-enfrentamiento-con-la-pn-en-puerto-plata/</link>
+    <description><![CDATA[Fue identificado como “Frederick el Haitiano” el hombre que falleció tras un presunto enfrentamiento con la Policía Nacional en la Sierra de Los Hidalgos, Puerto Plata.
+
+El fallecido era señalado por su presunta vinculación con el robo de más de 20 motocicletas, que supuestamente eran trasladadas hacia Haití. Las autoridades investigan las circunstancias del hecho.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792593802/noticias/articles/20261021_144321_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 21 Oct 2026 14:43:48 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261021144348</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Arrestan al director de un distrito municipal de La Vega por posesión de armas sin permisos]]></title>
     <link>https://www.diariolibre.com/actualidad/justicia/2026/10/21/arrestan-al-director-de-la-junta-distrital-de-rincon/3695783</link>
     <description><![CDATA[Enmanuel Ramírez, director de la junta distrital de Rincón en La Vega, fue arrestado tras un allanamiento en su residencia. Las autoridades encontraron armas de fuego y municiones sin permisos.
@@ -1324,17 +1335,6 @@ Edesur exhorta a la ciudadanía a denunciar fraudes eléctricos utilizando los c
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792173831/noticias/articles/20261016_180351_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 16 Oct 2026 18:04:27 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261016180427</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Trump despide a Katie Zacharia como secretaria de Prensa de la Casa Blanca, dicen asesores]]></title>
-    <link>https://cnnespanol.cnn.com/2026/10/16/eeuu/trump-zacharia-reconside-secretaria-de-prensa-trax</link>
-    <description><![CDATA[El presidente Donald Trump ha destituido a Katie Zacharia de su cargo de secretaria de Prensa de la Casa Blanca, según informaron asesores del mandatario. Zacharia había asumido el cargo hace apenas una semana.
-
-Trump había comentado a Zacharia que reconsiderara su puesto, sugiriendo que no era la persona adecuada para ser su portavoz. Zacharia había llamado la atención de Trump como comentarista conservadora en televisión, pero su falta de experiencia se hizo evidente rápidamente.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792173310/noticias/articles/20261016_175509_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 16 Oct 2026 17:55:35 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261016175535</guid>
   </item>
 </channel>
 </rss>
