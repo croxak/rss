@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 21 Oct 2026 14:38:28 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 14:41:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Arrestan al director de un distrito municipal de La Vega por posesión de armas sin permisos]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/10/21/arrestan-al-director-de-la-junta-distrital-de-rincon/3695783</link>
+    <description><![CDATA[Enmanuel Ramírez, director de la junta distrital de Rincón en La Vega, fue arrestado tras un allanamiento en su residencia. Las autoridades encontraron armas de fuego y municiones sin permisos.
+
+Entre las armas incautadas se encuentran un rifle y una escopeta marca Winchester, además de municiones de varios calibres y un juego de grilletes.
+
+El Ministerio Público planea solicitar prisión preventiva para Ramírez.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792593652/noticias/articles/20261021_144052_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 21 Oct 2026 14:41:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261021144131</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Adán Peguero y su equipo político anuncian su apoyo a aspiraciones de Carolina Mejía en PRM]]></title>
     <link>https://7dias.com.do/2026/10/21/adan-peguero-y-su-equipo-politico-anuncian-su-apoyo-a-aspiraciones-de-carolina-mejia-en-prm/</link>
     <description><![CDATA[Adán Peguero, presidente del PRM en Santo Domingo Este, ha decidido respaldar las aspiraciones presidenciales de Carolina Mejía, alcaldesa del Distrito Nacional, para los comicios de 2028.
@@ -1322,19 +1335,6 @@ Trump había comentado a Zacharia que reconsiderara su puesto, sugiriendo que no
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792173310/noticias/articles/20261016_175509_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 16 Oct 2026 17:55:35 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261016175535</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Avería afecta plataforma de Migración; trabajan en habilitar el e-ticket]]></title>
-    <link>https://www.diariolibre.com/actualidad/nacional/2026/10/16/averia-afecta-plataforma-de-migracion-trabajan-habilitacion-e-ticket/3691182</link>
-    <description><![CDATA[La Dirección General de Migración (DGM) informó sobre una avería interna que afectó temporalmente su plataforma tecnológica y servicios en línea. Los servicios fueron restablecidos a las 7:00 de la mañana, pero continúan trabajando en la habilitación del e-ticket.
-
-Durante la incidencia, los servicios de control migratorio y el flujo de viajeros se mantuvieron operativos. Los equipos técnicos trabajan para prevenir futuras interrupciones.
-
-Migración lamentó los inconvenientes y aseguró que mantendrá informada a la ciudadanía sobre los avances.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792173112/noticias/articles/20261016_175152_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 16 Oct 2026 17:52:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261016175230</guid>
   </item>
 </channel>
 </rss>
