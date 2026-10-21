@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 21 Oct 2026 13:45:35 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 13:52:39 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Fuerza de Supresión de Pandillas continúa la búsqueda de cuatro militares salvadoreños en Haití]]></title>
+    <link>https://www.diariolibre.com/mundo/haiti/2026/10/20/fuerza-de-supresion-continua-la-busqueda-de-militares-en-haiti/3695290</link>
+    <description><![CDATA[La Fuerza de Supresión de Pandillas (FSP) sigue buscando a cuatro militares salvadoreños desaparecidos en Haití tras una emboscada en Santo, Croix-des-Bouquets. El vehículo de los militares fue incendiado.
+
+Desde el domingo, la FSP realiza operaciones en el área, enfrentándose a hombres armados de una pandilla. Varios pandilleros han muerto y otros resultaron heridos. Cuatro miembros de la FSP también sufrieron heridas y reciben atención médica.
+
+El medio AmeriqueInfo7 reporta que al menos ocho presuntos pandilleros fueron abatidos. La FSP agradeció al Gobierno de El Salvador por su apoyo y exhortó a los residentes a evitar las zonas de operación.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792590734/noticias/articles/20261021_135214_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 21 Oct 2026 13:52:39 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261021135239</guid>
+  </item>
+
+  <item>
     <title><![CDATA[JCE eliminará las citas en varias oficinas del exterior para renovar la cédula desde noviembre]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/10/21/jce-eliminara-las-citas-en-varias-oficinas-del-exterior-para-renovar-la-cedula-desde-noviembre-2149652/</link>
     <description><![CDATA[La Junta Central Electoral (JCE) cambiará el sistema de atención para la renovación de cédulas en varias oficinas del exterior desde el 2 de noviembre. En algunas oficinas, se eliminarán las citas previas y se atenderá por orden de llegada, con un límite de turnos según la capacidad operativa.
@@ -1324,19 +1337,6 @@ Se han implementado subsidios para semillas y fertilizantes, financiamiento pref
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792173034/noticias/articles/20261016_175034_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 16 Oct 2026 17:51:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261016175106</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El papa León XIV mejora y recupera su autonomía tras la operación de pulmón]]></title>
-    <link>https://www.diariolibre.com/mundo/europa/2026/10/16/papa-leon-xiv-mejora-y-recupera-su-autonomia-tras-la-operacion/3690983</link>
-    <description><![CDATA[El papa León XIV se recupera favorablemente tras una operación para extirpar un tumor maligno en el pulmón derecho. Según el Vaticano, el pontífice ya realiza sus actividades cotidianas con autonomía.
-
-La cirugía, realizada el 13 de octubre, fue exitosa y sin complicaciones. Los médicos han confirmado una evolución positiva en su estado de salud.
-
-Las audiencias presenciales del papa han sido suspendidas hasta el 20 de octubre. Su viaje a Uruguay, Argentina y Perú, previsto para noviembre, aún no ha sido cancelado.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792162592/noticias/articles/20261016_145631_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 16 Oct 2026 14:57:04 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261016145704</guid>
   </item>
 </channel>
 </rss>
