@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 21 Oct 2026 14:43:48 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 14:46:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Más de 30 comercios chinos intervenidos por irregularidades sanitarias y comerciales]]></title>
+    <link>https://eldia.com.do/mas-de-30-comercios-chinos-intervenidos-por-irregularidades-sanitarias-y-comerciales/</link>
+    <description><![CDATA[Hoy, más de 30 comercios de origen chino en Santo Domingo fueron intervenidos por presuntas violaciones a las normas sanitarias y comerciales.
+
+Las irregularidades detectadas incluyen la venta de productos no aptos para el consumo humano y la falta de registros sanitarios. Pro Consumidor está evaluando las sanciones correspondientes.
+
+Las intervenciones continuarán en todo el país para asegurar el cumplimiento de las normas comerciales.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792593936/noticias/articles/20261021_144536_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 21 Oct 2026 14:46:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261021144614</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Cae abatido “Frederick el Haitiano” tras presunto enfrentamiento con la PN en Puerto Plata]]></title>
     <link>https://elnuevodiario.com.do/cae-abatido-frederick-el-haitiano-tras-presunto-enfrentamiento-con-la-pn-en-puerto-plata/</link>
     <description><![CDATA[Fue identificado como “Frederick el Haitiano” el hombre que falleció tras un presunto enfrentamiento con la Policía Nacional en la Sierra de Los Hidalgos, Puerto Plata.
@@ -1324,17 +1337,6 @@ Las autoridades incautaron dos pistolas, cargadores, municiones, RD$85,000 en ef
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792175110/noticias/articles/20261016_182509_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 16 Oct 2026 18:25:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261016182558</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Hombre es detenido en operativo de Edesur cuando realizaba conexiones ilegales]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/10/16/edesur-detiene-hombre-por-conexiones-electricas-ilegales-2145573/</link>
-    <description><![CDATA[Un hombre fue detenido en Santo Domingo Oeste por Edesur mientras realizaba conexiones eléctricas ilegales. El incidente tuvo lugar en la avenida Las Palmas, sector Herrera, y el detenido fue trasladado a la Procuraduría Adjunta para el Sistema Eléctrico.
-
-Edesur exhorta a la ciudadanía a denunciar fraudes eléctricos utilizando los canales disponibles, como su Call Center, sitio web y redes sociales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792173831/noticias/articles/20261016_180351_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 16 Oct 2026 18:04:27 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261016180427</guid>
   </item>
 </channel>
 </rss>
