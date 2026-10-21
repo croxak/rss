@@ -7,14 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 21 Oct 2026 21:26:48 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 21:33:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Papa León XIV no necesitará más tratamiento tras extirpación de cáncer pulmonar]]></title>
+    <link>https://www.diariolibre.com/mundo/europa/2026/10/21/el-papa-leon-xiv-no-necesitara-tratamiento-adicional-contra-el-cancer/3696243</link>
+    <description><![CDATA[El papa León XIV no requerirá más tratamiento tras la extirpación de un cáncer de pulmón. Los exámenes confirmaron que era un adenocarcinoma localizado. Operado el 13 de octubre, el pontífice ya ha retomado sus actividades y se prepara para un viaje a Latinoamérica en noviembre.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792618343/noticias/articles/20261021_213223_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 21 Oct 2026 21:33:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261021213309</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Bukele da un ultimátum a las pandillas de Haití para que liberen a militares salvadoreños]]></title>
     <link>https://www.excelsior.com.mx/internacional/bukele-da-ultimatum-pandillas-haiti-para-que-liberen-militares-salvadorenos</link>
     <description><![CDATA[El presidente salvadoreño Nayib Bukele ha lanzado un ultimátum a las pandillas de Haití, exigiendo la liberación de cuatro militares salvadoreños secuestrados. Estos militares, parte de una misión respaldada por la ONU, fueron atacados cerca de Puerto Príncipe.
@@ -1344,19 +1353,6 @@ La adolescente había salido sin autorización de un centro de CONANI, donde est
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792245483/noticias/articles/20261017_135802_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 17 Oct 2026 13:58:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261017135833</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Puerto Rico solicita formalmente convertirse en estado de EE. UU.]]></title>
-    <link>https://www.diariolibre.com/mundo/caribe/2026/10/16/puerto-rico-pide-su-admision-como-estado-de-estados-unidos/3691643</link>
-    <description><![CDATA[La gobernadora de Puerto Rico, Jenniffer González, firmó una resolución solicitando al presidente Donald Trump y al Congreso de EE. UU. la admisión de la isla como estado. Esta acción busca honrar la voluntad expresada en referendos no vinculantes.
-
-El Partido Nuevo Progresista, liderado por González, defiende la estadidad, mientras que otros partidos abogan por mantener el estatus actual o por la independencia. González destacó que esta petición oficial es un mecanismo distinto a esfuerzos anteriores y subrayó la contribución de los puertorriqueños al desarrollo de EE. UU.
-
-El Congreso debe decidir sobre esta solicitud.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792245354/noticias/articles/20261017_135553_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 17 Oct 2026 13:56:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261017135619</guid>
   </item>
 </channel>
 </rss>
