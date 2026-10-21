@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 21 Oct 2026 00:24:07 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 00:29:58 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[CNM pospone reunión de deliberación debido a compromisos en la agenda de Abinader]]></title>
+    <link>https://listindiario.com/la-republica/justicia/20261020/cn-pospone-reunion-deliberacion-debido-compromisos-agenda-abinader_926914.html</link>
+    <description><![CDATA[El Consejo Nacional de la Magistratura ha decidido posponer su reunión de deliberación debido a compromisos en la agenda del presidente Luis Abinader. La nueva fecha será anunciada próximamente.
+
+En esta reunión, el CNM deberá elegir a seis nuevos jueces para la Suprema Corte de Justicia y decidir quién presidirá el órgano y el Consejo del Poder Judicial. Además, se seleccionarán los jueces que ocuparán las funciones de primer y segundo sustituto del presidente.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792542569/noticias/articles/20261021_002928_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 21 Oct 2026 00:29:58 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261021002958</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Extraditan a RD sospechoso de matar a conductor de camión recolector de basura en Santiago]]></title>
     <link>https://www.diariolibre.com/actualidad/justicia/2026/10/20/jhovanny-de-jesus-metz-cruz-llega-al-pais-por-muerte-de-conductor/3694929</link>
     <description><![CDATA[Jhovanny de Jesús Metz Cruz, conocido como "Macho", llegó a República Dominicana extraditado desde Jamaica. Es sospechoso de la muerte de Deivy Carlos Abreu Quezada, conductor de un camión recolector de basura, quien fue atacado por motoristas en Santiago.
@@ -1326,19 +1337,6 @@ El primer incidente ocurrió durante un bautismo en San Francisco de Macorís, d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792160003/noticias/articles/20261016_141323_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 16 Oct 2026 14:13:51 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261016141351</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Caso Jet Set comenzará desde cero tras decisión de enviar proceso a un tribunal colegiado]]></title>
-    <link>https://n.com.do/2026/10/16/caso-jet-set-comenzara-desde-cero-tras-decision-de-enviar-proceso-a-un-tribunal-colegiado/</link>
-    <description><![CDATA[El juicio contra Antonio y Maribel Espaillat, propietarios de la discoteca Jet Set, comenzará desde cero. El juez Franny González Castillo decidió cambiar la calificación jurídica de los hechos relacionados con el desplome del techo del establecimiento.
-
-La tragedia ocurrió el 8 de abril de 2025, dejando 236 personas fallecidas y 183 heridas. La nueva calificación busca juzgar los hechos bajo la figura del dolo eventual, en lugar de homicidio involuntario.
-
-El caso será remitido a un tribunal colegiado para su nuevo inicio, según informó el magistrado a las partes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792159731/noticias/articles/20261016_140851_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 16 Oct 2026 14:09:36 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261016140936</guid>
   </item>
 </channel>
 </rss>
