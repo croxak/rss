@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 21 Oct 2026 21:34:53 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 21 Oct 2026 21:45:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Senado aprueba de urgencia reforma al Código Penal y fija entrada en vigor para noviembre de 2028]]></title>
+    <link>https://acento.com.do/actualidad/senado-aprueba-de-urgencia-reforma-al-codigo-penal-y-fija-entrada-en-vigor-para-noviembre-de-2028-9774815.html</link>
+    <description><![CDATA[El Senado de la República Dominicana aprobó de urgencia una reforma al Código Penal, que entrará en vigor en noviembre de 2028. La propuesta, presentada por el senador Rafael Barón Duluc Rijo, busca establecer un período de adecuación para las personas jurídicas.
+
+Durante la sesión, también se aprobaron proyectos para modificar el uso de medios digitales en el Poder Judicial, designar nombres a edificios y estadios, y sancionar varios acuerdos internacionales.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792619015/noticias/articles/20261021_214334_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 21 Oct 2026 21:45:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261021214504</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Venezuela designa a Wilmer Barrientos como nuevo cónsul general en República Dominicana]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/10/21/wilmer-omar-barrientos-fernandez-es-consul-en-republica-dominicana/3696312</link>
     <description><![CDATA[Venezuela ha nombrado a Wilmer Omar Barrientos Fernández como nuevo cónsul general en la República Dominicana, según la Gaceta Oficial de Venezuela.
@@ -1342,19 +1353,6 @@ El joven explicó que su fuga fue motivada por la desesperación tras enterarse 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792245789/noticias/articles/20261017_140309_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 17 Oct 2026 14:03:54 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261017140354</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Indomet prevé escasas lluvias y temperaturas calurosas en gran parte del país]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/10/17/indomet-preve-escasas-lluvias-y-calor-en-gran-parte-del-pais-2146300/</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informa que se esperan escasas lluvias y temperaturas calurosas en gran parte del país debido a una masa de aire con menor humedad. Sin embargo, chubascos aislados podrían ocurrir en algunas provincias durante la tarde.
-
-Las temperaturas máximas estarán entre 31 °C y 35 °C. Indomet recomienda hidratarse, usar ropa ligera y evitar el sol directo entre las 11:00 a.m. y las 4:00 p.m. Se debe prestar especial atención a niños, adultos mayores y mujeres embarazadas.
-
-Para más información, la población puede consultar el portal web y las redes sociales de Indomet.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792245653/noticias/articles/20261017_140052_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 17 Oct 2026 14:01:22 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261017140122</guid>
   </item>
 </channel>
 </rss>
