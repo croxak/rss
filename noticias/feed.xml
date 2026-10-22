@@ -7,14 +7,35 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 22 Oct 2026 13:37:07 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 13:43:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Confirman condena de 20 años por drogas y armas en Pensilvania contra hombre que había huido a RD]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261022134304</link>
+    <description><![CDATA[El Tribunal de Apelaciones del Tercer Circuito de Estados Unidos confirmó la condena de Euddy Izquierdo, sentenciado a 20 años de prisión por delitos de drogas y armas en Pensilvania, en un caso cuya investigación documentó su fuga a República Dominicana.
+
+La resolución, emitida el 21 de octubre, rechazó los argumentos con los que Izquierdo buscaba impugnar su condena, incluidos cuestionamientos sobre los registros realizados por las autoridades, sus declaraciones ante los agentes y las pruebas relacionadas con un arma de fuego.
+
+Según el fallo, la investigación comenzó a finales de 2021, cuando agentes de la Administración para el Control de Drogas, conocida como DEA, observaron sus actividades en el sector Kensington, en Filadelfia. Posteriormente, las autoridades registraron con su consentimiento un automóvil y un inmueble utilizado para almacenar y preparar drogas.
+
+La fiscalía federal informó que en el apartamento encontraron fentanilo, un análogo de esa sustancia, heroína, crack y cocaína, además de una pistola de nueve milímetros cargada. Izquierdo admitió ante los agentes que alquilaba el lugar para guardar y empacar las sustancias que vendía en Kensington.
+
+La decisión de apelación señala que posteriormente huyó a República Dominicana, donde fue arrestado y llevado de regreso a Estados Unidos por los US Marshals.
+
+Un jurado federal lo declaró culpable el 18 de junio de 2024. El 12 de noviembre de ese año, el juez Juan R. Sánchez le impuso 240 meses de prisión, equivalentes a 20 años, seguidos de diez años de libertad supervisada.
+
+Al momento de los hechos, Izquierdo cumplía un período de libertad supervisada por una condena federal anterior relacionada con drogas, circunstancia que también le impedía poseer legalmente un arma de fuego.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792676514/noticias/articles/20261022_134154_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 22 Oct 2026 13:43:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261022134304</guid>
+  </item>
+
+  <item>
     <title><![CDATA[“Los Mellos” caen abatidos durante operativo policial en Mendoza, Santo Domingo Este]]></title>
     <link>https://elnacional.com.do/nacionales/policiales/mellos-caen-abatidos-operativo-policial-mendoza-santo-domingo_584078.html</link>
     <description><![CDATA[Dos hermanos adolescentes, conocidos como “Los Mellos”, murieron en un operativo policial en la calle Duarte, sector Mendoza, Santo Domingo Este. Eran señalados por presuntos robos, asaltos y amenazas contra residentes de la comunidad.
@@ -1326,17 +1347,6 @@ No obstante, su única relación con esas empresas, que generan considerables in
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792342953/noticias/articles/20261018_170233_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 18 Oct 2026 17:04:01 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261018170401</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Morel Diplán se convierte en el arzobispo número 51 de Santo Domingo y Primado de América]]></title>
-    <link>https://eldia.com.do/morel-diplan-se-convierte-en-el-arzobispo-numero-51-de-santo-domingo-y-primado-de-america/</link>
-    <description><![CDATA[Monseñor Carlos Tomás Morel Diplán ha sido nombrado como el nuevo arzobispo de Santo Domingo, sucediendo a monseñor Francisco Ozoria Acosta tras la aceptación de su renuncia por el papa León XIV. Morel Diplán ya había realizado la toma de posesión canónica como arzobispo coadjutor, por lo que asume automáticamente sus funciones.
-
-El papa León XIV también aceptó la dimisión de Ozoria Acosta como ordinario militar, designando a Morel Diplán para esta función. Se espera el anuncio de la ceremonia que marcará el inicio de su ministerio en el Ordinariato Castrense.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792342164/noticias/articles/20261018_164923_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 18 Oct 2026 16:50:26 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261018165026</guid>
   </item>
 </channel>
 </rss>
