@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 21 Oct 2026 23:24:42 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 03:51:47 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Gobierno dispone extradición de dominicano a EEUU por cargos de asesinato y narcotráfico]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/10/22/gobierno-dispone-extradicion-de-dominicano-a-eeuu-por-cargos-de-asesinato-y-narcotrafico-2150552/</link>
+    <description><![CDATA[El Gobierno dominicano extraditará a Felicito Celestino Mercedes a Estados Unidos. Mercedes es requerido por la justicia estadounidense por cargos de asesinato intencional y vínculos con el narcotráfico.
+
+La medida se formaliza mediante el decreto 740-26 y se basa en el tratado de extradición entre República Dominicana y Estados Unidos. Mercedes enfrenta acusaciones de instigación y participación en asesinatos relacionados con una asociación delictiva dedicada al tráfico de cocaína.
+
+La extradición está condicionada al cumplimiento de las garantías del tratado bilateral.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792641032/noticias/articles/20261022_035031_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 22 Oct 2026 03:51:47 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261022035147</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno de Haití confirma secuestro de militares salvadoreños y anuncia operaciones para liberarlos]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261021232442</link>
     <description><![CDATA[El Gobierno de Haití confirmó este miércoles que varios militares salvadoreños fueron secuestrados el pasado domingo 18 de octubre en territorio haitiano y anunció que las fuerzas de seguridad mantienen operaciones para lograr su liberación.
@@ -1344,19 +1357,6 @@ Durante las intervenciones, se requisaron 128 puntos de venta de sustancias narc
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792283441/noticias/articles/20261018_003041_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 18 Oct 2026 00:31:09 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261018003109</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[LIDOM inaugura su temporada 73 con tres partidos y homenaje a Héctor José Rizek]]></title>
-    <link>https://eldia.com.do/lidom-inaugura-su-temporada-73-con-tres-partidos-y-homenaje-a-hector-jose-rizek/</link>
-    <description><![CDATA[La Liga de Béisbol Profesional de la República Dominicana (LIDOM) dio inicio a su temporada 73 con una ceremonia en San Francisco de Macorís. El campeonato está dedicado a Héctor José Rizek Llabaly.
-
-Los Leones del Escogido, actuales bicampeones, comenzaron su defensa del título enfrentando a los Tigres del Licey. Las Estrellas Orientales jugaron contra los Toros del Este en La Romana.
-
-La serie regular contará con 150 partidos y finalizará el 22 de diciembre. Los cuatro mejores equipos avanzarán a la semifinal. El campeón de la Copa Banreservas representará al país en la Serie del Caribe de 2027.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792283095/noticias/articles/20261018_002455_article.webp" type="image/webp"/>
-    <pubDate>Sun, 18 Oct 2026 00:28:25 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261018002825</guid>
   </item>
 </channel>
 </rss>
