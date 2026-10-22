@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 22 Oct 2026 03:58:54 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 04:10:56 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Lluvias inundan avenidas de Santiago y dificultan el tránsito]]></title>
+    <link>https://elnuevodiario.com.do/lluvias-inundan-avenidas-de-santiago-y-dificultan-el-transito/</link>
+    <description><![CDATA[Las fuertes lluvias en Santiago de los Caballeros han causado inundaciones en varias vías, complicando el tránsito vehicular. Las avenidas 27 de Febrero y Estrella Sadhalá, así como la 27 de Febrero con Jesús de Galíndez, son algunos de los puntos afectados.
+
+El Centro de Operaciones de Emergencias mantiene provincias bajo alerta por lluvias, tormentas eléctricas y ráfagas de viento. El Instituto Dominicano de Meteorología advierte sobre una vaguada que podría prolongar las precipitaciones.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792642229/noticias/articles/20261022_041029_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 22 Oct 2026 04:10:56 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261022041056</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Se intensifican las operaciones en Haití para encontrar a los militares salvadoreños]]></title>
     <link>https://eldia.com.do/se-intensifican-las-operaciones-en-haiti-para-encontrar-a-los-militares-salvadorenos/</link>
     <description><![CDATA[Las operaciones para encontrar a cuatro militares salvadoreños desaparecidos en Haití se intensificaron en Puerto Príncipe. Los soldados de la Fuerza de Supresión de Pandillas fueron emboscados en la zona de Santo, comuna de Croix-des-Bouquets.
@@ -1344,19 +1355,6 @@ La Embajada de Estados Unidos ha reiterado anteriormente que, conforme a su pol�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792289830/noticias/articles/20261018_021710_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 18 Oct 2026 02:17:50 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261018021750</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Dos personas mueren en accidente entre carro y motocicleta en Higüey]]></title>
-    <link>https://elnuevodiario.com.do/dos-personas-mueren-en-accidente-entre-carro-y-motocicleta-en-higuey/</link>
-    <description><![CDATA[Dos personas murieron en un accidente de tránsito en la carretera La Matilla, en Higüey, provincia La Altagracia. El accidente fue una colisión entre un carro y una motocicleta.
-
-El Cuerpo de Bomberos de Higüey estuvo presente en el lugar para ofrecer asistencia. Aún no se han identificado a las víctimas ni se conocen las causas del accidente.
-
-Se reitera el llamado a los conductores a ser prudentes y respetar las señales de tránsito para evitar accidentes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792285307/noticias/articles/20261018_010146_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 18 Oct 2026 01:02:15 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261018010215</guid>
   </item>
 </channel>
 </rss>
