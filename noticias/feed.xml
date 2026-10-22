@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 22 Oct 2026 13:03:50 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 13:11:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Acusan en Massachusetts a dominicano de usar identidad ajena para obtener US$166,479.25 en beneficios públicos]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261022131135</link>
+    <description><![CDATA[Un ciudadano dominicano identificado como Rodolfo Armando Fernández Guzmán enfrenta una denuncia penal federal en Massachusetts por presuntamente utilizar la identidad de un estadounidense para obtener US$166,479.25 en beneficios de alimentación, salud y vivienda.
+
+Según informó el Departamento de Justicia de Estados Unidos el 21 de octubre, el acusado habría obtenido US$22,402 del Programa de Asistencia Nutricional Suplementaria, conocido como SNAP; US$98,481.25 de MassHealth y US$45,596 de asistencia de vivienda de la Sección 8.
+
+Las autoridades también le atribuyen haber conseguido dos tarjetas de identificación estatal, un permiso de aprendizaje y tres licencias de conducir en Massachusetts y Arizona utilizando la identidad ajena.
+
+El caso figura ante el Tribunal Federal del Distrito de Massachusetts bajo el expediente 1:26-mj-03349-JDH y está a cargo del fiscal federal adjunto James Nagelberg.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792674649/noticias/articles/20261022_131048_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 22 Oct 2026 13:11:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261022131135</guid>
+  </item>
+
+  <item>
     <title><![CDATA[¡Cero hits, cero carreras! Licey blanquea a los Toros y se adueña de la cima]]></title>
     <link>https://noticiassin.com/deportes/beisbol/2026/10/22/licey-lanza-no-hitter-y-vence-3-0-a-toros-del-este-2150638/</link>
     <description><![CDATA[Los Tigres del Licey se adueñaron de la cima de la Liga de Béisbol Profesional Dominicana al vencer 3-0 a los Toros del Este con un no hitter combinado. Siete lanzadores se unieron para lograr esta hazaña, ponchando a 10 bateadores y permitiendo solo tres boletos.
@@ -1328,21 +1343,6 @@ El partido entre Violette AC de Haití y Portmore United de Jamaica, programado 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792341484/noticias/articles/20261018_163804_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 18 Oct 2026 16:38:35 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261018163835</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Edesur cobrará cargo por uso de red a clientes con paneles solares a partir de noviembre]]></title>
-    <link>https://listindiario.com/economia/energia/20261017/edesur-cobrara-cargo-red-clientes-paneles-solares-partir-noviembre_926483.html</link>
-    <description><![CDATA[Edesur Dominicana anunció que a partir del 1 de noviembre de 2026 implementará un nuevo esquema de facturación para clientes con generación distribuida (paneles solares).
-
-Se aplicará un "cargo por uso de la red" a los usuarios con tarifas monómicas BTS-1 y BTS-2, bajo el Programa de Medición Neta antes de octubre de 2021.
-
-Este cargo se calculará multiplicando la energía inyectada a la red por el 25% del cargo por energía de la tarifa asignada al cliente, según la Resolución SIE-007-2026-REG de la Superintendencia de Electricidad.
-
-Fuente: Listín Diario - Lizbeth Chalas]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792293998/noticias/articles/20261018_032638_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 18 Oct 2026 03:27:03 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261018032703</guid>
   </item>
 </channel>
 </rss>
