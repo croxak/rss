@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 22 Oct 2026 04:12:10 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 13:03:50 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[¡Cero hits, cero carreras! Licey blanquea a los Toros y se adueña de la cima]]></title>
+    <link>https://noticiassin.com/deportes/beisbol/2026/10/22/licey-lanza-no-hitter-y-vence-3-0-a-toros-del-este-2150638/</link>
+    <description><![CDATA[Los Tigres del Licey se adueñaron de la cima de la Liga de Béisbol Profesional Dominicana al vencer 3-0 a los Toros del Este con un no hitter combinado. Siete lanzadores se unieron para lograr esta hazaña, ponchando a 10 bateadores y permitiendo solo tres boletos.
+
+Estevan Florial fue clave en la ofensiva, conectando un doble y remolcando una carrera. Con esta victoria, el Licey se posiciona en solitario en el primer lugar de la liga.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792674182/noticias/articles/20261022_130302_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 22 Oct 2026 13:03:50 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261022130350</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader designa a 25 funcionarios en el servicio exterior]]></title>
     <link>https://elnacional.com.do/nacionales/abinader-designa-a-25-funcionarios-en-el-servicio-exterior_584107.html</link>
     <description><![CDATA[El presidente Luis Abinader ha designado a 25 nuevos funcionarios en el servicio exterior, según el Decreto 705-26. Entre los nombramientos se encuentran 14 vicecónsules y 10 auxiliares consulares en países como Estados Unidos, España, Chile, Italia y Argentina.
@@ -1332,17 +1343,6 @@ Fuente: Listín Diario - Lizbeth Chalas]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792293998/noticias/articles/20261018_032638_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 18 Oct 2026 03:27:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261018032703</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Asesinan en Guatemala a exfiscal que denunció nexos de políticos con pandillas]]></title>
-    <link>https://www.rfi.fr/es/más-noticias/20261018-asesinan-en-guatemala-a-exfiscal-que-denunció-nexos-de-políticos-con-pandillas</link>
-    <description><![CDATA[El exfiscal guatemalteco Juan Francisco Solórzano Foppa fue asesinado en la capital de Guatemala. Foppa, de 43 años, era conocido por denunciar vínculos entre pandillas y políticos. Fue atacado por al menos cuatro personas en una cancha de fútbol.
-
-El presidente de Guatemala, Bernardo Arévalo, y organismos internacionales condenaron el asesinato y exigieron una investigación exhaustiva. En el ataque también murió otro hombre como "víctima colateral".]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792292030/noticias/articles/20261018_025349_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 18 Oct 2026 02:54:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261018025441</guid>
   </item>
 </channel>
 </rss>
