@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 22 Oct 2026 19:58:16 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 20:54:50 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Matan a tiros a sargento de la Policía en Santiago]]></title>
+    <link>https://eldia.com.do/matan-a-tiros-a-sargento-de-la-policia-en-santiago-suman-dos-en-una-semana/</link>
+    <description><![CDATA[José Ramón Henríquez Mejía, sargento de la Policía Nacional, fue ultimado a tiros en el sector Barrio Nuevo, La Canela, Santiago. El agente, de 29 años, recibió dos impactos de bala. Las autoridades investigan las circunstancias del asesinato y buscan identificar a los responsables.
+
+Días antes, otro agente, Pedro Luis Guerrero, murió en un asalto en Higüero Norte. Aunque ambos casos son violentos, no se ha establecido conexión entre ellos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792702397/noticias/articles/20261022_205316_article.webp" type="image/webp"/>
+    <pubDate>Thu, 22 Oct 2026 20:54:50 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261022205450</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Detienen a excandidata presidencial Luisa González en Ecuador por presunto lavado de activos en su campaña]]></title>
     <link>https://mexiquensedigital.com/noticias/detienen-a-excandidata-presidencial-luisa-gonzalez-en-ecuador-por-presunto-lavado-de-activos-en-su-campana/20_20261022170223_41068</link>
     <description><![CDATA[Luisa González, excandidata presidencial de Ecuador, ha sido detenida por la policía bajo sospecha de lavado de activos en su campaña electoral de 2023. La Fiscalía del país planea formular cargos contra tres personas, incluyendo a González, por presuntas irregularidades en el financiamiento político.
@@ -1342,17 +1353,6 @@ La detención se realizó en cumplimiento de una resolución de la Suprema Corte
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792351474/noticias/articles/20261018_192433_article.png" type="image/png"/>
     <pubDate>Sun, 18 Oct 2026 19:25:55 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261018192555</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Guido advierte que canalizar "mal" las aspiraciones internas genera efectos perturbadores en el PRM]]></title>
-    <link>https://listindiario.com/la-republica/politica/20261018/guido-advierte-canalizar-mal-aspiraciones-internas-genera-efectos-perturbadores-prm_926586.html</link>
-    <description><![CDATA[Guido Gómez Mazara, dirigente del PRM, advierte sobre los efectos perturbadores de canalizar mal las aspiraciones internas en el partido. Señala que esto podría generar rechazo en la sociedad y afectar el cumplimiento de las tareas públicas.
-
-Gómez Mazara enfatiza la importancia de no priorizar lo partidario sobre el interés nacional y critica el uso de recursos públicos para fines personales. Solicita incluir este tema en la agenda de la próxima reunión de la Dirección Ejecutiva del PRM.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792343794/noticias/articles/20261018_171634_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 18 Oct 2026 19:24:06 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261018192406</guid>
   </item>
 </channel>
 </rss>
