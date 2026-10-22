@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 22 Oct 2026 17:42:17 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 17:43:39 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[COE aumenta a siete las provincias en alerta amarilla por vaguada; 17 en verde]]></title>
+    <link>https://n.com.do/2026/10/22/coe-aumenta-a-siete-las-provincias-en-alerta-amarilla-por-vaguada-16-en-verde/</link>
+    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha elevado a siete las provincias en alerta amarilla debido a la incidencia de una vaguada y una masa de aire con alto contenido de humedad. Estas condiciones podrían generar aguaceros moderados a fuertes, tormentas eléctricas y ráfagas de viento.
+
+Las provincias en alerta amarilla son Puerto Plata, Espaillat, Santiago, Bahoruco, Independencia, Barahona y Pedernales. Mientras tanto, 17 provincias permanecen en alerta verde.
+
+El Instituto Dominicano de Meteorología (Indomet) informa que se esperan aguaceros y tormentas eléctricas para este jueves, con posibles inundaciones y crecidas de ríos. La tormenta subtropical Josephine y una zona de baja presión no representan peligro para la República Dominicana.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792690996/noticias/articles/20261022_174315_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 22 Oct 2026 17:43:39 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261022174339</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El mango dominicano apunta a volver a EEUU en 2027, pero aún espera la revisión que permita reabrir el mercado]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261022174217</link>
     <description><![CDATA[La próxima cosecha de mango tiene una fecha prevista de inicio: mediados de febrero de 2027. El regreso de la fruta dominicana al mercado estadounidense, en cambio, todavía depende de una evaluación que las autoridades nacionales deberán solicitar.
@@ -1338,19 +1351,6 @@ El cirujano Stefano Margaritora afirmó que el papa se encuentra en condiciones 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792343722/noticias/articles/20261018_171522_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 18 Oct 2026 17:15:51 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261018171551</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Productores de arroz bloquean la autopista del Nordeste en rechazo a las importaciones]]></title>
-    <link>https://ntelemicro.com/productores-de-arroz-bloquean-la-autopista-del-nordeste-en-rechazo-a-las-importaciones/</link>
-    <description><![CDATA[Productores de arroz bloquearon la autopista del Nordeste Juan Pablo II para protestar contra las importaciones de arroz, lo que causó largas filas de vehículos. Los agricultores sostienen que las importaciones amenazan la comercialización de la cosecha nacional.
-
-El Movimiento Popular Dominicano (MPD) expresó su respaldo a los arroceros y criticó la política comercial del Gobierno, especialmente la derogación del Decreto 693-24, que protegía la producción arrocera nacional.
-
-El MPD llamó a sus militantes y a diversas organizaciones a apoyar las demandas del sector arrocero, buscando medidas que protejan la producción nacional.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792343641/noticias/articles/20261018_171400_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 18 Oct 2026 17:14:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261018171431</guid>
   </item>
 </channel>
 </rss>
