@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 22 Oct 2026 17:40:02 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 17:42:17 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[El mango dominicano apunta a volver a EEUU en 2027, pero aún espera la revisión que permita reabrir el mercado]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261022174217</link>
+    <description><![CDATA[La próxima cosecha de mango tiene una fecha prevista de inicio: mediados de febrero de 2027. El regreso de la fruta dominicana al mercado estadounidense, en cambio, todavía depende de una evaluación que las autoridades nacionales deberán solicitar.
+
+El Ministerio de Agricultura informó que completó en Peravia las medidas correctivas relacionadas con los sistemas de trampeo y monitoreo de la mosca de la fruta. En las demás zonas productoras, el cumplimiento ronda el 60 %.
+
+El avance no supone el levantamiento de la suspensión. Según explicó el ministro Francisco Oliverio Espaillat, el informe con las conclusiones será enviado próximamente a las autoridades estadounidenses para solicitar una visita técnica. Esa revisión deberá verificar las correcciones antes de que se autorice la reanudación de los envíos.
+
+El anuncio coloca así la expectativa de los productores en la cosecha siguiente, mientras permanecen pendientes tanto acciones dentro del país como la validación externa.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792690906/noticias/articles/20261022_174146_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 22 Oct 2026 17:42:17 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261022174217</guid>
+  </item>
+
+  <item>
     <title><![CDATA[“Macho” se declara inocente por muerte de Deivy Abreu en Santiago]]></title>
     <link>https://elnuevodiario.com.do/macho-se-declara-inocente-por-muerte-de-deivy-abreu-en-santiago/</link>
     <description><![CDATA[Jhovanny de Jesús Metz Cruz, conocido como “Macho”, se declaró inocente en el caso de la muerte de Deivy Carlos Abreu Quezada en Santiago. Afirmó no conocer a las personas vinculadas al proceso, excepto a su hermano, quien lleva más de seis meses detenido.
@@ -1336,19 +1351,6 @@ El MPD llamó a sus militantes y a diversas organizaciones a apoyar las demandas
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792343641/noticias/articles/20261018_171400_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 18 Oct 2026 17:14:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261018171431</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[París vive nuevo episodio de violencia y saqueos en torno a la plaza de la República]]></title>
-    <link>https://noticiassin.com/mundo/2026/10/18/paris-vive-nuevo-episodio-de-violencia-y-saqueos-en-torno-a-la-plaza-de-la-republica-2146918/</link>
-    <description><![CDATA[París vive nuevos episodios de violencia y saqueos en la plaza de la República. Manifestantes y fuerzas de seguridad se enfrentaron, resultando en el saqueo de una tienda de ropa en la calle Beaurepaire.
-
-La CRS 8 fue desplegada para controlar la situación, mientras que algunos establecimientos hosteleros cerraron sus terrazas por precaución.
-
-A nivel nacional, una persona falleció y unas 2.000 personas fueron detenidas. Emmanuel Macron se dirigirá a la nación tras reunirse con el primer ministro y otros ministros.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792343581/noticias/articles/20261018_171301_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 18 Oct 2026 17:13:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261018171331</guid>
   </item>
 </channel>
 </rss>
