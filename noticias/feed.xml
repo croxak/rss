@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 22 Oct 2026 17:25:55 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 17:40:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[“Macho” se declara inocente por muerte de Deivy Abreu en Santiago]]></title>
+    <link>https://elnuevodiario.com.do/macho-se-declara-inocente-por-muerte-de-deivy-abreu-en-santiago/</link>
+    <description><![CDATA[Jhovanny de Jesús Metz Cruz, conocido como “Macho”, se declaró inocente en el caso de la muerte de Deivy Carlos Abreu Quezada en Santiago. Afirmó no conocer a las personas vinculadas al proceso, excepto a su hermano, quien lleva más de seis meses detenido.
+
+Metz Cruz denunció que las autoridades ingresaron ilegalmente a su vivienda y detuvieron a su hermano sin orden de arresto. Cuestionó la legalidad del expediente contra su familiar y expresó preocupación por su situación judicial.
+
+Negó la autenticidad de una fotografía atribuida a él, alegando manipulación por inteligencia artificial. También señaló a otro prestamista por conflictos comerciales relacionados con su cartera de préstamos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792690749/noticias/articles/20261022_173909_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 22 Oct 2026 17:40:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261022174002</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Joven se entrega a la Policía tras gastar RD$725,000 que recibió por error]]></title>
     <link>https://listindiario.com/la-republica/20261022/joven-entrega-policia-gastar-rd-725-000-recibio-error_927131.html</link>
     <description><![CDATA[Bismar Medina, de 29 años, se entregó a la Policía Nacional después de gastar RD$725,000 que recibió por error en una transferencia bancaria. Medina explicó que usó el dinero para pagar deudas y resolver problemas económicos, ya que llevaba meses sin trabajar.
@@ -1336,17 +1349,6 @@ A nivel nacional, una persona falleció y unas 2.000 personas fueron detenidas. 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792343581/noticias/articles/20261018_171301_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 18 Oct 2026 17:13:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261018171331</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Netanyahu agradece su apoyo a Trump para las elecciones: «Juntos, completaremos la misión»]]></title>
-    <link>https://noticiassin.com/mundo/2026/10/18/netanyahu-agradece-a-trump-su-respaldo-electoral-en-israel-2146926/</link>
-    <description><![CDATA[El primer ministro de Israel, Benjamín Netanyahu, agradeció al presidente de EE.UU., Donald Trump, por su apoyo de cara a las elecciones parlamentarias del 27 de octubre. Netanyahu destacó la colaboración estratégica entre ambos líderes para fortalecer la alianza contra Irán.
-
-Trump anunció su respaldo total a Netanyahu a través de la red social Truth Social. El ministro de Defensa israelí, Israel Katz, relacionó este apoyo con la campaña contra Irán, mientras que Bezalel Smotrich, titular de Finanzas, elogió a Trump como uno de los mayores amigos de Israel.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792343447/noticias/articles/20261018_171046_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 18 Oct 2026 17:11:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261018171114</guid>
   </item>
 </channel>
 </rss>
