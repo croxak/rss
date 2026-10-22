@@ -7,14 +7,33 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 22 Oct 2026 22:55:22 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 22 Oct 2026 23:03:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[El Salvador despliega fuerzas especiales en Haití para hallar a 4 soldados desaparecidos tras ataque]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261022230300</link>
+    <description><![CDATA[El Salvador desplegó el jueves a 100 elementos de sus fuerzas especiales hacia Haití para ayudar a rescatar a cuatro soldados salvadoreños que continúan desaparecidos luego de un reciente ataque por parte de pandillas, informaron dos funcionarios a The Associated Press.
+
+Las fuerzas especiales llegaron un día después de que el presidente salvadoreño Nayib Bukele anunció una operación militar para rescatar a los cuatro técnicos de aviación y amenazó con una respuesta más contundente si no son liberados con vida y sin daños.
+
+Un funcionario del gobierno de El Salvador informó que otros 100 soldados serán desplegados hacia Haití la noche del jueves. El funcionario, quien habló bajo condición de anonimato al no estar autorizado a discutir el tema públicamente, añadió que las autoridades salvadoreñas operan bajo el supuesto de que los cuatro salvadoreños siguen con vida.
+
+En sus primeros comentarios desde el ataque del domingo en Croix-des-Bouquets, el gobierno de Haití informó la noche del miércoles que los cuatro desaparecidos fueron secuestrados. Las autoridades han dicho que los soldados viajaban a bordo de un vehículo blindado que fue atacado por pandillas, las cuales también utilizaron explosivos.
+
+Se trata del primer ataque de estas dimensiones desde que una fuerza internacional de supresión de pandillas comenzó sus operaciones en la nación caribeña en reemplazo de una fuerza encabezada por Kenia, la cual tuvo dificultades para ayudar a la policía haitiana a contener a las pandillas debido a la falta de recursos.
+
+La policía haitiana y la fuerza de supresión de pandillas se han estado enfrentando con hombres armados en la zona desde el ataque. Las autoridades han advertido a los residentes que permanezcan dentro de sus residencias.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792710144/noticias/articles/20261022_230224_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 22 Oct 2026 23:03:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261022230300</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno garantiza seguridad fronteriza ante crisis de Haití y advierte que adoptará medidas adicionales]]></title>
     <link>https://eldia.com.do/gobierno-garantiza-seguridad-fronteriza-ante-crisis-de-haiti-y-advierte-que-adoptara-medidas-adicionales/</link>
     <description><![CDATA[El Gobierno dominicano asegura estar listo para implementar medidas adicionales para proteger la seguridad nacional debido a la violencia en Haití, donde cuatro militares salvadoreños fueron secuestrados. Actualmente, más de 10 mil efectivos militares vigilan la frontera.
@@ -1346,17 +1365,6 @@ Sus restos son velados en su residencia en Cotuí. Se realizará una misa en la 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792381169/noticias/articles/20261019_033929_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 19 Oct 2026 03:40:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261019034000</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[ADP califica de irresponsable que Educación presente resultados de la Evaluación Docente incompletos]]></title>
-    <link>https://listindiario.com/la-republica/educacion/20261018/adp-acusa-educacion-manipular-resultados-evaluacion-docente_926640.html</link>
-    <description><![CDATA[La Asociación Dominicana de Profesores (ADP) ha expresado su rechazo a la difusión de resultados parciales de la Evaluación del Desempeño Docente por parte del Ministerio de Educación. Según Eduardo Hidalgo, presidente de la ADP, esta acción podría inducir a percepciones negativas sobre los docentes dominicanos.
-
-La ADP denunció que 10,141 maestros aún no han sido evaluados y que 3,440 no han recibido sus calificaciones definitivas. La organización demanda que los resultados finales se publiquen solo cuando el proceso esté completo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792380936/noticias/articles/20261019_033536_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 19 Oct 2026 03:36:11 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261019033611</guid>
   </item>
 </channel>
 </rss>
