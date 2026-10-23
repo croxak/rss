@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 23 Oct 2026 19:47:23 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 21:34:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Capturan en RD a Sherman Kemp, fugitivo buscado en Florida por narcotráfico y armas]]></title>
+    <link>https://elnuevodiario.com.do/capturan-en-rd-a-sherman-kemp-fugitivo-buscado-en-florida-por-narcotrafico-y-armas/</link>
+    <description><![CDATA[Sherman Kemp, alias "Goose", fue arrestado en República Dominicana por unidades especiales de la DNCD y el Servicio de Alguaciles de Estados Unidos. Kemp, de 47 años, era buscado por tráfico de cocaína y heroína, y porte ilegal de armas en Maryland y Pensilvania.
+
+El fugitivo escapó de una custodia federal en Miami en septiembre de 2026. Su captura se realizó en la calle Leonardo Da Vinchi, del Distrito Nacional, tras una investigación internacional de varios meses.
+
+Kemp fue deportado a Miami, donde fue entregado a los alguaciles de Estados Unidos para enfrentar las acusaciones en su contra.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792791227/noticias/articles/20261023_213347_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 23 Oct 2026 21:34:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261023213415</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El gasoil supera los US$200 el barril en Europa]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261023194723</link>
     <description><![CDATA[El precio del barril del gasoil “óptimo” superó los US$200.00 en Europa este viernes, luego de que los contratos de futuros para entrega en noviembre cotizaran a US$1,485 por tonelada métrica, según datos de ICE Futures Europe, bolsa de refinados con sede en Londres. 
@@ -1395,21 +1408,6 @@ El detenido es Arcadio Montero de Oleo, primer teniente de las Fuerzas Armadas, 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792431904/noticias/articles/20261019_174504_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 19 Oct 2026 17:46:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261019174657</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Colectivo de Organizaciones ratifica llamado a paro para este lunes y martes en SFM]]></title>
-    <link>https://noticiassin.com/pais/provincias/2026/10/19/colectivo-ratifica-huelga-en-sfm-para-lunes-y-martes-2147548/</link>
-    <description><![CDATA[El Colectivo de Organizaciones Sociales y Populares ha ratificado el llamado a huelga en San Francisco de Macorís para el 19 y 20 de octubre, a pesar del despliegue militar y policial en la ciudad.
-
-La caravana motorizada prevista para el domingo fue suspendida debido a la presencia de agentes de seguridad. José Mercado, vocero del colectivo, informó que continuarán las jornadas de motivación en sectores como San Martín, Las Flores y Vista al Valle para promover la participación en la protesta.
-
-Mercado responsabilizó al Gobierno por el clima de tensión y denunció supuestos planes represivos. Las reivindicaciones del paro incluyen el alto costo de la factura eléctrica, el encarecimiento de productos de la canasta básica y el incumplimiento de demandas de diferentes sectores sociales.
-
-La convocatoria se mantiene para San Francisco de Macorís, Las Guáranas y Pimentel.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792430652/noticias/articles/20261019_172412_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 19 Oct 2026 17:24:42 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261019172442</guid>
   </item>
 </channel>
 </rss>
