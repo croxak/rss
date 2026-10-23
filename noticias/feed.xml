@@ -7,14 +7,33 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 23 Oct 2026 19:13:34 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 19:47:23 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[El gasoil supera los US$200 el barril en Europa]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261023194723</link>
+    <description><![CDATA[El precio del barril del gasoil “óptimo” superó los US$200.00 en Europa este viernes, luego de que los contratos de futuros para entrega en noviembre cotizaran a US$1,485 por tonelada métrica, según datos de ICE Futures Europe, bolsa de refinados con sede en Londres. 
+
+Estos datos reflejan que el precio final de este combustible ya refinado está muy por encima del precio del crudo del cual se obtiene. Esta cotización corresponde a las primeras horas de negociación y no al cierre de la jornada del día. 
+
+En paralelo, el petróleo Brent alcanzó un máximo de US$117.45 durante la sesión, de acuerdo con los datos de ICE Futures Europe. 
+
+El encarecimiento del diésel europeo está generando serias preocupaciones por el impacto con que pudiera repercutir en otros mercados. 
+
+La Administración de Información Energética de Estados Unidos (EIA) explica que una mayor demanda europea puede atraer cargamentos estadounidenses, reducir la disponibilidad en ese mercado y elevar sus precios.
+
+Para República Dominicana, que importa combustibles terminados bajo el modelo de paridad de importación, este escenario puede incrementar el costo de abastecimiento del gasoil y generar mayor presión sobre su precio local o sobre los recursos destinados a subsidiarlo, sin implicar un reajuste automático.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792784812/noticias/articles/20261023_194652_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 23 Oct 2026 19:47:23 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261023194723</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Grupo Popular anuncia cambios en su Consejo de Administración]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261023191334</link>
     <description><![CDATA[Grupo Popular anunció cambios en su Consejo de Administración que impulsan una transición natural del liderazgo, orientada a asegurar la continuidad de la visión estratégica de la organización, mantener la senda de crecimiento sostenible y su capacidad para continuar aportando al desarrollo de la República Dominicana.
@@ -1391,19 +1410,6 @@ La convocatoria se mantiene para San Francisco de Macorís, Las Guáranas y Pime
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792430652/noticias/articles/20261019_172412_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 19 Oct 2026 17:24:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261019172442</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El PLD pide interpelar a Faride Raful y al director de la Policía por "intercambios de disparos"]]></title>
-    <link>https://listindiario.com/la-republica/gobierno/20261019/pld-pide-interpelacion-faride-raful-director-policia_926705.html</link>
-    <description><![CDATA[El Partido de la Liberación Dominicana (PLD) ha solicitado al Congreso Nacional la interpelación de la ministra de Interior y Policía, Faride Raful, y del director general de la Policía, mayor general Ernesto Rodríguez García. La razón es el elevado número de muertes en intercambios de disparos con la Policía Nacional.
-
-Temístocles Montás, vicepresidente del PLD, destacó que estas muertes reflejan un comportamiento cuestionable de los agentes y recordó que la Constitución prohíbe la pena de muerte. El PLD pide que los detenidos sean puestos a disposición de la justicia.
-
-El PLD también solicitó al presidente Luis Abinader que garantice que la política de seguridad respete la vida y pidió al Ministerio Público investigaciones independientes sobre las muertes en intervenciones policiales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792430534/noticias/articles/20261019_172214_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 19 Oct 2026 17:22:47 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261019172247</guid>
   </item>
 </channel>
 </rss>
