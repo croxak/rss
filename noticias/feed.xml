@@ -7,14 +7,35 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 23 Oct 2026 17:48:44 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 18:22:24 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Nayib Bukele responde al periodista dominicano Humberto Salazar tras cuestionamientos sobre operación militar en Haití]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261023182224</link>
+    <description><![CDATA[El presidente de El Salvador, Nayib Bukele, respondió este viernes al comunicador dominicano Humberto Salazar, luego de que este publicara un análisis titulado «¿Bukele y su Waterloo?», en el que planteó los riesgos de la intervención militar salvadoreña en Haití.
+
+A través de su cuenta de X, Bukele compartió la publicación de Salazar y rechazó los argumentos de quienes consideran que las pandillas haitianas, por su capacidad armamentística y antecedentes de resistencia frente a misiones internacionales, podrían representar una derrota para las fuerzas salvadoreñas.
+
+El mandatario sostuvo que, si la operación resulta exitosa, quienes actualmente advierten sobre sus peligros cambiarán de discurso y minimizarán la dificultad de enfrentar a las organizaciones criminales haitianas.
+
+«En fin, nunca los hemos escuchado y no vamos a empezar ahora», expresó Bukele.
+
+En su respuesta, el presidente también introdujo un componente religioso, asegurando que los militares salvadoreños son creyentes y que la misión ha sido encomendada a Dios. Además, calificó a las pandillas haitianas de satánicas y las acusó de realizar sacrificios humanos.
+
+«Dios nos concederá la victoria», afirmó, acompañando su mensaje con un pasaje bíblico de Deuteronomio 28:7.
+
+El intercambio ocurre en medio de una operación militar para localizar a cuatro técnicos de aviación salvadoreños desaparecidos desde el 18 de octubre, después de que hombres armados atacaran su vehículo en Croix-des-Bouquets, Haití.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792779714/noticias/articles/20261023_182154_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 23 Oct 2026 18:22:24 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261023182224</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía apresa a hombre por presunta decapitación de otro en Villa Mella]]></title>
     <link>https://elnuevodiario.com.do/policia-apresa-a-hombre-por-presunta-decapitacion-de-otro-en-villa-mella/</link>
     <description><![CDATA[La Policía Nacional informó sobre la detención de un hombre acusado de decapitar a otro en la comunidad de Mata San Juan, Villa Mella, Santo Domingo Norte. El presunto agresor, Nelfi Martínez, de 27 años, fue arrestado en flagrante delito.
@@ -1359,19 +1380,6 @@ La investigación señala que espías cubanos en Florida habrían recopilado inf
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792425835/noticias/articles/20261019_160354_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 19 Oct 2026 16:04:22 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261019160422</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Rusia lanza un bombardeo masivo contra Kiev en respuesta al ataque en San Petersburgo]]></title>
-    <link>https://www.elmundo.es/internacional/2026/10/19/6ad5d88f21efa0be3f8b457a.html</link>
-    <description><![CDATA[El ejército ruso lanzó un ataque masivo contra Kiev y su región adyacente en respuesta a un ataque ucraniano en San Petersburgo. El bombardeo ruso tuvo como objetivo empresas de la industria militar, almacenes de misiles de crucero y drones, y centros de datos. Se empleó armamento de alta precisión y aparatos no tripulados.
-
-Kiev ha sido objeto de ataques diarios durante casi un mes. El ataque ucraniano en San Petersburgo alcanzó terminales de petróleo, centros de datos, almacenes de comercio electrónico, una subestación eléctrica e infraestructura diversa, resultando en un muerto y una decena de heridos.
-
-Volodímir Zelenski denunció que Ucrania no recibió aviso de sus socios antes de los ataques rusos. Marco Rubio negó interrupciones en el intercambio de inteligencia con Ucrania.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792421651/noticias/articles/20261019_145411_article.webp" type="image/webp"/>
-    <pubDate>Mon, 19 Oct 2026 14:54:38 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261019145438</guid>
   </item>
 </channel>
 </rss>
