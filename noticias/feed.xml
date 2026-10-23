@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 23 Oct 2026 15:17:03 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 15:37:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Avión de la Fuerza Aérea de Estados Unidos despega de El Salvador rumbo a Haití en medio de operación militar]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261023153733</link>
+    <description><![CDATA[n avión de transporte militar Lockheed Martin C-130J Super Hercules, perteneciente a la Fuerza Aérea de Estados Unidos, despegó este viernes 23 de octubre desde El Salvador con destino previsto a Puerto Príncipe, Haití.
+
+La aeronave, identificada como SHARK99, con número militar 07-6311, fue detectada en vuelo por Flightradar24 a una altitud de 21,475 pies. FlightAware registró su salida desde San Salvador con llegada estimada a Haití a las 2:07 de la tarde.
+
+El desplazamiento ocurre en medio de la operación militar anunciada por el presidente Nayib Bukele para rescatar a cuatro técnicos de aviación salvadoreños desaparecidos desde el 18 de octubre, tras una emboscada de pandillas en Croix-des-Bouquets.
+
+Según The Associated Press, El Salvador desplegó 100 integrantes de fuerzas especiales y preparaba el envío de otros 100.
+
+El avión estadounidense tiene capacidad para transportar tropas, equipos y suministros militares.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792769818/noticias/articles/20261023_153658_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 23 Oct 2026 15:37:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261023153733</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Reportan tres vuelos hacia Haití desde Washington D. C. y otros tres desde El Salvador, incluido SHARK99, un avión de la Fuerza Aérea de Estados Unidos]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261023151703</link>
     <description><![CDATA[Registros de FlightAware muestran seis vuelos programados hacia Haití este viernes 23 de octubre, tres desde Washington D. C. y otros tres registros desde El Salvador, incluido SHARK99, indicativo asociado a un avión militar estadounidense.
@@ -1355,26 +1372,6 @@ Indomet agregó que las precipitaciones también podrían afectar localidades de
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792417533/noticias/articles/20261019_134533_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 19 Oct 2026 13:46:01 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261019134601</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Trasladan a Costa Rica y Honduras atención consular de dominicanos en Nicaragua]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261019133916</link>
-    <description><![CDATA[La República Dominicana habilitó servicios consulares en Costa Rica y Honduras para garantizar asistencia a sus ciudadanos residentes en Nicaragua, luego del retiro de su embajada en Managua en medio de las tensiones diplomáticas entre ambos países.
-
-La medida fue anunciada este domingo por el Ministerio de Relaciones Exteriores (Mirex), que dispuso que la Sección Consular de la Embajada dominicana en San José, Costa Rica, y el Consulado General en San Pedro Sula, Honduras, reciban las solicitudes de documentos y brinden asistencia a los dominicanos radicados en territorio nicaragüense.
-
-De acuerdo con informaciones difundidas por la agencia EFE, la disposición procura garantizar la continuidad de los servicios consulares tras la salida de la representación diplomática dominicana de Nicaragua. Sin embargo, las autoridades no ofrecieron detalles sobre la cantidad de dominicanos que residen actualmente en ese país.
-
-En otro orden, la Cancillería informó que quedaron suspendidas temporalmente las notificaciones judiciales y otras actuaciones procesales dirigidas a personas físicas o jurídicas domiciliadas en Nicaragua.
-
-El organismo explicó que la decisión responde a razones de fuerza mayor relacionadas con el retiro de la embajada dominicana, situación que impide a las oficinas consulares designadas ejecutar este tipo de procedimientos dentro del territorio nicaragüense.
-Según precisó el Mirex, la suspensión permanecerá vigente hasta que se restablezcan las condiciones necesarias para ofrecer nuevamente ese servicio.
-
-De esta manera, las sedes consulares en Costa Rica y Honduras funcionarán como puntos de atención para los ciudadanos dominicanos que necesiten realizar trámites o solicitar asistencia, aunque no asumirán las diligencias judiciales que anteriormente se gestionaban a través de la embajada en Managua.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792417130/noticias/articles/20261019_133849_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 19 Oct 2026 13:39:16 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261019133916</guid>
   </item>
 </channel>
 </rss>
