@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 23 Oct 2026 19:03:04 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 19:07:47 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Joven dominicano es asesinado en Georgia, EE.UU. tras despedir a un empleado]]></title>
+    <link>https://listindiario.com/la-republica/20261023/joven-dominicano-asesinado-georgia-ee-uu-despedir-empleado_927278.html</link>
+    <description><![CDATA[Saúl Gabriel García Santos, un joven dominicano de 20 años, fue asesinado en Savannah, Georgia, tras despedir a un empleado. El presunto autor del crimen, Raymond Green, de 40 años, regresó a la empresa horas después del despido, amenazó a Saúl con un arma y lo obligó a subir a un camión.
+
+Green enfrenta cargos por homicidio y agresión agravada. La familia de Saúl clama por justicia y ha creado una cuenta en GoFundMe para cubrir los gastos funerarios.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792782444/noticias/articles/20261023_190724_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 23 Oct 2026 19:07:47 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261023190747</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ciudadano alemán escapa de presunto secuestro tras lanzarse de vehículo en Puerto Plata]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261023190304</link>
     <description><![CDATA[Un ciudadano alemán de aproximadamente 60 años logró escapar de un presunto secuestro la mañana de este viernes 23 de octubre, en Puerto Plata. Según informaciones preliminares, el extranjero se lanzó de un vehículo en el que presuntamente era trasladado contra su voluntad.
@@ -1387,17 +1398,6 @@ La querella fue presentada ante la Fiscalía del Distrito Judicial de Valverde, 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792430373/noticias/articles/20261019_171933_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 19 Oct 2026 17:20:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261019172005</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía apresa adolescente implicado en muerte de taxista durante asalto en autopista Las Américas]]></title>
-    <link>https://elnuevodiario.com.do/policia-apresa-a-adolescente-implicado-en-muerte-de-taxista-durante-asalto-en-la-autopista-las-americas/</link>
-    <description><![CDATA[La Policía Nacional ha detenido a un adolescente de 17 años, acusado de participar en el asesinato del taxista Feliz Valentín Casalinovo Trinidad, de 48 años, durante un asalto el 16 de octubre en la avenida Las Américas, Santo Domingo Este.
-
-Otros tres sospechosos, identificados por los alias “Juan el Fantasma”, “Maclen” y “La Leyenda”, también están implicados en el crimen. La Policía continúa las investigaciones para localizarlos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792429952/noticias/articles/20261019_171232_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 19 Oct 2026 17:13:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261019171330</guid>
   </item>
 </channel>
 </rss>
