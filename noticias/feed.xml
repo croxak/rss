@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 23 Oct 2026 15:37:33 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 17:46:13 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Embajador de EE. UU. ante la ONU advierte que la guerra con Irán podría extenderse un año más]]></title>
+    <link>https://n.com.do/2026/10/23/embajador-de-ee-uu-ante-la-onu-advierte-que-la-guerra-con-iran-podria-extenderse-un-ano-mas/</link>
+    <description><![CDATA[El embajador de EE.UU. ante la ONU, Mike Waltz, advirtió que el conflicto con Irán podría prolongarse un año más si no se alcanza un acuerdo. Waltz espera que Irán retome las negociaciones antes de ese plazo.
+
+Washington enfrenta un estancamiento en las conversaciones de paz y dificultades en el estrecho de Ormuz. Waltz afirmó que EE.UU. mantendría el bloqueo y las sanciones contra Irán.
+
+Se reportan preparativos de EE.UU. e Israel para una posible ofensiva militar tras las elecciones del 3 de noviembre. El conflicto ha impactado en las elecciones estadounidenses, afectando los precios de combustibles y las cadenas de suministro.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792777533/noticias/articles/20261023_174533_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 23 Oct 2026 17:46:13 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261023174613</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Avión de la Fuerza Aérea de Estados Unidos despega de El Salvador rumbo a Haití en medio de operación militar]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261023153733</link>
     <description><![CDATA[n avión de transporte militar Lockheed Martin C-130J Super Hercules, perteneciente a la Fuerza Aérea de Estados Unidos, despegó este viernes 23 de octubre desde El Salvador con destino previsto a Puerto Príncipe, Haití.
@@ -1357,21 +1370,6 @@ Helicópteros enviados en apoyo también fueron atacados. La Fuerza de Supresió
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792417649/noticias/articles/20261019_134728_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 19 Oct 2026 13:48:49 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261019134849</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Vaguada provocará aguaceros en varias provincias este lunes]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261019134601</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) pronosticó aguaceros de moderados a fuertes, tormentas eléctricas y ráfagas de viento para la tarde y noche de este lunes en varias provincias de la República Dominicana, debido a la incidencia de una vaguada.
-
-La institución explicó que, durante la mañana, prevalecerá un cielo mayormente soleado y con poca nubosidad en gran parte del territorio nacional. Sin embargo, el viento favorecerá la formación de nubes y la ocurrencia de chubascos aislados en zonas de La Altagracia, La Romana, Samaná, María Trinidad Sánchez, Peravia, Barahona y Pedernales.
-
-Según el informe meteorológico, las lluvias se intensificarán durante la tarde y las primeras horas de la noche en Hato Mayor, El Seibo, Monte Plata, Duarte, el norte de San Pedro de Macorís, Azua, San Juan, Independencia y Elías Piña, además de Pedernales.
-
-Indomet agregó que las precipitaciones también podrían afectar localidades de La Vega, Monseñor Nouel, Santiago, Valverde y Puerto Plata, así como otras comunidades cercanas. Se prevé que las lluvias disminuyan gradualmente durante la madrugada.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792417533/noticias/articles/20261019_134533_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 19 Oct 2026 13:46:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261019134601</guid>
   </item>
 </channel>
 </rss>
