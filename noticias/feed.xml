@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 23 Oct 2026 14:25:41 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 14:45:27 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Al menos cinco muertos en accidente en la Circunvalación de Santo Domingo]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/23/cinco-muertos-en-accidente-de-transito-en-santo-domingo/3698155</link>
+    <description><![CDATA[Un accidente de tránsito en la avenida Circunvalación de Santo Domingo dejó al menos cinco muertos. El incidente ocurrió cerca de la entrada del aeropuerto El Higüero e involucró varios vehículos, entre ellos un Kia K5 y un Toyota Corolla de 1992.
+
+La Defensa Civil confirmó que las autoridades están en el lugar realizando el levantamiento de los cadáveres. Las víctimas serían oriundas de Los Botados. Las circunstancias del accidente aún están bajo investigación.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792766698/noticias/articles/20261023_144458_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 23 Oct 2026 14:45:27 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261023144527</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fuerza de Supresión de Pandillas informó que contingente salvadoreño ya está en Haití]]></title>
     <link>https://listindiario.com/las-mundiales/haiti/20261022/fuerza-supresion-pandillas-informa-contingente-salvadoreno-llego-jueves-haiti_927237.html</link>
     <description><![CDATA[La Fuerza de Supresión de Pandillas ha confirmado la llegada de un contingente salvadoreño a Haití para apoyar en operaciones de búsqueda y seguridad en Plaine du Cul-de-Sac. 
@@ -1358,25 +1369,6 @@ Machado subrayó que la transición democrática en Venezuela es crucial para la
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792416766/noticias/articles/20261019_133246_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 19 Oct 2026 13:33:12 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261019133312</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Dominicano admite obtener ciudadanía y pasaporte estadounidenses con una identidad falsa]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261019040125</link>
-    <description><![CDATA[Un ciudadano dominicano se declaró culpable en un tribunal federal de Nueva Jersey de obtener ilegalmente la ciudadanía estadounidense y cometer fraude de pasaporte mediante una identidad falsa que lo presentaba como una persona nacida en Cuba, informó la Fiscalía federal.
-
-Se trata de Miguel Darío Bautista Jiménez, de 42 años, residente en Hoboken, quien también utilizaba los nombres “Carlos Chapman Hernandez” y “Carlos Hernandez”. La declaración de culpabilidad se produjo el 14 de octubre ante el juez federal Stanley R. Chesler, en Newark, y fue anunciada por las autoridades el viernes 16 de octubre.
-
-Según los documentos y las declaraciones judiciales citados por la Fiscalía, Bautista Jiménez había sido expulsado de Estados Unidos alrededor de 2013, después de una condena penal en Nueva York. Aproximadamente en junio de 2014 regresó al país utilizando una identidad falsa.
-
-Posteriormente solicitó residencia permanente y naturalización bajo el nombre de “Carlos Chapman Hernandez”. En esos trámites declaró falsamente que nunca había sido condenado, expulsado de Estados Unidos ni encarcelado. Con esa identidad obtuvo documentos de ciudadanía mediante naturalización y un pasaporte estadounidense.
-
-La acusación comprende dos cargos, por obtención ilícita de naturalización y fraude de pasaporte. Cada uno contempla una pena máxima de diez años de prisión; esas penas son límites legales, no una sentencia ya impuesta.
-
-La investigación contó con la participación de Investigaciones de Seguridad Nacional, la Oficina del Inspector General de la Administración del Seguro Social, el Servicio de Seguridad Diplomática y el FBI.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792382449/noticias/articles/20261019_040048_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 19 Oct 2026 04:01:25 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261019040125</guid>
   </item>
 </channel>
 </rss>
