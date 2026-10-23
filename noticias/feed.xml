@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 23 Oct 2026 17:46:13 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 17:48:44 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Policía apresa a hombre por presunta decapitación de otro en Villa Mella]]></title>
+    <link>https://elnuevodiario.com.do/policia-apresa-a-hombre-por-presunta-decapitacion-de-otro-en-villa-mella/</link>
+    <description><![CDATA[La Policía Nacional informó sobre la detención de un hombre acusado de decapitar a otro en la comunidad de Mata San Juan, Villa Mella, Santo Domingo Norte. El presunto agresor, Nelfi Martínez, de 27 años, fue arrestado en flagrante delito.
+
+La víctima, Juan José Almánzar, de 68 años, fue encontrada decapitada mientras estaba sentada en una silla. Agentes de la Subdirección de investigación (Dicrim) están realizando las pesquisas necesarias para esclarecer el caso.
+
+Las autoridades continúan investigando para determinar las circunstancias y el móvil del crimen. No se han ofrecido detalles sobre el arma utilizada ni nuevos elementos del caso.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792777679/noticias/articles/20261023_174759_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 23 Oct 2026 17:48:44 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261023174844</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Embajador de EE. UU. ante la ONU advierte que la guerra con Irán podría extenderse un año más]]></title>
     <link>https://n.com.do/2026/10/23/embajador-de-ee-uu-ante-la-onu-advierte-que-la-guerra-con-iran-podria-extenderse-un-ano-mas/</link>
     <description><![CDATA[El embajador de EE.UU. ante la ONU, Mike Waltz, advirtió que el conflicto con Irán podría prolongarse un año más si no se alcanza un acuerdo. Waltz espera que Irán retome las negociaciones antes de ese plazo.
@@ -1359,17 +1372,6 @@ Volodímir Zelenski denunció que Ucrania no recibió aviso de sus socios antes 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792421651/noticias/articles/20261019_145411_article.webp" type="image/webp"/>
     <pubDate>Mon, 19 Oct 2026 14:54:38 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261019145438</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El Salvador confirma emboscada en Haití contra militares salvadoreños; cuatro siguen desaparecidos]]></title>
-    <link>https://eldia.com.do/el-salvador-confirma-emboscada-contra-militares-en-haiti/</link>
-    <description><![CDATA[La Fuerza Armada de El Salvador ha confirmado que cuatro de sus militares fueron emboscados en Haití por grupos criminales armados. Los militares, pertenecientes a la Fuerza de Tarea Libertad II, lograron salir de un vehículo blindado incendiado tras ser alcanzado por explosivos. Las operaciones para establecer contacto con ellos continúan.
-
-Helicópteros enviados en apoyo también fueron atacados. La Fuerza de Supresión de Pandillas (GSF) confirmó un ataque en Santo, Croix-des-Bouquets, y pidió a los residentes mantenerse alejados de la zona.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792417649/noticias/articles/20261019_134728_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 19 Oct 2026 13:48:49 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261019134849</guid>
   </item>
 </channel>
 </rss>
