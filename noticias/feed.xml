@@ -7,14 +7,33 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 23 Oct 2026 14:45:27 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 15:17:03 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Reportan tres vuelos hacia Haití desde Washington D. C. y otros tres desde El Salvador, incluido SHARK99, un avión de la Fuerza Aérea de Estados Unidos]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261023151703</link>
+    <description><![CDATA[Registros de FlightAware muestran seis vuelos programados hacia Haití este viernes 23 de octubre, tres desde Washington D. C. y otros tres registros desde El Salvador, incluido SHARK99, indicativo asociado a un avión militar estadounidense.
+
+Los vuelos desde Washington Dulles aparecen identificados como N365TX, GJE1021 y GJE2226, con llegadas previstas entre las 10:13 de la mañana y la 1:05 de la tarde.
+
+Desde El Salvador figuran dos registros bajo el identificador HVY601 y uno correspondiente a SHARK99, un Lockheed Martin C-130J Super Hercules de la Fuerza Aérea de Estados Unidos, con llegada prevista a Puerto Príncipe a las 2:07 de la tarde.
+
+El movimiento coincide con el despliegue de fuerzas especiales salvadoreñas para rescatar a cuatro militares desaparecidos tras una emboscada de pandillas el 18 de octubre en Croix-des-Bouquets.
+
+Según The Associated Press, El Salvador envió inicialmente 100 efectivos y preparaba el despliegue de otros 100, después de que Nayib Bukele anunciara una operación militar de rescate.
+
+Hasta el momento, las autoridades estadounidenses no han informado públicamente sobre una participación directa de SHARK99 en la operación de rescate. Mientras tanto, las fuerzas haitianas e internacionales mantienen las intervenciones para localizar a los cuatro salvadoreños, cuyo paradero continúa sin esclarecerse.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792768595/noticias/articles/20261023_151634_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 23 Oct 2026 15:17:03 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261023151703</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Al menos cinco muertos en accidente en la Circunvalación de Santo Domingo]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/23/cinco-muertos-en-accidente-de-transito-en-santo-domingo/3698155</link>
     <description><![CDATA[Un accidente de tránsito en la avenida Circunvalación de Santo Domingo dejó al menos cinco muertos. El incidente ocurrió cerca de la entrada del aeropuerto El Higüero e involucró varios vehículos, entre ellos un Kia K5 y un Toyota Corolla de 1992.
@@ -1356,19 +1375,6 @@ De esta manera, las sedes consulares en Costa Rica y Honduras funcionarán como 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792417130/noticias/articles/20261019_133849_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 19 Oct 2026 13:39:16 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261019133916</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[María Corina Machado exige fijar elecciones en Venezuela]]></title>
-    <link>https://listindiario.com/la-republica/politica/20261019/maria-corina-machado-exige-fijar-elecciones-venezuela_926654.html</link>
-    <description><![CDATA[María Corina Machado, líder opositora venezolana, ha exigido la fijación de elecciones en Venezuela y ha descartado la posibilidad de amnistías para violadores de derechos humanos, afirmando que son contrarias a la Constitución.
-
-En una entrevista, Machado apeló a la unidad nacional y urgió a América Latina a no ser indiferente ante la situación en Venezuela. Destacó la importancia de un calendario electoral y la necesidad de un nuevo Tribunal Supremo de Justicia y un nuevo Consejo Nacional Electoral.
-
-Machado subrayó que la transición democrática en Venezuela es crucial para la estabilidad regional y la seguridad hemisférica, y que el país requiere un futuro democrático para resolver los problemas actuales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792416766/noticias/articles/20261019_133246_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 19 Oct 2026 13:33:12 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261019133312</guid>
   </item>
 </channel>
 </rss>
