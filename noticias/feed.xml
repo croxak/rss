@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 23 Oct 2026 13:32:25 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 14:25:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Fuerza de Supresión de Pandillas informó que contingente salvadoreño ya está en Haití]]></title>
+    <link>https://listindiario.com/las-mundiales/haiti/20261022/fuerza-supresion-pandillas-informa-contingente-salvadoreno-llego-jueves-haiti_927237.html</link>
+    <description><![CDATA[La Fuerza de Supresión de Pandillas ha confirmado la llegada de un contingente salvadoreño a Haití para apoyar en operaciones de búsqueda y seguridad en Plaine du Cul-de-Sac. 
+
+Cinco soldados salvadoreños están desaparecidos tras ser emboscados en las afueras de Puerto Príncipe. El ataque ocurrió en Croix-des-Bouquets, y se sospecha que la banda 400 Mawozo está detrás del secuestro.
+
+El presidente de El Salvador, Nayib Bukele, ha lanzado un ultimátum a las pandillas haitianas para que liberen a los soldados salvadoreños, advirtiendo de posibles represalias.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792765508/noticias/articles/20261023_142508_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 23 Oct 2026 14:25:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261023142541</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Vaguada mantendrá fuertes aguaceros; siguen alertas por inundaciones]]></title>
     <link>https://noticiassin.com/pais/clima/2026/10/23/vaguada-mantendra-fuertes-aguaceros-siguen-alertas-por-inundaciones-2151816/</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) pronostica fuertes aguaceros, tormentas eléctricas y ráfagas de viento en varias regiones del país debido a una vaguada. Las lluvias se esperan principalmente durante la tarde y primeras horas de la noche.
@@ -1364,17 +1377,6 @@ La investigación contó con la participación de Investigaciones de Seguridad N
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792382449/noticias/articles/20261019_040048_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 19 Oct 2026 04:01:25 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261019040125</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Lula y Flávio Bolsonaro chocan en debate por las sospechas de corrupción de sus entornos]]></title>
-    <link>https://www.diariolibre.com/mundo/america-latina/2026/10/18/lula-y-flavio-bolsonaro-chocan-en-debate/3692968</link>
-    <description><![CDATA[Luiz Inácio Lula da Silva y Flávio Bolsonaro protagonizaron un tenso debate televisado, intercambiando acusaciones de corrupción. Lula cuestionó los pagos de Daniel Vorcaro para financiar una película sobre Jair Bolsonaro.
-
-Flávio Bolsonaro respondió mencionando investigaciones contra el hijo de Lula. Ambos candidatos están empatados técnicamente en las encuestas para la segunda vuelta de las elecciones presidenciales en Brasil.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792381825/noticias/articles/20261019_035025_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 19 Oct 2026 03:50:51 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261019035051</guid>
   </item>
 </channel>
 </rss>
