@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 23 Oct 2026 13:31:05 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 23 Oct 2026 13:32:25 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Vaguada mantendrá fuertes aguaceros; siguen alertas por inundaciones]]></title>
+    <link>https://noticiassin.com/pais/clima/2026/10/23/vaguada-mantendra-fuertes-aguaceros-siguen-alertas-por-inundaciones-2151816/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) pronostica fuertes aguaceros, tormentas eléctricas y ráfagas de viento en varias regiones del país debido a una vaguada. Las lluvias se esperan principalmente durante la tarde y primeras horas de la noche.
+
+Las regiones afectadas incluyen La Altagracia, La Romana, San Pedro de Macorís, Monte Plata, el Gran Santo Domingo, San Cristóbal, Azua, Peravia, Monseñor Nouel, La Vega, Barahona y Pedernales. Se mantienen alertas por posibles inundaciones urbanas y crecidas de ríos.
+
+El INDOMET también vigila una zona de baja presión al este/sureste de las Bermudas, que podría desarrollarse en los próximos días, pero no representa peligro para República Dominicana.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792762315/noticias/articles/20261023_133154_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 23 Oct 2026 13:32:25 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261023133225</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Empresario de origen dominicano César Humberto Piña, “Flipping NJ”, admite fraude inmobiliario, lavado y soborno en Nueva Jersey]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261023133105</link>
     <description><![CDATA[El empresario de origen dominicano César Humberto Piña, conocido como “Flipping NJ”, se declaró culpable el 22 de octubre ante un tribunal federal en Newark, Nueva Jersey, de fraude electrónico, conspiración para lavar dinero y dos modalidades de soborno, informó la fiscalía federal.
@@ -1362,17 +1375,6 @@ Flávio Bolsonaro respondió mencionando investigaciones contra el hijo de Lula.
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792381825/noticias/articles/20261019_035025_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 19 Oct 2026 03:50:51 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261019035051</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Cinco soldados salvadoreños de fuerza contra pandillas desaparecidos tras ataque en Haití]]></title>
-    <link>https://www.swissinfo.ch/spa/cinco-soldados-salvadoreños-de-fuerza-contra-pandillas-desaparecidos-tras-ataque-en-haití/92236186</link>
-    <description><![CDATA[Cinco soldados salvadoreños de la Fuerza de Supresión de Pandillas están desaparecidos después de ser emboscados en las afueras de Puerto Príncipe, Haití. El incidente tuvo lugar en Croix-des-Bouquets, a 12 kilómetros de la capital.
-
-Según testigos, se ha iniciado una operación militar y policial, con helicópteros, para rescatar a los soldados. Hasta el momento, ni el Gobierno haitiano ni la GSF han emitido declaraciones sobre el incidente.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792381419/noticias/articles/20261019_034339_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 19 Oct 2026 03:46:38 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261019034638</guid>
   </item>
 </channel>
 </rss>
