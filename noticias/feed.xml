@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 24 Oct 2026 15:05:12 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 16:01:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Reportan traslado de blindados Yagu salvadoreños hacia Haití en avión militar estadounidense C-130]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261024160134</link>
+    <description><![CDATA[Imágenes difundidas este sábado 24 de octubre muestran al menos dos vehículos tácticos blindados Yagu, de fabricación mexicana y pertenecientes al Ejército de El Salvador, durante maniobras de preparación de carga en el Aeropuerto Internacional San Óscar Arnulfo Romero y Galdámez, en Comalapa.
+
+Según reportes de seguimiento militar, los vehículos estarían siendo preparados para su traslado hacia Haití a bordo de un avión de transporte militar C-130 estadounidense, como parte del refuerzo de las operaciones destinadas a localizar y rescatar a cuatro aerotécnicos salvadoreños secuestrados el pasado 18 de octubre en Croix-des-Bouquets.
+
+Los Yagu son vehículos blindados ultraligeros, desarrollados mediante tecnología israelí y fabricados en México por IBN Industrias Militares. El Ejército salvadoreño los incorporó en 2022 para operaciones contra pandillas, patrullajes y misiones especiales. Tienen capacidad para tres ocupantes, protección balística y sistemas de vigilancia.
+
+El despliegue se produce mientras las fuerzas salvadoreñas, junto con la Fuerza de Supresión de Pandillas y la Policía Nacional de Haití, mantienen operaciones en territorios donde actúan las organizaciones armadas Chen Mechan y 400 Mawozo, esta última dirigida por Wilson Joseph, conocido como Lanmò San Jou.
+
+En paralelo, El Salvador ha enviado contingentes de fuerzas especiales a Haití, mientras se ha documentado la participación de aeronaves estadounidenses en el transporte de efectivos hacia Puerto Príncipe.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792857624/noticias/articles/20261024_160024_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 24 Oct 2026 16:01:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261024160134</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Dominicano de 26 años es asesinado a tiros frente a una vivienda en Chile]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261024150512</link>
     <description><![CDATA[Un ciudadano dominicano de 26 años fue encontrado muerto con múltiples impactos de bala durante la madrugada de este sábado 24 de octubre, frente a una vivienda ubicada en la comuna de Recoleta, en la Región Metropolitana de Santiago de Chile.
@@ -1387,23 +1404,6 @@ Se impulsaron acciones para establecer un protocolo regional de intercambio de i
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792464601/noticias/articles/20261020_025001_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 20 Oct 2026 02:50:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261020025028</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Sin subsidios, el gasoil regular costaría RD$390.80 por galón, informa Gobierno]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/10/19/gobierno-subsidia-gasoil-regular-y-evita-alza-a-rd390-80-2148278/</link>
-    <description><![CDATA[El Gobierno dominicano subsidia el gasoil regular con RD$120 por galón, evitando que su precio suba a RD$390.80. Actualmente, el precio es de RD$270.80.
-
-El ministro de Industria, Comercio y Mipymes, Eduardo Sanz Lovatón, informó que el Gobierno destinó más de RD$1,800 millones a los subsidios de los combustibles durante la semana pasada.
-
-El gasoil óptimo también recibe un subsidio de RD$120 por galón, manteniendo su precio en RD$318. La gasolina prémium cuesta RD$358 por galón, pero sin subsidio sería RD$384.
-
-El gas licuado de petróleo (GLP) recibe una subvención de RD$52 por galón. El gasoil utilizado por el transporte federado tiene el subsidio más alto, de RD$200 por galón.
-
-Sanz Lovatón explicó que los subsidios buscan reducir el impacto de los precios de los combustibles sobre los consumidores.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792463927/noticias/articles/20261020_023847_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 20 Oct 2026 02:39:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261020023914</guid>
   </item>
 </channel>
 </rss>
