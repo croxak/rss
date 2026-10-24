@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 24 Oct 2026 23:04:58 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 24 Oct 2026 23:09:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[República Dominicana envía militares a frontera en medio de la creciente tensión en Haití]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/10/24/refuerzo-en-frontera-haiti-por-ejercito-de-republica-dominicana/3699384</link>
+    <description><![CDATA[El Ejército de República Dominicana ha reforzado la frontera con Haití enviando un convoy de militares. La medida responde a la creciente tensión en Haití tras la desaparición de cuatro soldados salvadoreños de la Fuerza de Supresión de Pandillas.
+
+El ministro de la Presidencia, José Ignacio Paliza, informó que hay más de 10,000 efectivos militares desplegados a lo largo de la frontera. Además, se espera completar casi 80 kilómetros de muro fronterizo para finales de 2027.
+
+En Haití, un contingente salvadoreño llegó para apoyar la búsqueda de los soldados desaparecidos. El presidente Nayib Bukele calificó a las pandillas en Haití como "satánicas". La violencia de las bandas ha causado más de 5,700 muertes o heridos este año, afectando la estabilidad política y las elecciones previstas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792883312/noticias/articles/20261024_230832_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 24 Oct 2026 23:09:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261024230902</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El diputado Rogelio Genao renuncia al PRSC y cuestiona el rumbo de la organización]]></title>
     <link>https://www.diariolibre.com/politica/partidos/2026/10/24/lo-que-llevo-al-diputado-rogelio-genao-a-renunciar-al-prsc/3699346</link>
     <description><![CDATA[El diputado Rogelio Alfonso Genao, representante de La Vega, ha renunciado al Partido Reformista Social Cristiano (PRSC) y a todos sus cargos en la organización. En una carta dirigida al presidente del partido, Federico Antún Batlle, Genao expresó su preocupación por la falta de rumbo y liderazgo del PRSC.
@@ -1385,19 +1398,6 @@ El fiscal también reveló que en el inmueble se han registrado anteriormente ep
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792473539/noticias/articles/20261020_051858_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 20 Oct 2026 05:20:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261020052006</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministro de Energía prevé reducción de las facturas eléctricas por llegada de meses más fríos]]></title>
-    <link>https://elnuevodiario.com.do/ministro-de-energia-preve-reduccion-de-las-facturas-electricas-por-llegada-del-frio/</link>
-    <description><![CDATA[El ministro de Energía y Minas, Joel Santos, prevé una reducción en las facturas eléctricas debido a la llegada de meses más fríos, lo que disminuiría el consumo de energía.
-
-Santos explicó que las altas facturas recientes se deben al aumento del consumo por las elevadas temperaturas, ubicando a los usuarios en rangos de consumo más altos con menores subsidios, aunque todas las tarifas son subsidiadas.
-
-Aseguró que las tarifas no han aumentado desde 2022. Las pérdidas eléctricas actuales son del 39 %, con un 97 % de energía disponible entregada. Los precios por consumo varían según el rango de kilovatios-hora.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792470551/noticias/articles/20261020_042911_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 20 Oct 2026 04:31:27 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261020043127</guid>
   </item>
 </channel>
 </rss>
