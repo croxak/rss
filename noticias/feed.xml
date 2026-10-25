@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 25 Oct 2026 15:17:46 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 15:29:11 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Investigan la muerte a tiros de un dominicano durante una persecución policial en Montevideo]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261025152911</link>
+    <description><![CDATA[La Fiscalía de Homicidios y la Policía de Uruguay investigan la muerte de un ciudadano dominicano de 40 años que recibió disparos policiales durante una persecución ocurrida la madrugada del jueves 22 de octubre en Montevideo. El incidente también dejó varias personas heridas, según informaron los medios locales Montevideo Portal y Subrayado.
+
+De acuerdo con las publicaciones, la persecución comenzó alrededor de las 3:00 de la mañana en la zona de Reducto y se extendió por varios barrios hasta las inmediaciones del Hipódromo de Maroñas. En el operativo participaron aproximadamente diez patrulleros.
+
+Subrayado indicó que el vehículo, un automóvil eléctrico blanco, terminó con al menos 15 impactos de bala y fue interceptado en General Flores y Guerra. Las autoridades investigan por qué el conductor no se detuvo y qué relación tenía con las demás personas que viajaban con él.
+
+Como parte de las actuaciones, los agentes involucrados fueron desarmados preventivamente y citados a declarar. La investigación incluye peritajes de Policía Científica y la revisión de cámaras de seguridad para reconstruir lo sucedido. El retiro de las armas no constituye por sí mismo una acusación penal contra los efectivos.
+
+Uno de los ocupantes sostuvo que habían solicitado un viaje mediante Uber. Sin embargo, fuentes de la investigación citadas por Montevideo Portal señalaron que el fallecido no figuraba como conductor registrado y que no constaba una solicitud de viaje al momento del hecho. Esa versión permanece bajo esclarecimiento.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792942127/noticias/articles/20261025_152847_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 25 Oct 2026 15:29:11 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261025152911</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fuerza internacional en Haití confirma recepción de restos humanos, pero no puede confirmar su identidad]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261025151746</link>
     <description><![CDATA[La Fuerza de Supresión de Pandillas (GSF) confirmó este domingo 25 de octubre que recibió restos humanos sin identificar que podrían pertenecer a los cuatro aerotécnicos salvadoreños desaparecidos en Haití, tras una emboscada perpetrada por grupos armados el pasado 18 de octubre en Croix-des-Bouquets.
@@ -1389,19 +1406,6 @@ Las autoridades interceptaron una lancha rápida al suroeste de la isla Beata, o
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792517064/noticias/articles/20261020_172423_article.png" type="image/png"/>
     <pubDate>Tue, 20 Oct 2026 17:29:15 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261020172915</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Salcedo mantiene paro de 48 horas ante falta de respuestas de las autoridades]]></title>
-    <link>https://noticiassin.com/pais/provincias/2026/10/20/salcedo-mantiene-huelga-de-48-horas-por-reclamos-2148769/</link>
-    <description><![CDATA[Salcedo continúa en huelga de 48 horas por la falta de respuesta a demandas como el mal estado de calles y problemas en el suministro de agua.
-
-El dirigente popular Rafael Ramos reiteró que la huelga se mantendrá debido a la falta de respuestas de las autoridades a las demandas de las comunidades.
-
-Entre las problemáticas figuran el deterioro de las calles, deficiencias del sistema cloacal, falta de aceras y contenes, y dificultades en el suministro de agua potable.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792516644/noticias/articles/20261020_171724_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 20 Oct 2026 17:17:51 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261020171751</guid>
   </item>
 </channel>
 </rss>
