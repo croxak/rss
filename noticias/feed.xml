@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 25 Oct 2026 17:01:37 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 17:08:03 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Trump tras el regreso de María Corina Machado a Venezuela: "espero esté a salvo"]]></title>
+    <link>https://efe.com/mundo/maria-corina-machado-regreso-venezuela-trump-reacciones-internacionales/</link>
+    <description><![CDATA[El presidente de Estados Unidos, Donald Trump, expresó este domingo su deseo de que la líder opositora venezolana y premio nobel de la paz 2025, María Corina Machado, esté a salvo, tras su regreso a Venezuela, donde reapareció en una iglesia católica del estado Lara, en el noroeste del país.
+
+«Es una mujer muy agradable. Me dio su Premio Nobel, así que ¿cómo puedo decir otra cosa? Y espero que esté a salvo», declaró Trump esta mañana a reporteros en Washington.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792947740/noticias/articles/20261025_170219_article.webp" type="image/webp"/>
+    <pubDate>Sun, 25 Oct 2026 17:08:03 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261025170803</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Contratista de la CIA es detenido por presuntamente filtrar información clasificada a su novia periodista; enfrenta hasta 10 años de prisión]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261025170137</link>
     <description><![CDATA[El Buró Federal de Investigaciones (FBI) arrestó a Ian Brinksman, de 42 años, contratista de la Agencia Central de Inteligencia (CIA), acusado de transmitir información clasificada de seguridad nacional a su pareja sentimental, la periodista Aída Chávez, quien habría utilizado esos datos para publicar investigaciones sobre política exterior y conflictos internacionales.
@@ -1405,19 +1416,6 @@ Un nuevo sistema de interoperabilidad se implementará en diciembre de 2026 para
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792542099/noticias/articles/20261021_002139_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 21 Oct 2026 00:22:49 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261021002249</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[La brasileña Gol suspenderá sus vuelos a Punta Cana por alza de combustible]]></title>
-    <link>https://www.arecoa.com/aerolineas/2026/10/20/la-brasilena-gol-suspendera-sus-vuelos-a-punta-cana-por-alza-de-combustible/</link>
-    <description><![CDATA[Gol Linhas Aéreas anunció la suspensión de varias rutas internacionales hacia Estados Unidos y el Caribe debido al aumento del precio del combustible. A partir de febrero de 2027, se suspenderán los vuelos desde Brasília, Fortaleza y Belém hacia Miami y Orlando, así como la ruta de São Paulo-Guarulhos a Punta Cana.
-
-La aerolínea ajustará su programa de vuelos, reduciendo frecuencias y suspendiendo operaciones en ciertas rutas. Sin embargo, mantendrá opciones de conectividad para sus clientes a través de vuelos con conexión y alianzas estratégicas.
-
-El combustible ahora representa aproximadamente el 40% de los costos operativos de Gol, lo que ha llevado a estos ajustes en su red de destinos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792525837/noticias/articles/20261020_195037_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 20 Oct 2026 19:51:04 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261020195104</guid>
   </item>
 </channel>
 </rss>
