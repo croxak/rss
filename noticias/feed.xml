@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 25 Oct 2026 17:08:03 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 17:10:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Municiones robadas de la Policía Nacional tenían un valor de más de 92 millones de pesos]]></title>
+    <link>https://listindiario.com/la-republica/20261025/municiones-robadas-policia-nacional-tenian-valor-mas-92-millones-pesos_927427.html</link>
+    <description><![CDATA[Municiones robadas de la Policía Nacional dominicana, valoradas en más de 92 millones de pesos, fueron desviadas y utilizadas por bandas delictivas en Haití. Un inventario reveló la falta de 908,001 unidades de diversos calibres.
+
+La Operación Pandora resultó en la detención de varios implicados, incluyendo altos mandos policiales. Marino Antonio Rodríguez Toribio fue condenado a cinco años de arresto domiciliario y Miguelina Bello Segura a tres años de prisión, con parte de la pena suspendida.
+
+Otros acusados enfrentan juicio con medidas cautelares, como garantía económica y presentación periódica ante el Ministerio Público.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792948168/noticias/articles/20261025_170928_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 25 Oct 2026 17:10:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261025171014</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Trump tras el regreso de María Corina Machado a Venezuela: "espero esté a salvo"]]></title>
     <link>https://efe.com/mundo/maria-corina-machado-regreso-venezuela-trump-reacciones-internacionales/</link>
     <description><![CDATA[El presidente de Estados Unidos, Donald Trump, expresó este domingo su deseo de que la líder opositora venezolana y premio nobel de la paz 2025, María Corina Machado, esté a salvo, tras su regreso a Venezuela, donde reapareció en una iglesia católica del estado Lara, en el noroeste del país.
@@ -1403,19 +1416,6 @@ Metz Cruz también enfrenta cargos por una agresión con armas de fuego contra u
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792542218/noticias/articles/20261021_002338_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 21 Oct 2026 00:24:07 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261021002407</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Migración levanta impedimentos de salida a 56,140 ciudadanos sin sustento legal por orden de la PGR]]></title>
-    <link>https://www.diariolibre.com/actualidad/justicia/2026/10/20/migracion-levanta-impedimentos-de-salida-a-56140-ciudadanos/3695275</link>
-    <description><![CDATA[La Procuraduría General de la República ha solicitado a la Dirección General de Migración levantar impedimentos de salida y alertas migratorias a ciudadanos sin sustento judicial. Esta acción forma parte de un proceso de depuración de registros acumulados desde 1990, beneficiando a 56,140 ciudadanos.
-
-La revisión fue realizada por una mesa técnica del Ministerio Público y Migración, que identificó registros sin respaldo judicial, incluidos casos concluidos y errores administrativos. La procuradora Yeni Berenice Reynoso pidió priorizar el levantamiento de registros sin base legal, históricos sin identificación adecuada y aquellos con restricciones cumplidas.
-
-Un nuevo sistema de interoperabilidad se implementará en diciembre de 2026 para mejorar la gestión de impedimentos de salida.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792542099/noticias/articles/20261021_002139_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 21 Oct 2026 00:22:49 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261021002249</guid>
   </item>
 </channel>
 </rss>
