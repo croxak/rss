@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 25 Oct 2026 17:12:49 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 25 Oct 2026 17:27:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Reportan vehículo volcado en Piantini; agentes del DICRIM se encuentran en la escena]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261025172705</link>
+    <description><![CDATA[Un vehículo terminó volcado sobre uno de sus costados este domingo 25 de octubre, en un confuso incidente registrado en la calle Manuel de Jesús Troncoso, casi esquina Max Henríquez Ureña, en el sector Piantini del Distrito Nacional.
+
+Imágenes obtenidas por El Testigo muestran el vehículo de color oscuro volcado en plena vía pública, mientras varios agentes de la Dirección Central de Investigación (DICRIM) de la Policía Nacional permanecen en la escena. También se observa la presencia de unidades policiales y una ambulancia del sistema de emergencias.
+
+Hasta el momento, se desconocen las circunstancias en las que ocurrió el incidente, así como si existen personas heridas o detenidas. Tampoco se ha establecido si la presencia de los agentes del DICRIM responde a un operativo policial o a labores de investigación posteriores al hecho.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792949201/noticias/articles/20261025_172641_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 25 Oct 2026 17:27:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261025172705</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Caso Jet Set: Designan tribunal que conocerá nuevo juicio contra hermanos Espaillat]]></title>
     <link>https://noticiassin.com/pais/justicia/2026/10/25/caso-jet-set-designan-tribunal-que-conocera-nuevo-juicio-contra-hermanos-espaillat-2153585/</link>
     <description><![CDATA[El Primer Tribunal Colegiado de la Cámara Penal del Juzgado de Primera Instancia del Distrito Nacional, presidido por la magistrada Esmirna Gisselle Méndez, ha sido designado para conocer el nuevo juicio contra Antonio y Maribel Espaillat.
@@ -1403,25 +1416,6 @@ La Policía Nacional continúa la búsqueda de los demás implicados en la muert
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792556595/noticias/articles/20261021_042315_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 21 Oct 2026 04:24:16 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261021042416</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Detienen a dos dominicanos y a un chino con cocaína valorada en US$5.5 millones en Puerto Rico]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261021004638</link>
-    <description><![CDATA[Dos ciudadanos dominicanos y uno chino fueron detenidos por la Guardia Costera de Estados Unidos tras la incautación de un cargamento de 489 libras de cocaína, equivalentes a unos 222 kilogramos, valorado en aproximadamente 5.5 millones de dólares, durante una operación marítima al norte de Isabela, Puerto Rico.
-
-Según informaron las autoridades estadounidenses este martes 20 de octubre, la intervención se produjo el pasado 10 de octubre, cuando una aeronave HC-144 Ocean Sentry, perteneciente a la Estación Aérea de Miami, detectó una embarcación rápida sospechosa durante un patrullaje rutinario sobre el océano Atlántico.
-
-Tras el avistamiento, la Guardia Costera movilizó el patrullero Winslow Griesser, cuya tripulación interceptó la embarcación, ocupó el cargamento de cocaína y detuvo a los tres hombres que viajaban a bordo.
-
-Posteriormente, los detenidos fueron entregados al Grupo de Trabajo de Seguridad Nacional en San Juan, mientras que la droga fue trasladada a instalaciones de la Guardia Costera en Puerto Rico.
-
-El comandante Matthew Romano, jefe de respuesta del Sector San Juan, destacó la coordinación entre las unidades aéreas y marítimas que participaron en el operativo, señalando que estas intervenciones buscan impedir la entrada de narcóticos y combatir las redes de tráfico de drogas en la región.
-
-Hasta el momento, las autoridades no han divulgado las identidades de los dos dominicanos ni del ciudadano chino, y tampoco han informado sobre la presentación de cargos formales en su contra.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792543539/noticias/articles/20261021_004538_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 21 Oct 2026 00:46:38 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261021004638</guid>
   </item>
 </channel>
 </rss>
