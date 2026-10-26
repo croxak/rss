@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 25 Oct 2026 17:27:05 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 00:39:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Lula gana las elecciones de Brasil tras una remontada inédita ante Flávio Bolsonaro]]></title>
+    <link>https://acento.com.do/amp/internacional/lula-gana-las-elecciones-de-brasil-9777541.html</link>
+    <description><![CDATA[Luiz Inácio Lula da Silva ha ganado la segunda vuelta de las elecciones en Brasil, asegurando su cuarto mandato como presidente. Lula obtuvo el 51.74 % de los votos, superando a Flávio Bolsonaro, quien alcanzó el 48.26 %.
+
+La diferencia en votos fue de más de 3.8 millones. Esta es la primera vez desde el fin de la dictadura militar que un candidato que quedó en segundo lugar en la primera ronda se impone en la segunda.
+
+En la primera vuelta, Flávio Bolsonaro había sido el más votado con el 47 %, superando a Lula por 2.2 millones de votos. Sin embargo, Lula logró revertir el resultado en la segunda vuelta.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792975113/noticias/articles/20261026_003832_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 26 Oct 2026 00:39:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261026003905</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Reportan vehículo volcado en Piantini; agentes del DICRIM se encuentran en la escena]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261025172705</link>
     <description><![CDATA[Un vehículo terminó volcado sobre uno de sus costados este domingo 25 de octubre, en un confuso incidente registrado en la calle Manuel de Jesús Troncoso, casi esquina Max Henríquez Ureña, en el sector Piantini del Distrito Nacional.
@@ -1403,19 +1416,6 @@ Hasta el momento, no se han determinado las circunstancias del accidente ni se h
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792556776/noticias/articles/20261021_042615_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 21 Oct 2026 04:26:45 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261021042645</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía ultima en San Juan a acusado de matar sargento en Villa Mella la noche del domingo]]></title>
-    <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/20/policia-mata-en-san-juan-a-randy-tejada-valdez/3695349</link>
-    <description><![CDATA[Randy Tejada Valdez, conocido como Randy y/o El Cojo, fue ultimado por agentes de la Dirección Central de Investigación (Dicrim) en Villa Liberación, San Juan. Tejada Valdez estaba acusado de la muerte del sargento mayor Pedro Luis Guerrero Ibis, quien fue asesinado durante un asalto en Santo Domingo Norte.
-
-Además, Tejada Valdez era buscado por su presunta participación en la muerte del oficial retirado Desiderio Pantaleón Ureña. Durante el operativo, las autoridades ocuparon una pistola y un arma de fabricación artesanal.
-
-La Policía Nacional continúa la búsqueda de los demás implicados en la muerte del sargento mayor Guerrero Ibis.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792556595/noticias/articles/20261021_042315_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 21 Oct 2026 04:24:16 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261021042416</guid>
   </item>
 </channel>
 </rss>
