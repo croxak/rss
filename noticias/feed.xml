@@ -7,14 +7,35 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 26 Oct 2026 01:28:39 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 01:46:17 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Denuncian supuesta filtración de 6 millones de registros vinculados al CONAPE con datos médicos y personales]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261026014617</link>
+    <description><![CDATA[Una presunta filtración masiva de información vinculada al Consejo Nacional de la Persona Envejeciente (CONAPE) fue reportada este domingo 25 de octubre, luego de que un usuario identificado como «sqx» publicara en un foro de ciberdelincuencia una supuesta base de datos con 6 millones de registros de ciudadanos dominicanos.
+
+Según la publicación, el conjunto de datos contendría información personal como números de cédula, nombres completos, fechas de nacimiento, direcciones residenciales, teléfonos, estado civil e información sobre familiares e hijos.
+
+Entre los elementos más sensibles que el presunto responsable afirma poseer figuran historiales de enfermedades, medicamentos, condiciones de salud, discapacidades, riesgos médicos y datos relacionados con pensiones y programas de asistencia social del Gobierno dominicano.
+
+La publicación, identificada como «CONAPE REPUBLICA DOMINICANA», señala que la información estaría organizada en archivos de formato JSON y presenta capturas de pantalla de supuestos perfiles individuales con datos personales, de contacto y ubicación.
+
+El usuario «sqx» también enumera campos relacionados con programas sociales como PROVEE, TE AMA, pensiones, seguros, Familias de Cariño y servicios de cuidados domiciliarios.
+
+De confirmarse, la exposición podría comprometer información especialmente sensible de personas adultas mayores y beneficiarios de programas estatales, con posibles riesgos de suplantación de identidad, estafas y utilización indebida de información médica y económica.
+
+Hasta el momento, no se ha podido verificar de manera independiente la autenticidad de los archivos, la cantidad de registros anunciada ni que la información proceda directamente de una vulneración de los sistemas informáticos del CONAPE. Tampoco se ha identificado una confirmación oficial de la institución sobre el supuesto incidente.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792979109/noticias/articles/20261026_014509_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 26 Oct 2026 01:46:17 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261026014617</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader refuerza la frontera con dos batallones adicionales ante operaciones contra pandillas en Haití]]></title>
     <link>https://noticiassin.com/pais/gobierno/2026/10/25/abinader-refuerza-frontera-con-dos-batallones-adicionales-2153723/</link>
     <description><![CDATA[El presidente Luis Abinader ha reforzado la frontera sur de la República Dominicana con dos batallones adicionales, equipos pesados y artillería, en respuesta a la situación de seguridad en Haití.
@@ -1393,21 +1414,6 @@ El medio AmeriqueInfo7 reporta que al menos ocho presuntos pandilleros fueron ab
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792590734/noticias/articles/20261021_135214_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 21 Oct 2026 13:52:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261021135239</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[JCE eliminará las citas en varias oficinas del exterior para renovar la cédula desde noviembre]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/10/21/jce-eliminara-las-citas-en-varias-oficinas-del-exterior-para-renovar-la-cedula-desde-noviembre-2149652/</link>
-    <description><![CDATA[La Junta Central Electoral (JCE) cambiará el sistema de atención para la renovación de cédulas en varias oficinas del exterior desde el 2 de noviembre. En algunas oficinas, se eliminarán las citas previas y se atenderá por orden de llegada, con un límite de turnos según la capacidad operativa.
-
-Esta medida se aplicará en oficinas de Toronto, Montreal, Atlanta, Panamá, Curazao, Valencia, Holanda, Springfield, Ottawa, Chicago, Ciudad de México, Tampa, Aruba, Génova, Sevilla, Pensilvania, Waterbury y Providencia.
-
-En otras oficinas, se implementará un sistema híbrido que permitirá atender tanto a personas con citas como a quienes lleguen sin reserva. Este modelo se aplicará en Nueva York, Nueva Jersey, Boston, Reading, Washington, Filadelfia, Providence, California, Puerto Rico, Miami, Orlando, San Martín, Vitacura, Madrid, Barcelona, Milán, Zúrich, y otras localidades.
-
-La JCE ha aprobado un instructivo para regular la atención durante la renovación de documentos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792590302/noticias/articles/20261021_134502_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 21 Oct 2026 13:45:35 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261021134535</guid>
   </item>
 </channel>
 </rss>
