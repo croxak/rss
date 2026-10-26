@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 26 Oct 2026 22:00:43 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 22:03:29 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[ONU denuncia trata de personas de RD y otros 28 países para combatir en guerra]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/10/26/rusia-y-la-trata-de-personas-en-republica-dominicana/3701199</link>
+    <description><![CDATA[La ONU ha denunciado que la República Dominicana es uno de los 29 países de los que se han reclutado hombres mediante trata de personas para combatir en Ucrania. Según el informe, las autoridades rusas utilizaron engaños y presiones para reclutar a ciudadanos extranjeros.
+
+En República Dominicana, familiares han denunciado que sus parientes recibieron ofertas de empleo, pero terminaron vinculados al reclutamiento militar. El Ministerio de Relaciones Exteriores gestionó el regreso de cuatro dominicanos que no llegaron a firmar contratos militares.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793052171/noticias/articles/20261026_220250_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 26 Oct 2026 22:03:29 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261026220329</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno anuncia que inaugurará 38 kilómetros de verja fronteriza en diciembre]]></title>
     <link>https://www.diariolibre.com/politica/gobierno/2026/10/26/gobierno-anuncia-que-inaugurara-38-kilometros-de-verja-fronteriza/3701303</link>
     <description><![CDATA[El Gobierno dominicano tiene previsto inaugurar en diciembre un tramo de 38 kilómetros de la verja fronteriza desde Manzanillo hasta Capotillo. Este proyecto incluye tres puentes y es parte de las medidas para reforzar la seguridad en la frontera con Haití.
@@ -1405,19 +1416,6 @@ La captura fue resultado de la coordinación entre la Policía y el Ministerio P
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792624897/noticias/articles/20261021_232135_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 21 Oct 2026 23:22:08 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261021232208</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[COE coloca 22 provincias en alerta verde por lluvias de hasta 200 milímetros]]></title>
-    <link>https://noticiassin.com/pais/clima/2026/10/21/coe-coloca-22-provincias-en-alerta-verde-por-lluvias-2150351/</link>
-    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha colocado en alerta verde a 22 provincias de la República Dominicana debido a lluvias intensas que podrían acumular hasta 200 milímetros entre la madrugada del jueves y el sábado. 
-
-El Instituto Dominicano de Meteorología (Indomet) informó que las lluvias comenzarán el jueves y se intensificarán el viernes. La directora del Indomet, Gloria Ceballos, señaló que una vaguada y una corriente de humedad son responsables de estas condiciones.
-
-El director del COE, coronel Edwin Olivares, ha instruido a las instituciones a activar sus comités de prevención. Se exhorta a la población a evitar cruzar ríos y a seguir los boletines oficiales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792624839/noticias/articles/20261021_232038_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 21 Oct 2026 23:21:15 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261021232115</guid>
   </item>
 </channel>
 </rss>
