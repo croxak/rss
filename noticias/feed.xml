@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 26 Oct 2026 18:05:18 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 18:06:47 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Putin felicita a Lula y resalta su aporte al fortalecimiento de los lazos entre Rusia y Brasil]]></title>
+    <link>https://listindiario.com/las-mundiales/20261026/putin-felicita-lula-resalta-aporte-fortalecimiento-lazos-rusia-brasil_927600.html</link>
+    <description><![CDATA[El presidente de Rusia, Vladímir Putin, felicitó al presidente electo de Brasil, Luiz Inácio Lula da Silva, por su reelección. Putin resaltó la contribución de Lula al fortalecimiento de la alianza estratégica entre Brasil y Rusia.
+
+Putin expresó su confianza en continuar la cooperación bilateral en la ONU, el BRICS, el G20 y otras estructuras multilaterales. También felicitó a Lula por su próximo cumpleaños, deseándole salud, prosperidad y éxito.
+
+El portavoz del Kremlin, Dmitri Peskov, celebró la victoria de Lula y expresó confianza en que ambos países profundizarán sus relaciones. Lula ganó la segunda vuelta de las elecciones con un 51,76 % de los votos frente al 48,24 % de Flávio Bolsonaro.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793037969/noticias/articles/20261026_180608_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 26 Oct 2026 18:06:47 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261026180647</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Cancillería dice que mensaje atribuido a Bukele contra República Dominicana es falso]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/10/26/nayib-bukele-y-las-declaraciones-falsas-sobre-el-gobierno/3701101</link>
     <description><![CDATA[El Ministerio de Relaciones Exteriores de la República Dominicana ha desmentido una publicación en redes sociales que atribuía al presidente de El Salvador, Nayib Bukele, declaraciones contra el Gobierno y las Fuerzas Armadas dominicanas. La Cancillería confirmó que el mandatario no realizó tales declaraciones y que el contenido proviene de una cuenta inexistente.
@@ -1387,21 +1400,6 @@ Bukele ha iniciado una operación militar para rescatarlos y ha advertido que lo
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792617962/noticias/articles/20261021_212601_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 21 Oct 2026 21:26:48 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261021212648</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Deportan de EE. UU. a “Petán”, requerido desde 2021 por homicidio en Villa Consuelo]]></title>
-    <link>https://elnuevodiario.com.do/deportan-desde-ee-uu-a-petan-es-requerido-desde-2021-por-un-homicidio-en-villa-consuelo/</link>
-    <description><![CDATA[La Policía Nacional de República Dominicana recibió a Bryan Rafael Gómez, alias "Petán", deportado desde Estados Unidos por su presunta vinculación en un homicidio en Villa Consuelo en marzo de 2021.
-
-Gómez llegó al país el 20 de octubre por el Aeropuerto Internacional de Las Américas y fue procesado en el Vacacional de Haina antes de ser entregado al Departamento de Crímenes y Delitos Contra las Personas.
-
-Enfrenta una orden de arresto y una notificación roja de búsqueda internacional por asociación de malhechores, homicidio y porte ilegal de armas de fuego, en perjuicio de Richy de Jesús Martínez y Catán Rodríguez Tatán.
-
-La detención fue coordinada por Interpol Santo Domingo, la Dirección General de Migración y la Unidad de Repatriados de la Procuraduría General de la República. Será presentado ante las autoridades judiciales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792609989/noticias/articles/20261021_191309_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 21 Oct 2026 19:13:53 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261021191353</guid>
   </item>
 </channel>
 </rss>
