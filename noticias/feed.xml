@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 26 Oct 2026 16:07:22 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 16:13:27 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[PN arresta a “El Sape” por presunta tentativa de homicidio en Santiago]]></title>
+    <link>https://elnuevodiario.com.do/pn-arresta-a-el-sape-por-presunta-tentativa-de-homicidio-en-santiago/</link>
+    <description><![CDATA[La Policía Nacional detuvo a Starlyn Daniel Marte Parra, conocido como “El Sape”, de 22 años, en Santiago. Se le acusa de un intento de homicidio ocurrido el 24 de agosto de 2026 en La Yagüita del Pastor.
+
+El incidente se produjo tras una discusión frente a un establecimiento comercial, donde se realizaron disparos contra un vehículo. La víctima logró escapar ilesa.
+
+Marte Parra, buscado por la justicia, será entregado al Ministerio Público para los procedimientos legales.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793031171/noticias/articles/20261026_161250_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 26 Oct 2026 16:13:27 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261026161327</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Líder de 400 Mawozo supone que los cuatro salvadoreños desaparecidos murieron en Haití]]></title>
     <link>https://www.diariolibre.com/mundo/haiti/2026/10/26/banda-400-mawozo-supone-que-salvadorenos-desaparecidos-murieron/3700954</link>
     <description><![CDATA[Wilson Joseph, líder de la banda 400 Mawozo, sugirió que los cuatro militares salvadoreños desaparecidos desde el 18 de octubre pudieron haber muerto en un enfrentamiento armado en Haití. En un video, mencionó que los salvadoreños podrían haber muerto durante un tiroteo en el territorio de Chen Mechan.
@@ -1407,19 +1420,6 @@ El detenido es señalado en relación con la muerte de Deivy Carlos Abreu Quezad
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792605262/noticias/articles/20261021_175422_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 21 Oct 2026 17:55:30 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261021175530</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader presenta balance de fondos de Aerodom; veedores sitúan ejecución de obras en 35 %]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/10/21/abinader-presenta-balance-de-fondos-de-aerodom-veedores-situan-ejecucion-de-obras-en-35-2149885/</link>
-    <description><![CDATA[El presidente Luis Abinader presentó el balance de fondos de Aerodom, informando que el Gobierno ha ejecutado el 35 % de los US$480 millones contratados en obras. Ricardo Canales, presidente de la comisión de veedores, atribuyó retrasos iniciales a expropiaciones.
-
-El ministro de Obras Públicas, Eduardo Estrella, detalló proyectos como el drenaje de la avenida Luperón y la solución vial de Isabel Aguiar con Pintura. También se mencionó la construcción del puente basculante de Santo Domingo y el paso a desnivel de Charles de Gaulle.
-
-Abinader destacó la diferencia entre las obras gubernamentales y las inversiones de Aerodom, señalando avances en la nueva terminal del Aeropuerto Internacional de Las Américas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792605079/noticias/articles/20261021_175118_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 21 Oct 2026 17:51:44 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261021175144</guid>
   </item>
 </channel>
 </rss>
