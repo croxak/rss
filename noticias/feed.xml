@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 26 Oct 2026 22:46:07 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 22:57:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Abinader respalda a Bukele ante secuestro de salvadoreños en Haití]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261026225705</link>
+    <description><![CDATA[El presidente de la República Dominicana, Luis Abinader, expresó este lunes su respaldo a la posición de su homólogo salvadoreño, Nayib Bukele, frente al secuestro de cuatro militares de El Salvador en Haití, quienes participaban en labores de apoyo a la seguridad del país caribeño.
+
+«Me identifico con la posición del presidente Nayib Bukele, que debemos respaldar: defender la dignidad y la vida de esos cuatro salvadoreños que fueron a trabajar por la paz en la República de Haití», manifestó Abinader a través de su cuenta oficial en la red social X.
+
+Las declaraciones se producen en medio de la crisis desatada tras la desaparición de cuatro técnicos militares salvadoreños el pasado 18 de octubre, luego de un ataque atribuido a pandillas haitianas en la zona de Croix-des-Bouquets, al este de Puerto Príncipe.
+
+Ante la situación, Bukele anunció el despliegue de una operación militar para localizar y rescatar a sus compatriotas, integrantes de la Fuerza de Supresión de Pandillas (GSF), misión internacional respaldada por las Naciones Unidas.
+
+El pronunciamiento del mandatario dominicano se suma a las gestiones diplomáticas y al seguimiento que mantiene su Gobierno sobre la crisis haitiana, mientras República Dominicana ha reforzado su presencia militar en la frontera ante las posibles repercusiones de la situación de seguridad en el territorio vecino.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793055396/noticias/articles/20261026_225636_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 26 Oct 2026 22:57:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261026225705</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Condenan en EE. UU. a hombre vinculado al envío ilegal de armas hacia República Dominicana]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261026224607</link>
     <description><![CDATA[El Departamento de Justicia de Estados Unidos informó este lunes 26 de octubre que Alexis Lara Herrera, de 28 años y residente en Boston, Massachusetts, fue condenado a ocho meses de prisión por su participación en operaciones de envío ilegal de armas de fuego hacia República Dominicana.
@@ -1426,17 +1443,6 @@ El Centro de Operaciones de Emergencias mantiene provincias bajo alerta por lluv
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792642229/noticias/articles/20261022_041029_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 22 Oct 2026 04:10:56 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261022041056</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Se intensifican las operaciones en Haití para encontrar a los militares salvadoreños]]></title>
-    <link>https://eldia.com.do/se-intensifican-las-operaciones-en-haiti-para-encontrar-a-los-militares-salvadorenos/</link>
-    <description><![CDATA[Las operaciones para encontrar a cuatro militares salvadoreños desaparecidos en Haití se intensificaron en Puerto Príncipe. Los soldados de la Fuerza de Supresión de Pandillas fueron emboscados en la zona de Santo, comuna de Croix-des-Bouquets.
-
-La banda 400 Mawozo, dirigida por Wilson Joseph, alias Lanmò San Jou, es señalada como responsable del ataque. El presidente de El Salvador, Nayib Bukele, confirmó una operación militar para rescatarlos y exigió su liberación sin daño.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792641496/noticias/articles/20261022_035816_article.webp" type="image/webp"/>
-    <pubDate>Thu, 22 Oct 2026 03:58:54 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261022035854</guid>
   </item>
 </channel>
 </rss>
