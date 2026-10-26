@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 26 Oct 2026 21:58:29 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 22:00:43 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Gobierno anuncia que inaugurará 38 kilómetros de verja fronteriza en diciembre]]></title>
+    <link>https://www.diariolibre.com/politica/gobierno/2026/10/26/gobierno-anuncia-que-inaugurara-38-kilometros-de-verja-fronteriza/3701303</link>
+    <description><![CDATA[El Gobierno dominicano tiene previsto inaugurar en diciembre un tramo de 38 kilómetros de la verja fronteriza desde Manzanillo hasta Capotillo. Este proyecto incluye tres puentes y es parte de las medidas para reforzar la seguridad en la frontera con Haití.
+
+El ministro de Defensa, Carlos Antonio Fernández Onofre, informó que actualmente hay 54.5 kilómetros de verja perimetral terminados y que se construirán 14 kilómetros adicionales en Jimaní. La infraestructura está equipada con tecnología avanzada para mejorar la vigilancia.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793052015/noticias/articles/20261026_220015_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 26 Oct 2026 22:00:43 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261026220043</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader advierte que no permitirá bandas haitianas a menos de 20 kilómetros de la frontera]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261026215829</link>
     <description><![CDATA[El presidente Luis Abinader aseguró este lunes que su Gobierno no permitirá que las bandas criminales que mantienen en zozobra a Haití se acerquen a la frontera con la República Dominicana, como parte de las medidas para garantizar la seguridad nacional.
@@ -1407,17 +1418,6 @@ El director del COE, coronel Edwin Olivares, ha instruido a las instituciones a 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792624839/noticias/articles/20261021_232038_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 21 Oct 2026 23:21:15 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261021232115</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[“Ya terminamos con las pandillas en El Salvador y podemos terminar con las de ustedes”: la advertencia de Nayib Bukele en criollo haitiano]]></title>
-    <link>https://www.infobae.com/el-salvador/2026/10/21/ya-terminamos-con-las-pandillas-en-el-salvador-y-podemos-terminar-con-las-de-ustedes-la-advertencia-de-nayib-bukele-en-criollo-haitiano/</link>
-    <description><![CDATA[El presidente salvadoreño Nayib Bukele advirtió a las pandillas haitianas tras el secuestro de cuatro técnicos de aviación de su país. Los militares desaparecieron el 18 de octubre en Croix-des-Bouquets, Haití, luego de un ataque armado.
-
-Bukele, en un mensaje en criollo haitiano, afirmó que el operativo militar actual "no es nada comparado con lo que está por venir" si no liberan a los rehenes. La Fuerza de Supresión de Pandillas, respaldada por la ONU, sigue buscando a los desaparecidos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792619385/noticias/articles/20261021_214944_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 21 Oct 2026 21:50:18 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261021215018</guid>
   </item>
 </channel>
 </rss>
