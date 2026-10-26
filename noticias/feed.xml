@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 26 Oct 2026 01:46:17 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 01:53:42 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Abinader felicita a Lula da Silva tras su reelección en Brasil]]></title>
+    <link>https://www.diariolibre.com/politica/general/2026/10/25/luis-abinader-felicita-a-lula-tras-elecciones-brasil-2023/3700422</link>
+    <description><![CDATA[El presidente Luis Abinader felicitó a Luiz Inácio Lula da Silva tras su reelección en Brasil. A través de un mensaje en su cuenta de X, Abinader saludó al pueblo brasileño por una jornada electoral cívica y participativa.
+
+Lula da Silva ganó la segunda vuelta con un 51.76 % de los votos, superando al senador Flávio Bolsonaro. Lula asumirá su cuarto mandato el 5 de enero en Brasilia.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792979596/noticias/articles/20261026_015315_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 26 Oct 2026 01:53:42 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261026015342</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Denuncian supuesta filtración de 6 millones de registros vinculados al CONAPE con datos médicos y personales]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261026014617</link>
     <description><![CDATA[Una presunta filtración masiva de información vinculada al Consejo Nacional de la Persona Envejeciente (CONAPE) fue reportada este domingo 25 de octubre, luego de que un usuario identificado como «sqx» publicara en un foro de ciberdelincuencia una supuesta base de datos con 6 millones de registros de ciudadanos dominicanos.
@@ -1401,19 +1412,6 @@ Peguero se suma al proyecto de Mejía junto a su equipo político en el municipi
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792593452/noticias/articles/20261021_143731_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 21 Oct 2026 14:38:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261021143828</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fuerza de Supresión de Pandillas continúa la búsqueda de cuatro militares salvadoreños en Haití]]></title>
-    <link>https://www.diariolibre.com/mundo/haiti/2026/10/20/fuerza-de-supresion-continua-la-busqueda-de-militares-en-haiti/3695290</link>
-    <description><![CDATA[La Fuerza de Supresión de Pandillas (FSP) sigue buscando a cuatro militares salvadoreños desaparecidos en Haití tras una emboscada en Santo, Croix-des-Bouquets. El vehículo de los militares fue incendiado.
-
-Desde el domingo, la FSP realiza operaciones en el área, enfrentándose a hombres armados de una pandilla. Varios pandilleros han muerto y otros resultaron heridos. Cuatro miembros de la FSP también sufrieron heridas y reciben atención médica.
-
-El medio AmeriqueInfo7 reporta que al menos ocho presuntos pandilleros fueron abatidos. La FSP agradeció al Gobierno de El Salvador por su apoyo y exhortó a los residentes a evitar las zonas de operación.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792590734/noticias/articles/20261021_135214_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 21 Oct 2026 13:52:39 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261021135239</guid>
   </item>
 </channel>
 </rss>
