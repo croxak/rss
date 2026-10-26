@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 26 Oct 2026 02:21:04 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 26 Oct 2026 02:33:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Leonel Fernández pide al Gobierno medidas preventivas ante crisis de seguridad en Haití]]></title>
+    <link>https://www.diariolibre.com/politica/general/2026/10/25/leonel-pide-medidas-preventivas-ante-crisis-de-seguridad-en-haiti/3700426</link>
+    <description><![CDATA[Leonel Fernández, expresidente de la República Dominicana, ha instado al Gobierno a tomar medidas preventivas ante la crisis de seguridad en Haití. La situación se ha agravado con el secuestro de cuatro militares salvadoreños.
+
+Fernández destacó la importancia de mantenerse alerta debido a los peligros que representan las bandas armadas en Haití. La declaración fue difundida por la Secretaría de Comunicaciones de la Fuerza del Pueblo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792981956/noticias/articles/20261026_023236_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 26 Oct 2026 02:33:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261026023300</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Bolsonaro pide anular las elecciones: "Es imposible reconocer el resultado”]]></title>
     <link>https://www.elespectador.com/mundo/america/bolsonaro-pide-anular-las-elecciones-de-brasil/</link>
     <description><![CDATA[Flávio Bolsonaro, tras perder ante Luiz Inácio Lula da Silva en la segunda vuelta presidencial de Brasil, no reconoce el resultado y busca anular la elección. Alega que la extensión de la jornada de votación por el magistrado Cristiano Zanin afectó la igualdad entre votantes.
@@ -1401,19 +1412,6 @@ El fallecido era señalado por su presunta vinculación con el robo de más de 2
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792593802/noticias/articles/20261021_144321_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 21 Oct 2026 14:43:48 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261021144348</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Arrestan al director de un distrito municipal de La Vega por posesión de armas sin permisos]]></title>
-    <link>https://www.diariolibre.com/actualidad/justicia/2026/10/21/arrestan-al-director-de-la-junta-distrital-de-rincon/3695783</link>
-    <description><![CDATA[Enmanuel Ramírez, director de la junta distrital de Rincón en La Vega, fue arrestado tras un allanamiento en su residencia. Las autoridades encontraron armas de fuego y municiones sin permisos.
-
-Entre las armas incautadas se encuentran un rifle y una escopeta marca Winchester, además de municiones de varios calibres y un juego de grilletes.
-
-El Ministerio Público planea solicitar prisión preventiva para Ramírez.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792593652/noticias/articles/20261021_144052_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 21 Oct 2026 14:41:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261021144131</guid>
   </item>
 </channel>
 </rss>
