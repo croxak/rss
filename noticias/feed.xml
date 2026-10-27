@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 27 Oct 2026 01:46:20 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 13:49:13 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Siguen las fuertes lluvias este martes por vaguada y alertan por oleaje anormal]]></title>
+    <link>https://listindiario.com/la-republica/provincias/20261027/siguen-fuertes-lluvias-martes-vaguada_927720.html</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) informó que este martes las condiciones del tiempo están dominadas por una vaguada, con lluvias moderadas a fuertes y ráfagas de viento en varias provincias.
+
+Se esperan aguaceros fuertes, tormentas eléctricas y ráfagas de viento en la tarde en Monseñor Nouel, San José de Ocoa, La Vega, San Juan y Monte Plata. El Centro Nacional de Pronósticos mantiene avisos y alertas meteorológicas por posibles inundaciones y crecidas de ríos.
+
+En alerta están San Juan, La Vega, Monseñor Nouel, Monte Plata, Elías Piña y Sánchez Ramírez. En aviso están Barahona, Pedernales, Bahoruco, Azua, el Gran Santo Domingo, San Cristóbal, Independencia, Peravia y San José de Ocoa.
+
+Indomet también alertó sobre oleaje anormal en la costa atlántica y recomendó precaución a embarcaciones. Las temperaturas se mantendrán calurosas debido al viento cálido del sur/sureste.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793108925/noticias/articles/20261027_134844_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 27 Oct 2026 13:49:13 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261027134913</guid>
+  </item>
+
+  <item>
     <title><![CDATA[RD sopesó enviar un equipo élite a rescatar diplomático secuestrado en Haití en 2022]]></title>
     <link>https://listindiario.com/la-republica/gobierno/20261026/rd-sopeso-enviar-equipo-elite-rescatar-diplomatico-secuestrado-haiti-2022_927682.html</link>
     <description><![CDATA[El presidente Luis Abinader informó que en 2022, ante el secuestro de Carlos Guillén Tatis en Haití, se movilizaron fuerzas especiales hacia la frontera. Los secuestradores exigieron 250,000 dólares, pero Abinader se negó a pagar.
@@ -1452,19 +1467,6 @@ El tribunal también ordenó el pago de una indemnización de cinco millones de 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792675554/noticias/articles/20261022_132553_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 22 Oct 2026 13:26:55 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261022132655</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Imponen prisión preventiva a colombiano detenido con US$600,700 sin declarar en el AILA]]></title>
-    <link>https://noticiassin.com/pais/justicia/2026/10/22/imponen-prision-preventiva-a-colombiano-detenido-con-us600700-sin-declarar-en-el-aila-2150652/</link>
-    <description><![CDATA[Un tribunal de Santo Domingo Este ha impuesto prisión preventiva a Mauricio Alberto Ossa Ospina, un ciudadano colombiano detenido en el Aeropuerto Internacional de las Américas con US$600,700 no declarados. El arresto se produjo el 3 de septiembre cuando intentaba viajar a Panamá.
-
-Además del dinero en dólares, las autoridades incautaron cinco euros, 647,000 pesos colombianos, un teléfono celular y un pasaporte. La Oficina Judicial de Servicios de Atención Permanente declaró el caso como complejo, a solicitud del Ministerio Público.
-
-La acusación provisional incluye cargos por lavado de activos y contrabando. El proceso se encuentra en fase de investigación.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792675131/noticias/articles/20261022_131850_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 22 Oct 2026 13:19:42 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261022131942</guid>
   </item>
 </channel>
 </rss>
