@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 27 Oct 2026 18:10:45 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 18:14:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Carolina Mejía activa comité de prevención ante lluvias en el DN]]></title>
+    <link>https://elnuevodiario.com.do/carolina-mejia-activa-comite-de-prevencion-ante-lluvias-en-el-dn/</link>
+    <description><![CDATA[La alcaldesa Carolina Mejía ha activado el Comité de Prevención, Mitigación y Respuesta ante Desastres del Distrito Nacional debido a las lluvias recientes y pronosticadas. Esta medida busca coordinar acciones para mitigar los efectos de las lluvias.
+
+La Alcaldía ha intensificado los trabajos de limpieza en filtrantes, imbornales y calles, y ha fortalecido la comunicación con las juntas de vecinos para un monitoreo constante de las situaciones en los sectores.
+
+El Instituto Dominicano de Meteorología ha informado sobre una vaguada que generará aguaceros y tormentas en varias provincias, emitiendo alertas. Las autoridades municipales instan a los ciudadanos a colaborar con el manejo de residuos para mantener los drenajes despejados.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793124739/noticias/articles/20261027_181219_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 27 Oct 2026 18:14:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261027181414</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ejército califica de falsas las versiones sobre incursión de bandas haitianas en Elías Piña]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/10/27/ejercito-califica-de-falsas-las-versiones-sobre-incursion-de-bandas/3702368</link>
     <description><![CDATA[El Ejército de la República Dominicana ha calificado de falsas las versiones sobre una incursión de bandas haitianas en Elías Piña. Aseguran que la frontera con Haití se mantiene en calma y bajo vigilancia.
@@ -1456,19 +1469,6 @@ Días antes, otro agente, Pedro Luis Guerrero, murió en un asalto en Higüero N
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792702397/noticias/articles/20261022_205316_article.webp" type="image/webp"/>
     <pubDate>Thu, 22 Oct 2026 20:54:50 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261022205450</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Detienen a excandidata presidencial Luisa González en Ecuador por presunto lavado de activos en su campaña]]></title>
-    <link>https://mexiquensedigital.com/noticias/detienen-a-excandidata-presidencial-luisa-gonzalez-en-ecuador-por-presunto-lavado-de-activos-en-su-campana/20_20261022170223_41068</link>
-    <description><![CDATA[Luisa González, excandidata presidencial de Ecuador, ha sido detenida por la policía bajo sospecha de lavado de activos en su campaña electoral de 2023. La Fiscalía del país planea formular cargos contra tres personas, incluyendo a González, por presuntas irregularidades en el financiamiento político.
-
-El partido Revolución Ciudadana, al que pertenece González, ha calificado la detención como un acto de persecución política y ha convocado a movilizaciones en su defensa. La presidenta del partido, Gabriela Rivadeneira, ha exigido la liberación inmediata de González y ha anunciado que acudirán a organismos internacionales.
-
-La detención de González se produce en un contexto de alta tensión política en Ecuador, con otros miembros del movimiento correísta enfrentando procesos judiciales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792698497/noticias/articles/20261022_194816_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 22 Oct 2026 19:58:16 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261022195816</guid>
   </item>
 </channel>
 </rss>
