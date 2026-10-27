@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 27 Oct 2026 17:58:28 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 18:02:37 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Haití cita al embajador dominicano tras reportes de incursiones militares en territorio haitiano]]></title>
+    <link>https://eldia.com.do/cancilleria-haiti-cita-embajador-rd-por-supuestas-incursiones/</link>
+    <description><![CDATA[El Ministerio de Asuntos Exteriores y Cultos de Haití ha citado al embajador dominicano en Puerto Príncipe, Faruk Miguel, para discutir reportes sobre supuestas incursiones del Ejército dominicano en Haití. La reunión está programada para el 29 de octubre.
+
+El documento de convocatoria no establece que las incursiones hayan sido comprobadas ni ofrece detalles sobre las circunstancias. Mientras tanto, República Dominicana ha reforzado su seguridad en la frontera, y el presidente Luis Abinader ha afirmado que no intervendrá militarmente en Haití.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793124048/noticias/articles/20261027_180048_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 27 Oct 2026 18:02:37 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261027180237</guid>
+  </item>
+
+  <item>
     <title><![CDATA[COE mantiene 18 provincias en alerta por lluvias]]></title>
     <link>https://noticiassin.com/pais/clima/2026/10/27/coe-mantiene-18-provincias-en-alerta-por-lluvias-3-2155379/</link>
     <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha declarado alerta en 18 provincias debido a las lluvias provocadas por una vaguada. Doce provincias están en alerta amarilla, incluyendo Pedernales, Bahoruco y el Distrito Nacional, mientras que seis están en alerta verde.
@@ -1458,21 +1469,6 @@ El Instituto Dominicano de Meteorología (Indomet) informa que se esperan aguace
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792690996/noticias/articles/20261022_174315_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 22 Oct 2026 17:43:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261022174339</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El mango dominicano apunta a volver a EEUU en 2027, pero aún espera la revisión que permita reabrir el mercado]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261022174217</link>
-    <description><![CDATA[La próxima cosecha de mango tiene una fecha prevista de inicio: mediados de febrero de 2027. El regreso de la fruta dominicana al mercado estadounidense, en cambio, todavía depende de una evaluación que las autoridades nacionales deberán solicitar.
-
-El Ministerio de Agricultura informó que completó en Peravia las medidas correctivas relacionadas con los sistemas de trampeo y monitoreo de la mosca de la fruta. En las demás zonas productoras, el cumplimiento ronda el 60 %.
-
-El avance no supone el levantamiento de la suspensión. Según explicó el ministro Francisco Oliverio Espaillat, el informe con las conclusiones será enviado próximamente a las autoridades estadounidenses para solicitar una visita técnica. Esa revisión deberá verificar las correcciones antes de que se autorice la reanudación de los envíos.
-
-El anuncio coloca así la expectativa de los productores en la cosecha siguiente, mientras permanecen pendientes tanto acciones dentro del país como la validación externa.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792690906/noticias/articles/20261022_174146_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 22 Oct 2026 17:42:17 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261022174217</guid>
   </item>
 </channel>
 </rss>
