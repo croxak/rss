@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 27 Oct 2026 17:48:11 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 17:58:28 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[COE mantiene 18 provincias en alerta por lluvias]]></title>
+    <link>https://noticiassin.com/pais/clima/2026/10/27/coe-mantiene-18-provincias-en-alerta-por-lluvias-3-2155379/</link>
+    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha declarado alerta en 18 provincias debido a las lluvias provocadas por una vaguada. Doce provincias están en alerta amarilla, incluyendo Pedernales, Bahoruco y el Distrito Nacional, mientras que seis están en alerta verde.
+
+Las lluvias han dejado 30 comunidades incomunicadas y 105 viviendas afectadas. Además, 28 acueductos están fuera de servicio, afectando a 485,911 usuarios. El COE ha activado su plan de contingencia y prohíbe el baño en ríos y pozas de las provincias bajo alerta.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793123869/noticias/articles/20261027_175748_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 27 Oct 2026 17:58:28 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261027175828</guid>
+  </item>
+
+  <item>
     <title><![CDATA[AIRD llama a transformar el crecimiento económico en desarrollo productivo]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261027174811</link>
     <description><![CDATA[La Asociación de Industrias de la República Dominicana (AIRD) llamó a convertir el crecimiento económico del país en una transformación productiva que fortalezca la industrial nacional, amplíe los encadenamientos empresariales y genere mayor valor agregado.
@@ -1462,19 +1473,6 @@ El anuncio coloca así la expectativa de los productores en la cosecha siguiente
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792690906/noticias/articles/20261022_174146_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 22 Oct 2026 17:42:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261022174217</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[“Macho” se declara inocente por muerte de Deivy Abreu en Santiago]]></title>
-    <link>https://elnuevodiario.com.do/macho-se-declara-inocente-por-muerte-de-deivy-abreu-en-santiago/</link>
-    <description><![CDATA[Jhovanny de Jesús Metz Cruz, conocido como “Macho”, se declaró inocente en el caso de la muerte de Deivy Carlos Abreu Quezada en Santiago. Afirmó no conocer a las personas vinculadas al proceso, excepto a su hermano, quien lleva más de seis meses detenido.
-
-Metz Cruz denunció que las autoridades ingresaron ilegalmente a su vivienda y detuvieron a su hermano sin orden de arresto. Cuestionó la legalidad del expediente contra su familiar y expresó preocupación por su situación judicial.
-
-Negó la autenticidad de una fotografía atribuida a él, alegando manipulación por inteligencia artificial. También señaló a otro prestamista por conflictos comerciales relacionados con su cartera de préstamos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792690749/noticias/articles/20261022_173909_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 22 Oct 2026 17:40:02 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261022174002</guid>
   </item>
 </channel>
 </rss>
