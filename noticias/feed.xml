@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 26 Oct 2026 23:21:28 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 01:45:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Suspenden docencia en centros educativos de zonas vulnerables en provincias bajo alerta amarilla]]></title>
+    <link>https://listindiario.com/la-republica/educacion/20261026/suspenden-docencia-centros-educativos-zonas-vulnerables-provincias-alerta-amarilla_927696.html</link>
+    <description><![CDATA[El Ministerio de Educación ha decidido suspender la docencia en centros educativos de zonas vulnerables en provincias bajo alerta amarilla. Esta medida preventiva responde a las condiciones meteorológicas provocadas por una vaguada que afecta al territorio nacional.
+
+La suspensión busca prevenir situaciones de riesgo en planteles expuestos a inundaciones y deslizamientos de tierra. La decisión se basa en un informe del Centro de Operaciones de Emergencias que indica que diez provincias están bajo alerta amarilla y siete en alerta verde.
+
+La implementación de la medida será coordinada con directores regionales y distritales, considerando las condiciones particulares de las demarcaciones afectadas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793065490/noticias/articles/20261027_014450_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 27 Oct 2026 01:45:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261027014520</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Exsenador haitiano revela plan fallido para enviar armas en helicóptero desde RD a Vitelhomme y capturar a Jovenel Moïse]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261026232128</link>
     <description><![CDATA[El exsenador haitiano John Joël Joseph declaró durante el juicio federal que se celebra en Miami, Estados Unidos, por el asesinato del presidente Jovenel Moïse, que, actuando en representación de Christian Emmanuel Sanon, habría alcanzado un acuerdo con el jefe de pandilla Vitelhomme Innocent para recibir en un terreno de Torcel, Haití, un helicóptero procedente de República Dominicana cargado de armas y municiones, como parte de un plan para capturar al entonces mandatario y enviarlo al exilio.
@@ -1454,17 +1467,6 @@ El caso figura ante el Tribunal Federal del Distrito de Massachusetts bajo el ex
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792674649/noticias/articles/20261022_131048_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 22 Oct 2026 13:11:35 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261022131135</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[¡Cero hits, cero carreras! Licey blanquea a los Toros y se adueña de la cima]]></title>
-    <link>https://noticiassin.com/deportes/beisbol/2026/10/22/licey-lanza-no-hitter-y-vence-3-0-a-toros-del-este-2150638/</link>
-    <description><![CDATA[Los Tigres del Licey se adueñaron de la cima de la Liga de Béisbol Profesional Dominicana al vencer 3-0 a los Toros del Este con un no hitter combinado. Siete lanzadores se unieron para lograr esta hazaña, ponchando a 10 bateadores y permitiendo solo tres boletos.
-
-Estevan Florial fue clave en la ofensiva, conectando un doble y remolcando una carrera. Con esta victoria, el Licey se posiciona en solitario en el primer lugar de la liga.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792674182/noticias/articles/20261022_130302_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 22 Oct 2026 13:03:50 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261022130350</guid>
   </item>
 </channel>
 </rss>
