@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 27 Oct 2026 18:14:14 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 18:16:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Trump afirma que Estados Unidos ha recibido un millón de barriles de petróleo de Venezuela]]></title>
+    <link>https://elnuevodiario.com.do/trump-afirma-que-estados-unidos-ha-recibido-un-millon-de-barriles-de-petroleo-de-venezuela/</link>
+    <description><![CDATA[Donald Trump afirmó que Estados Unidos ha recibido un millón de barriles de petróleo de Venezuela después de que las fuerzas estadounidenses capturaran a Nicolás Maduro en enero. Trump espera que este cargamento ayude a reducir los precios de los combustibles en el país.
+
+Tras la captura de Maduro, Washington restableció relaciones con el Gobierno interino de Delcy Rodríguez y firmó un acuerdo para acceder a una quinta parte de las reservas de crudo venezolano. El Departamento de Estado apoya un plan para reformar el sistema judicial y electoral venezolano antes de fin de año.
+
+Las conversaciones entre el chavismo y un bloque opositor liderado por Dinorah Figuera continúan, aunque María Corina Machado no participa en ellas. Machado regresó a Venezuela tras casi un año fuera del país.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793124887/noticias/articles/20261027_181441_article.webp" type="image/webp"/>
+    <pubDate>Tue, 27 Oct 2026 18:16:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261027181619</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Carolina Mejía activa comité de prevención ante lluvias en el DN]]></title>
     <link>https://elnuevodiario.com.do/carolina-mejia-activa-comite-de-prevencion-ante-lluvias-en-el-dn/</link>
     <description><![CDATA[La alcaldesa Carolina Mejía ha activado el Comité de Prevención, Mitigación y Respuesta ante Desastres del Distrito Nacional debido a las lluvias recientes y pronosticadas. Esta medida busca coordinar acciones para mitigar los efectos de las lluvias.
@@ -1458,17 +1471,6 @@ El presidente Bukele ha pedido a las pandillas que liberen a los soldados sin da
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792702607/noticias/articles/20261022_205646_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 22 Oct 2026 20:57:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261022205717</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Matan a tiros a sargento de la Policía en Santiago]]></title>
-    <link>https://eldia.com.do/matan-a-tiros-a-sargento-de-la-policia-en-santiago-suman-dos-en-una-semana/</link>
-    <description><![CDATA[José Ramón Henríquez Mejía, sargento de la Policía Nacional, fue ultimado a tiros en el sector Barrio Nuevo, La Canela, Santiago. El agente, de 29 años, recibió dos impactos de bala. Las autoridades investigan las circunstancias del asesinato y buscan identificar a los responsables.
-
-Días antes, otro agente, Pedro Luis Guerrero, murió en un asalto en Higüero Norte. Aunque ambos casos son violentos, no se ha establecido conexión entre ellos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792702397/noticias/articles/20261022_205316_article.webp" type="image/webp"/>
-    <pubDate>Thu, 22 Oct 2026 20:54:50 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261022205450</guid>
   </item>
 </channel>
 </rss>
