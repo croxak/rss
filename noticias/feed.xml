@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 27 Oct 2026 19:20:11 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 27 Oct 2026 19:25:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Flávio Bolsonaro habría huido de Brasil a Florida tras su derrota ante Lula y con dos investigaciones abiertas en el Supremo]]></title>
+    <link>https://www.elmundo.es/internacional/2026/10/27/6ae0ba33e85ece75248b457a.html</link>
+    <description><![CDATA[Flávio Bolsonaro habría huido de Brasil hacia Florida, Estados Unidos, tras perder las elecciones presidenciales ante Lula, según han confirmado dos fuentes oficiales de EEUU a Reuters. La justicia brasileña había ordenado la entrega de sus pasaportes, que fueron cancelados tras no ser entregados. 
+
+Flávio está siendo investigado por corrupción, blanqueo de capitales y evasión de divisas. Las investigaciones incluyen la financiación de una película sobre su padre y su relación con el abogado Willer Tomaz.
+
+Se prevé que Flávio entre a Estados Unidos por Florida, donde contará con el apoyo de su hermano Eduardo. La Administración Trump está al tanto de su llegada.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793128916/noticias/articles/20261027_192156_article.webp" type="image/webp"/>
+    <pubDate>Tue, 27 Oct 2026 19:25:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261027192520</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Enfrentamiento a gritos en la ONU entre EE.UU. y Cuba: «Esto no es su dictadura comunista. No puede silenciarme»]]></title>
     <link>https://www.abc.es/internacional/enfrentamiento-gritos-onu-eeuu-cuba-dictadura-comunista-20261027192936-nt.html</link>
     <description><![CDATA[Un enfrentamiento a gritos tuvo lugar en la ONU entre el canciller cubano Bruno Rodríguez y el embajador estadounidense Mike Waltz. Durante una sesión sobre el embargo a Cuba, Rodríguez interrumpió a Waltz, quien criticaba los lujos de la cúpula cubana frente a las penurias del pueblo.
@@ -1454,25 +1467,6 @@ Cruz expresó su alegría por la visita y destacó la unidad y amistad entre amb
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792723353/noticias/articles/20261023_024233_article.webp" type="image/webp"/>
     <pubDate>Fri, 23 Oct 2026 02:43:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261023024306</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El Salvador despliega fuerzas especiales en Haití para hallar a 4 soldados desaparecidos tras ataque]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261022230300</link>
-    <description><![CDATA[El Salvador desplegó el jueves a 100 elementos de sus fuerzas especiales hacia Haití para ayudar a rescatar a cuatro soldados salvadoreños que continúan desaparecidos luego de un reciente ataque por parte de pandillas, informaron dos funcionarios a The Associated Press.
-
-Las fuerzas especiales llegaron un día después de que el presidente salvadoreño Nayib Bukele anunció una operación militar para rescatar a los cuatro técnicos de aviación y amenazó con una respuesta más contundente si no son liberados con vida y sin daños.
-
-Un funcionario del gobierno de El Salvador informó que otros 100 soldados serán desplegados hacia Haití la noche del jueves. El funcionario, quien habló bajo condición de anonimato al no estar autorizado a discutir el tema públicamente, añadió que las autoridades salvadoreñas operan bajo el supuesto de que los cuatro salvadoreños siguen con vida.
-
-En sus primeros comentarios desde el ataque del domingo en Croix-des-Bouquets, el gobierno de Haití informó la noche del miércoles que los cuatro desaparecidos fueron secuestrados. Las autoridades han dicho que los soldados viajaban a bordo de un vehículo blindado que fue atacado por pandillas, las cuales también utilizaron explosivos.
-
-Se trata del primer ataque de estas dimensiones desde que una fuerza internacional de supresión de pandillas comenzó sus operaciones en la nación caribeña en reemplazo de una fuerza encabezada por Kenia, la cual tuvo dificultades para ayudar a la policía haitiana a contener a las pandillas debido a la falta de recursos.
-
-La policía haitiana y la fuerza de supresión de pandillas se han estado enfrentando con hombres armados en la zona desde el ataque. Las autoridades han advertido a los residentes que permanezcan dentro de sus residencias.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792710144/noticias/articles/20261022_230224_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 22 Oct 2026 23:03:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261022230300</guid>
   </item>
 </channel>
 </rss>
