@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 28 Oct 2026 17:22:24 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 17:27:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Unos 1,300 soldados de El Salvador se han desplegado en Haití, según Le Nouvelliste]]></title>
+    <link>https://listindiario.com/las-mundiales/haiti/20261028/1-300-soldado-salvador-han-despeleado-haiti_927866.html</link>
+    <description><![CDATA[Un contingente de 1,300 soldados salvadoreños ha sido desplegado en Haití, en coordinación con el gobierno haitiano. Este despliegue se ha acelerado tras la captura de cuatro salvadoreños.
+
+Se han entregado equipos a las tropas mediante tres aviones y se espera la llegada de más recursos para reforzar las capacidades de las fuerzas que combaten a las bandas criminales.
+
+El presidente de El Salvador, Nayib Bukele, y el presidente dominicano, Luis Abinader, han discutido sobre apoyo logístico e intercambio de inteligencia.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793208297/noticias/articles/20261028_172457_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 28 Oct 2026 17:27:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261028172741</guid>
+  </item>
+
+  <item>
     <title><![CDATA[República Dominicana se abstiene en votación de Naciones Unidas contra el embargo a Cuba]]></title>
     <link>https://www.diariolibre.com/mundo/estados-unidos/2026/10/28/republica-dominicana-se-abstiene-en-votacion-onu-cuba/3703483</link>
     <description><![CDATA[La República Dominicana se abstuvo en la votación de la Asamblea General de las Naciones Unidas sobre la resolución que busca el fin del embargo económico, comercial y financiero de Estados Unidos a Cuba. La resolución fue aprobada con 130 votos a favor, 17 en contra y 25 abstenciones.
@@ -1432,19 +1445,6 @@ El proyecto fue comisionado por Art Bridge y financiado por MAC Cosmetics, con p
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792798866/noticias/articles/20261023_234105_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 23 Oct 2026 23:42:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261023234258</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno congela los principales combustibles]]></title>
-    <link>https://listindiario.com/economia/20261023/gobierno-congela-combustibles-ultima-semana-octubre_927297.html</link>
-    <description><![CDATA[El Gobierno dominicano ha destinado RD$1,600.9 millones en subsidios para congelar los precios de los combustibles esenciales durante la semana del 24 al 30 de octubre de 2026, según informó el Ministerio de Industria, Comercio y Mipymes (MICM).
-
-Los precios de la gasolina premium, gasolina regular, gasoil regular, gasoil óptimo, gas licuado de petróleo (GLP) y gas natural se mantienen sin cambios. Sin embargo, el avtur, kerosene, fuel oíl y fuel oíl 1%S experimentan aumentos.
-
-El Estado subsidia a los consumidores RD$117.81 por cada galón de gasoil regular, RD$115.36 por cada galón de gasoil óptimo, RD$34.88 por cada galón de gasolina regular y RD$5.24 por cada galón de gasolina prémium. La tasa de cambio promedio semanal es de RD$61.69.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792798389/noticias/articles/20261023_233308_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 23 Oct 2026 23:38:32 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261023233832</guid>
   </item>
 </channel>
 </rss>
