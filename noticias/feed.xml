@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 27 Oct 2026 21:27:07 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 12:23:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Arrestan en Puerto Rico a dominicana buscada por asesinato en República Dominicana]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/10/27/arrestan-en-puerto-rico-a-dominicana-buscada-por-asesinato-en-rd/3702810</link>
+    <description><![CDATA[Ana Tahiri Acevedo Brito, una dominicana buscada por presunto asesinato en República Dominicana, fue arrestada en Puerto Rico. La detención fue realizada por agentes de Investigaciones de Seguridad Nacional (HSI) junto con el Servicio de Alguaciles de Estados Unidos y las Operaciones de Ejecución y Remoción.
+
+Acevedo Brito tenía una orden de arresto en República Dominicana y una Notificación Roja de Interpol. Se sospecha que ingresó de manera irregular a Puerto Rico y trabajó como cuidadora en una residencia privada. Las autoridades también investigan su posible implicación en la explotación financiera de personas mayores.
+
+HSI destacó la colaboración con organismos federales e internacionales para localizar a personas buscadas por delitos graves y exhortó a verificar antecedentes antes de contratar personal.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793190174/noticias/articles/20261028_122253_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 28 Oct 2026 12:23:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261028122340</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Ministerio de Trabajo pide flexibilizar horarios laborales en provincias bajo alerta amarilla]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/10/27/trabajo-pide-flexibilidad-laboral-por-alerta-amarilla-2155704/</link>
     <description><![CDATA[El Ministerio de Trabajo ha pedido a los empleadores flexibilizar los horarios laborales en las provincias bajo alerta amarilla debido a las lluvias. Las provincias afectadas son Santo Domingo, Distrito Nacional, Pedernales, Barahona, Bahoruco, Independencia, Azua, Peravia, San Cristóbal, San José de Ocoa, Monte Plata y San Juan.
@@ -1444,19 +1457,6 @@ La Defensa Civil confirmó que las autoridades están en el lugar realizando el 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792766698/noticias/articles/20261023_144458_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 23 Oct 2026 14:45:27 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261023144527</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fuerza de Supresión de Pandillas informó que contingente salvadoreño ya está en Haití]]></title>
-    <link>https://listindiario.com/las-mundiales/haiti/20261022/fuerza-supresion-pandillas-informa-contingente-salvadoreno-llego-jueves-haiti_927237.html</link>
-    <description><![CDATA[La Fuerza de Supresión de Pandillas ha confirmado la llegada de un contingente salvadoreño a Haití para apoyar en operaciones de búsqueda y seguridad en Plaine du Cul-de-Sac. 
-
-Cinco soldados salvadoreños están desaparecidos tras ser emboscados en las afueras de Puerto Príncipe. El ataque ocurrió en Croix-des-Bouquets, y se sospecha que la banda 400 Mawozo está detrás del secuestro.
-
-El presidente de El Salvador, Nayib Bukele, ha lanzado un ultimátum a las pandillas haitianas para que liberen a los soldados salvadoreños, advirtiendo de posibles represalias.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792765508/noticias/articles/20261023_142508_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 23 Oct 2026 14:25:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261023142541</guid>
   </item>
 </channel>
 </rss>
