@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 28 Oct 2026 12:23:40 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 12:25:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Al menos 30 muertos tras choque de dos trenes de alta velocidad en España]]></title>
+    <link>https://www.diariolibre.com/mundo/europa/2026/10/28/accidente-tren-toledo-deja-multiples-muertos-y-heridos/3703126</link>
+    <description><![CDATA[Al menos 30 personas murieron en un accidente entre dos trenes de alta velocidad en Toledo, España. El siniestro ocurrió el 28 de octubre cuando un tren AVE de Renfe colisionó con otro de Iryo cerca de Urda, en la línea Madrid-Sevilla. Dos vagones cayeron por un terraplén.
+
+El Hospital Universitario de Toledo suspendió operaciones quirúrgicas para atender a los afectados. El Gobierno regional activó el Plan Territorial de Emergencia de Castilla-La Mancha. La circulación de alta velocidad entre Madrid y Andalucía fue interrumpida.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793190310/noticias/articles/20261028_122509_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 28 Oct 2026 12:25:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261028122535</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Arrestan en Puerto Rico a dominicana buscada por asesinato en República Dominicana]]></title>
     <link>https://www.diariolibre.com/usa/actualidad/2026/10/27/arrestan-en-puerto-rico-a-dominicana-buscada-por-asesinato-en-rd/3702810</link>
     <description><![CDATA[Ana Tahiri Acevedo Brito, una dominicana buscada por presunto asesinato en República Dominicana, fue arrestada en Puerto Rico. La detención fue realizada por agentes de Investigaciones de Seguridad Nacional (HSI) junto con el Servicio de Alguaciles de Estados Unidos y las Operaciones de Ejecución y Remoción.
@@ -1446,17 +1457,6 @@ Hasta el momento, las autoridades estadounidenses no han informado públicamente
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792768595/noticias/articles/20261023_151634_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 23 Oct 2026 15:17:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261023151703</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Al menos cinco muertos en accidente en la Circunvalación de Santo Domingo]]></title>
-    <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/23/cinco-muertos-en-accidente-de-transito-en-santo-domingo/3698155</link>
-    <description><![CDATA[Un accidente de tránsito en la avenida Circunvalación de Santo Domingo dejó al menos cinco muertos. El incidente ocurrió cerca de la entrada del aeropuerto El Higüero e involucró varios vehículos, entre ellos un Kia K5 y un Toyota Corolla de 1992.
-
-La Defensa Civil confirmó que las autoridades están en el lugar realizando el levantamiento de los cadáveres. Las víctimas serían oriundas de Los Botados. Las circunstancias del accidente aún están bajo investigación.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792766698/noticias/articles/20261023_144458_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 23 Oct 2026 14:45:27 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261023144527</guid>
   </item>
 </channel>
 </rss>
