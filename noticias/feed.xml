@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 28 Oct 2026 12:25:35 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 12:27:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Hoy siguen las lluvias por vaguada aunque menos intensas]]></title>
+    <link>https://listindiario.com/la-republica/provincias/20261028/hoy-siguen-lluvias-intensas-vaguada_927861.html</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) ha informado que las lluvias continuarán este miércoles debido a una vaguada y el viento del sureste, afectando principalmente el litoral costero del Caribe.
+
+Durante la tarde, las precipitaciones se extenderán hacia el noroeste, la zona fronteriza, la Cordillera Central, el valle del Cibao y el sureste. Se han modificado los niveles de alertas y avisos meteorológicos por posibles inundaciones y deslizamientos de tierra.
+
+Las provincias en alerta incluyen San Juan, La Vega, Monseñor Nouel, Sánchez Ramírez, El Seibo, San Pedro de Macorís, Pedernales, Hato Mayor, Barahona, Independencia y Bahoruco. En aviso se mantienen La Altagracia, La Romana, el Gran Santo Domingo, San Cristóbal, Azua, San José de Ocoa, Peravia y Monte Plata.
+
+Indomet aconseja precaución en ambas costas y recomienda tomar medidas para enfrentar las altas temperaturas, como hidratarse adecuadamente y evitar la exposición al sol.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793190405/noticias/articles/20261028_122644_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 28 Oct 2026 12:27:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261028122720</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Al menos 30 muertos tras choque de dos trenes de alta velocidad en España]]></title>
     <link>https://www.diariolibre.com/mundo/europa/2026/10/28/accidente-tren-toledo-deja-multiples-muertos-y-heridos/3703126</link>
     <description><![CDATA[Al menos 30 personas murieron en un accidente entre dos trenes de alta velocidad en Toledo, España. El siniestro ocurrió el 28 de octubre cuando un tren AVE de Renfe colisionó con otro de Iryo cerca de Urda, en la línea Madrid-Sevilla. Dos vagones cayeron por un terraplén.
@@ -1438,25 +1453,6 @@ El avión estadounidense tiene capacidad para transportar tropas, equipos y sumi
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792769818/noticias/articles/20261023_153658_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 23 Oct 2026 15:37:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261023153733</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Reportan tres vuelos hacia Haití desde Washington D. C. y otros tres desde El Salvador, incluido SHARK99, un avión de la Fuerza Aérea de Estados Unidos]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261023151703</link>
-    <description><![CDATA[Registros de FlightAware muestran seis vuelos programados hacia Haití este viernes 23 de octubre, tres desde Washington D. C. y otros tres registros desde El Salvador, incluido SHARK99, indicativo asociado a un avión militar estadounidense.
-
-Los vuelos desde Washington Dulles aparecen identificados como N365TX, GJE1021 y GJE2226, con llegadas previstas entre las 10:13 de la mañana y la 1:05 de la tarde.
-
-Desde El Salvador figuran dos registros bajo el identificador HVY601 y uno correspondiente a SHARK99, un Lockheed Martin C-130J Super Hercules de la Fuerza Aérea de Estados Unidos, con llegada prevista a Puerto Príncipe a las 2:07 de la tarde.
-
-El movimiento coincide con el despliegue de fuerzas especiales salvadoreñas para rescatar a cuatro militares desaparecidos tras una emboscada de pandillas el 18 de octubre en Croix-des-Bouquets.
-
-Según The Associated Press, El Salvador envió inicialmente 100 efectivos y preparaba el despliegue de otros 100, después de que Nayib Bukele anunciara una operación militar de rescate.
-
-Hasta el momento, las autoridades estadounidenses no han informado públicamente sobre una participación directa de SHARK99 en la operación de rescate. Mientras tanto, las fuerzas haitianas e internacionales mantienen las intervenciones para localizar a los cuatro salvadoreños, cuyo paradero continúa sin esclarecerse.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792768595/noticias/articles/20261023_151634_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 23 Oct 2026 15:17:03 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261023151703</guid>
   </item>
 </channel>
 </rss>
