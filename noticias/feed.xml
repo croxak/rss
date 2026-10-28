@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 28 Oct 2026 13:42:25 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 16:07:21 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Asciende a 68 el balance de muertos en el accidente ferroviario en España]]></title>
+    <link>https://www.diariolibre.com/mundo/espana/2026/10/28/choque-de-trenes-en-toledo-provoca-68-muertos/3703410</link>
+    <description><![CDATA[El balance provisional de fallecidos en el accidente ferroviario en Toledo, España, asciende a 68, con más de medio centenar de heridos. El choque ocurrió cerca de la estación de Urda entre un tren de alta velocidad (Ave) de Renfe y un Iryo.
+
+El ministro de Transportes, Óscar Puente, explicó que el accidente fue causado por la caída del sistema de seguridad LZB. El centro de control de Adif decidió reanudar la marcha sin limitar la velocidad, lo que resultó en el choque.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793203611/noticias/articles/20261028_160650_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 28 Oct 2026 16:07:21 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261028160721</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El Likud de Netanyahu gana las elecciones en Israel pero su coalición no logra mayoría suficiente en la Kneset]]></title>
     <link>https://www.rtve.es/noticias/20261027/resultados-elecciones-israel-2026-ganador-cronica/17286358.shtml</link>
     <description><![CDATA[El Likud de Benjamín Netanyahu ha sido el partido más votado en las elecciones de Israel, pero su coalición no ha conseguido la mayoría en la Knéset. Con el 85% del escrutinio, la alianza pro-Netanyahu tiene 53 escaños, mientras que el 'bloque del cambio', liderado por Gadi Eisenkot, cuenta con 48.
@@ -1442,17 +1453,6 @@ Para leer más, visita nuestra página web eltestigo.com]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792782701/noticias/articles/20261023_191140_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 23 Oct 2026 19:13:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261023191334</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Joven dominicano es asesinado en Georgia, EE.UU. tras despedir a un empleado]]></title>
-    <link>https://listindiario.com/la-republica/20261023/joven-dominicano-asesinado-georgia-ee-uu-despedir-empleado_927278.html</link>
-    <description><![CDATA[Saúl Gabriel García Santos, un joven dominicano de 20 años, fue asesinado en Savannah, Georgia, tras despedir a un empleado. El presunto autor del crimen, Raymond Green, de 40 años, regresó a la empresa horas después del despido, amenazó a Saúl con un arma y lo obligó a subir a un camión.
-
-Green enfrenta cargos por homicidio y agresión agravada. La familia de Saúl clama por justicia y ha creado una cuenta en GoFundMe para cubrir los gastos funerarios.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792782444/noticias/articles/20261023_190724_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 23 Oct 2026 19:07:47 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261023190747</guid>
   </item>
 </channel>
 </rss>
