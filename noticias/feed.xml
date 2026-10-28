@@ -7,14 +7,33 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 28 Oct 2026 21:05:34 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 21:11:51 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Avión de carga procedente de El Salvador aterriza en Las Américas en medio de despliegue militar hacia Haití]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261028211151</link>
+    <description><![CDATA[Un avión de carga Boeing 747-400, operado por National Airlines, aterrizó durante la madrugada de este miércoles 28 de octubre en el Aeropuerto Internacional de Las Américas (AILA), procedente de El Salvador. Según reportes de medios locales, la aeronave transportaría equipos militares destinados a Haití, aunque no existe confirmación oficial sobre el contenido específico del cargamento.
+
+La llegada se produce en medio de una creciente movilización militar salvadoreña hacia Haití, luego de que cuatro técnicos de aviación de las Fuerzas Armadas de El Salvador desaparecieran el pasado 18 de octubre, tras una emboscada de bandas armadas en Croix-des-Bouquets, en las afueras de Puerto Príncipe.
+
+Tras el incidente, el presidente Nayib Bukele ordenó una operación militar para localizar a los desaparecidos. Según informó Reuters el 27 de octubre, aproximadamente 1,000 efectivos salvadoreños habrían sido enviados a Haití, de acuerdo con una fuente de seguridad haitiana.
+
+En este escenario, la República Dominicana desempeña un papel estratégico como punto de apoyo logístico. El presidente Luis Abinader confirmó conversaciones con Bukele para ofrecer colaboración logística y de inteligencia. Asimismo, el Gobierno dominicano reconoció que facilita el tránsito de contingentes internacionales y el traslado de equipos y cargas militares destinados a la Fuerza de Supresión de Pandillas (GSF), misión multinacional autorizada por Naciones Unidas.
+
+National Airlines, operadora del Boeing 747, es una compañía estadounidense especializada en transporte de carga pesada y logística de defensa, con experiencia en operaciones para organismos militares.
+
+Aunque la llegada de la aeronave coincide con el incremento de las operaciones internacionales en Haití, todavía no se ha confirmado oficialmente si este vuelo forma parte del despliegue salvadoreño ni cuál será el destino final de su cargamento.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793221881/noticias/articles/20261028_211121_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 28 Oct 2026 21:11:51 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261028211151</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Cancillería informa no ha recibido reportes de dominicanos afectados en accidente de ferroviario en España]]></title>
     <link>https://listindiario.com/la-republica/20261028/cancilleria-informa-recibido-reportes-dominicanos-afectados-accidente-ferroviario_927920.html</link>
     <description><![CDATA[El Ministerio de Relaciones Exteriores de República Dominicana ha comunicado que no se han reportado dominicanos afectados en el accidente ferroviario en Toledo, España. El siniestro, que involucró a dos trenes de alta velocidad, resultó en al menos 68 fallecidos.
@@ -1434,17 +1453,6 @@ El conductor continuó su marcha sin detenerse para asistir a la víctima. Sara 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792861004/noticias/articles/20261024_165644_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 24 Oct 2026 16:57:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261024165732</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Muere “Changa” en intervención policial en Las Charcas; otro es detenido en Santiago]]></title>
-    <link>https://elnuevodiario.com.do/muere-changa-en-intervencion-policial-en-las-charcas-otro-es-detenido-en-santiago/</link>
-    <description><![CDATA[La Policía Nacional reportó la muerte de Ramón Antonio Jáquez Torres, alias “Changa”, en una intervención en Las Charcas, Santiago. El incidente ocurrió tras un asalto a mano armada contra una mujer y su hija. Jáquez Torres habría disparado contra los agentes y fue herido en el intercambio.
-
-Brayan Alexander Vázquez fue detenido para investigación. Se ocuparon una pistola Glock, celulares robados y una motocicleta. Ambos individuos tienen antecedentes de robo. El cuerpo de Jáquez Torres fue enviado al Inacif para los procedimientos legales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792860855/noticias/articles/20261024_165415_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 24 Oct 2026 16:54:47 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261024165447</guid>
   </item>
 </channel>
 </rss>
