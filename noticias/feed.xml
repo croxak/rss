@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 28 Oct 2026 16:53:45 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 17:22:24 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[República Dominicana se abstiene en votación de Naciones Unidas contra el embargo a Cuba]]></title>
+    <link>https://www.diariolibre.com/mundo/estados-unidos/2026/10/28/republica-dominicana-se-abstiene-en-votacion-onu-cuba/3703483</link>
+    <description><![CDATA[La República Dominicana se abstuvo en la votación de la Asamblea General de las Naciones Unidas sobre la resolución que busca el fin del embargo económico, comercial y financiero de Estados Unidos a Cuba. La resolución fue aprobada con 130 votos a favor, 17 en contra y 25 abstenciones.
+
+El apoyo a la resolución disminuyó en comparación con 2025, cuando recibió 165 votos a favor. La votación se llevó a cabo en medio de tensiones entre Estados Unidos y Cuba, y una ofensiva diplomática de Washington para aumentar el rechazo a la propuesta cubana.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793208094/noticias/articles/20261028_172133_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 28 Oct 2026 17:22:24 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261028172224</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Embajador ruso advierte que no tolerarán calumnias tras informe de la ONU sobre dominicanos reclutados para la guerra]]></title>
     <link>https://eldia.com.do/embajador-ruso-advierte-que-no-toleraran-calumnias-tras-informe-de-la-onu-sobre-dominicanos-reclutados-para-la-guerra/</link>
     <description><![CDATA[El embajador ruso en República Dominicana, Alexey Victorovich Seredin, ha declarado que Rusia no tolerará calumnias tras un informe de la ONU sobre el reclutamiento de dominicanos para la guerra. Seredin aseguró que Moscú está investigando la documentación remitida por República Dominicana y está dispuesto a colaborar para esclarecer los casos.
@@ -1434,17 +1445,6 @@ El Estado subsidia a los consumidores RD$117.81 por cada galón de gasoil regula
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792798389/noticias/articles/20261023_233308_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 23 Oct 2026 23:38:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261023233832</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Marco Rubio llama a habitantes de Cuba a generar un cambio "en colaboración discreta con la CIA"]]></title>
-    <link>https://www.biobiochile.cl/noticias/internacional/eeuu/2026/10/23/marco-rubio-llama-a-habitantes-de-cuba-a-generar-un-cambio-en-colaboracion-discreta-con-la-cia.shtml</link>
-    <description><![CDATA[Marco Rubio, secretario de Estado de EEUU, ha llamado a los habitantes de Cuba que desean un cambio de Gobierno a colaborar discretamente con la CIA. Este mensaje fue publicado en X, poco después de que Donald Trump mencionara la posibilidad de enviar la Armada estadounidense a la isla.
-
-Trump afirmó que, tras la guerra con Irán, la Armada navegará hasta Cuba y que Rubio se encargará de resolver la situación. Washington ha intensificado la presión sobre La Habana con sanciones y restricciones al suministro de combustible.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792796187/noticias/articles/20261023_225627_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 23 Oct 2026 22:56:57 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261023225657</guid>
   </item>
 </channel>
 </rss>
