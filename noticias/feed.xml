@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 28 Oct 2026 16:07:21 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 28 Oct 2026 16:08:50 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Pedro Sánchez sobre el accidente ferroviario en España: "Si hubo negligencias, se sabrá"]]></title>
+    <link>https://www.diariolibre.com/mundo/espana/2026/10/28/pedro-sanchez-si-hubo-negligencias-en-e-accidente-de-trenes-se-sabra/3703409</link>
+    <description><![CDATA[Pedro Sánchez, presidente del Gobierno español, anunció que se investigarán las causas del accidente ferroviario en Urda, Toledo, que dejó al menos 68 muertos. Se decretarán tres días de luto oficial.
+
+El accidente involucró a un tren Ave de Renfe y otro de Iryo. El ministro de Transportes, Óscar Puente, explicó que el accidente se originó tras la caída del sistema de seguridad LZB y la decisión de reanudar la marcha sin limitar la velocidad.
+
+El tren de Renfe embistió al Iryo, que estaba detenido. Se reportan 53 heridos leves y 15 graves.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793203692/noticias/articles/20261028_160812_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 28 Oct 2026 16:08:50 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261028160850</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Asciende a 68 el balance de muertos en el accidente ferroviario en España]]></title>
     <link>https://www.diariolibre.com/mundo/espana/2026/10/28/choque-de-trenes-en-toledo-provoca-68-muertos/3703410</link>
     <description><![CDATA[El balance provisional de fallecidos en el accidente ferroviario en Toledo, España, asciende a 68, con más de medio centenar de heridos. El choque ocurrió cerca de la estación de Urda entre un tren de alta velocidad (Ave) de Renfe y un Iryo.
@@ -1434,25 +1447,6 @@ Para República Dominicana, que importa combustibles terminados bajo el modelo d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792784812/noticias/articles/20261023_194652_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 23 Oct 2026 19:47:23 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261023194723</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Grupo Popular anuncia cambios en su Consejo de Administración]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261023191334</link>
-    <description><![CDATA[Grupo Popular anunció cambios en su Consejo de Administración que impulsan una transición natural del liderazgo, orientada a asegurar la continuidad de la visión estratégica de la organización, mantener la senda de crecimiento sostenible y su capacidad para continuar aportando al desarrollo de la República Dominicana.
-
-Estos cambios, que fueron aprobados por los accionistas de Grupo Popular en la Asamblea General Extraordinaria-Ordinaria, celebrada en la Torre Popular el 23 de octubre de 2026, articulan legado y renovación para respaldar la próxima etapa de desarrollo de la organización empresarial. Los trabajos de la asamblea fueron dirigidos por el señor Felipe Vicini Lluberes, vicepresidente del Consejo de Administración.
-
-En ese contexto, el señor Manuel A. Grullón fue designado presidente Ad Vitam de la sociedad Grupo Popular, S.A., en reconocimiento a su trayectoria, liderazgo y valiosos aportes al fortalecimiento y desarrollo de la institución, lo que permite dar continuidad a sus contribuciones mediante su permanencia como miembro en los Consejos de Administración de Grupo Popular y Banco Popular Dominicano.
-
-Desde su nueva posición seguirá aportando su experiencia, conocimiento del negocio y orientación estratégica, al tiempo que podrá enfocarse en las actividades de índole filantrópica que el Grupo Popular y sus empresas subsidiarias llevan a cabo en las áreas de la educación, la salud y el medioambiente, entre otras.
-
-Por otra parte, se aprobó el nombramiento del señor Manuel Grullón Hernández como presidente del Consejo de Administración de Grupo Popular, del que ya formaba parte como consejero. El señor Grullón Hernández asume las responsabilidades inherentes al cargo, al tiempo que mantendrá su rol actual como vicepresidente del Consejo de Administración de Banco Popular Dominicano y sus funciones en los diversos consejos, juntas directivas y comités en los que participa.
-
-Para leer más, visita nuestra página web eltestigo.com]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792782701/noticias/articles/20261023_191140_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 23 Oct 2026 19:13:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261023191334</guid>
   </item>
 </channel>
 </rss>
