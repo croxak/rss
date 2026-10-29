@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 29 Oct 2026 20:19:23 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 20:44:42 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Ascienden a 74 los fallecidos por el accidente ferroviario de España]]></title>
+    <link>https://noticiassin.com/mundo/espana/2026/10/29/accidente-ferroviario-en-espana-deja-74-fallecidos-2157633/</link>
+    <description><![CDATA[El accidente ferroviario en Urda, España, ha resultado en 74 fallecidos y un número elevado de heridos. Un tren de Renfe chocó contra un Iryo detenido, provocando que varios vagones cayeran por un terraplén.
+
+La Comisión de Investigación de Accidentes Ferroviarios (CIAF) ha informado que el balance de fallecidos es provisional. Los reyes de España, Felipe VI y Letizia, visitaron a los heridos en el Hospital Universitario de Toledo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793306639/noticias/articles/20261029_204358_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 29 Oct 2026 20:44:42 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261029204442</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Despliegue anunciado por Bukele se acerca al total de la fuerza antipandillas en Haití]]></title>
     <link>https://www.diariolibre.com/mundo/haiti/2026/10/29/despliegue-anunciado-por-bukele-se-acerca-al-fuerza-antipandillas/3704898</link>
     <description><![CDATA[El Salvador desplegará más de 2,000 soldados en Haití para rescatar a cuatro aerotécnicos desaparecidos. Este despliegue se acerca al total de la Fuerza de Supresión de Pandillas en Haití.
@@ -1442,23 +1453,6 @@ La difusión ocurre una semana después de la emboscada del 18 de octubre contra
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792945118/noticias/articles/20261025_161838_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 25 Oct 2026 16:22:15 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261025162215</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Investigan la muerte a tiros de un dominicano durante una persecución policial en Montevideo]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261025152911</link>
-    <description><![CDATA[La Fiscalía de Homicidios y la Policía de Uruguay investigan la muerte de un ciudadano dominicano de 40 años que recibió disparos policiales durante una persecución ocurrida la madrugada del jueves 22 de octubre en Montevideo. El incidente también dejó varias personas heridas, según informaron los medios locales Montevideo Portal y Subrayado.
-
-De acuerdo con las publicaciones, la persecución comenzó alrededor de las 3:00 de la mañana en la zona de Reducto y se extendió por varios barrios hasta las inmediaciones del Hipódromo de Maroñas. En el operativo participaron aproximadamente diez patrulleros.
-
-Subrayado indicó que el vehículo, un automóvil eléctrico blanco, terminó con al menos 15 impactos de bala y fue interceptado en General Flores y Guerra. Las autoridades investigan por qué el conductor no se detuvo y qué relación tenía con las demás personas que viajaban con él.
-
-Como parte de las actuaciones, los agentes involucrados fueron desarmados preventivamente y citados a declarar. La investigación incluye peritajes de Policía Científica y la revisión de cámaras de seguridad para reconstruir lo sucedido. El retiro de las armas no constituye por sí mismo una acusación penal contra los efectivos.
-
-Uno de los ocupantes sostuvo que habían solicitado un viaje mediante Uber. Sin embargo, fuentes de la investigación citadas por Montevideo Portal señalaron que el fallecido no figuraba como conductor registrado y que no constaba una solicitud de viaje al momento del hecho. Esa versión permanece bajo esclarecimiento.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792942127/noticias/articles/20261025_152847_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 25 Oct 2026 15:29:11 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261025152911</guid>
   </item>
 </channel>
 </rss>
