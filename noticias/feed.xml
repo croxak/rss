@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 29 Oct 2026 18:45:53 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 20:15:08 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Muere Patrick Stewart, el actor que convirtió a Jean-Luc Picard en un ícono de la ciencia ficción]]></title>
+    <link>https://www.diariolibre.com/revista/cine/2026/10/29/muere-patrick-stewart-el-actor-que-inmortalizo-a-jean-luc-picard/3705003</link>
+    <description><![CDATA[Patrick Stewart, el actor británico que dio vida al capitán Jean-Luc Picard en "Star Trek" y al profesor Charles Xavier en "X-Men", falleció a los 86 años en Los Ángeles. Su portavoz informó que su muerte fue consecuencia de un breve proceso de enfermedad de Alzheimer y demencia con cuerpos de Lewy.
+
+Stewart tuvo una carrera que abarcó teatro, cine y televisión, destacándose por su formación shakespeariana y su presencia escénica. Además, fue un activista comprometido con los derechos humanos y otras causas humanitarias.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793304879/noticias/articles/20261029_201439_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 29 Oct 2026 20:15:08 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261029201508</guid>
+  </item>
+
+  <item>
     <title><![CDATA[ICE reporta arresto en Nueva York de hombre identificado como dominicano por presunto fraude electoral]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261029184553</link>
     <description><![CDATA[El Servicio de Inmigración y Control de Aduanas de Estados Unidos (ICE) informó del arresto en Nueva York de Randy Pierre-Louis, a quien identifica como ciudadano de República Dominicana y residente permanente legal en territorio estadounidense.
@@ -1458,17 +1469,6 @@ La misión internacional aseguró que mantiene las operaciones de búsqueda en c
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792941409/noticias/articles/20261025_151649_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 25 Oct 2026 15:17:46 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261025151746</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Condenan a 20 años de prisión a hombre que abusó sexualmente de una menor durante más de dos años en Santiago]]></title>
-    <link>https://noticiassin.com/pais/justicia/2026/10/24/condenan-a-20-anos-por-abuso-sexual-de-menor-en-santiago-2153455/</link>
-    <description><![CDATA[César Alberto Contreras Javier ha sido condenado a 20 años de prisión por el Cuarto Tribunal Colegiado de Santiago. Fue encontrado culpable de abusar sexualmente de una menor durante más de dos años, utilizando amenazas y violencia para silenciarla.
-
-El caso fue denunciado por la madre de la víctima, y las pruebas presentadas incluyeron evaluaciones psicológicas que mostraron daños emocionales en la menor. La fiscal Jenniffer Rodríguez destacó la coherencia del testimonio de la víctima, que coincidió con las pruebas periciales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792940881/noticias/articles/20261025_150801_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 25 Oct 2026 15:09:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261025150930</guid>
   </item>
 </channel>
 </rss>
