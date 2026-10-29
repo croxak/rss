@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 29 Oct 2026 20:46:40 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 21:53:43 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[¿Están hackeando Binance? Salida de 2 mil millones de dólares pone en duda los fondos de los clientes]]></title>
+    <link>https://es.finance.yahoo.com/noticias/hackeando-binance-salida-2-mil-204922706.html</link>
+    <description><![CDATA[Más de 2 mil millones de dólares en Ethereum y tokens salieron de las hot wallets de Binance hacia una dirección creada recientemente y financiada a través de Tornado Cash. Binance no ha confirmado si los depósitos de los clientes están en riesgo.
+
+La transacción incluyó 167.464 ETH y 63 tokens, entre ellos 1.600 millones de dólares en Tether. Otra wallet de Binance también transfirió 28.005 ETH a la misma dirección.
+
+La dirección receptora dividió los fondos rápidamente, lo que genera dudas sobre si se trata de un robo o mantenimiento rutinario.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793310796/noticias/articles/20261029_215315_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 29 Oct 2026 21:53:43 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261029215343</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Denuncian presunta filtración de más de 500,000 registros de clientes de Edesur Dominicana]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261029204640</link>
     <description><![CDATA[Un usuario identificado como «K3RN3L_P4N1C» afirmó haber obtenido más de 500,000 registros de clientes de Edesur Dominicana y publicó una muestra de los supuestos datos en un foro de ciberdelincuencia.
@@ -1442,17 +1455,6 @@ Los investigadores identificaron más de 800 llamadas realizadas o intentadas en
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792947618/noticias/articles/20261025_170018_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 25 Oct 2026 17:01:37 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261025170137</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[“Estoy aquí”: María Corina Machado regresa a Venezuela tras casi un año fuera del país]]></title>
-    <link>https://www.france24.com/es/américa-latina/20261025-estoy-aquí-maría-corina-machado-regresa-a-venezuela-tras-casi-un-año-fuera-del-país</link>
-    <description><![CDATA[María Corina Machado, líder de la oposición venezolana, ha regresado a su país tras casi un año en el extranjero. Machado, quien recibió el Premio Nobel de la Paz en Oslo, fue recibida por simpatizantes en el Santuario Divina Pastora en Barquisimeto.
-
-Su retorno ocurre en un momento de incertidumbre sobre el futuro democrático de Venezuela y podría afectar las relaciones con la Administración de Donald Trump, que ha mostrado apoyo a la presidenta interina Delcy Rodríguez.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792946594/noticias/articles/20261025_164314_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 25 Oct 2026 16:43:52 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261025164352</guid>
   </item>
 </channel>
 </rss>
