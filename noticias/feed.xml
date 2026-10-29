@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 29 Oct 2026 13:12:37 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 13:15:23 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Los Cerveceros completan su obra maestra y ganan la Serie Mundial]]></title>
+    <link>https://www.diariolibre.com/deportes/beisbol/2026/10/28/los-cerveceros-completan-su-obra-maestra-y-logra-la-serie-mundial/3704152</link>
+    <description><![CDATA[Los Cerveceros de Milwaukee se coronaron campeones de la Serie Mundial de las Grandes Ligas por primera vez en su historia. Vencieron 1-4 a los Rays de Tampa Bay en St. Petersburg, Florida, cerrando la serie por el título 4-1.
+
+Cooper Pratt, William Contreras y Jacob Misiorowski fueron fundamentales en la victoria. Pratt estableció un récord para un novato en la Serie Mundial con seis imparables consecutivos. Contreras conectó un doble decisivo y Misiorowski mantuvo a Tampa Bay sin carreras durante cinco entradas y dos tercios.
+
+Trevor Megill se encargó de los últimos seis outs, asegurando el título para los Cerveceros, a pesar de conceder una carrera en la novena entrada.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793279665/noticias/articles/20261029_131424_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 29 Oct 2026 13:15:23 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261029131523</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Detienen a hombre nacido en RD durante investigación de tiroteo mortal en Curaçao]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261029131237</link>
     <description><![CDATA[La Policía de Curaçao detuvo a un hombre nacido en República Dominicana como parte de la investigación de un tiroteo que dejó un fallecido en Willemstad el pasado 30 de septiembre.
@@ -1450,17 +1463,6 @@ A pesar de su salida, Genao aseguró que seguirá defendiendo los ideales de Joa
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792883072/noticias/articles/20261024_230432_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 24 Oct 2026 23:04:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261024230458</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El magnate Peter Thiel dice que EEUU no debió iniciar la guerra de Irán, según Político]]></title>
-    <link>https://www.infobae.com/america/agencias/2026/10/22/el-magnate-peter-thiel-dice-que-eeuu-no-debio-iniciar-la-guerra-de-iran-segun-politico/?outputType=amp-type</link>
-    <description><![CDATA[Peter Thiel, magnate tecnológico, afirmó que Estados Unidos no debió embarcarse en la guerra contra Irán y criticó al Gobierno de Donald Trump por "muchos errores". A pesar de su oposición a las guerras en Oriente Medio, Thiel reiteró su apoyo a Trump.
-
-En un encuentro con el primer ministro israelí, Benjamín Netanyahu, Thiel discutió los planes en Gaza tras los ataques de Hamás. Netanyahu respondió que no podía convertir Gaza en un "Dresde".]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792862654/noticias/articles/20261024_172414_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 24 Oct 2026 17:24:52 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261024172452</guid>
   </item>
 </channel>
 </rss>
