@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 29 Oct 2026 20:15:08 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 29 Oct 2026 20:19:23 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Despliegue anunciado por Bukele se acerca al total de la fuerza antipandillas en Haití]]></title>
+    <link>https://www.diariolibre.com/mundo/haiti/2026/10/29/despliegue-anunciado-por-bukele-se-acerca-al-fuerza-antipandillas/3704898</link>
+    <description><![CDATA[El Salvador desplegará más de 2,000 soldados en Haití para rescatar a cuatro aerotécnicos desaparecidos. Este despliegue se acerca al total de la Fuerza de Supresión de Pandillas en Haití.
+
+Los aerotécnicos desaparecieron tras un ataque en Croix-des-Bouquets. El presidente Bukele y el primer ministro haitiano discutieron la cooperación contra las pandillas.
+
+República Dominicana apoya logísticamente, facilitando el tránsito de contingentes y suministros, sin intervenir directamente en los combates.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793305126/noticias/articles/20261029_201845_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 29 Oct 2026 20:19:23 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261029201923</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Muere Patrick Stewart, el actor que convirtió a Jean-Luc Picard en un ícono de la ciencia ficción]]></title>
     <link>https://www.diariolibre.com/revista/cine/2026/10/29/muere-patrick-stewart-el-actor-que-inmortalizo-a-jean-luc-picard/3705003</link>
     <description><![CDATA[Patrick Stewart, el actor británico que dio vida al capitán Jean-Luc Picard en "Star Trek" y al profesor Charles Xavier en "X-Men", falleció a los 86 años en Los Ángeles. Su portavoz informó que su muerte fue consecuencia de un breve proceso de enfermedad de Alzheimer y demencia con cuerpos de Lewy.
@@ -1446,29 +1459,6 @@ Uno de los ocupantes sostuvo que habían solicitado un viaje mediante Uber. Sin 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792942127/noticias/articles/20261025_152847_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 25 Oct 2026 15:29:11 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261025152911</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fuerza internacional en Haití confirma recepción de restos humanos, pero no puede confirmar su identidad]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261025151746</link>
-    <description><![CDATA[La Fuerza de Supresión de Pandillas (GSF) confirmó este domingo 25 de octubre que recibió restos humanos sin identificar que podrían pertenecer a los cuatro aerotécnicos salvadoreños desaparecidos en Haití, tras una emboscada perpetrada por grupos armados el pasado 18 de octubre en Croix-des-Bouquets.
-
-Mediante un comunicado oficial, la misión multinacional explicó que los restos fueron entregados por una organización humanitaria externa, pero aclaró que todavía no dispone de información suficiente para establecer su identidad.
-
-«En esta etapa, la GSF no está en condiciones de confirmar que los restos sean los del personal desaparecido», señaló la institución.
-
-El pronunciamiento se produce después de que el presidente de El Salvador, Nayib Bukele, negara el sábado que los restos entregados correspondieran a sus cuatro militares desaparecidos, en respuesta a una publicación de The New York Times que informó sobre el hallazgo.
-
-«No son nuestros hombres», afirmó Bukele, quien explicó que entre los restos se encontraban los de un niño, un hombre considerablemente más alto que los aerotécnicos salvadoreños y una persona que portaba elementos de un uniforme militar extranjero.
-
-La GSF también aclaró que una identificación militar de Chad, cuyas imágenes circularon en redes sociales, pertenece a un soldado que perdió el documento durante las operaciones de búsqueda. Según la institución, el militar se encuentra localizado y permanece con su unidad.
-
-Los cuatro salvadoreños permanecen desaparecidos desde el 18 de octubre, cuando el vehículo blindado en el que viajaban fue atacado por hombres armados en el sector Santo, de Croix-des-Bouquets, en las afueras de Puerto Príncipe.
-
-La misión internacional aseguró que mantiene las operaciones de búsqueda en coordinación con las autoridades haitianas y salvadoreñas, y que divulgará nuevas informaciones cuando disponga de datos verificados.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792941409/noticias/articles/20261025_151649_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 25 Oct 2026 15:17:46 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261025151746</guid>
   </item>
 </channel>
 </rss>
