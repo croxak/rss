@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 30 Oct 2026 15:58:01 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 17:19:23 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Embajada de EE.UU. alerta a sus ciudadanos sobre robos y agresiones sexuales en RD]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/10/30/embajada-de-ee-uu-alerta-por-robos-y-agresiones-en-rd-2158642/</link>
+    <description><![CDATA[La Embajada de EE. UU. en Santo Domingo ha alertado a sus ciudadanos sobre robos y agresiones sexuales en la República Dominicana. Recomienda extremar precauciones en lugares públicos y privados.
+
+La embajada ha recibido reportes de viajeros, incluidos estadounidenses, que han sido drogados, robados y agredidos sexualmente. Los agresores a menudo buscan a sus víctimas en aplicaciones de citas, bares y discotecas.
+
+Los ataques han ocurrido en viviendas privadas, propiedades de alquiler a corto plazo, hoteles y moteles. La embajada insta a sus ciudadanos a mantenerse informados y atentos a su seguridad.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793380735/noticias/articles/20261030_171855_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 30 Oct 2026 17:19:23 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261030171923</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía de Haití arresta a sospechoso de participar en la planificación del asesinato de Jovenel Moïse]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261030155801</link>
     <description><![CDATA[La Policía Nacional de Haití (PNH) confirmó este viernes 30 de octubre la detención del abogado y dirigente político Phénil Gordon Désir, señalado por su presunta participación en la planificación del asesinato del expresidente Jovenel Moïse, ocurrido el 7 de julio de 2021.
@@ -1478,17 +1491,6 @@ Las relaciones diplomáticas entre la República Dominicana y El Salvador contin
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793037886/noticias/articles/20261026_180446_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 26 Oct 2026 18:05:18 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261026180518</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Incendio afectó fábrica de aceite de coco en San Cristóbal]]></title>
-    <link>https://eldia.com.do/incendio-afecto-fabrica-de-aceite-de-coco-en-san-cristobal/</link>
-    <description><![CDATA[Un incendio de grandes proporciones afectó una fábrica de aceite de coco en el sector Cambita Uribe, San Cristóbal, la noche del domingo 25 de octubre. La emergencia movilizó a varias unidades de bomberos de San Cristóbal y Yaguate, así como a equipos del Sistema Nacional de Atención a Emergencias y Seguridad 911.
-
-El siniestro, que ocurrió cerca de los kilómetros 4 y 5 de la carretera San Cristóbal-Cambita Garabitos, generó preocupación entre los residentes del área. Las autoridades aún no han proporcionado detalles sobre el origen del incendio, los daños materiales ni si hubo personas lesionadas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793031686/noticias/articles/20261026_162126_article.webp" type="image/webp"/>
-    <pubDate>Mon, 26 Oct 2026 16:22:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261026162201</guid>
   </item>
 </channel>
 </rss>
