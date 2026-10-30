@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 30 Oct 2026 00:52:25 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 30 Oct 2026 00:54:12 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Reportan detención de dominicano con más de 51 kilos de marihuana en Chile]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261030005412</link>
+    <description><![CDATA[Un ciudadano dominicano fue detenido en la comuna de Estación Central, en Santiago de Chile, después de que Carabineros y personal municipal detectaran que transportaba 51 kilos y 890 gramos de marihuana, según reportó el medio chileno Emol.
+
+El detenido fue identificado con las iniciales M.A.V.. La intervención se produjo durante patrullajes preventivos conjuntos, de acuerdo con la publicación del 27 de octubre.
+
+El medio informó que la sustancia estaba distribuida en paquetes tipo ladrillo y que personal especializado del OS7 de Carabineros realizó peritajes para determinar su composición. Los agentes también ocuparon dos teléfonos celulares.
+
+Según Emol, el hombre sería presentado a una audiencia de control de detención y posteriormente formalizado por una presunta infracción a la ley chilena de drogas]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793321616/noticias/articles/20261030_005336_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 30 Oct 2026 00:54:12 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261030005412</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Reportan expulsión de dominicano condenado por asesinato tras cumplir 17 años de prisión en España]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261030005225</link>
     <description><![CDATA[Un ciudadano dominicano fue detenido y expulsado de España después de cumplir una condena de 17 años de prisión por asesinato en el centro penitenciario de Villabona, en Asturias, informaron medios españoles con datos atribuidos a la Policía Nacional.
@@ -1442,19 +1457,6 @@ La Cancillería aseguró que los ciudadanos estuvieron en un lugar seguro y no e
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792977625/noticias/articles/20261026_012025_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 26 Oct 2026 01:21:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261026012103</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Lula gana las elecciones de Brasil tras una remontada inédita ante Flávio Bolsonaro]]></title>
-    <link>https://acento.com.do/amp/internacional/lula-gana-las-elecciones-de-brasil-9777541.html</link>
-    <description><![CDATA[Luiz Inácio Lula da Silva ha ganado la segunda vuelta de las elecciones en Brasil, asegurando su cuarto mandato como presidente. Lula obtuvo el 51.74 % de los votos, superando a Flávio Bolsonaro, quien alcanzó el 48.26 %.
-
-La diferencia en votos fue de más de 3.8 millones. Esta es la primera vez desde el fin de la dictadura militar que un candidato que quedó en segundo lugar en la primera ronda se impone en la segunda.
-
-En la primera vuelta, Flávio Bolsonaro había sido el más votado con el 47 %, superando a Lula por 2.2 millones de votos. Sin embargo, Lula logró revertir el resultado en la segunda vuelta.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1792975113/noticias/articles/20261026_003832_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 26 Oct 2026 00:39:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261026003905</guid>
   </item>
 </channel>
 </rss>
