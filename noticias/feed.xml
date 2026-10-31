@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 31 Oct 2026 13:40:10 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 13:43:43 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Un dominicano se declaró culpable en Boston por robarle la identidad a un boricua y obtener fondos del SNAP]]></title>
+    <link>https://www.elnuevodia.com/corresponsalias/washington-dc/notas/un-dominicano-se-declaro-culpable-en-boston-por-robarle-la-identidad-a-un-boricua-y-obtener-fondos-del-snap/</link>
+    <description><![CDATA[Erpawi Roque Collado, un hombre dominicano con permiso de residencia en Estados Unidos, se declaró culpable en Boston por robar la identidad de un puertorriqueño. Utilizó la identidad para obtener $24,128 del Programa de Asistencia Nutricional Suplementaria (SNAP).
+
+La fiscalía federal informó que los delitos ocurrieron entre diciembre de 2016 y mayo de 2025. La sentencia está programada para el 14 de enero de 2027. Roque Collado podría enfrentar hasta 20 años de prisión y una multa de $250,000.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793454176/noticias/articles/20261031_134255_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 31 Oct 2026 13:43:43 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261031134343</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Condenan a más de ocho años a dominicano por tráfico de drogas en New Hampshire]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261031134010</link>
     <description><![CDATA[Un tribunal federal de New Hampshire condenó a ocho años y cuatro meses de prisión al dominicano José Luis Guerrero Núñez por conspirar para distribuir fentanilo, cocaína y metanfetamina.
@@ -1481,17 +1492,6 @@ En República Dominicana, familiares han denunciado que sus parientes recibieron
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793052171/noticias/articles/20261026_220250_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 26 Oct 2026 22:03:29 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261026220329</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno anuncia que inaugurará 38 kilómetros de verja fronteriza en diciembre]]></title>
-    <link>https://www.diariolibre.com/politica/gobierno/2026/10/26/gobierno-anuncia-que-inaugurara-38-kilometros-de-verja-fronteriza/3701303</link>
-    <description><![CDATA[El Gobierno dominicano tiene previsto inaugurar en diciembre un tramo de 38 kilómetros de la verja fronteriza desde Manzanillo hasta Capotillo. Este proyecto incluye tres puentes y es parte de las medidas para reforzar la seguridad en la frontera con Haití.
-
-El ministro de Defensa, Carlos Antonio Fernández Onofre, informó que actualmente hay 54.5 kilómetros de verja perimetral terminados y que se construirán 14 kilómetros adicionales en Jimaní. La infraestructura está equipada con tecnología avanzada para mejorar la vigilancia.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793052015/noticias/articles/20261026_220015_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 26 Oct 2026 22:00:43 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261026220043</guid>
   </item>
 </channel>
 </rss>
