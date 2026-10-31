@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 31 Oct 2026 13:43:43 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 31 Oct 2026 13:48:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Soldados salvadoreños comienzan a patrullar las calles de Puerto Príncipe]]></title>
+    <link>https://eldia.com.do/soldados-salvadorenos-comienzan-a-patrullar-las-calles-de-puerto-principe/</link>
+    <description><![CDATA[Soldados de El Salvador han iniciado patrullajes en Puerto Príncipe, Haití, para buscar a cuatro compañeros desaparecidos tras un ataque. La operación cuenta con más de 2.000 efectivos.
+
+El presidente Nayib Bukele afirmó que están dando "una lección a las pandillas". Los soldados han establecido una base cerca de la embajada de Estados Unidos en Tabarre.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793454462/noticias/articles/20261031_134742_article.webp" type="image/webp"/>
+    <pubDate>Sat, 31 Oct 2026 13:48:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261031134815</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Un dominicano se declaró culpable en Boston por robarle la identidad a un boricua y obtener fondos del SNAP]]></title>
     <link>https://www.elnuevodia.com/corresponsalias/washington-dc/notas/un-dominicano-se-declaro-culpable-en-boston-por-robarle-la-identidad-a-un-boricua-y-obtener-fondos-del-snap/</link>
     <description><![CDATA[Erpawi Roque Collado, un hombre dominicano con permiso de residencia en Estados Unidos, se declaró culpable en Boston por robar la identidad de un puertorriqueño. Utilizó la identidad para obtener $24,128 del Programa de Asistencia Nutricional Suplementaria (SNAP).
@@ -1481,17 +1492,6 @@ El funcionario insistió en que, desde el inicio del período analizado, las ban
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793052298/noticias/articles/20261026_220458_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 26 Oct 2026 22:06:18 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261026220618</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[ONU denuncia trata de personas de RD y otros 28 países para combatir en guerra]]></title>
-    <link>https://www.diariolibre.com/actualidad/nacional/2026/10/26/rusia-y-la-trata-de-personas-en-republica-dominicana/3701199</link>
-    <description><![CDATA[La ONU ha denunciado que la República Dominicana es uno de los 29 países de los que se han reclutado hombres mediante trata de personas para combatir en Ucrania. Según el informe, las autoridades rusas utilizaron engaños y presiones para reclutar a ciudadanos extranjeros.
-
-En República Dominicana, familiares han denunciado que sus parientes recibieron ofertas de empleo, pero terminaron vinculados al reclutamiento militar. El Ministerio de Relaciones Exteriores gestionó el regreso de cuatro dominicanos que no llegaron a firmar contratos militares.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793052171/noticias/articles/20261026_220250_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 26 Oct 2026 22:03:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261026220329</guid>
   </item>
 </channel>
 </rss>
