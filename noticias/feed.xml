@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 01 Nov 2026 17:03:45 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 01 Nov 2026 17:06:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Hombre acusado de secuestrar y torturar a menor muere en alegado enfrentamiento con la Policía]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/31/enfrentamiento-policial-deja-muerto-a-implicado-en-secuestro-de-menor/3707043</link>
+    <description><![CDATA[Wilfredo Antonio Rodríguez Henríquez, conocido como «Bindo» o «El Gordo», falleció tras un presunto enfrentamiento con la Policía Nacional. Era buscado por su implicación en el secuestro y muerte de un adolescente de 15 años.
+
+El enfrentamiento ocurrió mientras la Policía realizaba labores de búsqueda. Durante la intervención, se ocuparon una pistola Glock y una motocicleta Tauro.
+
+El caso continúa bajo investigación para los fines legales correspondientes.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793552772/noticias/articles/20261101_170611_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 01 Nov 2026 17:06:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261101170641</guid>
+  </item>
+
+  <item>
     <title><![CDATA[MOPC anuncia desvíos de tránsito en dos puntos de la autopista Duarte por trabajos viales]]></title>
     <link>https://elnuevodiario.com.do/mopc-anuncia-desvios-de-transito-en-dos-puntos-de-la-autopista-duarte-por-trabajos-viales/</link>
     <description><![CDATA[El Ministerio de Obras Públicas y Comunicaciones (MOPC) ha informado sobre desvíos de tránsito en la autopista Duarte debido a trabajos en los puentes distribuidores de Jarabacoa y Jeremías, en La Vega.
@@ -1420,29 +1433,6 @@ Las lluvias han dejado 30 comunidades incomunicadas y 105 viviendas afectadas. A
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793123869/noticias/articles/20261027_175748_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 27 Oct 2026 17:58:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261027175828</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[AIRD llama a transformar el crecimiento económico en desarrollo productivo]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261027174811</link>
-    <description><![CDATA[La Asociación de Industrias de la República Dominicana (AIRD) llamó a convertir el crecimiento económico del país en una transformación productiva que fortalezca la industrial nacional, amplíe los encadenamientos empresariales y genere mayor valor agregado.
-
-El planteamiento fue realizado por su presidente, Julio Virgilio Brache, durante la entrega de los Galardones Industriales 2026, en la que fueron reconocidos el empresario Juan José Attias Hamna, Industrias Banilejas (INDUBAN) y la Dirección General de Medicamentos, Alimentos y Productos Sanitarios (DIGEMAPS).
-
-La ceremonia contó con la presencia del presidente de la República Dominicana, Luis Abinader Corona, lo cual fue valorado por la AIRD como señal clara de apoyo al proceso de industrialización del país. Además, reunió a representantes del sector público y privado para reconocer trayectorias empresariales y aportes institucionales al desarrollo de la industria nacional.
-
-Brache señaló que la reorganización de las cadenas internacionales de suministro y los cambios tecnológicos ofrecen nuevas oportunidades para la manufactura dominicana. Advirtió, sin embargo, que el comportamiento favorable de las exportaciones y la inversión extranjera no debe llevar al país a la complacencia.
-
-«El gran desafío que tenemos por delante es convertir el crecimiento económico en una verdadera transformación productiva. Y en el centro de ese proceso debe estar indefectiblemente la industria», expresó.
-
-El presidente de la AIRD identificó cuatro bases para avanzar en esa transformación: energía suficiente, confiable y a costos competitivos; formación de talento alineado a las necesidades de la industria; mayor productividad mediante la incorporación de tecnología; y condiciones que favorezcan la formalidad empresarial y laboral.
-
-En cuanto a la formalidad, planteó que las reformas laborales, tributarias y de seguridad social deben facilitar la creación de empresas y empleos formales, evitando que el cumplimiento de la ley represente una desventaja frente a quienes operan al margen de ella.
-
-Para seguir leyendo este artículo, visita nuestra página web eltestigo.com]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793123225/noticias/articles/20261027_174704_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 27 Oct 2026 17:48:11 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261027174811</guid>
   </item>
 </channel>
 </rss>
