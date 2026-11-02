@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 02 Nov 2026 13:25:33 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 13:29:30 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Policía desmantela almacén clandestino con 7,392 botellas de miel presuntamente adulterada en SDN]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/11/02/policia-desmantela-almacen-de-miel-adulterada-en-sdn-2160342/</link>
+    <description><![CDATA[La Policía Nacional desmanteló un almacén clandestino en Santo Domingo Norte, donde se encontraron 7,392 botellas de miel presuntamente adulterada.
+
+El operativo se llevó a cabo en el sector La Virgen, con la participación del Departamento de Falsificaciones, la Procuraduría Especializada de Crímenes y Delitos contra la Salud y técnicos de DIGEMAPS.
+
+Durante el allanamiento, se incautaron 1,992 botellas de 12 onzas y 5,400 de seis onzas, distribuidas en un total de 308 cajas.
+
+La Policía continuará trabajando para combatir la fabricación y comercialización ilegal de productos que puedan representar riesgos para la salud pública.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793626143/noticias/articles/20261102_132903_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 02 Nov 2026 13:29:30 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261102132930</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Presidente Abinader viaja este lunes a España para participar en la Cumbre Iberoamericana]]></title>
     <link>https://listindiario.com/la-republica/gobierno/20261102/presidente-abinader-viaja-lunes-espana-participar-cumbre-iberoamericana_928455.html</link>
     <description><![CDATA[El presidente Luis Abinader se prepara para viajar este lunes a España, donde asistirá a la Cumbre Iberoamericana en Madrid el 4 de noviembre. La inauguración del evento será en el Teatro Real de Madrid a las 6:30 de la tarde.
@@ -1444,17 +1459,6 @@ HSI destacó la colaboración con organismos federales e internacionales para lo
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793190174/noticias/articles/20261028_122253_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 28 Oct 2026 12:23:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261028122340</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ministerio de Trabajo pide flexibilizar horarios laborales en provincias bajo alerta amarilla]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/10/27/trabajo-pide-flexibilidad-laboral-por-alerta-amarilla-2155704/</link>
-    <description><![CDATA[El Ministerio de Trabajo ha pedido a los empleadores flexibilizar los horarios laborales en las provincias bajo alerta amarilla debido a las lluvias. Las provincias afectadas son Santo Domingo, Distrito Nacional, Pedernales, Barahona, Bahoruco, Independencia, Azua, Peravia, San Cristóbal, San José de Ocoa, Monte Plata y San Juan.
-
-Se recomienda a las empresas considerar las dificultades de traslado de los empleados, especialmente aquellos en zonas vulnerables. Además, se insta a seguir las orientaciones del COE y el Indomet, y evitar desplazamientos de riesgo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793136399/noticias/articles/20261027_212638_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 27 Oct 2026 21:27:07 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261027212707</guid>
   </item>
 </channel>
 </rss>
