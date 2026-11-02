@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 02 Nov 2026 23:14:10 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 23:18:42 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Empresario tecnológico y su familia figuran entre las víctimas de accidente aéreo en Florida]]></title>
+    <link>https://elnuevodiario.com.do/empresario-tecnologico-y-su-familia-figuran-entre-las-victimas-de-accidente-aereo-en-florida/</link>
+    <description><![CDATA[Un trágico accidente aéreo en Florida cobró la vida de un empresario tecnológico y su familia. Adam Robinson, de 44 años, fundador de Retention dot com y RB2B, viajaba con su esposa Helen, sus hijas Bella y Emma, una niñera y dos amigos.
+
+El grupo se dirigía de Austin, Texas, a las Bahamas cuando el avión Learjet 60 se estrelló. El piloto Jeff Gregory y la copiloto Nathalia Gadelha también perdieron la vida en el siniestro.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793661487/noticias/articles/20261102_231806_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 02 Nov 2026 23:18:42 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261102231842</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Rubio y el canciller venezolano abordan reformas para celebrar elecciones libres]]></title>
     <link>https://elnuevodiario.com.do/rubio-y-el-canciller-venezolano-abordan-reformas-para-celebrar-elecciones-libres/</link>
     <description><![CDATA[El secretario de Estado de EE.UU., Marco Rubio, y el canciller venezolano, Oliver Blanco, se reunieron en Washington para discutir reformas que permitan elecciones libres en Venezuela. Esta reunión marca el primer encuentro diplomático desde el restablecimiento de relaciones tras la captura de Nicolás Maduro.
@@ -1406,19 +1417,6 @@ Fernández murió en la Unidad de Cuidados Intensivos del Hospital Provincial Dr
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793208897/noticias/articles/20261028_173457_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 28 Oct 2026 17:35:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261028173520</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Unos 1,300 soldados de El Salvador se han desplegado en Haití, según Le Nouvelliste]]></title>
-    <link>https://listindiario.com/las-mundiales/haiti/20261028/1-300-soldado-salvador-han-despeleado-haiti_927866.html</link>
-    <description><![CDATA[Un contingente de 1,300 soldados salvadoreños ha sido desplegado en Haití, en coordinación con el gobierno haitiano. Este despliegue se ha acelerado tras la captura de cuatro salvadoreños.
-
-Se han entregado equipos a las tropas mediante tres aviones y se espera la llegada de más recursos para reforzar las capacidades de las fuerzas que combaten a las bandas criminales.
-
-El presidente de El Salvador, Nayib Bukele, y el presidente dominicano, Luis Abinader, han discutido sobre apoyo logístico e intercambio de inteligencia.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793208297/noticias/articles/20261028_172457_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 28 Oct 2026 17:27:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261028172741</guid>
   </item>
 </channel>
 </rss>
