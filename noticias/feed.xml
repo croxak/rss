@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 02 Nov 2026 23:18:42 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 23:47:57 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Soldados salvadoreños lanzan su primera gran operación contra las bandas en Haití]]></title>
+    <link>https://www.diariolibre.com/mundo/haiti/2026/11/02/soldados-salvadorenos-lanzan-su-primera-gran-operacion-en-haiti/3708640</link>
+    <description><![CDATA[Soldados salvadoreños han lanzado una operación en la llanura de Cul-de-Sac, Haití, para desmantelar las pandillas Chen Mechan y 400 Mawozo, responsables de la desaparición de cuatro soldados. La operación ha dejado al menos una decena de muertos entre las bandas.
+
+La Policía Nacional de Haití, con apoyo de la ONU, también realiza una operación en la misma área. La banda 400 Mawozo es dirigida por Lanmò San Jou, por quien EE.UU. ofrece una recompensa de hasta un millón de dólares.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793663234/noticias/articles/20261102_234714_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 02 Nov 2026 23:47:57 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261102234757</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Empresario tecnológico y su familia figuran entre las víctimas de accidente aéreo en Florida]]></title>
     <link>https://elnuevodiario.com.do/empresario-tecnologico-y-su-familia-figuran-entre-las-victimas-de-accidente-aereo-en-florida/</link>
     <description><![CDATA[Un trágico accidente aéreo en Florida cobró la vida de un empresario tecnológico y su familia. Adam Robinson, de 44 años, fundador de Retention dot com y RB2B, viajaba con su esposa Helen, sus hijas Bella y Emma, una niñera y dos amigos.
@@ -1406,17 +1417,6 @@ El Consejo de la Magistratura reafirmó su compromiso con un proceso de selecci�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793209138/noticias/articles/20261028_173858_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 28 Oct 2026 17:39:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261028173957</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Hombre fallece tras recibir golpiza por presuntamente robar más de RD$300 mil en materiales de construcción]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/10/28/hombre-muere-tras-golpiza-por-presunto-robo-de-materiales-2156443/</link>
-    <description><![CDATA[Henry Fernández, de 38 años, conocido como “Moyeja”, falleció tras recibir una golpiza. Fue acusado de sustraer materiales de construcción valorados en más de RD$300,000.
-
-Fernández murió en la Unidad de Cuidados Intensivos del Hospital Provincial Dr. Pedro Emilio de Marchena en Bonao. Las autoridades no han identificado a los agresores ni confirmado las circunstancias del hecho.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793208897/noticias/articles/20261028_173457_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 28 Oct 2026 17:35:20 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261028173520</guid>
   </item>
 </channel>
 </rss>
