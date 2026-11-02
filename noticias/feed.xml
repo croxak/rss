@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 02 Nov 2026 04:48:48 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 13:23:59 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Indomet mantiene pronóstico de lluvias por incidencia de vaguada]]></title>
+    <link>https://www.diariolibre.com/planeta/clima/2026/11/02/pronostican-lluvias-por-incidencia-de-vaguada-en-el-clima-en-rd/3707979</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) pronostica que una vaguada continuará afectando el clima este lunes, con lluvias en varias zonas del país. Se esperan chubascos en la costa atlántica por la mañana y aguaceros aislados en el noroeste, noreste, la Cordillera Central y el norte de la zona fronteriza por la tarde.
+
+Las temperaturas máximas disminuirán lentamente, pero la sensación térmica seguirá siendo calurosa. Se recomienda a la población tomar precauciones ante el calor.
+
+Para el martes, la vaguada comenzará a alejarse, reduciendo las lluvias en gran parte del país, aunque podrían ocurrir aguaceros dispersos en algunas provincias. El miércoles, se prevé un aumento de la humedad y la incidencia de una nueva vaguada, lo que podría provocar aguaceros y tormentas eléctricas en varias regiones.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793625807/noticias/articles/20261102_132327_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 02 Nov 2026 13:23:59 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261102132359</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Conep solicita al Congreso agilizar aprobación de proyecto que extiende entrada en vigencia del Código Penal para las empresas]]></title>
     <link>https://eldinero.com.do/386903/conep-solicita-al-congreso-agilizar-aprobacion-de-proyecto-que-extiende-entrada-en-vigencia-del-codigo-penal-para-las-empresas/</link>
     <description><![CDATA[El Consejo Nacional de la Empresa Privada (Conep) ha solicitado al Congreso Nacional que continúe con el trámite legislativo para aprobar el proyecto de ley que extiende la entrada en vigencia del artículo 31 del Código Penal, relacionado con la responsabilidad penal de las personas jurídicas.
@@ -1440,17 +1453,6 @@ Además de la pena de prisión, Almonte García deberá pagar RD$3 millones a un
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793133181/noticias/articles/20261027_203301_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 27 Oct 2026 20:33:37 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261027203337</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Acusan a dominicana por muerte de su hija de cuatro años tras ingerir fentanilo en Boston]]></title>
-    <link>https://www.diariolibre.com/usa/actualidad/2026/10/26/dayanna-familia-acusada-de-homicidio-involuntario-en-boston/3701105</link>
-    <description><![CDATA[Dayanna Familia, de 35 años, ha sido acusada de homicidio involuntario en Boston por la muerte de su hija de cuatro años, Liyanna Bautista Familia, tras ingerir fentanilo. La Fiscalía sostiene que la madre dejó la droga al alcance de la menor y dio información falsa a los socorristas.
-
-Familia se declaró no culpable y se le fijó una fianza de 250,000 dólares. También enfrenta cargos por posesión de drogas, destrucción de pruebas y engaño a un investigador. La próxima audiencia está programada para el 20 de noviembre.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793130397/noticias/articles/20261027_194637_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 27 Oct 2026 19:47:10 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261027194710</guid>
   </item>
 </channel>
 </rss>
