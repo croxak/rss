@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 02 Nov 2026 04:23:31 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 04:25:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Policía ultima a dos hombres en Santiago y Moca; afirma eran "reconocidos delincuentes"]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/11/01/policia-ultima-a-dos-hombres-en-santiago-y-moca/3707744</link>
+    <description><![CDATA[La Policía Nacional informó sobre la muerte de dos hombres en Santiago y Moca durante presuntos intercambios de disparos. Los fallecidos, identificados como Rafael Antonio Uceta Acevedo y Yonathan Arturo Castillo Rosario, eran buscados por varios robos.
+
+Uceta Acevedo fue localizado en un hotel en Santiago, donde presuntamente intentaba cometer otro robo. Castillo Rosario fue abatido en Moca tras disparar contra los agentes. Ambos casos involucraron armas de fuego.
+
+Los cuerpos fueron enviados al Instituto Nacional de Ciencias Forenses para los procedimientos correspondientes.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793593463/noticias/articles/20261102_042423_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 02 Nov 2026 04:25:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261102042514</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Trump califica de "pequeño precio a pagar" la subida de la gasolina por la guerra en Irán]]></title>
     <link>https://www.diariolibre.com/usa/actualidad/2026/11/01/trump-califica-subida-gasolina-por-iran-como-pequeno-precio/3707731</link>
     <description><![CDATA[Donald Trump declaró en un mítin en Dubuque, Iowa, que el aumento del precio de la gasolina por la guerra en Irán es un "precio muy pequeño a pagar" por la seguridad global. Actualmente, el precio medio de la gasolina en EE.UU. es de 4.17 dólares por galón.
@@ -1438,23 +1451,6 @@ El presidente de la Asamblea General, Khalilur Rahman, suspendió brevemente la 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793128772/noticias/articles/20261027_191932_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 27 Oct 2026 19:20:11 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261027192011</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Arrestan a dominicano tras incautarle más de tres kilos de fentanilo en Massachusetts]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261027184017</link>
-    <description><![CDATA[Las autoridades federales de Estados Unidos arrestaron a Junior Tejada Hernández, de 28 años, acusado de posesión de sustancias controladas con intención de distribuirlas, luego de encontrar más de tres kilogramos de fentanilo en su apartamento de Worcester, Massachusetts.
-
-Según informó el Departamento de Justicia, el arresto se produjo el 21 de octubre de 2026, durante un allanamiento realizado por agentes de la Administración para el Control de Drogas (DEA) y la Policía de Worcester en una vivienda ubicada en el número 115 de Clover Street.
-
-Durante la inspección, los investigadores encontraron el fentanilo en una habitación, así como una maleta que contenía sustancias para adulterar drogas, bolsas de empaque, un dispositivo para tamizar, tijeras y una licuadora presuntamente utilizada para mezclar los narcóticos.
-
-De acuerdo con la Fiscalía Federal de Massachusetts, Tejada Hernández enfrenta un cargo de posesión con intención de distribuir sustancias controladas, delito que contempla una pena máxima de 20 años de prisión, al menos tres años de libertad supervisada y una multa de hasta un millón de dólares.
-
-El operativo contó con la participación de diversas agencias federales y estatales, entre ellas el FBI, la DEA y la Policía Estatal de Massachusetts.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793126389/noticias/articles/20261027_183949_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 27 Oct 2026 18:40:17 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261027184017</guid>
   </item>
 </channel>
 </rss>
