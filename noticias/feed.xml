@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 02 Nov 2026 13:32:52 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 14:34:43 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Rector de Intec renunció antes de cumplir un año en el cargo; nombran rectora interina]]></title>
+    <link>https://www.diariolibre.com/actualidad/educacion/2026/11/02/crisis-interna-en-intec-tras-renuncia-de-rector/3708054</link>
+    <description><![CDATA[El ingeniero Arturo del Villar renunció a su cargo como rector del Instituto Tecnológico de Santo Domingo (Intec) el pasado 30 de octubre, antes de cumplir un año en el puesto. Había sido elegido para un período de tres años hasta 2028.
+
+La Junta de Regentes de Intec confirmó la renuncia y designó a Alliet Ortega como rectora interina. Ortega, quien es la vicerrectora de Administración y Finanzas, asumirá el cargo temporalmente mientras se selecciona un nuevo rector.
+
+Del Villar continuará vinculado a Intec como asesor de la Junta de Regentes hasta diciembre de 2026. La universidad aseguró que sus operaciones continuarán conforme a la planificación institucional.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793630047/noticias/articles/20261102_143407_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 02 Nov 2026 14:34:43 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261102143443</guid>
+  </item>
+
+  <item>
     <title><![CDATA[CNM se reunirá este lunes para continuar elección de los seis jueces de la Suprema Corte de Justicia]]></title>
     <link>https://www.diariolibre.com/actualidad/justicia/2026/11/01/cnm-se-reunira-este-lunes-para-elegir-jueces-de-la-scj/3707721</link>
     <description><![CDATA[El Consejo Nacional de la Magistratura se reunirá este lunes 2 de noviembre en el Palacio Nacional para continuar con la elección de seis jueces de la Suprema Corte de Justicia. La sesión será encabezada por el presidente Luis Abinader.
@@ -1448,17 +1461,6 @@ Indomet aconseja precaución en ambas costas y recomienda tomar medidas para enf
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793190405/noticias/articles/20261028_122644_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 28 Oct 2026 12:27:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261028122720</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Al menos 30 muertos tras choque de dos trenes de alta velocidad en España]]></title>
-    <link>https://www.diariolibre.com/mundo/europa/2026/10/28/accidente-tren-toledo-deja-multiples-muertos-y-heridos/3703126</link>
-    <description><![CDATA[Al menos 30 personas murieron en un accidente entre dos trenes de alta velocidad en Toledo, España. El siniestro ocurrió el 28 de octubre cuando un tren AVE de Renfe colisionó con otro de Iryo cerca de Urda, en la línea Madrid-Sevilla. Dos vagones cayeron por un terraplén.
-
-El Hospital Universitario de Toledo suspendió operaciones quirúrgicas para atender a los afectados. El Gobierno regional activó el Plan Territorial de Emergencia de Castilla-La Mancha. La circulación de alta velocidad entre Madrid y Andalucía fue interrumpida.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793190310/noticias/articles/20261028_122509_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 28 Oct 2026 12:25:35 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261028122535</guid>
   </item>
 </channel>
 </rss>
