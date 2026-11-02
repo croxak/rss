@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 02 Nov 2026 04:08:29 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 04:15:37 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Dos haitianos mueren tras presunto enfrentamiento con agentes policiales en Friusa, Bávaro]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/11/01/dos-haitianos-mueren-tras-presunto-enfrentamiento-con-policias-de-rd/3707452</link>
+    <description><![CDATA[Dos haitianos murieron en un presunto enfrentamiento con la Policía Nacional en Friusa, Bávaro. Los fallecidos, Charli Patrick y Sainvilis Jace, fueron señalados como delincuentes por las autoridades.
+
+El incidente ocurrió cuando los agentes realizaban labores de inteligencia y avistaron a los hombres en un Hyundai Sonata. Según el informe, los hombres dispararon primero y los agentes respondieron.
+
+Se ocupó un arma de fuego tipo pistola durante el operativo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793592912/noticias/articles/20261102_041511_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 02 Nov 2026 04:15:37 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261102041537</guid>
+  </item>
+
+  <item>
     <title><![CDATA[American Airlines reanuda sus operaciones en Haití con un vuelo de Miami a Cabo Haitiano]]></title>
     <link>https://elnuevodiario.com.do/american-airlines-reanuda-sus-operaciones-en-haiti-con-un-vuelo-de-miami-a-cabo-haitiano/</link>
     <description><![CDATA[American Airlines ha retomado sus vuelos a Haití con un vuelo desde Miami que aterrizó en Cabo Haitiano, marcando el regreso de la aerolínea tras dos años de suspensión debido a la violencia en el país.
@@ -1442,19 +1455,6 @@ Durante los días 26 y 27 de octubre, los participantes trabajan en un plan oper
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793125782/noticias/articles/20261027_182942_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 27 Oct 2026 18:30:27 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261027183027</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Trump afirma que Estados Unidos ha recibido un millón de barriles de petróleo de Venezuela]]></title>
-    <link>https://elnuevodiario.com.do/trump-afirma-que-estados-unidos-ha-recibido-un-millon-de-barriles-de-petroleo-de-venezuela/</link>
-    <description><![CDATA[Donald Trump afirmó que Estados Unidos ha recibido un millón de barriles de petróleo de Venezuela después de que las fuerzas estadounidenses capturaran a Nicolás Maduro en enero. Trump espera que este cargamento ayude a reducir los precios de los combustibles en el país.
-
-Tras la captura de Maduro, Washington restableció relaciones con el Gobierno interino de Delcy Rodríguez y firmó un acuerdo para acceder a una quinta parte de las reservas de crudo venezolano. El Departamento de Estado apoya un plan para reformar el sistema judicial y electoral venezolano antes de fin de año.
-
-Las conversaciones entre el chavismo y un bloque opositor liderado por Dinorah Figuera continúan, aunque María Corina Machado no participa en ellas. Machado regresó a Venezuela tras casi un año fuera del país.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793124887/noticias/articles/20261027_181441_article.webp" type="image/webp"/>
-    <pubDate>Tue, 27 Oct 2026 18:16:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261027181619</guid>
   </item>
 </channel>
 </rss>
