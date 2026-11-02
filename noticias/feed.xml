@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 02 Nov 2026 17:49:08 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 19:45:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Abinader suspende LA Agenda Semana por su viaje a España]]></title>
+    <link>https://elnacional.com.do/nacionales/abinader-suspende-actividades-pais-viaje-espana_585192.html</link>
+    <description><![CDATA[El presidente Luis Abinader ha suspendido su espacio “LA Agenda Semanal” debido a su viaje a España. Participará en la Trigésima Cumbre Iberoamericana en Madrid, los días 4 y 5 de noviembre.
+
+Además, el mandatario suspendió otras actividades que tenía programadas para el lunes, incluyendo la “Agenda Semanal” prevista para las 3:00 de la tarde. En la cumbre estarán presentes jefes de estados y de gobiernos de 22 países de la “Comunidad Iberoamericana”.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793648686/noticias/articles/20261102_194446_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 02 Nov 2026 19:45:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261102194531</guid>
+  </item>
+
+  <item>
     <title><![CDATA[CNM designa a Justiniano Montero Montero presidente de la Suprema Corte de Justicia y elige a seis nuevos jueces]]></title>
     <link>https://eldia.com.do/cnm-designa-a-justiniano-montero-montero-presidente-de-la-suprema-corte-de-justicia-y-elige-a-seis-nuevos-jueces/</link>
     <description><![CDATA[El Consejo Nacional de la Magistratura ha designado a Justiniano Montero Montero como presidente de la Suprema Corte de Justicia. 
@@ -1410,19 +1421,6 @@ La solicitud de medida de coerción fue presentada por la procuradora fiscal Rox
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793205152/noticias/articles/20261028_163231_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 28 Oct 2026 16:35:30 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261028163530</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Pedro Sánchez sobre el accidente ferroviario en España: "Si hubo negligencias, se sabrá"]]></title>
-    <link>https://www.diariolibre.com/mundo/espana/2026/10/28/pedro-sanchez-si-hubo-negligencias-en-e-accidente-de-trenes-se-sabra/3703409</link>
-    <description><![CDATA[Pedro Sánchez, presidente del Gobierno español, anunció que se investigarán las causas del accidente ferroviario en Urda, Toledo, que dejó al menos 68 muertos. Se decretarán tres días de luto oficial.
-
-El accidente involucró a un tren Ave de Renfe y otro de Iryo. El ministro de Transportes, Óscar Puente, explicó que el accidente se originó tras la caída del sistema de seguridad LZB y la decisión de reanudar la marcha sin limitar la velocidad.
-
-El tren de Renfe embistió al Iryo, que estaba detenido. Se reportan 53 heridos leves y 15 graves.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793203692/noticias/articles/20261028_160812_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 28 Oct 2026 16:08:50 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261028160850</guid>
   </item>
 </channel>
 </rss>
