@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 02 Nov 2026 03:54:55 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 03:56:17 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Enfrentamientos de Policía haitiana con bandas armadas dejan al menos 20 pandilleros muertos]]></title>
+    <link>https://www.diariolibre.com/mundo/america-latina/2026/11/01/20-pandilleros-muertos-en-haiti-en-enfrentamiento-con-policias/3707573</link>
+    <description><![CDATA[En Haití, enfrentamientos recientes entre la Policía Nacional y bandas armadas resultaron en la muerte de al menos 20 pandilleros, entre ellos un líder conocido como Galaxy. Los ataques ocurrieron en Arcahaie tras una operación policial.
+
+La GSF y el presidente salvadoreño, Nayib Bukele, han negado el uso de bombardeos en las operaciones contra las bandas armadas. La GSF enfatiza que no emplea artefactos explosivos y actúa conforme a las normas internacionales de derechos humanos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793591751/noticias/articles/20261102_035551_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 02 Nov 2026 03:56:17 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261102035617</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Lanmò San Jou pide mediación a la ONU ante ofensiva de Bukele y asegura haber levantado bandera blanca]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261102035455</link>
     <description><![CDATA[Wilson Joseph, alias «Lanmò San Jou», líder de la organización criminal haitiana 400 Mawozo, solicitó la intervención de Naciones Unidas para establecer un proceso de diálogo con las fuerzas internacionales desplegadas en Haití, en medio de la ofensiva militar encabezada por el presidente salvadoreño Nayib Bukele.
@@ -1436,17 +1447,6 @@ El Ejército destacó los altos niveles de seguridad en la frontera, atribuidos 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793124608/noticias/articles/20261027_181007_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 27 Oct 2026 18:10:45 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261027181045</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Haití cita al embajador dominicano tras reportes de incursiones militares en territorio haitiano]]></title>
-    <link>https://eldia.com.do/cancilleria-haiti-cita-embajador-rd-por-supuestas-incursiones/</link>
-    <description><![CDATA[El Ministerio de Asuntos Exteriores y Cultos de Haití ha citado al embajador dominicano en Puerto Príncipe, Faruk Miguel, para discutir reportes sobre supuestas incursiones del Ejército dominicano en Haití. La reunión está programada para el 29 de octubre.
-
-El documento de convocatoria no establece que las incursiones hayan sido comprobadas ni ofrece detalles sobre las circunstancias. Mientras tanto, República Dominicana ha reforzado su seguridad en la frontera, y el presidente Luis Abinader ha afirmado que no intervendrá militarmente en Haití.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793124048/noticias/articles/20261027_180048_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 27 Oct 2026 18:02:37 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261027180237</guid>
   </item>
 </channel>
 </rss>
