@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 02 Nov 2026 17:39:02 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 17:49:08 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[CNM designa a Justiniano Montero Montero presidente de la Suprema Corte de Justicia y elige a seis nuevos jueces]]></title>
+    <link>https://eldia.com.do/cnm-designa-a-justiniano-montero-montero-presidente-de-la-suprema-corte-de-justicia-y-elige-a-seis-nuevos-jueces/</link>
+    <description><![CDATA[El Consejo Nacional de la Magistratura ha designado a Justiniano Montero Montero como presidente de la Suprema Corte de Justicia. 
+
+Además, se han nombrado seis nuevos jueces para el máximo tribunal: Ylona María de la Rocha Camilo, Diomede Yldefso Villalona Guerrero, Amauri Antonio Pimentel Fabián, Arelis Socorro Ricourt Gómez, Antonia Josefina Grullón Blandino y Julio César Emilio Canó Alfau.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793641705/noticias/articles/20261102_174825_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 02 Nov 2026 17:49:08 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261102174908</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Banco Popular promueve en Londres las oportunidades de inversión de la República Dominicana]]></title>
     <link>https://www.eljaya.com/275643/banco-popular-promueve-inversion-republica-dominicana-londres/</link>
     <description><![CDATA[El Banco Popular Dominicano organizó un desayuno empresarial en Londres, en el marco de la XII Semana Dominicana en el Reino Unido. El evento, titulado «República Dominicana: Inversión, Negocios y Nuevas Oportunidades», reunió a inversionistas y empresarios interesados en el potencial del país.
@@ -1412,17 +1423,6 @@ El tren de Renfe embistió al Iryo, que estaba detenido. Se reportan 53 heridos 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793203692/noticias/articles/20261028_160812_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 28 Oct 2026 16:08:50 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261028160850</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Asciende a 68 el balance de muertos en el accidente ferroviario en España]]></title>
-    <link>https://www.diariolibre.com/mundo/espana/2026/10/28/choque-de-trenes-en-toledo-provoca-68-muertos/3703410</link>
-    <description><![CDATA[El balance provisional de fallecidos en el accidente ferroviario en Toledo, España, asciende a 68, con más de medio centenar de heridos. El choque ocurrió cerca de la estación de Urda entre un tren de alta velocidad (Ave) de Renfe y un Iryo.
-
-El ministro de Transportes, Óscar Puente, explicó que el accidente fue causado por la caída del sistema de seguridad LZB. El centro de control de Adif decidió reanudar la marcha sin limitar la velocidad, lo que resultó en el choque.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793203611/noticias/articles/20261028_160650_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 28 Oct 2026 16:07:21 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261028160721</guid>
   </item>
 </channel>
 </rss>
