@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 02 Nov 2026 04:15:37 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 04:23:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Trump califica de "pequeño precio a pagar" la subida de la gasolina por la guerra en Irán]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/11/01/trump-califica-subida-gasolina-por-iran-como-pequeno-precio/3707731</link>
+    <description><![CDATA[Donald Trump declaró en un mítin en Dubuque, Iowa, que el aumento del precio de la gasolina por la guerra en Irán es un "precio muy pequeño a pagar" por la seguridad global. Actualmente, el precio medio de la gasolina en EE.UU. es de 4.17 dólares por galón.
+
+Trump no ha tomado una decisión sobre reanudar ataques a gran escala contra Irán, aunque se informa de una posible ofensiva tras las elecciones.
+
+En el mismo evento, Trump mostró su apoyo a Ashley Hinson, candidata republicana al Senado en Iowa, destacando su pérdida de peso y compromiso con el estado.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793593374/noticias/articles/20261102_042254_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 02 Nov 2026 04:23:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261102042331</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Dos haitianos mueren tras presunto enfrentamiento con agentes policiales en Friusa, Bávaro]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/11/01/dos-haitianos-mueren-tras-presunto-enfrentamiento-con-policias-de-rd/3707452</link>
     <description><![CDATA[Dos haitianos murieron en un presunto enfrentamiento con la Policía Nacional en Friusa, Bávaro. Los fallecidos, Charli Patrick y Sainvilis Jace, fueron señalados como delincuentes por las autoridades.
@@ -1442,19 +1455,6 @@ El operativo contó con la participación de diversas agencias federales y estat
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793126389/noticias/articles/20261027_183949_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 27 Oct 2026 18:40:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261027184017</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[RD y EE. UU. realizan conferencia para fortalecer el combate contra los carteles y el narcoterrorismo]]></title>
-    <link>https://n.com.do/2026/10/27/rd-y-ee-uu-realizan-conferencia-para-fortalecer-el-combate-contra-los-carteles-y-el-narcoterrorismo/</link>
-    <description><![CDATA[La República Dominicana y Estados Unidos, a través del Ministerio de Defensa y el Comando Sur (SOUTHCOM), celebran en Santo Domingo la Conferencia de la Coalición de las Américas Contra los Carteles (A3C). Este evento reúne a autoridades de defensa y seguridad de 19 naciones para fortalecer la cooperación frente al crimen organizado transnacional.
-
-La apertura estuvo encabezada por el presidente Luis Abinader, la embajadora estadounidense Leah Francis Campos, el comandante de SOUTHCOM, general Francis L. Donovan, y el ministro de Defensa, teniente general Carlos Antonio Fernández Onofre, ERD.
-
-Durante los días 26 y 27 de octubre, los participantes trabajan en un plan operacional y una carta de gobernanza que definirán las prioridades y la coordinación de la coalición. La A3C busca desarticular redes criminales, proteger fronteras e infraestructuras críticas, y preservar la seguridad colectiva, respetando la soberanía y los marcos legales de cada Estado.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793125782/noticias/articles/20261027_182942_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 27 Oct 2026 18:30:27 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261027183027</guid>
   </item>
 </channel>
 </rss>
