@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 02 Nov 2026 13:29:30 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 13:32:52 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[CNM se reunirá este lunes para continuar elección de los seis jueces de la Suprema Corte de Justicia]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/11/01/cnm-se-reunira-este-lunes-para-elegir-jueces-de-la-scj/3707721</link>
+    <description><![CDATA[El Consejo Nacional de la Magistratura se reunirá este lunes 2 de noviembre en el Palacio Nacional para continuar con la elección de seis jueces de la Suprema Corte de Justicia. La sesión será encabezada por el presidente Luis Abinader.
+
+Los puestos pendientes incluyen al presidente de la Suprema, Luis Henry Molina, y a los magistrados Nancy Salcedo Fernández, Ramón Herrera Carbuccia, María Garabito, Francisco Antonio Jerez Mena y Vanessa Acosta Peralta.
+
+La selección se produce luego del aplazamiento de las deliberaciones previstas para octubre, lo que generó reclamos de organizaciones de la sociedad civil y representantes del sector judicial.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793626316/noticias/articles/20261102_133155_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 02 Nov 2026 13:32:52 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261102133252</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía desmantela almacén clandestino con 7,392 botellas de miel presuntamente adulterada en SDN]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/11/02/policia-desmantela-almacen-de-miel-adulterada-en-sdn-2160342/</link>
     <description><![CDATA[La Policía Nacional desmanteló un almacén clandestino en Santo Domingo Norte, donde se encontraron 7,392 botellas de miel presuntamente adulterada.
@@ -1446,19 +1459,6 @@ El Hospital Universitario de Toledo suspendió operaciones quirúrgicas para ate
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793190310/noticias/articles/20261028_122509_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 28 Oct 2026 12:25:35 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261028122535</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Arrestan en Puerto Rico a dominicana buscada por asesinato en República Dominicana]]></title>
-    <link>https://www.diariolibre.com/usa/actualidad/2026/10/27/arrestan-en-puerto-rico-a-dominicana-buscada-por-asesinato-en-rd/3702810</link>
-    <description><![CDATA[Ana Tahiri Acevedo Brito, una dominicana buscada por presunto asesinato en República Dominicana, fue arrestada en Puerto Rico. La detención fue realizada por agentes de Investigaciones de Seguridad Nacional (HSI) junto con el Servicio de Alguaciles de Estados Unidos y las Operaciones de Ejecución y Remoción.
-
-Acevedo Brito tenía una orden de arresto en República Dominicana y una Notificación Roja de Interpol. Se sospecha que ingresó de manera irregular a Puerto Rico y trabajó como cuidadora en una residencia privada. Las autoridades también investigan su posible implicación en la explotación financiera de personas mayores.
-
-HSI destacó la colaboración con organismos federales e internacionales para localizar a personas buscadas por delitos graves y exhortó a verificar antecedentes antes de contratar personal.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793190174/noticias/articles/20261028_122253_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 28 Oct 2026 12:23:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261028122340</guid>
   </item>
 </channel>
 </rss>
