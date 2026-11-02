@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 02 Nov 2026 14:34:43 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 02 Nov 2026 14:38:52 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Colegio Médico anuncia paro nacional de 24 horas para el miércoles 4 de noviembre]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/11/02/cmd-anuncia-paro-nacional-de-24-horas-el-4-de-noviembre-2160388/</link>
+    <description><![CDATA[El Colegio Médico Dominicano (CMD) ha anunciado un paro nacional de 24 horas para el miércoles 4 de noviembre, comenzando a las 7:00 de la mañana. La medida busca exigir mejoras laborales y un diálogo con el Gobierno.
+
+A pesar de la suspensión, los servicios de emergencias y cuidados intensivos seguirán operativos. El CMD también ha convocado a una marcha para el 11 de noviembre desde la Maternidad Nuestra Señora de la Altagracia hasta el Palacio Nacional.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793630290/noticias/articles/20261102_143809_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 02 Nov 2026 14:38:52 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261102143852</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Rector de Intec renunció antes de cumplir un año en el cargo; nombran rectora interina]]></title>
     <link>https://www.diariolibre.com/actualidad/educacion/2026/11/02/crisis-interna-en-intec-tras-renuncia-de-rector/3708054</link>
     <description><![CDATA[El ingeniero Arturo del Villar renunció a su cargo como rector del Instituto Tecnológico de Santo Domingo (Intec) el pasado 30 de octubre, antes de cumplir un año en el puesto. Había sido elegido para un período de tres años hasta 2028.
@@ -1446,21 +1457,6 @@ La Administración de Donald Trump anunció que acogerá a Bolsonaro y su famili
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793190542/noticias/articles/20261028_122902_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 28 Oct 2026 12:29:44 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261028122944</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Hoy siguen las lluvias por vaguada aunque menos intensas]]></title>
-    <link>https://listindiario.com/la-republica/provincias/20261028/hoy-siguen-lluvias-intensas-vaguada_927861.html</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) ha informado que las lluvias continuarán este miércoles debido a una vaguada y el viento del sureste, afectando principalmente el litoral costero del Caribe.
-
-Durante la tarde, las precipitaciones se extenderán hacia el noroeste, la zona fronteriza, la Cordillera Central, el valle del Cibao y el sureste. Se han modificado los niveles de alertas y avisos meteorológicos por posibles inundaciones y deslizamientos de tierra.
-
-Las provincias en alerta incluyen San Juan, La Vega, Monseñor Nouel, Sánchez Ramírez, El Seibo, San Pedro de Macorís, Pedernales, Hato Mayor, Barahona, Independencia y Bahoruco. En aviso se mantienen La Altagracia, La Romana, el Gran Santo Domingo, San Cristóbal, Azua, San José de Ocoa, Peravia y Monte Plata.
-
-Indomet aconseja precaución en ambas costas y recomienda tomar medidas para enfrentar las altas temperaturas, como hidratarse adecuadamente y evitar la exposición al sol.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793190405/noticias/articles/20261028_122644_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 28 Oct 2026 12:27:20 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261028122720</guid>
   </item>
 </channel>
 </rss>
