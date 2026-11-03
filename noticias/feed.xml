@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 03 Nov 2026 13:03:05 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 13:05:25 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[EE.UU. vive este martes elecciones de medio término como termómetro a la gestión de Trump]]></title>
+    <link>http://www.eluniversal.com/internacional/244543/eeuu-vive-este-martes-elecciones-de-medio-termino-como-termometro-a-la-gestion-de-trump</link>
+    <description><![CDATA[Este martes se celebran las elecciones de medio término en Estados Unidos. Los demócratas buscan ganar la mayoría de las gobernaciones por primera vez en 20 años, en medio de la caída de popularidad del presidente Donald Trump.
+
+Las contiendas más competitivas se encuentran en estados como Texas, Florida, Michigan, Wisconsin, Iowa y Ohio. En total, 36 estados elegirán gobernador, representando cerca del 80% de la población del país.
+
+Actualmente, los gobernadores demócratas representan al 60% de la población, mientras que los republicanos tienen 26 de las 50 gobernaciones.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793711047/noticias/articles/20261103_130406_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 03 Nov 2026 13:05:25 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261103130525</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece Lily Rodríguez González, rectora de Utesa e hija del fundador de la universidad]]></title>
     <link>https://listindiario.com/la-republica/educacion/20261103/fallece-lily-rodriguez-gonzalez-rectora-utesa-e-hija-fundador-universidad_928612.html</link>
     <description><![CDATA[Falleció la doctora Lily Josefina Rodríguez González de Eloy, rectora de la sede central de la Universidad Tecnológica de Santiago (UTESA) e hija del fundador de la institución, Príamo Rodríguez Castillo.
@@ -1392,19 +1405,6 @@ Los consulados dominicanos en Madrid y Sevilla están en contacto con las autori
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793221487/noticias/articles/20261028_210447_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 28 Oct 2026 21:05:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261028210534</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Roberto Álvarez recibe Orden de Duarte, Sánchez y Mella por sus aportes al servicio exterior]]></title>
-    <link>https://www.diariolibre.com/actualidad/nacional/2026/10/28/dan-a-roberto-alvarez-con-orden-del-merito-de-duarte-sanchez-y-mella/3703686</link>
-    <description><![CDATA[Roberto Álvarez, excanciller y embajador emérito, fue condecorado con la Orden del Mérito de Duarte, Sánchez y Mella en el grado de Gran Cruz, placa de plata. La distinción fue entregada por el presidente Luis Abinader en el Palacio Nacional.
-
-Durante su gestión de seis años, Álvarez impulsó reformas para modernizar el Ministerio de Relaciones Exteriores y profesionalizar la carrera diplomática. Destacó mejoras salariales, reconocimiento de méritos y rotación del personal.
-
-El ministro de Relaciones Exteriores, Víctor -Ito- Bisonó, leyó el decreto 646-26 que otorga la distinción. En la ceremonia participaron autoridades, familiares y colaboradores del homenajeado.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793217431/noticias/articles/20261028_195711_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 28 Oct 2026 19:57:48 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261028195748</guid>
   </item>
 </channel>
 </rss>
