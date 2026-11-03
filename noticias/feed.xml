@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 03 Nov 2026 16:04:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 17:23:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Fitch eleva calificación de República Dominicana a BB, pero advierte debilidades fiscales]]></title>
+    <link>https://www.diariolibre.com/economia/finanzas/2026/11/03/fitch-ratings-y-la-nueva-calificacion-de-republica-dominicana/3709364</link>
+    <description><![CDATA[Fitch Ratings ha mejorado la calificación crediticia de República Dominicana de BB- a BB, con una perspectiva estable. Esta decisión reconoce el crecimiento económico del país y la reciente reforma tributaria.
+
+A pesar de la mejora, Fitch advierte sobre importantes vulnerabilidades fiscales. El pago de intereses representa el 21.9 % de los ingresos gubernamentales, y las pérdidas en el sector eléctrico son cercanas al 40 %. Se proyecta un déficit fiscal del 3.7 % del PIB para 2026.
+
+La agencia destaca factores favorables como las reservas internacionales de US$ 15,200 millones y el dinamismo del turismo, las remesas y las exportaciones. Futuras mejoras dependerán de una consolidación fiscal sostenida y mayores ingresos públicos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793726534/noticias/articles/20261103_172214_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 03 Nov 2026 17:23:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261103172300</guid>
+  </item>
+
+  <item>
     <title><![CDATA[DNCD decomisa 674 latas de habichuelas con presunta cocaína en Caucedo destinadas a Portugal]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261103160402</link>
     <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD), en coordinación con el Ministerio Público, decomisó 674 latas de habichuelas que contenían una sustancia presumiblemente cocaína durante un operativo realizado en el Puerto Multimodal Caucedo, en Boca Chica.
@@ -1388,21 +1401,6 @@ Sierra Difó hizo un llamado a los padres para que vigilen a sus hijos y tengan 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793280129/noticias/articles/20261029_132209_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 29 Oct 2026 13:22:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261029132242</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Haití aplaza de nuevo las elecciones presidenciales y legislativas al 18 de julio de 2027]]></title>
-    <link>https://noticiassin.com/mundo/haiti/2026/10/29/haiti-aplaza-de-nuevo-las-elecciones-presidenciales-y-legislativas-al-18-de-julio-de-2027-2157262/</link>
-    <description><![CDATA[Haití ha decidido aplazar nuevamente las elecciones presidenciales y legislativas al 18 de julio de 2027, según informó el Consejo Electoral Provisional. La primera vuelta estaba programada para el 13 de diciembre de este año.
-
-La segunda vuelta de las elecciones se llevará a cabo el 4 de octubre de 2027. La campaña electoral comenzará el 15 de abril de 2027.
-
-Desde el asesinato del presidente Jovenel Moïse en 2021, Haití no ha tenido cargos electos y ha estado bajo gobiernos de transición. El actual primer ministro es Alix Didier Fils-Aimé.
-
-La violencia de las bandas armadas sigue siendo un problema en el país, con la Fuerza de Supresión de Pandillas combatiendo su influencia en Puerto Príncipe.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793279967/noticias/articles/20261029_131926_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 29 Oct 2026 13:19:49 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261029131949</guid>
   </item>
 </channel>
 </rss>
