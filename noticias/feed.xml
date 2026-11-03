@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 03 Nov 2026 17:57:31 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 18:23:06 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Learjet siniestrado en Florida registró vuelos a La Romana, Las Américas y Punta Cana antes del accidente]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261103182306</link>
+    <description><![CDATA[El Learjet 60, matrícula N722BD, que se estrelló el pasado 1 de noviembre en Florida, causando la muerte de nueve personas, había realizado varios vuelos hacia República Dominicana durante los meses anteriores.
+
+Una investigación de El Testigo, basada en registros históricos de ADS-B Exchange, identificó aproximaciones compatibles con llegadas al Aeropuerto Internacional de La Romana los días 20 y 22 de julio, así como una posible salida el 23 de julio.
+
+El 24 de agosto, la aeronave fue registrada en tierra en el Aeropuerto Internacional de Las Américas, mientras que el 31 de agosto realizó movimientos compatibles con un aterrizaje y posterior despegue en Punta Cana, con aproximadamente una hora de diferencia.
+
+El avión se accidentó mientras viajaba desde Austin, Texas, hacia Bahamas. La Junta Nacional de Seguridad en el Transporte de Estados Unidos (NTSB) investiga las causas del siniestro.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793730155/noticias/articles/20261103_182235_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 03 Nov 2026 18:23:06 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261103182306</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Arrestan hombre investigado por amenaza contra el presidente Luis Abinader]]></title>
     <link>https://n.com.do/2026/11/03/arrestan-hombre-presunto-atentado-presidente-abinader/</link>
     <description><![CDATA[El Ministerio Público arrestó a Delvinson De la Cruz Sosa, de 29 años, investigado por amenazas contra el presidente Luis Abinader y la supuesta planificación de un atentado el 6 de noviembre en el Congreso Nacional.
@@ -1402,21 +1417,6 @@ Los allanamientos se realizaron en los sectores El Quisqueya y La Cuchilla. Los 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793294106/noticias/articles/20261029_171505_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 29 Oct 2026 17:16:36 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261029171636</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Avión procedente de El Salvador que aterrizó en el AILA habría transportado cinco helicópteros militares salvadoreños]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261029133734</link>
-    <description><![CDATA[Según cuentas especializadas en seguimiento militar y aeronáutico, un avión de carga Boeing 747-400 de National Airlines, que aterrizó en el Aeropuerto Internacional de Las Américas (AILA) durante la madrugada del 28 de octubre, procedente de El Salvador, habría transportado cinco helicópteros militares MD500 y MD530 pertenecientes a la Fuerza Aérea Salvadoreña.
-
-La aeronave, identificada con el número de vuelo NCR880, despegó de San Salvador el 27 de octubre y aterrizó en Santo Domingo aproximadamente a las 12:11 de la madrugada del día siguiente.
-
-El movimiento ocurre en medio del despliegue militar de El Salvador en Haití, donde continúan las operaciones relacionadas con la desaparición de cuatro técnicos militares salvadoreños tras una emboscada de pandillas el pasado 18 de octubre en Croix-des-Bouquets.
-
-Hasta el momento, las autoridades dominicanas y salvadoreñas no han confirmado oficialmente el contenido del cargamento ni si los helicópteros serán trasladados posteriormente a territorio haitiano.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793280938/noticias/articles/20261029_133537_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 29 Oct 2026 13:37:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261029133734</guid>
   </item>
 </channel>
 </rss>
