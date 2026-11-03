@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 03 Nov 2026 13:05:25 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 03 Nov 2026 13:10:18 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Titular de la DGII dice que no se ha recaudado lo previsto para cubrir subsidios de ley anticrisis]]></title>
+    <link>https://elnuevodiario.com.do/titular-de-la-dgii-dice-que-no-se-ha-recaudado-lo-previsto-para-cubrir-subsidios-de-ley-anticrisis/</link>
+    <description><![CDATA[Pedro Urrutia, director de la DGII, informó que la recaudación tributaria no ha alcanzado los montos proyectados para cubrir los subsidios del Gobierno. Aún faltando 60 días para cerrar el año fiscal, ya se han gastado 45 mil millones de pesos en subsidios.
+
+A partir del primero de enero, se implementarán medidas de alivio tributario para las MiPymes, incluyendo ajustes en el pago de anticipos y la eliminación del impuesto del 1 % por aumento de capital. También se extenderá el uso del facturador gratuito en el portal de la DGII.
+
+Urrutia presentó la solución “Intégrate 1, 2, 3, 4” para simplificar el registro y facturación electrónica. El plazo para la incorporación obligatoria a la facturación electrónica vence el 15 de noviembre para las MiPymes y personas físicas.
+
+Se ajustó el impuesto de marbetes vehiculares por inflación, con incrementos de RD$500 y RD$1,000. La fecha límite para renovar sin recargos es el 31 de enero de 2027. Las motocicletas no pagan marbete, pero se emitirán placas provisionales desde la venta.
+
+La DGII trabaja en regularizar el sector de juegos de azar y bancas de lotería, y utiliza inteligencia artificial para optimizar la fiscalización.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793711286/noticias/articles/20261103_130805_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 03 Nov 2026 13:10:18 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261103131018</guid>
+  </item>
+
+  <item>
     <title><![CDATA[EE.UU. vive este martes elecciones de medio término como termómetro a la gestión de Trump]]></title>
     <link>http://www.eluniversal.com/internacional/244543/eeuu-vive-este-martes-elecciones-de-medio-termino-como-termometro-a-la-gestion-de-trump</link>
     <description><![CDATA[Este martes se celebran las elecciones de medio término en Estados Unidos. Los demócratas buscan ganar la mayoría de las gobernaciones por primera vez en 20 años, en medio de la caída de popularidad del presidente Donald Trump.
@@ -1394,17 +1411,6 @@ Aunque la llegada de la aeronave coincide con el incremento de las operaciones i
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793221881/noticias/articles/20261028_211121_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 28 Oct 2026 21:11:51 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261028211151</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Cancillería informa no ha recibido reportes de dominicanos afectados en accidente de ferroviario en España]]></title>
-    <link>https://listindiario.com/la-republica/20261028/cancilleria-informa-recibido-reportes-dominicanos-afectados-accidente-ferroviario_927920.html</link>
-    <description><![CDATA[El Ministerio de Relaciones Exteriores de República Dominicana ha comunicado que no se han reportado dominicanos afectados en el accidente ferroviario en Toledo, España. El siniestro, que involucró a dos trenes de alta velocidad, resultó en al menos 68 fallecidos.
-
-Los consulados dominicanos en Madrid y Sevilla están en contacto con las autoridades españolas para verificar cualquier información sobre nacionales dominicanos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793221487/noticias/articles/20261028_210447_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 28 Oct 2026 21:05:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261028210534</guid>
   </item>
 </channel>
 </rss>
