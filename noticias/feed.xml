@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 04 Nov 2026 02:21:59 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 03:56:58 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[El Partido Demócrata arrebata a los republicanos el control de la Cámara de Representantes]]></title>
+    <link>https://www.telemundo.com/noticias/noticias-telemundo/elecciones-estados-unidos-2026/control-camara-representantes-democratas-rcna607357</link>
+    <description><![CDATA[El Partido Demócrata ha logrado arrebatar el control de la Cámara de Representantes a los republicanos, obteniendo al menos 244 escaños de los 435 en juego. Esto podría significar un cambio en la dinámica política para los dos años restantes de la presidencia de Donald Trump.
+
+Hakeem Jeffries, quien ha sido el líder de la minoría demócrata, tomará el liderazgo de la Cámara de Representantes, reemplazando al republicano Mike Johnson.
+
+La redistribución de distritos electorales, promovida por la Administración Trump, ha sido un factor clave en estas elecciones, con varios estados rediseñando sus mapas para favorecer al Partido Republicano.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793764571/noticias/articles/20261104_035611_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 04 Nov 2026 03:56:58 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261104035658</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Demócratas arrebatan escaño del Senado en Carolina del Norte]]></title>
     <link>https://www.dw.com/es/demócratas-arrebatan-escaño-del-senado-en-carolina-del-norte/live-79845739</link>
     <description><![CDATA[Roy Cooper, del Partido Demócrata, ha ganado el escaño de senador por Carolina del Norte, derrotando al republicano Michael Whatley. Las cadenas NBC y ABC confirmaron su victoria, sumando un escaño más para los demócratas en el Senado.
@@ -1408,19 +1421,6 @@ El arresto de "el Pastor" se produjo tras un operativo que rescató a 13 menores
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793319167/noticias/articles/20261030_001247_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 30 Oct 2026 00:13:12 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261030001312</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Intervienen fábrica de capital chino en Guerra por operar sin permisos]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/10/29/intervienen-fabrica-china-en-guerra-por-operar-sin-permisos-2157978/?amp=1</link>
-    <description><![CDATA[Una fábrica de cartón de capital chino en San Antonio de Guerra fue intervenida por autoridades dominicanas debido a la falta de permisos para operar y almacenar combustible ilegalmente. 
-
-El Ministerio de la Vivienda y Edificaciones y el Cuerpo Especializado de Control de Combustibles llevaron a cabo la intervención, desmantelando un almacén de combustibles sin autorización.
-
-La Dirección General de Migración también participó, verificando la situación migratoria de los trabajadores extranjeros. Las autoridades no han detallado las cantidades de combustible ni las sanciones que podría enfrentar la empresa.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793319008/noticias/articles/20261030_001007_article.png" type="image/png"/>
-    <pubDate>Fri, 30 Oct 2026 00:10:52 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261030001052</guid>
   </item>
 </channel>
 </rss>
