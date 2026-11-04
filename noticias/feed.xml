@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 04 Nov 2026 04:39:55 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 04:49:13 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Analilia Mejía, de origen dominicano, conserva su escaño en el Congreso de EE. UU. por Nueva Jersey]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/11/03/elecciones-medio-mandato-en-nueva-jersey-analilia-mejia-triunfa/3709963</link>
+    <description><![CDATA[Analilia Mejía, representante de origen dominicano, ha logrado conservar su escaño en la Cámara de Representantes de Estados Unidos por el Distrito 11 de Nueva Jersey. En las elecciones de medio mandato, Mejía, del Partido Demócrata, obtuvo el 67.8 % de los votos, superando a su contrincante republicano, Joe Hathaway.
+
+Mejía, nacida en Elizabeth, es organizadora sindical y defensora de los derechos de los trabajadores. Fue directora política nacional de la campaña presidencial de Bernie Sanders en 2020 y trabajó en el Departamento de Trabajo durante la administración de Joe Biden.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793767698/noticias/articles/20261104_044818_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 04 Nov 2026 04:49:13 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261104044913</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Demócratas ganan el control del Senado de Estados Unidos tras victoria de Josh Turek en Iowa]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261104043955</link>
     <description><![CDATA[El Partido Demócrata consiguió recuperar el control del Senado de Estados Unidos tras la victoria proyectada de Josh Turek sobre la republicana Ashley Hinson en Iowa, en una jornada electoral marcada por importantes derrotas para el partido del presidente Donald Trump.
@@ -1414,17 +1425,6 @@ El despliegue forma parte de las operaciones para localizar a cuatro técnicos d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793334645/noticias/articles/20261030_043044_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 30 Oct 2026 04:32:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261030043219</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[China responsabiliza a EE.UU. de alimentar la violencia del narcotráfico en México]]></title>
-    <link>https://elnuevodiario.com.do/china-responsabiliza-a-ee-uu-de-alimentar-la-violencia-del-narcotrafico-en-mexico/</link>
-    <description><![CDATA[La Embajada de China en México ha responsabilizado a Estados Unidos de alimentar la violencia del narcotráfico en México. Según la embajada, la demanda de drogas en EE.UU. y el tráfico ilegal de armas hacia México son factores que contribuyen a esta situación.
-
-La representación diplomática expresó su descontento con las declaraciones del embajador estadounidense Ronald Johnson, quien afirmó que a China le convendría un México inestable. China también criticó los intentos de EE.UU. de desacreditar a empresas chinas y limitar la libertad de México para elegir socios comerciales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793322630/noticias/articles/20261030_011030_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 30 Oct 2026 01:11:07 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261030011107</guid>
   </item>
 </channel>
 </rss>
