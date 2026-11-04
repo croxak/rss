@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 04 Nov 2026 04:33:10 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 04:39:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Demócratas ganan el control del Senado de Estados Unidos tras victoria de Josh Turek en Iowa]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261104043955</link>
+    <description><![CDATA[El Partido Demócrata consiguió recuperar el control del Senado de Estados Unidos tras la victoria proyectada de Josh Turek sobre la republicana Ashley Hinson en Iowa, en una jornada electoral marcada por importantes derrotas para el partido del presidente Donald Trump.
+
+De acuerdo con las proyecciones de NBC News, los demócratas alcanzaron los 51 escaños necesarios para asegurar la mayoría en la Cámara Alta, poniendo fin al control republicano de 53 escaños con el que comenzó la jornada electoral.
+
+La victoria de Turek, también proyectada por CBS News, representa un resultado histórico en Iowa, un estado que no elegía a un senador demócrata desde 2008 y donde Trump ganó las elecciones presidenciales de 2024 por aproximadamente 13 puntos porcentuales.
+
+El resultado se suma a las victorias demócratas en estados tradicionalmente republicanos como Texas, Carolina del Sur, Ohio, Carolina del Norte y Kansas, que contribuyeron a cambiar el equilibrio político del Senado.
+
+Con este resultado, los demócratas asumirán el control de la Cámara Alta cuando se instale el nuevo Congreso, el 3 de enero de 2027, lo que les permitirá dirigir sus comités y ejercer una mayor supervisión sobre la administración Trump durante los últimos dos años de su mandato.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793767157/noticias/articles/20261104_043917_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 04 Nov 2026 04:39:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261104043955</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Trump dice que él no estaba en la boleta electoral y de haberlo estado habrían "arrasado"]]></title>
     <link>https://elnuevodiario.com.do/trump-dice-que-el-no-estaba-en-la-papeleta-y-de-haberlo-estado-habrian-arrasado/</link>
     <description><![CDATA[Donald Trump reconoció la derrota republicana en las elecciones de medio mandato. Afirmó que si su nombre hubiera estado en la boleta electoral, el Partido Republicano habría "arrasado".
@@ -1408,17 +1425,6 @@ La representación diplomática expresó su descontento con las declaraciones de
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793322630/noticias/articles/20261030_011030_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 30 Oct 2026 01:11:07 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261030011107</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El expresidente de El Salvador Elías Antonio Saca queda en libertad tras cumplir diez años de prisión por corrupción]]></title>
-    <link>https://www.infobae.com/el-salvador/2026/10/28/el-expresidente-de-el-salvador-elias-antonio-saca-queda-en-libertad-tras-cumplir-diez-anos-de-prision-por-corrupcion/</link>
-    <description><![CDATA[El expresidente salvadoreño Elías Antonio Saca ha sido liberado tras cumplir una condena de 10 años por corrupción. La Fiscalía General de la República ha asegurado que los bienes relacionados con su caso seguirán bajo custodia del Estado.
-
-Saca fue condenado en 2018 por el desvío y lavado de $301 millones de fondos públicos durante su mandato. Además, enfrenta obligaciones civiles por enriquecimiento ilícito y desvío de fondos de Taiwán.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793322239/noticias/articles/20261030_010358_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 30 Oct 2026 01:04:25 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261030010425</guid>
   </item>
 </channel>
 </rss>
