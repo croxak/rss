@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 04 Nov 2026 18:06:37 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 18:45:53 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Registran temblor de magnitud 4.5 al noreste de Miches]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/11/04/sismo-en-miches-de-magnitud-45-reportado-por-uasd/3710725</link>
+    <description><![CDATA[Un sismo de magnitud 4.5 fue registrado la tarde del miércoles 4 de noviembre en aguas del océano Atlántico, a 104.2 kilómetros al este noreste de Miches. El movimiento telúrico ocurrió a la 1:08 de la tarde, hora local, con una profundidad de 10 kilómetros.
+
+El Centro Nacional de Sismología de la Universidad Autónoma de Santo Domingo (UASD) informó que los datos son preliminares y podrían ser actualizados conforme avancen las evaluaciones del evento sísmico.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793817922/noticias/articles/20261104_184522_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 04 Nov 2026 18:45:53 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261104184553</guid>
+  </item>
+
+  <item>
     <title><![CDATA[«Los acusados son unos tramposos»: Fiscalía inicia alegatos en juicio contra Emmanuel Clase y Luis Ortiz por presunta manipulación de lanzamientos en Grandes Ligas]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261104180637</link>
     <description><![CDATA[«Los acusados son unos tramposos», afirmó este miércoles la fiscal federal Rebecca Urquiola al iniciar los alegatos en el juicio por presunta manipulación de lanzamientos contra los dominicanos Emmanuel Clase, Luis Ortiz y Robinson Vásquez Germosén, en un tribunal de Brooklyn, Nueva York.
@@ -1388,19 +1399,6 @@ El Avtur bajó RD$1.84, cotizándose a RD$356.82, y el Kerosene disminuyó RD$2.
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793390856/noticias/articles/20261030_200736_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 30 Oct 2026 20:08:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261030200800</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ligia Bonetti llama a Centroamérica y República Dominicana a competir como una sola región industrial]]></title>
-    <link>https://eldinero.com.do/386778/ligia-bonetti-llama-a-centroamerica-y-republica-dominicana-a-competir-como-una-sola-region-industrial/</link>
-    <description><![CDATA[Ligia Bonetti, presidente ejecutiva de Grupo SID, participó en el Congreso Regional de la Industria Fecaica, proponiendo una agenda industrial conjunta para Centroamérica y República Dominicana. La iniciativa busca transformar el potencial productivo en ventajas competitivas sostenibles.
-
-Bonetti destacó la importancia de anticiparse a los cambios tecnológicos y fortalecer las capacidades regionales. Propuso cinco líneas de acción: cocrear, escanear, reprogramar, competir y asumir.
-
-La ejecutiva también subrayó la necesidad de identificar sectores con experiencia productiva y oportunidades de crecimiento internacional, como la agroindustria y los dispositivos médicos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793389338/noticias/articles/20261030_194218_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 30 Oct 2026 19:43:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261030194301</guid>
   </item>
 </channel>
 </rss>
