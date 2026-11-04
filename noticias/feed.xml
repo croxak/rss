@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 03 Nov 2026 23:37:49 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 01:49:38 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Los primeros resultados de las legislativas favorecen a los demócratas en Estados Unidos]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/11/03/primeros-resultados-de-las-legislativas-favorecen-a-los-democratas/3709909</link>
+    <description><![CDATA[Los primeros resultados de las elecciones de medio mandato en Estados Unidos muestran un avance para los demócratas en el Congreso. Han retenido el escaño del senador Jon Ossoff por Georgia y su escaño en el Senado por Virginia.
+
+En la Cámara de Representantes, los demócratas lideran en 18 distritos que actualmente están en manos republicanas, mientras que los republicanos solo llevan ventaja en dos distritos demócratas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793756941/noticias/articles/20261104_014900_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 04 Nov 2026 01:49:38 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261104014938</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Banco Popular reafirma en la World Travel Market de Londres su compromiso con el turismo dominicano]]></title>
     <link>https://listindiario.com/economia/sector-turistico/20261103/banco-popular-reafirma-world-travel-market-londres-compromiso-turismo-dominicano_928691.html</link>
     <description><![CDATA[El Banco Popular Dominicano reafirma su compromiso con el turismo en la World Travel Market de Londres, destacando su respaldo financiero a la industria con RD$97,901 millones.
@@ -1410,17 +1421,6 @@ Por el momento, tampoco se ha identificado una confirmación oficial de Edesur s
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793306778/noticias/articles/20261029_204618_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 29 Oct 2026 20:46:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261029204640</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ascienden a 74 los fallecidos por el accidente ferroviario de España]]></title>
-    <link>https://noticiassin.com/mundo/espana/2026/10/29/accidente-ferroviario-en-espana-deja-74-fallecidos-2157633/</link>
-    <description><![CDATA[El accidente ferroviario en Urda, España, ha resultado en 74 fallecidos y un número elevado de heridos. Un tren de Renfe chocó contra un Iryo detenido, provocando que varios vagones cayeran por un terraplén.
-
-La Comisión de Investigación de Accidentes Ferroviarios (CIAF) ha informado que el balance de fallecidos es provisional. Los reyes de España, Felipe VI y Letizia, visitaron a los heridos en el Hospital Universitario de Toledo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793306639/noticias/articles/20261029_204358_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 29 Oct 2026 20:44:42 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261029204442</guid>
   </item>
 </channel>
 </rss>
