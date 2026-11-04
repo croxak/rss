@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 04 Nov 2026 18:45:53 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 18:49:58 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Recuperan vehículo incendiado de los cuatro militares salvadoreños desaparecidos en Haití]]></title>
+    <link>https://www.diariolibre.com/mundo/haiti/2026/11/04/desaparecidos-tecnicos-salvadorenos-en-haiti-tras-operacion-policial/3710678</link>
+    <description><![CDATA[La Policía Nacional de Haití recuperó un vehículo incendiado perteneciente a cuatro militares salvadoreños desaparecidos en Santo. El operativo de búsqueda, realizado el 2 de noviembre, no logró localizar a los desaparecidos.
+
+Participaron agentes de la PNH, fuerzas internacionales y militares salvadoreños. El vehículo fue incendiado por bandas armadas, pero no se ofrecieron detalles sobre el estado o paradero de los técnicos.
+
+La operación incluyó unidades especializadas y vigilancia con drones, pero los militares siguen desaparecidos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793818143/noticias/articles/20261104_184903_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 04 Nov 2026 18:49:58 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261104184958</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Registran temblor de magnitud 4.5 al noreste de Miches]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/11/04/sismo-en-miches-de-magnitud-45-reportado-por-uasd/3710725</link>
     <description><![CDATA[Un sismo de magnitud 4.5 fue registrado la tarde del miércoles 4 de noviembre en aguas del océano Atlántico, a 104.2 kilómetros al este noreste de Miches. El movimiento telúrico ocurrió a la 1:08 de la tarde, hora local, con una profundidad de 10 kilómetros.
@@ -1384,21 +1397,6 @@ Fue arrestado en La Vega el 12 de octubre y su extradición se formalizó median
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793402546/noticias/articles/20261030_232226_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 30 Oct 2026 23:22:49 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261030232249</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno congela precio de algunos combustibles; otros se venderán más baratos]]></title>
-    <link>https://elnacional.com.do/economia/gobierno-congela-precio-combustibles-otros-venderan-baratos_584951.html</link>
-    <description><![CDATA[El Ministerio de Industria y Comercio de República Dominicana ha anunciado los precios de los combustibles para la semana del 31 de octubre al 6 de noviembre de 2026.
-
-La gasolina prémium se venderá a RD$358.10 por galón y la gasolina regular a RD$317.50, manteniendo sus precios actuales. El gasoil óptimo se fijó en RD$318.10 y el gasoil regular en RD$270.80 por galón.
-
-El Gas Licuado de Petróleo (GLP) costará RD$135.20 por galón, y el Gas Natural (GNL-GNC) se comercializará a RD$43.97 por metro cúbico.
-
-El Avtur bajó RD$1.84, cotizándose a RD$356.82, y el Kerosene disminuyó RD$2.60, quedando en RD$400.10. El Fuel Oil se redujo RD$1.31, a RD$194.56, mientras que el Fuel Oil 1% aumentó RD$2.22, a RD$234.86.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793390856/noticias/articles/20261030_200736_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 30 Oct 2026 20:08:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261030200800</guid>
   </item>
 </channel>
 </rss>
