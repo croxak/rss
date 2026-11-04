@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 04 Nov 2026 04:49:13 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 04 Nov 2026 06:12:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[El demócrata Chris Pappas será el primer hombre abiertamente gay en el Senado de EE. UU.]]></title>
+    <link>https://www.diariolibre.com/mundo/estados-unidos/2026/11/04/chris-pappas-se-convierte-en-el-primer-hombre-gay-en-el-senado/3710093</link>
+    <description><![CDATA[Chris Pappas, candidato demócrata por New Hampshire, se convertirá en el primer hombre abiertamente gay en el Senado de Estados Unidos. Derrotó al republicano John Sununu y tomará el escaño de Jeanne Shaheen, quien estuvo 18 años en el cargo.
+
+Pappas ha sido miembro de la Cámara de Representantes desde 2019. Su elección es vista como un avance tras las políticas de la Administración de Donald Trump hacia la comunidad LGTBIQ+.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793772731/noticias/articles/20261104_061210_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 04 Nov 2026 06:12:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261104061235</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Analilia Mejía, de origen dominicano, conserva su escaño en el Congreso de EE. UU. por Nueva Jersey]]></title>
     <link>https://www.diariolibre.com/usa/actualidad/2026/11/03/elecciones-medio-mandato-en-nueva-jersey-analilia-mejia-triunfa/3709963</link>
     <description><![CDATA[Analilia Mejía, representante de origen dominicano, ha logrado conservar su escaño en la Cámara de Representantes de Estados Unidos por el Distrito 11 de Nueva Jersey. En las elecciones de medio mandato, Mejía, del Partido Demócrata, obtuvo el 67.8 % de los votos, superando a su contrincante republicano, Joe Hathaway.
@@ -1408,23 +1419,6 @@ La operación salvadoreña, que cuenta con más de 2,000 elementos de la Fuerza 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793367174/noticias/articles/20261030_133254_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 30 Oct 2026 13:33:17 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261030133317</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Captan helicópteros militares salvadoreños en Puerto Príncipe tras su paso por República Dominicana]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261030043219</link>
-    <description><![CDATA[Nuevas imágenes atribuidas a Puerto Príncipe, Haití, muestran varios helicópteros militares de la Fuerza Aérea Salvadoreña realizando maniobras sobre una plataforma aeroportuaria, después de haber transitado por República Dominicana como parte del despliegue militar ordenado por el presidente Nayib Bukele.
-
-En el video se observan varias aeronaves MD500E, una de ellas identificada con el número 48, que coincide con una de las cinco unidades salvadoreñas que hicieron escala el jueves 29 de octubre en la fortaleza El Rodeo, en Jimaní, provincia Independencia.
-
-Según un informe de seguridad citado por Diario Libre, los cinco helicópteros salvadoreños llegaron a Jimaní a las 3:45 de la tarde para abastecerse de combustible. Posteriormente arribaron dos helicópteros Black Hawk y, alrededor de las 5:00 de la tarde, las siete aeronaves despegaron con destino a Haití.
-
-Los cinco helicópteros salvadoreños habían llegado previamente al Aeropuerto Internacional de Las Américas (AILA) durante la madrugada del 28 de octubre, transportados desde San Salvador en un Boeing 747-400 de National Airlines.
-
-El despliegue forma parte de las operaciones para localizar a cuatro técnicos de aviación salvadoreños desaparecidos tras una emboscada perpetrada por pandillas el pasado 18 de octubre en Croix-des-Bouquets, en las afueras de Puerto Príncipe.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793334645/noticias/articles/20261030_043044_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 30 Oct 2026 04:32:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261030043219</guid>
   </item>
 </channel>
 </rss>
