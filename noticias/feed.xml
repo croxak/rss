@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 05 Nov 2026 13:29:26 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 13:31:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Policía busca a “El Guardia” por presunto homicidio agravado en La Vega]]></title>
+    <link>https://elnuevodiario.com.do/policia-busca-a-el-guardia-por-presunto-homicidio-agravado-en-la-vega/</link>
+    <description><![CDATA[La Policía Nacional está en la búsqueda de Eliezer Antonio Jiménez García, conocido como “Eliezer” o “El Guardia”, de 31 años, por su presunta implicación en el homicidio agravado de Willis Mercedes Ortega en La Vega.
+
+El incidente ocurrió el 26 de octubre en el cruce del sector Soto, en la autopista Duarte. La orden de arresto fue emitida el 28 de octubre de 2026.
+
+Jiménez García es investigado por violar los artículos 91 y 92 de la Ley 74-25. La víctima falleció debido a un shock hipovolémico y traumatismos por heridas de arma de fuego.
+
+La Policía ha instado a Jiménez García a entregarse para enfrentar las acusaciones.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793885466/noticias/articles/20261105_133106_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 05 Nov 2026 13:31:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261105133132</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Quiebra de Ueno Bank desata crisis financiera y política en Paraguay]]></title>
     <link>https://www.diariolibre.com/mundo/america-latina/2026/11/05/crisis-financiera-en-paraguay-tras-quiebra-de-ueno-bank/3711659</link>
     <description><![CDATA[La quiebra de Ueno Bank ha desatado una crisis financiera y política en Paraguay, afectando a 2.9 millones de clientes y poniendo en riesgo al gobierno del presidente Santiago Peña. El Banco Central del Paraguay ha iniciado el procedimiento de resolución del banco debido a su grave deterioro de solvencia.
@@ -1375,19 +1390,6 @@ En República Dominicana, la inflación interanual se redujo a 5.12 % en septiem
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793465016/noticias/articles/20261031_164336_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 31 Oct 2026 16:44:26 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261031164426</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Trump se juega el control del Congreso y su poder en los últimos años en la Casa Blanca]]></title>
-    <link>https://elnuevodiario.com.do/trump-se-juega-el-control-del-congreso-y-su-poder-en-los-ultimos-anos-en-la-casa-blanca/</link>
-    <description><![CDATA[Donald Trump enfrenta unas elecciones de medio mandato cruciales para el control del Congreso y su influencia en los últimos años de su mandato. Las encuestas favorecen a los demócratas, quienes tienen altas probabilidades de recuperar la Cámara de Representantes y el Senado.
-
-La baja popularidad de Trump y el descontento por el coste de la vida y la guerra de Irán afectan a los republicanos. Trump ha realizado una intensa campaña en estados clave y prometió 5.000 dólares a cada ciudadano si los republicanos mantienen el control del Congreso.
-
-Si los demócratas ganan, podrían bloquear la agenda presidencial y considerar un nuevo juicio político. La pérdida de una o ambas Cámaras podría convertir a Trump en un "pato cojo", aunque mantendría sus poderes hasta el final de su mandato en 2029.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793464043/noticias/articles/20261031_162723_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 31 Oct 2026 16:28:04 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261031162804</guid>
   </item>
 </channel>
 </rss>
