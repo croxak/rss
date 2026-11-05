@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 05 Nov 2026 13:31:32 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 13:34:18 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Dominicano admite obtener más de US$72,000 en beneficios utilizando una identidad ajena en Massachusetts]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261105133418</link>
+    <description><![CDATA[El dominicano Danis Piron Lara, de 51 años, se declaró culpable ante un tribunal federal de Massachusetts de obtener ilegalmente ayudas alimentarias y realizar una declaración escrita falsa relacionada con prestaciones sanitarias, informó la Fiscalía federal del distrito.
+
+Según el comunicado publicado el 4 de noviembre, Piron Lara, residente en Dorchester, utilizó el nombre y otros datos de un ciudadano estadounidense de Puerto Rico para conseguir identificaciones oficiales y recibir beneficios públicos que no le correspondían.
+
+Las autoridades establecieron que recibió US$57,289.26 del programa de salud MassHealth durante distintos períodos comprendidos entre 2005 y marzo de 2026.
+
+Además, entre abril de 2021 y marzo de 2026 obtuvo US$15,186 del Programa de Asistencia Nutricional Suplementaria, conocido como SNAP. Ambas cantidades suman US$72,475.26.
+
+Piron Lara había sido acusado en marzo de 2026. Tras admitir su culpabilidad, queda pendiente la imposición de la pena por el tribunal federal.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793885635/noticias/articles/20261105_133355_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 05 Nov 2026 13:34:18 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261105133418</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía busca a “El Guardia” por presunto homicidio agravado en La Vega]]></title>
     <link>https://elnuevodiario.com.do/policia-busca-a-el-guardia-por-presunto-homicidio-agravado-en-la-vega/</link>
     <description><![CDATA[La Policía Nacional está en la búsqueda de Eliezer Antonio Jiménez García, conocido como “Eliezer” o “El Guardia”, de 31 años, por su presunta implicación en el homicidio agravado de Willis Mercedes Ortega en La Vega.
@@ -1371,25 +1388,6 @@ Tras conocerse el incidente, agentes de la Dirección Central de Investigaciones
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793472349/noticias/articles/20261031_184549_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 31 Oct 2026 18:49:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261031184958</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[BCRD mantiene su tasa de política monetaria en 5.50 % anual]]></title>
-    <link>https://elnuevodiario.com.do/bcrd-mantiene-su-tasa-de-politica-monetaria-en-5-50-anual-2/</link>
-    <description><![CDATA[El Banco Central de la República Dominicana mantuvo su tasa de política monetaria en 5.50 % anual en octubre de 2026. La decisión se basa en la incertidumbre internacional y la expectativa de que la inflación local converja al rango objetivo hacia fin de año.
-
-En Estados Unidos, la economía creció un 2.1 % interanual en el tercer trimestre, con una proyección de 2.3 % para 2026. La inflación interanual fue de 3.7 % en septiembre.
-
-En la Zona Euro, se espera un crecimiento del 1.1 % en 2026, con una inflación del 3.8 % en septiembre. El BCE mantuvo su tasa sin cambios en octubre.
-
-En América Latina, se proyecta una expansión económica del 2.3 % en 2026. La inflación sigue alta en varias economías.
-
-El precio del petróleo intermedio de Texas promedió US$97 por barril en octubre. El precio del oro se moderó a US$4,000 por onza troy.
-
-En República Dominicana, la inflación interanual se redujo a 5.12 % en septiembre. La actividad económica creció un 5.6 % en septiembre, acumulando un 4.6 % en los primeros nueve meses de 2026. Las reservas internacionales se ubicaron en US$15,200 millones al cierre de septiembre.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793465016/noticias/articles/20261031_164336_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 31 Oct 2026 16:44:26 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261031164426</guid>
   </item>
 </channel>
 </rss>
