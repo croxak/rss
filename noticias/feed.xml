@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 05 Nov 2026 20:27:27 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 20:30:06 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Árbol de gran tamaño cae y bloquea el tránsito en el sector Naco, Distrito Nacional]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261105203006</link>
+    <description><![CDATA[Un árbol de gran tamaño cayó en la intersección de las calles Rafael Augusto Sánchez y Alberto Larancuent, en el sector Naco del Distrito Nacional, justo frente a Plaza Lía, provocando la obstrucción del tránsito vehicular en la zona.
+
+Imágenes recibidas por El Testigo muestran cómo el árbol quedó atravesado sobre la vía, con su tronco y ramas ocupando prácticamente todo el ancho de la calle, impidiendo la circulación normal de los vehículos.
+
+El incidente se produjo en una zona de importante actividad comercial y residencial, donde también se observan tendidos eléctricos próximos al árbol caído, lo que representa un posible riesgo para quienes transitan por el lugar.
+
+Hasta el momento, no se ha confirmado si el desplome provocó personas heridas o daños materiales, ni se han establecido las causas de la caída.
+
+Se espera la intervención de las autoridades correspondientes para retirar el árbol, evaluar posibles riesgos y restablecer la circulación vehicular en esta intersección del sector Naco.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793910586/noticias/articles/20261105_202946_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 05 Nov 2026 20:30:06 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261105203006</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece rector de la Universidad Nacional Evangélica, Rafael Reyes]]></title>
     <link>https://eldia.com.do/fallece-rector-de-la-universidad-nacional-evangelica-rafael-reyes/</link>
     <description><![CDATA[Rafael Reyes, rector de la Universidad Nacional Evangélica (UNEV), falleció este jueves a causa de un infarto. 
@@ -1373,19 +1390,6 @@ Se ocupó un arma de fuego tipo pistola durante el operativo.]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793592912/noticias/articles/20261102_041511_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 02 Nov 2026 04:15:37 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261102041537</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[American Airlines reanuda sus operaciones en Haití con un vuelo de Miami a Cabo Haitiano]]></title>
-    <link>https://elnuevodiario.com.do/american-airlines-reanuda-sus-operaciones-en-haiti-con-un-vuelo-de-miami-a-cabo-haitiano/</link>
-    <description><![CDATA[American Airlines ha retomado sus vuelos a Haití con un vuelo desde Miami que aterrizó en Cabo Haitiano, marcando el regreso de la aerolínea tras dos años de suspensión debido a la violencia en el país.
-
-El Ministerio de Cultura y Comunicación de Haití destacó los esfuerzos del primer ministro Alix Didier Fils-Aimé para modernizar el aeropuerto de Cabo Haitiano, facilitando el tráfico aéreo con aerolíneas internacionales.
-
-La suspensión original de American Airlines ocurrió en 2024 tras un incidente en el que un avión fue impactado por una bala al despegar de Puerto Príncipe. La FAA prohibió vuelos comerciales a Haití tras incidentes similares con otras aerolíneas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793592479/noticias/articles/20261102_040759_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 02 Nov 2026 04:08:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261102040829</guid>
   </item>
 </channel>
 </rss>
