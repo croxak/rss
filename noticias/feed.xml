@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 05 Nov 2026 00:31:33 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 03:07:37 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[La Policía de Filadelfia investiga la muerte de una joven dominicana en un salón de belleza]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/11/04/joven-dominicana-muere-en-filadelfia-tras-disparo-en-salon/3711096</link>
+    <description><![CDATA[La Policía de Filadelfia investiga la muerte de Bellaniris Hernández Camilo, una joven dominicana que falleció tras recibir un disparo en un salón de belleza. El incidente ocurrió en Abba Blessed Beauty, propiedad de Arisleidy Gil.
+
+Otra mujer resultó herida al ser golpeada con la culata de una pistola. El sospechoso, un hombre afroamericano de tez clara, sigue prófugo. Las autoridades ofrecen una recompensa de 20,000 dólares por información que conduzca a su arresto.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793848030/noticias/articles/20261105_030710_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 05 Nov 2026 03:07:37 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261105030737</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Trump, sobre JD Vance en 2028: "Tal vez no se postule, no sé quién se va a postular"]]></title>
     <link>https://www.swissinfo.ch/spa/trump%2C-sobre-jd-vance-en-2028%3A-%22tal-vez-no-se-postule%2C-no-sé-quién-se-va-a-postular%22/92329835</link>
     <description><![CDATA[Donald Trump expresó incertidumbre sobre si JD Vance se postulará para la candidatura presidencial republicana de 2028. Esto ocurre después de que los demócratas ganaran el control del Congreso en las elecciones legislativas.
@@ -1377,17 +1388,6 @@ El dirigente pidió medidas efectivas para garantizar la seguridad de los ciudad
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793454601/noticias/articles/20261031_135000_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 31 Oct 2026 13:51:01 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261031135101</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Soldados salvadoreños comienzan a patrullar las calles de Puerto Príncipe]]></title>
-    <link>https://eldia.com.do/soldados-salvadorenos-comienzan-a-patrullar-las-calles-de-puerto-principe/</link>
-    <description><![CDATA[Soldados de El Salvador han iniciado patrullajes en Puerto Príncipe, Haití, para buscar a cuatro compañeros desaparecidos tras un ataque. La operación cuenta con más de 2.000 efectivos.
-
-El presidente Nayib Bukele afirmó que están dando "una lección a las pandillas". Los soldados han establecido una base cerca de la embajada de Estados Unidos en Tabarre.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793454462/noticias/articles/20261031_134742_article.webp" type="image/webp"/>
-    <pubDate>Sat, 31 Oct 2026 13:48:15 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261031134815</guid>
   </item>
 </channel>
 </rss>
