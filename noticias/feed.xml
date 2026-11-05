@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 05 Nov 2026 20:30:06 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 20:32:28 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Raquel Peña firma la extradición del ciudadano español Jonathan Yera Pozo]]></title>
+    <link>https://listindiario.com/la-republica/20261105/raquel-pena-firma-extradicion-ciudadano-espanol-jonathan-yera-pozo_928989.html</link>
+    <description><![CDATA[Raquel Peña ha firmado el decreto 795-26 que autoriza la extradición de Jonathan Yera Pozo a España. Este ciudadano español está acusado de narcotráfico, blanqueo de capitales y organización criminal.
+
+Yera Pozo fue arrestado en Punta Cana, provincia La Altagracia, como parte de la operación internacional Fast Lap. Durante los allanamientos, se incautaron dispositivos electrónicos, billeteras frías para criptomonedas y relojes de alta gama.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793910699/noticias/articles/20261105_203139_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 05 Nov 2026 20:32:28 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261105203228</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Árbol de gran tamaño cae y bloquea el tránsito en el sector Naco, Distrito Nacional]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261105203006</link>
     <description><![CDATA[Un árbol de gran tamaño cayó en la intersección de las calles Rafael Augusto Sánchez y Alberto Larancuent, en el sector Naco del Distrito Nacional, justo frente a Plaza Lía, provocando la obstrucción del tránsito vehicular en la zona.
@@ -1377,19 +1388,6 @@ En el mismo evento, Trump mostró su apoyo a Ashley Hinson, candidata republican
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793593374/noticias/articles/20261102_042254_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 02 Nov 2026 04:23:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261102042331</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Dos haitianos mueren tras presunto enfrentamiento con agentes policiales en Friusa, Bávaro]]></title>
-    <link>https://www.diariolibre.com/actualidad/sucesos/2026/11/01/dos-haitianos-mueren-tras-presunto-enfrentamiento-con-policias-de-rd/3707452</link>
-    <description><![CDATA[Dos haitianos murieron en un presunto enfrentamiento con la Policía Nacional en Friusa, Bávaro. Los fallecidos, Charli Patrick y Sainvilis Jace, fueron señalados como delincuentes por las autoridades.
-
-El incidente ocurrió cuando los agentes realizaban labores de inteligencia y avistaron a los hombres en un Hyundai Sonata. Según el informe, los hombres dispararon primero y los agentes respondieron.
-
-Se ocupó un arma de fuego tipo pistola durante el operativo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793592912/noticias/articles/20261102_041511_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 02 Nov 2026 04:15:37 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261102041537</guid>
   </item>
 </channel>
 </rss>
