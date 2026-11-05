@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 05 Nov 2026 04:03:42 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 13:29:26 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Quiebra de Ueno Bank desata crisis financiera y política en Paraguay]]></title>
+    <link>https://www.diariolibre.com/mundo/america-latina/2026/11/05/crisis-financiera-en-paraguay-tras-quiebra-de-ueno-bank/3711659</link>
+    <description><![CDATA[La quiebra de Ueno Bank ha desatado una crisis financiera y política en Paraguay, afectando a 2.9 millones de clientes y poniendo en riesgo al gobierno del presidente Santiago Peña. El Banco Central del Paraguay ha iniciado el procedimiento de resolución del banco debido a su grave deterioro de solvencia.
+
+La suspensión de operaciones ha dejado a muchos depositantes sin acceso a sus cuentas, lo que ha provocado protestas. La crisis es especialmente grave por los 850 millones de dólares de organismos públicos depositados en el banco.
+
+El presidente Peña enfrenta cuestionamientos por sus vínculos con el grupo propietario del banco, y se ha promovido un juicio político en su contra. La crisis también llevó a la renuncia del presidente del Banco Central, Carlos Carvallo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793885340/noticias/articles/20261105_132859_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 05 Nov 2026 13:29:26 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261105132926</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece monseñor Jesús María De Jesús Moya, obispo emérito de San Francisco de Macorís]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/11/04/muere-monsenor-jesus-maria-de-jesus-moya-obispo-emerito-de-sfm/3711086</link>
     <description><![CDATA[Monseñor Jesús María De Jesús Moya, obispo emérito de San Francisco de Macorís, falleció a los 93 años. La Conferencia del Episcopado Dominicano informó sobre su muerte y expresó su esperanza en la resurrección.
@@ -1375,17 +1388,6 @@ Si los demócratas ganan, podrían bloquear la agenda presidencial y considerar 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793464043/noticias/articles/20261031_162723_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 31 Oct 2026 16:28:04 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261031162804</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Arrestan en Santiago a hombre señalado por abuso sexual contra cuatro menores]]></title>
-    <link>https://www.diariolibre.com/actualidad/sucesos/2026/10/30/hombre-arrestado-en-santiago-por-agresiones-sexuales-a-menores/3706026</link>
-    <description><![CDATA[La Policía Nacional detuvo en Santiago a Luis Manuel Ortiz Fermín, alias «Víctor», de 37 años, acusado de abusar sexualmente de cuatro menores de entre 7 y 15 años. El arresto se llevó a cabo en el sector Camboya, cumpliendo una orden judicial.
-
-Ortiz Fermín está bajo custodia del Ministerio Público y será presentado ante la Oficina Judicial de Servicios de Atención Permanente de Santiago para conocer la solicitud de medida de coerción en su contra.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793463675/noticias/articles/20261031_162115_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 31 Oct 2026 16:21:45 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261031162145</guid>
   </item>
 </channel>
 </rss>
