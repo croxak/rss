@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 05 Nov 2026 13:52:06 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 14:11:41 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[El partido de Gobierno en Paraguay respalda juicio político contra Santiago Peña]]></title>
+    <link>https://www.swissinfo.ch/spa/el-partido-de-gobierno-en-paraguay-respalda-juicio-político-contra-santiago-peña/92333811</link>
+    <description><![CDATA[El Partido Colorado de Paraguay ha decidido respaldar un juicio político contra el presidente Santiago Peña. La decisión se tomó tras la intervención del banco privado Ueno por parte del Banco Central del Paraguay.
+
+Horacio Cartes, exmandatario y presidente del Partido Colorado, anunció el apoyo al juicio político para reencauzar la institucionalidad del país. Basilio Núñez, presidente del Congreso, también pidió la renuncia de Peña o apoyará el juicio.
+
+La intervención del banco Ueno se debió a la caída de su índice de solvencia, afectando a millones de clientes y recursos públicos. Peña ha sido vinculado con Ueno Holding, aunque el presidente de la entidad, Juan Manuel Gustale, niega cualquier nexo.
+
+La acusación será discutida en sesiones extraordinarias en la Cámara de Diputados.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793887874/noticias/articles/20261105_141113_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 05 Nov 2026 14:11:41 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261105141141</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Capturan en RD a dominicano requerido por un homicidio ocurrido en Santiago de Chile]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261105135206</link>
     <description><![CDATA[La Policía Nacional informó de la captura del dominicano Modesto Brand Javier, requerido por las autoridades judiciales de Chile por su presunta vinculación con un homicidio ocurrido en noviembre de 2024 en Santiago.
@@ -1391,17 +1406,6 @@ El 28 de octubre, el director ejecutivo de Pro Consumidor, Eddy Alcántara, aseg
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793483553/noticias/articles/20261031_215233_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 31 Oct 2026 21:54:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261031215402</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Dictan tres meses de prisión preventiva a "Timamá" por muerte de una madre y su hija en Neiba]]></title>
-    <link>https://elnuevodiario.com.do/dictan-tres-meses-de-prision-preventiva-a-timama-por-muerte-de-una-madre-y-su-hija-en-neiba/</link>
-    <description><![CDATA[El juez de la Instrucción del Distrito Judicial de Bahoruco, Antonio Ernesto Cabral Gomera, dictó tres meses de prisión preventiva contra un haitiano conocido solo como «Timamá», presunto autor del asesinato de la señora Rozmi y su hija Arthelie, de 11 años de edad, en un hecho ocurrido en la comunidad de El Estero, municipio de Neiba.
-
-El imputado deberá cumplir la medida cautelar en la Cárcel Pública de Neiba, conforme a la resolución emitida por el magistrado Cabral Gomera.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793483038/noticias/articles/20261031_214358_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 31 Oct 2026 21:45:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261031214528</guid>
   </item>
 </channel>
 </rss>
