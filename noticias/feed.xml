@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 05 Nov 2026 20:36:19 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 22:51:26 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Banco Popular logró por cuarto año ser la empresa con mejor reputación corporativa]]></title>
+    <link>https://elnuevodiario.com.do/banco-popular-logra-por-cuarto-ano-ser-la-empresa-con-mejor-reputacion-corporativa-en-el-ranking-de-merco/</link>
+    <description><![CDATA[El Banco Popular Dominicano ha sido reconocido por cuarto año consecutivo como la empresa con mejor reputación corporativa en la República Dominicana, alcanzando la máxima puntuación en Merco Empresas 2026.
+
+Además, el banco logró el primer lugar en Merco Responsabilidad 2026, destacándose en aspectos ambientales, sociales y de gobernanza. El equipo de comunicación del Popular también fue reconocido como el de mejor reputación en su categoría.
+
+Christopher Paniagua, presidente ejecutivo del Popular, valoró estos resultados como una expresión de la confianza construida con sus grupos de interés y el compromiso de sus colaboradores.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793919070/noticias/articles/20261105_225110_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 05 Nov 2026 22:51:26 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261105225126</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Paliza llama al PRM “a cuidar el día después de las primarias”]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261105203619</link>
     <description><![CDATA[El expresidente del Partido Revolucionario Moderno (PRM), José Ignacio Paliza, exhortó a la dirigencia y militancia de esa organización a preservar la unidad, el respeto y la cohesión interna ante los próximos procesos de selección de candidaturas, al advertir que las aspiraciones individuales nunca deben comprometer el proyecto colectivo ni la fortaleza institucional del partido.
@@ -1381,19 +1394,6 @@ RD Debate es una iniciativa del Consejo de Desarrollo Económico y Social de San
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793594620/noticias/articles/20261102_044339_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 02 Nov 2026 04:46:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261102044631</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía ultima a dos hombres en Santiago y Moca; afirma eran "reconocidos delincuentes"]]></title>
-    <link>https://www.diariolibre.com/actualidad/sucesos/2026/11/01/policia-ultima-a-dos-hombres-en-santiago-y-moca/3707744</link>
-    <description><![CDATA[La Policía Nacional informó sobre la muerte de dos hombres en Santiago y Moca durante presuntos intercambios de disparos. Los fallecidos, identificados como Rafael Antonio Uceta Acevedo y Yonathan Arturo Castillo Rosario, eran buscados por varios robos.
-
-Uceta Acevedo fue localizado en un hotel en Santiago, donde presuntamente intentaba cometer otro robo. Castillo Rosario fue abatido en Moca tras disparar contra los agentes. Ambos casos involucraron armas de fuego.
-
-Los cuerpos fueron enviados al Instituto Nacional de Ciencias Forenses para los procedimientos correspondientes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793593463/noticias/articles/20261102_042423_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 02 Nov 2026 04:25:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261102042514</guid>
   </item>
 </channel>
 </rss>
