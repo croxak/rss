@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 05 Nov 2026 17:43:40 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 05 Nov 2026 18:38:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Renuncia Harmeet Dhillon, jefa de la División de Derechos Civiles del Departamento de Justicia de Estados Unidos]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261105183831</link>
+    <description><![CDATA[Harmeet Dhillon, fiscal general adjunta y responsable de la División de Derechos Civiles del Departamento de Justicia de Estados Unidos, presentó este jueves su renuncia al cargo, según informó CNN.
+
+La dimisión fue confirmada por el fiscal general Todd Blanche, quien anunció que aceptó su renuncia y agradeció sus 18 meses de servicio al frente de la división. Hasta el momento, no se han comunicado oficialmente los motivos de su salida.
+
+Dhillon, abogada conservadora y estrecha aliada del presidente Donald Trump, asumió el puesto en abril de 2025. Durante su gestión impulsó una profunda reorganización de la división, modificando sus prioridades hacia investigaciones sobre universidades, registros electorales, libertad religiosa y políticas de diversidad e inclusión.
+
+Su administración estuvo marcada por la salida masiva de abogados de carrera y por controversias relacionadas con el cambio de orientación de una dependencia históricamente encargada de combatir la discriminación y proteger los derechos civiles.
+
+Su salida se produce en un momento de cambios en el escenario político estadounidense, mientras el Departamento de Justicia enfrenta la posibilidad de nuevas renuncias entre sus altos funcionarios.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793903864/noticias/articles/20261105_183744_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 05 Nov 2026 18:38:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261105183831</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Corte ratifica prisión preventiva a siete procesados en caso Senasa 2.0-A]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/11/05/corte-ratifica-prision-preventiva-a-siete-del-senasa-2-0-a-2164147/</link>
     <description><![CDATA[La Corte de Apelación del Distrito Nacional ha ratificado la prisión preventiva para siete de los ocho implicados en el caso de corrupción Senasa 2.0-A, rechazando los recursos de defensa presentados.
@@ -1385,19 +1402,6 @@ El caso continúa bajo investigación para los fines legales correspondientes.]]
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793552772/noticias/articles/20261101_170611_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 01 Nov 2026 17:06:41 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261101170641</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[MOPC anuncia desvíos de tránsito en dos puntos de la autopista Duarte por trabajos viales]]></title>
-    <link>https://elnuevodiario.com.do/mopc-anuncia-desvios-de-transito-en-dos-puntos-de-la-autopista-duarte-por-trabajos-viales/</link>
-    <description><![CDATA[El Ministerio de Obras Públicas y Comunicaciones (MOPC) ha informado sobre desvíos de tránsito en la autopista Duarte debido a trabajos en los puentes distribuidores de Jarabacoa y Jeremías, en La Vega.
-
-En el puente distribuidor de Jarabacoa, el tránsito en dirección Santiago-Santo Domingo será desviado por la rampa derecha del distribuidor. En el puente distribuidor Jeremías, el paso directo en dirección Santo Domingo-Santiago estará cerrado, pero se mantendrá la rampa del lado derecho para la circulación.
-
-Las rutas alternas estarán señalizadas y se establecerá una velocidad máxima de 50 km/h. Las operaciones contarán con el apoyo de Digesett, Intrant y Comipol para asistir el tránsito vehicular y peatonal.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793552592/noticias/articles/20261101_170311_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 01 Nov 2026 17:03:45 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261101170345</guid>
   </item>
 </channel>
 </rss>
