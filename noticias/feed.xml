@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 06 Nov 2026 21:02:06 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 21:12:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Diputada del PRM afirma que no retirará proyecto sobre documentos de identidad]]></title>
+    <link>https://cdn.com.do/nacionales/despierta-con-cdn/diputada-del-prm-afirma-que-no-retirara-proyecto/</link>
+    <description><![CDATA[La diputada del PRM, Maribel Almánzar de Ogando, ha decidido no retirar su proyecto de ley sobre la reconstrucción de documentos personales, a pesar del rechazo de la Dirección Ejecutiva de su partido.
+
+Almánzar defiende que su propuesta busca ayudar a ciudadanos con dificultades para obtener o renovar su cédula de identidad y electoral, y no pretende otorgar documentos a personas no dominicanas.
+
+El proyecto cuenta con el apoyo de 64 diputados, aunque el PRM ha señalado que no representa su postura institucional.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793999396/noticias/articles/20261106_210956_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 06 Nov 2026 21:12:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261106211202</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Prevención de riesgos y resiliencia industrial centran foro regional en República Dominicana]]></title>
     <link>https://aird.org.do/es/prensa/2026/prevencion-de-riesgos-y-resiliencia-industrial-centran-foro-regional-en-republica-dominicana</link>
     <description><![CDATA[La Asociación de Industrias de la República Dominicana (AIRD), ECORED, Responsabilidad Integral® Colombia y ARISE República Dominicana organizaron el Foro Regional Resiliencia, Prevención y Seguridad Industrial en Santo Domingo. El evento se centró en la prevención de riesgos y la resiliencia industrial.
@@ -1385,17 +1398,6 @@ La agenda de la Semana Dominicana se centra en identificar nuevas oportunidades 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793632838/noticias/articles/20261102_152038_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 02 Nov 2026 15:21:51 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261102152151</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[RD activa asistencia médica nacional ante posibles emergencias de Fuerzas de Supresión en Haití]]></title>
-    <link>https://n.com.do/2026/11/02/rd-activa-asistencia-medica-nacional-ante-posibles-emergencias-de-fuerzas-de-supresion-en-haiti/</link>
-    <description><![CDATA[El Servicio Nacional de Salud de República Dominicana ha activado un dispositivo de asistencia médica a nivel nacional. Esta medida, ordenada por el presidente Luis Abinader, busca garantizar atención médica oportuna ante cualquier eventualidad relacionada con las operaciones de las Fuerzas de Supresión en Haití.
-
-Los hospitales están preparados y cuentan con equipos médicos especializados y helipuertos para agilizar el traslado de pacientes. La asistencia está disponible tanto para las fuerzas en Haití como para civiles en caso de emergencia.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793632687/noticias/articles/20261102_151806_article.webp" type="image/webp"/>
-    <pubDate>Mon, 02 Nov 2026 15:18:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261102151841</guid>
   </item>
 </channel>
 </rss>
