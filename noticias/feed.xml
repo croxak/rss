@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 06 Nov 2026 23:04:26 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 06 Nov 2026 23:13:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[El Congreso de Paraguay destituye a Santiago Peña y juramenta a Pedro Alliana como nuevo presidente del país]]></title>
+    <link>https://www.bbc.com/mundo/articles/cwkg55edm8r7o</link>
+    <description><![CDATA[El Congreso de Paraguay ha destituido al presidente Santiago Peña en un juicio político por el escándalo del Ueno Bank. El Senado lo declaró culpable de mal desempeño de sus funciones, y Pedro Alliana ha juramentado como nuevo presidente.
+
+Peña enfrenta acusaciones de conflicto de intereses y otros delitos relacionados con el Ueno Bank, del cual fue accionista. Tras su destitución, el Ministerio Público ordenó su detención.
+
+La intervención del banco ha dejado en el aire los ahorros de muchos clientes, generando protestas y celebraciones tras la destitución de Peña.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794006713/noticias/articles/20261106_231152_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 06 Nov 2026 23:13:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261106231309</guid>
+  </item>
+
+  <item>
     <title><![CDATA[DASAC reduce de RD$630 millones a RD$255 millones licitación de habichuelas con dulce tras cuestionamientos públicos]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261106230426</link>
     <description><![CDATA[La Dirección de Asistencia Social y Alimentación Comunitaria (DASAC) redujo de RD$630 millones a RD$255 millones el presupuesto de la licitación destinada a adquirir ingredientes para elaborar kits de habichuelas con dulce que serán distribuidos durante la Semana Santa de 2027.
@@ -1423,17 +1436,6 @@ La Dirección Central de Investigación sigue las pesquisas para capturar a Jean
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793651158/noticias/articles/20261102_202558_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 02 Nov 2026 20:26:42 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261102202642</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader suspende LA Agenda Semana por su viaje a España]]></title>
-    <link>https://elnacional.com.do/nacionales/abinader-suspende-actividades-pais-viaje-espana_585192.html</link>
-    <description><![CDATA[El presidente Luis Abinader ha suspendido su espacio “LA Agenda Semanal” debido a su viaje a España. Participará en la Trigésima Cumbre Iberoamericana en Madrid, los días 4 y 5 de noviembre.
-
-Además, el mandatario suspendió otras actividades que tenía programadas para el lunes, incluyendo la “Agenda Semanal” prevista para las 3:00 de la tarde. En la cumbre estarán presentes jefes de estados y de gobiernos de 22 países de la “Comunidad Iberoamericana”.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793648686/noticias/articles/20261102_194446_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 02 Nov 2026 19:45:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261102194531</guid>
   </item>
 </channel>
 </rss>
