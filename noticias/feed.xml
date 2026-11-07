@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 07 Nov 2026 16:12:06 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 07 Nov 2026 19:32:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[ITLA informa que recibe reportes de posible incidente de ciberseguridad]]></title>
+    <link>https://elnuevodiario.com.do/itla-informa-que-recibe-reportes-de-posible-incidente-de-ciberseguridad/</link>
+    <description><![CDATA[El Instituto Tecnológico de Las Américas (ITLA) ha informado que está investigando reportes sobre un posible incidente de ciberseguridad. Esta investigación se lleva a cabo en coordinación con el Centro Nacional de Ciberseguridad (CNCS).
+
+El ITLA se encuentra en la fase de investigación y análisis, siguiendo los protocolos establecidos para este tipo de situaciones. La institución asegura que mantiene un manejo riguroso y responsable de la información y que ofrecerá actualizaciones relevantes a través de sus canales oficiales.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794079911/noticias/articles/20261107_193150_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 07 Nov 2026 19:32:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261107193231</guid>
+  </item>
+
+  <item>
     <title><![CDATA[FT revela que inteligencia de EE. UU. cree que CEO de Nvidia mantuvo relación sentimental con presunta espía china]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261107161206</link>
     <description><![CDATA[La inteligencia estadounidense considera que Jensen Huang, director ejecutivo de Nvidia, habría mantenido una relación sentimental con una empresaria china presuntamente reclutada por los servicios de espionaje de Pekín, según una investigación publicada este sábado por el diario británico Financial Times (FT).
@@ -1485,23 +1496,6 @@ La agencia destaca factores favorables como las reservas internacionales de US$ 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793726534/noticias/articles/20261103_172214_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 03 Nov 2026 17:23:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261103172300</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[DNCD decomisa 674 latas de habichuelas con presunta cocaína en Caucedo destinadas a Portugal]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261103160402</link>
-    <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD), en coordinación con el Ministerio Público, decomisó 674 latas de habichuelas que contenían una sustancia presumiblemente cocaína durante un operativo realizado en el Puerto Multimodal Caucedo, en Boca Chica.
-
-El cargamento, que tenía como destino Portugal, fue detectado mediante labores de inteligencia e inspección. La sustancia estaba oculta en el interior de las latas, envuelta en plástico transparente, papel aluminio y papel carbón, presuntamente para dificultar su detección mediante unidades caninas y equipos de rayos X.
-
-Durante la intervención fueron detenidos dos ciudadanos dominicanos que trabajaban como choferes contratados para transportar la carga. Las autoridades también incautaron un camión tipo cabezote, dos teléfonos celulares y varios documentos relacionados con la investigación.
-
-Según explicó el vocero de la DNCD, Carlos Devers, el caso responde a una presunta modalidad de contaminación de carga consolidada utilizada por redes de narcotráfico. Las autoridades aclararon que las marcas comerciales y empresas fabricantes de los productos utilizados no están vinculadas con la operación ilícita.
-
-Los detenidos permanecen bajo custodia del Ministerio Público, mientras continúan las inspecciones de otros contenedores. Las 674 latas fueron remitidas al Instituto Nacional de Ciencias Forenses (Inacif) para determinar la composición y el peso exacto de la sustancia incautada.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793721813/noticias/articles/20261103_160333_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 03 Nov 2026 16:04:02 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261103160402</guid>
   </item>
 </channel>
 </rss>
