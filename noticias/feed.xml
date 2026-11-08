@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 07 Nov 2026 19:32:31 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 01:12:17 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Donald Trump ofrece al jefe de la UFC, Dana White, ser portavoz de la Casa Blanca]]></title>
+    <link>https://www.infobae.com/estados-unidos/2026/11/07/donald-trump-ofrece-al-jefe-de-la-ufc-dana-white-ser-portavoz-de-la-casa-blanca/?outputType=amp-type</link>
+    <description><![CDATA[Donald Trump ha ofrecido a Dana White, jefe de la UFC, el cargo de secretario de Prensa de la Casa Blanca. Trump anunció la oferta en Truth Social, destacando la relación de amistad que mantiene con White.
+
+La relación entre ambos se remonta a 2001, cuando Trump permitió un evento de la UFC en el Trump Taj Mahal. White ha apoyado a Trump en su carrera política, incluyendo donaciones y apariciones en eventos.
+
+El puesto de secretario de Prensa está vacante desde la salida de Katie Zacharia el 16 de octubre, quien dejó el cargo tras recibir críticas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794100294/noticias/articles/20261108_011134_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 08 Nov 2026 01:12:17 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261108011217</guid>
+  </item>
+
+  <item>
     <title><![CDATA[ITLA informa que recibe reportes de posible incidente de ciberseguridad]]></title>
     <link>https://elnuevodiario.com.do/itla-informa-que-recibe-reportes-de-posible-incidente-de-ciberseguridad/</link>
     <description><![CDATA[El Instituto Tecnológico de Las Américas (ITLA) ha informado que está investigando reportes sobre un posible incidente de ciberseguridad. Esta investigación se lleva a cabo en coordinación con el Centro Nacional de Ciberseguridad (CNCS).
@@ -1483,19 +1496,6 @@ El operativo contó con la participación de las divisiones aéreas y marítimas
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793727367/noticias/articles/20261103_173606_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 03 Nov 2026 17:36:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261103173633</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fitch eleva calificación de República Dominicana a BB, pero advierte debilidades fiscales]]></title>
-    <link>https://www.diariolibre.com/economia/finanzas/2026/11/03/fitch-ratings-y-la-nueva-calificacion-de-republica-dominicana/3709364</link>
-    <description><![CDATA[Fitch Ratings ha mejorado la calificación crediticia de República Dominicana de BB- a BB, con una perspectiva estable. Esta decisión reconoce el crecimiento económico del país y la reciente reforma tributaria.
-
-A pesar de la mejora, Fitch advierte sobre importantes vulnerabilidades fiscales. El pago de intereses representa el 21.9 % de los ingresos gubernamentales, y las pérdidas en el sector eléctrico son cercanas al 40 %. Se proyecta un déficit fiscal del 3.7 % del PIB para 2026.
-
-La agencia destaca factores favorables como las reservas internacionales de US$ 15,200 millones y el dinamismo del turismo, las remesas y las exportaciones. Futuras mejoras dependerán de una consolidación fiscal sostenida y mayores ingresos públicos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793726534/noticias/articles/20261103_172214_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 03 Nov 2026 17:23:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261103172300</guid>
   </item>
 </channel>
 </rss>
