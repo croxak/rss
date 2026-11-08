@@ -7,14 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 08 Nov 2026 14:32:55 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 14:35:25 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Sismo de magnitud 4.6 sacude aguas del Atlántico, al noreste de Miches]]></title>
+    <link>https://elnuevodiario.com.do/sismo-de-magnitud-4-6-sacude-aguas-del-atlantico-al-noreste-de-miches/</link>
+    <description><![CDATA[Un sismo de magnitud 4.6 sacudió las aguas del Atlántico al noreste de Miches, provincia El Seibo, en la madrugada de este domingo. El evento ocurrió a las 2:30 a.m., a una profundidad de 15.8 kilómetros, según el Centro Nacional de Sismología de la UASD.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794148509/noticias/articles/20261108_143508_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 08 Nov 2026 14:35:25 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261108143525</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Apresan a hombre acusado de matar a tiros a su pareja en San Juan de la Maguana]]></title>
     <link>https://noticiassin.com/pais/provincias/2026/11/07/apresan-hombre-por-matar-a-tiros-a-su-pareja-en-san-juan-2165959/</link>
     <description><![CDATA[Francisco Rosendo Moya Tavares, de 57 años, fue arrestado en San Juan de la Maguana por presuntamente matar a tiros a su pareja, Jocelyn Ceballo Matrille, de 36 años. El hecho ocurrió en el residencial Caonabo Tower.
@@ -1469,17 +1478,6 @@ Las operaciones se realizarán respetando la ley y los derechos humanos. Las fue
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793744095/noticias/articles/20261103_221455_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 03 Nov 2026 22:15:46 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261103221546</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader se reúne con el expresidente español José María Aznar en Madrid]]></title>
-    <link>https://n.com.do/2026/11/03/abinader-se-reune-con-el-expresidente-espanol-jose-maria-aznar-en-madrid/</link>
-    <description><![CDATA[El presidente dominicano Luis Abinader se reunió en Madrid con el expresidente del Gobierno español, José María Aznar. El encuentro tuvo lugar en el marco de la visita de Abinader a España para participar en la XXX Cumbre Iberoamericana de Jefas y Jefes de Estado y de Gobierno.
-
-Aznar compartió una fotografía del encuentro en su cuenta de Instagram, expresando su satisfacción por el reencuentro con Abinader. Aunque mencionó que intercambiaron impresiones, no se ofrecieron detalles sobre los temas tratados.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793733146/noticias/articles/20261103_191226_article.webp" type="image/webp"/>
-    <pubDate>Tue, 03 Nov 2026 19:12:59 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261103191259</guid>
   </item>
 </channel>
 </rss>
