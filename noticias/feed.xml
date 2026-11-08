@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 08 Nov 2026 21:29:28 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 22:54:24 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Jensen Huang admite una infidelidad; la junta directiva de NVIDIA inicia una investigación independiente]]></title>
+    <link>https://news.jkn.co.kr/editions/spanish/post/1079287</link>
+    <description><![CDATA[Jensen Huang, CEO de Nvidia, ha admitido una relación extramarital y se ha disculpado con sus empleados. La junta directiva ha iniciado una investigación independiente para evaluar posibles riesgos a la seguridad nacional y la filtración de secretos comerciales.
+
+Un comité de directores independientes supervisará la investigación con la ayuda de asesores legales externos. Huang ha aceptado colaborar con el proceso y continuará en su cargo durante la investigación. Hasta ahora, no hay indicios de que la seguridad nacional o la información confidencial de Nvidia se hayan visto comprometidas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794178429/noticias/articles/20261108_225349_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 08 Nov 2026 22:54:24 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261108225424</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Aumentan las patrullas militares en la frontera dominico-haitiana]]></title>
     <link>https://noticiassin.com/pais/provincias/2026/11/08/aumentan-patrullas-militares-en-frontera-dominico-haitiana-2166116/</link>
     <description><![CDATA[Este domingo se ha observado un aumento en la presencia de patrullas militares en la frontera dominico-haitiana, especialmente en Dajabón, Elías Piña, Independencia y Pedernales. A pesar de esto, las actividades cotidianas continúan con normalidad.
@@ -1453,17 +1464,6 @@ Las entidades públicas tienen 180 días para adecuar sus procedimientos y cumpl
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793757312/noticias/articles/20261104_015512_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 04 Nov 2026 01:56:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261104015634</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Los primeros resultados de las legislativas favorecen a los demócratas en Estados Unidos]]></title>
-    <link>https://www.diariolibre.com/usa/actualidad/2026/11/03/primeros-resultados-de-las-legislativas-favorecen-a-los-democratas/3709909</link>
-    <description><![CDATA[Los primeros resultados de las elecciones de medio mandato en Estados Unidos muestran un avance para los demócratas en el Congreso. Han retenido el escaño del senador Jon Ossoff por Georgia y su escaño en el Senado por Virginia.
-
-En la Cámara de Representantes, los demócratas lideran en 18 distritos que actualmente están en manos republicanas, mientras que los republicanos solo llevan ventaja en dos distritos demócratas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793756941/noticias/articles/20261104_014900_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 04 Nov 2026 01:49:38 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261104014938</guid>
   </item>
 </channel>
 </rss>
