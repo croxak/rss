@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 08 Nov 2026 14:31:15 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 08 Nov 2026 14:32:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Indomet prevé un domingo soleado con aguaceros en el interior]]></title>
+    <link>https://noticiassin.com/pais/clima/2026/11/08/indomet-preve-domingo-soleado-con-aguaceros-en-el-interior-2165993/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) prevé un domingo soleado con poca nubosidad en gran parte del país. Sin embargo, se esperan aguaceros locales en el interior, especialmente en Hato Mayor, Monte Plata, El Seibo, Monseñor Nouel, San José de Ocoa, La Vega, Santiago y San Juan.
+
+Se recomienda precaución en la costa atlántica debido al oleaje y vientos anormales. Los operadores de embarcaciones deben navegar con cuidado y los bañistas deben estar atentos a las corrientes de resaca.
+
+Las temperaturas seguirán elevadas durante la tarde, con máximas de 31 a 33 °C en el Distrito Nacional y Santo Domingo. Se aconseja beber suficiente agua y evitar la exposición directa al sol entre las 11:00 a. m. y las 4:00 p. m.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794148283/noticias/articles/20261108_143122_article.webp" type="image/webp"/>
+    <pubDate>Sun, 08 Nov 2026 14:32:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261108143200</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece «El Flaco» tras presunto enfrentamiento con agentes de la Dicrim en Navarrete]]></title>
     <link>https://noticiassin.com/pais/provincias/2026/11/08/muere-el-flaco-tras-operativo-de-la-dicrim-en-navarrete-2166013/</link>
     <description><![CDATA[Joel de Jesús Rojas, conocido como "El Flaco", falleció tras un enfrentamiento con agentes de la Dicrim en Navarrete. Según la Policía Nacional, Rojas era un prófugo con múltiples cargos delictivos.
@@ -1469,17 +1482,6 @@ El avión se accidentó mientras viajaba desde Austin, Texas, hacia Bahamas. La 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793730155/noticias/articles/20261103_182235_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 03 Nov 2026 18:23:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261103182306</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Arrestan hombre investigado por amenaza contra el presidente Luis Abinader]]></title>
-    <link>https://n.com.do/2026/11/03/arrestan-hombre-presunto-atentado-presidente-abinader/</link>
-    <description><![CDATA[El Ministerio Público arrestó a Delvinson De la Cruz Sosa, de 29 años, investigado por amenazas contra el presidente Luis Abinader y la supuesta planificación de un atentado el 6 de noviembre en el Congreso Nacional.
-
-Los allanamientos se realizaron en San Francisco de Macorís, donde se ocuparon equipos electrónicos y sustancias químicas. La investigación cuenta con el apoyo de la Dirección Nacional de Inteligencia.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793728527/noticias/articles/20261103_175527_article.png" type="image/png"/>
-    <pubDate>Tue, 03 Nov 2026 17:57:31 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261103175731</guid>
   </item>
 </channel>
 </rss>
