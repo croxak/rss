@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 09 Nov 2026 15:03:56 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 15:07:28 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Detienen a dominicano en Chile tras denuncia de presunto secuestro y agresiones]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261109150728</link>
+    <description><![CDATA[Un ciudadano dominicano de 36 años fue detenido el viernes 6 de noviembre en Coyhaique, ciudad de la región de Aysén, en el sur de Chile, tras una denuncia de presunto secuestro y agresiones contra su pareja.
+
+Según informó el medio chileno Diario Regional Aysén, la mujer habría permanecido cerca de tres meses contra su voluntad en una vivienda, donde presuntamente sufrió agresiones reiteradas. La denuncia también incluye un presunto abuso sexual.
+
+Agentes de Carabineros de Chile localizaron al dominicano en la vía pública. Por instrucción de la Fiscalía chilena, quedó a disposición de la justicia para una audiencia de control de detención.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794236808/noticias/articles/20261109_150648_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 09 Nov 2026 15:07:28 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261109150728</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Incautan 505 kilos de cocaína frente a la costa norte de Puerto Rico y arrestan a tres dominicanos]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261109150356</link>
     <description><![CDATA[Autoridades federales de Estados Unidos incautaron aproximadamente 505 kilos de cocaína y arrestaron a tres ciudadanos dominicanos durante un operativo marítimo realizado el viernes 6 de noviembre de 2026 en aguas al norte de Loíza, en la costa norte de Puerto Rico.
@@ -1437,19 +1450,6 @@ El último demócrata que ganó una elección al Senado por Carolina del Sur fue
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793764674/noticias/articles/20261104_035754_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 04 Nov 2026 03:58:52 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261104035852</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El Partido Demócrata arrebata a los republicanos el control de la Cámara de Representantes]]></title>
-    <link>https://www.telemundo.com/noticias/noticias-telemundo/elecciones-estados-unidos-2026/control-camara-representantes-democratas-rcna607357</link>
-    <description><![CDATA[El Partido Demócrata ha logrado arrebatar el control de la Cámara de Representantes a los republicanos, obteniendo al menos 244 escaños de los 435 en juego. Esto podría significar un cambio en la dinámica política para los dos años restantes de la presidencia de Donald Trump.
-
-Hakeem Jeffries, quien ha sido el líder de la minoría demócrata, tomará el liderazgo de la Cámara de Representantes, reemplazando al republicano Mike Johnson.
-
-La redistribución de distritos electorales, promovida por la Administración Trump, ha sido un factor clave en estas elecciones, con varios estados rediseñando sus mapas para favorecer al Partido Republicano.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793764571/noticias/articles/20261104_035611_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 04 Nov 2026 03:56:58 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261104035658</guid>
   </item>
 </channel>
 </rss>
