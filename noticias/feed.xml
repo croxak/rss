@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 08 Nov 2026 22:54:24 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 02:16:13 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Trump admite que su política de deportaciones fue "demasiado dura"]]></title>
+    <link>https://www.dw.com/es/trump-admite-que-su-política-de-deportaciones-fue-demasiado-dura/a-79894805</link>
+    <description><![CDATA[Donald Trump admitió que su política de deportación masiva fue "demasiado dura". Esto ocurre después de que los demócratas ganaran las mayorías en la Cámara de Representantes y el Senado en las elecciones de medio mandato.
+
+A pesar de sus declaraciones, Trump nombró a Stephen Miller, conocido por su postura antiinmigrante, como nuevo jefe de su gabinete. Además, el secretario de Seguridad Nacional, Markwayne Mullin, aseguró que las deportaciones continuarán.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794190531/noticias/articles/20261109_021530_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 09 Nov 2026 02:16:13 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261109021613</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Jensen Huang admite una infidelidad; la junta directiva de NVIDIA inicia una investigación independiente]]></title>
     <link>https://news.jkn.co.kr/editions/spanish/post/1079287</link>
     <description><![CDATA[Jensen Huang, CEO de Nvidia, ha admitido una relación extramarital y se ha disculpado con sus empleados. La junta directiva ha iniciado una investigación independiente para evaluar posibles riesgos a la seguridad nacional y la filtración de secretos comerciales.
@@ -1451,19 +1462,6 @@ El mandatario concluyó su mensaje con una promesa dirigida a la población hait
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793757592/noticias/articles/20261104_015952_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 04 Nov 2026 02:00:37 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261104020037</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno aprueba Código de Ética para regular el uso de la IA en el Estado]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/11/04/gobierno-aprueba-codigo-de-etica-para-ia-en-el-estado-2162363/</link>
-    <description><![CDATA[El Gobierno dominicano ha aprobado el Código de Ética de la Inteligencia Artificial para los Servicios Públicos, regulando el uso de esta tecnología en el sector público. El decreto 787-26 busca garantizar la transparencia y la protección de los derechos ciudadanos.
-
-La normativa prohíbe prácticas como la clasificación social generalizada y la identificación biométrica masiva sin orden judicial. También se establece la creación del Consejo Nacional de Ética de la Inteligencia Artificial.
-
-Las entidades públicas tienen 180 días para adecuar sus procedimientos y cumplir con las nuevas disposiciones.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793757312/noticias/articles/20261104_015512_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 04 Nov 2026 01:56:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261104015634</guid>
   </item>
 </channel>
 </rss>
