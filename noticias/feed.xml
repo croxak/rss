@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 09 Nov 2026 15:13:09 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 19:15:36 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Policía haitiana y tropas salvadoreñas destruyen vivienda vinculada a líder de 400 Mawozo]]></title>
+    <link>https://elnuevodiario.com.do/policia-haitiana-y-tropas-salvadorenas-destruyen-vivienda-vinculada-a-lider-de-400-mawozo/</link>
+    <description><![CDATA[Unidades especiales de la Policía Nacional de Haití y tropas salvadoreñas llevaron a cabo una operación conjunta que resultó en la destrucción de una vivienda vinculada a Wilson Joseph, líder de la banda 400 Mawozo. La incursión ocurrió en la madrugada del domingo y dejó varios hombres armados muertos.
+
+La propiedad, que contaba con piscinas interiores y exteriores, fue construida durante el último año. Joseph no se encontraba en el lugar al momento del ataque.
+
+Esta acción es parte de la ofensiva de las autoridades haitianas para recuperar el control de Puerto Príncipe, donde la coalición de bandas Viv Ansanm tiene una fuerte presencia.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794251696/noticias/articles/20261109_191455_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 09 Nov 2026 19:15:36 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261109191536</guid>
+  </item>
+
+  <item>
     <title><![CDATA[ITLA asegura que no hay evidencias de extracción de datos de sus sistemas]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/11/09/centro-nacional-de-ciberseguridad-colabora-con-itla-en-auditorias/3715350</link>
     <description><![CDATA[El Instituto Tecnológico de Las Américas (ITLA) ha comunicado que no hay evidencias de extracción de datos de sus sistemas, tras investigaciones realizadas junto al Centro Nacional de Ciberseguridad (CNCS).
@@ -1437,17 +1450,6 @@ Su victoria proyectada representa un nuevo avance de la representación polític
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793765707/noticias/articles/20261104_041506_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 04 Nov 2026 04:16:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261104041603</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Demócrata James Talarico gana en Texas y pone fin a 38 años de dominio republicano en el Senado]]></title>
-    <link>https://elnuevodiario.com.do/democrata-james-talarico-gana-en-texas-y-pone-fin-a-38-anos-de-dominio-republicano-en-el-senado/</link>
-    <description><![CDATA[El demócrata James Talarico ha ganado un escaño en el Senado de Estados Unidos por Texas, terminando con 38 años de dominio republicano en esa representación estatal. Desde 1988, cuando Lloyd Bentsen consiguió la reelección, ningún demócrata había logrado tal victoria.
-
-Este resultado marca un cambio significativo en el panorama político de Texas, un estado conocido por su tradicional respaldo a los candidatos republicanos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793765240/noticias/articles/20261104_040717_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 04 Nov 2026 04:08:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261104040814</guid>
   </item>
 </channel>
 </rss>
