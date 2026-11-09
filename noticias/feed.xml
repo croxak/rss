@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 09 Nov 2026 15:09:51 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 09 Nov 2026 15:13:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[ITLA asegura que no hay evidencias de extracción de datos de sus sistemas]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/11/09/centro-nacional-de-ciberseguridad-colabora-con-itla-en-auditorias/3715350</link>
+    <description><![CDATA[El Instituto Tecnológico de Las Américas (ITLA) ha comunicado que no hay evidencias de extracción de datos de sus sistemas, tras investigaciones realizadas junto al Centro Nacional de Ciberseguridad (CNCS).
+
+Las evaluaciones incluyeron auditorías y análisis del tráfico de red, sin que se detectaran transferencias de información sospechosas. El ITLA activó sus protocolos de respuesta y mantiene sus mecanismos de monitoreo y protección.
+
+Cualquier novedad será comunicada oportunamente a través de sus canales oficiales.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794237149/noticias/articles/20261109_151229_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 09 Nov 2026 15:13:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261109151309</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Delcy Rodríguez presentó una querella contra Víctor de Aldama por el caso del sobre de PDVSA]]></title>
     <link>https://www.elmarplatense.com/delcy-rodriguez-presento-una-querella-contra-victor-de-aldama-por-el-caso-del-sobre-de-pdvsa</link>
     <description><![CDATA[Delcy Rodríguez ha presentado una querella en Madrid contra el empresario español Víctor de Aldama por presuntas injurias graves con publicidad. Aldama había afirmado en entrevistas que Rodríguez le entregó un sobre de PDVSA vinculado a una supuesta financiación irregular del PSOE y la Internacional Socialista.
@@ -1435,21 +1448,6 @@ Este resultado marca un cambio significativo en el panorama político de Texas, 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793765240/noticias/articles/20261104_040717_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 04 Nov 2026 04:08:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261104040814</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Darializa Ávila Chevalier gana elecciones al Congreso de Estados Unidos y sustituirá a Adriano Espaillat]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261104040513</link>
-    <description><![CDATA[Darializa Ávila Chevalier, de 32 años e hija de inmigrantes dominicanos, ganó este martes 3 de noviembre las elecciones para representar al Distrito Congresional 13 de Nueva York en la Cámara de Representantes de Estados Unidos.
-
-La candidata del Partido Demócrata se impuso al republicano Jomo Williams y ocupará el escaño que actualmente representa Adriano Espaillat, a quien derrotó en las primarias demócratas celebradas el pasado 23 de junio.
-
-Ávila Chevalier, identificada con el movimiento socialista democrático y respaldada por el alcalde de Nueva York, Zohran Mamdani, se convertirá en la primera mujer de ascendencia dominicana en representar ese distrito, que comprende sectores de Manhattan y el Bronx, incluidos Harlem, Washington Heights e Inwood.
-
-La dirigente política, investigadora y organizadora comunitaria ha desarrollado su trayectoria en movimientos sociales y en la defensa de los derechos de los inmigrantes. Entre sus principales posiciones figura su oposición a las políticas de deportación y su propuesta de abolir el Servicio de Inmigración y Control de Aduanas (ICE).]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793765083/noticias/articles/20261104_040442_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 04 Nov 2026 04:05:13 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261104040513</guid>
   </item>
 </channel>
 </rss>
