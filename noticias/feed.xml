@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 10 Nov 2026 13:14:25 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 13:18:28 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Cuatro acusados en Toulouse por presunto secuestro de dos mujeres de origen dominicano y robo de €12,000, según medio francés]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261110131828</link>
+    <description><![CDATA[Cuatro hombres comparecieron ante la justicia en Toulouse, en el sur de Francia, por un presunto robo armado y la retención de dos mujeres de origen dominicano, según informó el diario francés La Dépêche du Midi.
+
+Según el medio, dos hombres armados entraron en un apartamento el 30 de agosto de 2022, retuvieron a las mujeres y se llevaron 12,000 euros. Entre los cuatro acusados figura un hombre al que el diario identifica como dominicano y a quien los investigadores atribuyen un presunto papel en la organización del asalto.
+
+El periódico informó que el juicio comenzó el 9 de noviembre y señaló en su seguimiento que fue aplazado hasta diciembre. La misma publicación conserva una referencia a un posible veredicto el viernes.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794316557/noticias/articles/20261110_131557_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 10 Nov 2026 13:18:28 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261110131828</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Detienen en Brasil a dominicano que intentaba volar a Francia con un presunto pasaporte boliviano falso]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261110131425</link>
     <description><![CDATA[La Policía Federal de Brasil informó que detuvo a un ciudadano dominicano en el Aeropuerto Internacional de São Paulo, en Guarulhos, cuando intentaba abordar un vuelo hacia Francia con un pasaporte boliviano que las autoridades identificaron como falsificado.
@@ -1419,17 +1432,6 @@ Este será el sexto viaje internacional de su pontificado, en el que pronunciar�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793798304/noticias/articles/20261104_131824_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 04 Nov 2026 13:19:12 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261104131912</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Detienen dos brigadistas de empresa contratista acusados de conectar cliente con corte por impago]]></title>
-    <link>https://listindiario.com/economia/energia/20261104/detienen-dos-brigadistas-empresa-contratista-acusados-conectar-cliente-corte-impago_928756.html</link>
-    <description><![CDATA[Dos técnicos de una empresa contratista fueron detenidos en San Cristóbal por reconectar ilegalmente el servicio eléctrico de un cliente que tenía el suministro cortado por falta de pago. La reconexión se hizo sin que se hubiese saldado la deuda pendiente.
-
-Edesur Dominicana insta a la ciudadanía a denunciar prácticas fraudulentas que afecten el servicio eléctrico, ofreciendo varios canales de comunicación para hacerlo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793798129/noticias/articles/20261104_131528_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 04 Nov 2026 13:16:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261104131614</guid>
   </item>
 </channel>
 </rss>
