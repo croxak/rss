@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 10 Nov 2026 13:36:47 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 14:44:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Antonio Marte afirma que el pasaje debería costar RD$95 y no RD$35]]></title>
+    <link>https://www.diariolibre.com/economia/consumo/2026/11/10/aumento-pasaje-transporte-urbano-propuesto-por-antonio-marte/3716383</link>
+    <description><![CDATA[Antonio Marte, senador y presidente de Conatra, declaró que el pasaje del transporte urbano debería ser de RD$95, casi tres veces más que los actuales RD$35. Según Marte, la tarifa actual no cubre los costos operativos y se sostiene gracias a subsidios del Gobierno.
+
+Marte explicó que el Gobierno no entrega combustible gratuitamente, sino que ofrece una exención de RD$48 en impuestos por galón subsidiado. También criticó que el Estado subsidie a la OMSA, el Metro y el Teleférico, mientras los operadores privados deben mantener tarifas bajas.
+
+El aumento en los precios de neumáticos y repuestos ha afectado la rentabilidad del transporte, según Marte. Desde 2017, no ha adquirido autobuses nuevos debido a la falta de rentabilidad.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794321837/noticias/articles/20261110_144357_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 10 Nov 2026 14:44:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261110144432</guid>
+  </item>
+
+  <item>
     <title><![CDATA[CNM juramentará este martes a los nuevos jueces de la SCJ]]></title>
     <link>https://elnuevodiario.com.do/cnm-juramentara-este-martes-a-los-nuevos-jueces-de-la-scj/</link>
     <description><![CDATA[El Consejo Nacional de la Magistratura juramentará este martes 10 de noviembre a los nuevos jueces de la Suprema Corte de Justicia. El magistrado Justiniano Montero Montero asumirá como presidente del tribunal.
@@ -1415,25 +1428,6 @@ El ejecutivo destacó los niveles récord de inversión extranjera directa y las
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793802414/noticias/articles/20261104_142654_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 04 Nov 2026 14:27:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261104142732</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Acusan a dominicana de presunta declaración falsa para registrarse como votante en Pensilvania]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261104132421</link>
-    <description><![CDATA[Una dominicana residente en Pensilvania fue arrestada y acusada formalmente de presuntamente declarar que era ciudadana estadounidense para registrarse como votante, informó el Departamento de Justicia de Estados Unidos.
-
-La acusada fue identificada como Rosanny Fabre Villa, de 28 años, residente en Reading y con estatus de residente permanente legal en territorio estadounidense. 
-
-Según la acusación, Fabre Villa habría presentado una solicitud de inscripción electoral en el condado de Berks el 3 de marzo de 2026, en la que afirmó ser ciudadana estadounidense pese a conocer que no tenía esa condición.
-
-El expediente divulgado por las autoridades se refiere a la presunta declaración falsa para registrarse. No la acusa de haber emitido un voto en una elección federal.
-
-El caso fue incluido en un anuncio del Departamento de Justicia publicado el 2 de noviembre sobre cargos relacionados con delitos electorales en distintas jurisdicciones del país.
-
-De ser declarada culpable, Fabre Villa enfrenta una pena máxima de cinco años de prisión y una multa.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793798609/noticias/articles/20261104_132328_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 04 Nov 2026 13:24:21 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261104132421</guid>
   </item>
 </channel>
 </rss>
