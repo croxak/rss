@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 10 Nov 2026 15:44:49 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 15:53:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Juramentan a Justiniano Montero como nuevo presidente de SCJ junto a seis nuevos jueces y cuatro magistrados]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/11/10/justiniano-montero-asume-presidencia-de-la-scj-en-rd-2166890/</link>
+    <description><![CDATA[Justiniano Montero Montero ha sido juramentado como nuevo presidente de la Suprema Corte de Justicia de República Dominicana. La ceremonia se llevó a cabo en el Salón Embajadores del Palacio Nacional.
+
+Seis nuevos jueces y cuatro magistrados ratificados también prestaron juramento. Entre los nuevos jueces se encuentran Julio César Emilio Canó Alfau y Antonia Josefina Grullón Blandino. Diomede Ydelfo Villalona Guerrero fue designado primer sustituto del presidente de la SCJ.
+
+El Consejo Nacional de la Magistratura, encabezado por el presidente Luis Abinader, realizó el proceso de evaluación y selección.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794325931/noticias/articles/20261110_155211_article.webp" type="image/webp"/>
+    <pubDate>Tue, 10 Nov 2026 15:53:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261110155302</guid>
+  </item>
+
+  <item>
     <title><![CDATA[AIRD se integra a red empresarial de la OCDE para aportar a debates sobre inversión y competitividad]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261110154449</link>
     <description><![CDATA[La Asociación de Industrias de la República Dominicana (AIRD) se incorpora como observadora a Business at OECD (BIAC), canal institucional de participación empresarial ante la Organización para la Cooperación y el Desarrollo Económicos (OCDE), cuyos estándares y recomendaciones sirven de referencia internacional para políticas de inversión, comercio, tributación y gobernanza.       
@@ -1433,19 +1446,6 @@ Los demócratas lograron recuperar el control del Congreso, obteniendo amplias m
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793810469/noticias/articles/20261104_164109_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 04 Nov 2026 16:44:09 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261104164409</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El Gobierno anuncia el primer picazo de la Autopista del Ámbar en 15 días]]></title>
-    <link>https://www.diariolibre.com/politica/gobierno/2026/11/04/en-15-dias-iniciara-la-construccion-de-la-autopista-del-ambar/3710556</link>
-    <description><![CDATA[En 15 días se dará el primer picazo para la construcción de la autopista del Ámbar, con una partida de 5,780 millones de pesos ya desembolsada. El presidente Luis Abinader anunció el inicio tras reunirse con Sergio Díaz-Granados del CAF, que ha mostrado interés en la obra.
-
-El ministro José Ignacio Paliza informó que la preparación del terreno comenzó en Montellano, Puerto Plata, y se obtuvieron licencias ambientales para las rutas Puerto Plata-Santiago y Santiago-Puerto Plata. La autopista reducirá el tiempo de viaje entre estas provincias a 35 minutos.
-
-El proyecto, de 35 kilómetros, fue adjudicado al Consorcio Autopista del Ámbar, S.R.L. por RD$28,800 millones. El CAF, con presencia en el país desde hace más de dos décadas, apoya el desarrollo sostenible y ha respaldado al sector privado con líneas de crédito.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793808511/noticias/articles/20261104_160831_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 04 Nov 2026 16:08:59 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261104160859</guid>
   </item>
 </channel>
 </rss>
