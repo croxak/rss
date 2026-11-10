@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 10 Nov 2026 18:42:16 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 19:03:46 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Matan a dos dominicanos en Haití durante presunto contrabando de cigarrillos]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/11/10/mueren-dos-dominicanos-en-haiti-por-contrabando-de-cigarrillos/3716551</link>
+    <description><![CDATA[Dos dominicanos, Frandeli Andújar Reyes y "Concote", fueron encontrados muertos en aguas de Haití. Se presume que estaban involucrados en un contrabando de cigarrillos.
+
+Los hombres habían salido desde Punta Rucia y fueron reportados como desaparecidos. Un testimonio indica que fueron secuestrados y asesinados por individuos que intentaron robarles la embarcación.
+
+Un tercer acompañante resultó herido pero logró escapar. Los cuerpos fueron recuperados y trasladados a territorio dominicano.
+
+Fuente: Diario Libre - Edward Fernández]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794337367/noticias/articles/20261110_190247_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 10 Nov 2026 19:03:46 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261110190346</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader reitera apoyo a Bukele y pide coordinación entre ejército salvadoreño y fuerza antipandillas en Haití]]></title>
     <link>https://elnuevodiario.com.do/abinader-reitera-apoyo-a-bukele-y-pide-coordinacion-entre-ejercito-salvadoreno-y-fuerza-antipandillas-en-haiti/</link>
     <description><![CDATA[El presidente Luis Abinader reafirmó su respaldo a Nayib Bukele, presidente de El Salvador, en las operaciones militares en Haití. Abinader instó a una mejor coordinación entre el ejército salvadoreño y la Fuerza de Supresión de Pandillas, asegurando que República Dominicana continuará apoyando en logística e inteligencia.
@@ -1421,19 +1436,6 @@ El primer testigo fue Paul Mifsud, vicepresidente sénior de Grandes Ligas y ase
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793815528/noticias/articles/20261104_180527_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 04 Nov 2026 18:06:37 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261104180637</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[“Manguito”, el perro que sobrevivió un mes abandonado en un apartamento de El Millón]]></title>
-    <link>https://n.com.do/2026/11/04/manguito-el-perro-que-sobrevivio-un-mes-abandonado-en-un-apartamento-de-el-millon/</link>
-    <description><![CDATA[“Manguito” sobrevivió un mes abandonado en un apartamento del sector El Millón, en el Distrito Nacional. Fue encontrado junto al cadáver de otro perro, tras ser alertadas las autoridades por el mal olor y ladridos. Personal del 9-1-1 lo rescató con vida, mientras que su compañero murió debido al abandono. Actualmente, “Manguito” recibe atención médica y cuidados de higiene para ser dado en adopción.
-
-El rescate ocurrió el 02 de octubre, cuando dos caninos fueron hallados en un apartamento en condiciones deplorables. Uno de ellos estaba herido y en descomposición. Las autoridades mantienen las investigaciones abiertas.
-
-En otro caso, PetHome informó sobre el rescate de Chori, un perro hallado amarrado dentro de un saco. Tras recibir atención médica, Chori fue adoptado por una familia.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793813730/noticias/articles/20261104_173529_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 04 Nov 2026 17:36:04 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261104173604</guid>
   </item>
 </channel>
 </rss>
