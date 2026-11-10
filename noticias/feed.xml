@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 10 Nov 2026 15:53:02 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 17:40:56 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[El Departamento de Estado cuestiona la ofensiva de El Salvador en Haití, según Axios]]></title>
+    <link>https://www.infobae.com/america/agencias/2026/11/10/el-departamento-de-estado-cuestiona-la-ofensiva-de-el-salvador-en-haiti-segun-axios/</link>
+    <description><![CDATA[Funcionarios del Departamento de Estado de EE.UU. han mostrado reparos a las operaciones del presidente salvadoreño, Nayib Bukele, en Haití. Las tensiones surgieron tras un ataque el 31 de octubre contra un convoy salvadoreño cerca de la Embajada estadounidense en Haití.
+
+El encargado de Negocios estadounidense en Haití, David Howell, se quejó de la falta de coordinación con la Fuerza de Supresión de Pandillas (GSF). Howell pidió al primer ministro haitiano que solicitara al Ministerio de Defensa salvadoreño detener las operaciones hasta garantizar la coordinación.
+
+Estados Unidos también detectó disparos de militares salvadoreños que alcanzaron la Embajada. La participación de El Salvador en Haití se intensificó tras la captura de cuatro técnicos de aviación salvadoreños el 18 de octubre por bandas criminales.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794332377/noticias/articles/20261110_173937_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 10 Nov 2026 17:40:56 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261110174056</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Juramentan a Justiniano Montero como nuevo presidente de SCJ junto a seis nuevos jueces y cuatro magistrados]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/11/10/justiniano-montero-asume-presidencia-de-la-scj-en-rd-2166890/</link>
     <description><![CDATA[Justiniano Montero Montero ha sido juramentado como nuevo presidente de la Suprema Corte de Justicia de República Dominicana. La ceremonia se llevó a cabo en el Salón Embajadores del Palacio Nacional.
@@ -1435,17 +1448,6 @@ El detenido, quien según la prensa local carecía de antecedentes policiales, f
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793812532/noticias/articles/20261104_171531_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 04 Nov 2026 17:16:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261104171631</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Vance culpa a la guerra en Irán de la estrepitosa derrota republicana en las legislativas]]></title>
-    <link>https://www.swissinfo.ch/spa/vance-culpa-a-la-guerra-en-irán-de-la-estrepitosa-derrota-republicana-en-las-legislativas/92328851</link>
-    <description><![CDATA[El vicepresidente de Estados Unidos, JD Vance, señaló que la impopular guerra contra Irán, lanzada por el presidente Donald Trump, fue la principal causa de la derrota republicana en las elecciones legislativas. 
-
-Los demócratas lograron recuperar el control del Congreso, obteniendo amplias mayorías en el Senado y la Cámara de Representantes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793810469/noticias/articles/20261104_164109_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 04 Nov 2026 16:44:09 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261104164409</guid>
   </item>
 </channel>
 </rss>
