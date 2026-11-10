@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 10 Nov 2026 20:20:16 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 10 Nov 2026 21:39:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[EE. UU. gestionó 12,000 millones de dólares del petróleo venezolano, dice The New York Times]]></title>
+    <link>https://elnuevodiario.com.do/ee-uu-gestiono-12000-millones-de-dolares-del-petroleo-venezolano-dice-the-new-york-times/</link>
+    <description><![CDATA[Estados Unidos gestionó más de 12,000 millones de dólares de las exportaciones de Venezuela, principalmente del petróleo, en los primeros nueve meses del año. Estos fondos fueron depositados en la ‘Cuenta de custodia de Venezuela’ del Tesoro de EE. UU. y luego desembolsados al país suramericano.
+
+De los 12,260 millones de dólares depositados, 11,700 millones fueron devueltos a Venezuela para apuntalar el bolívar mediante subastas de divisas. Además, EE. UU. pagó 130 millones de dólares en deudas externas del Gobierno venezolano.
+
+La cuenta tenía un saldo de 170 millones de dólares al cierre del informe y generó 12 millones en intereses. El Banco Central de Venezuela solicitó y recibió fondos tras cumplir con criterios de integridad financiera. El 61 % de los ingresos provenían de Trafigura y Vitol, con transacciones aprobadas por el Departamento de Estado y el Tesoro.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794346691/noticias/articles/20261110_213807_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 10 Nov 2026 21:39:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261110213902</guid>
+  </item>
+
+  <item>
     <title><![CDATA[La Policía desmantela red que fabricaba armas con impresoras 3D; hay cinco detenidos]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/11/10/policia-desmantela-red-que-fabricaba-armas-3d-hay-cinco-detenidos/3716576</link>
     <description><![CDATA[La Policía Nacional, junto al Ministerio Público, desmanteló una red transnacional que fabricaba armas de fuego con impresoras 3D. Los operativos se realizaron en Santo Domingo Este, Santo Domingo Norte y Los Alcarrizos, resultando en la detención de cinco personas.
@@ -1417,17 +1430,6 @@ La operación incluyó unidades especializadas y vigilancia con drones, pero los
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793818143/noticias/articles/20261104_184903_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 04 Nov 2026 18:49:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261104184958</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Registran temblor de magnitud 4.5 al noreste de Miches]]></title>
-    <link>https://www.diariolibre.com/actualidad/nacional/2026/11/04/sismo-en-miches-de-magnitud-45-reportado-por-uasd/3710725</link>
-    <description><![CDATA[Un sismo de magnitud 4.5 fue registrado la tarde del miércoles 4 de noviembre en aguas del océano Atlántico, a 104.2 kilómetros al este noreste de Miches. El movimiento telúrico ocurrió a la 1:08 de la tarde, hora local, con una profundidad de 10 kilómetros.
-
-El Centro Nacional de Sismología de la Universidad Autónoma de Santo Domingo (UASD) informó que los datos son preliminares y podrían ser actualizados conforme avancen las evaluaciones del evento sísmico.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793817922/noticias/articles/20261104_184522_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 04 Nov 2026 18:45:53 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261104184553</guid>
   </item>
 </channel>
 </rss>
