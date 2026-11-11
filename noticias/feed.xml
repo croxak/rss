@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 11 Nov 2026 19:55:40 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 19:57:58 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Armada y guardacostas de EE. UU. frustran viaje ilegal de 31 personas hacia Puerto Rico]]></title>
+    <link>https://elnuevodiario.com.do/armada-y-guardacostas-de-ee-uu-frustran-viaje-ilegal-de-31-personas-hacia-puerto-rico/</link>
+    <description><![CDATA[Una embarcación clandestina con 31 hombres a bordo fue interceptada por la Armada de República Dominicana y el Servicio de Guardacostas de Estados Unidos. La embarcación había salido desde Las Galeras, provincia Samaná, con destino a Puerto Rico.
+
+Los ocupantes fueron trasladados al muelle de Samaná para su identificación y depuración. Posteriormente, serán llevados a la Dirección de Inteligencia Naval para ampliar las investigaciones.
+
+La Armada trabaja en identificar a los organizadores de la travesía para someterlos a la justicia. Exhortan a la ciudadanía a no dejarse engañar por quienes promueven estos viajes clandestinos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794427036/noticias/articles/20261111_195712_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 11 Nov 2026 19:57:58 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261111195758</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece el embajador de Rusia en EE UU, Alexander Darchiev]]></title>
     <link>https://elpais.com/us/2026-11-11/fallece-el-embajador-de-rusia-en-eeuu-alexander-darchiev.html</link>
     <description><![CDATA[El Ministerio de Exteriores de Rusia ha anunciado el fallecimiento del embajador Alexander Darchiev en Estados Unidos a los 66 años. Darchiev, quien ocupaba el cargo de embajador extraordinario y plenipotenciario desde 2025, fue descrito como un diplomático excepcional y un experto distinguido en asuntos estadounidenses.
@@ -1435,17 +1448,6 @@ Alex Robayo, representante del PMA en República Dominicana, resaltó la importa
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793900211/noticias/articles/20261105_173650_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 05 Nov 2026 17:37:46 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261105173746</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Santiago Peña renuncia a la presidencia de Paraguay en medio de crisis por Ueno Bank]]></title>
-    <link>https://www.biobiochile.cl/noticias/internacional/america-latina/2026/11/05/santiago-pena-renuncia-a-la-presidencia-de-paraguay-en-medio-de-crisis-por-ueno-bank.shtml</link>
-    <description><![CDATA[Santiago Peña, presidente de Paraguay, presentó su renuncia en medio de una crisis política y financiera vinculada a Ueno Bank. Rodolfo Friedmann, del Partido Colorado, confirmó que el vicepresidente Pedro Alliana asumiría la Presidencia.
-
-La acusación parlamentaria contra Peña incluye presuntos conflictos de intereses y operaciones crediticias por US$123 millones. La intervención de Ueno Bank por el Banco Central de Paraguay desencadenó protestas y una crisis política.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793896312/noticias/articles/20261105_163152_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 05 Nov 2026 16:33:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261105163305</guid>
   </item>
 </channel>
 </rss>
