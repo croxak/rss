@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 11 Nov 2026 14:43:56 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 14:50:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[La JCE asegura que la nueva cédula es segura y no puede ser clonada]]></title>
+    <link>https://www.diariolibre.com/politica/jce/2026/11/11/seguridad-de-la-nueva-cedula-de-identidad-segun-la-jce/3717389</link>
+    <description><![CDATA[La Junta Central Electoral (JCE) asegura que la nueva cédula de identidad y electoral es segura y no presenta vulnerabilidades que permitan su clonación. Esta declaración responde a una auditoría de Factor Inc. que advertía sobre posibles fallas en el chip.
+
+La JCE afirmó que los datos están protegidos mediante criptografía de curva elíptica y que cada chip cuenta con una clave única. Además, la nueva cédula fue reconocida como el Mejor Documento de Identidad en Latinoamérica.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794408598/noticias/articles/20261111_144958_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 11 Nov 2026 14:50:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261111145040</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Martelly busca revertir sanciones de EE. UU. mediante contrato de lobby de US$125,000 y pagos mensuales de US$50,000]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261111144356</link>
     <description><![CDATA[El expresidente de Haití, Michel Joseph Martelly, figura como beneficiario de un contrato de representación política en Estados Unidos destinado a promover la revisión de las sanciones impuestas en su contra por Washington en agosto de 2024.
@@ -1425,19 +1436,6 @@ La Policía ha instado a Jiménez García a entregarse para enfrentar las acusac
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793885466/noticias/articles/20261105_133106_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 05 Nov 2026 13:31:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261105133132</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Quiebra de Ueno Bank desata crisis financiera y política en Paraguay]]></title>
-    <link>https://www.diariolibre.com/mundo/america-latina/2026/11/05/crisis-financiera-en-paraguay-tras-quiebra-de-ueno-bank/3711659</link>
-    <description><![CDATA[La quiebra de Ueno Bank ha desatado una crisis financiera y política en Paraguay, afectando a 2.9 millones de clientes y poniendo en riesgo al gobierno del presidente Santiago Peña. El Banco Central del Paraguay ha iniciado el procedimiento de resolución del banco debido a su grave deterioro de solvencia.
-
-La suspensión de operaciones ha dejado a muchos depositantes sin acceso a sus cuentas, lo que ha provocado protestas. La crisis es especialmente grave por los 850 millones de dólares de organismos públicos depositados en el banco.
-
-El presidente Peña enfrenta cuestionamientos por sus vínculos con el grupo propietario del banco, y se ha promovido un juicio político en su contra. La crisis también llevó a la renuncia del presidente del Banco Central, Carlos Carvallo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793885340/noticias/articles/20261105_132859_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 05 Nov 2026 13:29:26 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261105132926</guid>
   </item>
 </channel>
 </rss>
