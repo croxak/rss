@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 11 Nov 2026 19:53:21 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 11 Nov 2026 19:55:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Fallece el embajador de Rusia en EE UU, Alexander Darchiev]]></title>
+    <link>https://elpais.com/us/2026-11-11/fallece-el-embajador-de-rusia-en-eeuu-alexander-darchiev.html</link>
+    <description><![CDATA[El Ministerio de Exteriores de Rusia ha anunciado el fallecimiento del embajador Alexander Darchiev en Estados Unidos a los 66 años. Darchiev, quien ocupaba el cargo de embajador extraordinario y plenipotenciario desde 2025, fue descrito como un diplomático excepcional y un experto distinguido en asuntos estadounidenses.
+
+Moscú ha lamentado la pérdida de un líder con gran experiencia y un colega amable, destacando su servicio en uno de los ámbitos más exigentes de la política exterior rusa.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794426880/noticias/articles/20261111_195440_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 11 Nov 2026 19:55:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261111195540</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Intrant prohíbe la circulación de vehículos pesados durante las festividades de Navidad y Año Nuevo]]></title>
     <link>https://listindiario.com/la-republica/20261111/intrant-prohibe-circulacion-vehiculos-pesados-festividades-navidad-ano-nuevo_929678.html</link>
     <description><![CDATA[El Instituto Nacional de Tránsito y Transporte Terrestre (Intrant) ha establecido restricciones para la circulación de vehículos pesados durante las festividades de Navidad y Año Nuevo en todo el país. Estas medidas se aplicarán del 23 al 26 de diciembre de 2026 y del 30 de diciembre de 2026 al 2 de enero de 2027.
@@ -1435,21 +1446,6 @@ La acusación parlamentaria contra Peña incluye presuntos conflictos de interes
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793896312/noticias/articles/20261105_163152_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 05 Nov 2026 16:33:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261105163305</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Marco Rubio estaría considerando renunciar al Gobierno de Trump tras derrota republicana y de cara a 2028, según The Independent]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261105154338</link>
-    <description><![CDATA[El secretario de Estado estadounidense, Marco Rubio, estaría considerando abandonar la administración de Donald Trump para distanciarse del desgaste político del Gobierno y preparar una posible candidatura presidencial en 2028, según publicó este jueves el periódico británico The Independent.
-
-El medio, que cita fuentes republicanas y altos funcionarios británicos, señala que Rubio podría buscar desvincularse de la guerra en Irán y de las consecuencias electorales que llevaron a los republicanos a perder el control de ambas cámaras del Congreso.
-
-Según las fuentes consultadas, Rubio figura entre los principales aspirantes a la nominación republicana de 2028, donde podría enfrentarse al vicepresidente JD Vance. El periódico también señala que entre cuatro y cinco altos funcionarios podrían abandonar la administración tras la derrota electoral.
-
-Sin embargo, la Casa Blanca y el Departamento de Estado rechazaron categóricamente las informaciones, calificándolas de especulaciones infundadas. Hasta el momento, Rubio no ha anunciado su renuncia ni confirmado aspiraciones presidenciales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793893309/noticias/articles/20261105_154148_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 05 Nov 2026 15:43:38 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261105154338</guid>
   </item>
 </channel>
 </rss>
