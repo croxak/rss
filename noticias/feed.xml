@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 12 Nov 2026 13:10:05 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 13:12:26 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Incendio destruye más de 20 viviendas en barracones de Barahona y deja a familias a la intemperie]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/11/12/incendio-en-barahona-destruye-25-viviendas-en-barracones-de-javid/3718207</link>
+    <description><![CDATA[Un incendio destruyó al menos 25 viviendas en los barracones de Javid, Barahona, dejando a numerosas familias a la intemperie. El fuego comenzó alrededor de las 10:00 de la noche y se extendió rápidamente debido a los materiales vulnerables de las construcciones.
+
+Freddy Féliz, presidente de la junta de vecinos, estima que entre 30 y 40 familias quedaron sin hogar. Aunque se sospecha que un cortocircuito eléctrico pudo haber sido la causa, las autoridades aún no han confirmado esta versión.
+
+El gobierno ha anunciado que brindará asistencia a las familias afectadas por el incendio.
+
+Fuente: Diario Libre - Omar Medina]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794489071/noticias/articles/20261112_131110_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 12 Nov 2026 13:12:26 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261112131226</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece el dirigente de baloncesto Melvyn López, exitoso ganador con el Club Mauricio Báez]]></title>
     <link>https://www.diariolibre.com/deportes/baloncesto/2026/11/12/fallece-el-dirigente-de-baloncesto-melvyn-lopez/3718228</link>
     <description><![CDATA[El baloncesto dominicano está de luto por el fallecimiento de Melvyn López, quien murió a los 52 años tras complicaciones médicas. López, conocido como el "Señor de los Anillos", dejó un legado de más de 30 campeonatos en su carrera, incluyendo ocho en el Torneo de Baloncesto Superior del Distrito Nacional.
@@ -1457,17 +1472,6 @@ Se espera la intervención de las autoridades correspondientes para retirar el �
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793910586/noticias/articles/20261105_202946_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 05 Nov 2026 20:30:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261105203006</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fallece rector de la Universidad Nacional Evangélica, Rafael Reyes]]></title>
-    <link>https://eldia.com.do/fallece-rector-de-la-universidad-nacional-evangelica-rafael-reyes/</link>
-    <description><![CDATA[Rafael Reyes, rector de la Universidad Nacional Evangélica (UNEV), falleció este jueves a causa de un infarto. 
-
-Reyes tuvo una extensa trayectoria en educación superior, desempeñándose en múltiples roles académicos y administrativos en la UNEV y otras instituciones del país.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793909639/noticias/articles/20261105_201359_article.webp" type="image/webp"/>
-    <pubDate>Thu, 05 Nov 2026 20:27:27 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261105202727</guid>
   </item>
 </channel>
 </rss>
