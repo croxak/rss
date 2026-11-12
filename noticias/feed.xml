@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 12 Nov 2026 13:12:26 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 13:14:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[PRM frena proyecto especial para entrega de cédulas y actas indocumentados; diputada lo retira]]></title>
+    <link>https://elnacional.com.do/nacionales/prm-frena-proyecto-especial-entrega-cedulas-actas-indocumentados-diputada-retira_585999.html</link>
+    <description><![CDATA[La diputada Maribel Almánzar de Ogando del PRM retiró un proyecto de ley que buscaba reestructurar la identidad de personas con irregularidades en el Registro Civil. La decisión fue tomada tras la solicitud de la Dirección Ejecutiva del PRM.
+
+Almánzar de Ogando afirmó que su intención era proteger la nacionalidad dominicana. El proyecto contemplaba investigar cada caso antes de documentar a los solicitantes. La propuesta generó confusión, pero la diputada reiteró su objetivo de evitar la emisión de cédulas sin verificar la nacionalidad.
+
+Fuente: El Nacional - Ronny Mateo]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794489209/noticias/articles/20261112_131328_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 12 Nov 2026 13:14:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261112131440</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Incendio destruye más de 20 viviendas en barracones de Barahona y deja a familias a la intemperie]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/11/12/incendio-en-barahona-destruye-25-viviendas-en-barracones-de-javid/3718207</link>
     <description><![CDATA[Un incendio destruyó al menos 25 viviendas en los barracones de Javid, Barahona, dejando a numerosas familias a la intemperie. El fuego comenzó alrededor de las 10:00 de la noche y se extendió rápidamente debido a los materiales vulnerables de las construcciones.
@@ -1455,23 +1468,6 @@ Yera Pozo fue arrestado en Punta Cana, provincia La Altagracia, como parte de la
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793910699/noticias/articles/20261105_203139_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 05 Nov 2026 20:32:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261105203228</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Árbol de gran tamaño cae y bloquea el tránsito en el sector Naco, Distrito Nacional]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261105203006</link>
-    <description><![CDATA[Un árbol de gran tamaño cayó en la intersección de las calles Rafael Augusto Sánchez y Alberto Larancuent, en el sector Naco del Distrito Nacional, justo frente a Plaza Lía, provocando la obstrucción del tránsito vehicular en la zona.
-
-Imágenes recibidas por El Testigo muestran cómo el árbol quedó atravesado sobre la vía, con su tronco y ramas ocupando prácticamente todo el ancho de la calle, impidiendo la circulación normal de los vehículos.
-
-El incidente se produjo en una zona de importante actividad comercial y residencial, donde también se observan tendidos eléctricos próximos al árbol caído, lo que representa un posible riesgo para quienes transitan por el lugar.
-
-Hasta el momento, no se ha confirmado si el desplome provocó personas heridas o daños materiales, ni se han establecido las causas de la caída.
-
-Se espera la intervención de las autoridades correspondientes para retirar el árbol, evaluar posibles riesgos y restablecer la circulación vehicular en esta intersección del sector Naco.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793910586/noticias/articles/20261105_202946_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 05 Nov 2026 20:30:06 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261105203006</guid>
   </item>
 </channel>
 </rss>
