@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 12 Nov 2026 13:06:06 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 13:08:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Fiscalía busca usar deuda fiscal de casi US$700,000 de Emmanuel Clase en juicio por apuestas]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261112130833</link>
+    <description><![CDATA[La fiscalía federal de Estados Unidos busca presentar ante el jurado registros sobre una deuda tributaria de casi US$700,000 del lanzador dominicano Emmanuel Clase. Con esos documentos, los fiscales pretenden rebatir el argumento de la defensa de que el pelotero no tenía motivos económicos para amañar lanzamientos y favorecer a apostadores.
+
+En un escrito presentado el 11 de noviembre, la fiscalía sostuvo que Clase acumuló unos US$500,000 en impuestos federales pendientes de 2022 y 2023 y más de US$178,000 por el año fiscal 2024, además de varios miles de dólares en tributos estatales. El escrito indica que el lanzador acordó un plan de pagos con el Servicio de Impuestos Internos (IRS).
+
+La jueza había excluido los registros el 30 de octubre porque fueron entregados poco antes del inicio del juicio. Los fiscales pidieron reconsiderar esa decisión después de que la defensa alegara que Clase ya ganaba millones con su contrato y no tenía incentivo para participar en el presunto esquema. Hasta el momento, no se ha confirmado que el tribunal haya admitido los documentos. El escrito no implica un nuevo cargo tributario.
+
+Clase y su compatriota Luis Ortiz se declararon no culpables en el proceso que se sigue en Brooklyn. La acusación federal les atribuye haber manipulado lanzamientos en partidos de Grandes Ligas para beneficiar apuestas sobre pitcheos específicos. Los cargos incluyen conspiración para cometer fraude electrónico, influir en competiciones deportivas mediante sobornos y lavar dinero.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794488867/noticias/articles/20261112_130746_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 12 Nov 2026 13:08:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261112130833</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Vaguada aumentará las lluvias y las tronadas esta tarde en varias regiones del país]]></title>
     <link>https://noticiassin.com/pais/clima/2026/11/12/vaguada-aumentara-lluvias-y-tronadas-en-varias-regiones-2168401/</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) pronostica un aumento de lluvias y tormentas eléctricas en varias regiones del país debido a una vaguada y al viento del sureste.
@@ -1459,17 +1474,6 @@ Al concluir su intervención, la delegación dominicana alentó a Tanzania a con
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793906730/noticias/articles/20261105_192529_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 05 Nov 2026 20:01:24 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261105200124</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno prohíbe usar inteligencia artificial en el sector público para clasificar ciudadanos y manipular opiniones politícas]]></title>
-    <link>https://www.diariolibre.com/politica/gobierno/2026/11/04/gobierno-dominicano-establece-controles-sobre-inteligencia-artificial/3711173</link>
-    <description><![CDATA[El Gobierno dominicano ha prohibido en el sector público el uso de inteligencia artificial para clasificar socialmente a los ciudadanos y manipular opiniones políticas. Esta medida se enmarca en el nuevo Código de Ética de la Inteligencia Artificial para los Servicios Públicos, aprobado mediante el Decreto 787-26 por el presidente Luis Abinader.
-
-La normativa también restringe la identificación biométrica masiva sin garantías legales y prohíbe el uso de IA para propaganda política manipuladora. Se establece la creación del Consejo Nacional de Ética de la Inteligencia Artificial para supervisar estas regulaciones.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793906132/noticias/articles/20261105_191532_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 05 Nov 2026 19:19:21 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261105191921</guid>
   </item>
 </channel>
 </rss>
