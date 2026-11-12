@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 12 Nov 2026 00:41:56 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 13:06:06 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Vaguada aumentará las lluvias y las tronadas esta tarde en varias regiones del país]]></title>
+    <link>https://noticiassin.com/pais/clima/2026/11/12/vaguada-aumentara-lluvias-y-tronadas-en-varias-regiones-2168401/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) pronostica un aumento de lluvias y tormentas eléctricas en varias regiones del país debido a una vaguada y al viento del sureste.
+
+Se esperan aguaceros, tormentas eléctricas y ráfagas de viento en el suroeste, sureste, nordeste, la cordillera Central y la zona fronteriza. Durante la madrugada, se registraron chubascos dispersos y tronadas aisladas en Pedernales, Barahona, Azua, Peravia, San Cristóbal y el Gran Santo Domingo.
+
+En el Gran Santo Domingo, se prevén chubascos pasajeros en el Distrito Nacional, Santo Domingo Oeste y Santo Domingo Este. Las temperaturas mínimas estarán entre 23 °C y 25 °C, y las máximas entre 31 °C y 33 °C. El Indomet recomienda tomar precauciones ante el calor.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794488731/noticias/articles/20261112_130531_article.webp" type="image/webp"/>
+    <pubDate>Thu, 12 Nov 2026 13:06:06 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261112130606</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader designa tres miembros al Consejo de Juegos de Azar; Julio César Castaños Guzmán entre ellos]]></title>
     <link>https://elnuevodiario.com.do/abinader-designa-tres-miembros-al-consejo-de-juegos-de-azar-julio-cesar-castanos-guzman-entre-ellos/</link>
     <description><![CDATA[El presidente Luis Abinader ha designado a tres nuevos miembros para el Consejo de Juegos de Azar de la Dirección General de Juegos de Azar (DGJA). Los designados son Julio César Castaños Guzmán, José Julio Antonio de la Altagracia Cross Frías y José Delio Ares Guzmán.
@@ -1457,19 +1470,6 @@ La normativa también restringe la identificación biométrica masiva sin garant
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793906132/noticias/articles/20261105_191532_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 05 Nov 2026 19:19:21 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261105191921</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Cierre de Ueno Bank en Paraguay congela depósitos y afecta pagos, pensiones y operaciones comerciales]]></title>
-    <link>https://www.bloomberglinea.com/latinoamerica/cierre-de-ueno-bank-en-paraguay-congela-depositos-y-afecta-pagos-pensiones-y-operaciones-comerciales/</link>
-    <description><![CDATA[El Banco Central de Paraguay cerró Ueno Bank debido a una crisis de solvencia, congelando depósitos y afectando pagos y operaciones comerciales. La Fiscalía ha emitido órdenes de detención contra ocho personas, incluido Miguel Vázquez, presidente del Grupo Vázquez.
-
-Los depósitos de hasta 228 millones de guaraníes están garantizados, pero los clientes enfrentan dificultades para acceder a su dinero. La Policía Nacional ha desplegado agentes en sucursales bancarias para mantener el orden.
-
-El cierre también afecta a empresas y jubilados que dependían del banco para sus transacciones diarias y pensiones.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793904008/noticias/articles/20261105_184008_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 05 Nov 2026 18:41:04 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261105184104</guid>
   </item>
 </channel>
 </rss>
