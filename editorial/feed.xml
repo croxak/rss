@@ -6,12 +6,30 @@
   <link>https://eltestigo.com</link>
   <description>Editoriales de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 25 Apr 2026 17:52:46 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 15:19:47 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/editorial/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Editorial</title>
     <link>https://eltestigo.com</link>
   </image>
+  <item>
+    <title><![CDATA[La seducción del diablo]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-editorial-20261112151947</link>
+    <description><![CDATA[El diablo no siempre llega con cachos ni con la piel roja. A veces aparece con cuerpo esbelto, sonrisa perfecta, gustos idénticos y una fascinación casi devocional por quien tiene poder.
+
+Jensen Huang no dirigía una empresa cualquiera. Nvidia produce los chips que entrenan la inteligencia artificial, eje de la disputa por el poder entre Estados Unidos y China. Washington limita el acceso de Pekín a procesadores avanzados porque quien controla la capacidad de cómputo condiciona el futuro económico, militar y tecnológico.
+
+Huang defendió flexibilizar esas restricciones. Luego admitió una infidelidad con una ejecutiva señalada como presunta colaboradora de la inteligencia china. Aunque no se ha probado filtración alguna, el escándalo le costó el puesto.
+
+Así opera el espionaje. Se estudian familias, deseos, vanidades, secretos, rutinas, debilidades, placeres y miserias. Se cultiva la confianza hasta que el poderoso confunde una operación con afecto. En la guerra por el poder no hay límites morales.
+
+Y en República Dominicana sobran razones para aprender la lección. Hay quienes confunden una mesa reservada, un vino añejo y dos elogios con el ingreso a una élite. Por sentirse importantes, hablan de reuniones, decisiones y asuntos del Estado.
+
+El verdadero poder exige entender el tradecraft y dominar el ego. Porque el diablo no viene a pedir secretos. Tú se los entregas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794496714/noticias/articles/20261112_151833_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 12 Nov 2026 15:19:47 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-editorial-20261112151947</guid>
+  </item>
 </channel>
 </rss>
