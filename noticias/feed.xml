@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 12 Nov 2026 14:07:33 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 16:01:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Jefe de Bomberos confirma fuga en tubería de gas provocó explosión que dejó herida a odontóloga y sus dos hijos]]></title>
+    <link>https://elnuevodiario.com.do/jefe-de-bomberos-confirma-fuga-en-tuberia-de-gas-provoco-explosion-que-dejo-herida-a-odontologa-y-sus-dos-hijos/</link>
+    <description><![CDATA[Una fuga de gas en las tuberías del apartamento provocó una explosión en el residencial Andares Mirador, dejando gravemente herida a la odontóloga Loida Díaz Lima y a sus dos hijos, de 12 y 7 años. El jefe del Cuerpo de Bomberos del Distrito Nacional, general José Luis Frómeta Herasme, explicó que el incidente ocurrió durante trabajos de conexión de electrodomésticos al sistema de gas.
+
+La explosión causó múltiples destrozos en la edificación. Las autoridades entrevistaron a la propietaria del apartamento, el administrador del edificio y el empleado encargado de las conexiones. La odontóloga se había mudado al apartamento menos de 24 horas antes del incidente.
+
+Winston Rodríguez, exesposo de la odontóloga, informó que ella está consciente y evolucionando favorablemente. Sus hijos permanecen en estado delicado en la Unidad de Cuidados Intensivos del Hospital Infantil Dr. Robert Reid Cabral.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794499238/noticias/articles/20261112_160037_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 12 Nov 2026 16:01:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261112160120</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Jensen Huang dimite como CEO de Nvidia tras sus infidelidades con una presunta espía y una subordinada]]></title>
     <link>https://www.expansion.com/empresas/2026/11/12/jensen-huang-dimite-ceo-nvidia-infidelidades-presunta-espia-subordinada.html</link>
     <description><![CDATA[Jensen Huang, cofundador de Nvidia, ha renunciado a su cargo de CEO tras un escándalo de infidelidades que ha afectado a la compañía. Las relaciones extramatrimoniales de Huang con una presunta espía china y una subordinada provocaron una caída en las acciones de Nvidia.
@@ -1469,19 +1482,6 @@ La empresa asegura que su equipo técnico está trabajando para restablecer los 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793993469/noticias/articles/20261106_193109_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 06 Nov 2026 19:31:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261106193134</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ratifican prisión preventiva a Santiago Hazim y varían coerción a otro imputado en caso Senasa]]></title>
-    <link>https://www.diariolibre.com/actualidad/justicia/2026/11/05/caso-senasa-ratifican-prision-preventiva-a-santiago-hazim/3712287</link>
-    <description><![CDATA[El juez Deiby Timoteo Peguero ratificó la prisión preventiva contra Santiago Hazim y otros imputados en el caso de un presunto fraude millonario contra Senasa. Los implicados seguirán en el Centro de Corrección y Rehabilitación Las Parras.
-
-Rafael Luis Martínez Hazim recibió una variación en su medida de coerción, con una garantía económica de 15 millones de pesos, impedimento de salida, localizador electrónico y arresto domiciliario. La decisión se basó en que no figura en participación accionaria en los ilícitos investigados.
-
-La lectura completa de la decisión será el 26 de noviembre.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793919194/noticias/articles/20261105_225314_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 05 Nov 2026 22:53:53 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261105225353</guid>
   </item>
 </channel>
 </rss>
