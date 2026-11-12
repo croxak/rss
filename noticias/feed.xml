@@ -7,14 +7,33 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 12 Nov 2026 13:14:40 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 13:30:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Condenan a dominicano a más de cinco años de prisión por robar tuberías de cobre en Panamá]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261112133020</link>
+    <description><![CDATA[Un ciudadano dominicano fue condenado a cinco años y cuatro meses de prisión (64 meses) por el delito de hurto agravado, tras ser declarado responsable de sustraer tuberías de cobre de las instalaciones del Instituto Técnico Superior Especializado (ITSE), una institución educativa pública de Panamá.
+
+La sentencia fue dictada durante una audiencia celebrada el 9 de noviembre de 2026, luego de que un juez de garantías validara un acuerdo de pena alcanzado en el proceso judicial.
+
+De acuerdo con informaciones divulgadas por la prensa panameña, el dominicano fue detenido después de apoderarse de tuberías de cobre instaladas en uno de los cuartos fríos del centro educativo.
+
+La investigación estuvo a cargo de la Sección Cuarta de la Fiscalía Anticorrupción del Ministerio Público de Panamá, que presentó los cargos por el delito contra el patrimonio económico, en la modalidad de hurto agravado.
+
+Durante la audiencia, el tribunal declaró legal la detención, admitió la formulación de cargos y aprobó el acuerdo mediante el cual el acusado aceptó su responsabilidad penal.
+
+Además de la condena de 64 meses de cárcel, el juez impuso como sanción adicional la inhabilitación para ejercer funciones públicas durante otros 64 meses, medida que comenzará a cumplirse una vez finalizada la pena de prisión.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794490158/noticias/articles/20261112_132917_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 12 Nov 2026 13:30:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261112133020</guid>
+  </item>
+
+  <item>
     <title><![CDATA[PRM frena proyecto especial para entrega de cédulas y actas indocumentados; diputada lo retira]]></title>
     <link>https://elnacional.com.do/nacionales/prm-frena-proyecto-especial-entrega-cedulas-actas-indocumentados-diputada-retira_585999.html</link>
     <description><![CDATA[La diputada Maribel Almánzar de Ogando del PRM retiró un proyecto de ley que buscaba reestructurar la identidad de personas con irregularidades en el Registro Civil. La decisión fue tomada tras la solicitud de la Dirección Ejecutiva del PRM.
@@ -1457,17 +1476,6 @@ Paliza también valoró la gestión de gobierno del presidente Luis Abinader y c
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793910874/noticias/articles/20261105_203434_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 05 Nov 2026 20:36:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261105203619</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Raquel Peña firma la extradición del ciudadano español Jonathan Yera Pozo]]></title>
-    <link>https://listindiario.com/la-republica/20261105/raquel-pena-firma-extradicion-ciudadano-espanol-jonathan-yera-pozo_928989.html</link>
-    <description><![CDATA[Raquel Peña ha firmado el decreto 795-26 que autoriza la extradición de Jonathan Yera Pozo a España. Este ciudadano español está acusado de narcotráfico, blanqueo de capitales y organización criminal.
-
-Yera Pozo fue arrestado en Punta Cana, provincia La Altagracia, como parte de la operación internacional Fast Lap. Durante los allanamientos, se incautaron dispositivos electrónicos, billeteras frías para criptomonedas y relojes de alta gama.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793910699/noticias/articles/20261105_203139_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 05 Nov 2026 20:32:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261105203228</guid>
   </item>
 </channel>
 </rss>
