@@ -7,14 +7,39 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 12 Nov 2026 13:30:20 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 13:48:10 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Alertan sobre presunta filtración de más de 36,000 registros de estudiantes de la Universidad Central del Este]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261112134810</link>
+    <description><![CDATA[Una alerta de ciberseguridad difundida por VECERT Analyzer advierte sobre una presunta filtración de 36,335 registros vinculados a estudiantes de la Universidad Central del Este (UCE), en República Dominicana, que incluirían credenciales de acceso y contraseñas asociadas a la plataforma educativa Moodle.
+
+Según el reporte publicado por la organización especializada en inteligencia de amenazas informáticas, un actor identificado como ReiKernel habría anunciado en foros clandestinos la obtención y procesamiento de información correspondiente a usuarios de la plataforma académica.
+
+La publicación, detectada el 11 de noviembre de 2026, señala que los presuntos registros comprometidos estarían organizados en formato JSON y contendrían perfiles de usuarios, credenciales de acceso y contraseñas en texto plano.
+
+VECERT explicó que las credenciales habrían sido contrastadas con bases de datos de filtraciones anteriores mediante herramientas como LeakCheck, utilizadas para identificar contraseñas previamente expuestas.
+
+El informe plantea que parte de la información podría proceder de infecciones anteriores con programas maliciosos conocidos como infostealers, diseñados para sustraer contraseñas y otros datos almacenados en los dispositivos de estudiantes o personal administrativo.
+
+Sin embargo, la organización aclaró que la autenticidad de los datos, la existencia de una intrusión directa en los servidores de la universidad y el alcance de la presunta filtración no han sido confirmados oficialmente.
+
+Por tanto, tampoco se ha establecido que los 36,335 registros correspondan a igual número de estudiantes afectados.
+
+Ante la alerta, VECERT recomendó realizar una auditoría de los servidores Moodle, revisar los registros de acceso y aplicar medidas preventivas, incluido el cambio de contraseñas de los usuarios.
+
+El caso permanece como una denuncia de posible exposición de información académica y credenciales digitales, pendiente de verificación técnica y confirmación institucional.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794491245/noticias/articles/20261112_134724_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 12 Nov 2026 13:48:10 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261112134810</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Condenan a dominicano a más de cinco años de prisión por robar tuberías de cobre en Panamá]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261112133020</link>
     <description><![CDATA[Un ciudadano dominicano fue condenado a cinco años y cuatro meses de prisión (64 meses) por el delito de hurto agravado, tras ser declarado responsable de sustraer tuberías de cobre de las instalaciones del Instituto Técnico Superior Especializado (ITSE), una institución educativa pública de Panamá.
@@ -1457,25 +1482,6 @@ Christopher Paniagua, presidente ejecutivo del Popular, valoró estos resultados
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793919070/noticias/articles/20261105_225110_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 05 Nov 2026 22:51:26 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261105225126</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Paliza llama al PRM “a cuidar el día después de las primarias”]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261105203619</link>
-    <description><![CDATA[El expresidente del Partido Revolucionario Moderno (PRM), José Ignacio Paliza, exhortó a la dirigencia y militancia de esa organización a preservar la unidad, el respeto y la cohesión interna ante los próximos procesos de selección de candidaturas, al advertir que las aspiraciones individuales nunca deben comprometer el proyecto colectivo ni la fortaleza institucional del partido.
-
-Durante un encuentro celebrado en La Romana, en el que recibió cinco reconocimientos por su trayectoria y aportes al fortalecimiento de la organización, Paliza llamó a conducir las próximas competencias internas con madurez, responsabilidad y sentido de pertenencia, promoviendo las cualidades de cada aspirante sin recurrir a descalificaciones personales.
-
-“Cuidemos el día después de las primarias, porque los hombres y mujeres del PRM tienen las mejores condiciones y cualidades para entregarle el futuro de la República Dominicana. No necesitamos, para estimular que apoyemos a uno u otro compañero, hablar o descalificar a cualquier otro, sino compartir las cualidades diferenciadoras del hombre o la mujer que estemos respaldando”, expresó.
-
-El dirigente sostuvo que la fortaleza del PRM es el resultado de la entrega, el sacrificio y el compromiso de miles de hombres y mujeres que han contribuido a construir la organización, por lo que llamó a preservar los principios que dieron origen al proyecto político y evitar que las diferencias propias de una competencia interna debiliten los vínculos entre sus integrantes.
-
-“No olvidemos de dónde venimos para no perder el horizonte de hasta dónde queremos ir. Si nos mantenemos honestos a las cosas que nos han constituido, si no perdemos nuestra humanidad, yo les garantizo, compañeros y compañeras, que el futuro del PRM es infinito”, manifestó.
-
-Paliza también valoró la gestión de gobierno del presidente Luis Abinader y consideró que el partido tiene el compromiso de seguir construyendo una propuesta de desarrollo y oportunidades para el país, con una visión que trascienda el horizonte electoral de 2028.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793910874/noticias/articles/20261105_203434_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 05 Nov 2026 20:36:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261105203619</guid>
   </item>
 </channel>
 </rss>
