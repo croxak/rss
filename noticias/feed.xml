@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 12 Nov 2026 19:27:55 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 20:07:37 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Tropas de Bukele asumen el control del principal estadio de Haití, ocupado por bandas desde 2024]]></title>
+    <link>https://www.diariolibre.com/mundo/haiti/2026/11/12/tropas-de-bukele-toman-estadio-haitiano-ocupado-por-bandas-desde-2024/3718955</link>
+    <description><![CDATA[La Policía Nacional de Haití, en colaboración con la Task Force, ha recuperado el control del estadio Sylvio Cator en Puerto Príncipe. Este lugar había estado bajo el dominio de la coalición Viv Ansanm desde febrero de 2024.
+
+Tras la operación, el control del estadio fue entregado a las Fuerzas Armadas de El Salvador para asegurar la presencia militar en la zona. La intervención se llevó a cabo el jueves 12 de noviembre.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794514019/noticias/articles/20261112_200659_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 12 Nov 2026 20:07:37 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261112200737</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Se cae Outlook y otros servicios de Microsoft 365]]></title>
     <link>https://www.primerahora.com/noticias/ciencia-tecnologia/notas/se-cae-outlook-y-otros-servicios-de-microsoft-365/</link>
     <description><![CDATA[Usuarios de diversas regiones han reportado dificultades para acceder a Outlook y otros servicios de Microsoft 365. La interrupción ha afectado las plataformas de Microsoft, generando problemas para ingresar al correo electrónico y utilizar herramientas de trabajo.
@@ -1465,21 +1476,6 @@ Otros combustibles, como el avtur, kerosene y fuel oíl, experimentaron una redu
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793998347/noticias/articles/20261106_205227_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 06 Nov 2026 20:53:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261106205314</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Arrestan en Italia a hombre de origen dominicano durante investigación por presunta venta de cocaína]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261106204428</link>
-    <description><![CDATA[Un hombre de 63 años, identificado por medios locales como de origen dominicano, fue arrestado durante un operativo policial en el que fueron incautados aproximadamente 300 gramos de cocaína en una vivienda de Gaida, localidad perteneciente al municipio de Reggio Emilia.
-
-Según informaron Reggionline y Reggio Emilia Netweek, la intervención se realizó durante la tarde del 30 de octubre de 2026 y estuvo a cargo de agentes de la Squadra Mobile de la Policía de Estado italiana. Los investigadores registraron el inmueble después de recabar información sobre una presunta actividad de venta de drogas.
-
-Durante el allanamiento, los agentes encontraron la sustancia distribuida en envoltorios de celofán, oculta entre prendas de vestir dentro de un armario y en una mesita de noche del dormitorio. De acuerdo con la información publicada, la Policía consideró que el fraccionamiento era compatible con su presunta comercialización.
-
-El detenido, cuyo nombre no fue divulgado, fue trasladado a la cárcel de Reggio Emilia a la espera de una audiencia para que la autoridad judicial examinara la legalidad del arresto. Se le atribuye presunta posesión de sustancias estupefacientes con fines de venta.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793997745/noticias/articles/20261106_204224_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 06 Nov 2026 20:44:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261106204428</guid>
   </item>
 </channel>
 </rss>
