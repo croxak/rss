@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 12 Nov 2026 13:48:10 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 12 Nov 2026 14:07:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Jensen Huang dimite como CEO de Nvidia tras sus infidelidades con una presunta espía y una subordinada]]></title>
+    <link>https://www.expansion.com/empresas/2026/11/12/jensen-huang-dimite-ceo-nvidia-infidelidades-presunta-espia-subordinada.html</link>
+    <description><![CDATA[Jensen Huang, cofundador de Nvidia, ha renunciado a su cargo de CEO tras un escándalo de infidelidades que ha afectado a la compañía. Las relaciones extramatrimoniales de Huang con una presunta espía china y una subordinada provocaron una caída en las acciones de Nvidia.
+
+Colette Kress, actual vicepresidenta ejecutiva y directora financiera, asumirá el cargo de directora ejecutiva de manera interina. El Consejo de Administración ha iniciado la búsqueda de un nuevo CEO.
+
+Harvey C. Jones ha sido nombrado presidente del Consejo de Administración de Nvidia.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794492419/noticias/articles/20261112_140657_article.png" type="image/png"/>
+    <pubDate>Thu, 12 Nov 2026 14:07:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261112140733</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Alertan sobre presunta filtración de más de 36,000 registros de estudiantes de la Universidad Central del Este]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261112134810</link>
     <description><![CDATA[Una alerta de ciberseguridad difundida por VECERT Analyzer advierte sobre una presunta filtración de 36,335 registros vinculados a estudiantes de la Universidad Central del Este (UCE), en República Dominicana, que incluirían credenciales de acceso y contraseñas asociadas a la plataforma educativa Moodle.
@@ -1469,19 +1482,6 @@ La lectura completa de la decisión será el 26 de noviembre.]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793919194/noticias/articles/20261105_225314_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 05 Nov 2026 22:53:53 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261105225353</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Banco Popular logró por cuarto año ser la empresa con mejor reputación corporativa]]></title>
-    <link>https://elnuevodiario.com.do/banco-popular-logra-por-cuarto-ano-ser-la-empresa-con-mejor-reputacion-corporativa-en-el-ranking-de-merco/</link>
-    <description><![CDATA[El Banco Popular Dominicano ha sido reconocido por cuarto año consecutivo como la empresa con mejor reputación corporativa en la República Dominicana, alcanzando la máxima puntuación en Merco Empresas 2026.
-
-Además, el banco logró el primer lugar en Merco Responsabilidad 2026, destacándose en aspectos ambientales, sociales y de gobernanza. El equipo de comunicación del Popular también fue reconocido como el de mejor reputación en su categoría.
-
-Christopher Paniagua, presidente ejecutivo del Popular, valoró estos resultados como una expresión de la confianza construida con sus grupos de interés y el compromiso de sus colaboradores.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793919070/noticias/articles/20261105_225110_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 05 Nov 2026 22:51:26 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261105225126</guid>
   </item>
 </channel>
 </rss>
