@@ -6,13 +6,32 @@
   <link>https://eltestigo.com</link>
   <description>Editoriales de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 12 Nov 2026 15:19:47 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 16:27:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/editorial/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Editorial</title>
     <link>https://eltestigo.com</link>
   </image>
+    <item>
+    <title><![CDATA[Los que siempre serán]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-editorial-20261113162719</link>
+    <description><![CDATA[Hay restaurantes donde se respira más caliesaje que olor a comida. Entre copas, sobremesas y confidencias de quienes presumen conocer la intimidad del poder, se anuncia semanalmente la caída de algún funcionario.
+
+Que fulano se calentó. Que mengano cayó en desgracia. Que el presidente ya no lo recibe. Que su destitución es inminente. Lo que provoca risa no es el rumor, sino la solemnidad con que algunos lo repiten, convencidos de estar presenciando las vísperas de una revolución palaciega.
+
+Seis años de gobierno deberían bastar para comprender una realidad elemental. Los que llegaron en 2020 y siguen sentados en 2026 son los que van a ser. Han sobrevivido crisis, escándalos, desaciertos y toda clase de pronósticos sobre su salida.
+
+Con apenas dos años por delante, resulta ingenuo esperar que el presidente descubra ahora un equipo distinto al que ha conservado durante seis años.
+
+Lo fascinante es observar a quienes todavía aguardan en la banca. Seis años calentando, ensayando discursos, cultivando relaciones y esperando una llamada que nunca llega. A ellos convendría recordarles que la política también exige reconocer cuándo se ha perdido el tiempo.
+
+Porque quizás el problema nunca fue que no les llegara su turno, sino que jamás estuvieron contemplados para jugar.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794587186/noticias/articles/20261113_162626_article.png" type="image/png"/>
+    <pubDate>Fri, 13 Nov 2026 16:27:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-editorial-20261113162719</guid>
+  </item>
+
   <item>
     <title><![CDATA[La seducción del diablo]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-editorial-20261112151947</link>
