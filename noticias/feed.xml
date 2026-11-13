@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 13 Nov 2026 01:53:45 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 02:03:48 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Avión de Arajet aterriza de manera segura en Punta Cana pese a incidente con un neumático]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/11/12/avion-de-arajet-aterriza-de-manera-segura-en-punta-cana/3719202</link>
+    <description><![CDATA[Un avión de Arajet aterrizó de manera segura en Punta Cana tras un incidente con un neumático. El vuelo DM 5101 venía de Miami y no hubo heridos entre los pasajeros ni la tripulación.
+
+Las operaciones del aeropuerto fueron suspendidas temporalmente para realizar inspecciones de seguridad. Arajet está coordinando con las autoridades para garantizar el cumplimiento de los protocolos de seguridad. La aeronave será inspeccionada antes de reincorporarse a las operaciones.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794535388/noticias/articles/20261113_020307_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 13 Nov 2026 02:03:48 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261113020348</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Apresan a hombre tras publicar video con bebé en brazos y hacer insinuaciones sexuales]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/11/13/apresan-a-hombre-por-video-sexual-con-bebe-en-brazos-2169139/</link>
     <description><![CDATA[Un hombre conocido como Geancarlo.7 fue detenido en Santo Domingo después de publicar un video en TikTok. En el video, aparece con una bebé en brazos mientras hace insinuaciones de índole sexual.
@@ -1461,19 +1472,6 @@ El proyecto cuenta con el apoyo de 64 diputados, aunque el PRM ha señalado que 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793999396/noticias/articles/20261106_210956_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 06 Nov 2026 21:12:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261106211202</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Prevención de riesgos y resiliencia industrial centran foro regional en República Dominicana]]></title>
-    <link>https://aird.org.do/es/prensa/2026/prevencion-de-riesgos-y-resiliencia-industrial-centran-foro-regional-en-republica-dominicana</link>
-    <description><![CDATA[La Asociación de Industrias de la República Dominicana (AIRD), ECORED, Responsabilidad Integral® Colombia y ARISE República Dominicana organizaron el Foro Regional Resiliencia, Prevención y Seguridad Industrial en Santo Domingo. El evento se centró en la prevención de riesgos y la resiliencia industrial.
-
-Mario Pujols de AIRD destacó la importancia de una gestión responsable de sustancias químicas y el uso del Sistema Globalmente Armonizado (SGA). Yayo Sanz Lovatón, ministro de Industria, Comercio y Mipymes, enfatizó la necesidad de cooperación regional para fortalecer la seguridad industrial.
-
-Eddy Olivares, ministro de Trabajo, subrayó que la prevención es una inversión en la vida de las personas y la sostenibilidad de las empresas. Christy Luciano de ECORED y Yezid Fernando Niño Barrero de Responsabilidad Integral® Colombia resaltaron la importancia de integrar la gestión de riesgos en la cultura empresarial.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1793998909/noticias/articles/20261106_210148_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 06 Nov 2026 21:02:06 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261106210206</guid>
   </item>
 </channel>
 </rss>
