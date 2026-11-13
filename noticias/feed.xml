@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 13 Nov 2026 21:13:04 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 21:38:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Estados Unidos ordena suspender todos los vuelos en el país por "circunstancias extraordinarias y motivos de seguridad"]]></title>
+    <link>https://www.20minutos.es/internacional/estados-unidos-ordena-suspender-todos-los-vuelos-pais-por-circunstancias-extraordinarias-motivos-seguridad_7061023_0.html</link>
+    <description><![CDATA[La Administración Federal de Aviación de Estados Unidos ha ordenado detener el tráfico aéreo de salida en todos los aeropuertos del país. Esta medida se debe a "circunstancias extraordinarias y motivos de seguridad".
+
+El secretario de Transporte, Sean Duffy, ha señalado que existe un problema de comunicación que afecta a los Centros de Control de Tráfico Aéreo. Los vuelos internacionales se gestionarán caso por caso.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794605865/noticias/articles/20261113_213744_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 13 Nov 2026 21:38:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261113213833</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Dos de 3 alegados delincuentes muertos en Santiago estaban entre los más buscados por la Policía]]></title>
     <link>https://elnacional.com.do/nacionales/policiales/dos-cuatro-muertos-santiago-estaban-buscados-policia_586142.html</link>
     <description><![CDATA[Dos de los tres alegados delincuentes muertos en un enfrentamiento con la Policía Nacional en Santiago estaban entre los más buscados por la institución. Eduardo Paul Pérez Mercado y Edward de Jesús Pérez Silverio eran perseguidos por homicidios y otros hechos violentos.
@@ -1395,15 +1406,6 @@ Este nuevo pronunciamiento ocurre en medio de la ofensiva de las fuerzas de segu
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794034492/noticias/articles/20261107_065451_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 07 Nov 2026 06:57:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261107065700</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Trump confirma nuevos ataques limitados de EE.UU. contra un sistema antiaéreo iraní]]></title>
-    <link>https://elnuevodiario.com.do/trump-confirma-nuevos-ataques-limitados-de-ee-uu-contra-un-sistema-antiaereo-irani/</link>
-    <description><![CDATA[Donald Trump confirmó que Estados Unidos llevó a cabo ataques limitados contra un sistema de defensa antiaérea en Irán, destruyéndolo rápidamente. Medios iraníes informaron de explosiones en Suza, isla de Qeshm, en el estrecho de Ormuz. Trump calificó la acción como «menor».]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794030031/noticias/articles/20261107_054028_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 07 Nov 2026 05:41:20 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261107054120</guid>
   </item>
 </channel>
 </rss>
