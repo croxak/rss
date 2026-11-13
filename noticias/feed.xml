@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 13 Nov 2026 21:06:36 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 21:13:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Dos de 3 alegados delincuentes muertos en Santiago estaban entre los más buscados por la Policía]]></title>
+    <link>https://elnacional.com.do/nacionales/policiales/dos-cuatro-muertos-santiago-estaban-buscados-policia_586142.html</link>
+    <description><![CDATA[Dos de los tres alegados delincuentes muertos en un enfrentamiento con la Policía Nacional en Santiago estaban entre los más buscados por la institución. Eduardo Paul Pérez Mercado y Edward de Jesús Pérez Silverio eran perseguidos por homicidios y otros hechos violentos.
+
+En el tiroteo también murió el sargento Juan Isaac Espinal Jiménez, quien tenía 13 años de servicio en la Policía Nacional. El director general de la Policía expresó sus condolencias a los familiares del agente.
+
+Fuente: El Nacional - Yesika Florentino]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794604309/noticias/articles/20261113_211149_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 13 Nov 2026 21:13:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261113211304</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía que murió persiguiendo a prófugos de la justicia dejó a cuatro hijos en la orfandad]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/11/13/agente-de-la-policia-muerte-en-persecucion-dejo-cuatro-hijos-huerfanos/3720143</link>
     <description><![CDATA[El sargento Juan Isaac Espinal Jiménez, de 35 años, murió en un enfrentamiento con prófugos en Santiago. Dejó a cuatro hijos y una esposa. Trabajó 13 años en la Policía Nacional, dedicando ocho a la investigación criminal.
@@ -1391,23 +1404,6 @@ Este nuevo pronunciamiento ocurre en medio de la ofensiva de las fuerzas de segu
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794030031/noticias/articles/20261107_054028_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 07 Nov 2026 05:41:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261107054120</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Vinculan a al menos 10 personas en supuesta trama terrorista contra Abinader]]></title>
-    <link>https://www.diariolibre.com/actualidad/justicia/2026/11/06/atentado-terrorista-contra-abinader-involucra-a-al-menos-10-personas-investigadas/3713533</link>
-    <description><![CDATA[Al menos 10 personas están vinculadas a una supuesta trama terrorista contra el presidente Luis Abinader. La solicitud de medida de coerción, contenida en un expediente de 57 páginas, describe las presuntas funciones de los investigados para coordinar el ataque.
-
-El supuesto atentado estaba previsto para el 6 de noviembre, durante los actos del Día de la Constitución en el Congreso Nacional. Delvinson de la Cruz Sosa es identificado como el principal sospechoso.
-
-Otros mencionados en el expediente son Leomar Antonio Brens Moya, Michael García, Sucette Franshelle Miqui Salcedo, Sobeida María Baldera Peña, Robinzon Montero Montero, Miguel Odanis Peralta Susana, Ismael Amadis Torres, Ramón Antonio Olaverría Rosario e Isaac Rafael Encarnación.
-
-El grupo habría intercambiado información sobre explosivos y desplazamientos del mandatario. De la Cruz Sosa y Brens Moya están detenidos.
-
-Fuente: Diario Libre - Edward Fernandez]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794014373/noticias/articles/20261107_011932_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 07 Nov 2026 01:21:35 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261107012135</guid>
   </item>
 </channel>
 </rss>
