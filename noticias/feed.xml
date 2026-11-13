@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 13 Nov 2026 17:37:59 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 13 Nov 2026 20:50:14 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[La excanciller haitiana Dominique Dupuy inscribió su candidatura presidencial]]></title>
+    <link>https://www.diariolibre.com/mundo/haiti/2026/11/11/exministra-haitiana-anuncia-inscripcion-de-candidatura-presidencial/3717982</link>
+    <description><![CDATA[Dominique Dupuy, exministra de Relaciones Exteriores de Haití, ha inscrito su candidatura presidencial para las elecciones de 2027 por el partido Pati Vizyon Dayiti (PVD). En un video difundido en Instagram, Dupuy aseguró que no aceptará dinero ilícito para su campaña y llamó a la participación ciudadana en la transformación del país.
+
+Dupuy, conocida por su postura crítica hacia la política migratoria dominicana, invitó a los haitianos a unirse en su proyecto político, destacando la importancia de la diáspora y los valores nacionales.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794602813/noticias/articles/20261113_204652_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 13 Nov 2026 20:50:14 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261113205014</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Tribunal de Florida ordena entrega de pruebas en demanda de Felipe Vicini contra Rolando Espinal y "Kapulett"]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261113173759</link>
     <description><![CDATA[Un tribunal federal del Distrito Sur de Florida ordenó a las partes involucradas en la demanda presentada por el empresario dominicano Felipe Augusto Vicini Lluberes contra Juan Rolando Espinal del Rosario y Luis Alfredo Cabrera entregar documentación pendiente, tras una audiencia celebrada el 12 de noviembre de 2026 para resolver disputas relacionadas con el intercambio de pruebas.
@@ -1411,25 +1422,6 @@ La Fiscalía sostiene que el presunto esquema permitió obtener ganancias cercan
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794013665/noticias/articles/20261107_010744_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 07 Nov 2026 01:09:01 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261107010901</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Muere Mathias, jefe de pandilla de Boston en Haití, tras ataque con dron; primer ministro confirma su muerte]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261107010559</link>
-    <description><![CDATA[Mathias Saintil, conocido como «Mathias», jefe de la pandilla que operaba en el sector de Boston, en Cité Soleil, Haití, murió este viernes 6 de noviembre tras resultar gravemente herido durante una ofensiva de las fuerzas de seguridad haitianas que incluyó ataques con drones explosivos.
-
-La operación se desarrolló la noche del jueves 5 de noviembre y estuvo encabezada por la Policía Nacional de Haití (PNH), con apoyo de la Task Force. Según reportes de medios haitianos, un dron impactó el vehículo en el que se desplazaba el cabecilla criminal, provocándole heridas de gravedad a las que posteriormente sucumbió.
-
-Durante la intervención también murieron varios presuntos integrantes de grupos armados que operaban en la zona, incluidos miembros de la organización dirigida por Mathias.
-
-El primer ministro haitiano, Alix Didier Fils-Aimé, confirmó la muerte mediante una publicación en su cuenta oficial de X, en la que expresó que había «un jefe de pandilla menos» y aseguró que la lucha por liberar al país del dominio de los grupos criminales continuará con determinación.
-
-El mandatario concluyó su mensaje con una advertencia en criollo haitiano, «Gang yo pap gen dòmi nan je!», que significa «¡Las pandillas no podrán dormir tranquilas!».
-
-La muerte de Mathias se produce en medio de la intensificación de las operaciones contra las organizaciones criminales en Haití, donde las autoridades buscan recuperar territorios bajo control de las pandillas y restablecer la seguridad.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794013353/noticias/articles/20261107_010231_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 07 Nov 2026 01:05:59 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261107010559</guid>
   </item>
 </channel>
 </rss>
