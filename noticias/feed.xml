@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 14 Nov 2026 00:24:05 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 00:33:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Cancelan varios vuelos en el AILA en medio de crisis aérea en Estados Unidos]]></title>
+    <link>https://elnacional.com.do/nacionales/cancelan-vuelos-aila-medio-crisis-aerea-estados-unidos_586165.html</link>
+    <description><![CDATA[Cuatro vuelos programados para la tarde del viernes 13 de noviembre fueron cancelados en el Aeropuerto Internacional de Las Américas (AILA), en Santo Domingo, en medio de una crisis que afecta las operaciones aéreas en Estados Unidos.
+
+Las cancelaciones corresponden a tres vuelos con destino a Miami, Florida, y uno hacia Newark, Nueva Jersey, dos importantes puntos de conexión aérea entre República Dominicana y territorio estadounidense.
+
+La situación se produce después de que la Administración Federal de Aviación de Estados Unidos (FAA) ordenara la suspensión temporal de los despegues en todo el país debido a una falla en los sistemas de telecomunicaciones utilizados por los centros de control del tráfico aéreo. La medida, adoptada por razones de seguridad, provocó interrupciones en las operaciones de numerosos aeropuertos estadounidenses.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794616212/noticias/articles/20261114_003011_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 14 Nov 2026 00:33:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261114003320</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Avión con destino a Alemania lleva más de dos horas sobrevolando en círculos el este de República Dominicana]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261114002405</link>
     <description><![CDATA[Un avión comercial de la aerolínea alemana Condor, que despegó este viernes 13 de noviembre del Aeropuerto Internacional de La Romana con destino a Düsseldorf, Alemania, permanece realizando repetidos circuitos sobre el este de República Dominicana, sin emprender todavía su trayectoria prevista hacia Europa.
@@ -1395,21 +1408,6 @@ Cijntje es señalado como miembro de la organización criminal "No Limit Soldier
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794064597/noticias/articles/20261107_151637_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 07 Nov 2026 15:17:44 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261107151744</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Condenan a dos años de prisión en Países Bajos por tráfico de drogas con destino a RD]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261107150233</link>
-    <description><![CDATA[El Tribunal de Noord-Holland condenó a un hombre a dos años de prisión por participar en una operación de exportación de drogas que tenía como destino República Dominicana, según el texto de la sentencia reproducido por la plataforma jurídica Lexboost.
-
-El fallo, fechado el 5 de octubre de 2026 y publicado el 4 de noviembre, corresponde a hechos ocurridos el 27 de febrero en el aeropuerto de Schiphol. Una maleta que llevaría otro implicado contenía sustancias con MDMA y hachís.
-
-El tribunal consideró probado que el condenado intervino en la recogida de las drogas, la organización del transporte hacia el aeropuerto y las gestiones para obtener el boleto del viajero.
-
-La decisión también revocó su libertad condicional y ordenó cumplir 1,919 días pendientes de una condena anterior, una medida distinta de los dos años impuestos por este caso.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794063706/noticias/articles/20261107_150145_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 07 Nov 2026 15:02:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261107150233</guid>
   </item>
 </channel>
 </rss>
