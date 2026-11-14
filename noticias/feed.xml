@@ -7,14 +7,37 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 14 Nov 2026 00:46:01 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 01:19:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Avión con destino a Alemania regresa a La Romana tras pasar horas volando en círculos]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261114011931</link>
+    <description><![CDATA[Un avión comercial de la aerolínea alemana Condor regresó la noche de este viernes 13 de noviembre al Aeropuerto Internacional de La Romana, luego de permanecer durante más de dos horas realizando repetidos circuitos sobre el este de República Dominicana, sin completar su viaje hacia Alemania.
+
+Se trata del vuelo DE3843, identificado como CFG3843, operado por un Airbus A330-900neo con matrícula D-ANRC, que había despegado a las 5:52 de la tarde con destino a Düsseldorf, Alemania.
+
+Según los registros de seguimiento aéreo de FlightAware, después del despegue la aeronave comenzó a ejecutar numerosas maniobras circulares sobre una misma zona próxima a la costa oriental dominicana, manteniendo una altitud aproximada de 11,000 pies, equivalentes a unos 3,350 metros.
+
+Durante más de dos horas, el avión continuó realizando estos circuitos sin incorporarse a la ruta transatlántica prevista.
+
+Posteriormente, la aeronave abandonó el patrón circular e inició su descenso hacia La Romana. Los registros de FlightAware la situaban a unos 250 pies de altitud a las 8:37 de la noche, durante su aproximación final al aeropuerto.
+
+El seguimiento posterior mostró valores compatibles con el desplazamiento en tierra, mientras que Flightradar24 actualizó el estado del vuelo para indicar que había sido desviado a La Romana, el mismo aeropuerto desde donde había partido.
+
+Hasta el momento, se desconoce qué provocó las maniobras y el regreso de la aeronave. No se ha confirmado si la decisión estuvo relacionada con un problema técnico, una situación médica u otra circunstancia operacional.
+
+Tampoco se ha informado oficialmente sobre la cantidad de pasajeros a bordo ni sobre las razones que impidieron completar el vuelo hacia Alemania.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794619138/noticias/articles/20261114_011857_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 14 Nov 2026 01:19:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261114011931</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Al menos 12 vuelos hacia Estados Unidos permanecen en espera en aeropuerto de Punta Cana]]></title>
     <link>https://noticiassin.com/mundo/2026/11/13/12-vuelos-a-estados-unidos-en-espera-en-punta-cana-2169748/</link>
     <description><![CDATA[Al menos 12 vuelos hacia Estados Unidos están en espera en el Aeropuerto Internacional de Punta Cana debido a restricciones aéreas. Las aerolíneas afectadas incluyen American Airlines, Southwest Airlines, JetBlue, Delta Air Lines y United Airlines.
@@ -1393,17 +1416,6 @@ Hasta el momento, las afirmaciones sobre la presunta relación sentimental y las
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794067841/noticias/articles/20261107_161040_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 07 Nov 2026 16:12:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261107161206</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Se vuelca carro en el que viajaban Magali Febles y Miss República Dominicana Universo 2026]]></title>
-    <link>https://www.primerahora.com/entretenimiento/reinas-belleza/notas/se-vuelca-carro-en-el-que-viajaban-magali-febles-y-miss-republica-dominicana-universo-2026/</link>
-    <description><![CDATA[Magali Febles y Melissa Núñez, Miss República Dominicana Universo 2026, sufrieron un accidente automovilístico en el Distrito Nacional. El carro en el que viajaban se volcó en la avenida Núñez de Cáceres.
-
-Febles presentó dolor de cabeza y molestias en el costado derecho, mientras que Núñez tuvo laceraciones en el brazo derecho. Ambas recibieron atención médica en un centro privado.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794067260/noticias/articles/20261107_160100_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 07 Nov 2026 16:01:36 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261107160136</guid>
   </item>
 </channel>
 </rss>
