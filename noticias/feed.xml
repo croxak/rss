@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 13 Nov 2026 22:22:52 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 00:15:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA["Esto no es otro 11 de septiembre": Estados Unidos afirmó que la suspensión de despegues aéreos no se debe a un ataque terrorista]]></title>
+    <link>https://www.clarin.com/mundo/11-septiembre-estados-unidos-afirmo-suspension-despegues-aereos-debe-ataque-terrorista_0_tsLZAlSriI.html</link>
+    <description><![CDATA[El 13 de noviembre de 2026, se produjo una interrupción temporal de telecomunicaciones en la FAA, lo que llevó a la suspensión de despegues aéreos en Estados Unidos. 
+
+El secretario Mullin del DHS aseguró que no hay indicios de un ataque terrorista. Todos los vuelos han sido contabilizados y los vuelos internacionales se gestionarán individualmente.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794615249/noticias/articles/20261114_001408_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 14 Nov 2026 00:15:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261114001519</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Samuel Pereyra desiste definitivamente de demanda contra Carlos Enrique Rubio tras acuerdo en Miami]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261113222252</link>
     <description><![CDATA[Samuel Pereyra, expresidente ejecutivo de Banreservas y presidente de Refidomsa, desistió definitivamente de la demanda civil que interpuso contra el comunicador Carlos Enrique Rubio Sr. y la empresa 4X2 Motto & Auto LLC en Miami, Florida. La decisión consta en una estipulación conjunta presentada el 9 de noviembre de 2026 por los abogados de ambas partes.
@@ -1391,21 +1402,6 @@ La publicación no identifica a los procesados ni el tribunal y señala que la p
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794063371/noticias/articles/20261107_145611_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 07 Nov 2026 14:56:56 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261107145656</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Trasladan a dominicano a centro de repatriación en Italia; medios refieren condenas por violencia y robo]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261107145249</link>
-    <description><![CDATA[Un ciudadano dominicano fue trasladado a un centro de permanencia para repatriación durante actuaciones migratorias de la Policía de Estado italiana, según informó Prima Bergamo con datos atribuidos a la Questura local.
-
-El medio indicó que el hombre, cuya identidad y edad no fueron divulgadas, tenía condenas anteriores por violencia y maltrato contra su esposa, acoso y robo.
-
-El traslado ocurrió entre el 26 y el 28 de octubre de 2026, dentro de un conjunto de intervenciones contra extranjeros en situación migratoria irregular. La información fue publicada el 5 de noviembre. 
-
-L’Eco di Bergamo también incluyó a un dominicano entre las personas trasladadas durante ese período. Las publicaciones no precisan a cuál de los centros fue enviado ni confirman que haya sido deportado.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794063083/noticias/articles/20261107_145122_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 07 Nov 2026 14:52:49 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261107145249</guid>
   </item>
 </channel>
 </rss>
