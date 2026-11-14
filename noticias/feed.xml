@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 14 Nov 2026 00:44:48 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 00:46:01 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Al menos 12 vuelos hacia Estados Unidos permanecen en espera en aeropuerto de Punta Cana]]></title>
+    <link>https://noticiassin.com/mundo/2026/11/13/12-vuelos-a-estados-unidos-en-espera-en-punta-cana-2169748/</link>
+    <description><![CDATA[Al menos 12 vuelos hacia Estados Unidos están en espera en el Aeropuerto Internacional de Punta Cana debido a restricciones aéreas. Las aerolíneas afectadas incluyen American Airlines, Southwest Airlines, JetBlue, Delta Air Lines y United Airlines.
+
+Se cancelaron los vuelos AA2471 hacia Filadelfia y LA592 hacia Miami. La FAA suspendió los despegues por problemas en los sistemas de comunicación del control de tráfico aéreo. Se aconseja a los pasajeros verificar el estado de sus vuelos con las aerolíneas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794617105/noticias/articles/20261114_004505_article.webp" type="image/webp"/>
+    <pubDate>Sat, 14 Nov 2026 00:46:01 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261114004601</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Leonel Fernández logra aterrizar en Washington tras restricciones aéreas en EE. UU.]]></title>
     <link>https://deultimominuto.com/nacionales/leonel-fernandez-logra-aterrizar-en-washington-tras-restricciones-aereas-en-ee-uu/</link>
     <description><![CDATA[Leonel Fernández, expresidente dominicano, logró aterrizar en Washington tras enfrentar dificultades por restricciones en el sistema de control aéreo de EE. UU. La aeronave intentó aterrizar en Filadelfia, el área de Washington y Newark, pero inicialmente no pudo hacerlo.
@@ -1393,17 +1404,6 @@ Febles presentó dolor de cabeza y molestias en el costado derecho, mientras que
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794067260/noticias/articles/20261107_160100_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 07 Nov 2026 16:01:36 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261107160136</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[PRM rechaza anteproyecto de regularización de documentos de una de sus diputadas]]></title>
-    <link>https://elnuevodiario.com.do/prm-rechaza-anteproyecto-de-regularizacion-de-documentos-de-una-de-sus-diputadas/</link>
-    <description><![CDATA[La Dirección Ejecutiva del PRM ha rechazado el anteproyecto de ley de regularización de documentos presentado por la diputada Maribel Almánzar de Ogando. Según Deligne Ascención, la Junta Central Electoral es la entidad que debe manejar estos procesos.
-
-Eddy Olivares y Roberto Fulcar también se sumaron al rechazo, señalando que el anteproyecto no fue conocido por el partido ni por el Bloque. Fulcar destacó que no es sensato abordar este tema en el contexto actual del país.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794065128/noticias/articles/20261107_152523_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 07 Nov 2026 15:26:30 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261107152630</guid>
   </item>
 </channel>
 </rss>
