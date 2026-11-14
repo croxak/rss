@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 14 Nov 2026 14:27:16 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 15:13:23 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Indomet prevé aguaceros y tronadas esta tarde en varias localidades del país]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/11/14/indomet-preve-aguaceros-y-tronadas-en-varias-provincias-2169910/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) ha emitido un pronóstico de aguaceros y tormentas eléctricas para esta tarde en varias provincias del país. La aproximación de un sistema frontal a Cuba y el transporte de humedad por el viento del este/sureste son los responsables de estas condiciones.
+
+Las provincias afectadas incluyen Pedernales, Barahona, Azua, San José de Ocoa, Peravia, San Cristóbal, San Pedro, Monte Plata, Dajabón, Santiago Rodríguez, Puerto Plata y el Gran Santo Domingo. Se han emitido alertas meteorológicas por posibles inundaciones urbanas.
+
+Las temperaturas serán calurosas durante el día, con un descenso gradual en la noche. Se recomienda a la población tomar precauciones ante el calor y las condiciones marítimas adversas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794669171/noticias/articles/20261114_151251_article.webp" type="image/webp"/>
+    <pubDate>Sat, 14 Nov 2026 15:13:23 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261114151323</guid>
+  </item>
+
+  <item>
     <title><![CDATA[DNCD arresta a dos israelíes con 16 paquetes de presunta cocaína en aeropuerto de Punta Cana]]></title>
     <link>https://rnn.com.do/dncd-arresta-a-dos-israelies-con-16-paquetes-de-presunta-cocaina-en-aeropuerto-de-punta-cana/</link>
     <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD) y el Ministerio Público arrestaron a dos ciudadanos israelíes en el Aeropuerto Internacional de Punta Cana. Los individuos, de 38 años, llevaban 16 paquetes de presunta cocaína en sus maletas mientras intentaban abordar un vuelo a Frankfurt, Alemania.
@@ -1393,19 +1406,6 @@ Netanyahu, quien ha estado en el poder de forma intermitente durante casi dos d�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794158263/noticias/articles/20261108_171743_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 08 Nov 2026 17:18:19 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261108171819</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Autos de lujo, avionetas, un yate y documentos, las incautaciones en caso Ueno en Paraguay]]></title>
-    <link>https://eldia.com.do/autos-de-lujo-avionetas-un-yate-y-documentos-las-incautaciones-en-caso-ueno-en-paraguay/</link>
-    <description><![CDATA[En Paraguay, la investigación por el cierre de Ueno bank ha llevado a la incautación de avionetas, vehículos de lujo, un yate y documentos. El escándalo resultó en la destitución del expresidente Santiago Peña y del extitular del Banco Central Carlos Carvallo.
-
-Se decomisaron 9 vehículos de alta gama, un yate Azimut y dos aeronaves. Los allanamientos se extendieron a empresas vinculadas al Grupo Vázquez, propietario de Ueno bank.
-
-El Banco Central del Paraguay ordenó el embargo de bienes debido a problemas de solvencia del banco. Varios directivos, incluido Miguel Vázquez, han sido detenidos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794148723/noticias/articles/20261108_143842_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 08 Nov 2026 14:39:21 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261108143921</guid>
   </item>
 </channel>
 </rss>
