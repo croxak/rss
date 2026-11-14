@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 14 Nov 2026 05:52:04 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 13:49:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Encuentran muerto en Madrid al abogado que defendió a 'El Pollo' Carvajal, exjefe de inteligencia chavista]]></title>
+    <link>https://www.antena3.com/noticias/sociedad/encuentran-muerto-madrid-abogado-que-defendio-pollo-carvajal-exjefe-inteligencia-chavista_202611146af8520f03bbf30bb04c2b1b.html</link>
+    <description><![CDATA[Nielson de Souza Vilela, abogado de 40 años, fue hallado muerto en su casa de Madrid. El cuerpo fue encontrado en el trastero del edificio donde residía, en la Gran Vía de Madrid. Las causas de la muerte aún no se han hecho públicas, pero fuentes policiales indican un posible suicidio.
+
+De Souza Vilela defendió a Hugo Armando Carvajal Barrios, conocido como 'el Pollo Carvajal', exjefe de inteligencia chavista. Carvajal enfrenta una condena en Estados Unidos y colabora con las autoridades estadounidenses proporcionando información sobre las redes internacionales del chavismo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794664108/noticias/articles/20261114_134828_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 14 Nov 2026 13:49:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261114134909</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El Gobierno de Trump atribuye el caos aéreo en EE.UU. a un sistema obsoleto]]></title>
     <link>https://elnuevodiario.com.do/el-gobierno-de-trump-atribuye-el-caos-aereo-en-ee-uu-a-un-sistema-obsoleto/</link>
     <description><![CDATA[El Gobierno de Donald Trump ha señalado que el caos aéreo en EE.UU. se debe a sistemas de comunicaciones obsoletos, lo que llevó a suspender despegues durante cuatro horas y causó miles de cancelaciones y retrasos. La Casa Blanca ha solicitado al Congreso 30.100 millones de dólares para modernizar la infraestructura aérea.
@@ -1393,19 +1404,6 @@ Rojas fue trasladado a un centro de salud, donde falleció. Tenía una orden de 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794148242/noticias/articles/20261108_143041_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 08 Nov 2026 14:31:15 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261108143115</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[SNS advierte que los cobros por copago en hospitales públicos no están autorizados]]></title>
-    <link>https://noticiassin.com/salud/2026/11/08/sns-advierte-cobros-por-copago-en-hospitales-publicos-2166050/</link>
-    <description><![CDATA[El Servicio Nacional de Salud (SNS) ha reiterado que los hospitales de la Red Pública no deben cobrar copagos a los pacientes. Cualquier cobro bajo este concepto no está autorizado por la Dirección Ejecutiva del SNS.
-
-La institución exhorta a los pacientes a denunciar estas irregularidades para que sean investigadas. Además, el SNS destaca el ahorro económico y la calidad de los servicios que ofrecen los hospitales públicos.
-
-El SNS informa que 111 hospitales de la Red Pública mantienen deuda cero y estabilidad financiera, lo que contribuye al buen funcionamiento de los servicios de salud.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794148148/noticias/articles/20261108_142907_article.webp" type="image/webp"/>
-    <pubDate>Sun, 08 Nov 2026 14:29:44 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261108142944</guid>
   </item>
 </channel>
 </rss>
