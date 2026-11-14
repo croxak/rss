@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 14 Nov 2026 14:14:19 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 14:21:21 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Hombre muere tras presunto enfrentamiento con agentes del Dicrim en La Vega]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/11/14/muere-el-grenu-tras-enfrentar-a-patrulla-dicrim-en-la-vega-2169926/</link>
+    <description><![CDATA[En la comunidad de Las Maras, provincia La Vega, un hombre murió tras un presunto enfrentamiento con agentes del Dicrim. El fallecido, Juan Manuel Pilarte, alias El Greñú, de 29 años, estaba vinculado a una banda delictiva.
+
+Durante el operativo, las autoridades incautaron un revólver Smith & Wesson calibre .38, una motocicleta y dos aros de vehículo. El cuerpo fue enviado al Inacif y las evidencias al Ministerio Público.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794666003/noticias/articles/20261114_142003_article.webp" type="image/webp"/>
+    <pubDate>Sat, 14 Nov 2026 14:21:21 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261114142121</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Arrestan al acusado de matar a una dominicana en un salón de belleza de Filadelfia]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261114141419</link>
     <description><![CDATA[La Policía de Filadelfia arrestó el 6 de noviembre a Jamal Pistoria, de 33 años, acusado de matar a la dominicana Bellaniris Hernández Camilo en un salón de belleza de esa ciudad. Los agentes lo detuvieron de madrugada a bordo de un autobús, después de que una persona lo reconociera y llamara al 911.
@@ -1395,15 +1406,6 @@ El puesto de portavoz de la Casa Blanca está vacante desde la dimisión de Kati
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794148606/noticias/articles/20261108_143646_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 08 Nov 2026 14:37:29 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261108143729</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Sismo de magnitud 4.6 sacude aguas del Atlántico, al noreste de Miches]]></title>
-    <link>https://elnuevodiario.com.do/sismo-de-magnitud-4-6-sacude-aguas-del-atlantico-al-noreste-de-miches/</link>
-    <description><![CDATA[Un sismo de magnitud 4.6 sacudió las aguas del Atlántico al noreste de Miches, provincia El Seibo, en la madrugada de este domingo. El evento ocurrió a las 2:30 a.m., a una profundidad de 15.8 kilómetros, según el Centro Nacional de Sismología de la UASD.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794148509/noticias/articles/20261108_143508_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 08 Nov 2026 14:35:25 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261108143525</guid>
   </item>
 </channel>
 </rss>
