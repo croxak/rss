@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 14 Nov 2026 15:13:23 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 17:21:27 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Imponen garantía de RD$1 millón al acusado de planear atentado contra Abinader]]></title>
+    <link>https://elnacional.com.do/nacionales/judicial/imponen-garantia-de-rd1-millon-al-acusado-de-planear-atentado-contra-abinader_586172.html</link>
+    <description><![CDATA[La Oficina Judicial de Servicios de Atención Permanente del distrito judicial de Duarte ha impuesto medidas de coerción contra Delvinson De La Cruz Sosa, acusado de planear un atentado contra el presidente Luis Abinader. El juez Wilton Oniel Peguero dictó una garantía económica de RD$1 millón, presentación periódica cada 15 días y prohibición de salida de San Francisco de Macorís.
+
+De La Cruz Sosa fue arrestado tras un allanamiento en su residencia y la Ferretería Molina, donde trabaja. Las autoridades buscan equipos electrónicos y sustancias químicas como parte de la investigación.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794676853/noticias/articles/20261114_172053_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 14 Nov 2026 17:21:27 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261114172127</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Indomet prevé aguaceros y tronadas esta tarde en varias localidades del país]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/11/14/indomet-preve-aguaceros-y-tronadas-en-varias-provincias-2169910/</link>
     <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) ha emitido un pronóstico de aguaceros y tormentas eléctricas para esta tarde en varias provincias del país. La aproximación de un sistema frontal a Cuba y el transporte de humedad por el viento del este/sureste son los responsables de estas condiciones.
@@ -1395,17 +1406,6 @@ Expuso en museos y galerías de Santo Domingo, Madrid, Barcelona, Nueva York, Mi
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794173182/noticias/articles/20261108_212622_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 08 Nov 2026 21:26:56 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261108212656</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Designan al líder opositor de Israel para formar nuevo gobierno]]></title>
-    <link>https://amp.dw.com/es/designan-al-líder-opositor-de-israel-para-formar-nuevo-gobierno/a-79888564</link>
-    <description><![CDATA[Gadi Eisenkot, líder opositor en Israel, ha sido designado por el presidente Isaac Herzog para formar un nuevo gobierno tras las elecciones del 27 de octubre. Eisenkot busca un "gobierno nacional de emergencia" y cuenta con el respaldo de partidos árabes y la posibilidad de una alianza con los ultraortodoxos judíos.
-
-Netanyahu, quien ha estado en el poder de forma intermitente durante casi dos décadas, podría enfrentar penas de cárcel por casos de corrupción si es desbancado. Eisenkot tiene 28 días para reunir los 61 votos necesarios para gobernar.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794158263/noticias/articles/20261108_171743_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 08 Nov 2026 17:18:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261108171819</guid>
   </item>
 </channel>
 </rss>
