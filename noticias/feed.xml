@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 14 Nov 2026 02:28:23 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 05:52:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[El Gobierno de Trump atribuye el caos aéreo en EE.UU. a un sistema obsoleto]]></title>
+    <link>https://elnuevodiario.com.do/el-gobierno-de-trump-atribuye-el-caos-aereo-en-ee-uu-a-un-sistema-obsoleto/</link>
+    <description><![CDATA[El Gobierno de Donald Trump ha señalado que el caos aéreo en EE.UU. se debe a sistemas de comunicaciones obsoletos, lo que llevó a suspender despegues durante cuatro horas y causó miles de cancelaciones y retrasos. La Casa Blanca ha solicitado al Congreso 30.100 millones de dólares para modernizar la infraestructura aérea.
+
+El secretario de Transporte, Sean Duffy, advirtió que los equipos actuales seguirán fallando si no se renuevan. Más de 6.600 vuelos fueron cancelados y las alteraciones continuarán durante el fin de semana. No hay indicios de un ciberataque, pero la investigación sigue abierta.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794635469/noticias/articles/20261114_055104_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 14 Nov 2026 05:52:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261114055204</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Desistimiento de Samuel Pereyra estaría vinculado a acuerdo mutuo y confidencial con Carlos Rubio]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261114022823</link>
     <description><![CDATA[El desistimiento de la demanda civil presentada por Samuel Pereyra contra Carlos Enrique Rubio Sr. ante un tribunal de Miami, Florida, estaría relacionado con un acuerdo mutuo y confidencial alcanzado entre ambas partes, según informó a El Testigo una fuente de entero crédito vinculada al proceso.
@@ -1395,19 +1406,6 @@ El SNS informa que 111 hospitales de la Red Pública mantienen deuda cero y esta
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794148148/noticias/articles/20261108_142907_article.webp" type="image/webp"/>
     <pubDate>Sun, 08 Nov 2026 14:29:44 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261108142944</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Donald Trump ofrece al jefe de la UFC, Dana White, ser portavoz de la Casa Blanca]]></title>
-    <link>https://www.infobae.com/estados-unidos/2026/11/07/donald-trump-ofrece-al-jefe-de-la-ufc-dana-white-ser-portavoz-de-la-casa-blanca/?outputType=amp-type</link>
-    <description><![CDATA[Donald Trump ha ofrecido a Dana White, jefe de la UFC, el cargo de secretario de Prensa de la Casa Blanca. Trump anunció la oferta en Truth Social, destacando la relación de amistad que mantiene con White.
-
-La relación entre ambos se remonta a 2001, cuando Trump permitió un evento de la UFC en el Trump Taj Mahal. White ha apoyado a Trump en su carrera política, incluyendo donaciones y apariciones en eventos.
-
-El puesto de secretario de Prensa está vacante desde la salida de Katie Zacharia el 16 de octubre, quien dejó el cargo tras recibir críticas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794100294/noticias/articles/20261108_011134_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 08 Nov 2026 01:12:17 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261108011217</guid>
   </item>
 </channel>
 </rss>
