@@ -7,14 +7,23 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 14 Nov 2026 01:19:31 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 14 Nov 2026 02:13:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[EE. UU. reanuda los despegues de vuelos dentro de su territorio tras horas de interrupción]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/11/13/eeuu-reanuda-los-despegues-de-vuelos-dentro-de-su-territorio/3720370</link>
+    <description><![CDATA[La Administración Federal de Aviación de Estados Unidos (FAA) ha levantado la suspensión nacional de despegues que había detenido las operaciones aéreas en los aeropuertos del país. La paralización se debió a una interrupción en las comunicaciones, según informó el organismo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794622376/noticias/articles/20261114_021255_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 14 Nov 2026 02:13:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261114021340</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Avión con destino a Alemania regresa a La Romana tras pasar horas volando en círculos]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261114011931</link>
     <description><![CDATA[Un avión comercial de la aerolínea alemana Condor regresó la noche de este viernes 13 de noviembre al Aeropuerto Internacional de La Romana, luego de permanecer durante más de dos horas realizando repetidos circuitos sobre el este de República Dominicana, sin completar su viaje hacia Alemania.
@@ -1389,33 +1398,6 @@ El ITLA se encuentra en la fase de investigación y análisis, siguiendo los pro
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794079911/noticias/articles/20261107_193150_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 07 Nov 2026 19:32:31 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261107193231</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[FT revela que inteligencia de EE. UU. cree que CEO de Nvidia mantuvo relación sentimental con presunta espía china]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261107161206</link>
-    <description><![CDATA[La inteligencia estadounidense considera que Jensen Huang, director ejecutivo de Nvidia, habría mantenido una relación sentimental con una empresaria china presuntamente reclutada por los servicios de espionaje de Pekín, según una investigación publicada este sábado por el diario británico Financial Times (FT).
-
-De acuerdo con el periódico, funcionarios estadounidenses elaboraron un memorando basado en información de inteligencia que señalaba una supuesta relación romántica entre Huang y Alice Huang, ejecutiva de Megaspeed, empresa tecnológica con sede en Singapur y cliente de Nvidia.
-
-Según las fuentes consultadas por FT, los servicios de inteligencia estadounidenses consideran que Alice Huang habría sido reclutada por el Ministerio de Seguridad del Estado de China para realizar actividades de espionaje.
-
-El documento fue compartido con un reducido grupo de altos funcionarios estadounidenses poco antes de que el presidente Donald Trump viajara a Pekín, en mayo, para reunirse con su homólogo chino, Xi Jinping.
-
-La revelación se produce en medio de investigaciones sobre Megaspeed, empresa señalada por presuntamente facilitar el contrabando de chips avanzados de Nvidia hacia China, en posible violación de las restricciones estadounidenses de exportación.
-
-Sin embargo, Nvidia realizó una investigación interna sobre esas sospechas y aseguró no haber encontrado pruebas de irregularidades.
-
-Consultada por FT, Nvidia evitó pronunciarse sobre el memorando y las afirmaciones relativas a una posible relación íntima de su director ejecutivo. La compañía ha señalado anteriormente que Huang mantiene contacto con miles de ejecutivos de empresas clientes como parte de sus responsabilidades profesionales.
-
-La Casa Blanca y la CIA también declinaron comentar las revelaciones, mientras que el periódico no logró obtener declaraciones de Alice Huang.
-
-El caso ha despertado preocupación en el Congreso estadounidense. Legisladores republicanos solicitaron que Huang comparezca a puerta cerrada ante varios comités de la Cámara de Representantes para responder preguntas sobre sus contactos con la empresaria y los mecanismos de seguridad de Nvidia.
-
-Hasta el momento, las afirmaciones sobre la presunta relación sentimental y las actividades de espionaje no han sido demostradas públicamente.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794067841/noticias/articles/20261107_161040_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 07 Nov 2026 16:12:06 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261107161206</guid>
   </item>
 </channel>
 </rss>
