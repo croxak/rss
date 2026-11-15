@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 15 Nov 2026 17:48:49 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 17:51:18 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Agente de CBP de origen dominicano mata a su pareja y luego es hallado muerto en apartamento de El Bronx]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/11/10/agente-del-cbp-dominicano-y-pareja-hallados-muertos-en-el-bronx/3716493</link>
+    <description><![CDATA[Un agente de la Oficina de Aduanas y Protección Fronteriza de Estados Unidos, de origen dominicano, fue hallado muerto junto a su pareja en un apartamento de Riverdale, El Bronx. El Departamento de Policía de Nueva York identificó al hombre como Juan Cornelio Díaz, de 38 años, y a la mujer como Andrea Cantarini, de 37. Ambos presentaban heridas de bala en la cabeza.
+
+El incidente es investigado como un presunto homicidio seguido de suicidio. El padre de Cantarini llamó al 911 tras escuchar a su hija gritar y lo que parecían ser disparos. Durante la llamada, Díaz habría dicho: "Se acabó para ella".
+
+Cantarini trabajaba como enfermera registrada en el sistema de salud St. Barnabas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794765036/noticias/articles/20261115_175036_article.png" type="image/png"/>
+    <pubDate>Sun, 15 Nov 2026 17:51:18 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261115175118</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Reportan arresto en Mallorca de dominicano condenado por abusos sexuales contra un menor]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261115174849</link>
     <description><![CDATA[La Policía Nacional española detuvo el 8 de noviembre a un ciudadano dominicano de 52 años que era buscado para cumplir una condena por abusos sexuales contra un menor en Fuerteventura, según informó el diario mallorquín Última Hora el 13 de noviembre, citando fuentes judiciales.
@@ -1403,19 +1416,6 @@ La intervención estuvo a cargo de la unidad de Operaciones Aéreas y Marítimas
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794236597/noticias/articles/20261109_150316_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 09 Nov 2026 15:03:56 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261109150356</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Rubio dice que el diálogo de EEUU-Irán "no ha sido productivo" por demandas "inaceptables"]]></title>
-    <link>https://elnuevodiario.com.do/rubio-dice-que-el-dialogo-de-eeuu-iran-no-ha-sido-productivo-por-demandas-inaceptables/</link>
-    <description><![CDATA[El secretario de Estado de EE.UU., Marco Rubio, declaró que las negociaciones con Irán no han sido productivas debido a las demandas inaceptables de la República Islámica. Rubio calificó estas exigencias como aberrantes y poco realistas.
-
-El presidente Donald Trump expresó su preferencia por resolver los problemas diplomáticamente, aunque reconoció que a veces no es posible. Rubio defendió las decisiones de Trump, mientras que el vicepresidente JD Vance señaló que la guerra fue la causa de la derrota republicana en las elecciones de mitad de mandato.
-
-La guerra, que comenzó en febrero, se encuentra en un punto muerto, sin grandes operaciones militares ni avances en las negociaciones de paz.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794190679/noticias/articles/20261109_021756_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 09 Nov 2026 02:23:52 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261109022352</guid>
   </item>
 </channel>
 </rss>
