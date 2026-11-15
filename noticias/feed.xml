@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 15 Nov 2026 18:01:01 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 18:02:58 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Matan a tiros a joven de 25 años durante presunto intento de atraco en SFM]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/11/15/joven-muere-a-tiros-en-presunto-atraco-en-sfm-2170351/</link>
+    <description><![CDATA[Jonathan Mejía Galán, de 25 años, fue asesinado a tiros en San Francisco de Macorís durante un presunto intento de atraco en el sector Las Colinas. 
+
+Informaciones preliminares indican que una persona no identificada lo interceptó y le disparó al intentar despojarlo de sus pertenencias. 
+
+El hecho ha generado preocupación en la comunidad, mientras se espera que las autoridades brinden más detalles sobre el caso.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794765671/noticias/articles/20261115_180111_article.webp" type="image/webp"/>
+    <pubDate>Sun, 15 Nov 2026 18:02:58 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261115180258</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Aplazan para el martes coerción contra hombre acusado de manosear a una bebé]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/11/15/aplazan-coercion-contra-hombre-acusado-de-manosear-bebe-2170381/</link>
     <description><![CDATA[La audiencia de medida de coerción contra Giancarlo Miguel Tejeda Guzman, acusado de manosear a una bebé de 11 meses, fue aplazada para el próximo martes. La defensa solicitó más tiempo para presentar documentos de arraigo y preparar sus presupuestos.
@@ -1403,19 +1416,6 @@ Esta acción es parte de la ofensiva de las autoridades haitianas para recuperar
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794251696/noticias/articles/20261109_191455_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 09 Nov 2026 19:15:36 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261109191536</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[ITLA asegura que no hay evidencias de extracción de datos de sus sistemas]]></title>
-    <link>https://www.diariolibre.com/actualidad/sucesos/2026/11/09/centro-nacional-de-ciberseguridad-colabora-con-itla-en-auditorias/3715350</link>
-    <description><![CDATA[El Instituto Tecnológico de Las Américas (ITLA) ha comunicado que no hay evidencias de extracción de datos de sus sistemas, tras investigaciones realizadas junto al Centro Nacional de Ciberseguridad (CNCS).
-
-Las evaluaciones incluyeron auditorías y análisis del tráfico de red, sin que se detectaran transferencias de información sospechosas. El ITLA activó sus protocolos de respuesta y mantiene sus mecanismos de monitoreo y protección.
-
-Cualquier novedad será comunicada oportunamente a través de sus canales oficiales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794237149/noticias/articles/20261109_151229_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 09 Nov 2026 15:13:09 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261109151309</guid>
   </item>
 </channel>
 </rss>
