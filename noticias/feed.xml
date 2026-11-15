@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 15 Nov 2026 18:04:42 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 18:06:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Carolina y Gonzalo comparten con embajadora de EE. UU. en conmemoración de 250 años de independencia]]></title>
+    <link>https://elnuevodiario.com.do/carolina-y-gonzalo-comparten-con-embajadora-de-ee-uu-en-conmemoracion-de-250-anos-de-independencia/</link>
+    <description><![CDATA[Carolina Mejía, alcaldesa del Distrito Nacional y aspirante presidencial por el PRM, y Gonzalo Castillo, exministro de Obras Públicas y aspirante presidencial por el PLD, participaron en el concierto «Libertad 250» en Santo Domingo.
+
+El evento, organizado por la Embajada de Estados Unidos, conmemoró el 250 aniversario de la independencia estadounidense. Mejía asistió por invitación de la embajadora Leah Francis Campos.
+
+La celebración busca resaltar los valores de libertad y democracia, así como los vínculos históricos entre Estados Unidos y República Dominicana.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794765896/noticias/articles/20261115_180455_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 15 Nov 2026 18:06:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261115180631</guid>
+  </item>
+
+  <item>
     <title><![CDATA[DGII reacciona tras denuncia de Carlos Durán; asegura facturación electrónica opera con normalidad]]></title>
     <link>https://elnuevodiario.com.do/dgii-reacciona-tras-denuncia-de-carlos-duran-asegura-facturacion-electronica-opera-con-normalidad/</link>
     <description><![CDATA[La Dirección General de Impuestos Internos (DGII) ha asegurado que sus sistemas de facturación electrónica funcionan sin problemas, en respuesta a las denuncias del empresario Carlos Durán sobre retrasos en su negocio.
@@ -1403,17 +1416,6 @@ Las autoridades están investigando las circunstancias del suceso y se espera qu
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794264116/noticias/articles/20261109_224156_article.webp" type="image/webp"/>
     <pubDate>Mon, 09 Nov 2026 22:42:36 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261109224236</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Subsecretario de Estado de EEUU felicita a RD por clausura de fábrica ilegal de cartón]]></title>
-    <link>https://noticiassin.com/estados-unidos/2026/11/09/eeuu-felicita-a-rd-por-clausura-de-fabrica-ilegal-de-carton-2166621/</link>
-    <description><![CDATA[El subsecretario de Estado de Estados Unidos para Asuntos del Hemisferio Occidental, Juan Pablo Segura, felicitó a República Dominicana por cerrar una fábrica ilegal de cartón en Santo Domingo.
-
-La fábrica, presuntamente administrada por ciudadanos chinos, operaba sin permisos y con un depósito de combustible ilícito. Segura resaltó la importancia de la transparencia y el respeto al Estado de derecho, cuestionando la contratación irregular de trabajadores extranjeros.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794263632/noticias/articles/20261109_223352_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 09 Nov 2026 22:35:00 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261109223500</guid>
   </item>
 </channel>
 </rss>
