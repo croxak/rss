@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 15 Nov 2026 17:47:16 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 17:48:49 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Reportan arresto en Mallorca de dominicano condenado por abusos sexuales contra un menor]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261115174849</link>
+    <description><![CDATA[La Policía Nacional española detuvo el 8 de noviembre a un ciudadano dominicano de 52 años que era buscado para cumplir una condena por abusos sexuales contra un menor en Fuerteventura, según informó el diario mallorquín Última Hora el 13 de noviembre, citando fuentes judiciales.
+
+De acuerdo con el periódico, un juzgado de Puerto del Rosario lo condenó en 2024. El hombre debía ingresar en prisión en junio de 2025, pero se trasladó a Mallorca. Una patrulla lo localizó más de un año después en las inmediaciones del Estadi Balear, en Palma.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794764888/noticias/articles/20261115_174807_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 15 Nov 2026 17:48:49 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261115174849</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Defensa de Emmanuel Clase cuestiona que mensajes sobre gallos fueran claves para apostar]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261115174716</link>
     <description><![CDATA[La defensa del lanzador dominicano Emmanuel Clase cuestionó el 13 de noviembre la interpretación de unos mensajes presentados ante el jurado en el juicio federal por presunta manipulación de lanzamientos en las Grandes Ligas. La Fiscalía sostiene que ciertas referencias a «gallos» y «pollos» eran claves para avisar a los apostadores cómo lanzaría Clase. Su defensa argumenta que las conversaciones eran sobre peleas de gallos.
@@ -1405,17 +1416,6 @@ La guerra, que comenzó en febrero, se encuentra en un punto muerto, sin grandes
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794190679/noticias/articles/20261109_021756_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 09 Nov 2026 02:23:52 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261109022352</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Trump admite que su política de deportaciones fue "demasiado dura"]]></title>
-    <link>https://www.dw.com/es/trump-admite-que-su-política-de-deportaciones-fue-demasiado-dura/a-79894805</link>
-    <description><![CDATA[Donald Trump admitió que su política de deportación masiva fue "demasiado dura". Esto ocurre después de que los demócratas ganaran las mayorías en la Cámara de Representantes y el Senado en las elecciones de medio mandato.
-
-A pesar de sus declaraciones, Trump nombró a Stephen Miller, conocido por su postura antiinmigrante, como nuevo jefe de su gabinete. Además, el secretario de Seguridad Nacional, Markwayne Mullin, aseguró que las deportaciones continuarán.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794190531/noticias/articles/20261109_021530_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 09 Nov 2026 02:16:13 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261109021613</guid>
   </item>
 </channel>
 </rss>
