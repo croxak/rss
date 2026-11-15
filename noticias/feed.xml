@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 15 Nov 2026 17:44:32 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 17:47:16 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Defensa de Emmanuel Clase cuestiona que mensajes sobre gallos fueran claves para apostar]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261115174716</link>
+    <description><![CDATA[La defensa del lanzador dominicano Emmanuel Clase cuestionó el 13 de noviembre la interpretación de unos mensajes presentados ante el jurado en el juicio federal por presunta manipulación de lanzamientos en las Grandes Ligas. La Fiscalía sostiene que ciertas referencias a «gallos» y «pollos» eran claves para avisar a los apostadores cómo lanzaría Clase. Su defensa argumenta que las conversaciones eran sobre peleas de gallos.
+
+Durante el interrogatorio a una agente del FBI, la defensa puso en duda que los mensajes pudieran interpretarse sin conocer el contexto completo de los intercambios. La Fiscalía, por su parte, presentó conversaciones y registros de apuestas sobre lanzamientos específicos para respaldar su teoría.
+
+Clase y el también lanzador dominicano Luis Ortiz enfrentan cargos federales de conspiración relacionados con fraude electrónico, soborno en competencias deportivas y lavado de activos. Ambos se declararon no culpables. El juicio continúa en Brooklyn.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794764750/noticias/articles/20261115_174550_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 15 Nov 2026 17:47:16 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261115174716</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Arrestan a “El Chavo”, buscado por tentativa de homicidio y otros delitos en Los Guaricanos]]></title>
     <link>https://elnuevodiario.com.do/arrestan-a-el-chavo-buscado-por-tentativa-de-homicidio-y-otros-delitos-en-los-guaricanos/</link>
     <description><![CDATA[Agentes de la Dirección Central de Investigación (DICRIM) detuvieron a Junior José Santiago Restituyo, conocido como “El Chavo”, en Santo Domingo Norte. Era buscado por su presunta participación en una tentativa de homicidio contra Jonas Antonio Mejía en Los Guaricanos.
@@ -1403,17 +1416,6 @@ A pesar de sus declaraciones, Trump nombró a Stephen Miller, conocido por su po
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794190531/noticias/articles/20261109_021530_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 09 Nov 2026 02:16:13 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261109021613</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Jensen Huang admite una infidelidad; la junta directiva de NVIDIA inicia una investigación independiente]]></title>
-    <link>https://news.jkn.co.kr/editions/spanish/post/1079287</link>
-    <description><![CDATA[Jensen Huang, CEO de Nvidia, ha admitido una relación extramarital y se ha disculpado con sus empleados. La junta directiva ha iniciado una investigación independiente para evaluar posibles riesgos a la seguridad nacional y la filtración de secretos comerciales.
-
-Un comité de directores independientes supervisará la investigación con la ayuda de asesores legales externos. Huang ha aceptado colaborar con el proceso y continuará en su cargo durante la investigación. Hasta ahora, no hay indicios de que la seguridad nacional o la información confidencial de Nvidia se hayan visto comprometidas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794178429/noticias/articles/20261108_225349_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 08 Nov 2026 22:54:24 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261108225424</guid>
   </item>
 </channel>
 </rss>
