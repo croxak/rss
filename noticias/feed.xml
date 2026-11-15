@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 15 Nov 2026 18:06:31 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 18:15:44 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Al menos 10 personas asesinadas en una matanza en el departamento haitiano de Artibonito]]></title>
+    <link>https://www.swissinfo.ch/spa/al-menos-10-personas-asesinadas-en-una-matanza-en-el-departamento-haitiano-de-artibonito/92385046</link>
+    <description><![CDATA[Al menos diez personas fueron asesinadas en un ataque de una banda armada en el departamento haitiano de Artibonito. La matanza ocurrió en la aldea de Morne-Robert, en la comuna de Saint-Marc, y fue atribuida a la banda Gran Grif.
+
+Las víctimas eran agricultores del municipio de Verrettes que se dirigían al mercado de Pont-Sondé. Algunos medios elevan a trece el número de víctimas, cifra no confirmada oficialmente.
+
+La banda Gran Grif es responsable del 80 % de las muertes de civiles en Artibonito entre 2022 y julio de 2025.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794766482/noticias/articles/20261115_181442_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 15 Nov 2026 18:15:44 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261115181544</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Carolina y Gonzalo comparten con embajadora de EE. UU. en conmemoración de 250 años de independencia]]></title>
     <link>https://elnuevodiario.com.do/carolina-y-gonzalo-comparten-con-embajadora-de-ee-uu-en-conmemoracion-de-250-anos-de-independencia/</link>
     <description><![CDATA[Carolina Mejía, alcaldesa del Distrito Nacional y aspirante presidencial por el PRM, y Gonzalo Castillo, exministro de Obras Públicas y aspirante presidencial por el PLD, participaron en el concierto «Libertad 250» en Santo Domingo.
@@ -1405,17 +1418,6 @@ La neuropatía óptica isquémica anterior no arterítica (NAION) es la afecció
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794264198/noticias/articles/20261109_224318_article.webp" type="image/webp"/>
     <pubDate>Mon, 09 Nov 2026 22:44:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261109224414</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Defensa Civil recupera cuerpo de adolescente desaparecido en playa de Samaná]]></title>
-    <link>https://noticiassin.com/pais/provincias/2026/11/09/defensa-civil-recupera-cuerpo-de-adolescente-en-samana-2166636/</link>
-    <description><![CDATA[La Defensa Civil ha recuperado el cuerpo de Esteban Germán Hernández, un adolescente de 14 años, en Playa El Valle, Samaná. El joven había sido reportado como desaparecido en las aguas de la playa, lo que movilizó a los equipos de rescate.
-
-Las autoridades están investigando las circunstancias del suceso y se espera que proporcionen más detalles próximamente.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794264116/noticias/articles/20261109_224156_article.webp" type="image/webp"/>
-    <pubDate>Mon, 09 Nov 2026 22:42:36 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261109224236</guid>
   </item>
 </channel>
 </rss>
