@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 15 Nov 2026 18:02:58 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 18:04:42 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[DGII reacciona tras denuncia de Carlos Durán; asegura facturación electrónica opera con normalidad]]></title>
+    <link>https://elnuevodiario.com.do/dgii-reacciona-tras-denuncia-de-carlos-duran-asegura-facturacion-electronica-opera-con-normalidad/</link>
+    <description><![CDATA[La Dirección General de Impuestos Internos (DGII) ha asegurado que sus sistemas de facturación electrónica funcionan sin problemas, en respuesta a las denuncias del empresario Carlos Durán sobre retrasos en su negocio.
+
+Durán expresó su inconformidad con el sistema, señalando que ha provocado largas filas y retrasos en la atención a los clientes. La DGII, por su parte, afirmó que no hay fallas en sus plataformas tecnológicas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794765818/noticias/articles/20261115_180333_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 15 Nov 2026 18:04:42 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261115180442</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Matan a tiros a joven de 25 años durante presunto intento de atraco en SFM]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/11/15/joven-muere-a-tiros-en-presunto-atraco-en-sfm-2170351/</link>
     <description><![CDATA[Jonathan Mejía Galán, de 25 años, fue asesinado a tiros en San Francisco de Macorís durante un presunto intento de atraco en el sector Las Colinas. 
@@ -1403,19 +1414,6 @@ La fábrica, presuntamente administrada por ciudadanos chinos, operaba sin permi
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794263632/noticias/articles/20261109_223352_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 09 Nov 2026 22:35:00 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261109223500</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía haitiana y tropas salvadoreñas destruyen vivienda vinculada a líder de 400 Mawozo]]></title>
-    <link>https://elnuevodiario.com.do/policia-haitiana-y-tropas-salvadorenas-destruyen-vivienda-vinculada-a-lider-de-400-mawozo/</link>
-    <description><![CDATA[Unidades especiales de la Policía Nacional de Haití y tropas salvadoreñas llevaron a cabo una operación conjunta que resultó en la destrucción de una vivienda vinculada a Wilson Joseph, líder de la banda 400 Mawozo. La incursión ocurrió en la madrugada del domingo y dejó varios hombres armados muertos.
-
-La propiedad, que contaba con piscinas interiores y exteriores, fue construida durante el último año. Joseph no se encontraba en el lugar al momento del ataque.
-
-Esta acción es parte de la ofensiva de las autoridades haitianas para recuperar el control de Puerto Príncipe, donde la coalición de bandas Viv Ansanm tiene una fuerte presencia.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794251696/noticias/articles/20261109_191455_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 09 Nov 2026 19:15:36 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261109191536</guid>
   </item>
 </channel>
 </rss>
