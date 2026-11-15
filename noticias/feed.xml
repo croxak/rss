@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 14 Nov 2026 20:02:49 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 15 Nov 2026 17:44:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Arrestan a “El Chavo”, buscado por tentativa de homicidio y otros delitos en Los Guaricanos]]></title>
+    <link>https://elnuevodiario.com.do/arrestan-a-el-chavo-buscado-por-tentativa-de-homicidio-y-otros-delitos-en-los-guaricanos/</link>
+    <description><![CDATA[Agentes de la Dirección Central de Investigación (DICRIM) detuvieron a Junior José Santiago Restituyo, conocido como “El Chavo”, en Santo Domingo Norte. Era buscado por su presunta participación en una tentativa de homicidio contra Jonas Antonio Mejía en Los Guaricanos.
+
+La Policía Nacional indicó que Santiago Restituyo aparece en un video difundido por el periodista Ramón Tolentino, donde se le observa accediendo a una estructura de dos niveles. Las circunstancias de este video están bajo investigación.
+
+Santiago Restituyo será puesto a disposición del Ministerio Público para los procedimientos legales correspondientes.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794723749/noticias/articles/20261115_062229_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 15 Nov 2026 17:44:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261115174432</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Viettel paga RD$972.5 millones al Indotel como primer desembolso por licencia para operar en RD, según El Día]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261114200249</link>
     <description><![CDATA[La empresa de capital vietnamita Viettel Dominicana SAS realizó un pago de RD$972,519,255 al Instituto Dominicano de las Telecomunicaciones (Indotel), correspondiente al primer desembolso por los derechos de su licencia para ingresar al mercado dominicano de telefonía e internet.
@@ -1401,17 +1414,6 @@ Un comité de directores independientes supervisará la investigación con la ay
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794178429/noticias/articles/20261108_225349_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 08 Nov 2026 22:54:24 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261108225424</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Aumentan las patrullas militares en la frontera dominico-haitiana]]></title>
-    <link>https://noticiassin.com/pais/provincias/2026/11/08/aumentan-patrullas-militares-en-frontera-dominico-haitiana-2166116/</link>
-    <description><![CDATA[Este domingo se ha observado un aumento en la presencia de patrullas militares en la frontera dominico-haitiana, especialmente en Dajabón, Elías Piña, Independencia y Pedernales. A pesar de esto, las actividades cotidianas continúan con normalidad.
-
-Las autoridades dominicanas no han dado a conocer el alcance ni los motivos del incremento en la vigilancia. Recientemente, el ministro de Defensa, Carlos Antonio Fernández Onofre, y el ministro de la Presidencia, José Ignacio Paliza, supervisaron los cruces fronterizos junto a los mandos militares.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794173280/noticias/articles/20261108_212759_article.webp" type="image/webp"/>
-    <pubDate>Sun, 08 Nov 2026 21:29:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261108212928</guid>
   </item>
 </channel>
 </rss>
