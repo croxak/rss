@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 16 Nov 2026 15:54:34 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 16:28:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[La Unión Europea sanciona a cuatro bandas haitianas por asesinatos, violencia sexual y ataques contra infraestructuras críticas]]></title>
+    <link>https://www.infobae.com/el-salvador/2026/11/16/la-union-europea-sanciona-a-cuatro-bandas-haitianas-por-asesinatos-violencia-sexual-y-ataques-contra-infraestructuras-criticas/</link>
+    <description><![CDATA[La Unión Europea ha impuesto sanciones a cuatro bandas haitianas, incluyendo a 400 Mawozo, por su participación en asesinatos, violencia sexual y ataques a infraestructuras críticas. Las sanciones implican la congelación de activos y la prohibición de ingreso a territorio comunitario.
+
+El despliegue militar salvadoreño en Haití se intensifica contra 400 Mawozo, con cerca de 2.500 soldados en el terreno. La operación ha incluido el uso de drones explosivos y helicópteros.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794846430/noticias/articles/20261116_162709_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 16 Nov 2026 16:28:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261116162800</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Robert Pattinson se convierte en el nuevo James Bond]]></title>
     <link>https://www.diariolibre.com/revista/cine/2026/11/16/robert-pattinson-es-el-nuevo-james-bond/3722075</link>
     <description><![CDATA[Robert Pattinson ha sido confirmado como el nuevo James Bond, sucediendo a Daniel Craig. El anuncio se hizo en las redes sociales oficiales de James Bond, donde se compartió una imagen de Pattinson con el clásico esmoquin del personaje. La productora destacó que su elección marcará una nueva etapa para el famoso agente secreto.
@@ -1407,19 +1418,6 @@ Santo Domingo tendría 35 diputados, y tanto el Distrito Nacional como Santiago 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794355822/noticias/articles/20261111_001009_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 11 Nov 2026 00:11:08 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261111001108</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[EE. UU. gestionó 12,000 millones de dólares del petróleo venezolano, dice The New York Times]]></title>
-    <link>https://elnuevodiario.com.do/ee-uu-gestiono-12000-millones-de-dolares-del-petroleo-venezolano-dice-the-new-york-times/</link>
-    <description><![CDATA[Estados Unidos gestionó más de 12,000 millones de dólares de las exportaciones de Venezuela, principalmente del petróleo, en los primeros nueve meses del año. Estos fondos fueron depositados en la ‘Cuenta de custodia de Venezuela’ del Tesoro de EE. UU. y luego desembolsados al país suramericano.
-
-De los 12,260 millones de dólares depositados, 11,700 millones fueron devueltos a Venezuela para apuntalar el bolívar mediante subastas de divisas. Además, EE. UU. pagó 130 millones de dólares en deudas externas del Gobierno venezolano.
-
-La cuenta tenía un saldo de 170 millones de dólares al cierre del informe y generó 12 millones en intereses. El Banco Central de Venezuela solicitó y recibió fondos tras cumplir con criterios de integridad financiera. El 61 % de los ingresos provenían de Trafigura y Vitol, con transacciones aprobadas por el Departamento de Estado y el Tesoro.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794346691/noticias/articles/20261110_213807_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 10 Nov 2026 21:39:02 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261110213902</guid>
   </item>
 </channel>
 </rss>
