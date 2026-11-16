@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 16 Nov 2026 20:53:52 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 23:06:04 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[United Airlines sufre una interrupción generalizada de sus sistemas, informa la aerolínea]]></title>
+    <link>https://cnnespanol.cnn.com/2026/11/16/eeuu/united-airlines-interrupcion-generalizada-sistemas-trax</link>
+    <description><![CDATA[United Airlines experimenta una interrupción en su sistema que afecta los vuelos de salida. La aerolínea está trabajando para solucionar el problema rápidamente.
+
+La FAA está al tanto del incidente y ha confirmado que no se trata de un problema con sus equipos. United Airlines asegura que no hay indicios de un ciberataque.
+
+Hasta las 5:30 p.m., hora de Miami, el 13% de los vuelos de United presentaba retrasos, aunque no todos están vinculados a la interrupción.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794870318/noticias/articles/20261116_230518_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 16 Nov 2026 23:06:04 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261116230604</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fuerzas salvadoreñas ocupan instalaciones de empresa eléctrica y una subcomisaría en Haití]]></title>
     <link>https://n.com.do/2026/11/16/fuerzas-salvadorenas-ocupan-instalaciones-de-empresa-electrica-y-una-subcomisaria-en-haiti/</link>
     <description><![CDATA[Las fuerzas militares salvadoreñas han ocupado las instalaciones de la Empresa de Electricidad de Haití y una subcomisaría en Puerto Príncipe. Esta acción es parte de sus operaciones para consolidar su presencia en la capital haitiana.
@@ -1405,21 +1418,6 @@ Según la resolución citada por ANSA, el juez consideró que la forma en que ac
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794402257/noticias/articles/20261111_130417_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 11 Nov 2026 13:05:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261111130503</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Reportan detención de dominicano en El Salvador con presunta alerta roja de INTERPOL por violación sexual]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261111011657</link>
-    <description><![CDATA[Un ciudadano dominicano identificado como Yohaniel Marrero fue detenido por las autoridades salvadoreñas tras una intervención policial en la que presuntamente se detectó una notificación roja de INTERPOL relacionada con el delito de violación sexual.
-
-De acuerdo con la información difundida sobre el procedimiento, Marrero fue identificado mediante el sistema policial ONI durante una intervención realizada en la intersección de la 2.ª Avenida Sur y la 1.ª Calle Poniente, en la ciudad de Santa Ana, al occidente de El Salvador.
-
-El reporte señala que, tras consultar sus datos en el sistema, los agentes detectaron un requerimiento internacional relacionado con un caso de violación sexual. Asimismo, establecieron que el ciudadano dominicano se encontraba en situación migratoria irregular dentro del territorio salvadoreño.
-
-Tras su identificación, Marrero quedó bajo custodia policial para continuar con los procedimientos legales y migratorios correspondientes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794359748/noticias/articles/20261111_011547_article.png" type="image/png"/>
-    <pubDate>Wed, 11 Nov 2026 01:16:57 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261111011657</guid>
   </item>
 </channel>
 </rss>
