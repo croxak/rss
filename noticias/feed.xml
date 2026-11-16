@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 16 Nov 2026 18:20:09 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 20:49:11 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Fallas en bancos de Estados Unidos impiden a miles de clientes acceder a sus cuentas]]></title>
+    <link>https://www.diariolibre.com/mundo/estados-unidos/2026/11/16/fallas-en-bancos-de-eeuu-impiden-acceso-a-cuentas/3722381</link>
+    <description><![CDATA[Miles de clientes de bancos en Estados Unidos reportaron problemas para acceder a sus cuentas en línea y realizar transacciones. Las instituciones afectadas incluyen JPMorgan Chase, Bank of America, Wells Fargo, U.S. Bank y Truist, así como la plataforma Zelle.
+
+JPMorgan Chase reconoció dificultades técnicas, asegurando que los fondos de los clientes están seguros y descartando un ataque informático. Aún no se ha establecido si las fallas tienen una causa común.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794862088/noticias/articles/20261116_204807_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 16 Nov 2026 20:49:11 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261116204911</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Indotel formaliza concesión de frecuencias con Claro y Viettel por US$119.5 millones]]></title>
     <link>https://eldinero.com.do/388666/indotel-formaliza-concesion-de-frecuencias-con-claro-y-viettel-por-us119-5-millones/</link>
     <description><![CDATA[Indotel ha formalizado la concesión de frecuencias con Claro Dominicana y Viettel Dominicana, sumando un total de US$119.5 millones. Claro aportará US$12.5 millones y Viettel, nuevo en el mercado, US$107 millones.
@@ -1409,17 +1420,6 @@ Raquel Peña criticó a algunos funcionarios del Gobierno y denunció una campa�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794356827/noticias/articles/20261111_002700_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 11 Nov 2026 00:27:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261111002758</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Republicanos bloquean intento de juicio político a secretario de Defensa en el Congreso]]></title>
-    <link>https://elnuevodiario.com.do/republicanos-bloquean-intento-de-juicio-politico-a-secretario-de-defensa-en-el-congreso/</link>
-    <description><![CDATA[La Cámara de Representantes, con mayoría republicana, bloqueó un intento de juicio político contra el secretario de Defensa, Pete Hegseth. La votación fue de 211 a 204, remitiendo la iniciativa a un comité y anulando la posibilidad de enjuiciamiento.
-
-El intento fue impulsado por Thomas Massie, republicano crítico de Trump, quien fue el único de su partido en votar a favor.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794356735/noticias/articles/20261111_002529_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 11 Nov 2026 00:26:49 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261111002649</guid>
   </item>
 </channel>
 </rss>
