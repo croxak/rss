@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 16 Nov 2026 15:12:07 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 15:54:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Robert Pattinson se convierte en el nuevo James Bond]]></title>
+    <link>https://www.diariolibre.com/revista/cine/2026/11/16/robert-pattinson-es-el-nuevo-james-bond/3722075</link>
+    <description><![CDATA[Robert Pattinson ha sido confirmado como el nuevo James Bond, sucediendo a Daniel Craig. El anuncio se hizo en las redes sociales oficiales de James Bond, donde se compartió una imagen de Pattinson con el clásico esmoquin del personaje. La productora destacó que su elección marcará una nueva etapa para el famoso agente secreto.
+
+Pattinson fue elegido tras un proceso de selección que incluyó a otros actores como Josh O´Connor y Nicholas Hoult. Conocido por su papel en la saga Crepúsculo y The Batman, Pattinson se prepara para asumir este icónico rol. La próxima película será dirigida por Denis Villeneuve.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794844420/noticias/articles/20261116_155340_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 16 Nov 2026 15:54:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261116155434</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fiscalía panameña rastrea US$444 mil enviados a RD en caso contra exdirector del Seguro Social]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261116151207</link>
     <description><![CDATA[La Fiscalía Anticorrupción de Panamá investiga transferencias financieras hacia República Dominicana vinculadas al caso de Enrique Lau Cortés, exdirector de la Caja de Seguro Social (CSS), imputado por presunto enriquecimiento injustificado agravado y blanqueo de capitales.
@@ -1409,17 +1420,6 @@ La cuenta tenía un saldo de 170 millones de dólares al cierre del informe y ge
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794346691/noticias/articles/20261110_213807_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 10 Nov 2026 21:39:02 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261110213902</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[La Policía desmantela red que fabricaba armas con impresoras 3D; hay cinco detenidos]]></title>
-    <link>https://www.diariolibre.com/actualidad/nacional/2026/11/10/policia-desmantela-red-que-fabricaba-armas-3d-hay-cinco-detenidos/3716576</link>
-    <description><![CDATA[La Policía Nacional, junto al Ministerio Público, desmanteló una red transnacional que fabricaba armas de fuego con impresoras 3D. Los operativos se realizaron en Santo Domingo Este, Santo Domingo Norte y Los Alcarrizos, resultando en la detención de cinco personas.
-
-Entre los arrestados está Matías Antonio Barrera, acusado de fabricar armas sin número de serie. Se incautaron fusiles, una ametralladora, cargadores, cápsulas y una impresora 3D. Dos personas más están prófugas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794341979/noticias/articles/20261110_201939_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 10 Nov 2026 20:20:16 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261110202016</guid>
   </item>
 </channel>
 </rss>
