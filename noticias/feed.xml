@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 16 Nov 2026 20:49:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 20:53:52 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Fuerzas salvadoreñas ocupan instalaciones de empresa eléctrica y una subcomisaría en Haití]]></title>
+    <link>https://n.com.do/2026/11/16/fuerzas-salvadorenas-ocupan-instalaciones-de-empresa-electrica-y-una-subcomisaria-en-haiti/</link>
+    <description><![CDATA[Las fuerzas militares salvadoreñas han ocupado las instalaciones de la Empresa de Electricidad de Haití y una subcomisaría en Puerto Príncipe. Esta acción es parte de sus operaciones para consolidar su presencia en la capital haitiana.
+
+La Policía Nacional de Haití sigue realizando operativos en Gressier, mientras la violencia continúa en otras zonas del país. Recientemente, la banda Gran Grif atacó a campesinos en Saint-Marc, dejando varias víctimas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794862351/noticias/articles/20261116_205231_article.webp" type="image/webp"/>
+    <pubDate>Mon, 16 Nov 2026 20:53:52 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261116205352</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallas en bancos de Estados Unidos impiden a miles de clientes acceder a sus cuentas]]></title>
     <link>https://www.diariolibre.com/mundo/estados-unidos/2026/11/16/fallas-en-bancos-de-eeuu-impiden-acceso-a-cuentas/3722381</link>
     <description><![CDATA[Miles de clientes de bancos en Estados Unidos reportaron problemas para acceder a sus cuentas en línea y realizar transacciones. Las instituciones afectadas incluyen JPMorgan Chase, Bank of America, Wells Fargo, U.S. Bank y Truist, así como la plataforma Zelle.
@@ -1409,17 +1420,6 @@ Tras su identificación, Marrero quedó bajo custodia policial para continuar co
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794359748/noticias/articles/20261111_011547_article.png" type="image/png"/>
     <pubDate>Wed, 11 Nov 2026 01:16:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261111011657</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Ortiz Bosch considera que Raquel Peña debe adquirir experiencia política para impulsar sus aspiraciones]]></title>
-    <link>https://elnuevodiario.com.do/ortiz-bosch-considera-que-raquel-pena-debe-adquirir-experiencia-politica-para-impulsar-sus-aspiraciones/</link>
-    <description><![CDATA[Milagros Ortiz Bosch, del PRM, considera que Raquel Peña debe adquirir experiencia política para sus aspiraciones presidenciales. Ortiz Bosch también aboga por regular la participación de los dirigentes del PRM en actividades de promoción política. Un reglamento sobre normas de participación será presentado el 12 de noviembre.
-
-Raquel Peña criticó a algunos funcionarios del Gobierno y denunció una campaña en su contra tras anunciar su intención de aspirar a la Presidencia en 2028. Peña trabaja en una estructura política nacional, manteniendo prudencia por sus responsabilidades actuales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794356827/noticias/articles/20261111_002700_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 11 Nov 2026 00:27:58 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261111002758</guid>
   </item>
 </channel>
 </rss>
