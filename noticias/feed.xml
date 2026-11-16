@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 16 Nov 2026 23:13:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 23:15:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Hipólito Mejía sobre denuncia de Raquel Peña: "El que se mete en política tiene que tener piel dura"]]></title>
+    <link>https://www.diariolibre.com/politica/partidos/2026/11/16/hipolito-mejia-se-pronuncia-sobre-declaraciones-de-raquel-pena/3722399</link>
+    <description><![CDATA[Hipólito Mejía comentó sobre la denuncia de Raquel Peña, quien afirmó ser víctima de una campaña de descrédito en medio de sus aspiraciones presidenciales. Mejía señaló que en política es necesario tener "piel dura" y no prestar atención a las críticas.
+
+La vicepresidenta Raquel Peña aseguró que no se retirará de la contienda presidencial y denunció que desde el Palacio Nacional se conocían los ataques en su contra, relacionados con el escándalo del Senasa.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794870902/noticias/articles/20261116_231501_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 16 Nov 2026 23:15:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261116231535</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader dice que en Senasa hubo un fallo de control desde su fundación]]></title>
     <link>https://www.diariolibre.com/politica/gobierno/2026/11/16/abinader-dice-en-senasa-hubo-fallo-de-control-desde-su-fundacion/3722468</link>
     <description><![CDATA[El presidente Luis Abinader ha reconocido fallas estructurales en los mecanismos de control del Seguro Nacional de Salud (Senasa) desde su fundación. La institución carecía de una Unidad de Auditoría Interna y un consejo de administración.
@@ -1405,19 +1416,6 @@ El primer ministro visitó Kenscoff para apoyar la reactivación agrícola y reu
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794402959/noticias/articles/20261111_131558_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 11 Nov 2026 13:16:38 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261111131638</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[China sobre felicitaciones de EEUU por cierre de fábrica: RD no necesita de fuerzas externas que pretenden dictar pautas]]></title>
-    <link>https://listindiario.com/la-republica/20261109/china-sobre-felicitaciones-eeuu-cierre-fabrica-rd-necesita-fuerzas-externas-pretenden-dictar-pautas_929502.html</link>
-    <description><![CDATA[La Embajada de China en República Dominicana reaccionó a las declaraciones de un funcionario estadounidense sobre el cierre de una fábrica ilegal de cartón en Santo Domingo, administrada por ciudadanos chinos. La embajada calificó el suceso como un caso aislado de aplicación de la ley dominicana y criticó la intervención de fuerzas externas.
-
-El subsecretario de Estado para Asuntos del Hemisferio Occidental de Estados Unidos, Juan Pablo Segura, había felicitado al Gobierno dominicano por el cierre de la fábrica, destacando la importancia de operar con permisos y respetar las leyes laborales.
-
-La embajada china afirmó que el Gobierno chino exige a sus ciudadanos y empresas en el exterior cumplir con las leyes locales y defendió los derechos de los chinos y sus empresas en República Dominicana.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794402436/noticias/articles/20261111_130716_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 11 Nov 2026 13:08:20 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261111130820</guid>
   </item>
 </channel>
 </rss>
