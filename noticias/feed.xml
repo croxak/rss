@@ -7,14 +7,37 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 16 Nov 2026 14:54:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 14:56:22 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Viuda de Jovenel Moïse se inscribe como candidata a la presidencia de Haití para 2027]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261116145622</link>
+    <description><![CDATA[La ex primera dama de Haití, Martine Moïse, viuda del expresidente Jovenel Moïse, asesinado en julio de 2021, formalizó su inscripción como aspirante a la presidencia del país de cara a las elecciones previstas para el 18 de julio de 2027.
+
+Según informaron BBC y Reuters, su nombre apareció el domingo 15 de noviembre en el registro del Consejo Electoral Provisional (CEP), bajo la organización política Gwoupman Angaje pou Demokrasi (GAD).
+
+Martine Moïse figura entre los 33 aspirantes presidenciales inscritos, de los cuales tres son mujeres. Entre los participantes también aparecen los expresidentes Michel Martelly y Jocelerme Privert, el ex primer ministro Claude Joseph y la exministra de Relaciones Exteriores Dominique Dupuy.
+
+La ex primera dama resultó gravemente herida durante el ataque armado del 7 de julio de 2021 contra la residencia presidencial, en el que fue asesinado su esposo. Posteriormente, se convirtió en una testigo relevante dentro del proceso judicial desarrollado en Estados Unidos contra varios implicados en el magnicidio.
+
+Su inscripción ocurre en medio de los esfuerzos por restablecer el orden constitucional en Haití, país que no celebra elecciones presidenciales desde 2016 y que permanece sin un presidente electo desde el asesinato de Jovenel Moïse.
+
+El proceso electoral enfrenta importantes desafíos debido al control territorial de las pandillas, la violencia armada y el desplazamiento de aproximadamente 1.5 millones de personas.
+
+De acuerdo con el calendario oficial, la primera vuelta presidencial está programada para el 18 de julio de 2027 y una eventual segunda vuelta para el 4 de octubre.
+
+Sin embargo, la inscripción de Martine Moïse todavía no constituye la aceptación definitiva de su candidatura. Los aspirantes tienen hasta el 30 de noviembre para presentar la documentación correspondiente, que deberá ser examinada por las autoridades electorales.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794840946/noticias/articles/20261116_145545_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 16 Nov 2026 14:56:22 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261116145622</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Muere cabo de la Policía tras recibir varios disparos en Verón]]></title>
     <link>https://elnuevodiario.com.do/muere-cabo-de-la-policia-tras-recibir-varios-disparos-en-veron/</link>
     <description><![CDATA[Un cabo de la Policía Nacional murió tras recibir varios disparos en el sector Villa La Fe, Verón-Punta Cana. El agente, Wilkin Belén, de 35 años, fue trasladado al Hospital General de Verón, donde llegó sin signos vitales.
@@ -1393,17 +1416,6 @@ Fuente: El Nuevo Diario - Abigail Diaz]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794336052/noticias/articles/20261110_184048_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 10 Nov 2026 18:42:16 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261110184216</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Cierran parcialmente tramo de la avenida George Washington tras derrame de sustancia química peligrosa]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/11/10/cierran-parcialmente-tramo-de-la-avenida-george-washington-tras-derrame-de-sustancia-quimica-peligrosa-2167034/</link>
-    <description><![CDATA[Un derrame de sustancia química peligrosa ha llevado al cierre parcial de la avenida George Washington en Santo Domingo. La composición del químico aún no ha sido identificada.
-
-Bomberos y Policía Nacional están en el lugar, trabajando para controlar y disolver el material derramado. Se ha utilizado agua en el proceso, aunque existe preocupación por una posible reacción del químico al contacto con el agua.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794335601/noticias/articles/20261110_183321_article.webp" type="image/webp"/>
-    <pubDate>Tue, 10 Nov 2026 18:34:15 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261110183415</guid>
   </item>
 </channel>
 </rss>
