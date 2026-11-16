@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 16 Nov 2026 23:15:35 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 23:18:36 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Abinader: en redes se ve que hay más actos de corrupción, pero lo que hay es más transparencia]]></title>
+    <link>https://www.diariolibre.com/politica/gobierno/2026/11/16/transparencia-gobierno-dominicano-y-acceso-a-la-informacion-publica/3722471</link>
+    <description><![CDATA[El presidente Luis Abinader afirmó que el aumento de casos de presuntas irregularidades en redes sociales se debe a una mayor apertura del Gobierno al acceso a la información pública. Según Abinader, la transparencia permite a los ciudadanos examinar las actuaciones de las instituciones y señalar situaciones irregulares.
+
+Carlos Pimentel, director general de Contrataciones Públicas, anunció que República Dominicana será sede de la 22.ª Conferencia Internacional Anticorrupción del 1 al 4 de diciembre en Punta Cana. El evento reunirá a 2,000 participantes de 140 países y contará con 90 talleres y 400 expositores.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794871073/noticias/articles/20261116_231753_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 16 Nov 2026 23:18:36 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261116231836</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Hipólito Mejía sobre denuncia de Raquel Peña: "El que se mete en política tiene que tener piel dura"]]></title>
     <link>https://www.diariolibre.com/politica/partidos/2026/11/16/hipolito-mejia-se-pronuncia-sobre-declaraciones-de-raquel-pena/3722399</link>
     <description><![CDATA[Hipólito Mejía comentó sobre la denuncia de Raquel Peña, quien afirmó ser víctima de una campaña de descrédito en medio de sus aspiraciones presidenciales. Mejía señaló que en política es necesario tener "piel dura" y no prestar atención a las críticas.
@@ -1403,19 +1414,6 @@ El Burro está acusado de violar varios artículos del Código Penal Dominicano,
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794403066/noticias/articles/20261111_131732_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 11 Nov 2026 13:18:34 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261111131834</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno haitiano afirma que está recuperando control territorial con ayuda de El Salvador]]></title>
-    <link>https://noticiassin.com/mundo/haiti/2026/11/11/haiti-recupera-control-territorial-con-apoyo-de-el-salvador-2167557/</link>
-    <description><![CDATA[El gobierno haitiano, con el apoyo de El Salvador, está avanzando en la recuperación del control territorial frente a las pandillas. El primer ministro de Haití, Alix Didier Fils-Aimé, agradeció la ayuda de las tropas salvadoreñas y de la Fuerza de Supresión de Pandillas (GSF).
-
-El presidente salvadoreño, Nayib Bukele, envió más de 2.000 soldados a Puerto Príncipe para colaborar en la búsqueda de cuatro militares salvadoreños desaparecidos. Las operaciones continúan en diversas zonas de Puerto Príncipe.
-
-El primer ministro visitó Kenscoff para apoyar la reactivación agrícola y reunirse con la comunidad. Fils-Aimé viajará a El Salvador para discutir el futuro del contingente salvadoreño en Haití.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794402959/noticias/articles/20261111_131558_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 11 Nov 2026 13:16:38 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261111131638</guid>
   </item>
 </channel>
 </rss>
