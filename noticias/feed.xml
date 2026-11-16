@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 16 Nov 2026 03:20:20 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 03:23:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Al menos cinco presuntos pandilleros haitianos mueren en operación de fuerza multinacional]]></title>
+    <link>https://acento.com.do/actualidad/al-menos-cinco-presuntos-pandilleros-haitianos-mueren-en-operacion-de-fuerza-multinacional-9790682.html</link>
+    <description><![CDATA[Cinco presuntos pandilleros haitianos murieron en una operación de la Fuerza de Supresión de Pandillas (GSF) en Artibonito, Haití. La operación permitió recuperar el control de una iglesia y una escuela en el sector de Carnifice.
+
+La GSF, integrada por policías y militares de varios países, desmanteló barricadas en la Carretera Nacional No. 5. El objetivo es restaurar la libertad de circulación y la presencia del Estado en comunidades afectadas por bandas armadas.
+
+En Artibonito, al menos diez personas fueron asesinadas el sábado en un ataque atribuido a la banda Gran Grif.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794799307/noticias/articles/20261116_032147_article.webp" type="image/webp"/>
+    <pubDate>Mon, 16 Nov 2026 03:23:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261116032309</guid>
+  </item>
+
+  <item>
     <title><![CDATA["El sacrificio de Kiki nunca será olvidado", dice Terry Cole, jefe de la DEA sobre muerte de Félix Gallardo]]></title>
     <link>https://www.eluniversal.com.mx/mundo/el-sacrificio-de-kiki-nunca-sera-olvidado-terry-cole-jefe-de-la-dea-reacciona-a-muerte-de-felix-gallardo/</link>
     <description><![CDATA[Terry Cole, jefe de la DEA, afirmó que "el sacrificio de Kiki nunca será olvidado" tras la muerte de Miguel Ángel Félix Gallardo, alias "el jefe de jefes". Félix Gallardo falleció a los 80 años por una falla orgánica múltiple mientras cumplía condenas por delitos como el asesinato del agente de la DEA Enrique "Kiki" Camarena.
@@ -1407,17 +1420,6 @@ El periódico informó que el juicio comenzó el 9 de noviembre y señaló en su
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794316557/noticias/articles/20261110_131557_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 10 Nov 2026 13:18:28 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261110131828</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Detienen en Brasil a dominicano que intentaba volar a Francia con un presunto pasaporte boliviano falso]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261110131425</link>
-    <description><![CDATA[La Policía Federal de Brasil informó que detuvo a un ciudadano dominicano en el Aeropuerto Internacional de São Paulo, en Guarulhos, cuando intentaba abordar un vuelo hacia Francia con un pasaporte boliviano que las autoridades identificaron como falsificado.
-
-La detención se produjo durante los controles realizados entre el 4 y el 8 de noviembre, según el comunicado oficial, publicado el 9 de noviembre. La Policía Federal describió el incidente como un caso separado de las incautaciones de drogas incluidas en el mismo informe.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794316422/noticias/articles/20261110_131342_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 10 Nov 2026 13:14:25 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261110131425</guid>
   </item>
 </channel>
 </rss>
