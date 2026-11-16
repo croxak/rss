@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 16 Nov 2026 14:56:22 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 15:01:48 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Imponen medidas de coerción a un hombre acusado de amenazar a Bartolomé Pujals]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/11/15/dictan-medida-de-coercion-a-acusado-de-amenazas-a-bartolome-pujals/3721111</link>
+    <description><![CDATA[La jueza Cecilia Toribio ha impuesto medidas de coerción a Marvin Dariel Acosta, acusado de amenazar al embajador Bartolomé Pujals mediante perfiles falsos en redes sociales. Acosta deberá pagar una garantía económica de 25,000 pesos y presentarse periódicamente durante seis meses.
+
+Las amenazas fueron identificadas por la Procuraduría Especializada contra Crímenes y Delitos de Alta Tecnología y la Dirección Nacional de Inteligencia. Acosta fue arrestado en Los Alcarrizos y enfrenta cargos por suplantación de identidad y amenazas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794841268/noticias/articles/20261116_150107_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 16 Nov 2026 15:01:48 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261116150148</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Viuda de Jovenel Moïse se inscribe como candidata a la presidencia de Haití para 2027]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261116145622</link>
     <description><![CDATA[La ex primera dama de Haití, Martine Moïse, viuda del expresidente Jovenel Moïse, asesinado en julio de 2021, formalizó su inscripción como aspirante a la presidencia del país de cara a las elecciones previstas para el 18 de julio de 2027.
@@ -1403,19 +1414,6 @@ Fuente: Diario Libre - Edward Fernández]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794337367/noticias/articles/20261110_190247_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 10 Nov 2026 19:03:46 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261110190346</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader reitera apoyo a Bukele y pide coordinación entre ejército salvadoreño y fuerza antipandillas en Haití]]></title>
-    <link>https://elnuevodiario.com.do/abinader-reitera-apoyo-a-bukele-y-pide-coordinacion-entre-ejercito-salvadoreno-y-fuerza-antipandillas-en-haiti/</link>
-    <description><![CDATA[El presidente Luis Abinader reafirmó su respaldo a Nayib Bukele, presidente de El Salvador, en las operaciones militares en Haití. Abinader instó a una mejor coordinación entre el ejército salvadoreño y la Fuerza de Supresión de Pandillas, asegurando que República Dominicana continuará apoyando en logística e inteligencia.
-
-Abinader también destacó la vigilancia permanente en la frontera para garantizar la seguridad nacional. En cuanto a la educación tecnológica, el presidente habló sobre la ampliación del programa Talento Digital, que ha certificado a más de 23,700 personas y cuenta con más de 110,000 inscritos.
-
-Fuente: El Nuevo Diario - Abigail Diaz]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794336052/noticias/articles/20261110_184048_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 10 Nov 2026 18:42:16 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261110184216</guid>
   </item>
 </channel>
 </rss>
