@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 16 Nov 2026 03:17:29 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 16 Nov 2026 03:20:20 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA["El sacrificio de Kiki nunca será olvidado", dice Terry Cole, jefe de la DEA sobre muerte de Félix Gallardo]]></title>
+    <link>https://www.eluniversal.com.mx/mundo/el-sacrificio-de-kiki-nunca-sera-olvidado-terry-cole-jefe-de-la-dea-reacciona-a-muerte-de-felix-gallardo/</link>
+    <description><![CDATA[Terry Cole, jefe de la DEA, afirmó que "el sacrificio de Kiki nunca será olvidado" tras la muerte de Miguel Ángel Félix Gallardo, alias "el jefe de jefes". Félix Gallardo falleció a los 80 años por una falla orgánica múltiple mientras cumplía condenas por delitos como el asesinato del agente de la DEA Enrique "Kiki" Camarena.
+
+Rafael Caro Quintero, también acusado por el asesinato de Camarena, está bajo la justicia estadounidense y en conversaciones para un posible acuerdo de culpabilidad. Su próxima audiencia será el 20 de noviembre en la Corte Federal de Brooklyn.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794799103/noticias/articles/20261116_031822_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 16 Nov 2026 03:20:20 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261116032020</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Muere a los 80 años el "Jefe de jefes", Miguel Ángel Félix Gallardo, fundador del Cártel de Guadalajara]]></title>
     <link>https://laopinion.com/2026/11/15/muere-a-los-80-anos-el-jefe-de-jefes-miguel-angel-felix-gallardo-fundador-del-cartel-de-guadalajara/</link>
     <description><![CDATA[Miguel Ángel Félix Gallardo, conocido como el "Jefe de jefes", falleció a los 80 años en Guadalajara, Jalisco. Su muerte fue confirmada por la Secretaría de Seguridad de Jalisco, tras sufrir una falla orgánica múltiple.
@@ -1407,19 +1418,6 @@ La detención se produjo durante los controles realizados entre el 4 y el 8 de n
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794316422/noticias/articles/20261110_131342_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 10 Nov 2026 13:14:25 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261110131425</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Matan a tiros a una cuidadora y a su paciente, ambos de origen dominicano, en Nueva York]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261110131014</link>
-    <description><![CDATA[La Policía de Nueva York investiga la muerte de Elsa Espina-Espinal, de 55 años, y Wilgen Elías Severino-Tatis, de 66, quienes fueron hallados con heridas de bala el jueves 5 de noviembre en un apartamento de East Harlem, Manhattan. Ambos eran de origen dominicano, según Univision.
-
-Espina-Espinal trabajaba como cuidadora a domicilio y atendía a Severino-Tatis en el apartamento donde fueron encontrados. El 9 de noviembre, los investigadores pidieron la colaboración de quienes hubieran visto a las víctimas antes del hallazgo, informó amNewYork.
-
-Una fuente citada por ese medio señaló que los detectives exploran un posible intento de robo. El móvil sigue sin confirmarse y el reporte del 9 de noviembre no daba cuenta de arrestos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794316157/noticias/articles/20261110_130917_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 10 Nov 2026 13:10:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261110131014</guid>
   </item>
 </channel>
 </rss>
