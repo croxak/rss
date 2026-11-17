@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 17 Nov 2026 11:51:31 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 11:54:28 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Dejan sin fianza al acusado por la muerte de la dominicana Carmen Núñez en El Bronx]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261117115428</link>
+    <description><![CDATA[Una jueza ordenó el 16 de noviembre que Joshua Núñez, de 35 años, permanezca detenido sin derecho a fianza por la muerte de su tía abuela, Carmen Núñez, una dominicana de 75 años. El hombre enfrenta cargos de asesinato en segundo grado y homicidio en primer grado bajo la figura de manslaughter. 
+
+La fiscalía sostiene que el acusado golpeó repetidamente a la mujer durante la madrugada del 14 de noviembre en una vivienda del sector Hunts Point y que, durante la agresión, ella se golpeó la cabeza y el cuello contra el borde de una escalera. Los agentes que respondieron a la llamada de emergencia la encontraron inconsciente. Carmen Núñez fue trasladada al Hospital Lincoln, donde murió.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794916422/noticias/articles/20261117_115342_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 17 Nov 2026 11:54:28 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261117115428</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Hallan muerto en prisión a un hombre de origen dominicano investigado por la muerte de su pareja en Barcelona]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261117115131</link>
     <description><![CDATA[Funcionarios del centro penitenciario Brians 1 encontraron muerto en su celda el 12 de noviembre a Yarman G., un hombre de 33 años identificado por la prensa local como de origen dominicano. Permanecía en prisión provisional por la muerte de su pareja.
@@ -1395,17 +1406,6 @@ El proceso judicial, iniciado el 25 de febrero de 2026, continúa en su fase de 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794408790/noticias/articles/20261111_145310_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 11 Nov 2026 14:54:12 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261111145412</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[La JCE asegura que la nueva cédula es segura y no puede ser clonada]]></title>
-    <link>https://www.diariolibre.com/politica/jce/2026/11/11/seguridad-de-la-nueva-cedula-de-identidad-segun-la-jce/3717389</link>
-    <description><![CDATA[La Junta Central Electoral (JCE) asegura que la nueva cédula de identidad y electoral es segura y no presenta vulnerabilidades que permitan su clonación. Esta declaración responde a una auditoría de Factor Inc. que advertía sobre posibles fallas en el chip.
-
-La JCE afirmó que los datos están protegidos mediante criptografía de curva elíptica y que cada chip cuenta con una clave única. Además, la nueva cédula fue reconocida como el Mejor Documento de Identidad en Latinoamérica.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794408598/noticias/articles/20261111_144958_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 11 Nov 2026 14:50:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261111145040</guid>
   </item>
 </channel>
 </rss>
