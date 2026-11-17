@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 17 Nov 2026 18:12:54 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 18:23:22 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[El FBI alertó que la herramienta de IA Artex permite hackear empresas en menos de tres horas]]></title>
+    <link>https://www.infobae.com/tecno/2026/11/17/el-fbi-alerto-que-la-herramienta-de-ia-artex-permite-hackear-empresas-en-menos-de-tres-horas/</link>
+    <description><![CDATA[El FBI ha emitido una advertencia sobre Artex, una herramienta de inteligencia artificial utilizada por hackers para atacar redes empresariales en menos de tres horas. Artex se conecta a modelos de IA de empresas como Anthropic y OpenAI.
+
+Desde agosto de 2026, Artex ha sido utilizada en ataques a sectores como servicios financieros y tecnología. Un ataque notable fue contra ConnectWise, afectando a más de 2.250 clientes. En Corea del Sur, se robaron datos de 67.000 personas.
+
+El FBI aconseja a las organizaciones revisar sus aplicaciones conectadas a internet y reportar actividades sospechosas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794939561/noticias/articles/20261117_181921_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 17 Nov 2026 18:23:22 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261117182322</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Apple confirma fallas en iCloud mientras usuarios reportan problemas con Apple Pay y App Store]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261117181254</link>
     <description><![CDATA[Apple confirmó este martes 17 de noviembre una interrupción en sus servicios de iCloud, en medio de numerosos reportes de usuarios que también señalan dificultades para utilizar Apple Pay, App Store, Apple Music y otras plataformas de la compañía tecnológica.
@@ -1373,17 +1386,6 @@ En el Gran Santo Domingo, se prevén chubascos pasajeros en el Distrito Nacional
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794488731/noticias/articles/20261112_130531_article.webp" type="image/webp"/>
     <pubDate>Thu, 12 Nov 2026 13:06:06 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261112130606</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Abinader designa tres miembros al Consejo de Juegos de Azar; Julio César Castaños Guzmán entre ellos]]></title>
-    <link>https://elnuevodiario.com.do/abinader-designa-tres-miembros-al-consejo-de-juegos-de-azar-julio-cesar-castanos-guzman-entre-ellos/</link>
-    <description><![CDATA[El presidente Luis Abinader ha designado a tres nuevos miembros para el Consejo de Juegos de Azar de la Dirección General de Juegos de Azar (DGJA). Los designados son Julio César Castaños Guzmán, José Julio Antonio de la Altagracia Cross Frías y José Delio Ares Guzmán.
-
-Esta decisión se formalizó mediante el Decreto núm. 810-26, emitido el 11 de noviembre de 2026. El Consejo de Juegos de Azar, creado por la Ley núm. 86-26, tiene la función de regular los juegos de azar en el país.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794443967/noticias/articles/20261112_003926_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 12 Nov 2026 00:41:56 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261112004156</guid>
   </item>
 </channel>
 </rss>
