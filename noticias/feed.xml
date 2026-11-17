@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 16 Nov 2026 23:18:36 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 11:48:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Condenan a cadena perpetua a los hermanos Soriano por el asesinato de una familia en Nueva York]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261117114800</link>
+    <description><![CDATA[Los hermanos Julio César Pimentel Soriano y Luis Francisco Soriano fueron sentenciados el 16 de noviembre a cadena perpetua sin posibilidad de libertad condicional por el asesinato de cuatro integrantes de una familia en Irondequoit, en el condado de Monroe.
+
+Las víctimas fueron Fraime Ubaldo, Marangely Moreno-Santiago y sus dos hijos menores de edad. Los hechos ocurrieron el 31 de agosto de 2024. En septiembre de 2026, dos jurados separados declararon culpables a los hermanos de asesinato en primer grado y de otros delitos, entre ellos secuestro e incendio provocado.
+
+Julio César, identificado por la policía local como nacido en República Dominicana, fue arrestado poco después de los hechos. Luis Francisco, de nacionalidad dominicana, fue detenido en República Dominicana en junio de 2025 y extraditado a Estados Unidos el 26 de julio de ese año.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794915971/noticias/articles/20261117_114610_article.png" type="image/png"/>
+    <pubDate>Tue, 17 Nov 2026 11:48:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261117114800</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader: en redes se ve que hay más actos de corrupción, pero lo que hay es más transparencia]]></title>
     <link>https://www.diariolibre.com/politica/gobierno/2026/11/16/transparencia-gobierno-dominicano-y-acceso-a-la-informacion-publica/3722471</link>
     <description><![CDATA[El presidente Luis Abinader afirmó que el aumento de casos de presuntas irregularidades en redes sociales se debe a una mayor apertura del Gobierno al acceso a la información pública. Según Abinader, la transparencia permite a los ciudadanos examinar las actuaciones de las instituciones y señalar situaciones irregulares.
@@ -1403,17 +1416,6 @@ La contratación se produce en medio de las aspiraciones del exmandatario de reg
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794408182/noticias/articles/20261111_144301_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 11 Nov 2026 14:43:56 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261111144356</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[PN busca a "El Burro" por invasión agravada en Valverde]]></title>
-    <link>https://elnuevodiario.com.do/pn-busca-a-el-burro-por-invasion-agravada-en-valverde/</link>
-    <description><![CDATA[La Policía Nacional busca a Justin Junior Moreta Jiménez, conocido como El Burro, de 21 años, por invasión agravada en Valverde. La orden de arresto núm. 757/2026 fue emitida por las autoridades judiciales.
-
-El Burro está acusado de violar varios artículos del Código Penal Dominicano, afectando a Robin Antonio Pérez Monta y otras siete personas. La Policía pide a la ciudadanía que informe sobre su paradero de manera confidencial.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794403066/noticias/articles/20261111_131732_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 11 Nov 2026 13:18:34 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261111131834</guid>
   </item>
 </channel>
 </rss>
