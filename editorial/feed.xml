@@ -6,14 +6,33 @@
   <link>https://eltestigo.com</link>
   <description>Editoriales de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 13 Nov 2026 16:27:19 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 12:36:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/editorial/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Editorial</title>
     <link>https://eltestigo.com</link>
   </image>
-    <item>
+      <item>
+    <title><![CDATA[¿Justicia o control de daños?]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-editorial-20261117123640</link>
+    <description><![CDATA[El poder comete un error cuando confunde su capacidad de construir discursos con la obligación de la sociedad de creerlos.
+
+La Agenda Semanal de ayer evidenció ese riesgo. Explicar las fallas del SeNaSa mediante deficiencias heredadas desde su fundación deja una pregunta sin responder. ¿Por qué no se detectaron antes de 2025? La promesa de ser diferentes, formulada en 2020, también implicaba detectar lo que otros no detectaron.
+
+Invitar a la ciudadanía a denunciar la corrupción luce bien desde un podio. Pero denuncias han sobrado. Aquí estalla un escándalo y comienza el manejo de crisis. Llamadas, reuniones, estrategias de comunicación y esfuerzos por contener el daño reputacional. Se cancela una licitación, se espera que pase la indignación y el funcionario permanece en su despacho o aparece en otro.
+
+Se administra la percepción antes que esclarecer la responsabilidad. Se busca cerrar la conversación antes que responder las preguntas. 
+
+Quizás el error fue escuchar demasiado a quienes prepararon el discurso y demasiado poco a quienes debían recibirlo. Basta leer las reacciones. Y quienes monitorean la conversación pública mediante social listening lo saben.
+
+Porque una crisis de corrupción no se resuelve con relaciones públicas. Y cuando la respuesta se concentra en salvar la imagen, la pregunta inevitable es quién está defendiendo el interés público.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794918941/noticias/articles/20261117_123540_article.png" type="image/png"/>
+    <pubDate>Tue, 17 Nov 2026 12:36:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-editorial-20261117123640</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Los que siempre serán]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-editorial-20261113162719</link>
     <description><![CDATA[Hay restaurantes donde se respira más caliesaje que olor a comida. Entre copas, sobremesas y confidencias de quienes presumen conocer la intimidad del poder, se anuncia semanalmente la caída de algún funcionario.
