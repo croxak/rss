@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 17 Nov 2026 12:55:55 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 13:20:24 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Condenan en Utrecht a un hombre nacido en RD por tentativa de homicidio]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261117132024</link>
+    <description><![CDATA[El Tribunal de Distrito de Midden-Nederland condenó el 16 de noviembre a 26 meses de prisión a un hombre nacido en República Dominicana por golpear con un hacha a otra persona en Utrecht. Seis meses de la pena quedaron suspendidos bajo condiciones durante un período de prueba de dos años.
+
+El ataque ocurrió el 1 de marzo de 2026, después de una discusión en la vía pública. Tras revisar las cámaras de seguridad y la evidencia médica, los jueces concluyeron que el hombre golpeó a la víctima en la cabeza y asumió conscientemente el riesgo de causarle la muerte. La víctima sobrevivió.
+
+El tribunal ordenó además el pago de 2,175 euros de indemnización. La sentencia pública mantiene el nombre del condenado bajo reserva y consigna su nacimiento en República Dominicana.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794921571/noticias/articles/20261117_131930_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 17 Nov 2026 13:20:24 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261117132024</guid>
+  </item>
+
+  <item>
     <title><![CDATA[DGII ampliará el plazo de facturación electrónica para micro y pequeños contribuyentes]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/11/17/dgii-ampliara-plazo-para-facturacion-electronica-de-mipymes-2171459/</link>
     <description><![CDATA[La Dirección General de Impuestos Internos (DGII) ha decidido extender el plazo para que los micro y pequeños contribuyentes se unan al sistema de facturación electrónica, siguiendo instrucciones del Poder Ejecutivo.
@@ -1369,17 +1382,6 @@ El evento contó con la presencia del presidente Luis Abinader, la primera dama 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794410220/noticias/articles/20261111_151700_article.webp" type="image/webp"/>
     <pubDate>Wed, 11 Nov 2026 15:27:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261111152732</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gilberto García encabeza las preferencias para presidir el COD]]></title>
-    <link>https://noticiassin.com/deportes/olimpismo/2026/11/10/gilberto-garcia-lidera-preferencias-para-presidir-el-cod-2167463/</link>
-    <description><![CDATA[Gilberto García encabeza las preferencias para presidir el Comité Olímpico Dominicano (COD), según un sondeo de Noticias SIN. García, actual presidente de la Federación Dominicana de Judo, cuenta con el apoyo de federaciones importantes y propone un enfoque en transparencia e institucionalidad.
-
-Las elecciones del COD están programadas para el 9 de diciembre, pero dependen de la formación de una nueva comisión electoral tras la renuncia de la anterior. García ha llamado a las federaciones a votar con conciencia para mantener la estabilidad institucional.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794410117/noticias/articles/20261111_151517_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 11 Nov 2026 15:16:16 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261111151616</guid>
   </item>
 </channel>
 </rss>
