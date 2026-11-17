@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 17 Nov 2026 14:07:55 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 17 Nov 2026 16:33:23 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Puerto Príncipe inicia la limpieza del espacio público arrebatado a las bandas armadas]]></title>
+    <link>https://elnuevodiario.com.do/puerto-principe-inicia-la-limpieza-del-espacio-publico-arrebatado-a-las-bandas-armadas/</link>
+    <description><![CDATA[La Alcaldía de Puerto Príncipe ha iniciado una operación de limpieza en varios sectores de su área metropolitana, incluyendo los alrededores del estadio nacional Sylvio Cator. Esta acción sigue a la recuperación del estadio por la Policía Nacional de Haití y fuerzas salvadoreñas.
+
+Las labores de limpieza, que utilizan maquinaria pesada, buscan despejar las vías obstruidas y recuperar el espacio público. La seguridad de los trabajadores está garantizada por efectivos de la Policía Nacional, las Fuerzas Armadas de Haití y una fuerza de tarea con personal de seguridad privada.
+
+La recuperación del estadio ha sido bien recibida por la comunidad local, que agradece el apoyo de las tropas salvadoreñas. Además, se han recuperado otras infraestructuras estratégicas en la ciudad.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794933149/noticias/articles/20261117_163225_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 17 Nov 2026 16:33:23 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261117163323</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Interceptan embarcación con un dominicano y 10 chinos frente a Miami; acusan a hombre de tráfico de migrantes]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261117140755</link>
     <description><![CDATA[Agentes federales de Estados Unidos interceptaron una embarcación que transportaba a diez ciudadanos chinos y un dominicano, presuntamente introducidos de manera irregular desde Bahamas hacia Florida, según informó el Miami Herald el 16 de noviembre.
@@ -1391,19 +1404,6 @@ Moscú ha lamentado la pérdida de un líder con gran experiencia y un colega am
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794426880/noticias/articles/20261111_195440_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 11 Nov 2026 19:55:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261111195540</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Intrant prohíbe la circulación de vehículos pesados durante las festividades de Navidad y Año Nuevo]]></title>
-    <link>https://listindiario.com/la-republica/20261111/intrant-prohibe-circulacion-vehiculos-pesados-festividades-navidad-ano-nuevo_929678.html</link>
-    <description><![CDATA[El Instituto Nacional de Tránsito y Transporte Terrestre (Intrant) ha establecido restricciones para la circulación de vehículos pesados durante las festividades de Navidad y Año Nuevo en todo el país. Estas medidas se aplicarán del 23 al 26 de diciembre de 2026 y del 30 de diciembre de 2026 al 2 de enero de 2027.
-
-Se otorgarán permisos para vehículos que transporten mercancías prioritarias, como combustible y alimentos. No se permitirán cargas especiales como camiones con doble remolque. Vehículos de emergencia y servicios esenciales están exentos de esta prohibición.
-
-El incumplimiento de estas disposiciones será sancionado con un salario mínimo del sector público descentralizado.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794426745/noticias/articles/20261111_195225_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 11 Nov 2026 19:53:21 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261111195321</guid>
   </item>
 </channel>
 </rss>
