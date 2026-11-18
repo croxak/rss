@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 18 Nov 2026 19:29:22 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 20:24:24 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Aduanas mantendrá en US$5,500 la gracia navideña para dominicanos en el exterior]]></title>
+    <link>https://www.diariolibre.com/economia/consumo/2026/11/18/gracia-navidena-dominicana-mantiene-monto-de-us5500/3724668</link>
+    <description><![CDATA[La Dirección General de Aduanas (DGA) anunció que mantendrá en US$5,500 el monto de la gracia navideña para 2026. Este beneficio permite a los dominicanos residentes en el exterior ingresar al país artículos libres de impuestos durante las festividades de Navidad y Año Nuevo.
+
+La medida estará vigente del 1 de diciembre de 2026 al 7 de enero de 2027. Los beneficiarios podrán introducir regalos, efectos personales y artículos para el hogar sin pagar impuestos, siempre que su valor no supere el límite establecido.
+
+El director general de Aduanas, Nelson Arroyo, destacó que esto permitirá a los viajeros planificar sus compras y equipaje. El beneficio estará disponible para dominicanos que ingresen por vía aérea o marítima y que tengan al menos seis meses sin visitar el país. La exoneración no aplicará a artículos en cantidades comerciales y se otorgará por familia.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795033172/noticias/articles/20261118_201931_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 18 Nov 2026 20:24:24 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261118202424</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Abinader advierte que la burocracia y la falta de respuestas afectan la confianza en el Estado]]></title>
     <link>https://www.diariolibre.com/politica/gobierno/2026/11/18/abinader-la-eficiencia-clave-para-recuperar-confianza-institucional/3724469</link>
     <description><![CDATA[El presidente Luis Abinader advirtió que la burocracia y la falta de respuestas afectan la confianza en el Estado. Durante el XXXI Congreso Internacional del CLAD, destacó que la credibilidad de las instituciones depende de su capacidad para ofrecer resultados y responder a las necesidades de la población.
@@ -1389,17 +1402,6 @@ Peña Guaba explicó que Collado esperaría a concluir su participación en FITU
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794584216/noticias/articles/20261113_153655_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 13 Nov 2026 15:37:53 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261113153753</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Jensen Huang acepta declarar ante el Congreso de EE.UU., según un representante republicano]]></title>
-    <link>https://www.bloomberglinea.com/mundo/estados-unidos/jensen-huang-acepta-declarar-ante-el-congreso-de-eeuu-segun-un-representante-republicano/</link>
-    <description><![CDATA[Jensen Huang, exCEO de Nvidia, ha aceptado declarar ante el Congreso de EE.UU. tras su renuncia por un escándalo relacionado con una mujer sospechosa de espionaje para China. Brian Mast, presidente de la Comisión de Asuntos Exteriores, confirmó que Huang testificará antes de Acción de Gracias.
-
-La sesión será a puerta cerrada, pero se espera que se grabe y transcriba. Participarán las comisiones de Asuntos Exteriores, China e Inteligencia de la Cámara de Representantes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794578429/noticias/articles/20261113_140029_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 13 Nov 2026 14:01:16 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261113140116</guid>
   </item>
 </channel>
 </rss>
