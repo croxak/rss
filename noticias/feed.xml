@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 18 Nov 2026 15:31:45 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 15:42:03 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[¡Curiosa coincidencia! Avión militar de EE. UU. junto a jet vinculado a Alejandro Betancourt en Maiquetía]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261118154203</link>
+    <description><![CDATA[Una fotografía difundida muestra un avión oficial de la Fuerza Aérea de Estados Unidos junto a una aeronave privada con matrícula 2-FAST, vinculada en reportes de seguimiento aéreo al empresario venezolano Alejandro Betancourt, en medio de movimientos militares estadounidenses registrados en Venezuela.
+
+El Boeing C-32A estadounidense, identificado con la matrícula 98-0001 y el indicativo SAM389, llegó la noche del martes 17 de noviembre al Aeropuerto Internacional Simón Bolívar de Maiquetía, procedente de Miami. Este modelo es utilizado para transportar a altos funcionarios del Gobierno estadounidense, incluidos miembros del gabinete y autoridades militares.
+
+Por su parte, la matrícula 2-FAST corresponde actualmente a un Bombardier Global 6000, registrado a nombre de Avionex-FZCO y operado por Volare Aviation. Observadores aeronáuticos han reportado movimientos recientes de esta aeronave en territorio venezolano y la han asociado con desplazamientos de Betancourt, aunque no se ha confirmado que el empresario estuviera a bordo.
+
+La coincidencia adquiere relevancia por los vínculos del empresario con Washington. En septiembre de 2026, Reuters reveló que Betancourt se había convertido en un socio estratégico de Estados Unidos mediante un acuerdo petrolero relacionado con el Pentágono y la explotación de yacimientos venezolanos.
+
+La llegada del avión estadounidense también coincide con reportes sobre una posible visita a Caracas del secretario de Guerra, Pete Hegseth, quien tiene programada una reunión con autoridades militares colombianas este miércoles 18 de noviembre.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795016481/noticias/articles/20261118_154120_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 18 Nov 2026 15:42:03 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261118154203</guid>
+  </item>
+
+  <item>
     <title><![CDATA[PN apresa a “El Tuerto” requerido por presunto robo en una vivienda en Dajabón]]></title>
     <link>https://elnuevodiario.com.do/pn-apresa-a-el-tuerto-requerido-por-presunto-robo-en-vivienda-en-dajabon/</link>
     <description><![CDATA[La Policía Nacional ha arrestado a Wisle Pie, alias "El Tuerto", un hombre haitiano buscado por su presunta implicación en un robo en Dajabón.
@@ -1365,17 +1382,6 @@ Este incidente generó cuestionamientos en las redes sociales y motivó la inter
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794534723/noticias/articles/20261113_015203_article.webp" type="image/webp"/>
     <pubDate>Fri, 13 Nov 2026 01:53:45 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261113015345</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Tropas de Bukele asumen el control del principal estadio de Haití, ocupado por bandas desde 2024]]></title>
-    <link>https://www.diariolibre.com/mundo/haiti/2026/11/12/tropas-de-bukele-toman-estadio-haitiano-ocupado-por-bandas-desde-2024/3718955</link>
-    <description><![CDATA[La Policía Nacional de Haití, en colaboración con la Task Force, ha recuperado el control del estadio Sylvio Cator en Puerto Príncipe. Este lugar había estado bajo el dominio de la coalición Viv Ansanm desde febrero de 2024.
-
-Tras la operación, el control del estadio fue entregado a las Fuerzas Armadas de El Salvador para asegurar la presencia militar en la zona. La intervención se llevó a cabo el jueves 12 de noviembre.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794514019/noticias/articles/20261112_200659_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 12 Nov 2026 20:07:37 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261112200737</guid>
   </item>
 </channel>
 </rss>
