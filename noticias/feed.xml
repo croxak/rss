@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 17 Nov 2026 23:19:04 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 03:21:38 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Rubio: EE. UU. no está bajo "ataque sistémico" tras fallos en infraestructuras digitales]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/11/17/rubio-ee-uu-no-esta-bajo-ataque-sistemico-tras-fallos/3723795</link>
+    <description><![CDATA[El secretario de Estado de EE. UU., Marco Rubio, declaró desde Manila que no hay evidencia de que los problemas en infraestructuras tecnológicas en su país estén relacionados o sean resultado de ciberataques. Aseguró que no hay "un ataque sistémico".
+
+Rubio mencionó que los incidentes, como la suspensión de vuelos por fallos en el sistema de comunicación de controladores aéreos y las interrupciones en sistemas de banca digital, no están interrelacionados. La FAA atribuyó el problema a una saturación de datos en equipos antiguos.
+
+Además, Rubio restó importancia a las informaciones sobre una supuesta amenaza iraní con una bomba sucia en Washington, asegurando que no hay ninguna amenaza inminente.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794972061/noticias/articles/20261118_032101_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 18 Nov 2026 03:21:38 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261118032138</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Muere la influencer y empresaria dominicana Melissa Medina a los 22 años]]></title>
     <link>https://elnuevodiario.com.do/muere-la-influencer-y-empresaria-dominicana-melissa-medina-a-los-22-anos/</link>
     <description><![CDATA[Melissa Medina, influencer y empresaria dominicana, ha fallecido a los 22 años. Las circunstancias de su muerte no han sido esclarecidas, según informaciones de medios digitales y publicaciones en redes sociales.
@@ -1359,31 +1372,6 @@ Harvey C. Jones ha sido nombrado presidente del Consejo de Administración de Nv
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794492419/noticias/articles/20261112_140657_article.png" type="image/png"/>
     <pubDate>Thu, 12 Nov 2026 14:07:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261112140733</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Alertan sobre presunta filtración de más de 36,000 registros de estudiantes de la Universidad Central del Este]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261112134810</link>
-    <description><![CDATA[Una alerta de ciberseguridad difundida por VECERT Analyzer advierte sobre una presunta filtración de 36,335 registros vinculados a estudiantes de la Universidad Central del Este (UCE), en República Dominicana, que incluirían credenciales de acceso y contraseñas asociadas a la plataforma educativa Moodle.
-
-Según el reporte publicado por la organización especializada en inteligencia de amenazas informáticas, un actor identificado como ReiKernel habría anunciado en foros clandestinos la obtención y procesamiento de información correspondiente a usuarios de la plataforma académica.
-
-La publicación, detectada el 11 de noviembre de 2026, señala que los presuntos registros comprometidos estarían organizados en formato JSON y contendrían perfiles de usuarios, credenciales de acceso y contraseñas en texto plano.
-
-VECERT explicó que las credenciales habrían sido contrastadas con bases de datos de filtraciones anteriores mediante herramientas como LeakCheck, utilizadas para identificar contraseñas previamente expuestas.
-
-El informe plantea que parte de la información podría proceder de infecciones anteriores con programas maliciosos conocidos como infostealers, diseñados para sustraer contraseñas y otros datos almacenados en los dispositivos de estudiantes o personal administrativo.
-
-Sin embargo, la organización aclaró que la autenticidad de los datos, la existencia de una intrusión directa en los servidores de la universidad y el alcance de la presunta filtración no han sido confirmados oficialmente.
-
-Por tanto, tampoco se ha establecido que los 36,335 registros correspondan a igual número de estudiantes afectados.
-
-Ante la alerta, VECERT recomendó realizar una auditoría de los servidores Moodle, revisar los registros de acceso y aplicar medidas preventivas, incluido el cambio de contraseñas de los usuarios.
-
-El caso permanece como una denuncia de posible exposición de información académica y credenciales digitales, pendiente de verificación técnica y confirmación institucional.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794491245/noticias/articles/20261112_134724_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 12 Nov 2026 13:48:10 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261112134810</guid>
   </item>
 </channel>
 </rss>
