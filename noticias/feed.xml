@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 18 Nov 2026 16:10:25 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 16:37:01 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Unos 90 mil estudiantes se quedaron sin docencia en Santiago debido al paro de la ADP]]></title>
+    <link>https://www.diariolibre.com/actualidad/educacion/2026/11/18/paro-de-maestros-afecta-a-cerca-de-90-mil-estudiantes-en-santiago/3724269</link>
+    <description><![CDATA[Un paro convocado por la Asociación Dominicana de Profesores dejó sin clases a cerca de 90 mil estudiantes en Santiago. La protesta afectó a 290 centros educativos en varias seccionales de la provincia.
+
+Miguel Jorge, presidente provincial de la ADP, indicó que el paro responde a demandas no atendidas, como el déficit de docentes y problemas de infraestructura. Criticó también los retrasos en la evaluación del desempeño docente.
+
+El director provincial de Educación, Pedro Pablo Marte, cuestionó el paro, afirmando que contradice un acuerdo firmado recientemente entre el gremio y el Ministerio de Educación para atender las demandas de los docentes.
+
+Fuente: Diario Libre - Edward Fernández]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795019539/noticias/articles/20261118_163219_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 18 Nov 2026 16:37:01 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261118163701</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Pacheco admite que la ley anticrisis no generó los recursos que esperaba el Gobierno y justifica aumento del déficit]]></title>
     <link>https://www.diariolibre.com/politica/congreso-nacional/2026/11/18/ley-anticrisis-no-genero-los-recursos-esperados-segun-alfredo-pacheco/3724349</link>
     <description><![CDATA[Alfredo Pacheco, presidente de la Cámara de Diputados, reconoció que la ley anticrisis no generó los recursos esperados por el Gobierno. La Ley 30-26, aprobada en junio, tenía como objetivo recaudar 55,000 millones de pesos, pero no cumplió con las expectativas.
@@ -1373,17 +1388,6 @@ Fuente: El Día - Katherine Espino]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794535701/noticias/articles/20261113_020820_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 13 Nov 2026 02:09:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261113020920</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Condenan a 20 años de prisión a hombre que violó y embarazó a su hijastra de 14 años en Valverde]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/11/12/condenan-a-20-anos-de-prision-a-hombre-que-violo-y-embarazo-a-su-hijastra-de-14-anos-en-valverde-2168958/</link>
-    <description><![CDATA[Darvin Dariel González Colón ha sido condenado a 20 años de prisión por violar y embarazar a su hijastra de 14 años en Valverde, República Dominicana. La adolescente, que padece parálisis cerebral, fue agredida en junio de 2024.
-
-González Colón estuvo prófugo durante casi once meses, pero fue capturado en Montecristi. Una prueba de ADN confirmó su paternidad. Cumplirá su condena en el Centro de Corrección y Rehabilitación de Mao.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794535499/noticias/articles/20261113_020458_article.webp" type="image/webp"/>
-    <pubDate>Fri, 13 Nov 2026 02:07:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261113020733</guid>
   </item>
 </channel>
 </rss>
