@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 18 Nov 2026 16:07:19 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 16:10:25 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Pacheco admite que la ley anticrisis no generó los recursos que esperaba el Gobierno y justifica aumento del déficit]]></title>
+    <link>https://www.diariolibre.com/politica/congreso-nacional/2026/11/18/ley-anticrisis-no-genero-los-recursos-esperados-segun-alfredo-pacheco/3724349</link>
+    <description><![CDATA[Alfredo Pacheco, presidente de la Cámara de Diputados, reconoció que la ley anticrisis no generó los recursos esperados por el Gobierno. La Ley 30-26, aprobada en junio, tenía como objetivo recaudar 55,000 millones de pesos, pero no cumplió con las expectativas.
+
+El encarecimiento de los combustibles complicó la situación económica, lo que llevó al Poder Ejecutivo a proponer una segunda modificación al presupuesto de 2026. Esta modificación incluye un aumento del déficit fiscal y la suspensión temporal de la Ley de Responsabilidad Fiscal.
+
+Fuente: Diario Libre - Ismael Hiraldo]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795018157/noticias/articles/20261118_160916_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 18 Nov 2026 16:10:25 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261118161025</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Aduanas decomisa seis pistolas ocultas en una bocina en Puerto Plata]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/11/17/aduanas-decomisa-seis-pistolas-ocultas-en-una-bocina-en-puerto-plata-2171892/</link>
     <description><![CDATA[La Dirección General de Aduanas ha decomisado seis pistolas que estaban ocultas en una bocina de equipo de música en el muelle de Puerto Plata.
@@ -1371,17 +1384,6 @@ González Colón estuvo prófugo durante casi once meses, pero fue capturado en 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794535499/noticias/articles/20261113_020458_article.webp" type="image/webp"/>
     <pubDate>Fri, 13 Nov 2026 02:07:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261113020733</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Avión de Arajet aterriza de manera segura en Punta Cana pese a incidente con un neumático]]></title>
-    <link>https://www.diariolibre.com/actualidad/nacional/2026/11/12/avion-de-arajet-aterriza-de-manera-segura-en-punta-cana/3719202</link>
-    <description><![CDATA[Un avión de Arajet aterrizó de manera segura en Punta Cana tras un incidente con un neumático. El vuelo DM 5101 venía de Miami y no hubo heridos entre los pasajeros ni la tripulación.
-
-Las operaciones del aeropuerto fueron suspendidas temporalmente para realizar inspecciones de seguridad. Arajet está coordinando con las autoridades para garantizar el cumplimiento de los protocolos de seguridad. La aeronave será inspeccionada antes de reincorporarse a las operaciones.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794535388/noticias/articles/20261113_020307_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 13 Nov 2026 02:03:48 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261113020348</guid>
   </item>
 </channel>
 </rss>
