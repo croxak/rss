@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 18 Nov 2026 15:16:10 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 18 Nov 2026 15:31:45 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[PN apresa a “El Tuerto” requerido por presunto robo en una vivienda en Dajabón]]></title>
+    <link>https://elnuevodiario.com.do/pn-apresa-a-el-tuerto-requerido-por-presunto-robo-en-vivienda-en-dajabon/</link>
+    <description><![CDATA[La Policía Nacional ha arrestado a Wisle Pie, alias "El Tuerto", un hombre haitiano buscado por su presunta implicación en un robo en Dajabón.
+
+El incidente ocurrió en la madrugada del 22 de octubre en el sector Corral Grande, donde se sustrajeron varios artículos de una vivienda. El detenido está bajo custodia policial y será presentado al Ministerio Público.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795015315/noticias/articles/20261118_152149_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 18 Nov 2026 15:31:45 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261118153145</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Lee Ballester cuestiona a dominicanos que enfrentan a Migración para impedir arrestos de haitianos]]></title>
     <link>https://elnuevodiario.com.do/lee-ballester-cuestiona-a-dominicanos-que-enfrentan-a-migracion-para-impedir-arrestos-de-haitianos/</link>
     <description><![CDATA[El director general de Migración, Vicealmirante Luis Rafael Lee Ballester, ha manifestado su indignación por las acciones de algunos ciudadanos dominicanos que interfieren con los agentes migratorios para evitar la detención de extranjeros en situación irregular.
@@ -1365,17 +1376,6 @@ Tras la operación, el control del estadio fue entregado a las Fuerzas Armadas d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794514019/noticias/articles/20261112_200659_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 12 Nov 2026 20:07:37 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261112200737</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Se cae Outlook y otros servicios de Microsoft 365]]></title>
-    <link>https://www.primerahora.com/noticias/ciencia-tecnologia/notas/se-cae-outlook-y-otros-servicios-de-microsoft-365/</link>
-    <description><![CDATA[Usuarios de diversas regiones han reportado dificultades para acceder a Outlook y otros servicios de Microsoft 365. La interrupción ha afectado las plataformas de Microsoft, generando problemas para ingresar al correo electrónico y utilizar herramientas de trabajo.
-
-Microsoft ha confirmado que está investigando las fallas y trabaja para reducir el impacto de la interrupción. El incidente ha sido registrado bajo el código EX1550543. Aún no se ha proporcionado una hora estimada para el restablecimiento completo de los servicios.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794511606/noticias/articles/20261112_192646_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 12 Nov 2026 19:27:55 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261112192755</guid>
   </item>
 </channel>
 </rss>
