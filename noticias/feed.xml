@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 19 Nov 2026 13:29:05 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 13:31:15 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Salud Pública cierra quirófanos de clínica en Santo Domingo]]></title>
+    <link>https://listindiario.com/la-republica/sector-salud/20261119/salud-publica-cierra-quirofano-clinica-santo-domingo_930667.html</link>
+    <description><![CDATA[El Ministerio de Salud Pública ha ordenado el cierre de los quirófanos del Centro Médico Dr. Escaño en Santo Domingo. Esta medida se tomó después de que una paciente falleciera tras una intervención quirúrgica.
+
+Durante una inspección, se detectaron incumplimientos de la Ley General de Salud, incluyendo modificaciones no autorizadas en la infraestructura y personal no registrado participando en procedimientos. El Ministerio enfatiza que solo el personal aprobado puede atender pacientes.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795095030/noticias/articles/20261119_133030_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 19 Nov 2026 13:31:15 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261119133115</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Xi, Trump y Putin adoptan declaración de paz: "Una guerra nuclear no puede ganarse"]]></title>
     <link>https://www.diariolibre.com/mundo/estados-unidos/2026/11/19/xi-trump-y-putin-una-guerra-nuclear-no-puede-ganarse/3725354</link>
     <description><![CDATA[Xi Jinping, Donald Trump y Vladimir Putin adoptaron una declaración de paz en Shenzhen, China, afirmando que una guerra nuclear no puede ganarse. La reunión se realizó al margen del foro APEC.
@@ -1385,17 +1396,6 @@ Fuente: El Nacional - Yesika Florentino]]></description>
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794604309/noticias/articles/20261113_211149_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 13 Nov 2026 21:13:04 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261113211304</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía que murió persiguiendo a prófugos de la justicia dejó a cuatro hijos en la orfandad]]></title>
-    <link>https://www.diariolibre.com/actualidad/sucesos/2026/11/13/agente-de-la-policia-muerte-en-persecucion-dejo-cuatro-hijos-huerfanos/3720143</link>
-    <description><![CDATA[El sargento Juan Isaac Espinal Jiménez, de 35 años, murió en un enfrentamiento con prófugos en Santiago. Dejó a cuatro hijos y una esposa. Trabajó 13 años en la Policía Nacional, dedicando ocho a la investigación criminal.
-
-Espinal participaba en el seguimiento de Eduardo Paul Pérez Mercado y Edward de Jesús Pérez Silverio, buscados por crímenes violentos. Ambos murieron en el enfrentamiento. La Policía expresó sus condolencias a la familia del sargento.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794603943/noticias/articles/20261113_210543_article.png" type="image/png"/>
-    <pubDate>Fri, 13 Nov 2026 21:06:36 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261113210636</guid>
   </item>
 </channel>
 </rss>
