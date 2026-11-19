@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 19 Nov 2026 22:29:52 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 22:32:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Diputados aprueban de urgencia presupuesto complementario de 2026]]></title>
+    <link>https://noticiassin.com/pais/congreso-nacional/2026/11/19/camara-de-diputados-aprueba-urgencia-presupuesto-2026-2173268/</link>
+    <description><![CDATA[La Cámara de Diputados aprobó de urgencia el presupuesto complementario de 2026, incrementando el gasto público en más de RD$54 mil millones y elevando el déficit fiscal proyectado de 3.24 % a 4.2 % del PIB. Esta medida busca ajustar las finanzas públicas ante el encarecimiento del petróleo, la energía y otras materias primas.
+
+Legisladores de la oposición cuestionaron la rapidez de la aprobación y expresaron preocupación por el aumento del déficit fiscal y el endeudamiento público. Francisco Javier Paulino, presidente de la comisión especial, defendió la transparencia del Gobierno en el manejo de los recursos.
+
+La propuesta será remitida al Senado para continuar su trámite legislativo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795127474/noticias/articles/20261119_223114_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 19 Nov 2026 22:32:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261119223235</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Marco Rubio agradece a Haití por rescatar a menor estadounidense secuestrado]]></title>
     <link>https://noticiassin.com/estados-unidos/2026/11/19/marco-rubio-agradece-a-haiti-por-rescatar-a-menor-estadounidense-secuestrado-2173409/</link>
     <description><![CDATA[Marco Rubio, secretario de Estado de EE. UU., expresó su agradecimiento a las autoridades haitianas por su colaboración en el rescate de un menor estadounidense secuestrado.
@@ -1355,15 +1368,6 @@ Aunque la documentación judicial confirma que el desistimiento fue presentado d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794623214/noticias/articles/20261114_022653_article.png" type="image/png"/>
     <pubDate>Sat, 14 Nov 2026 02:28:23 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261114022823</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[EE. UU. reanuda los despegues de vuelos dentro de su territorio tras horas de interrupción]]></title>
-    <link>https://www.diariolibre.com/usa/actualidad/2026/11/13/eeuu-reanuda-los-despegues-de-vuelos-dentro-de-su-territorio/3720370</link>
-    <description><![CDATA[La Administración Federal de Aviación de Estados Unidos (FAA) ha levantado la suspensión nacional de despegues que había detenido las operaciones aéreas en los aeropuertos del país. La paralización se debió a una interrupción en las comunicaciones, según informó el organismo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794622376/noticias/articles/20261114_021255_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 14 Nov 2026 02:13:40 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261114021340</guid>
   </item>
 </channel>
 </rss>
