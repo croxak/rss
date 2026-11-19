@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 19 Nov 2026 22:32:35 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 23:41:50 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Médico dice que Melissa Medina llegó sin signos vitales al centro de salud]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/11/19/medico-dice-que-melissa-medina-llego-sin-signos-vitales-al-centro-de-salud-2173358/</link>
+    <description><![CDATA[El doctor Alfredo Vallejo declaró que Melissa Medina llegó al centro de salud sin signos vitales a las 5:30 de la madrugada. Un electrocardiograma confirmó la asistolia, es decir, la ausencia de actividad eléctrica en el corazón.
+
+Otro profesional de la salud también confirmó que la paciente llegó fallecida y que su condición fue documentada mediante el examen realizado.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795131673/noticias/articles/20261119_234112_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 19 Nov 2026 23:41:50 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261119234150</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Diputados aprueban de urgencia presupuesto complementario de 2026]]></title>
     <link>https://noticiassin.com/pais/congreso-nacional/2026/11/19/camara-de-diputados-aprueba-urgencia-presupuesto-2026-2173268/</link>
     <description><![CDATA[La Cámara de Diputados aprobó de urgencia el presupuesto complementario de 2026, incrementando el gasto público en más de RD$54 mil millones y elevando el déficit fiscal proyectado de 3.24 % a 4.2 % del PIB. Esta medida busca ajustar las finanzas públicas ante el encarecimiento del petróleo, la energía y otras materias primas.
@@ -1347,27 +1358,6 @@ El secretario de Transporte, Sean Duffy, advirtió que los equipos actuales segu
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794635469/noticias/articles/20261114_055104_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 14 Nov 2026 05:52:04 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261114055204</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Desistimiento de Samuel Pereyra estaría vinculado a acuerdo mutuo y confidencial con Carlos Rubio]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261114022823</link>
-    <description><![CDATA[El desistimiento de la demanda civil presentada por Samuel Pereyra contra Carlos Enrique Rubio Sr. ante un tribunal de Miami, Florida, estaría relacionado con un acuerdo mutuo y confidencial alcanzado entre ambas partes, según informó a El Testigo una fuente de entero crédito vinculada al proceso.
-
-De acuerdo con la información proporcionada a este medio, el entendimiento habría contemplado una serie de condiciones para poner fin al litigio iniciado en mayo de 2026.
-
-La misma fuente aseguró que una de las condiciones del acuerdo sería que Carlos Rubio no podría volver a referirse públicamente a Samuel Pereyra, aunque no se conocen el alcance ni la duración de ese supuesto compromiso.
-
-El pasado 9 de noviembre, los abogados de ambas partes presentaron ante el Tribunal del Undécimo Circuito Judicial de Miami-Dade una estipulación conjunta para desestimar definitivamente todas las reclamaciones formuladas por Pereyra contra Rubio y la empresa 4X2 Motto & Auto LLC.
-
-El documento establece que el desistimiento se realiza with prejudice, lo que impide volver a presentar las mismas reclamaciones y permite concluir el proceso sin una sentencia sobre el fondo de las acusaciones.
-
-El litigio comenzó cuando Pereyra acusó al comunicador de presuntas conductas extorsivas y difamatorias. Posteriormente, el demandante modificó sus reclamaciones, mientras que la defensa de Rubio solicitó al tribunal desestimar el caso.
-
-Aunque la documentación judicial confirma que el desistimiento fue presentado de manera conjunta, no revela las condiciones privadas que pudieron acompañarlo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794623214/noticias/articles/20261114_022653_article.png" type="image/png"/>
-    <pubDate>Sat, 14 Nov 2026 02:28:23 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261114022823</guid>
   </item>
 </channel>
 </rss>
