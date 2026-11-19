@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 19 Nov 2026 14:42:17 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 18:42:57 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Margarita Cedeño sale en defensa de Raquel Peña ante ataques por sus aspiraciones políticas]]></title>
+    <link>https://www.diariolibre.com/politica/general/2026/11/19/margarita-cedeno-sale-en-defensa-de-raquel-pena/3725672</link>
+    <description><![CDATA[Margarita Cedeño, exvicepresidenta de la República Dominicana, ha mostrado su apoyo a Raquel Peña, actual vicepresidenta, ante los cuestionamientos sobre sus aspiraciones presidenciales en el PRM. Cedeño resaltó las dificultades que enfrentan las mujeres en política y defendió su derecho a competir en igualdad de condiciones.
+
+Raquel Peña agradeció el respaldo de Cedeño y enfatizó que el respeto al liderazgo político de las mujeres debe prevalecer, más allá de las diferencias partidarias. Peña también reflexionó sobre la igualdad de oportunidades y la importancia de que el avance de las mujeres no se interprete como una pérdida de espacios para los hombres.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795113705/noticias/articles/20261119_184145_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 19 Nov 2026 18:42:57 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261119184257</guid>
+  </item>
+
+  <item>
     <title><![CDATA[MP acusa a mujer de presuntamente falsificar documentos para cobrar pensión de sobrevivencia]]></title>
     <link>https://elnuevodiario.com.do/mp-acusa-a-mujer-de-presuntamente-falsificar-documentos-para-cobrar-pension-de-sobrevivencia/</link>
     <description><![CDATA[El Ministerio Público ha acusado formalmente a Dilennys Mercedes Mercedes Rossó de falsificar documentos para obtener una pensión de sobrevivencia, alegando ser la esposa de un oficial de la Policía Nacional fallecido en 2019.
@@ -1381,17 +1392,6 @@ La aeronave continúa identificada por FlightAware como un vuelo en curso, mient
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794615805/noticias/articles/20261114_002324_article.png" type="image/png"/>
     <pubDate>Sat, 14 Nov 2026 00:24:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261114002405</guid>
-  </item>
-
-  <item>
-    <title><![CDATA["Esto no es otro 11 de septiembre": Estados Unidos afirmó que la suspensión de despegues aéreos no se debe a un ataque terrorista]]></title>
-    <link>https://www.clarin.com/mundo/11-septiembre-estados-unidos-afirmo-suspension-despegues-aereos-debe-ataque-terrorista_0_tsLZAlSriI.html</link>
-    <description><![CDATA[El 13 de noviembre de 2026, se produjo una interrupción temporal de telecomunicaciones en la FAA, lo que llevó a la suspensión de despegues aéreos en Estados Unidos. 
-
-El secretario Mullin del DHS aseguró que no hay indicios de un ataque terrorista. Todos los vuelos han sido contabilizados y los vuelos internacionales se gestionarán individualmente.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794615249/noticias/articles/20261114_001408_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 14 Nov 2026 00:15:19 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261114001519</guid>
   </item>
 </channel>
 </rss>
