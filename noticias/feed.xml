@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 19 Nov 2026 13:31:15 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 13:34:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Indomet prevé aguaceros y tronadas fuertes en la tarde]]></title>
+    <link>https://noticiassin.com/pais/clima/2026/11/19/indomet-preve-aguaceros-y-tronadas-fuertes-en-la-tarde-2172916/</link>
+    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) ha pronosticado lluvias pasajeras en la mañana y aguaceros de moderados a fuertes en la tarde de este jueves, acompañados de tormentas eléctricas y ráfagas de viento. Los chubascos matutinos se registrarán en La Altagracia, El Seibo, Hato Mayor, Samaná y María Trinidad Sánchez.
+
+Durante la tarde, los aguaceros afectarán a Monte Plata, La Vega, Santiago, Santiago Rodríguez, Dajabón, Valverde y Puerto Plata. Se recomienda tomar precauciones debido a las temperaturas calurosas y evitar la exposición al sol entre las 11:00 a. m. y las 4:00 p. m.
+
+En la noche, las temperaturas descenderán, especialmente en zonas montañosas. Además, se prevé la formación de un sistema de baja presión al norte de las Bahamas, sin peligro para el país.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795095211/noticias/articles/20261119_133331_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 19 Nov 2026 13:34:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261119133405</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Salud Pública cierra quirófanos de clínica en Santo Domingo]]></title>
     <link>https://listindiario.com/la-republica/sector-salud/20261119/salud-publica-cierra-quirofano-clinica-santo-domingo_930667.html</link>
     <description><![CDATA[El Ministerio de Salud Pública ha ordenado el cierre de los quirófanos del Centro Médico Dr. Escaño en Santo Domingo. Esta medida se tomó después de que una paciente falleciera tras una intervención quirúrgica.
@@ -1383,19 +1396,6 @@ El secretario de Transporte, Sean Duffy, ha señalado que existe un problema de 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794605865/noticias/articles/20261113_213744_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 13 Nov 2026 21:38:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261113213833</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Dos de 3 alegados delincuentes muertos en Santiago estaban entre los más buscados por la Policía]]></title>
-    <link>https://elnacional.com.do/nacionales/policiales/dos-cuatro-muertos-santiago-estaban-buscados-policia_586142.html</link>
-    <description><![CDATA[Dos de los tres alegados delincuentes muertos en un enfrentamiento con la Policía Nacional en Santiago estaban entre los más buscados por la institución. Eduardo Paul Pérez Mercado y Edward de Jesús Pérez Silverio eran perseguidos por homicidios y otros hechos violentos.
-
-En el tiroteo también murió el sargento Juan Isaac Espinal Jiménez, quien tenía 13 años de servicio en la Policía Nacional. El director general de la Policía expresó sus condolencias a los familiares del agente.
-
-Fuente: El Nacional - Yesika Florentino]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794604309/noticias/articles/20261113_211149_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 13 Nov 2026 21:13:04 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261113211304</guid>
   </item>
 </channel>
 </rss>
