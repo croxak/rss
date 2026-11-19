@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 19 Nov 2026 18:42:57 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 19 Nov 2026 18:53:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Arrestan a regidor de Higüey y a un notario imputados de narcotráfico y lavado]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/11/19/arrestan-a-regidor-de-higuey-y-a-notario-imputados-de-narcotrafico/3725857</link>
+    <description><![CDATA[El regidor de Higüey, Willy Zorrilla, fue arrestado junto a un notario no identificado por presuntos vínculos con el narcotráfico y el lavado de activos. La detención fue realizada por representantes del Ministerio Público y otras instituciones.
+
+Zorrilla es miembro del Partido Reformista Social Cristiano (PRSC). Los operativos continúan en desarrollo.
+
+Fuente: Diario Libre - Marisol Aquino]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795114332/noticias/articles/20261119_185211_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 19 Nov 2026 18:53:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261119185334</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Margarita Cedeño sale en defensa de Raquel Peña ante ataques por sus aspiraciones políticas]]></title>
     <link>https://www.diariolibre.com/politica/general/2026/11/19/margarita-cedeno-sale-en-defensa-de-raquel-pena/3725672</link>
     <description><![CDATA[Margarita Cedeño, exvicepresidenta de la República Dominicana, ha mostrado su apoyo a Raquel Peña, actual vicepresidenta, ante los cuestionamientos sobre sus aspiraciones presidenciales en el PRM. Cedeño resaltó las dificultades que enfrentan las mujeres en política y defendió su derecho a competir en igualdad de condiciones.
@@ -1369,29 +1382,6 @@ La situación se produce después de que la Administración Federal de Aviación
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794616212/noticias/articles/20261114_003011_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 14 Nov 2026 00:33:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261114003320</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Avión con destino a Alemania lleva más de dos horas sobrevolando en círculos el este de República Dominicana]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261114002405</link>
-    <description><![CDATA[Un avión comercial de la aerolínea alemana Condor, que despegó este viernes 13 de noviembre del Aeropuerto Internacional de La Romana con destino a Düsseldorf, Alemania, permanece realizando repetidos circuitos sobre el este de República Dominicana, sin emprender todavía su trayectoria prevista hacia Europa.
-
-Se trata del vuelo DE3843, identificado como CFG3843, operado por un Airbus A330-900neo con matrícula D-ANRC.
-
-Según los registros de seguimiento aéreo de FlightAware, la aeronave despegó a las 5:52 de la tarde, hora dominicana. Sin embargo, posteriormente comenzó a realizar múltiples giros sobre una misma zona próxima a la costa oriental del país.
-
-Los datos de seguimiento muestran que el avión ha mantenido una altitud aproximada de 11,000 pies, equivalentes a unos 3,350 metros, mientras ejecuta sucesivos cambios de rumbo que forman trayectorias circulares.
-
-Hasta las 8:17 de la noche, hora dominicana, el registro de posiciones continuaba mostrando a la aeronave sobrevolando la región oriental.
-
-El vuelo tenía previsto aterrizar en Düsseldorf a las 7:35 de la mañana del sábado, hora alemana. No obstante, FlightAware actualizó su llegada estimada a las 9:50 a. m., lo que representa un retraso de dos horas y 15 minutos.
-
-Por el momento, se desconoce qué ha motivado las maniobras. Tampoco existe confirmación oficial de una emergencia, desperfecto técnico o decisión de regresar al aeropuerto de origen.
-
-La aeronave continúa identificada por FlightAware como un vuelo en curso, mientras se mantiene el seguimiento de su trayectoria.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794615805/noticias/articles/20261114_002324_article.png" type="image/png"/>
-    <pubDate>Sat, 14 Nov 2026 00:24:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261114002405</guid>
   </item>
 </channel>
 </rss>
