@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 20 Nov 2026 13:08:55 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 13:27:39 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Bukele inscribe su candidatura oficial para conseguir el tercer mandato en las elecciones 2027 de El Salvador]]></title>
+    <link>https://www.rtve.es/noticias/20261120/bukele-el-salvador-candidatura-oficial-tercer-mandato/17322683.shtml</link>
+    <description><![CDATA[Nayib Bukele, presidente de El Salvador, ha inscrito su candidatura para un tercer mandato en las elecciones de 2027. Acompañado por el vicepresidente Félix Ulloa y miles de simpatizantes, presentó su solicitud ante el Tribunal Supremo Electoral.
+
+La reforma constitucional de 2025, aprobada por la Asamblea Legislativa, permite a Bukele optar por un tercer mandato y extiende el período presidencial a seis años. Las elecciones se adelantaron a 2027, y Bukele ha llamado a sus seguidores a votar el 28 de febrero.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795181195/noticias/articles/20261120_132634_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 20 Nov 2026 13:27:39 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261120132739</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Detienen en Palma de Mallorca a dominicano tras hallar presunta cocaína en su vehículo]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261120130855</link>
     <description><![CDATA[La Policía Nacional detuvo a un dominicano después de localizar aproximadamente 2.5 kilogramos de una sustancia presuntamente cocaína en el vehículo que conducía, tras llegar en barco desde la península española.
@@ -1373,19 +1384,6 @@ Clase y el también lanzador dominicano Luis Ortiz enfrentan cargos federales de
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794764750/noticias/articles/20261115_174550_article.jpg" type="image/jpeg"/>
     <pubDate>Sun, 15 Nov 2026 17:47:16 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261115174716</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Arrestan a “El Chavo”, buscado por tentativa de homicidio y otros delitos en Los Guaricanos]]></title>
-    <link>https://elnuevodiario.com.do/arrestan-a-el-chavo-buscado-por-tentativa-de-homicidio-y-otros-delitos-en-los-guaricanos/</link>
-    <description><![CDATA[Agentes de la Dirección Central de Investigación (DICRIM) detuvieron a Junior José Santiago Restituyo, conocido como “El Chavo”, en Santo Domingo Norte. Era buscado por su presunta participación en una tentativa de homicidio contra Jonas Antonio Mejía en Los Guaricanos.
-
-La Policía Nacional indicó que Santiago Restituyo aparece en un video difundido por el periodista Ramón Tolentino, donde se le observa accediendo a una estructura de dos niveles. Las circunstancias de este video están bajo investigación.
-
-Santiago Restituyo será puesto a disposición del Ministerio Público para los procedimientos legales correspondientes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794723749/noticias/articles/20261115_062229_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 15 Nov 2026 17:44:32 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261115174432</guid>
   </item>
 </channel>
 </rss>
