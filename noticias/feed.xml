@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 20 Nov 2026 17:37:50 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 21:28:01 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Dos soldados salvadoreños muertos y dos resultan heridos al manipular explosivo en Haití]]></title>
+    <link>https://ntelemicro.com/dos-soldados-salvadorenos-muertos-y-dos-resultan-heridos-al-manipular-explosivo-en-haiti/</link>
+    <description><![CDATA[Dos soldados de El Salvador fallecieron y otros dos resultaron heridos por una detonación mientras trabajaban con explosivos en Haití, informó la Fuerza Armada salvadoreña. Los heridos están recibiendo atención médica.
+
+Más de 2.000 militares salvadoreños están en Haití buscando a cuatro soldados desaparecidos desde el 18 de octubre. La Fuerza Armada expresó sus condolencias a las familias de los fallecidos.
+
+Este es el primer incidente con bajas desde el despliegue del contingente salvadoreño en Haití.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795210038/noticias/articles/20261120_212718_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 20 Nov 2026 21:28:01 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261120212801</guid>
+  </item>
+
+  <item>
     <title><![CDATA[ADP convoca protestas en cinco municipios por reclamos salariales y educativos]]></title>
     <link>https://www.diariolibre.com/actualidad/educacion/2026/11/20/adp-convoca-protestas-en-cinco-municipios-por-reclamos-salariales/3726606</link>
     <description><![CDATA[La Asociación Dominicana de Profesores (ADP) ha convocado protestas en cinco municipios del país para este viernes, exigiendo mejoras salariales y educativas.
@@ -1381,19 +1394,6 @@ El hecho ha generado preocupación en la comunidad, mientras se espera que las a
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794765671/noticias/articles/20261115_180111_article.webp" type="image/webp"/>
     <pubDate>Sun, 15 Nov 2026 18:02:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261115180258</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Aplazan para el martes coerción contra hombre acusado de manosear a una bebé]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/11/15/aplazan-coercion-contra-hombre-acusado-de-manosear-bebe-2170381/</link>
-    <description><![CDATA[La audiencia de medida de coerción contra Giancarlo Miguel Tejeda Guzman, acusado de manosear a una bebé de 11 meses, fue aplazada para el próximo martes. La defensa solicitó más tiempo para presentar documentos de arraigo y preparar sus presupuestos.
-
-El juez Rigoberto Sena tomó la decisión de aplazar la audiencia. Lissette Arias, abogada de la parte querellante, informó que solo hay una denuncia por agresión sexual relacionada con el video en el que aparece el acusado.
-
-La madre de la menor está afectada por lo ocurrido y junto al padre acudieron a la justicia. Se espera que el Ministerio Público profundice en las investigaciones.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794765570/noticias/articles/20261115_175929_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 15 Nov 2026 18:01:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261115180101</guid>
   </item>
 </channel>
 </rss>
