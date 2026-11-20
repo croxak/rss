@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 20 Nov 2026 01:17:01 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 01:21:47 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Rosalba Ramos, sobre muerte de Melissa Medina: "Permitan que el Ministerio Público esclarezca los hechos con objetividad"]]></title>
+    <link>https://hoy.com.do/el-pais/rosalba-ramos-sobre-muerte-melissa-medina-permitan-ministerio-publico-esclarezca-hechos-objetividad_1109285.html</link>
+    <description><![CDATA[Rosalba Ramos, fiscal del Distrito Nacional, ha solicitado a la ciudadanía que permita al Ministerio Público investigar con objetividad la muerte de Melissa Medina, evitando la difusión de versiones no verificadas.
+
+Melissa Medina, de 22 años, falleció el 17 de noviembre en una torre del Distrito Nacional. El Ministerio Público y la Policía Nacional están investigando las circunstancias del hecho y esperan los resultados de la autopsia para establecer la causa de la muerte.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795137664/noticias/articles/20261120_012104_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 20 Nov 2026 01:21:47 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261120012147</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Reportan captura en Sosúa de ruso buscado por presuntos sobornos a funcionarios de su país]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261120011701</link>
     <description><![CDATA[Un ciudadano ruso identificado como Aleksandr Shmidt, de 68 años, fue detenido en Sosúa tras ser requerido por las autoridades de su país por su presunta participación en el ofrecimiento y entrega de sobornos a funcionarios públicos, según información atribuida a la Policía Nacional.
@@ -1377,17 +1388,6 @@ Las maletas fueron detectadas mediante rayos X y revisadas en presencia de un fi
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794666404/noticias/articles/20261114_142643_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 14 Nov 2026 14:27:16 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261114142716</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Hombre muere tras presunto enfrentamiento con agentes del Dicrim en La Vega]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/11/14/muere-el-grenu-tras-enfrentar-a-patrulla-dicrim-en-la-vega-2169926/</link>
-    <description><![CDATA[En la comunidad de Las Maras, provincia La Vega, un hombre murió tras un presunto enfrentamiento con agentes del Dicrim. El fallecido, Juan Manuel Pilarte, alias El Greñú, de 29 años, estaba vinculado a una banda delictiva.
-
-Durante el operativo, las autoridades incautaron un revólver Smith & Wesson calibre .38, una motocicleta y dos aros de vehículo. El cuerpo fue enviado al Inacif y las evidencias al Ministerio Público.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794666003/noticias/articles/20261114_142003_article.webp" type="image/webp"/>
-    <pubDate>Sat, 14 Nov 2026 14:21:21 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261114142121</guid>
   </item>
 </channel>
 </rss>
