@@ -6,14 +6,29 @@
   <link>https://eltestigo.com</link>
   <description>Editoriales de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 17 Nov 2026 12:36:40 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 20:28:12 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/editorial/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Editorial</title>
     <link>https://eltestigo.com</link>
   </image>
-      <item>
+        <item>
+    <title><![CDATA[La verdad a medias]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-editorial-20261120202812</link>
+    <description><![CDATA[La sociedad dominicana enfrenta una tragedia que jamás debería presenciar. Melissa Medina murió con apenas 22 años, cuando apenas comenzaba a vivir. Una muerte que merece ser esclarecida, no quedar atrapada en un laberinto de interrogantes. Pero a esta tragedia se sumó otra injusticia, la de exponer a una joven que ya no puede defenderse al implacable tribunal de la opinión pública.
+
+La comunicación oficial fue la primera en abrir esa puerta. Revelar que Melissa pasó sus últimas horas con un hombre de 60 años y otra joven de 21, sin explicar las circunstancias ni identificar a las personas involucradas, fue sembrar interrogantes de consecuencias previsibles. ¿Quiénes eran? ¿Qué ocurrió? ¿Qué relación tenían? Las preguntas eran inevitables. El juicio público también era previsible. Y mientras se examinaba cada aspecto de su vida, seguía sin conocerse una versión oficial concluyente.
+
+Ahora se pretende cuestionar a los medios por las informaciones que han surgido. El periodismo no existe para encubrir las deficiencias de la comunicación oficial. Su deber es investigar, contrastar y publicar hechos verificados, por incómodos que resulten. Pero confundir información con especulación es tan irresponsable como pretender que el silencio sustituya las respuestas.
+
+La sociedad merece conocer toda la verdad. Si hubo responsabilidades, que se determinen. Pero las autoridades siguen debiendo explicaciones. La comunicación oficial no es un ejercicio de soltar verdades a conveniencia. Exige prudencia, contexto y responsabilidad.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795206299/noticias/articles/20261120_202458_article.png" type="image/png"/>
+    <pubDate>Fri, 20 Nov 2026 20:28:12 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-editorial-20261120202812</guid>
+  </item>
+
+  <item>
     <title><![CDATA[¿Justicia o control de daños?]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-editorial-20261117123640</link>
     <description><![CDATA[El poder comete un error cuando confunde su capacidad de construir discursos con la obligación de la sociedad de creerlos.
