@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 20 Nov 2026 04:22:29 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 20 Nov 2026 04:31:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[El director nacional de Ciberseguridad de la Casa Blanca deja el cargo tras una semana de fallos tecnológicos en Estados Unidos]]></title>
+    <link>https://elpais.com/us/2026-11-20/el-director-nacional-de-ciberseguridad-de-la-casa-blanca-deja-el-cargo-tras-una-semana-de-fallos-tecnologicos-en-estados-unidos.html</link>
+    <description><![CDATA[Sean Cairncross, director nacional de Ciberseguridad de la Casa Blanca, ha dejado su cargo en medio de una semana de interrupciones tecnológicas en Estados Unidos. La salida fue confirmada por una fuente cercana a la Casa Blanca, quien afirmó que el presidente apoyó su despido.
+
+Kirsten Davies, del Departamento de Defensa, asumirá temporalmente las funciones de Cairncross. Los fallos tecnológicos incluyeron interrupciones en el tráfico aéreo, servicios de correo electrónico de Microsoft y la red de la NSA. Las autoridades aseguran que no fueron ataques coordinados.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795149068/noticias/articles/20261120_043108_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 20 Nov 2026 04:31:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261120043155</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Red de narcotráfico usaba lanchas rápidas para enviar drogas a Puerto Rico, según el MP]]></title>
     <link>https://www.diariolibre.com/actualidad/nacional/2026/11/19/mp-revela-como-operaba-la-red-de-narcotrafico-desmantelada-en-higuey/3726148</link>
     <description><![CDATA[El Ministerio Público desmanteló una red de narcotráfico que utilizaba lanchas rápidas para enviar drogas a Puerto Rico. La operación Rompeolas reveló que la organización operaba desde Higüey y Miches.
@@ -1379,17 +1390,6 @@ El presidente del Consejo Directivo del Indotel, Guido Gómez Mazara, ha señala
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794686525/noticias/articles/20261114_200204_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 14 Nov 2026 20:02:49 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261114200249</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Imponen garantía de RD$1 millón al acusado de planear atentado contra Abinader]]></title>
-    <link>https://elnacional.com.do/nacionales/judicial/imponen-garantia-de-rd1-millon-al-acusado-de-planear-atentado-contra-abinader_586172.html</link>
-    <description><![CDATA[La Oficina Judicial de Servicios de Atención Permanente del distrito judicial de Duarte ha impuesto medidas de coerción contra Delvinson De La Cruz Sosa, acusado de planear un atentado contra el presidente Luis Abinader. El juez Wilton Oniel Peguero dictó una garantía económica de RD$1 millón, presentación periódica cada 15 días y prohibición de salida de San Francisco de Macorís.
-
-De La Cruz Sosa fue arrestado tras un allanamiento en su residencia y la Ferretería Molina, donde trabaja. Las autoridades buscan equipos electrónicos y sustancias químicas como parte de la investigación.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794676853/noticias/articles/20261114_172053_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 14 Nov 2026 17:21:27 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261114172127</guid>
   </item>
 </channel>
 </rss>
