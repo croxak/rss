@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 21 Nov 2026 15:28:55 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 17:26:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Regidor de Higüey que figura en red de narcotráfico aspiraba a cuatro años más en el cargo]]></title>
+    <link>https://listindiario.com/la-republica/20261120/regidor-higueey-figura-red-narcotrafico-aspiraba-cuatro-anos-mas-cargo_930923.html</link>
+    <description><![CDATA[Willy Manuel Zorrilla Domínguez, regidor de Higüey, ha sido vinculado a una red de narcotráfico desarticulada por el Ministerio Público y la DNCD. Esta red operaba entre Colombia, República Dominicana y Puerto Rico, con destinos finales en Estados Unidos y Europa.
+
+Zorrilla Domínguez, conocido como Willy Pacha, aspiraba a continuar en su cargo hasta 2032. En los operativos fueron arrestadas 21 personas, incluyendo a Zorrilla Domínguez y otros presuntos miembros de la red.
+
+La investigación también reveló operaciones de lavado de activos relacionadas con la organización.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795281954/noticias/articles/20261121_172554_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 21 Nov 2026 17:26:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261121172631</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Capturan en México al "Chapo Isidro", uno de los 10 narcotraficantes más buscados por el FBI]]></title>
     <link>https://listindiario.com/las-mundiales/20261121/capturan-mexico-10-narcotraficantes-mas-buscados-fbi_930993.html</link>
     <description><![CDATA[Militares mexicanos capturaron a Fausto Isidro Meza, conocido como "Chapo Isidro", en el estado de Sinaloa. Este narcotraficante es uno de los 10 más buscados por el FBI.
@@ -1419,17 +1432,6 @@ Sin embargo, la inscripción de Martine Moïse todavía no constituye la aceptac
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794840946/noticias/articles/20261116_145545_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 16 Nov 2026 14:56:22 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261116145622</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Muere cabo de la Policía tras recibir varios disparos en Verón]]></title>
-    <link>https://elnuevodiario.com.do/muere-cabo-de-la-policia-tras-recibir-varios-disparos-en-veron/</link>
-    <description><![CDATA[Un cabo de la Policía Nacional murió tras recibir varios disparos en el sector Villa La Fe, Verón-Punta Cana. El agente, Wilkin Belén, de 35 años, fue trasladado al Hospital General de Verón, donde llegó sin signos vitales.
-
-El incidente ocurrió durante un supuesto atraco. Entre las pertenencias del cabo se encontraron documentos personales, un carnet policial, un teléfono celular y 2,200 pesos en efectivo. Las circunstancias del hecho aún no han sido esclarecidas oficialmente.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794839142/noticias/articles/20261116_142540_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 16 Nov 2026 14:54:11 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261116145411</guid>
   </item>
 </channel>
 </rss>
