@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 21 Nov 2026 14:59:23 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 15:04:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Reportan condena de 18 meses contra hombre identificado como dominicano por agresión con machete en Guadalupe]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261121150433</link>
+    <description><![CDATA[Un hombre identificado como dominicano fue condenado a 18 meses de prisión efectiva por agredir con un machete a otro hombre en Pointe-à-Pitre, territorio francés del Caribe, según informó la emisora RCI.
+
+El sentenciado fue identificado por el medio como Luis Ricardo Polimon, de 28 años. La publicación señala que el tribunal también le impuso una prohibición de entrada al territorio francés durante diez años.
+
+De acuerdo con la reconstrucción presentada en la cobertura judicial, el hecho ocurrió el 4 de noviembre, alrededor de las 10:00 de la noche, cuando Polimon encontró a su expareja conversando con un hombre.
+
+Tras un intercambio de insultos, habría buscado un machete en su vehículo y atacado al acompañante. La víctima sufrió heridas en un brazo y una mano, incluida una lesión en un tendón, por las que recibió una incapacidad médica de 45 días.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795273415/noticias/articles/20261121_150334_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 21 Nov 2026 15:04:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261121150433</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Reportan que juez niega libertad a dominicano baleado por agentes migratorios en Nueva York]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261121145923</link>
     <description><![CDATA[Un juez federal rechazó la solicitud de libertad de Óscar Belgal, el dominicano de 28 años que resultó herido durante una intervención de agentes migratorios en Nueva York el pasado 8 de octubre, informó Associated Press.
@@ -1419,19 +1434,6 @@ La Fiscalía también le atribuye la explotación sexual de al menos 16 personas
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794837444/noticias/articles/20261116_135724_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 16 Nov 2026 13:58:04 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261116135804</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Acusan a un hombre por la muerte a golpes de su tía dominicana en El Bronx]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261116135415</link>
-    <description><![CDATA[Joshua Núñez, de 35 años, fue acusado de asesinato, homicidio y agresión por la muerte de su tía, la dominicana Carmen Núñez, de 75 años, tras una presunta golpiza en la vivienda que ambos compartían en el sector Hunts Point, en El Bronx.
-
-Agentes de la Policía de Nueva York acudieron al apartamento poco antes de las 12:45 de la madrugada del sábado 14 de noviembre. Encontraron a la mujer inconsciente y sin responder. Los paramédicos la trasladaron al Hospital Lincoln, donde fue declarada muerta.
-
-Según la Policía, el hombre presuntamente agredió a su tía durante una discusión. Las autoridades anunciaron los cargos el domingo 15 de noviembre.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794837180/noticias/articles/20261116_135259_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 16 Nov 2026 13:54:15 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261116135415</guid>
   </item>
 </channel>
 </rss>
