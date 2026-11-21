@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 21 Nov 2026 14:54:32 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 14:59:23 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+    <title><![CDATA[Reportan que juez niega libertad a dominicano baleado por agentes migratorios en Nueva York]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261121145923</link>
+    <description><![CDATA[Un juez federal rechazó la solicitud de libertad de Óscar Belgal, el dominicano de 28 años que resultó herido durante una intervención de agentes migratorios en Nueva York el pasado 8 de octubre, informó Associated Press.
+
+Según el despacho, el juez Hector Gonzalez consideró que una posible irregularidad en el orden de entrega de los documentos migratorios no obligaba a disponer su liberación mientras continúa el procedimiento de deportación.
+
+Belgal fue alcanzado por disparos cuando se encontraba en un vehículo junto a su hijo de cinco años, quien no resultó herido.
+
+Las autoridades federales sostienen que los agentes actuaron al considerar que sus vidas estaban en peligro. Sus abogados cuestionan esa versión y denuncian un uso excesivo de la fuerza.
+
+De acuerdo con AP, el juez señaló que el recurso utilizado para solicitar la libertad no era la vía adecuada para resolver las alegaciones sobre el tiroteo. También indicó que Belgal puede solicitar su excarcelación bajo fianza ante el tribunal de inmigración.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795273118/noticias/articles/20261121_145837_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 21 Nov 2026 14:59:23 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261121145923</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Dictan prisión preventiva contra dominicano investigado por homicidio de joven en Chile]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261121145432</link>
     <description><![CDATA[Un ciudadano dominicano quedó en prisión preventiva tras ser formalizado por su presunta participación en el homicidio de un joven de 19 años, cuyo cuerpo fue abandonado en una carretera de la comuna de Buin, en la Región Metropolitana.
@@ -1415,19 +1432,6 @@ Según la Policía, el hombre presuntamente agredió a su tía durante una discu
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794837180/noticias/articles/20261116_135259_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 16 Nov 2026 13:54:15 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261116135415</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Al menos cinco presuntos pandilleros haitianos mueren en operación de fuerza multinacional]]></title>
-    <link>https://acento.com.do/actualidad/al-menos-cinco-presuntos-pandilleros-haitianos-mueren-en-operacion-de-fuerza-multinacional-9790682.html</link>
-    <description><![CDATA[Cinco presuntos pandilleros haitianos murieron en una operación de la Fuerza de Supresión de Pandillas (GSF) en Artibonito, Haití. La operación permitió recuperar el control de una iglesia y una escuela en el sector de Carnifice.
-
-La GSF, integrada por policías y militares de varios países, desmanteló barricadas en la Carretera Nacional No. 5. El objetivo es restaurar la libertad de circulación y la presencia del Estado en comunidades afectadas por bandas armadas.
-
-En Artibonito, al menos diez personas fueron asesinadas el sábado en un ataque atribuido a la banda Gran Grif.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794799307/noticias/articles/20261116_032147_article.webp" type="image/webp"/>
-    <pubDate>Mon, 16 Nov 2026 03:23:09 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261116032309</guid>
   </item>
 </channel>
 </rss>
