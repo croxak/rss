@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 21 Nov 2026 00:00:02 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 14:39:01 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Muere un tercer militar salvadoreño en Haití tras una detonación de explosivos]]></title>
+    <link>https://www.diariolibre.com/mundo/haiti/2026/11/21/muere-un-tercer-militar-salvadoreno-en-haiti-tras-una-detonacion/3727476</link>
+    <description><![CDATA[La Fuerza Armada de El Salvador ha confirmado la muerte de un tercer militar en Haití tras una detonación accidental de explosivos en un campamento. El soldado falleció mientras recibía atención médica en República Dominicana.
+
+Con este fallecimiento, tres militares salvadoreños han perdido la vida en este incidente. El otro soldado herido ya está fuera de peligro.
+
+Más de 2,000 militares salvadoreños están desplegados en Haití para buscar a cuatro soldados desaparecidos y apoyar operaciones contra pandillas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795271887/noticias/articles/20261121_143807_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 21 Nov 2026 14:39:01 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261121143901</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Policía solo ha entrevistado a la acompañante de Melissa Medina y vigilante de la torre donde murió]]></title>
     <link>https://www.diariolibre.com/actualidad/sucesos/2026/11/20/nuevas-informaciones-sobre-la-muerte-de-la-empresaria-melissa-medina/3727176</link>
     <description><![CDATA[La Policía Nacional ha entrevistado a Mariana Michelena Pascual y a un vigilante en relación con la muerte de Melissa Medina. El vocero Diego Pesqueira aclaró que el vigilante no está involucrado en el hecho. Aún no se ha entrevistado a Eliezer Salvador, quien estaba presente en el apartamento.
@@ -1405,19 +1418,6 @@ El evento Freedom 250 destaca los lazos históricos y la cooperación entre la R
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794798518/noticias/articles/20261116_030837_article.png" type="image/png"/>
     <pubDate>Mon, 16 Nov 2026 03:09:27 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261116030927</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía Nacional apresa a hombre con más de 20 pacas de presunta cocaína en La Romana]]></title>
-    <link>https://eldia.com.do/policia-nacional-apresa-a-hombre-con-mas-de-20-pacas-de-presunta-cocaina-en-la-romana/</link>
-    <description><![CDATA[La Policía Nacional arrestó a Gabriel Cruz Ramírez en la Autopista del Coral, tramo La Romana-Punta Cana, encontrándole 22 pacas de un polvo blanco, presumiblemente cocaína. 
-
-El operativo fue realizado por la Dirección Central de Inteligencia (DINTEL) en coordinación con el fiscalizador del Distrito Judicial de La Altagracia. Las pacas estaban en una camioneta Nissan NV200, junto con dos dispositivos GPS. 
-
-El detenido y las evidencias están bajo control del Ministerio Público para los procedimientos legales correspondientes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794766561/noticias/articles/20261115_181601_article.webp" type="image/webp"/>
-    <pubDate>Sun, 15 Nov 2026 18:16:41 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261115181641</guid>
   </item>
 </channel>
 </rss>
