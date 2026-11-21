@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 21 Nov 2026 15:04:33 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 15:10:44 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Hackers atacan el Departamento de Agricultura de Estados Unidos y el FBI]]></title>
+    <link>https://www.diariolibre.com/usa/actualidad/2026/11/21/departamento-de-agricultura-y-el-fbi-sufren-ataques-ciberneticos/3727535</link>
+    <description><![CDATA[El Departamento de Agricultura de Estados Unidos y el FBI han sido blanco de ataques cibernéticos, según reportes de NBC News y CNN. Los responsables aún no han sido identificados.
+
+El USDA informó que un sistema de pagos a agricultores fue atacado, lo que podría comprometer información sensible. Por su parte, el FBI investiga una intrusión en el Centro Nacional de Información Criminal, siendo esta la segunda desde septiembre.
+
+La Casa Blanca ha despedido a su jefe de ciberseguridad, Sean Cairncross, en medio de críticas por los incidentes tecnológicos recientes.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795273723/noticias/articles/20261121_150843_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 21 Nov 2026 15:10:44 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261121151044</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Reportan condena de 18 meses contra hombre identificado como dominicano por agresión con machete en Guadalupe]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261121150433</link>
     <description><![CDATA[Un hombre identificado como dominicano fue condenado a 18 meses de prisión efectiva por agredir con un machete a otro hombre en Pointe-à-Pitre, territorio francés del Caribe, según informó la emisora RCI.
@@ -1421,19 +1434,6 @@ Viettel contempla una inversión de aproximadamente US$560 millones para desarro
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794838177/noticias/articles/20261116_140937_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 16 Nov 2026 14:10:11 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261116141011</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Países Bajos juzgará a un hombre por presunto tráfico de migrantes con conexión dominicana]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261116135804</link>
-    <description><![CDATA[Un hombre de Ámsterdam está citado a comparecer el martes 17 de noviembre ante un tribunal de Dordrecht por presunto tráfico de migrantes, explotación sexual y lavado de activos. La Fiscalía neerlandesa identificó a República Dominicana entre los países de procedencia de las presuntas víctimas del tráfico de migrantes.
-
-Según el Ministerio Público, el acusado habría facilitado la entrada irregular de al menos siete personas a Países Bajos entre mayo y octubre de 2025. La Fiscalía señaló que esas personas procedían presuntamente de República Dominicana, Brasil, Moldavia, Colombia y Panamá.
-
-La Fiscalía también le atribuye la explotación sexual de al menos 16 personas en Róterdam y Ámsterdam y el presunto lavado de más de 100,000 euros.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794837444/noticias/articles/20261116_135724_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 16 Nov 2026 13:58:04 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261116135804</guid>
   </item>
 </channel>
 </rss>
