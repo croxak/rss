@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 21 Nov 2026 14:40:47 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 14:50:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Muere dominicana en Surinam tras presunto ataque con excavadora contra un campamento]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261121145032</link>
+    <description><![CDATA[Una mujer de nacionalidad dominicana y un hombre surinamés murieron después de que una excavadora embistiera el campamento donde dormían, en la zona aurífera de Pakira, confirmó la Policía de Surinam.
+
+Según la investigación preliminar, un operador surinamés conocido como “Read” habría dirigido intencionalmente la maquinaria contra el lugar después de sostener una disputa con las víctimas.
+
+El impacto provocó la muerte de ambas personas en el sitio, de acuerdo con el comunicado divulgado por las autoridades el 20 de noviembre.
+
+La Policía de Moengo abrió una investigación para esclarecer las circunstancias y establecer las responsabilidades. Las autoridades no divulgaron los nombres ni las edades de los fallecidos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795272541/noticias/articles/20261121_144900_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 21 Nov 2026 14:50:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261121145032</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Haití acuerda construir tres cárceles con empresas salvadoreñas tras visita al Cecot]]></title>
     <link>https://www.diariolibre.com/mundo/america-latina/2026/11/20/haiti-acuerda-construir-tres-carceles-con-empresas-salvadorenas/3727303</link>
     <description><![CDATA[Haití y El Salvador han firmado un acuerdo para construir tres nuevas cárceles en territorio haitiano. La iniciativa contará con la participación de una empresa salvadoreña y una compañía local.
@@ -1407,19 +1422,6 @@ Rafael Caro Quintero, también acusado por el asesinato de Camarena, está bajo 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794799103/noticias/articles/20261116_031822_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 16 Nov 2026 03:20:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261116032020</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Muere a los 80 años el "Jefe de jefes", Miguel Ángel Félix Gallardo, fundador del Cártel de Guadalajara]]></title>
-    <link>https://laopinion.com/2026/11/15/muere-a-los-80-anos-el-jefe-de-jefes-miguel-angel-felix-gallardo-fundador-del-cartel-de-guadalajara/</link>
-    <description><![CDATA[Miguel Ángel Félix Gallardo, conocido como el "Jefe de jefes", falleció a los 80 años en Guadalajara, Jalisco. Su muerte fue confirmada por la Secretaría de Seguridad de Jalisco, tras sufrir una falla orgánica múltiple.
-
-Félix Gallardo fue el fundador del Cártel de Guadalajara y cumplía una condena de 77 años por narcotráfico y el asesinato del agente de la DEA, Enrique "Kiki" Camarena. Fue capturado en 1989 después de permanecer prófugo.
-
-Nacido en Culiacán, Sinaloa, en 1946, su carrera criminal incluyó la colaboración con organizaciones colombianas y el control de rutas de distribución de drogas hacia Estados Unidos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794798986/noticias/articles/20261116_031626_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 16 Nov 2026 03:17:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261116031729</guid>
   </item>
 </channel>
 </rss>
