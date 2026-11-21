@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 21 Nov 2026 15:19:33 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 15:28:55 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Capturan en México al "Chapo Isidro", uno de los 10 narcotraficantes más buscados por el FBI]]></title>
+    <link>https://listindiario.com/las-mundiales/20261121/capturan-mexico-10-narcotraficantes-mas-buscados-fbi_930993.html</link>
+    <description><![CDATA[Militares mexicanos capturaron a Fausto Isidro Meza, conocido como "Chapo Isidro", en el estado de Sinaloa. Este narcotraficante es uno de los 10 más buscados por el FBI.
+
+La detención desató un violento enfrentamiento que obligó a suspender un partido de béisbol profesional. "Chapo Isidro" es parte de la banda de los Beltrán Leyva y aliado de una facción del cartel de Sinaloa. Estados Unidos ha solicitado su extradición por narcotráfico.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795274860/noticias/articles/20261121_152740_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 21 Nov 2026 15:28:55 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261121152855</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Gobierno iniciará construcción de la autopista del Ámbar el próximo viernes, según Paliza]]></title>
     <link>https://elnuevodiario.com.do/gobierno-iniciara-construccion-de-la-autopista-del-ambar-el-proximo-viernes-segun-paliza/</link>
     <description><![CDATA[El ministro de la Presidencia, José Ignacio Paliza, informó que el presidente Luis Abinader visitará Puerto Plata el viernes 27 de noviembre para iniciar formalmente la construcción de la autopista del Ámbar. Aunque los trabajos ya comenzaron, el acto formal será liderado por el mandatario.
@@ -1419,17 +1430,6 @@ El incidente ocurrió durante un supuesto atraco. Entre las pertenencias del cab
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794839142/noticias/articles/20261116_142540_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 16 Nov 2026 14:54:11 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261116145411</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Hallan cuerpo de mujer arrastrada por cañada en Santiago]]></title>
-    <link>https://noticiassin.com/pais/provincias/2026/11/16/hallan-cuerpo-de-mujer-arrastrada-por-canada-en-santiago-2170715/</link>
-    <description><![CDATA[La Defensa Civil ha encontrado el cuerpo de Dolka Martínez, de 57 años, quien fue arrastrada por la cañada de Vuelta Larga en el sector Los Salados, Santiago. El hallazgo se realizó cerca del lugar donde ocurrió el incidente.
-
-La Policía Nacional está en el lugar, coordinando con el Ministerio Público, la unidad de Homicidios y el Inacif para el levantamiento del cuerpo. La Defensa Civil seguirá colaborando con las autoridades y ofrecerá más información conforme avance el proceso.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794839053/noticias/articles/20261116_142412_article.webp" type="image/webp"/>
-    <pubDate>Mon, 16 Nov 2026 14:25:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261116142529</guid>
   </item>
 </channel>
 </rss>
