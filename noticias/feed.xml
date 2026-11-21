@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sat, 21 Nov 2026 15:12:50 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 15:19:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+    <title><![CDATA[Gobierno iniciará construcción de la autopista del Ámbar el próximo viernes, según Paliza]]></title>
+    <link>https://elnuevodiario.com.do/gobierno-iniciara-construccion-de-la-autopista-del-ambar-el-proximo-viernes-segun-paliza/</link>
+    <description><![CDATA[El ministro de la Presidencia, José Ignacio Paliza, informó que el presidente Luis Abinader visitará Puerto Plata el viernes 27 de noviembre para iniciar formalmente la construcción de la autopista del Ámbar. Aunque los trabajos ya comenzaron, el acto formal será liderado por el mandatario.
+
+Paliza realizó un recorrido de supervisión de obras en la provincia, destacando que el Gobierno ha ejecutado más de 130 obras en el área. La supervisión incluyó visitas a varios municipios y contó con la participación de diversas autoridades.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795274320/noticias/articles/20261121_151837_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 21 Nov 2026 15:19:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261121151933</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Reportan condena en Escocia de hombre que permaneció en RD tras obtener libertad bajo fianza]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261121151250</link>
     <description><![CDATA[Un hombre que permaneció en República Dominicana después de ser puesto en libertad bajo fianza recibió una condena de 13 meses de prisión por tentativa de extorsión, según una cobertura judicial de The Courier.
@@ -1419,17 +1430,6 @@ La Policía Nacional está en el lugar, coordinando con el Ministerio Público, 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794839053/noticias/articles/20261116_142412_article.webp" type="image/webp"/>
     <pubDate>Mon, 16 Nov 2026 14:25:29 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261116142529</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[DGII no sancionará por el momento a los que no completaron proceso de facturación electrónica]]></title>
-    <link>https://listindiario.com/la-republica/gobierno/20261116/dgii-dice-habra-multas-completar-facturacion-electronica_930253.html</link>
-    <description><![CDATA[La Dirección General de Impuestos Internos (DGII) ha comunicado que no aplicará sanciones a los contribuyentes que no completaron el proceso de facturación electrónica al 15 de noviembre de 2026.
-
-La DGII reafirma su compromiso de brindar orientación y asistencia a los contribuyentes durante su incorporación al sistema. No se otorgará una nueva prórroga general, conforme a la Ley Núm. 32-23 de Facturación Electrónica.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794838943/noticias/articles/20261116_142223_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 16 Nov 2026 14:22:54 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261116142254</guid>
   </item>
 </channel>
 </rss>
