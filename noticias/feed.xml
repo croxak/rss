@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 20 Nov 2026 23:03:43 +0000</lastBuildDate>
+  <lastBuildDate>Sat, 21 Nov 2026 00:00:02 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Policía solo ha entrevistado a la acompañante de Melissa Medina y vigilante de la torre donde murió]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/11/20/nuevas-informaciones-sobre-la-muerte-de-la-empresaria-melissa-medina/3727176</link>
+    <description><![CDATA[La Policía Nacional ha entrevistado a Mariana Michelena Pascual y a un vigilante en relación con la muerte de Melissa Medina. El vocero Diego Pesqueira aclaró que el vigilante no está involucrado en el hecho. Aún no se ha entrevistado a Eliezer Salvador, quien estaba presente en el apartamento.
+
+Melissa Medina falleció el 17 de noviembre en un apartamento en Piantini. Mariana Pascual relató que Medina mostró malestar tras un encuentro con Salvador. A pesar de los intentos de reanimación, Medina fue llevada a una clínica, donde se confirmó su muerte.
+
+La fiscal Rosalba Ramos informó que el Ministerio Público espera los resultados de la autopsia para determinar la causa de la muerte de Medina. Se cuenta con información preliminar sobre una falla cardíaca.
+
+Fuente: Diario Libre - Luz Ogando]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795218815/noticias/articles/20261120_235335_article.jpg" type="image/jpeg"/>
+    <pubDate>Sat, 21 Nov 2026 00:00:02 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261121000002</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Banco Popular recibe reconocimiento de ASONAHORES por financiamiento turístico]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261120230343</link>
     <description><![CDATA[El Banco Popular Dominicano fue reconocido por la Asociación de Hoteles y Turismo de la República Dominicana (ASONAHORES) con el premio a la Transacción del Año, por la estructuración y financiamiento de US$130 millones para el desarrollo y construcción del Hotel Serenade Caribe Club, durante el Foro de Inversión Turística 2026, celebrado por este gremio empresarial.
@@ -1403,19 +1418,6 @@ El detenido y las evidencias están bajo control del Ministerio Público para lo
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794766561/noticias/articles/20261115_181601_article.webp" type="image/webp"/>
     <pubDate>Sun, 15 Nov 2026 18:16:41 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261115181641</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Al menos 10 personas asesinadas en una matanza en el departamento haitiano de Artibonito]]></title>
-    <link>https://www.swissinfo.ch/spa/al-menos-10-personas-asesinadas-en-una-matanza-en-el-departamento-haitiano-de-artibonito/92385046</link>
-    <description><![CDATA[Al menos diez personas fueron asesinadas en un ataque de una banda armada en el departamento haitiano de Artibonito. La matanza ocurrió en la aldea de Morne-Robert, en la comuna de Saint-Marc, y fue atribuida a la banda Gran Grif.
-
-Las víctimas eran agricultores del municipio de Verrettes que se dirigían al mercado de Pont-Sondé. Algunos medios elevan a trece el número de víctimas, cifra no confirmada oficialmente.
-
-La banda Gran Grif es responsable del 80 % de las muertes de civiles en Artibonito entre 2022 y julio de 2025.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794766482/noticias/articles/20261115_181442_article.jpg" type="image/jpeg"/>
-    <pubDate>Sun, 15 Nov 2026 18:15:44 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261115181544</guid>
   </item>
 </channel>
 </rss>
