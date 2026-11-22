@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 22 Nov 2026 16:46:35 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 16:50:46 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Extraditan a dominicano acusado de asesinato en El Bronx tras captura en Higüey]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261122165046</link>
+    <description><![CDATA[Un dominicano de 48 años, acusado de asesinato y agresiones en El Bronx, fue extraditado a Estados Unidos después de ser capturado en Higüey, provincia La Altagracia.
+
+Se trata de Ramón Joaquín Romero Bastardo, identificado también como Ramón Romero, quien fue entregado a oficiales estadounidenses en el Aeropuerto Internacional de Las Américas. El procedimiento fue coordinado por la Procuraduría General de la República y la Dirección Nacional de Control de Drogas, con apoyo del Servicio de Alguaciles de Estados Unidos.
+
+El dominicano es requerido por la Corte Suprema del Estado de Nueva York, en el condado del Bronx, mediante una acusación formal presentada el 29 de octubre de 2024, correspondiente al expediente IND-74900-24.
+
+Los cargos incluyen asesinato en segundo grado, homicidio en primer grado —manslaughter—, agresión en grupo en primer grado, agresión en segundo grado y posesión ilícita de un arma en cuarto grado.
+
+Su extradición fue autorizada mediante el decreto 717-26, del 15 de octubre de 2026. El documento establece que Romero Bastardo aceptó voluntariamente su entrega a las autoridades estadounidenses durante una audiencia celebrada ante la Suprema Corte de Justicia dominicana.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795366197/noticias/articles/20261122_164957_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 22 Nov 2026 16:50:46 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261122165046</guid>
+  </item>
+
+  <item>
     <title><![CDATA[COE emite alerta verde en siete provincias y el Distrito Nacional por lluvias]]></title>
     <link>https://noticiassin.com/pais/clima/2026/11/22/coe-emite-alerta-verde-en-siete-provincias-y-el-distrito-nacional-por-lluvias-2174842/</link>
     <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha colocado en alerta verde a siete provincias y el Distrito Nacional debido a un pronóstico de lluvias moderadas a fuertes, tormentas eléctricas, ráfagas de viento y posibilidad de granizadas.
@@ -1431,19 +1448,6 @@ El Gobierno ha establecido un mecanismo para que los contratos con prestadoras d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794870715/noticias/articles/20261116_231155_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 16 Nov 2026 23:13:11 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261116231311</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[United Airlines sufre una interrupción generalizada de sus sistemas, informa la aerolínea]]></title>
-    <link>https://cnnespanol.cnn.com/2026/11/16/eeuu/united-airlines-interrupcion-generalizada-sistemas-trax</link>
-    <description><![CDATA[United Airlines experimenta una interrupción en su sistema que afecta los vuelos de salida. La aerolínea está trabajando para solucionar el problema rápidamente.
-
-La FAA está al tanto del incidente y ha confirmado que no se trata de un problema con sus equipos. United Airlines asegura que no hay indicios de un ciberataque.
-
-Hasta las 5:30 p.m., hora de Miami, el 13% de los vuelos de United presentaba retrasos, aunque no todos están vinculados a la interrupción.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794870318/noticias/articles/20261116_230518_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 16 Nov 2026 23:06:04 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261116230604</guid>
   </item>
 </channel>
 </rss>
