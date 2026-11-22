@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 22 Nov 2026 16:40:48 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 16:44:17 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Defensa de regidor detenido en operativo antinarcótico interpone habeas corpus por arresto]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/11/22/detencion-de-willy-manuel-zorrilla-y-habeas-corpus/3727873</link>
+    <description><![CDATA[La defensa del regidor Willy Manuel Zorrilla Domínguez ha interpuesto un habeas corpus para cuestionar la legalidad de su detención durante la Operación Rompeolas. Alegan que no se cumplió el plazo constitucional de 48 horas para presentarlo ante un juez.
+
+Los abogados también denunciaron que Zorrilla Domínguez habría sufrido agresiones físicas durante su arresto. La acción judicial se fundamenta en la Constitución, el Código Procesal Penal y la Convención Americana sobre Derechos Humanos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795365825/noticias/articles/20261122_164344_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 22 Nov 2026 16:44:17 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261122164417</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Declaran culpable en Texas a pastor dominicano por fraude millonario con víctimas en República Dominicana]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261122164048</link>
     <description><![CDATA[El pastor dominicano Richard Reinaldo García, de 53 años, fue declarado culpable por un esquema de inversiones fraudulentas que provocó pérdidas superiores a US$6 millones a más de 70 víctimas en Estados Unidos, República Dominicana, Colombia y México.
@@ -1431,17 +1442,6 @@ La Policía Nacional de Haití sigue realizando operativos en Gressier, mientras
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794862351/noticias/articles/20261116_205231_article.webp" type="image/webp"/>
     <pubDate>Mon, 16 Nov 2026 20:53:52 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261116205352</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fallas en bancos de Estados Unidos impiden a miles de clientes acceder a sus cuentas]]></title>
-    <link>https://www.diariolibre.com/mundo/estados-unidos/2026/11/16/fallas-en-bancos-de-eeuu-impiden-acceso-a-cuentas/3722381</link>
-    <description><![CDATA[Miles de clientes de bancos en Estados Unidos reportaron problemas para acceder a sus cuentas en línea y realizar transacciones. Las instituciones afectadas incluyen JPMorgan Chase, Bank of America, Wells Fargo, U.S. Bank y Truist, así como la plataforma Zelle.
-
-JPMorgan Chase reconoció dificultades técnicas, asegurando que los fondos de los clientes están seguros y descartando un ataque informático. Aún no se ha establecido si las fallas tienen una causa común.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794862088/noticias/articles/20261116_204807_article.jpg" type="image/jpeg"/>
-    <pubDate>Mon, 16 Nov 2026 20:49:11 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261116204911</guid>
   </item>
 </channel>
 </rss>
