@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Sun, 22 Nov 2026 16:44:17 +0000</lastBuildDate>
+  <lastBuildDate>Sun, 22 Nov 2026 16:46:35 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[COE emite alerta verde en siete provincias y el Distrito Nacional por lluvias]]></title>
+    <link>https://noticiassin.com/pais/clima/2026/11/22/coe-emite-alerta-verde-en-siete-provincias-y-el-distrito-nacional-por-lluvias-2174842/</link>
+    <description><![CDATA[El Centro de Operaciones de Emergencias (COE) ha colocado en alerta verde a siete provincias y el Distrito Nacional debido a un pronóstico de lluvias moderadas a fuertes, tormentas eléctricas, ráfagas de viento y posibilidad de granizadas.
+
+Las provincias bajo alerta son Santo Domingo, Hato Mayor, Santiago, La Vega, San Cristóbal, San José de Ocoa y Monseñor Nouel. El Instituto Dominicano de Meteorología (Indomet) señala que una vaguada y el viento del este-sureste aumentarán la humedad y la inestabilidad atmosférica.
+
+El COE recomienda evitar cruzar ríos y utilizar balnearios en las zonas afectadas. Para más información, se puede contactar al 809-472-0909 o visitar el sitio web oficial del COE.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795365950/noticias/articles/20261122_164550_article.jpg" type="image/jpeg"/>
+    <pubDate>Sun, 22 Nov 2026 16:46:35 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261122164635</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Defensa de regidor detenido en operativo antinarcótico interpone habeas corpus por arresto]]></title>
     <link>https://www.diariolibre.com/actualidad/justicia/2026/11/22/detencion-de-willy-manuel-zorrilla-y-habeas-corpus/3727873</link>
     <description><![CDATA[La defensa del regidor Willy Manuel Zorrilla Domínguez ha interpuesto un habeas corpus para cuestionar la legalidad de su detención durante la Operación Rompeolas. Alegan que no se cumplió el plazo constitucional de 48 horas para presentarlo ante un juez.
@@ -1431,17 +1444,6 @@ Hasta las 5:30 p.m., hora de Miami, el 13% de los vuelos de United presentaba re
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794870318/noticias/articles/20261116_230518_article.jpg" type="image/jpeg"/>
     <pubDate>Mon, 16 Nov 2026 23:06:04 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261116230604</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Fuerzas salvadoreñas ocupan instalaciones de empresa eléctrica y una subcomisaría en Haití]]></title>
-    <link>https://n.com.do/2026/11/16/fuerzas-salvadorenas-ocupan-instalaciones-de-empresa-electrica-y-una-subcomisaria-en-haiti/</link>
-    <description><![CDATA[Las fuerzas militares salvadoreñas han ocupado las instalaciones de la Empresa de Electricidad de Haití y una subcomisaría en Puerto Príncipe. Esta acción es parte de sus operaciones para consolidar su presencia en la capital haitiana.
-
-La Policía Nacional de Haití sigue realizando operativos en Gressier, mientras la violencia continúa en otras zonas del país. Recientemente, la banda Gran Grif atacó a campesinos en Saint-Marc, dejando varias víctimas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794862351/noticias/articles/20261116_205231_article.webp" type="image/webp"/>
-    <pubDate>Mon, 16 Nov 2026 20:53:52 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261116205352</guid>
   </item>
 </channel>
 </rss>
