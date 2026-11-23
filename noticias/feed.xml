@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 23 Nov 2026 03:49:21 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 13:59:24 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Primer ministro haitiano visita base de salvadoreños y dice que no habrá tregua con bandas]]></title>
+    <link>https://noticiassin.com/mundo/haiti/2026/11/23/primer-ministro-haitiano-visita-base-salvadorena-y-endurece-contra-bandas-2175062/</link>
+    <description><![CDATA[El primer ministro de Haití, Alix Didier Fils-Aimé, visitó la base de soldados salvadoreños en Puerto Príncipe y aseguró que las bandas armadas no tendrán tregua.
+
+Más de 2.000 soldados salvadoreños han sido enviados a Haití para buscar a cuatro militares desaparecidos desde el 18 de octubre. Las fuerzas salvadoreñas han realizado operaciones para desalojar a las bandas de zonas controladas en la capital.
+
+Fils-Aimé expresó solidaridad con las fuerzas salvadoreñas por la pérdida de tres soldados en un incidente reciente.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795442224/noticias/articles/20261123_135703_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 23 Nov 2026 13:59:24 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261123135924</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Donald Trump reconoció que será “muy difícil” gobernar con un Congreso con mayoría demócrata]]></title>
     <link>https://www.infobae.com/estados-unidos/2026/11/22/donald-trump-reconocio-que-sera-muy-dificil-gobernar-con-un-congreso-con-mayoria-democrata/</link>
     <description><![CDATA[Donald Trump anticipó que será difícil avanzar con su agenda legislativa debido a la mayoría demócrata en el Congreso. Criticó a Chuck Schumer, acusándolo de promover investigaciones en su contra y cuestionando su capacidad para liderar la oposición. A pesar de esto, Trump mostró disposición a explorar acuerdos con líderes demócratas como Hakeem Jeffries.
@@ -1455,19 +1468,6 @@ La entidad asegura que este sistema no implica un aumento de impuestos y mantien
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794920060/noticias/articles/20261117_125420_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 17 Nov 2026 12:55:55 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261117125555</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Inteligencia de EE. UU. detecta presuntos planes de Irán para atacar Washington con bomba radiactiva]]></title>
-    <link>https://www.diariolibre.com/mundo/estados-unidos/2026/11/16/ee-uu-detecta-planes-de-iran-para-atacar-washington-con-bomba/3722633</link>
-    <description><![CDATA[Los servicios de inteligencia de EE. UU. han detectado presuntos planes de Irán para atacar a altos funcionarios de la administración de Donald Trump con una bomba radiactiva o armas químicas en Washington, según CNN. La información identifica posibles objetivos, pero aún se debate la capacidad de Irán para ejecutar el atentado.
-
-La Casa Blanca, a través de su portavoz Lauren Bis, asegura que no existen amenazas creíbles actualmente. El Servicio Secreto ha tomado medidas preventivas, como trasladar al secretario del Tesoro, Scott Bessent, a instalaciones militares.
-
-Las comunicaciones interceptadas sugieren la posible existencia de materiales explosivos en EE. UU., aunque hay discrepancias sobre su credibilidad. La misión iraní ante la ONU rechazó las acusaciones sobre armas químicas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794919915/noticias/articles/20261117_125154_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 17 Nov 2026 12:52:39 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261117125239</guid>
   </item>
 </channel>
 </rss>
