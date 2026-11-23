@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 23 Nov 2026 18:55:43 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 18:59:40 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Bukele anuncia un millón de dólares para familias de militares muertos en Haití y revela sus actos de valentía]]></title>
+    <link>https://www.diariolibre.com/mundo/america-latina/2026/11/23/nayib-bukele-crea-fondo-un-millon-dolares-para-familias-de-militares/3729123</link>
+    <description><![CDATA[El presidente Nayib Bukele ha creado un fondo de un millón de dólares para las familias de tres militares salvadoreños fallecidos en Haití. Cada familia recibirá 200,000 dólares de inmediato, y el resto se destinará a garantizar ingresos mensuales.
+
+Los militares, el teniente Cristian Daniel Palacios Santos y los cabos Emerson Alexander Zepeda Zelada y Wilber Manuel Serrano Medina, murieron en una explosión accidental el 20 de noviembre. Bukele destacó su valentía en operaciones previas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795460342/noticias/articles/20261123_185901_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 23 Nov 2026 18:59:40 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261123185940</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Juguetes sexuales y alimentos sin registro entre los productos decomisados en negocios chinos]]></title>
     <link>https://www.diariolibre.com/economia/negocios/2026/11/23/pro-consumidor-decomisa-productos-peligrosos-en-negocios-chinos/3729174</link>
     <description><![CDATA[Pro Consumidor decomisó 35,147 artículos en negocios de propietarios chinos, incluyendo juguetes sexuales en áreas infantiles y alimentos sin registro sanitario. Las inspecciones se realizaron en varias provincias del país.
@@ -1433,19 +1444,6 @@ Pujols destacó que la disminución de 20 escaños ahorra menos de 60 millones d
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794935140/noticias/articles/20261117_170539_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 17 Nov 2026 17:07:20 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261117170720</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Red de comunicaciones altamente clasificadas de Estados Unidos sufre supuesta interrupción, según CNN]]></title>
-    <link>https://noticiassin.com/estados-unidos/2026/11/17/cnn-informa-de-una-caida-en-la-red-clasificada-de-la-nsa-2171678/</link>
-    <description><![CDATA[La red interna de la Agencia de Seguridad Nacional de Estados Unidos, conocida como NSA Net, está fuera de servicio. Este sistema es utilizado para compartir información clasificada dentro de la agencia.
-
-CNN reportó que no hay evidencias de un ataque informático vinculado a la interrupción. La NSA ha implementado un esquema de llegada escalonada para sus empleados mientras se investiga la causa de la falla.
-
-Aún no se ha determinado cuánto tiempo tomará restablecer las operaciones de la red.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794934256/noticias/articles/20261117_165056_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 17 Nov 2026 16:51:37 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261117165137</guid>
   </item>
 </channel>
 </rss>
