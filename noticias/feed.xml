@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 23 Nov 2026 20:45:53 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 20:53:38 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Abinader reitera que personas con altos ingresos quedan excluidas del Bono Navideño]]></title>
+    <link>https://n.com.do/2026/11/23/abinader-reitera-que-personas-con-altos-ingresos-quedan-excluidas-del-bono-navideno/</link>
+    <description><![CDATA[El presidente Luis Abinader aseguró que el Bono Navideño no llegará a personas con altos ingresos, gracias a un proceso de depuración realizado por el Sistema Único de Beneficiarios (SIUBEN). Cerca de seis millones de ciudadanos con mayores ingresos fueron excluidos del padrón.
+
+El bono se entregará mediante depósitos a beneficiarios del programa Supérate y tarjetas físicas de un solo uso. Cada hogar recibirá RD$1,500, y los ingresos mensuales de los beneficiarios de tarjetas no deben superar RD$38,158.53.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795466865/noticias/articles/20261123_204745_article.webp" type="image/webp"/>
+    <pubDate>Mon, 23 Nov 2026 20:53:38 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261123205338</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Justicia federal de EE. UU. prepara audiencia para posible declaración de culpabilidad de Fabio Jorge-Puras]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261123204553</link>
     <description><![CDATA[El exasesor del Poder Ejecutivo dominicano, Fabio Augusto Jorge-Puras, acusado de narcotráfico internacional en Estados Unidos, fue remitido a una audiencia de cambio de declaración ante un tribunal federal del Distrito Sur de Florida, un procedimiento que podría culminar con una admisión de culpabilidad.
@@ -1431,19 +1442,6 @@ El caso se suma a otros incidentes relacionados con desafíos de comida difundid
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794941686/noticias/articles/20261117_185446_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 17 Nov 2026 18:57:22 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261117185722</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[El FBI alertó que la herramienta de IA Artex permite hackear empresas en menos de tres horas]]></title>
-    <link>https://www.infobae.com/tecno/2026/11/17/el-fbi-alerto-que-la-herramienta-de-ia-artex-permite-hackear-empresas-en-menos-de-tres-horas/</link>
-    <description><![CDATA[El FBI ha emitido una advertencia sobre Artex, una herramienta de inteligencia artificial utilizada por hackers para atacar redes empresariales en menos de tres horas. Artex se conecta a modelos de IA de empresas como Anthropic y OpenAI.
-
-Desde agosto de 2026, Artex ha sido utilizada en ataques a sectores como servicios financieros y tecnología. Un ataque notable fue contra ConnectWise, afectando a más de 2.250 clientes. En Corea del Sur, se robaron datos de 67.000 personas.
-
-El FBI aconseja a las organizaciones revisar sus aplicaciones conectadas a internet y reportar actividades sospechosas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794939561/noticias/articles/20261117_181921_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 17 Nov 2026 18:23:22 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261117182322</guid>
   </item>
 </channel>
 </rss>
