@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 23 Nov 2026 20:22:11 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 20:40:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Se entrega “Erasmo”, implicado en caso de tentativa de homicidio en Santiago]]></title>
+    <link>https://elnuevodiario.com.do/se-entrega-erasmo-implicado-en-caso-de-tentativa-de-homicidio-en-santiago/</link>
+    <description><![CDATA[Erasmo Ventura Rodríguez, conocido como “Erasmo”, se entregó a las autoridades en Santiago. Está implicado en un caso de tentativa de homicidio contra Yerison Algelis García. La entrega se realizó a través de su representante legal y fue trasladado a la División de Investigación de Homicidios.
+
+Por el mismo caso, Ángel Manuel Rodríguez, alias “Ángel”, fue arrestado. El incidente ocurrió el 2 de noviembre de 2026 en el sector El Ejido, cuando García fue interceptado por individuos en un Hyundai Sonata blanco.
+
+La Policía Nacional busca a Erikson Manuel Hernández Reyes, alias “El Gordo” o “El Gordito”, quien sigue prófugo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795465817/noticias/articles/20261123_203015_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 23 Nov 2026 20:40:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261123204032</guid>
+  </item>
+
+  <item>
     <title><![CDATA[FMI insta reducir subsidios a los combustibles y reimpulsar las reformas del sector eléctrico]]></title>
     <link>https://listindiario.com/economia/20261123/fmi-insta-reducir-subsidios-combustibles-reimpulsar-reformas-sector-electrico_931222.html</link>
     <description><![CDATA[El Fondo Monetario Internacional (FMI) ha recomendado a la República Dominicana reducir los subsidios a los combustibles y reimpulsar las reformas del sector eléctrico. Esta medida busca salvaguardar la sostenibilidad fiscal y mantener la estabilidad de precios en un entorno de incertidumbre mundial.
@@ -1433,19 +1446,6 @@ Apple reconoció oficialmente problemas en su servicio de cuentas e inicio de se
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794939080/noticias/articles/20261117_181120_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 17 Nov 2026 18:12:54 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261117181254</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Imponen tres meses de prisión preventiva a hombre acusado de agresión sexual contra niña de un año]]></title>
-    <link>https://listindiario.com/la-republica/justicia/20261117/imponen-tres-meses-prision-preventiva-hombre-acusado-agresion-sexual-nina-ano_930440.html</link>
-    <description><![CDATA[Giancarlo Miguel Tejeda Guzmán, de 36 años, ha sido enviado a prisión preventiva por tres meses, acusado de agresión sexual contra una niña de un año, quien es su familiar. La decisión fue tomada por un juez del Distrito Nacional, tras la solicitud de la Fiscalía.
-
-La investigación se inició luego de que videos en TikTok mostraran al imputado con la menor en situaciones de naturaleza sexual. Los padres de la niña, al enterarse por redes sociales, presentaron la denuncia.
-
-Tejeda Guzmán enfrenta cargos por violaciones a varias leyes, incluyendo la Ley 74-25 y la Ley 53-07 sobre Crímenes y Delitos de Alta Tecnología.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794935445/noticias/articles/20261117_171044_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 17 Nov 2026 17:20:39 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261117172039</guid>
   </item>
 </channel>
 </rss>
