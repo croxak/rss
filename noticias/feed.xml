@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 23 Nov 2026 02:16:38 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 03:49:21 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Donald Trump reconoció que será “muy difícil” gobernar con un Congreso con mayoría demócrata]]></title>
+    <link>https://www.infobae.com/estados-unidos/2026/11/22/donald-trump-reconocio-que-sera-muy-dificil-gobernar-con-un-congreso-con-mayoria-democrata/</link>
+    <description><![CDATA[Donald Trump anticipó que será difícil avanzar con su agenda legislativa debido a la mayoría demócrata en el Congreso. Criticó a Chuck Schumer, acusándolo de promover investigaciones en su contra y cuestionando su capacidad para liderar la oposición. A pesar de esto, Trump mostró disposición a explorar acuerdos con líderes demócratas como Hakeem Jeffries.
+
+Dentro del Partido Demócrata, Chuck Schumer enfrenta cuestionamientos internos y la competencia de Chris Van Hollen por el liderazgo de la bancada. Van Hollen aboga por un cambio en la estrategia política y mayor participación de nuevos legisladores. Schumer confía en mantener su puesto, contando con el respaldo de al menos 16 senadores.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795405717/noticias/articles/20261123_034836_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 23 Nov 2026 03:49:21 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261123034921</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Investigan alteración de datos presidente Luis Abinader en plataformas digitales]]></title>
     <link>https://robertocavada.com/investigan-alteracion-de-datos-presidente-luis-abinader-en-plataformas-digitales/</link>
     <description><![CDATA[Organismos de seguridad en República Dominicana investigan la presunta alteración de información sobre el presidente Luis Abinader en plataformas digitales. 
@@ -1457,17 +1468,6 @@ Las comunicaciones interceptadas sugieren la posible existencia de materiales ex
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794919915/noticias/articles/20261117_125154_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 17 Nov 2026 12:52:39 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261117125239</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Dejan sin fianza al acusado por la muerte de la dominicana Carmen Núñez en El Bronx]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261117115428</link>
-    <description><![CDATA[Una jueza ordenó el 16 de noviembre que Joshua Núñez, de 35 años, permanezca detenido sin derecho a fianza por la muerte de su tía abuela, Carmen Núñez, una dominicana de 75 años. El hombre enfrenta cargos de asesinato en segundo grado y homicidio en primer grado bajo la figura de manslaughter. 
-
-La fiscalía sostiene que el acusado golpeó repetidamente a la mujer durante la madrugada del 14 de noviembre en una vivienda del sector Hunts Point y que, durante la agresión, ella se golpeó la cabeza y el cuello contra el borde de una escalera. Los agentes que respondieron a la llamada de emergencia la encontraron inconsciente. Carmen Núñez fue trasladada al Hospital Lincoln, donde murió.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794916422/noticias/articles/20261117_115342_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 17 Nov 2026 11:54:28 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261117115428</guid>
   </item>
 </channel>
 </rss>
