@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Mon, 23 Nov 2026 13:59:24 +0000</lastBuildDate>
+  <lastBuildDate>Mon, 23 Nov 2026 14:08:11 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Reportan en estado crítico a sospechoso de matar a dominicana con excavadora tras ser golpeado por comunitarios en Surinam]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261123140811</link>
+    <description><![CDATA[Comunitarios habrían golpeado y atado al operador señalado como sospechoso de un ataque con excavadora que causó la muerte de una dominicana y un surinamés en Pakira, en el distrito de Marowijne. El hombre habría sido hospitalizado en estado crítico por las lesiones sufridas.
+
+Según publicó Suriname Herald el 22 de noviembre, pobladores de la zona lo redujeron después del incidente, lo agredieron y lo dejaron atado. Posteriormente fue trasladado a un hospital para recibir atención médica, de acuerdo con ese reporte.
+
+La Policía de Surinam identificó al sospechoso como un ciudadano surinamés conocido por el apodo de “Read”. Según la investigación preliminar, sostuvo una discusión con las víctimas antes de dirigir presuntamente la excavadora contra el campamento minero donde ambas dormían.
+
+El impacto provocó la muerte en el lugar de la mujer dominicana y del hombre surinamés. Sus nombres no fueron divulgados en el comunicado policial del 20 de noviembre.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795442659/noticias/articles/20261123_140418_article.jpg" type="image/jpeg"/>
+    <pubDate>Mon, 23 Nov 2026 14:08:11 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261123140811</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Primer ministro haitiano visita base de salvadoreños y dice que no habrá tregua con bandas]]></title>
     <link>https://noticiassin.com/mundo/haiti/2026/11/23/primer-ministro-haitiano-visita-base-salvadorena-y-endurece-contra-bandas-2175062/</link>
     <description><![CDATA[El primer ministro de Haití, Alix Didier Fils-Aimé, visitó la base de soldados salvadoreños en Puerto Príncipe y aseguró que las bandas armadas no tendrán tregua.
@@ -1455,19 +1470,6 @@ El tribunal ordenó además el pago de 2,175 euros de indemnización. La sentenc
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794921571/noticias/articles/20261117_131930_article.jpg" type="image/jpeg"/>
     <pubDate>Tue, 17 Nov 2026 13:20:24 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261117132024</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[DGII ampliará el plazo de facturación electrónica para micro y pequeños contribuyentes]]></title>
-    <link>https://noticiassin.com/pais/nacional/2026/11/17/dgii-ampliara-plazo-para-facturacion-electronica-de-mipymes-2171459/</link>
-    <description><![CDATA[La Dirección General de Impuestos Internos (DGII) ha decidido extender el plazo para que los micro y pequeños contribuyentes se unan al sistema de facturación electrónica, siguiendo instrucciones del Poder Ejecutivo.
-
-La DGII anunciará la nueva fecha límite antes del 30 de noviembre y detallará quiénes podrán acogerse a la prórroga. Hasta ahora, más de 165 mil contribuyentes ya están utilizando la facturación electrónica.
-
-La entidad asegura que este sistema no implica un aumento de impuestos y mantiene sus canales de atención disponibles para consultas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794920060/noticias/articles/20261117_125420_article.jpg" type="image/jpeg"/>
-    <pubDate>Tue, 17 Nov 2026 12:55:55 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261117125555</guid>
   </item>
 </channel>
 </rss>
