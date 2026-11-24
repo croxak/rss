@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 24 Nov 2026 17:43:30 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 19:44:00 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Asaltantes toman rehenes durante robo a supermercado en turística Cartagena, Colombia]]></title>
+    <link>https://www.diariolibre.com/mundo/america-latina/2026/11/24/asaltantes-toman-rehenes-robo-a-supermercado-en-cartagena/3730267</link>
+    <description><![CDATA[Un grupo de asaltantes tomó rehenes en un supermercado en Cartagena, Colombia, lo que provocó un gran operativo policial. Las imágenes muestran a encapuchados armados junto a rehenes arrodillados.
+
+Los secuestradores piden casi dos millones de dólares y coches blindados para dirigirse a Barranquilla. El aeropuerto de Cartagena suspendió temporalmente las llegadas, pero ya reanudó sus operaciones.
+
+La situación se da en medio de una ola de violencia en Colombia, con recientes atentados como el carro bomba en Villavicencio.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795549367/noticias/articles/20261124_194247_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 24 Nov 2026 19:44:00 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261124194400</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Falleció Delio Gómez Ochoa, el comandante cubano que se unió a la lucha contra Trujillo]]></title>
     <link>https://acento.com.do/actualidad/fallecio-delio-gomez-ochoa-el-comandante-cubano-que-se-unio-a-la-lucha-contra-trujillo-9791884.html</link>
     <description><![CDATA[Falleció Delio Gómez Ochoa, el comandante cubano que se unió a la lucha contra Trujillo. Participó en la expedición del 14 de junio de 1959, organizada para derrocar el régimen de Rafael Leónidas Trujillo.
@@ -1437,17 +1450,6 @@ La llegada del avión estadounidense también coincide con reportes sobre una po
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795016481/noticias/articles/20261118_154120_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 18 Nov 2026 15:42:03 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261118154203</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[PN apresa a “El Tuerto” requerido por presunto robo en una vivienda en Dajabón]]></title>
-    <link>https://elnuevodiario.com.do/pn-apresa-a-el-tuerto-requerido-por-presunto-robo-en-vivienda-en-dajabon/</link>
-    <description><![CDATA[La Policía Nacional ha arrestado a Wisle Pie, alias "El Tuerto", un hombre haitiano buscado por su presunta implicación en un robo en Dajabón.
-
-El incidente ocurrió en la madrugada del 22 de octubre en el sector Corral Grande, donde se sustrajeron varios artículos de una vivienda. El detenido está bajo custodia policial y será presentado al Ministerio Público.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795015315/noticias/articles/20261118_152149_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 18 Nov 2026 15:31:45 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261118153145</guid>
   </item>
 </channel>
 </rss>
