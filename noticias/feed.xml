@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 24 Nov 2026 13:38:09 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 13:57:05 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[El petróleo de Texas cae un 3,88 %, hasta 80,17 dólares, su cierre más bajo desde agosto]]></title>
+    <link>https://listindiario.com/las-mundiales/20261124/petroleo-texas-cae-3-88-80-17-dolares-cierre-mas-agosto_931308.html</link>
+    <description><![CDATA[El petróleo intermedio de Texas (WTI) cerró este lunes con una caída del 3,88 %, situándose en 80,17 dólares el barril, el nivel más bajo desde agosto. Los contratos de futuros para enero disminuyeron en 3,24 dólares respecto al cierre anterior.
+
+En el último mes, el precio del petróleo de Texas ha bajado aproximadamente un 20 %. La percepción de riesgo de un conflicto militar entre Estados Unidos e Irán ha disminuido, mientras que la oferta de suministro ha aumentado.
+
+Las reservas comerciales de crudo en Estados Unidos superaron las expectativas. Los envíos de petróleo a través de puntos clave en Oriente Medio aumentaron un 19 % en el tercer trimestre de 2026. La producción de crudo en Oriente Medio alcanzó 23,1 millones de barriles diarios en octubre.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795528503/noticias/articles/20261124_135502_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 24 Nov 2026 13:57:05 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261124135705</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Revocan fianza de un millón de dólares a exdetective dominicano acusado de matar a conductor en Nueva York]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261124133809</link>
     <description><![CDATA[Una jueza de Manhattan revocó la fianza de un millón de dólares al exdetective dominicano del Departamento de Policía de Nueva York, Víctor Romero, acusado de matar a tiros al conductor Koran Irvine durante un presunto altercado de tránsito en el puente George Washington.
@@ -1433,19 +1446,6 @@ La investigación también considera si estos movimientos financieros forman par
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794973356/noticias/articles/20261118_034236_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 18 Nov 2026 03:56:58 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261118035658</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Licey adquiere a Vladimir Guerrero Jr. en un cambio con los Toros del Este]]></title>
-    <link>https://www.diariolibre.com/deportes/beisbol/2026/11/17/licey-adquiere-a-vladimir-guerrero-jr-en-un-cambio-con-los-toros/3723773</link>
-    <description><![CDATA[Los Tigres del Licey han realizado un cambio significativo al adquirir a Vladimir Guerrero Jr. de los Toros del Este, entregando a los relevistas Misael Tamárez y Cam Robinson. Guerrero Jr., estrella de los Azulejos de Toronto, ha sido cinco veces All-Star y ha ganado premios como el Bate de Plata y el Guante de Oro.
-
-En 2025, firmó un contrato de 14 años y 500 millones de dólares. En 2021, destacó con 48 cuadrangulares y 111 carreras impulsadas, ganando el premio Hank Aaron de la Liga Americana. También fue MVP de la Serie de Campeonato de la Liga Americana en 2025.
-
-Guerrero Jr. ya tiene experiencia en la pelota invernal dominicana, habiendo jugado para los Leones del Escogido en la temporada 2020-21. Audo Vicente, del Licey, expresó su satisfacción por la llegada del jugador y agradeció a Tamárez y Robinson por sus contribuciones.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794972934/noticias/articles/20261118_033533_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 18 Nov 2026 03:37:12 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261118033712</guid>
   </item>
 </channel>
 </rss>
