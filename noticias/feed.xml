@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 24 Nov 2026 02:54:26 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 03:55:56 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Gobierno reabre plan de regularización para venezolanos que ingresaron legalmente al país hasta 2023]]></title>
+    <link>https://www.diariolibre.com/actualidad/nacional/2026/11/23/venezolanos-podran-solicitar-regularizacion-migratoria-en-rd/3729601</link>
+    <description><![CDATA[El Gobierno dominicano ha reabierto el plan de regularización para venezolanos que ingresaron legalmente al país entre 2014 y 2023. Esta medida, establecida en la resolución ESP-001-2026, fue emitida el 9 de octubre por los ministerios de Relaciones Exteriores y de Interior y Policía, junto con la Dirección General de Migración.
+
+La resolución permite nuevas solicitudes, reinscripciones, renovaciones y la conclusión de expedientes pendientes. Los beneficiarios incluyen a venezolanos y sus hijos menores, nacidos en Venezuela o en República Dominicana, así como a adultos mayores y personas con discapacidades bajo su cuidado.
+
+Se habilitarán ventanillas especiales durante 180 días para recibir solicitudes, y se flexibilizarán los requisitos documentales. Los carnés expedidos tendrán una vigencia de dos años, pero no garantizan residencia permanente.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795492513/noticias/articles/20261124_035512_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 24 Nov 2026 03:55:56 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261124035556</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Cemento PANAM duplicará su producción en El Salvador con nueva línea]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261124025426</link>
     <description><![CDATA[Cemento PANAM El Salvador celebró el acto del primer picazo de la segunda línea de producción de su planta de Acajutla, con la que ampliará su capacidad. La inversión aumentará la oferta de cemento para el mercado salvadoreño y fortalecerá la plataforma regional de la compañía en Centroamérica y el Caribe.
@@ -1427,19 +1440,6 @@ Además, Rubio restó importancia a las informaciones sobre una supuesta amenaza
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794972061/noticias/articles/20261118_032101_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 18 Nov 2026 03:21:38 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261118032138</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Muere la influencer y empresaria dominicana Melissa Medina a los 22 años]]></title>
-    <link>https://elnuevodiario.com.do/muere-la-influencer-y-empresaria-dominicana-melissa-medina-a-los-22-anos/</link>
-    <description><![CDATA[Melissa Medina, influencer y empresaria dominicana, ha fallecido a los 22 años. Las circunstancias de su muerte no han sido esclarecidas, según informaciones de medios digitales y publicaciones en redes sociales.
-
-Medina se destacaba en el sector de la belleza con un estudio de uñas y una marca de uñas postizas tipo press on. Además, era propietaria de una franquicia de servicios de courier en la avenida Rómulo Betancourt, Santo Domingo.
-
-Hasta ahora, no se han ofrecido detalles oficiales sobre su fallecimiento y sus familiares no han emitido declaraciones públicas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794957505/noticias/articles/20261117_231825_article.png" type="image/png"/>
-    <pubDate>Tue, 17 Nov 2026 23:19:04 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261117231904</guid>
   </item>
 </channel>
 </rss>
