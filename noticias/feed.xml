@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 24 Nov 2026 17:40:26 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 17:43:30 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Falleció Delio Gómez Ochoa, el comandante cubano que se unió a la lucha contra Trujillo]]></title>
+    <link>https://acento.com.do/actualidad/fallecio-delio-gomez-ochoa-el-comandante-cubano-que-se-unio-a-la-lucha-contra-trujillo-9791884.html</link>
+    <description><![CDATA[Falleció Delio Gómez Ochoa, el comandante cubano que se unió a la lucha contra Trujillo. Participó en la expedición del 14 de junio de 1959, organizada para derrocar el régimen de Rafael Leónidas Trujillo.
+
+Nacido en Holguín, Cuba, en 1929, Gómez Ochoa se unió al movimiento revolucionario cubano y alcanzó el grado de comandante del Ejército Rebelde. Tras el triunfo de la Revolución cubana, se involucró en la expedición internacionalista contra Trujillo.
+
+Fue capturado y torturado, pero sobrevivió y fue liberado en 1961. En República Dominicana, recibió la Orden al Mérito de Duarte, Sánchez y Mella y fue reconocido por el Senado como héroe nacional.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795542172/noticias/articles/20261124_174252_article.jpg" type="image/jpeg"/>
+    <pubDate>Tue, 24 Nov 2026 17:43:30 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261124174330</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Marco Guridi es director de Puerto Plata Electricidad, no presidente de Energía 2000]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261124174026</link>
     <description><![CDATA[Ante las recientes informaciones difundidas por distintos medios de comunicación, resulta pertinente precisar que el ingeniero Marco Guridi no ocupa la presidencia de Energía 2000, S. A., como erróneamente se ha señalado en algunas publicaciones.
@@ -1435,19 +1448,6 @@ El incidente ocurrió en la madrugada del 22 de octubre en el sector Corral Gran
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795015315/noticias/articles/20261118_152149_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 18 Nov 2026 15:31:45 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261118153145</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Lee Ballester cuestiona a dominicanos que enfrentan a Migración para impedir arrestos de haitianos]]></title>
-    <link>https://elnuevodiario.com.do/lee-ballester-cuestiona-a-dominicanos-que-enfrentan-a-migracion-para-impedir-arrestos-de-haitianos/</link>
-    <description><![CDATA[El director general de Migración, Vicealmirante Luis Rafael Lee Ballester, ha manifestado su indignación por las acciones de algunos ciudadanos dominicanos que interfieren con los agentes migratorios para evitar la detención de extranjeros en situación irregular.
-
-Ballester informó que se han presentado 13 sometimientos judiciales contra personas que se resistieron a los arrestos y agredieron a miembros de los organismos migratorios. Uno de los involucrados ya ha sido condenado.
-
-El funcionario hizo un llamado a la ciudadanía para que respalde las labores de las autoridades y no intervenga en los procedimientos de detención de extranjeros en situación migratoria irregular.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795014922/noticias/articles/20261118_151517_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 18 Nov 2026 15:16:10 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261118151610</guid>
   </item>
 </channel>
 </rss>
