@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 24 Nov 2026 13:57:05 +0000</lastBuildDate>
+  <lastBuildDate>Tue, 24 Nov 2026 13:58:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Al menos seis miembros de bandas haitianas mueren en operación de la fuerza antipandillas]]></title>
+    <link>https://eldia.com.do/al-menos-seis-miembros-de-bandas-haitianas-mueren-en-operacion-de-la-fuerza-antipandillas/</link>
+    <description><![CDATA[La Fuerza de Supresión de Pandillas (GSF) realizó una operación en Puerto Príncipe y Artibonito, Haití, que dejó al menos seis presuntos miembros de bandas muertos y cinco fusiles incautados. La operación se llevó a cabo en las comunas de Cité Soleil, Tabarre y Gros-Morne.
+
+Medios locales informan que el número de muertos podría ser mayor, mencionando hasta 40 bajas. Uno de los muertos confirmados es alias Ninja, líder de una pandilla.
+
+La GSF ha intensificado sus operaciones, incautando armas y municiones, y busca mejorar la seguridad en las comunidades afectadas por la violencia de las bandas.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795528647/noticias/articles/20261124_135727_article.webp" type="image/webp"/>
+    <pubDate>Tue, 24 Nov 2026 13:58:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261124135809</guid>
+  </item>
+
+  <item>
     <title><![CDATA[El petróleo de Texas cae un 3,88 %, hasta 80,17 dólares, su cierre más bajo desde agosto]]></title>
     <link>https://listindiario.com/las-mundiales/20261124/petroleo-texas-cae-3-88-80-17-dolares-cierre-mas-agosto_931308.html</link>
     <description><![CDATA[El petróleo intermedio de Texas (WTI) cerró este lunes con una caída del 3,88 %, situándose en 80,17 dólares el barril, el nivel más bajo desde agosto. Los contratos de futuros para enero disminuyeron en 3,24 dólares respecto al cierre anterior.
@@ -1433,19 +1446,6 @@ Tras varios aplazamientos, el proceso culminó con la condena de 20 años de pri
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795013525/noticias/articles/20261118_145204_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 18 Nov 2026 14:58:22 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261118145822</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía de Haití detecta más de 18,000 transacciones sospechosas de financiar a las pandillas en 72 horas]]></title>
-    <link>https://www.diariolibre.com/mundo/haiti/2026/11/17/policia-nacional-haiti-investiga-transacciones-financieras-sospechosas/3723748</link>
-    <description><![CDATA[La Policía Nacional de Haití ha detectado más de 18,000 transacciones financieras sospechosas en las últimas 72 horas. Estas operaciones se realizaron a través de las plataformas de dinero móvil NatCash y MonCash.
-
-Las transacciones, que varían entre 5,000 y 15,000 gourdes, están bajo investigación por su posible conexión con pandillas armadas. Las autoridades sospechan que podrían estar relacionadas con actividades de lavado de activos y financiamiento de organizaciones criminales.
-
-La investigación también considera si estos movimientos financieros forman parte de una estrategia para obstaculizar las operaciones de seguridad contra las pandillas. La Policía sigue analizando la información para identificar a los involucrados.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1794973356/noticias/articles/20261118_034236_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 18 Nov 2026 03:56:58 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261118035658</guid>
   </item>
 </channel>
 </rss>
