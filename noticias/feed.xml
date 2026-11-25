@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 25 Nov 2026 13:38:57 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 14:50:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Senado aprueba en segunda lectura proyecto para legalizar armas de fuego irregulares]]></title>
+    <link>https://www.diariolibre.com/politica/general/2026/11/24/amnistia-armas-de-fuego-aprobada-por-el-senado-para-legalizar-armas-irregulares/3730635</link>
+    <description><![CDATA[El Senado aprobó en segunda lectura un proyecto de ley que concede una amnistía para legalizar armas de fuego irregulares. La iniciativa fue presentada por los senadores Franklin Romero y Rafael Barón Duluc.
+
+El proyecto establece un plazo de seis meses para que los poseedores de armas las registren o entreguen sin ser procesados. Quienes registren sus armas deben cumplir con la Ley 631-16 y pagar tasas, mientras que quienes las entreguen voluntariamente no pagarán tasas pendientes.
+
+La propuesta también incluye armas de guerra en manos de particulares. Tras su aprobación, el proyecto pasará a la Cámara de Diputados.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795618023/noticias/articles/20261125_144703_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 25 Nov 2026 14:50:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261125145009</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Vinculan a investigado por narcotráfico en Francia con presuntas negociaciones de cocaína en RD]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261125133857</link>
     <description><![CDATA[Un ciudadano francés investigado por presunto narcotráfico en La Reunión, Francia habría negociado la compra de varias decenas de kilos de cocaína durante un viaje a República Dominicana, según una publicación del medio local Zinfos974.
@@ -1429,19 +1442,6 @@ Durante una inspección, se detectaron incumplimientos de la Ley General de Salu
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795095030/noticias/articles/20261119_133030_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 19 Nov 2026 13:31:15 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261119133115</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Xi, Trump y Putin adoptan declaración de paz: "Una guerra nuclear no puede ganarse"]]></title>
-    <link>https://www.diariolibre.com/mundo/estados-unidos/2026/11/19/xi-trump-y-putin-una-guerra-nuclear-no-puede-ganarse/3725354</link>
-    <description><![CDATA[Xi Jinping, Donald Trump y Vladimir Putin adoptaron una declaración de paz en Shenzhen, China, afirmando que una guerra nuclear no puede ganarse. La reunión se realizó al margen del foro APEC.
-
-Los mandatarios acordaron mantener conversaciones para reducir los riesgos nucleares y prevenir la proliferación de armas atómicas. También se comprometieron a promover una reforma de la ONU.
-
-No se anunciaron acuerdos específicos para poner fin a la invasión rusa de Ucrania.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795094897/noticias/articles/20261119_132817_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 19 Nov 2026 13:29:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261119132905</guid>
   </item>
 </channel>
 </rss>
