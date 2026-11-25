@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 25 Nov 2026 02:34:10 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 02:35:34 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[El primer ministro haitiano dice que su país tiene derecho a vivir sin el terror armado]]></title>
+    <link>https://eldia.com.do/el-primer-ministro-haitiano-dice-que-su-pais-tiene-derecho-a-vivir-sin-el-terror-armado/</link>
+    <description><![CDATA[El primer ministro de Haití, Alix Didier Fils-Aimé, ha declarado que los haitianos tienen derecho a vivir sin el terror de las bandas armadas. Esta declaración se produce en respuesta a Amnistía Internacional, que ha insistido en la necesidad de respetar los derechos humanos en la lucha contra el crimen organizado.
+
+Más de 2.000 soldados salvadoreños han sido enviados a Haití para enfrentar a las bandas armadas, lo que ha sido bien recibido por la población local. Sin embargo, tres soldados murieron y uno resultó herido en un incidente con explosivos en Puerto Príncipe.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795574097/noticias/articles/20261125_023456_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 25 Nov 2026 02:35:34 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261125023534</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Jurado de Nueva York declara culpable a Huawei de robo de secretos industriales]]></title>
     <link>https://elnuevodiario.com.do/jurado-de-nueva-york-declara-culpable-a-huawei-de-robo-de-secretos-industriales/</link>
     <description><![CDATA[Un jurado de Brooklyn ha declarado culpable al grupo chino Huawei de fraude bancario y robo de secretos industriales. Este veredicto llega tras más de ocho años de proceso judicial.
@@ -1431,27 +1442,6 @@ Según VTV, la visita de Hegseth tuvo como propósito revisar la cooperación t�
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795026540/noticias/articles/20261118_182859_article.png" type="image/png"/>
     <pubDate>Wed, 18 Nov 2026 18:30:40 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261118183040</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía investiga muerte de influencer Melissa Medina e interroga a dos personas que la acompañaban]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261118175401</link>
-    <description><![CDATA[La muerte de la influencer y empresaria dominicana Melissa Medina, de 22 años, continúa bajo investigación. La Policía Nacional y el Ministerio Público buscan esclarecer las circunstancias de su fallecimiento, ocurrido el martes 17 de noviembre, luego de que fuera trasladada desde un apartamento del ensanche Piantini, en el Distrito Nacional, a un centro médico de Santo Domingo.
-
-El vocero de la Policía Nacional, coronel Diego Pesqueira, informó que los investigadores entrevistan a dos personas que se encontraban con Medina durante las horas previas a su fallecimiento.
-
-Se trata de una joven de 21 años y un hombre de 60, cuyas identidades permanecen bajo reserva para no comprometer las investigaciones.
-
-De acuerdo con las informaciones ofrecidas por Pesqueira, Medina compartía con una amiga en un apartamento donde también se encontraba el hombre. Posteriormente, fue trasladada a un centro de salud, al que llegó sin signos vitales.
-
-Las autoridades trabajan para reconstruir las últimas horas de vida de la empresaria y determinar las circunstancias que precedieron a su muerte.
-
-Pesqueira explicó que las investigaciones se desarrollan en coordinación con el Ministerio Público y que se esperan los resultados de la autopsia del Instituto Nacional de Ciencias Forenses (INACIF), que permitirá establecer la causa del fallecimiento.
-
-Hasta el momento, las autoridades no han anunciado detenciones ni imputaciones penales relacionadas con el caso. Las entrevistas a los acompañantes forman parte de las diligencias investigativas y no implican, por sí mismas, responsabilidad penal.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795024241/noticias/articles/20261118_175041_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 18 Nov 2026 17:54:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261118175401</guid>
   </item>
 </channel>
 </rss>
