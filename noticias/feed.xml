@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 25 Nov 2026 02:32:29 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 02:34:10 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Jurado de Nueva York declara culpable a Huawei de robo de secretos industriales]]></title>
+    <link>https://elnuevodiario.com.do/jurado-de-nueva-york-declara-culpable-a-huawei-de-robo-de-secretos-industriales/</link>
+    <description><![CDATA[Un jurado de Brooklyn ha declarado culpable al grupo chino Huawei de fraude bancario y robo de secretos industriales. Este veredicto llega tras más de ocho años de proceso judicial.
+
+Los jurados desestimaron el cargo de asociación ilícita para apropiarse de propiedad intelectual. La fiscalía de Brooklyn acusó a filiales de Huawei de robar secretos industriales entre 2000 y 2020.
+
+Huawei intentó reclutar empleados de empresas estadounidenses de telecomunicaciones para obtener información tecnológica. Con estos datos, desarrolló productos similares a los de sus competidores y los comercializó a precios más bajos.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795574001/noticias/articles/20261125_023319_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 25 Nov 2026 02:34:10 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261125023410</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Senado aprueba presupuesto complementario de RD$54,100 millones]]></title>
     <link>https://noticiassin.com/pais/nacional/2026/11/24/senado-aprueba-presupuesto-complementario-de-rd54100-millones-2176401/</link>
     <description><![CDATA[El Senado de la República Dominicana aprobó en primera lectura un presupuesto complementario que incrementa el gasto público en RD$54,100 millones. Este aumento eleva el déficit fiscal al 4.2 % del PIB.
@@ -1439,19 +1452,6 @@ Hasta el momento, las autoridades no han anunciado detenciones ni imputaciones p
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795024241/noticias/articles/20261118_175041_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 18 Nov 2026 17:54:01 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261118175401</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Juez autoriza peritaje a Eduardo Read Estrella para demostrar si prestó servicios al Senasa]]></title>
-    <link>https://n.com.do/2026/11/17/juez-autoriza-peritaje-a-eduardo-read-estrella-para-demostrar-si-presto-servicios-al-senasa/</link>
-    <description><![CDATA[El juez Deibi Timoteo Peguero autorizó un peritaje para Eduardo Read Estrella, representante de Khersun, S.R.L. y Deleste, S.R.L., para verificar si prestaron servicios de salud contratados por Senasa. La investigación se enmarca en el Caso Cobra.
-
-La defensa había solicitado previamente el peritaje a la Pepca sin respuesta, por lo que acudieron al tribunal. Se designó al médico Alejandro Fonseca Granda para realizar la evaluación técnica, con un plazo de 30 días para presentar el dictamen pericial.
-
-La defensa también solicitó acceso a documentos de la Contraloría para contrastar hallazgos con registros clínicos y administrativos de las empresas.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795023918/noticias/articles/20261118_174518_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 18 Nov 2026 17:46:14 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261118174614</guid>
   </item>
 </channel>
 </rss>
