@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 25 Nov 2026 14:55:37 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 14:58:58 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Presidente de Colombia dice "todos los secuestrados" en un supermercado fueron liberados]]></title>
+    <link>https://elnuevodiario.com.do/presidente-de-colombia-dice-todos-los-secuestrados-en-un-supermercado-fueron-liberados/</link>
+    <description><![CDATA[El presidente de Colombia, Abelardo De la Espriella, anunció la liberación de todos los rehenes secuestrados en un supermercado de Cartagena. El operativo de rescate, realizado la madrugada del miércoles, fue calificado como "absolutamente impecable".
+
+Aunque no se conoce el número exacto de secuestradores y rehenes, la mayoría de las personas liberadas eran mujeres de edad avanzada. Tres hombres fueron detenidos y custodiados por la policía.
+
+El secuestro ocurrió durante el décimo aniversario del acuerdo de paz con las FARC, en un contexto de violencia en el país.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795618678/noticias/articles/20261125_145742_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 25 Nov 2026 14:58:58 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261125145858</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Archivos de USAID revelan programa de US$5 millones contra la desinformación en República Dominicana, Guatemala y Perú]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261125145537</link>
     <description><![CDATA[Entre los documentos internos divulgados por el Gobierno de Estados Unidos figura una ficha del programa «CREDIBLE – Voces de la Juventud», financiado por la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID), con una asignación de US$5 millones para el período fiscal 2022-2026.
@@ -1435,19 +1448,6 @@ La Dirección Nacional del Registro Civil certificó que no existe registro de m
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795099022/noticias/articles/20261119_143659_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 19 Nov 2026 14:37:57 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261119143757</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Indomet prevé aguaceros y tronadas fuertes en la tarde]]></title>
-    <link>https://noticiassin.com/pais/clima/2026/11/19/indomet-preve-aguaceros-y-tronadas-fuertes-en-la-tarde-2172916/</link>
-    <description><![CDATA[El Instituto Dominicano de Meteorología (Indomet) ha pronosticado lluvias pasajeras en la mañana y aguaceros de moderados a fuertes en la tarde de este jueves, acompañados de tormentas eléctricas y ráfagas de viento. Los chubascos matutinos se registrarán en La Altagracia, El Seibo, Hato Mayor, Samaná y María Trinidad Sánchez.
-
-Durante la tarde, los aguaceros afectarán a Monte Plata, La Vega, Santiago, Santiago Rodríguez, Dajabón, Valverde y Puerto Plata. Se recomienda tomar precauciones debido a las temperaturas calurosas y evitar la exposición al sol entre las 11:00 a. m. y las 4:00 p. m.
-
-En la noche, las temperaturas descenderán, especialmente en zonas montañosas. Además, se prevé la formación de un sistema de baja presión al norte de las Bahamas, sin peligro para el país.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795095211/noticias/articles/20261119_133331_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 19 Nov 2026 13:34:05 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261119133405</guid>
   </item>
 </channel>
 </rss>
