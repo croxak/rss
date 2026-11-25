@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 25 Nov 2026 03:09:29 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 03:23:33 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA[Condenan a 20 años de prisión a mayor del Ejército por muerte de Perla Santos en Los Guandules]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/11/24/muerte-de-perla-jokasta-santos-sentencia-a-mayor-del-ejercito/3730733</link>
+    <description><![CDATA[El mayor del Ejército de la República Dominicana, Diego Geraldo Mesa Arismendy, fue condenado a 20 años de prisión por el asesinato de Perla Jokasta Santos Pacheco. El crimen ocurrió el 26 de diciembre de 2025 en el sector Los Guandules.
+
+El tribunal también ordenó que Mesa Arismendy pague una indemnización de cinco millones de pesos a la familia de la víctima. A pesar de admitir parcialmente los hechos, el militar se declaró inocente y sus abogados planean apelar la sentencia.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795576970/noticias/articles/20261125_032249_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 25 Nov 2026 03:23:33 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261125032333</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Estados Unidos reactiva portal de USAID y publica archivos, memorandos y comunicaciones internas de la agencia]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261125030929</link>
     <description><![CDATA[El Gobierno de Estados Unidos reactivó este martes 24 de noviembre el portal oficial de la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID), bajo el título «USAID Files», poniendo a disposición del público documentos internos sobre las operaciones de la institución durante administraciones anteriores.
@@ -1423,19 +1434,6 @@ El plan, organizado desde el sur de Florida, buscaba colocar a un sucesor en la 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795046563/noticias/articles/20261119_000243_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 19 Nov 2026 00:10:04 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261119001004</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Aduanas mantendrá en US$5,500 la gracia navideña para dominicanos en el exterior]]></title>
-    <link>https://www.diariolibre.com/economia/consumo/2026/11/18/gracia-navidena-dominicana-mantiene-monto-de-us5500/3724668</link>
-    <description><![CDATA[La Dirección General de Aduanas (DGA) anunció que mantendrá en US$5,500 el monto de la gracia navideña para 2026. Este beneficio permite a los dominicanos residentes en el exterior ingresar al país artículos libres de impuestos durante las festividades de Navidad y Año Nuevo.
-
-La medida estará vigente del 1 de diciembre de 2026 al 7 de enero de 2027. Los beneficiarios podrán introducir regalos, efectos personales y artículos para el hogar sin pagar impuestos, siempre que su valor no supere el límite establecido.
-
-El director general de Aduanas, Nelson Arroyo, destacó que esto permitirá a los viajeros planificar sus compras y equipaje. El beneficio estará disponible para dominicanos que ingresen por vía aérea o marítima y que tengan al menos seis meses sin visitar el país. La exoneración no aplicará a artículos en cantidades comerciales y se otorgará por familia.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795033172/noticias/articles/20261118_201931_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 18 Nov 2026 20:24:24 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261118202424</guid>
   </item>
 </channel>
 </rss>
