@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Tue, 24 Nov 2026 23:25:05 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 02:27:31 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              <item>
+    <title><![CDATA[Abinader dispone tres días de duelo por fallecimiento de Delio Gómez Ochoa]]></title>
+    <link>https://listindiario.com/la-republica/gobierno/20261124/abinader-dispone-tres-dias-duelo-fallecimiento-delio-gomez-ochoa_931398.html</link>
+    <description><![CDATA[El presidente Luis Abinader ha declarado tres días de duelo oficial, del 25 al 27 de noviembre, por el fallecimiento de Delio Gómez Ochoa, Héroe Nacional y Comandante.
+
+Mediante el decreto 840-36, se ordena que el Ministerio de Defensa rinda los honores militares correspondientes y que la Bandera Nacional ondee a media asta en recintos militares y edificios públicos.
+
+Gómez Ochoa participó en la lucha contra la dictadura de Fulgencio Batista en Cuba y en la expedición de Constanza, Maimón y Estero Hondo en 1959 contra la dictadura de Rafael Leónidas Trujillo en República Dominicana. Fue capturado y torturado por las fuerzas trujillistas, permaneciendo encarcelado hasta 1961.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795573405/noticias/articles/20261125_022324_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 25 Nov 2026 02:27:31 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261125022731</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Fallece Velkys Zouain, esposa del expresidente de la JCE, Julio César Castaños Guzmán]]></title>
     <link>https://7dias.com.do/2026/11/24/fallece-velkys-zouain-esposa-del-expresidente-de-la-jce-julio-cesar-castanos-guzman/</link>
     <description><![CDATA[Velkys Zouain de Castaños, esposa del expresidente de la Junta Central Electoral, Julio César Castaños Guzmán, falleció la madrugada del martes 24 de noviembre tras enfrentar complicaciones de salud.
@@ -1431,21 +1444,6 @@ La visita también forma parte de una gira regional que contempla una reunión c
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795020586/noticias/articles/20261118_164945_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 18 Nov 2026 16:50:33 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261118165033</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Unos 90 mil estudiantes se quedaron sin docencia en Santiago debido al paro de la ADP]]></title>
-    <link>https://www.diariolibre.com/actualidad/educacion/2026/11/18/paro-de-maestros-afecta-a-cerca-de-90-mil-estudiantes-en-santiago/3724269</link>
-    <description><![CDATA[Un paro convocado por la Asociación Dominicana de Profesores dejó sin clases a cerca de 90 mil estudiantes en Santiago. La protesta afectó a 290 centros educativos en varias seccionales de la provincia.
-
-Miguel Jorge, presidente provincial de la ADP, indicó que el paro responde a demandas no atendidas, como el déficit de docentes y problemas de infraestructura. Criticó también los retrasos en la evaluación del desempeño docente.
-
-El director provincial de Educación, Pedro Pablo Marte, cuestionó el paro, afirmando que contradice un acuerdo firmado recientemente entre el gremio y el Ministerio de Educación para atender las demandas de los docentes.
-
-Fuente: Diario Libre - Edward Fernández]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795019539/noticias/articles/20261118_163219_article.jpg" type="image/jpeg"/>
-    <pubDate>Wed, 18 Nov 2026 16:37:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261118163701</guid>
   </item>
 </channel>
 </rss>
