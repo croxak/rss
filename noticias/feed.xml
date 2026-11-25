@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 25 Nov 2026 14:50:09 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 14:55:37 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Archivos de USAID revelan programa de US$5 millones contra la desinformación en República Dominicana, Guatemala y Perú]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261125145537</link>
+    <description><![CDATA[Entre los documentos internos divulgados por el Gobierno de Estados Unidos figura una ficha del programa «CREDIBLE – Voces de la Juventud», financiado por la Agencia de los Estados Unidos para el Desarrollo Internacional (USAID), con una asignación de US$5 millones para el período fiscal 2022-2026.
+
+El programa, que abarcaba República Dominicana, Guatemala y Perú, identificaba como organización ejecutora al International Research & Exchanges Board (IREX) y a Luis Azurduy como contacto de referencia.
+
+Según el documento, la iniciativa tenía como propósito promover la alfabetización digital en determinados sectores de la población, capacitándolos para distinguir entre la desinformación, la información errónea y el periodismo independiente basado en hechos.
+
+La ficha, titulada «Disinformation Activity Data Sheet», no especifica cuánto dinero correspondía a República Dominicana ni identifica a los beneficiarios locales del programa.
+
+El documento forma parte de los archivos internos divulgados a través del portal oficial usaid.gov.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795618518/noticias/articles/20261125_145518_article.png" type="image/png"/>
+    <pubDate>Wed, 25 Nov 2026 14:55:37 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261125145537</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Senado aprueba en segunda lectura proyecto para legalizar armas de fuego irregulares]]></title>
     <link>https://www.diariolibre.com/politica/general/2026/11/24/amnistia-armas-de-fuego-aprobada-por-el-senado-para-legalizar-armas-irregulares/3730635</link>
     <description><![CDATA[El Senado aprobó en segunda lectura un proyecto de ley que concede una amnistía para legalizar armas de fuego irregulares. La iniciativa fue presentada por los senadores Franklin Romero y Rafael Barón Duluc.
@@ -1431,17 +1448,6 @@ En la noche, las temperaturas descenderán, especialmente en zonas montañosas. 
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795095211/noticias/articles/20261119_133331_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 19 Nov 2026 13:34:05 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261119133405</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Salud Pública cierra quirófanos de clínica en Santo Domingo]]></title>
-    <link>https://listindiario.com/la-republica/sector-salud/20261119/salud-publica-cierra-quirofano-clinica-santo-domingo_930667.html</link>
-    <description><![CDATA[El Ministerio de Salud Pública ha ordenado el cierre de los quirófanos del Centro Médico Dr. Escaño en Santo Domingo. Esta medida se tomó después de que una paciente falleciera tras una intervención quirúrgica.
-
-Durante una inspección, se detectaron incumplimientos de la Ley General de Salud, incluyendo modificaciones no autorizadas en la infraestructura y personal no registrado participando en procedimientos. El Ministerio enfatiza que solo el personal aprobado puede atender pacientes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795095030/noticias/articles/20261119_133030_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 19 Nov 2026 13:31:15 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261119133115</guid>
   </item>
 </channel>
 </rss>
