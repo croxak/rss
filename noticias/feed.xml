@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 25 Nov 2026 02:30:27 +0000</lastBuildDate>
+  <lastBuildDate>Wed, 25 Nov 2026 02:32:29 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Senado aprueba presupuesto complementario de RD$54,100 millones]]></title>
+    <link>https://noticiassin.com/pais/nacional/2026/11/24/senado-aprueba-presupuesto-complementario-de-rd54100-millones-2176401/</link>
+    <description><![CDATA[El Senado de la República Dominicana aprobó en primera lectura un presupuesto complementario que incrementa el gasto público en RD$54,100 millones. Este aumento eleva el déficit fiscal al 4.2 % del PIB.
+
+La aprobación se llevó a cabo a pesar de los cuestionamientos de la Fuerza del Pueblo, que expresó objeciones a la modificación presupuestaria. El proyecto ahora espera una segunda lectura para continuar su trámite legislativo.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795573886/noticias/articles/20261125_023125_article.jpg" type="image/jpeg"/>
+    <pubDate>Wed, 25 Nov 2026 02:32:29 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261125023229</guid>
+  </item>
+
+  <item>
     <title><![CDATA[“Legado de Gloria”, el nuevo libro de INICIA que celebra la historia del olimpismo y el paralimpismo dominicanos]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261125023027</link>
     <description><![CDATA[La firma INICIA presentó Legado de Gloria, una publicación dedicada a preservar y difundir las historias y hazañas de los atletas olímpicos y paralímpicos que han representado a la República Dominicana en las grandes competiciones del deporte mundial. El libro recoge sus conquistas, sus trayectorias personales y su aporte al patrimonio deportivo del país.
@@ -1441,19 +1452,6 @@ La defensa también solicitó acceso a documentos de la Contraloría para contra
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795023918/noticias/articles/20261118_174518_article.jpg" type="image/jpeg"/>
     <pubDate>Wed, 18 Nov 2026 17:46:14 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261118174614</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Gobierno pagará doble sueldo desde el 3 de diciembre a empleados públicos]]></title>
-    <link>https://noticiassin.com/pais/pais-economia/2026/11/18/gobierno-pagara-doble-sueldo-desde-el-3-de-diciembre-a-empleados-publicos-2172320/</link>
-    <description><![CDATA[El Gobierno dominicano iniciará el pago del doble sueldo a partir del 3 de diciembre para servidores públicos, pensionados, militares y policías. El desembolso será de más de RD$35,619 millones, con un incremento del 3.5 % respecto al año pasado.
-
-Los primeros en recibir el pago serán los pensionados, militares y policías. El sector privado también contribuirá con RD$68 mil millones por el salario número 13.
-
-Se exhorta a los ciudadanos a usar el doble sueldo de manera prudente y a tomar medidas de seguridad al realizar transacciones.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795023292/noticias/articles/20261118_173451_article.png" type="image/png"/>
-    <pubDate>Wed, 18 Nov 2026 17:40:37 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261118174037</guid>
   </item>
 </channel>
 </rss>
