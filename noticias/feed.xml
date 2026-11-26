@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Wed, 25 Nov 2026 23:33:32 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 02:30:12 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Evalúan daños a arrecife en RD por encallamiento de buque de bandera cubana]]></title>
+    <link>https://eldia.com.do/evaluan-danos-a-arrecife-en-rd-por-encallamiento-de-buque-de-bandera-cubana/</link>
+    <description><![CDATA[El Ministerio de Medio Ambiente de República Dominicana investiga los daños a un arrecife de coral tras el encallamiento del buque cubano Nova Orion en la playa Costámbar, Puerto Plata. La embarcación sufrió una avería el 17 de noviembre, quedando a la deriva y encallando en una zona de arrecifes.
+
+Técnicos realizan inspecciones submarinas y levantamientos con drones para evaluar el impacto ambiental. Se identificaron varias especies de coral, erizos y algas en el área afectada.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795660163/noticias/articles/20261126_022923_article.webp" type="image/webp"/>
+    <pubDate>Thu, 26 Nov 2026 02:30:12 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261126023012</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Banco Popular celebra con clientes corporativos el concierto de Navidad “Molina y sus Amigos”]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261125233332</link>
     <description><![CDATA[El Banco Popular Dominicano celebró su tradicional concierto de Navidad para clientes corporativos y relacionados con la presentación de “Molina y sus Amigos”, una producción artística encabezada por el maestro José Antonio Molina junto a la Orquesta Sinfónica Nacional, que reunió a más de 1,300 invitados en una velada dedicada a celebrar los vínculos construidos durante décadas y compartir una mirada optimista sobre el futuro de la República Dominicana.
@@ -1461,19 +1472,6 @@ Se incautaron bienes por RD$3,112,639,600, incluyendo vehículos, armas y dinero
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795123002/noticias/articles/20261119_211632_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 19 Nov 2026 21:31:12 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261119213112</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Cámara de Diputados aprueba urgencia presupuesto 2026]]></title>
-    <link>https://noticiassin.com/pais/congreso-nacional/2026/11/19/camara-de-diputados-aprueba-urgencia-presupuesto-2026-2173268/</link>
-    <description><![CDATA[La Cámara de Diputados aprobó de urgencia el presupuesto complementario de 2026, incrementando el gasto público en más de RD$54 mil millones y elevando el déficit fiscal proyectado de 3.24 % a 4.2 % del PIB. Esta medida busca ajustar las finanzas públicas ante el encarecimiento del petróleo, la energía y otras materias primas.
-
-Legisladores de la oposición criticaron la rapidez de la aprobación y expresaron preocupación por el aumento del déficit fiscal y el endeudamiento público. Francisco Javier Paulino, presidente de la comisión especial, defendió la transparencia del Gobierno en el manejo de los recursos.
-
-La propuesta será remitida al Senado para continuar su trámite legislativo.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795122876/noticias/articles/20261119_211436_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 19 Nov 2026 21:15:23 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261119211523</guid>
   </item>
 </channel>
 </rss>
