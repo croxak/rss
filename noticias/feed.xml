@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 26 Nov 2026 02:30:12 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 02:41:06 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Al menos diez muertos y siete heridos en un nuevo ataque de las bandas armadas en Haití]]></title>
+    <link>https://noticiassin.com/mundo/2026/11/26/ataque-de-bandas-en-haiti-deja-diez-muertos-en-kenscoff-2177133/</link>
+    <description><![CDATA[Un ataque de bandas armadas en Kenscoff, Haití, dejó al menos diez muertos y siete heridos. El incidente ocurrió en la zona de Clemenceau, donde hombres armados atacaron a campesinos en un mercado informal.
+
+La Policía Nacional de Haití, junto con la Fuerza de Tarea de Vectus Global, está llevando a cabo operaciones para localizar a los responsables. Este ataque se produce tras la instalación de bases operativas avanzadas para combatir las bandas, financiadas por la Unión Europea y ejecutadas por la OEA.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795660595/noticias/articles/20261126_023634_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 26 Nov 2026 02:41:06 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261126024106</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Evalúan daños a arrecife en RD por encallamiento de buque de bandera cubana]]></title>
     <link>https://eldia.com.do/evaluan-danos-a-arrecife-en-rd-por-encallamiento-de-buque-de-bandera-cubana/</link>
     <description><![CDATA[El Ministerio de Medio Ambiente de República Dominicana investiga los daños a un arrecife de coral tras el encallamiento del buque cubano Nova Orion en la playa Costámbar, Puerto Plata. La embarcación sufrió una avería el 17 de noviembre, quedando a la deriva y encallando en una zona de arrecifes.
@@ -1459,19 +1470,6 @@ Rubio destacó la participación de la Policía Nacional de Haití, la Unidad An
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795127333/noticias/articles/20261119_222853_article.jpg" type="image/jpeg"/>
     <pubDate>Thu, 19 Nov 2026 22:29:52 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261119222952</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Operación Rompeolas deja 21 arrestados y ocupaciones por más de RD$3,112 millones contra red de narcotráfico]]></title>
-    <link>https://ensegundos.do/2026/11/19/operacion-rompeolas-deja-21-arrestados-y-ocupaciones-por-mas-de-rd3112-millones-contra-red-de-narcotrafico/</link>
-    <description><![CDATA[El Ministerio Público y la DNCD ejecutaron la Operación Rompeolas, arrestando a 21 personas y realizando 65 allanamientos en una acción conjunta contra el narcotráfico y el lavado de activos. La operación se llevó a cabo en varias provincias de República Dominicana con cooperación de Estados Unidos.
-
-La red recibía drogas de La Guajira colombiana y las enviaba a Puerto Rico, Estados Unidos y Europa. Se identificaron roles específicos dentro de la organización, incluyendo dirección, logística y lavado de activos.
-
-Se incautaron bienes por RD$3,112,639,600, incluyendo vehículos, armas y dinero en efectivo. Los detenidos serán presentados ante los tribunales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795123002/noticias/articles/20261119_211632_article.jpg" type="image/jpeg"/>
-    <pubDate>Thu, 19 Nov 2026 21:31:12 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261119213112</guid>
   </item>
 </channel>
 </rss>
