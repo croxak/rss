@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 26 Nov 2026 15:10:54 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 15:41:32 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Edmundo González anuncia que vuelve a Venezuela para sumarse a una peregrinación el 5 de diciembre]]></title>
+    <link>https://elpais.com/america/2026-11-26/edmundo-gonzalez-anuncia-que-vuelve-a-venezuela-para-sumarse-a-una-peregrinacion-el-5-de-diciembre.html</link>
+    <description><![CDATA[Edmundo González, político opositor venezolano, ha anunciado su regreso a Venezuela después de más de dos años de exilio en España. Planea estar en su país para la peregrinación de la Virgen de Coromoto el 5 de diciembre en Guanare.
+
+González fue candidato presidencial en 2024 y proclamado vencedor por la oposición. Su retorno se produce tras la salida de Nicolás Maduro y en un contexto de transición política en Venezuela.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795707639/noticias/articles/20261126_154038_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 26 Nov 2026 15:41:32 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261126154132</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Luis Abinader le aclara a Camila García que nunca ha tenido contacto con "El Chey" y le garantiza que habrá justicia]]></title>
     <link>https://elnuevodiario.com.do/luis-abinader-le-aclara-a-camila-garcia-que-nunca-ha-tenido-contacto-con-el-chey-y-le-garantiza-que-habra-justicia/</link>
     <description><![CDATA[El presidente Luis Abinader llamó a la periodista Camila García para aclarar que nunca ha tenido comunicación con Eliezer Salvador, "El Chey". Abinader aseguró que habrá justicia en el caso del "atentado" contra el hermano de García en 2025.
@@ -1445,21 +1456,6 @@ Melissa Medina, de 22 años, falleció el 17 de noviembre en una torre del Distr
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795137664/noticias/articles/20261120_012104_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 20 Nov 2026 01:21:47 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261120012147</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Reportan captura en Sosúa de ruso buscado por presuntos sobornos a funcionarios de su país]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261120011701</link>
-    <description><![CDATA[Un ciudadano ruso identificado como Aleksandr Shmidt, de 68 años, fue detenido en Sosúa tras ser requerido por las autoridades de su país por su presunta participación en el ofrecimiento y entrega de sobornos a funcionarios públicos, según información atribuida a la Policía Nacional.
-
-La captura se produjo durante un allanamiento en un apartamento del sector El Batey, mediante la orden judicial 2026-AJ0097802. Participaron agentes de INTERPOL Santo Domingo, representantes del Ministerio Público y miembros de las unidades policiales locales.
-
-El requerimiento estaría relacionado con presuntos pagos a funcionarios de la Cámara de Auditoría de la región rusa de Nizhni Nóvgorod. Los hechos investigados habrían ocurrido entre noviembre de 2022 y agosto de 2023.
-
-Durante la intervención, las autoridades ocuparon un pasaporte ruso, otro israelí, una cédula de identidad para extranjeros y un teléfono celular.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795137376/noticias/articles/20261120_011615_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 20 Nov 2026 01:17:01 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261120011701</guid>
   </item>
 </channel>
 </rss>
