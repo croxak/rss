@@ -7,14 +7,27 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Thu, 26 Nov 2026 16:57:57 +0000</lastBuildDate>
+  <lastBuildDate>Thu, 26 Nov 2026 17:59:38 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <item>
+    <title><![CDATA["Ese dato es falso": Guido Gómez niega que le hayan impedido viajar a Estados Unidos]]></title>
+    <link>https://elnacional.com.do/nacionales/ese-dato-falso-guido-gomez-niega-le-hayan-impedido-viajar-estados-unidos_587271.html</link>
+    <description><![CDATA[Guido Gómez Mazara, presidente del Indotel, desmintió haber tenido problemas para ingresar a Estados Unidos, refutando las afirmaciones del periodista Julio Martínez Pozo. Gómez Mazara aseguró que viaja regularmente a Washington y que no enfrenta restricciones migratorias.
+
+La embajadora de Estados Unidos, Leah Campos, cuestinó a Gómez Mazara por no mencionar una reunión que tuvieron antes de que Indotel firmara un contrato con Viettel. Indotel ha firmado contratos de concesión con Claro Dominicana y Viettel Dominicana para asignar frecuencias del espectro radioeléctrico.
+
+Fuente: El Nacional - Ronny Mateo]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795715837/noticias/articles/20261126_175717_article.jpg" type="image/jpeg"/>
+    <pubDate>Thu, 26 Nov 2026 17:59:38 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261126175938</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Telemicro suspende fiesta de fin de año tras denuncias por deterioro de estructura en Güibia]]></title>
     <link>https://elnuevodiario.com.do/telemicro-suspende-fiesta-de-fin-de-ano-tras-denuncias-por-deterioro-de-estructura-en-guibia/</link>
     <description><![CDATA[El Grupo de Medios Telemicro ha decidido suspender su tradicional fiesta de fin de año en el Malecón de Santo Domingo. La medida se debe a las condiciones inadecuadas del área donde se instala la tarima principal, cerca de la Plaza Güibia.
@@ -1443,19 +1456,6 @@ Kirsten Davies, del Departamento de Defensa, asumirá temporalmente las funcione
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795149068/noticias/articles/20261120_043108_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 20 Nov 2026 04:31:55 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261120043155</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Red de narcotráfico usaba lanchas rápidas para enviar drogas a Puerto Rico, según el MP]]></title>
-    <link>https://www.diariolibre.com/actualidad/nacional/2026/11/19/mp-revela-como-operaba-la-red-de-narcotrafico-desmantelada-en-higuey/3726148</link>
-    <description><![CDATA[El Ministerio Público desmanteló una red de narcotráfico que utilizaba lanchas rápidas para enviar drogas a Puerto Rico. La operación Rompeolas reveló que la organización operaba desde Higüey y Miches.
-
-Se arrestaron 21 personas, entre ellas el regidor de Higüey, Willy Manuel Zorrilla Domínguez, y Fausto Candelario Ortiz, identificado como el líder de la red. Las autoridades incautaron vehículos, armas y dinero en efectivo.
-
-La intervención contó con la cooperación de Estados Unidos y movilizó a más de 80 fiscales y 650 agentes. Se ocuparon bienes por un valor de 3,112,639,600 pesos.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795148385/noticias/articles/20261120_041944_article.jpg" type="image/jpeg"/>
-    <pubDate>Fri, 20 Nov 2026 04:22:29 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261120042229</guid>
   </item>
 </channel>
 </rss>
