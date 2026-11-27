@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 27 Nov 2026 20:24:25 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 23:06:44 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+    <title><![CDATA[Presidencia aclara que imagen de Abinader junto a Eliezer Salvador es un fotomontaje]]></title>
+    <link>https://www.diariolibre.com/politica/gobierno/2026/11/27/presidencia-desmiente-fotomontaje-de-abinader-con-eliezer-salvador/3733806</link>
+    <description><![CDATA[Félix Reyna, vocero de la Presidencia, informó que la imagen del presidente Luis Abinader junto a Eliezer Salvador es un fotomontaje. La foto original fue tomada el 15 de marzo de 2026 en Güibia, durante el Clásico Mundial de Béisbol. Reyna advirtió sobre las consecuencias legales de manipular imágenes.
+
+El presidente Abinader negó tener vínculos con Salvador, conocido como Chey, y aseguró no haber intervenido en procesos judiciales. Salvador ha estado en el centro de atención por su relación con Melissa Medina antes de su fallecimiento. Recientemente, acudió a la Fiscalía del Distrito Nacional para responder preguntas sobre el caso.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795820742/noticias/articles/20261127_230541_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 27 Nov 2026 23:06:44 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261127230644</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Corte confirma condena de RD$7.5 millones contra la Procuraduría General por no devolver un celular]]></title>
     <link>https://www.diariolibre.com/actualidad/justicia/2026/11/26/confirman-condena-de-rd75-millones-contra-la-procuraduria-general/3732652</link>
     <description><![CDATA[La Corte de Apelación del Distrito Nacional confirmó la condena de la Procuraduría General a pagar 7.5 millones de pesos por no devolver un celular Samsung S3.
@@ -1465,19 +1476,6 @@ Kilgour fue arrestado y posteriormente obtuvo libertad bajo fianza. La cobertura
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795273895/noticias/articles/20261121_151134_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 21 Nov 2026 15:12:50 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261121151250</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Hackers atacan el Departamento de Agricultura de Estados Unidos y el FBI]]></title>
-    <link>https://www.diariolibre.com/usa/actualidad/2026/11/21/departamento-de-agricultura-y-el-fbi-sufren-ataques-ciberneticos/3727535</link>
-    <description><![CDATA[El Departamento de Agricultura de Estados Unidos y el FBI han sido blanco de ataques cibernéticos, según reportes de NBC News y CNN. Los responsables aún no han sido identificados.
-
-El USDA informó que un sistema de pagos a agricultores fue atacado, lo que podría comprometer información sensible. Por su parte, el FBI investiga una intrusión en el Centro Nacional de Información Criminal, siendo esta la segunda desde septiembre.
-
-La Casa Blanca ha despedido a su jefe de ciberseguridad, Sean Cairncross, en medio de críticas por los incidentes tecnológicos recientes.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795273723/noticias/articles/20261121_150843_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 21 Nov 2026 15:10:44 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261121151044</guid>
   </item>
 </channel>
 </rss>
