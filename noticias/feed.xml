@@ -7,14 +7,25 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 27 Nov 2026 15:47:17 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 17:09:56 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          <item>
+    <title><![CDATA[Abinader encabezará este lunes el inicio de la construcción de la Autopista del Ámbar]]></title>
+    <link>https://www.diariolibre.com/politica/gobierno/2026/11/27/abinader-iniciara-este-lunes-construccion-de-la-autopista-del-ambar/3733382</link>
+    <description><![CDATA[El presidente Luis Abinader dará inicio a la construcción de la Autopista del Ámbar este lunes 30 de noviembre. Esta obra conectará Santiago y Puerto Plata, impulsando el desarrollo económico de la región Norte.
+
+El ministro de la Presidencia, José Ignacio Paliza, informó que se realizarán dos ceremonias, una en Puerto Plata a la 1:00 p.m. y otra en Santiago a las 3:00 p.m. La autopista busca mejorar la conexión y dinamizar sectores como el turismo y el comercio.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795799006/noticias/articles/20261127_170326_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 27 Nov 2026 17:09:56 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261127170956</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Informes jurídicos respaldan transparencia y legalidad de adjudicaciones de espectro a Viettel y Claro]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261127154717</link>
     <description><![CDATA[Tres informes jurídicos, realizados por reconocidos juristas, respaldan la legalidad de las adjudicaciones de frecuencias del espectro radioeléctrico a Viettel y Claro, por parte del Instituto Dominicano de las Telecomunicaciones (INDOTEL).
@@ -1473,19 +1484,6 @@ La Policía de Moengo abrió una investigación para esclarecer las circunstanci
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795272541/noticias/articles/20261121_144900_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 21 Nov 2026 14:50:32 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261121145032</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Haití acuerda construir tres cárceles con empresas salvadoreñas tras visita al Cecot]]></title>
-    <link>https://www.diariolibre.com/mundo/america-latina/2026/11/20/haiti-acuerda-construir-tres-carceles-con-empresas-salvadorenas/3727303</link>
-    <description><![CDATA[Haití y El Salvador han firmado un acuerdo para construir tres nuevas cárceles en territorio haitiano. La iniciativa contará con la participación de una empresa salvadoreña y una compañía local.
-
-El ministro haitiano de Justicia, Patrick Pélissier, anunció el acuerdo tras visitar el Centro de Confinamiento del Terrorismo en El Salvador. La construcción de la primera cárcel comenzará pronto, aunque no se han dado detalles sobre su ubicación o costo.
-
-La cooperación entre Haití y El Salvador también abarca la capacitación de policías y magistrados, así como el fortalecimiento de investigaciones criminales.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795271988/noticias/articles/20261121_143948_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 21 Nov 2026 14:40:47 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261121144047</guid>
   </item>
 </channel>
 </rss>
