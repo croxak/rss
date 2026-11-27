@@ -7,14 +7,31 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 27 Nov 2026 13:36:48 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 15:28:19 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      <item>
+    <title><![CDATA[Hackers vulneraron la principal plataforma de computación en la nube de la Fuerza Aérea de EE. UU., asegura Reuters]]></title>
+    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261127152819</link>
+    <description><![CDATA[Hackers vulneraron la plataforma de computación en la nube insignia de la Fuerza Aérea de Estados Unidos, Cloud One , afirmó Reuters la mañana de este viernes 27 de noviembre. De acuerdo con el medio, esto “podría poner en peligro una gran franja de datos tácticos, de personal y logísticos confidenciales”.
+
+La violación a la plataforma se descubrió en el último mes más o menos durante el trabajo para actualizar el sistema, manifestaron a Reuters tres personas familiarizadas con el caso.
+
+En un comunicado a Reuters, la Fuerza Aérea estadounidense dijo que "no comenta sobre la postura de seguridad, las vulnerabilidades o el estado operativo de redes y sistemas específicos. Continuamente tomamos medidas prudentes para proteger la información, los sistemas y las capacidades de la misión del Departamento (de la Fuerza Aérea)".
+
+De acuerdo con el medio, el Cloud One fue iniciado en 2017 y estaba destinado a servir como una ventanilla única para las necesidades IT de la Fuerza Aérea, combinando los recursos de cuatro operadores, Microsoft, Amazon, Oracle y Alphabet, para impulsar decenas de aplicaciones, incluidas las que administran los datos de personal y el pago o la logística y el mantenimiento.
+
+Cloud One se encuentra entre las plataformas de nube más grandes de los militares estadounidenses, según dos de las fuentes. "Una brecha aquí es un gran problema", dijo una de las fuentes citadas por Reuters.]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795793250/noticias/articles/20261127_152730_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 27 Nov 2026 15:28:19 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261127152819</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Un buque de bandera panameña naufraga a unas tres millas de la costa oeste de Cuba]]></title>
     <link>https://noticiassin.com/mundo/mundo-general/2026/11/27/rescatan-a-13-del-naufragio-de-un-buque-panameno-en-cuba-2177872/</link>
     <description><![CDATA[El buque Halima, de bandera panameña, naufragó cerca de la bahía de Cabañas, en la provincia Artemisa, Cuba. De los 16 tripulantes, 13 han sido rescatados, uno de ellos fallecido.
@@ -1455,21 +1472,6 @@ Más de 2,000 militares salvadoreños están desplegados en Haití para buscar a
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795271887/noticias/articles/20261121_143807_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 21 Nov 2026 14:39:01 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261121143901</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Policía solo ha entrevistado a la acompañante de Melissa Medina y vigilante de la torre donde murió]]></title>
-    <link>https://www.diariolibre.com/actualidad/sucesos/2026/11/20/nuevas-informaciones-sobre-la-muerte-de-la-empresaria-melissa-medina/3727176</link>
-    <description><![CDATA[La Policía Nacional ha entrevistado a Mariana Michelena Pascual y a un vigilante en relación con la muerte de Melissa Medina. El vocero Diego Pesqueira aclaró que el vigilante no está involucrado en el hecho. Aún no se ha entrevistado a Eliezer Salvador, quien estaba presente en el apartamento.
-
-Melissa Medina falleció el 17 de noviembre en un apartamento en Piantini. Mariana Pascual relató que Medina mostró malestar tras un encuentro con Salvador. A pesar de los intentos de reanimación, Medina fue llevada a una clínica, donde se confirmó su muerte.
-
-La fiscal Rosalba Ramos informó que el Ministerio Público espera los resultados de la autopsia para determinar la causa de la muerte de Medina. Se cuenta con información preliminar sobre una falla cardíaca.
-
-Fuente: Diario Libre - Luz Ogando]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795218815/noticias/articles/20261120_235335_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 21 Nov 2026 00:00:02 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261121000002</guid>
   </item>
 </channel>
 </rss>
