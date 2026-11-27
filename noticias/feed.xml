@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 27 Nov 2026 02:38:00 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 13:35:09 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Hallan muertos a una joven y a su hijo de dos años en apartamento en Los Ríos]]></title>
+    <link>https://www.diariolibre.com/actualidad/sucesos/2026/11/26/hallan-muertos-a-una-joven-de-y-a-su-hijo-de-dos-anos-en-los-rios-/3732855</link>
+    <description><![CDATA[Una joven de 29 años y su hijo de dos años fueron encontrados muertos en su apartamento en Los Ríos, Distrito Nacional. La mujer, identificada como Ovanny Quezada, fue vista por última vez el martes por la noche.
+
+Las autoridades, incluyendo el 9-1-1, los bomberos y la Dicrim, investigan las circunstancias de las muertes. Vecinos notaron un olor extraño y observaron señales de un incendio en la habitación de la joven.
+
+La comunidad sospecha de un hecho violento, aunque no ha sido confirmado. Quezada era descrita como una joven alegre y buena madre.
+
+Fuente: Diario Libre - Harolyn Gavilán]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795786459/noticias/articles/20261127_133419_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 27 Nov 2026 13:35:09 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261127133509</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Arrestan al propietario de “Manola TV” vinculado a delitos de alta tecnología]]></title>
     <link>https://eldia.com.do/arrestan-al-propietario-de-manola-tv-vinculado-a-delitos-de-alta-tecnologia/</link>
     <description><![CDATA[Junior Concepción Alcántara, dueño de "Manola TV", fue arrestado por el Ministerio Público por violaciones a la Ley 53-07 sobre Crímenes y Delitos de Alta Tecnología. La investigación se inició tras una querella de Marino Zapete.
@@ -1477,19 +1492,6 @@ Desde hace más de 35 años, el Banco Popular acompaña el crecimiento de la ind
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795215764/noticias/articles/20261120_230243_article.jpg" type="image/jpeg"/>
     <pubDate>Fri, 20 Nov 2026 23:03:43 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261120230343</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[DNCD incauta 225 paquetes de presunta cocaína en Baní]]></title>
-    <link>https://noticiassin.com/pais/provincias/2026/11/20/dncd-incauta-225-paquetes-de-presunta-cocaina-en-bani-2174195/</link>
-    <description><![CDATA[La Dirección Nacional de Control de Drogas (DNCD), en colaboración con las Fuerzas Armadas y el Ministerio Público, incautó 225 paquetes de presunta cocaína en las costas de Baní, provincia Peravia. Tres hombres fueron detenidos durante la operación.
-
-La operación incluyó una persecución de una embarcación tipo Go Fast procedente de Sudamérica. Los detenidos son dos venezolanos y un dominicano. Se encontraron nueve pacas con los paquetes, además de garrafones de combustible, teléfonos celulares, dispositivos GPS, agua y alimentos.
-
-Los detenidos están bajo la Jurisdicción de Atención Permanente de Peravia, y los paquetes fueron enviados al Inacif para determinar el tipo de sustancia y su peso exacto.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795210832/noticias/articles/20261120_214032_article.webp" type="image/webp"/>
-    <pubDate>Fri, 20 Nov 2026 21:41:12 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261120214112</guid>
   </item>
 </channel>
 </rss>
