@@ -7,14 +7,29 @@
   <link>https://eltestigo.com</link>
   <description>Noticias de El Testigo</description>
   <language>es</language>
-  <lastBuildDate>Fri, 27 Nov 2026 20:03:43 +0000</lastBuildDate>
+  <lastBuildDate>Fri, 27 Nov 2026 20:24:25 +0000</lastBuildDate>
   <atom:link rel="self" href="https://croxak.github.io/rss/noticias/feed.xml" type="application/rss+xml"/>
   <image>
     <url>https://eltestigo.com/logo.png</url>
     <title>El Testigo — Noticias</title>
     <link>https://eltestigo.com</link>
   </image>
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                <item>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  <item>
+    <title><![CDATA[Corte confirma condena de RD$7.5 millones contra la Procuraduría General por no devolver un celular]]></title>
+    <link>https://www.diariolibre.com/actualidad/justicia/2026/11/26/confirman-condena-de-rd75-millones-contra-la-procuraduria-general/3732652</link>
+    <description><![CDATA[La Corte de Apelación del Distrito Nacional confirmó la condena de la Procuraduría General a pagar 7.5 millones de pesos por no devolver un celular Samsung S3.
+
+La Procuraduría había apelado la decisión, argumentando que la multa diaria de RD$20,000 era desproporcionada. La Corte rechazó este argumento, señalando que la proporcionalidad de la multa se mide por la efectividad de la orden judicial y el retraso en su cumplimiento.
+
+La Corte también destacó que la Procuraduría debe cumplir con las decisiones judiciales y que las dificultades administrativas no justifican el incumplimiento.
+
+Fuente: Diario Libre - Marisol Aquino]]></description>
+    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795810984/noticias/articles/20261127_202303_article.jpg" type="image/jpeg"/>
+    <pubDate>Fri, 27 Nov 2026 20:24:25 +0000</pubDate>
+    <guid isPermaLink="false">eltestigo-news-20261127202425</guid>
+  </item>
+
+  <item>
     <title><![CDATA[Leah Campos pide a RD exigir a Viettel el uso exclusivo de tecnología confiable y rechaza acusaciones de injerencia]]></title>
     <link>https://eltestigo.com/?rss_id=eltestigo-news-20261127200343</link>
     <description><![CDATA[La embajadora de Estados Unidos en República Dominicana, Leah F. Campos, reiteró que su gobierno recomienda a las autoridades dominicanas exigir a Viettel el uso exclusivo de tecnología proveniente de países considerados confiables, específicamente aquellos que forman parte del Convenio de Budapest.
@@ -1463,21 +1478,6 @@ La Casa Blanca ha despedido a su jefe de ciberseguridad, Sean Cairncross, en med
     <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795273723/noticias/articles/20261121_150843_article.jpg" type="image/jpeg"/>
     <pubDate>Sat, 21 Nov 2026 15:10:44 +0000</pubDate>
     <guid isPermaLink="false">eltestigo-news-20261121151044</guid>
-  </item>
-
-  <item>
-    <title><![CDATA[Reportan condena de 18 meses contra hombre identificado como dominicano por agresión con machete en Guadalupe]]></title>
-    <link>https://eltestigo.com/?rss_id=eltestigo-news-20261121150433</link>
-    <description><![CDATA[Un hombre identificado como dominicano fue condenado a 18 meses de prisión efectiva por agredir con un machete a otro hombre en Pointe-à-Pitre, territorio francés del Caribe, según informó la emisora RCI.
-
-El sentenciado fue identificado por el medio como Luis Ricardo Polimon, de 28 años. La publicación señala que el tribunal también le impuso una prohibición de entrada al territorio francés durante diez años.
-
-De acuerdo con la reconstrucción presentada en la cobertura judicial, el hecho ocurrió el 4 de noviembre, alrededor de las 10:00 de la noche, cuando Polimon encontró a su expareja conversando con un hombre.
-
-Tras un intercambio de insultos, habría buscado un machete en su vehículo y atacado al acompañante. La víctima sufrió heridas en un brazo y una mano, incluida una lesión en un tendón, por las que recibió una incapacidad médica de 45 días.]]></description>
-    <enclosure url="https://res.cloudinary.com/dqbrvalg6/image/upload/v1795273415/noticias/articles/20261121_150334_article.jpg" type="image/jpeg"/>
-    <pubDate>Sat, 21 Nov 2026 15:04:33 +0000</pubDate>
-    <guid isPermaLink="false">eltestigo-news-20261121150433</guid>
   </item>
 </channel>
 </rss>
